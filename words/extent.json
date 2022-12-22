@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ɪkˈstɛnt/"
+    ],
+    "synonyms": [
+        "spread",
+        "capaciousness",
+        "writ",
+        "length",
+        "range"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The space, amount, or degree to which a thing extends; size; length; breadth.",
+            "vi": "Không gian, số lượng hoặc mức độ mà một thứ mở rộng; kích thước; chiều dài; bề rộng."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Extended.",
+            "vi": "(lỗi thời) Mở rộng."
+        },
+        {
+            "pos": "idiom",
+            "en": "to some extent  somewhat",
+            "vi": "ở một mức độ nào đó có phần"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That was the extent of their conversation before Señor Medena cut in.",
+            "vi": "Đó là mức độ của cuộc trò chuyện của họ trước khi Señor Medena cắt ngang."
+        },
+        {
+            "en": "Extended body has no limits to its extent, though the power of God has divided it in lines discriminating its parts in endless ways.",
+            "vi": "Cơ thể mở rộng không có giới hạn ở mức độ của nó, mặc dù sức mạnh của Chúa đã phân chia nó thành các ranh giới phân biệt các bộ phận của nó theo những cách vô tận."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "mức độ"
+}

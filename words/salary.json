@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈsæl(ə)ri/"
+    ],
+    "synonyms": [
+        "wage",
+        "wages",
+        "stipendiary",
+        "emolument",
+        "compensation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A fixed amount of money paid to a worker, usually measured on a monthly or annual basis, not hourly, as wages. Implies a degree of professionalism and/or autonomy.",
+            "vi": "Một khoản tiền cố định được trả cho người lao động, thường được tính hàng tháng hoặc hàng năm, không phải hàng giờ, dưới dạng tiền lương. Hàm ý mức độ chuyên nghiệp và / hoặc quyền tự chủ."
+        },
+        {
+            "pos": "verb",
+            "en": "To pay on the basis of a period of a week or longer, especially to convert from another form of compensation.",
+            "vi": "Thanh toán trên cơ sở thời hạn một tuần hoặc lâu hơn, đặc biệt là chuyển đổi từ hình thức bồi thường khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Saline.",
+            "vi": "(lỗi thời) Nước muối."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was a position open at a private home, but the salary had to be wrong.",
+            "vi": "Có một vị trí mở tại một nhà riêng, nhưng mức lương phải sai."
+        },
+        {
+            "en": "He named his salary, a figure that surprised Dean.",
+            "vi": "Anh ta đặt tên cho mức lương của mình, một con số khiến Dean ngạc nhiên."
+        }
+    ],
+    "words_form": [
+        "salaries"
+    ],
+    "meaning_vi": "tiền lương"
+}

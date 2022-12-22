@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kɪk/"
+    ],
+    "synonyms": [
+        "boot",
+        "punt",
+        "fillip",
+        "jar",
+        "jolt"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a kick is a hit with the foot.",
+            "vi": "Định nghĩa của một cú đá là một cú đánh bằng chân."
+        },
+        {
+            "pos": "verb",
+            "en": "To strike with the foot.",
+            "vi": "Để tấn công bằng chân."
+        },
+        {
+            "pos": "idiom",
+            "en": "(vulgar slang) kick ass  To take forceful or harsh measures to achieve an objective.",
+            "vi": "(tiếng lóng thô tục) kick ass Để thực hiện các biện pháp mạnh mẽ hoặc thô bạo để đạt được mục tiêu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Finding it locked, she began to kick and scream all over again.",
+            "vi": "Thấy nó bị khóa, cô ấy lại bắt đầu đá và la hét."
+        },
+        {
+            "en": "I like to kick my large ball.",
+            "vi": "Tôi thích đá quả bóng lớn của mình."
+        }
+    ],
+    "words_form": [
+        "kicked",
+        "kicking",
+        "kicks"
+    ],
+    "meaning_vi": "đá"
+}

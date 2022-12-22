@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈplɔd/"
+    ],
+    "synonyms": [
+        "cheer",
+        "praise",
+        "clap",
+        "commend",
+        "root"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To show approval of by clapping, cheering, etc.",
+            "vi": "Để thể hiện sự tán thành bằng cách vỗ tay, cổ vũ, v.v."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) Applause; applauding.",
+            "vi": "(lỗi thời) Vỗ tay; vỗ tay tán thưởng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I applaud your anonymity.",
+            "vi": "Tôi hoan nghênh sự ẩn danh của bạn."
+        },
+        {
+            "en": "I can only applaud this man's ability to deduce.",
+            "vi": "Tôi chỉ có thể tán thưởng khả năng suy luận của người đàn ông này."
+        }
+    ],
+    "words_form": [
+        "applauded",
+        "applauding",
+        "applauds"
+    ],
+    "meaning_vi": "hoan nghênh"
+}

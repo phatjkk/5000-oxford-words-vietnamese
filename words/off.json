@@ -1,0 +1,79 @@
+{
+    "spelling": [
+        "/ɔf/",
+        "/ɑf/"
+    ],
+    "synonyms": [
+        "beside",
+        "near",
+        "divergent",
+        "unsound",
+        "ahead"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "So as to be in a state of sudden violent or loud activity.",
+            "vi": "Để ở trong trạng thái đột ngột hoạt động bạo lực hoặc ồn ào."
+        },
+        {
+            "pos": "adjective",
+            "en": "Not on, attached, or connected.",
+            "vi": "Không bật, đính kèm hoặc kết nối."
+        },
+        {
+            "pos": "preposition",
+            "en": "So as to be removed or distant from.",
+            "vi": "Vì vậy, để được loại bỏ hoặc xa."
+        },
+        {
+            "pos": "verb",
+            "en": "To go away; leave.",
+            "vi": "Để đi xa; rời bỏ."
+        },
+        {
+            "pos": "noun",
+            "en": "The fact or condition of being off.",
+            "vi": "Thực tế hoặc điều kiện của việc tắt."
+        },
+        {
+            "pos": "interjection",
+            "en": "Go away; stay away.",
+            "vi": "Biến đi; tránh xa."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Offered.",
+            "vi": "Ngỏ ý."
+        },
+        {
+            "pos": "affix",
+            "en": "A contest of skill in a (specified) activity or field, esp. one in which finalists compete, as by preparing their own version of a recipe, to determine a champion.",
+            "vi": "Một cuộc thi về kỹ năng trong một hoạt động hoặc lĩnh vực (được chỉ định), đặc biệt. một trong đó những người vào chung kết cạnh tranh, bằng cách chuẩn bị phiên bản công thức của riêng họ, để xác định nhà vô địch."
+        },
+        {
+            "pos": "prefix",
+            "en": "Away from; off.",
+            "vi": "Đi xa; tắt."
+        },
+        {
+            "pos": "idiom",
+            "en": "off and on  In an intermittent manner: Slept off and on last night.",
+            "vi": "tắt và bật Theo cách không liên tục: Ngủ quên và vào đêm qua."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Thank you for getting me off the hook.",
+            "vi": "Cảm ơn bạn đã giúp tôi thoát khỏi câu chuyện."
+        },
+        {
+            "en": "I think I scared about ten years off my life too.",
+            "vi": "Tôi nghĩ rằng tôi cũng sợ hãi về mười năm cuộc sống của mình."
+        }
+    ],
+    "words_form": [
+        "offs"
+    ],
+    "meaning_vi": "tắt"
+}

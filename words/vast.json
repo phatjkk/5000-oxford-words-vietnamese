@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/væst/"
+    ],
+    "synonyms": [
+        "huge",
+        "brobdingnagian",
+        "small",
+        "little",
+        "immense"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Vast is a large or immense space.",
+            "vi": "Vast là một không gian rộng lớn hoặc bao la."
+        },
+        {
+            "pos": "adjective",
+            "en": "Very great in size, extent, or quantity.",
+            "vi": "Rất lớn về kích thước, mức độ, hoặc số lượng."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Tavs.",
+            "vi": "Tavs."
+        },
+        {
+            "pos": "initialism",
+            "en": "Visual audio sensory theater.",
+            "vi": "Rạp hát cảm thụ âm thanh hình ảnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was so tall there was a vast difference in their height.",
+            "vi": "Anh ấy cao đến nỗi có một sự khác biệt rất lớn về chiều cao của họ."
+        },
+        {
+            "en": "Another point agreed upon is that the Australian flora is one of vast antiquity.",
+            "vi": "Một điểm khác được thống nhất là hệ thực vật của Úc là một trong những loài cổ xưa rộng lớn."
+        }
+    ],
+    "words_form": [
+        "vastest"
+    ],
+    "meaning_vi": "rộng lớn"
+}

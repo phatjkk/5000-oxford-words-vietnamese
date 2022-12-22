@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈɔrdnˌɛri/"
+    ],
+    "synonyms": [
+        "usual",
+        "normal",
+        "everyday",
+        "mediocre",
+        "undistinguished"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of ordinary is something that is normal or common, that has no distinctive or unusual features.",
+            "vi": "Định nghĩa của bình thường là một cái gì đó bình thường hoặc phổ biến, không có đặc điểm khác biệt hoặc bất thường."
+        },
+        {
+            "pos": "noun",
+            "en": "The usual or normal condition or course of events.",
+            "vi": "Tình trạng bình thường hoặc bình thường hoặc quá trình của các sự kiện."
+        },
+        {
+            "pos": "idiom",
+            "en": "out of the ordinary  unusual; extraordinary",
+            "vi": "ngoài bình thường bất thường; đặc biệt"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Alex was no ordinary man.",
+            "vi": "Alex không phải là một người đàn ông bình thường."
+        },
+        {
+            "en": "Her mind isn't more logical than the minds of ordinary children.",
+            "vi": "Tâm trí của cô ấy không logic hơn trí óc của những đứa trẻ bình thường."
+        }
+    ],
+    "words_form": [
+        "ordinaries"
+    ],
+    "meaning_vi": "bình thường"
+}

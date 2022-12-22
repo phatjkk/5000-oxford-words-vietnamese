@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈwɔrˌfɛr/"
+    ],
+    "synonyms": [
+        "conflict",
+        "war",
+        "clash",
+        "fighting",
+        "militancy"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Acts undertaken to destroy or undermine the strength of another.",
+            "vi": "Các hành vi được thực hiện nhằm phá hủy hoặc làm suy yếu sức mạnh của người khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To lead a military life; to carry on continual wars.",
+            "vi": "Để sống một cuộc sống quân sự; tiếp tục các cuộc chiến tranh liên tục."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm an urban warfare tactics trainer, specializing in tracking.",
+            "vi": "Tôi là một huấn luyện viên chiến thuật chiến tranh đô thị, chuyên theo dõi."
+        },
+        {
+            "en": "Commercial warfare was to be avoided because of the cost.",
+            "vi": "Chiến tranh thương mại phải được tránh vì chi phí đắt đỏ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chiến tranh"
+}

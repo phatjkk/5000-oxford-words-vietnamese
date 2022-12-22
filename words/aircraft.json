@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈɛrˌkræft/"
+    ],
+    "synonyms": [
+        "whirlybird",
+        "airplane",
+        "balloon",
+        "blimp",
+        "chopper"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A vehicle capable of atmospheric flight due to interaction with the air, such as buoyancy or lift.",
+            "vi": "Phương tiện có khả năng bay trong khí quyển do tương tác với không khí, chẳng hạn như lực nổi hoặc lực nâng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This time there was no preliminary bombardment but aircraft were cooperating.",
+            "vi": "Lần này không có cuộc bắn phá sơ bộ nhưng các máy bay đang hợp tác."
+        },
+        {
+            "en": "The trip between Baltimore and Norfolk was in a much small­er aircraft than the first leg of the journey.",
+            "vi": "Chuyến đi giữa Baltimore và Norfolk trên một chiếc máy bay nhỏ hơn nhiều so với chặng đầu tiên của cuộc hành trình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "phi cơ"
+}

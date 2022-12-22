@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈbɛrɪəl/"
+    ],
+    "synonyms": [
+        "funeral",
+        "interment",
+        "burying",
+        "deposition",
+        "entombment"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or process of burying.",
+            "vi": "(1) Một kiểu truyền dẫn sử dụng ghép kênh phân chia theo tần số (xem FDM)."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or connected with burial.",
+            "vi": "(viễn thông) Một dải tần số điện từ rộng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He deserves a burial of some sort.",
+            "vi": "Anh ta xứng đáng được chôn cất."
+        },
+        {
+            "en": "Cremation took the place of burial of the dead.",
+            "vi": "Hỏa táng thay cho chôn cất người chết."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The act or process of burying.",
+            "vi": "(1) Một kiểu truyền dẫn sử dụng ghép kênh phân chia theo tần số (xem FDM)."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or connected with burial.",
+            "vi": "(viễn thông) Một dải tần số điện từ rộng."
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/kənˈspɪrəsi/"
+    ],
+    "synonyms": [
+        "plot",
+        "cabal",
+        "planned",
+        "collusion",
+        "coup"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(law) An agreement between two or more persons to commit a crime or accomplish a legal purpose through illegal action.",
+            "vi": "(luật) Thỏa thuận giữa hai hoặc nhiều người để thực hiện một tội phạm hoặc thực hiện một mục đích hợp pháp thông qua hành động bất hợp pháp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A conspiracy headed by the patrician Arsaber had a similar issue.",
+            "vi": "Một âm mưu do nhà ái quốc Arsaber cầm đầu cũng có vấn đề tương tự."
+        },
+        {
+            "en": "The conspiracy group had secret, underground meetings where they discussed their plans.",
+            "vi": "Nhóm âm mưu đã có những cuộc họp bí mật, ngầm, nơi họ thảo luận về kế hoạch của mình."
+        }
+    ],
+    "words_form": [
+        "conspiracies"
+    ],
+    "meaning_vi": "âm mưu"
+}

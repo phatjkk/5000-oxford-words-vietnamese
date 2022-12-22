@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ˈwikˌɛnd/"
+    ],
+    "synonyms": [
+        "week",
+        "night",
+        "summer",
+        "evening",
+        "afternoon"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Weekend is defined as the days at the end of a week (usually Saturday and Sunday) when people traditionally do not work but instead relax or pursue leisure activities.",
+            "vi": "Cuối tuần được định nghĩa là những ngày cuối tuần (thường là thứ bảy và chủ nhật) khi mọi người theo truyền thống không làm việc mà thay vào đó là thư giãn hoặc theo đuổi các hoạt động giải trí."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, for, or on a weekend.",
+            "vi": "Của, cho, hoặc vào một ngày cuối tuần."
+        },
+        {
+            "pos": "verb",
+            "en": "To spend the weekend (at or in a specified place)",
+            "vi": "Để dành cuối tuần (tại hoặc ở một địa điểm cụ thể)"
+        },
+        {
+            "pos": "idiom",
+            "en": "long weekend  a weekend plus one or two days before or after",
+            "vi": "cuối tuần dài một ngày cuối tuần cộng với một hoặc hai ngày trước hoặc sau đó"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The holiday weekend passed pleasantly.",
+            "vi": "Kỳ nghỉ cuối tuần trôi qua một cách dễ chịu."
+        },
+        {
+            "en": "It was the weekend before he left for the seminary.",
+            "vi": "Đó là ngày cuối tuần trước khi anh ấy lên đường đến chủng viện."
+        }
+    ],
+    "words_form": [
+        "weekends"
+    ],
+    "meaning_vi": "cuối tuần"
+}

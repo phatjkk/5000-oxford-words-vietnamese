@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈwərʃəp/"
+    ],
+    "synonyms": [
+        "devotion",
+        "homage",
+        "invocation",
+        "prayer",
+        "adore"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To participate in religious rites of worship.",
+            "vi": "Tham gia các nghi thức thờ cúng tôn giáo."
+        },
+        {
+            "pos": "noun",
+            "en": "Worship is an extreme devotion or admiration for someone or something.",
+            "vi": "Thờ phượng là sự sùng kính hoặc ngưỡng mộ tột độ đối với một ai đó hoặc một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His men worship him.",
+            "vi": "Người của ông ấy tôn thờ ông ấy."
+        },
+        {
+            "en": "Alex, Bill and Katie attended worship together.",
+            "vi": "Alex, Bill và Katie cùng nhau tham dự buổi thờ phượng."
+        }
+    ],
+    "words_form": [
+        "worshiped",
+        "worshiping",
+        "worshipped",
+        "worshipping",
+        "worships"
+    ],
+    "meaning_vi": "tôn sùng"
+}

@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/traɪˈbjunl/",
+        "/trəˈbjunl/"
+    ],
+    "synonyms": [
+        "court",
+        "bar",
+        "bench",
+        "board",
+        "forum"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something that has the power to determine or judge.",
+            "vi": "Một cái gì đó có sức mạnh để xác định hoặc phán xét."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "As a tribunal it had no legal status.",
+            "vi": "Với tư cách là một tòa án, nó không có tư cách pháp nhân."
+        },
+        {
+            "en": "When sitting in its capacity as a criminal court it is known as the tribunal correctionnel.",
+            "vi": "Khi đứng trên cương vị là một tòa án hình sự, nó được gọi là tòa án xét xử."
+        }
+    ],
+    "words_form": [
+        "tribunals"
+    ],
+    "meaning_vi": "tòa án"
+}

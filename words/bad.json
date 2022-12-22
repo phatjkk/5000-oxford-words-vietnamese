@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/bæd/"
+    ],
+    "synonyms": [
+        "evil",
+        "rotten",
+        "corrupt",
+        "wrong",
+        "naughty"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Being so far behind in repayment as to be considered a loss.",
+            "vi": "Chậm trễ trong việc trả nợ coi như thua lỗ."
+        },
+        {
+            "pos": "noun",
+            "en": "Something that is below standard or expectations, as of ethics or decency.",
+            "vi": "Điều gì đó thấp hơn tiêu chuẩn hoặc kỳ vọng, về đạo đức hoặc sự lễ phép."
+        },
+        {
+            "pos": "adverb",
+            "en": "Badly.",
+            "vi": "Tệ."
+        },
+        {
+            "pos": "verb",
+            "en": "(archaic) Alternative past tense of bid. See bade.",
+            "vi": "(cổ xưa) Thì quá khứ thay thế của giá thầu. Xem bade."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) in bad  In trouble or disfavor.",
+            "vi": "(không chính thức) đang gặp rắc rối hoặc không thiện cảm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "No. I just had a bad dream.",
+            "vi": "Không, tôi vừa có một giấc mơ tồi tệ."
+        },
+        {
+            "en": "Howie's not a bad guy.",
+            "vi": "Howie không phải là một kẻ xấu."
+        }
+    ],
+    "words_form": [
+        "badder",
+        "baddest",
+        "bads",
+        "worse",
+        "worst"
+    ],
+    "meaning_vi": "hư, xấu, dở, tệ"
+}

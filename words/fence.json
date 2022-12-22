@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/fɛns/"
+    ],
+    "synonyms": [
+        "barricade",
+        "kraal",
+        "rail",
+        "palings",
+        "railing"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To surround or enclose with a fence or other barrier.",
+            "vi": "Để bao quanh hoặc bao bọc bằng hàng rào hoặc hàng rào khác."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a fence is a dealer of stolen goods.",
+            "vi": "Định nghĩa của một hàng rào là một kẻ buôn bán đồ ăn cắp."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) on the fence  Undecided as to which of two sides to support; uncommitted or neutral.",
+            "vi": "(không chính thức) trên hàng rào Chưa quyết định bên nào ủng hộ; không cam kết hoặc trung lập."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was no riding the fence on this one.",
+            "vi": "Không có chuyện cưỡi hàng rào trên cái này."
+        },
+        {
+            "en": "Josh was in his field digging fence post holes when she passed.",
+            "vi": "Josh đang đào lỗ trên hàng rào khi cô đi qua."
+        }
+    ],
+    "words_form": [
+        "fenced",
+        "fences",
+        "fencing"
+    ],
+    "meaning_vi": "hàng rào"
+}

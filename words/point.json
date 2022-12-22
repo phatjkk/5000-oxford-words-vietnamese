@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pɔɪnt/"
+    ],
+    "synonyms": [
+        "notch",
+        "aim",
+        "acumination",
+        "barb",
+        "location"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A sharp or tapered end.",
+            "vi": "Một đầu nhọn hoặc nhọn."
+        },
+        {
+            "pos": "verb",
+            "en": "Point is defined as to gesture in the direction of someone or something.",
+            "vi": "Point được định nghĩa là cử chỉ theo hướng của ai đó hoặc cái gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "beside the point  Irrelevant to the matter at hand.",
+            "vi": "bên cạnh điểm Không liên quan đến vấn đề đang bàn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "At some point she fell asleep.",
+            "vi": "Một lúc nào đó cô ấy ngủ thiếp đi."
+        },
+        {
+            "en": "There was no point in working herself up this way.",
+            "vi": "Chẳng ích gì khi làm việc theo cách này."
+        }
+    ],
+    "words_form": [
+        "pointed",
+        "pointing",
+        "points"
+    ],
+    "meaning_vi": "điểm"
+}

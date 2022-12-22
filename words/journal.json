@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈdʒərnl/"
+    ],
+    "synonyms": [
+        "diary",
+        "notebook",
+        "ledger",
+        "chronicle",
+        "record"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of journal is a diary you keep of daily events or of your thoughts or a publication dealing with a specific industry or field.",
+            "vi": "Định nghĩa của nhật ký là một cuốn nhật ký mà bạn lưu giữ về các sự kiện hàng ngày hoặc những suy nghĩ của bạn hoặc một ấn phẩm liên quan đến một ngành hoặc lĩnh vực cụ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "To keep a journal.",
+            "vi": "Để viết nhật ký."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Daily.",
+            "vi": "(lỗi thời) Hàng ngày."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She closed the journal and began her preparation.",
+            "vi": "Cô đóng nhật ký và bắt đầu chuẩn bị."
+        },
+        {
+            "en": "She ran to her desk and pulled out a journal, jotting down her latest symptom.",
+            "vi": "Cô chạy đến bàn của mình và lấy ra một cuốn nhật ký, ghi lại những triệu chứng mới nhất của cô."
+        }
+    ],
+    "words_form": [
+        "journals"
+    ],
+    "meaning_vi": "tạp chí"
+}

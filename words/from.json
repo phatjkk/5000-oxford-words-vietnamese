@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/frəm/"
+    ],
+    "synonyms": [
+        "out-of",
+        "via",
+        "of",
+        "whence",
+        "through"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "With (a person or thing) as the source, maker, sender, speaker, teacher, etc.",
+            "vi": "Với (một người hoặc sự vật) là nguồn, người tạo, người gửi, người nói, giáo viên, v.v."
+        },
+        {
+            "pos": "idiom",
+            "en": "(chiefly maine) from away  Not native to a state or locality.",
+            "vi": "(chủ yếu là maine) từ xa Không có nguồn gốc từ một tiểu bang hoặc địa phương."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Is the ranch far from here?",
+            "vi": "Trang trại có xa đây không?"
+        },
+        {
+            "en": "He leaped from his horse.",
+            "vi": "Anh ta nhảy khỏi con ngựa của mình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "từ (thời điểm, vị trí)"
+}

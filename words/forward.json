@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ˈfɔrwərd/"
+    ],
+    "synonyms": [
+        "propulsive",
+        "move",
+        "forward",
+        "forwards",
+        "further"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Forward means to send something to someone else.",
+            "vi": "Chuyển tiếp có nghĩa là gửi một cái gì đó cho người khác."
+        },
+        {
+            "pos": "adverb",
+            "en": "Forward is defined as toward the front, or toward something in advance.",
+            "vi": "Chuyển tiếp được định nghĩa là về phía trước, hoặc về phía trước một cái gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of forward is directed toward something in advance, ready or eager.",
+            "vi": "Định nghĩa về phía trước là hướng đến một cái gì đó trước, sẵn sàng hoặc háo hức."
+        },
+        {
+            "pos": "noun",
+            "en": "(soccer) A player on a team in football (soccer) in the row nearest to the opposing team's goal, who are therefore principally responsible for scoring goals.",
+            "vi": "(bóng đá) Một cầu thủ của đội chơi bóng đá (bóng đá) ở hàng gần nhất với khung thành của đội đối phương, do đó, người này chịu trách nhiệm chính về việc ghi bàn thắng."
+        },
+        {
+            "pos": "idiom",
+            "en": "going forward  from now on; henceforth",
+            "vi": "tiếp tục từ bây giờ; từ đó đến nay"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She stepped forward and hugged him.",
+            "vi": "Cô bước tới và ôm lấy anh."
+        },
+        {
+            "en": "She stepped forward and pulled the newspaper down with one hand.",
+            "vi": "Cô bước tới và kéo tờ báo xuống bằng một tay."
+        }
+    ],
+    "words_form": [
+        "forwarded",
+        "forwarding",
+        "forwards"
+    ],
+    "meaning_vi": "phía trước"
+}

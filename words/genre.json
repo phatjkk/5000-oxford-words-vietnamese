@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈʒɑnrə/"
+    ],
+    "synonyms": [
+        "kind",
+        "type",
+        "category",
+        "genus",
+        "classification"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a genre is a category of art, music or literature.",
+            "vi": "Định nghĩa của một thể loại là một thể loại nghệ thuật, âm nhạc hoặc văn học."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a type of book, film, etc. which is distinguished by subject, theme, or style, as science fiction, mystery, western, etc.",
+            "vi": "Chỉ định hoặc một loại sách, phim, v.v. được phân biệt theo chủ đề, chủ đề hoặc phong cách, như khoa học viễn tưởng, bí ẩn, phương Tây, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Before you begin writing your novel, you must decide on a form and a genre.",
+            "vi": "Trước khi bắt đầu viết tiểu thuyết, bạn phải quyết định hình thức và thể loại."
+        },
+        {
+            "en": "Movies in the romantic genre are often cheesy and fake.",
+            "vi": "Phim thuộc thể loại lãng mạn thường sến và giả tạo."
+        }
+    ],
+    "words_form": [
+        "genres"
+    ],
+    "meaning_vi": "thể loại"
+}

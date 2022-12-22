@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈhɛdˌlaɪn/"
+    ],
+    "synonyms": [
+        "caption",
+        "heading",
+        "words",
+        "title",
+        "streamer"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A heading or title of an article.",
+            "vi": "Một tiêu đề hoặc tiêu đề của một bài báo."
+        },
+        {
+            "pos": "verb",
+            "en": "Headline is defined as to provide a title, or to be the lead performer.",
+            "vi": "Dòng tiêu đề được định nghĩa là cung cấp một tiêu đề hoặc để trở thành người biểu diễn chính."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The crime was national headline news.",
+            "vi": "Tội ác đã được đưa tin rầm rộ trên toàn quốc."
+        },
+        {
+            "en": "Black Shirts in the 1930s including the notorious headline ' Hurrah for the Blackshirts ' .",
+            "vi": "Áo sơ mi đen vào những năm 1930 bao gồm tiêu đề khét tiếng 'Hurray for the Blackshirts'."
+        }
+    ],
+    "words_form": [
+        "headlined",
+        "headlines",
+        "headlining"
+    ],
+    "meaning_vi": "tiêu đề"
+}

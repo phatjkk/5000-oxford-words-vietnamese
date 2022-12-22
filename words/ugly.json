@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈəɡli/"
+    ],
+    "synonyms": [
+        "hideous",
+        "repulsive",
+        "unsightly",
+        "uncomely",
+        "beautiful"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Unpleasing to look at; aesthetically offensive or unattractive; unsightly.",
+            "vi": "Không thích nhìn vào; phản cảm về mặt thẩm mỹ hoặc không hấp dẫn; khó coi."
+        },
+        {
+            "pos": "noun",
+            "en": "One that is ugly.",
+            "vi": "Một cái đó là xấu xí."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I wasn't ugly, but I didn't consider myself beautiful.",
+            "vi": "Tôi không xấu, nhưng tôi không coi mình là đẹp."
+        },
+        {
+            "en": "There was nothing ugly between them.",
+            "vi": "Không có gì xấu xí giữa họ."
+        }
+    ],
+    "words_form": [
+        "uglier",
+        "uglies",
+        "ugliest"
+    ],
+    "meaning_vi": "xấu xí"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kəˈmɪt/"
+    ],
+    "synonyms": [
+        "perpetrate",
+        "do",
+        "act",
+        "entrust",
+        "confide"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To put in trust or charge; entrust.",
+            "vi": "Để đặt niềm tin hoặc tính phí; giao phó."
+        },
+        {
+            "pos": "noun",
+            "en": "(computing) The act of committing (e.g. a database transaction or source code into a source control repository), making it a permanent change.",
+            "vi": "(tính toán) Hành động cam kết (ví dụ: giao dịch cơ sở dữ liệu hoặc mã nguồn vào kho lưu trữ kiểm soát nguồn), biến nó thành một thay đổi vĩnh viễn."
+        },
+        {
+            "pos": "idiom",
+            "en": "commit to memory  to learn by heart; memorize",
+            "vi": "cam kết ghi nhớ để học thuộc lòng; ghi nhớ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She was admitting to a crime she didn't commit, knowing it was her son who did it.",
+            "vi": "Cô đang thừa nhận một tội ác mà cô không phạm phải, vì biết rằng chính con trai mình đã làm điều đó."
+        },
+        {
+            "en": "Before you commit to a number, think of this.",
+            "vi": "Trước khi bạn cam kết một con số, hãy nghĩ đến điều này."
+        }
+    ],
+    "words_form": [
+        "commits",
+        "committed",
+        "committing"
+    ],
+    "meaning_vi": "cam kết"
+}

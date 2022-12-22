@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ʃrəɡ/"
+    ],
+    "synonyms": [
+        "scowl",
+        "sheepishly",
+        "smirk",
+        "limp",
+        "nod"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To draw up (the shoulders), as in expressing indifference, doubt, disdain, contempt, etc.",
+            "vi": "Để vẽ lên (vai), như thể hiện sự thờ ơ, nghi ngờ, coi thường, khinh thường, v.v."
+        },
+        {
+            "pos": "noun",
+            "en": "A lifting of the shoulders to signal indifference.",
+            "vi": "Nhấc vai lên để báo hiệu sự thờ ơ."
+        },
+        {
+            "pos": "idiom",
+            "en": "shrug off  to dismiss or disregard in a carefree way",
+            "vi": "nhún vai để gạt bỏ hoặc coi thường một cách vô tư"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His shrug and tone were nonchalant.",
+            "vi": "Cái nhún vai và giọng điệu lãnh đạm của anh ta."
+        },
+        {
+            "en": "A resolute shrug indicated his search was futile.",
+            "vi": "Một cái nhún vai kiên quyết cho thấy cuộc tìm kiếm của anh ta là vô ích."
+        }
+    ],
+    "words_form": [
+        "shrugged",
+        "shrugging",
+        "shrugs"
+    ],
+    "meaning_vi": "nhún vai"
+}

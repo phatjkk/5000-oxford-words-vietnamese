@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/bəˈtreɪ/"
+    ],
+    "synonyms": [
+        "deceive",
+        "protect",
+        "play false",
+        "disclose",
+        "divulge"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To divulge in a breach of confidence.",
+            "vi": "Tiết lộ sự vi phạm lòng tin."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You didn't betray my trust.",
+            "vi": "Bạn đã không phản bội sự tin tưởng của tôi."
+        },
+        {
+            "en": "I wouldn't be here if I thought you would betray me.",
+            "vi": "Tôi sẽ không ở đây nếu tôi nghĩ rằng bạn sẽ phản bội tôi."
+        }
+    ],
+    "words_form": [
+        "betrayed",
+        "betraying",
+        "betrays"
+    ],
+    "meaning_vi": "phản bội"
+}

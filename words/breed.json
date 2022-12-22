@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/brid/"
+    ],
+    "synonyms": [
+        "reproduce",
+        "variety",
+        "rear",
+        "sire",
+        "strain"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a breed is a group of animals that has a specific characteristic or trait.",
+            "vi": "Định nghĩa về giống là một nhóm động vật có một đặc điểm hoặc tính trạng cụ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "To produce (offspring); give birth to or hatch.",
+            "vi": "Để sản xuất (con đẻ); sinh ra hoặc nở ra."
+        },
+        {
+            "pos": "idiom",
+            "en": "(regional) breed a scab  To stir up trouble for oneself.",
+            "vi": "(khu vực) giống một cái ghẻ Để tự gây rắc rối cho chính mình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What breed do you raise?",
+            "vi": "Bạn nuôi giống chó gì?"
+        },
+        {
+            "en": "The native breed of mules is remarkably fine.",
+            "vi": "Giống la bản địa rất tốt."
+        }
+    ],
+    "words_form": [
+        "bred",
+        "breeding",
+        "breeds"
+    ],
+    "meaning_vi": "giống"
+}

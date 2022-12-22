@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dʒɔɪn/"
+    ],
+    "synonyms": [
+        "unite",
+        "couple",
+        "clip",
+        "link",
+        "tie"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To put or bring together; connect; fasten.",
+            "vi": "Để đặt hoặc kết hợp lại với nhau; liên kết; đóng lại."
+        },
+        {
+            "pos": "noun",
+            "en": "A joint; a junction.",
+            "vi": "Một doanh nghiệp; một đường giao nhau."
+        },
+        {
+            "pos": "idiom",
+            "en": "join battle  to start fighting or competing",
+            "vi": "tham gia trận chiến để bắt đầu chiến đấu hoặc cạnh tranh"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You should join me sometime.",
+            "vi": "Bạn nên tham gia cùng tôi một lúc nào đó."
+        },
+        {
+            "en": "How can I join in?",
+            "vi": "Tôi có thể tham gia bằng cách nào?"
+        }
+    ],
+    "words_form": [
+        "joined",
+        "joining",
+        "joins"
+    ],
+    "meaning_vi": "gia nhập, tham gia; nối, chắp, ghép"
+}

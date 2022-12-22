@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈbælət/"
+    ],
+    "synonyms": [
+        "vote",
+        "ticket",
+        "poll",
+        "choice",
+        "slate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To ballot is defined as to use a ballot to vote.",
+            "vi": "Bỏ phiếu được định nghĩa là sử dụng lá phiếu để bỏ phiếu."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a ballot is where a vote is written or marked.",
+            "vi": "Định nghĩa của một lá phiếu là nơi một lá phiếu được viết hoặc đánh dấu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "On the first ballot Lincoln received only 102 votes to 1732 for Seward.",
+            "vi": "Trong lần bỏ phiếu đầu tiên Lincoln chỉ nhận được 102 phiếu cho đến 1732 cho Seward."
+        },
+        {
+            "en": "On the second ballot Lincoln received 181 votes to Seward's 1842.",
+            "vi": "Trong lần bỏ phiếu thứ hai, Lincoln nhận được 181 phiếu bầu so với năm 1842 của Seward."
+        }
+    ],
+    "words_form": [
+        "balloting",
+        "ballots"
+    ],
+    "meaning_vi": "phiếu"
+}

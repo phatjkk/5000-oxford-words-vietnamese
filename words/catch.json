@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/kætʃ/",
+        "/kɛtʃ/"
+    ],
+    "synonyms": [
+        "grab",
+        "capture",
+        "snap",
+        "booty",
+        "bonanza"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Catch means to capture or take something.",
+            "vi": "Catch có nghĩa là nắm bắt hoặc lấy một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "A tricky or previously unsuspected condition or drawback.",
+            "vi": "Một tình trạng hoặc nhược điểm phức tạp hoặc trước đây không được nghi ngờ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designed to trick; tricky.",
+            "vi": "Được thiết kế để lừa; khó khăn."
+        },
+        {
+            "pos": "idiom",
+            "en": "catch fire  To ignite. To become very enthusiastic. To become the subject of great interest and widespread enthusiasm: An idea that caught fire all over the country.",
+            "vi": "bắt lửa Để bắt lửa. Để trở nên rất nhiệt tình. Trở thành chủ đề được quan tâm và hưởng ứng nhiệt tình rộng rãi: Một ý tưởng bùng cháy khắp cả nước."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He paused for a moment to catch his breath.",
+            "vi": "Anh dừng lại một lúc để lấy lại hơi thở."
+        },
+        {
+            "en": "Some fancy intern catch your eye?",
+            "vi": "Một thực tập sinh ưa thích nào đó bắt mắt bạn?"
+        }
+    ],
+    "words_form": [
+        "catches",
+        "catching",
+        "caught"
+    ],
+    "meaning_vi": "chụp lấy"
+}

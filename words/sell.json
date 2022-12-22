@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/sɛl/"
+    ],
+    "synonyms": [
+        "salability",
+        "deal",
+        "convince",
+        "negotiate",
+        "fail"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To offer or have available for sale.",
+            "vi": "Để cung cấp hoặc có sẵn để bán."
+        },
+        {
+            "pos": "noun",
+            "en": "An act of selling.",
+            "vi": "Một hành động bán hàng."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) sell a bill of goods  To take unfair advantage of.",
+            "vi": "(không chính thức) bán một hóa đơn hàng hóa Để lợi dụng không công bằng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I had a beautiful black once, but I had to sell it.",
+            "vi": "Tôi đã có một lần màu đen đẹp, nhưng tôi phải bán nó."
+        },
+        {
+            "en": "We didn't sell you the tripod.",
+            "vi": "Chúng tôi không bán chân máy cho bạn."
+        }
+    ],
+    "words_form": [
+        "selling",
+        "sells",
+        "sold"
+    ],
+    "meaning_vi": "bán (hàng hoá)"
+}

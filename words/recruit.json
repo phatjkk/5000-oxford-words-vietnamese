@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈkrut/"
+    ],
+    "synonyms": [
+        "soldier",
+        "beginner",
+        "volunteer",
+        "tyro",
+        "inscribe"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a recruit is a new person who has joined something, especially the military.",
+            "vi": "Định nghĩa của một tuyển dụng là một người mới tham gia vào một lĩnh vực nào đó, đặc biệt là quân đội."
+        },
+        {
+            "pos": "verb",
+            "en": "To enlist personnel in a military force.",
+            "vi": "Tuyển dụng quân nhân trong lực lượng quân đội."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was not so easy to recruit the ranks of the patricians.",
+            "vi": "Không dễ dàng như vậy để tuyển chọn hàng ngũ của những người yêu nước."
+        },
+        {
+            "en": "He strained his wealth and influence to recruit followers and to make mischief.",
+            "vi": "Anh ta đã cố gắng tạo ra sự giàu có và ảnh hưởng của mình để chiêu mộ những người theo dõi và thực hiện những trò nghịch ngợm."
+        }
+    ],
+    "words_form": [
+        "recruited",
+        "recruiting",
+        "recruits"
+    ],
+    "meaning_vi": "tuyển dụng"
+}

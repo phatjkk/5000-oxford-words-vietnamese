@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/nɔr/"
+    ],
+    "synonyms": [
+        "neither",
+        "on-the-contrary",
+        "likewise",
+        "indeed",
+        "at-any-rate"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "(UK, dialect, Yorkshire) Than.",
+            "vi": "(Vương quốc Anh, phương ngữ, Yorkshire) Than."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Norman.",
+            "vi": "Norman."
+        },
+        {
+            "pos": "noun",
+            "en": "(logic, electronics) Alternative form of NOR.",
+            "vi": "(logic, điện tử) Dạng thay thế của NOR."
+        },
+        {
+            "pos": "affix",
+            "en": "Normal.",
+            "vi": "Bình thường."
+        },
+        {
+            "pos": "contraction",
+            "en": "North.",
+            "vi": "Phia Băc."
+        },
+        {
+            "pos": "prefix",
+            "en": "An unaltered parent compound.",
+            "vi": "Một hợp chất mẹ không thay đổi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was neither good nor bad in her mind back then - it simply was.",
+            "vi": "Nó không tốt cũng không xấu trong tâm trí cô ấy khi đó - nó chỉ đơn giản là như vậy."
+        },
+        {
+            "en": "We cannot understand it nor the reason of it.",
+            "vi": "Chúng tôi không thể hiểu nó cũng như lý do của nó."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "cũng không"
+}

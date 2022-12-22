@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈpækət/"
+    ],
+    "synonyms": [
+        "ship",
+        "pack",
+        "receptacle",
+        "parcel",
+        "steamboat"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A small package or bundle.",
+            "vi": "Một gói hoặc gói nhỏ."
+        },
+        {
+            "pos": "verb",
+            "en": "To make up into a packet.",
+            "vi": "Để tạo thành một gói."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A small packet wrapped in tissue fell to her lap.",
+            "vi": "Một gói nhỏ được bọc trong khăn giấy rơi xuống lòng cô."
+        },
+        {
+            "en": "Prince Andrew went to one and took out a small casket, from which he drew a packet wrapped in paper.",
+            "vi": "Hoàng tử Andrew đi đến một người và lấy ra một chiếc quan tài nhỏ, từ đó anh ta rút ra một gói giấy được gói bằng giấy."
+        }
+    ],
+    "words_form": [
+        "packets"
+    ],
+    "meaning_vi": "gói"
+}

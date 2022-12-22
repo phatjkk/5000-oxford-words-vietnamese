@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/əˈpɛrəntli/"
+    ],
+    "synonyms": [
+        "obviously",
+        "clearly",
+        "evidently",
+        "seemingly",
+        "palpably"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "According to what the speaker has read or been told.",
+            "vi": "Theo những gì người nói đã đọc hoặc được kể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Apparently he did a lot of walking.",
+            "vi": "Rõ ràng anh ấy đã đi bộ rất nhiều."
+        },
+        {
+            "en": "Apparently something had been discussed in her absence.",
+            "vi": "Rõ ràng có điều gì đó đã được thảo luận khi cô ấy vắng mặt."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "rõ ràng"
+}

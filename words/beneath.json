@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/bəˈniθ/"
+    ],
+    "synonyms": [
+        "subordinate",
+        "below",
+        "under",
+        "underneath",
+        "subject to"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "The definition of beneath is lower than or covered by.",
+            "vi": "Định nghĩa của under under thấp hơn hoặc được bao phủ bởi."
+        },
+        {
+            "pos": "adverb",
+            "en": "Just below something; underneath.",
+            "vi": "Ngay bên dưới một cái gì đó; bên dưới."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was pale beneath the golden skin.",
+            "vi": "Anh ta xanh xao bên dưới làn da vàng."
+        },
+        {
+            "en": "She burrowed even deeper beneath his arm.",
+            "vi": "Cô càng lún sâu vào bên dưới cánh tay anh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ở trên"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/əˈnɑnəməs/"
+    ],
+    "synonyms": [
+        "unknown",
+        "signed",
+        "anon",
+        "unsigned",
+        "unidentified"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having an unknown or unacknowledged name.",
+            "vi": "Có một cái tên không xác định hoặc không được thừa nhận."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A hacktivist group opposed to internet censorship, government corruption, homophobia and Scientology.",
+            "vi": "Một nhóm hacktivist phản đối kiểm duyệt internet, tham nhũng của chính phủ, kỳ thị người đồng tính và Khoa học giáo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They think they are anonymous on the web but I can trace them all.",
+            "vi": "Họ nghĩ rằng họ ẩn danh trên web nhưng tôi có thể theo dõi tất cả."
+        },
+        {
+            "en": "\"There's always an anonymous tip,\" Betsy said.",
+            "vi": "“Luôn có một mẹo ẩn danh,” Betsy nói."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "vô danh"
+}

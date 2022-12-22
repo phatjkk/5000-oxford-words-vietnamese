@@ -1,0 +1,59 @@
+{
+    "spelling": [
+        "/mətʃ/"
+    ],
+    "synonyms": [
+        "significant",
+        "greatly",
+        "satisfying",
+        "a-great-deal",
+        "notable"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "To a great degree or extent.",
+            "vi": "Ở một mức độ hoặc mức độ lớn."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A large amount or great extent.",
+            "vi": "Một số lượng lớn hoặc mức độ lớn."
+        },
+        {
+            "pos": "noun",
+            "en": "Something great or remarkable.",
+            "vi": "Một cái gì đó tuyệt vời hoặc đáng chú ý."
+        },
+        {
+            "pos": "determiner",
+            "en": "A large amount of. [from 13th c.]",
+            "vi": "Một số lượng lớn. [từ ngày 13 c.]"
+        },
+        {
+            "pos": "adjective",
+            "en": "Great in quantity, degree, or extent.",
+            "vi": "Lớn về số lượng, mức độ, hoặc mức độ."
+        },
+        {
+            "pos": "idiom",
+            "en": "as much  Almost the same: I thought as much. She said as much.",
+            "vi": "càng nhiều Gần giống nhau: Tôi đã nghĩ nhiều như vậy. Cô ấy nói càng nhiều."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "How much did you pay for it?",
+            "vi": "Bạn đã trả bao nhiêu cho nó?"
+        },
+        {
+            "en": "How much is it, Dad?",
+            "vi": "Giá bao nhiêu vậy bố?"
+        }
+    ],
+    "words_form": [
+        "more",
+        "most"
+    ],
+    "meaning_vi": "nhiều"
+}

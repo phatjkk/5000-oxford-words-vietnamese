@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/sɔrt/"
+    ],
+    "synonyms": [
+        "quality",
+        "manner",
+        "part",
+        "kind",
+        "description"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Character or nature.",
+            "vi": "Tính cách hoặc bản chất."
+        },
+        {
+            "pos": "verb",
+            "en": "To sort is to put things in order or group them into categories.",
+            "vi": "Sắp xếp là sắp xếp mọi thứ theo thứ tự hoặc nhóm chúng thành các danh mục."
+        },
+        {
+            "pos": "idiom",
+            "en": "after a sort  In a haphazard or imperfect way: Managed to paint the chair after a sort.",
+            "vi": "sau khi sắp xếp Theo cách lộn xộn hoặc không hoàn hảo: Được quản lý để sơn ghế sau khi sắp xếp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I wouldn't worry too much about that sort of thing.",
+            "vi": "Tôi sẽ không lo lắng quá nhiều về điều đó."
+        },
+        {
+            "en": "He spoke of having some sort of flashback.",
+            "vi": "Anh ấy nói về việc có một số loại hồi tưởng."
+        }
+    ],
+    "words_form": [
+        "sorted",
+        "sorting",
+        "sorts"
+    ],
+    "meaning_vi": "sắp xếp"
+}

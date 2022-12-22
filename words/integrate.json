@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈɪn(t)əˌɡreɪt/"
+    ],
+    "synonyms": [
+        "blend",
+        "join",
+        "combine",
+        "unite",
+        "link"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make into a whole by bringing all parts together; unify.",
+            "vi": "Để tạo thành một tổng thể bằng cách kết hợp tất cả các bộ phận lại với nhau; thống nhất."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We need to integrate this new product seamlessly into the framework.",
+            "vi": "Chúng tôi cần tích hợp sản phẩm mới này một cách liền mạch vào khuôn khổ."
+        },
+        {
+            "en": "In order to integrate this expression we need to know L and v as functions of the temperature and pressure.",
+            "vi": "Để tích hợp biểu thức này, chúng ta cần biết L và v là hàm của nhiệt độ và áp suất."
+        }
+    ],
+    "words_form": [
+        "integrated",
+        "integrates",
+        "integrating"
+    ],
+    "meaning_vi": "tích hợp"
+}

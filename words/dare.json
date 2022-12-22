@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/dɛr/"
+    ],
+    "synonyms": [
+        "hazard",
+        "venture",
+        "adventure",
+        "undertake",
+        "attempt"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Dare is defined as to have courage or to challenge someone to do something that requires courage.",
+            "vi": "Dám được định nghĩa là có lòng can đảm hoặc thách thức ai đó làm điều gì đó đòi hỏi sự can đảm."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a dare is a challenge to do something.",
+            "vi": "Định nghĩa của một sự dám là một thách thức để làm một cái gì đó."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Dictionary of American Regional English.",
+            "vi": "Từ điển tiếng Anh khu vực Mỹ."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) Born 1587; 1st child born in America of Eng. parents.",
+            "vi": "(người) Sinh 1587; Đứa con đầu lòng của Eng. cha mẹ."
+        },
+        {
+            "pos": "idiom",
+            "en": "dare say  to think likely; suppose I dare say you're right.",
+            "vi": "dám nói dám làm; giả sử tôi dám nói bạn đúng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Don't you dare leave me here.",
+            "vi": "Đừng để tôi ở đây."
+        },
+        {
+            "en": "Don't dare to say it was her fault.",
+            "vi": "Không dám nói đó là lỗi của cô ấy."
+        }
+    ],
+    "words_form": [
+        "dared",
+        "dares",
+        "daring"
+    ],
+    "meaning_vi": "dám"
+}

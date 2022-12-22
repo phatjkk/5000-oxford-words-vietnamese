@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈækjʊrəsi/"
+    ],
+    "synonyms": [
+        "certainty",
+        "efficiency",
+        "skill",
+        "truthfulness",
+        "veracity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Precision; exactness.",
+            "vi": "Độ chính xác; độ chính xác."
+        },
+        {
+            "pos": "",
+            "en": "How correct an answer is. The accuracy obtained from calculations depends on using bug-free computer chips as well as the quality of the input. Contrast with precision, which refers to the number of digits, or exactness, in an answer.",
+            "vi": "Làm thế nào đúng một câu trả lời là. Độ chính xác thu được từ các phép tính phụ thuộc vào việc sử dụng chip máy tính không có lỗi cũng như chất lượng đầu vào. Tương phản với độ chính xác, đề cập đến số chữ số, hoặc độ chính xác, trong một câu trả lời."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Proving their accuracy is up to the authorities.",
+            "vi": "Việc chứng minh độ chính xác của chúng là tùy thuộc vào các nhà chức trách."
+        },
+        {
+            "en": "The accuracy of heats of combustion determined in the closed calorimeter is in favourable cases about one-half per cent.",
+            "vi": "Độ chính xác của quá trình đốt nóng được xác định trong nhiệt lượng kế kín trong trường hợp thuận lợi là khoảng một nửa phần trăm."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "Precision; exactness.",
+            "vi": "Độ chính xác; độ chính xác."
+        },
+        {
+            "pos": "",
+            "en": "How correct an answer is. The accuracy obtained from calculations depends on using bug-free computer chips as well as the quality of the input. Contrast with precision, which refers to the number of digits, or exactness, in an answer.",
+            "vi": "Làm thế nào đúng một câu trả lời là. Độ chính xác thu được từ các phép tính phụ thuộc vào việc sử dụng chip máy tính không có lỗi cũng như chất lượng đầu vào. Tương phản với độ chính xác, đề cập đến số chữ số, hoặc độ chính xác, trong một câu trả lời."
+        }
+    ]
+}

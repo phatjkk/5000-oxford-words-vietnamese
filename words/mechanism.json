@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈmɛkəˌnɪzəm/"
+    ],
+    "synonyms": [
+        "technique",
+        "means",
+        "intermediary",
+        "organ",
+        "system"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a mechanism is a machine or tool that redirects motion.",
+            "vi": "Định nghĩa của một cơ chế là một máy hoặc công cụ chuyển hướng chuyển động."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The first mechanism is the creation of things, an old and familiar approach.",
+            "vi": "Cơ chế đầu tiên là sự sáng tạo của mọi thứ, một cách tiếp cận cũ và quen thuộc."
+        },
+        {
+            "en": "But no one had any idea of the mechanism by which this could be achieved.",
+            "vi": "Nhưng không ai có bất kỳ ý tưởng nào về cơ chế mà điều này có thể đạt được."
+        }
+    ],
+    "words_form": [
+        "mechanisms"
+    ],
+    "meaning_vi": "cơ chế"
+}

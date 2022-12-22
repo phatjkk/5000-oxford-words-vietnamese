@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ɡoʊld/"
+    ],
+    "synonyms": [
+        "aureate",
+        "auric",
+        "bullion",
+        "alloy",
+        "tungsten"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Gold is defined as a soft, yellow precious metal, or the color that is a mix of yellow and olive brown.",
+            "vi": "Vàng được định nghĩa là một kim loại quý mềm, màu vàng, hoặc màu là sự pha trộn giữa màu vàng và nâu ô liu."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of gold is having an olive brown-yellow color.",
+            "vi": "Định nghĩa của vàng là có màu vàng nâu ô liu."
+        },
+        {
+            "pos": "verb",
+            "en": "To pyrolyze or burn food until the color begins to change to a light brown, but not as dark as browning.",
+            "vi": "Nhiệt phân hoặc đốt cháy thực phẩm cho đến khi màu bắt đầu chuyển sang nâu nhạt, nhưng không đậm như hóa nâu."
+        },
+        {
+            "pos": "adverb",
+            "en": "Of or referring to a gold version of something.",
+            "vi": "Của hoặc đề cập đến một phiên bản vàng của một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "To a girl who enjoyed surprises, he was a gold mine.",
+            "vi": "Đối với một cô gái thích bất ngờ, anh ấy là một mỏ vàng."
+        },
+        {
+            "en": "He told us there was gold in the mine.",
+            "vi": "Anh ta nói với chúng tôi rằng có vàng trong mỏ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "vàng"
+}

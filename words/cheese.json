@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/tʃiz/"
+    ],
+    "synonyms": [
+        "big-cheese",
+        "cream",
+        "american",
+        "brick",
+        "brie"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A food made from the curds of soured milk pressed together to form a solid that is usually allowed to ripen.",
+            "vi": "Một loại thực phẩm được làm từ sữa chua đông đặc ép lại với nhau để tạo thành một chất rắn thường được để chín."
+        },
+        {
+            "pos": "verb",
+            "en": "To stop.",
+            "vi": "Dừng lại."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "See also cheese.",
+            "vi": "Xem thêm pho mát."
+        },
+        {
+            "pos": "interjection",
+            "en": "(photography) Said while being photographed, to give the impression of smiling.",
+            "vi": "(nhiếp ảnh) Nói trong khi được chụp ảnh, để tạo cảm giác mỉm cười."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) cheese it  To look out. Often used in the imperative. To get away fast; get going. Often used in the imperative.",
+            "vi": "(tiếng lóng) phô mai nó Để nhìn ra ngoài. Thường được sử dụng trong mệnh lệnh. Để đi nhanh; bắt đầu đi. Thường được sử dụng trong mệnh lệnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What kind of cheese did you use in the omelet?",
+            "vi": "Bạn đã sử dụng loại phô mai nào trong món trứng tráng?"
+        },
+        {
+            "en": "\"So I like cheese,\" he answered, and then added, \"it's really good.\"",
+            "vi": "\"Vì vậy, tôi thích pho mát,\" anh ta trả lời, và sau đó nói thêm, \"nó thực sự tốt.\""
+        }
+    ],
+    "words_form": [
+        "cheesed",
+        "cheeses",
+        "cheesing"
+    ],
+    "meaning_vi": "phô mai"
+}

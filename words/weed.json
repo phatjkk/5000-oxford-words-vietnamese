@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/wid/"
+    ],
+    "synonyms": [
+        "darnel",
+        "skunk",
+        "burr",
+        "ragweed",
+        "burdock"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Weed is slang for marijuana.",
+            "vi": "Weed là tiếng lóng của cần sa."
+        },
+        {
+            "pos": "verb",
+            "en": "To weed is to remove plants you don’t want growing from an area where you are growing plants intentionally.",
+            "vi": "Làm cỏ là loại bỏ những cây bạn không muốn trồng khỏi khu vực mà bạn đang cố tình trồng cây."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "My arms are sore from weed whipping.",
+            "vi": "Cánh tay của tôi bị đau vì cỏ dại quất."
+        },
+        {
+            "en": "She leaned on the weed whip.",
+            "vi": "Cô nương trên cây roi cỏ dại."
+        }
+    ],
+    "words_form": [
+        "weeded",
+        "weeding",
+        "weeds"
+    ],
+    "meaning_vi": "cỏ dại"
+}

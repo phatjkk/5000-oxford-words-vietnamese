@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈɔθəˌraɪz/"
+    ],
+    "synonyms": [
+        "approve",
+        "empower",
+        "permit",
+        "license",
+        "delegate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To grant authority or power to.",
+            "vi": "Để trao quyền hoặc quyền lực cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The Port Authority has full powers to authorize construction works.",
+            "vi": "Cảng vụ được toàn quyền ủy quyền thi công các công trình."
+        },
+        {
+            "en": "They may authorize district councils to aid persons in maintaining rights of common.",
+            "vi": "Họ có thể ủy quyền cho các hội đồng cấp huyện để hỗ trợ mọi người trong việc duy trì các quyền của chung."
+        }
+    ],
+    "words_form": [
+        "authorized",
+        "authorizes",
+        "authorizing"
+    ],
+    "meaning_vi": "ủy quyền"
+}

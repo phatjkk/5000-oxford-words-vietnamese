@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/splɪt/"
+    ],
+    "synonyms": [
+        "separating",
+        "fissure",
+        "riven",
+        "fragment",
+        "lam"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Split is defined as to break, separate, tear, divide or cut into two or more parts.",
+            "vi": "Tách được định nghĩa là bẻ, tách, xé, chia hoặc cắt thành hai hoặc nhiều phần."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of splitting or the result of it.",
+            "vi": "Hành động chia tách hoặc kết quả của nó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Having been divided or separated.",
+            "vi": "Đã được chia hoặc tách."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) Seaport in Croatia, on the Adriatic.",
+            "vi": "(địa điểm) Cảng biển ở Croatia, trên sông Adriatic."
+        },
+        {
+            "pos": "idiom",
+            "en": "split hairs  To see or make trivial distinctions; quibble.",
+            "vi": "lông chẻ Để nhìn hoặc phân biệt tầm thường; không phân minh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Remember now, split it fairly.",
+            "vi": "Hãy nhớ ngay bây giờ, hãy phân chia nó một cách công bằng."
+        },
+        {
+            "en": "Want to split the heavens.",
+            "vi": "Muốn chia đôi phương trời."
+        }
+    ],
+    "words_form": [
+        "splits",
+        "splitting"
+    ],
+    "meaning_vi": "chia"
+}

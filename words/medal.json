@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈmɛdl/"
+    ],
+    "synonyms": [
+        "badge",
+        "award",
+        "commemoration",
+        "medallion",
+        "reward"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To win a medal, as in a sports contest.",
+            "vi": "Để giành huy chương, như trong một cuộc thi thể thao."
+        },
+        {
+            "pos": "noun",
+            "en": "A small, flat piece of metal with a design or inscription stamped or inscribed on it, made to commemorate some event, or awarded for some distinguished action, merit, etc.",
+            "vi": "Một miếng kim loại nhỏ, phẳng có thiết kế hoặc dòng chữ được đóng dấu hoặc khắc trên đó, được làm để kỷ niệm sự kiện nào đó hoặc được trao cho một số hành động nổi bật, công trạng, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A gold medal was awarded for a harvester and self-binder (McCormick's).",
+            "vi": "Một huy chương vàng đã được trao cho một máy gặt và tự kết dính (của McCormick)."
+        },
+        {
+            "en": "In 1921 he was awarded the gold medal of the Society of Arts, London.",
+            "vi": "Năm 1921, ông được trao huy chương vàng của Hiệp hội Nghệ thuật, Luân Đôn."
+        }
+    ],
+    "words_form": [
+        "medaled",
+        "medaling",
+        "medalled",
+        "medalling",
+        "medals"
+    ],
+    "meaning_vi": "huy chương"
+}

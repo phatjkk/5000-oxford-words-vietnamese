@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ɔˈtɑnəmi/"
+    ],
+    "synonyms": [
+        "independence",
+        "self-reliance",
+        "freedom",
+        "legitimacy",
+        "sovereignty"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(mechanics) The capacity of a system to make a decision about its actions without the involvement of another system or operator.",
+            "vi": "(cơ học) Khả năng của một hệ thống để đưa ra quyết định về các hành động của nó mà không cần sự tham gia của một hệ thống hoặc người vận hành khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They will require autonomy at later stages.",
+            "vi": "Họ sẽ yêu cầu quyền tự chủ ở các giai đoạn sau."
+        },
+        {
+            "en": "Respecting autonomy in the two cases has radically different implications.",
+            "vi": "Việc tôn trọng quyền tự chủ trong hai trường hợp có ý nghĩa hoàn toàn khác nhau."
+        }
+    ],
+    "words_form": [
+        "autonomies"
+    ],
+    "meaning_vi": "quyền tự trị"
+}

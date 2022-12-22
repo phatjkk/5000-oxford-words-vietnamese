@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈtaɪni/"
+    ],
+    "synonyms": [
+        "miniature",
+        "small",
+        "petite",
+        "weeny",
+        "pintsized"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Extremely small.",
+            "vi": "Cực nhỏ."
+        },
+        {
+            "pos": "noun",
+            "en": "Anything very small.",
+            "vi": "Bất cứ điều gì rất nhỏ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Some are very tiny and some are very large.",
+            "vi": "Một số rất nhỏ và một số rất lớn."
+        },
+        {
+            "en": "I have two tame pigeons and a tiny canary bird.",
+            "vi": "Tôi có hai con chim bồ câu đã được thuần hóa và một con chim hoàng yến nhỏ."
+        }
+    ],
+    "words_form": [
+        "tinier",
+        "tiniest"
+    ],
+    "meaning_vi": "nhỏ bé"
+}

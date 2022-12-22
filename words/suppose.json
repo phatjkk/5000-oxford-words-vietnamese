@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/səˈpoʊz/"
+    ],
+    "synonyms": [
+        "reputed",
+        "speculation",
+        "conjectural",
+        "disbelieve",
+        "conjecture"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To suppose is to assume something without conviction or to assume something without full understanding or knowledge.",
+            "vi": "Giả sử là giả định điều gì đó mà không có niềm tin hoặc giả định điều gì đó mà không có sự hiểu biết hoặc kiến ​​thức đầy đủ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I suppose they're both a little artificial.",
+            "vi": "Tôi cho rằng cả hai đều hơi giả tạo."
+        },
+        {
+            "en": "Yeah, well, I suppose it's a little tough in the winter.",
+            "vi": "Ừm, tôi cho rằng nó hơi khó khăn vào mùa đông."
+        }
+    ],
+    "words_form": [
+        "supposed",
+        "supposes",
+        "supposing"
+    ],
+    "meaning_vi": "giả sử"
+}

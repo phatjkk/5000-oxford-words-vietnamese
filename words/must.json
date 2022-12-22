@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/məst/"
+    ],
+    "synonyms": [
+        "necessary",
+        "requirement",
+        "burden",
+        "commitment",
+        "need"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Used to express a command or admonition.",
+            "vi": "Được sử dụng để thể hiện một mệnh lệnh hoặc lời khuyên nhủ."
+        },
+        {
+            "pos": "noun",
+            "en": "The unfermented or fermenting juice expressed from fruit, especially grapes.",
+            "vi": "Nước ép chưa lên men hoặc lên men từ trái cây, đặc biệt là nho."
+        },
+        {
+            "pos": "adjective",
+            "en": "That must be done, etc.; necessary; essential.",
+            "vi": "Điều đó phải được thực hiện, vv; cần thiết; thiết yếu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She must be very uneasy about you.",
+            "vi": "Cô ấy chắc hẳn rất khó chịu về bạn."
+        },
+        {
+            "en": "We must not be late.",
+            "vi": "Chúng ta không được chậm trễ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "phải"
+}

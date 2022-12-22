@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌspɛsəfəˈkeɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "spec",
+        "stipulation",
+        "designation",
+        "requirement",
+        "standard"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a specification is a precise requirement, or a detailed description of workmanship, materials or processes.",
+            "vi": "Định nghĩa của một thông số kỹ thuật là một yêu cầu chính xác, hoặc mô tả chi tiết về tay nghề, vật liệu hoặc quy trình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Rankine, was therefore much vivified by Lord Kelvin's specification (Comptes Rendus, 1889) of a material gyrostatically constituted medium which would possess this character.",
+            "vi": "Rankine, do đó đã được đánh thức rất nhiều bởi đặc điểm kỹ thuật của Lord Kelvin (Comptes Rendus, 1889) về một phương tiện vật chất được cấu tạo theo kiểu con quay hồi chuyển sẽ sở hữu đặc tính này."
+        },
+        {
+            "en": "This partition is termed the specification of the separation.",
+            "vi": "Phân vùng này được gọi là đặc điểm kỹ thuật của sự phân tách."
+        }
+    ],
+    "words_form": [
+        "specifications"
+    ],
+    "meaning_vi": "sự chỉ rõ, sự ghi rõ, sự định rõ"
+}

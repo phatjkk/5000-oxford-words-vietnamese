@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/poʊz/"
+    ],
+    "synonyms": [
+        "fake",
+        "make-believe",
+        "attitudinizing",
+        "mannerism",
+        "sit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To pose is defined as to get into a certain position or to pretend to be someone.",
+            "vi": "Tạo dáng được định nghĩa là để vào một vị trí nhất định hoặc giả làm một ai đó."
+        },
+        {
+            "pos": "noun",
+            "en": "A studied or artificial manner or attitude, often assumed in an attempt to impress or deceive others.",
+            "vi": "Một cách hoặc thái độ được nghiên cứu hoặc giả tạo, thường được giả định nhằm cố gắng gây ấn tượng hoặc đánh lừa người khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "No, I suppose the possibility of snakes does pose a bigger threat.",
+            "vi": "Không, tôi cho rằng khả năng rắn gây ra mối đe dọa lớn hơn."
+        },
+        {
+            "en": "They did pose a threat to Carmen's goats, though.",
+            "vi": "Tuy nhiên, chúng đã gây ra mối đe dọa cho những con dê của Carmen."
+        }
+    ],
+    "words_form": [
+        "posed",
+        "poses",
+        "posing"
+    ],
+    "meaning_vi": "tư thế"
+}

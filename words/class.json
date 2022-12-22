@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/klæs/"
+    ],
+    "synonyms": [
+        "classify",
+        "distinction",
+        "brood",
+        "order",
+        "domain"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A division based on quality, rank, or grade, as:  A grade of mail. A package sent third class.A quality of accommodation on public transport. Tourist class.",
+            "vi": "Sự phân chia dựa trên chất lượng, thứ hạng hoặc cấp độ, như: Cấp độ thư. Một gói gửi hạng ba. Chất lượng chỗ ở trên phương tiện giao thông công cộng. Đẳng cấp du lịch."
+        },
+        {
+            "pos": "verb",
+            "en": "To put in a class; classify.",
+            "vi": "Để đưa vào một lớp học; phân loại."
+        },
+        {
+            "pos": "adjective",
+            "en": "First-class; very good.",
+            "vi": "Lớp học đầu tiên; rất tốt."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Classification.",
+            "vi": "Phân loại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Now tell me what kind of class you're attending.",
+            "vi": "Bây giờ hãy cho tôi biết bạn đang tham gia lớp học nào."
+        },
+        {
+            "en": "He skipped the class on good nom de plumes.",
+            "vi": "Anh ấy đã bỏ qua lớp học vì những bài học tốt."
+        }
+    ],
+    "words_form": [
+        "classed",
+        "classes"
+    ],
+    "meaning_vi": "lớp"
+}

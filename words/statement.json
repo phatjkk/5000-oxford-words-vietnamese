@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈsteɪtmənt/"
+    ],
+    "synonyms": [
+        "asseveration",
+        "announcement",
+        "remark",
+        "word",
+        "averment"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a statement is something that is said or written, or a document showing the account balance.",
+            "vi": "Định nghĩa của một báo cáo là một cái gì đó được nói hoặc viết, hoặc một tài liệu thể hiện số dư tài khoản."
+        },
+        {
+            "pos": "verb",
+            "en": "To provide an official document of a proposition, especially in the UK a Statement of Special Educational Needs.",
+            "vi": "Để cung cấp một tài liệu chính thức về một đề xuất, đặc biệt là ở Vương quốc Anh, một Tuyên bố về Nhu cầu Giáo dục Đặc biệt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His statement did nothing to slow Fred down.",
+            "vi": "Tuyên bố của anh ta không làm gì khiến Fred chậm lại."
+        },
+        {
+            "en": "No doubt he told them that Alexia had died, because after Jonathan's statement, that would be easiest.",
+            "vi": "Không nghi ngờ gì khi anh ấy nói với họ rằng Alexia đã chết, bởi vì sau câu nói của Jonathan, điều đó sẽ dễ dàng nhất."
+        }
+    ],
+    "words_form": [
+        "statements"
+    ],
+    "meaning_vi": "tuyên bố"
+}

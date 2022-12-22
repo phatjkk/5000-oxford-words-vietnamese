@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/klɔθ/"
+    ],
+    "synonyms": [
+        "fabric",
+        "rag",
+        "material",
+        "goods",
+        "tissue"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A piece of fabric or material used for a specific purpose, as a tablecloth.",
+            "vi": "Một mảnh vải hoặc vật liệu được sử dụng cho một mục đích cụ thể, làm khăn trải bàn."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of cloth is something made of fibrous material.",
+            "vi": "Định nghĩa về vải là một thứ được làm từ chất liệu dạng sợi."
+        },
+        {
+            "pos": "idiom",
+            "en": "in cloth  With a clothbound binding; as a clothbound book.",
+            "vi": "bằng vải Với ràng buộc bằng vải; như một cuốn sách bọc vải."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Why don't you get a wet cloth, Miss Spencer?",
+            "vi": "Sao cô không lấy khăn ướt, cô Spencer?"
+        },
+        {
+            "en": "He wore a fine, dark-blue, silk-lined cloth coat over a sheepskin.",
+            "vi": "Anh ta mặc một chiếc áo khoác vải mịn, màu xanh đậm, lót bằng da cừu."
+        }
+    ],
+    "words_form": [
+        "cloths"
+    ],
+    "meaning_vi": "vải"
+}

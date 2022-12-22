@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈɡræn(d)ˌfɑðər/"
+    ],
+    "synonyms": [
+        "grandpa",
+        "granddad",
+        "pap",
+        "granddaddy",
+        "grandad"
+    ],
+    "meaning": [
+        {
+            "pos": "hyponyms",
+            "en": "(father of someone’s father) Paternal grandfather.",
+            "vi": "(bố của bố ai đó) Ông nội."
+        },
+        {
+            "pos": "verb",
+            "en": "To exempt (an activity, practice, person, etc.) from a new law or regulation by or as by a grandfather clause.",
+            "vi": "Miễn (một hoạt động, thực hành, con người, v.v.) khỏi một luật hoặc quy định mới bằng hoặc theo một điều khoản nội dung."
+        },
+        {
+            "pos": "noun",
+            "en": "(by extension) A male forefather.",
+            "vi": "(theo phần mở rộng) Một ông tổ nam."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her grandfather knew my father a long time ago.",
+            "vi": "Ông nội cô ấy biết bố tôi từ lâu."
+        },
+        {
+            "en": "Seconds literally ticked away on the old grandfather clock in the next room.",
+            "vi": "Giây tích tắc theo nghĩa đen trên chiếc đồng hồ của cụ ông ở phòng bên cạnh."
+        }
+    ],
+    "words_form": [
+        "grandfathered",
+        "grandfathers"
+    ],
+    "meaning_vi": "ông (nội hoặc ngoại)"
+}

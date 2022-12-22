@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/reɪt/"
+    ],
+    "synonyms": [
+        "scale",
+        "standard",
+        "proportion",
+        "rank",
+        "price"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a rate is a quantity measured and compared to another quantity measured (such as a number of miles per hour) or is the cost of something.",
+            "vi": "Định nghĩa về tốc độ là một đại lượng được đo và so sánh với một đại lượng khác được đo (chẳng hạn như số dặm một giờ) hoặc là chi phí của một thứ gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "Rate is defined as to judge or estimate the value of something.",
+            "vi": "Tỷ lệ được định nghĩa là để đánh giá hoặc ước tính giá trị của một thứ gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "at any rate  Whatever the case may be; in any case: You should at any rate apologize.Used to indicate a revision or correction to a previous remark: We were delighted, or at any rate satisfied, with the results.",
+            "vi": "ở bất kỳ mức nào Dù trường hợp có thể là gì; Trong mọi trường hợp: Bạn nên xin lỗi bằng mọi giá. Dùng để chỉ ra một bản sửa đổi hoặc chỉnh sửa cho nhận xét trước đó: Chúng tôi rất vui hoặc hài lòng với kết quả đạt được."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "At any rate, it was none of her business.",
+            "vi": "Dù sao đi nữa, đó không phải là việc của cô ấy."
+        },
+        {
+            "en": "They said his pulse rate has increased over night, which might mean he is trying to wake up.",
+            "vi": "Họ cho biết nhịp tim của anh ấy đã tăng lên qua đêm, điều đó có thể có nghĩa là anh ấy đang cố gắng thức dậy."
+        }
+    ],
+    "words_form": [
+        "rated",
+        "rates",
+        "rating"
+    ],
+    "meaning_vi": "tỷ lệ"
+}

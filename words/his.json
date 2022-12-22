@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/hɪz/"
+    ],
+    "synonyms": [
+        "my",
+        "him",
+        "her",
+        "their",
+        "himself"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "That or those belonging to him.",
+            "vi": "Đó hoặc những thứ thuộc về anh ta."
+        },
+        {
+            "pos": "adjective",
+            "en": "Used as a modifier before a noun.",
+            "vi": "Được sử dụng như một bổ ngữ trước một danh từ."
+        },
+        {
+            "pos": "possessive pronominal adjective",
+            "en": "Of, belonging to, made by, or done by him.",
+            "vi": "Của, thuộc về, được thực hiện bởi hoặc được thực hiện bởi anh ta."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Nurturing was in his personality.",
+            "vi": "Sự nuôi dưỡng là trong nhân cách của anh ấy."
+        },
+        {
+            "en": "She stopped and gazed up at his face.",
+            "vi": "Cô dừng lại và nhìn lên khuôn mặt anh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "của anh ấy"
+}

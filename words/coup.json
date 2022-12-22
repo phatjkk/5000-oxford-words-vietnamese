@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ku/"
+    ],
+    "synonyms": [
+        "move",
+        "stroke",
+        "stratagem",
+        "upset",
+        "achievement"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a coup is a political uprising in which power changes hands or a successful strategic move.",
+            "vi": "Định nghĩa của một cuộc đảo chính là một cuộc nổi dậy chính trị trong đó quyền lực đổi tay hoặc một bước đi chiến lược thành công."
+        },
+        {
+            "pos": "idiom",
+            "en": "count coup  Among certain Native American peoples, to ceremoniously recount one's exploits in battle.",
+            "vi": "đếm cuộc đảo chính Giữa một số dân tộc Mỹ bản địa, để kể lại một cách nghi thức chiến tích của một người trong trận chiến."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The emperor's first great coup thus failed.",
+            "vi": "Cuộc đảo chính lớn đầu tiên của hoàng đế do đó đã thất bại."
+        },
+        {
+            "en": "He left Paris after the coup d'etat of 1851 and spent nine years in England.",
+            "vi": "Ông rời Paris sau cuộc đảo chính năm 1851 và sống chín năm ở Anh."
+        }
+    ],
+    "words_form": [
+        "coups"
+    ],
+    "meaning_vi": "đảo chính"
+}

@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/sut/"
+    ],
+    "synonyms": [
+        "outfit",
+        "befit",
+        "accommodate",
+        "costume",
+        "gratify"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Suit means a collection or set of things.",
+            "vi": "Suit có nghĩa là một bộ sưu tập hoặc một bộ đồ vật."
+        },
+        {
+            "pos": "verb",
+            "en": "To meet the requirements of; fit.",
+            "vi": "Để đáp ứng các yêu cầu của; Phù hợp."
+        },
+        {
+            "pos": "idiom",
+            "en": "bring suit  to institute legal, civil action; sue",
+            "vi": "khởi kiện để khởi kiện dân sự, pháp lý; kiện"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He always looked nice, but normally he would have worn a suit for the occasion.",
+            "vi": "Anh ấy luôn trông đẹp, nhưng bình thường anh ấy sẽ mặc một bộ vest cho dịp này."
+        },
+        {
+            "en": "When he succeeded in forming it to suit her, she patted him on his woolly head so vigorously that I thought some of his slips were intentional.",
+            "vi": "Khi anh ấy thành công trong việc tạo hình nó cho phù hợp với cô ấy, cô ấy vỗ mạnh vào đầu anh ấy thật mạnh mẽ đến mức tôi nghĩ rằng một số lần trượt chân của anh ấy là cố ý."
+        }
+    ],
+    "words_form": [
+        "suited",
+        "suits"
+    ],
+    "meaning_vi": "Bộ com lê"
+}

@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/ˈwɑʃɪŋ/",
+        "/ˈwɔʃɪŋ/"
+    ],
+    "synonyms": [
+        "wash",
+        "ablution",
+        "bath",
+        "cleaning",
+        "laundering"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or process of one that washes.",
+            "vi": "Hành động hoặc quá trình rửa."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of wash.",
+            "vi": "Trình bày phân từ rửa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This washing is a most important part of the process.",
+            "vi": "Quá trình rửa này là một phần quan trọng nhất của quá trình."
+        },
+        {
+            "en": "By the time Alex arrived for breakfast, she had it on the table and was washing the frying pan in the sink.",
+            "vi": "Vào lúc Alex đến ăn sáng, cô đã đặt nó trên bàn và đang rửa chảo rán trong bồn rửa."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "rửa"
+}

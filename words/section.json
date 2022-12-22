@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈsɛkʃ(ə)n/"
+    ],
+    "synonyms": [
+        "region",
+        "incision",
+        "disjunctive",
+        "segment",
+        "part"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One of several components; a piece.",
+            "vi": "Một trong một số thành phần; một mảnh."
+        },
+        {
+            "pos": "verb",
+            "en": "To section is defined as to divide something up into parts.",
+            "vi": "To section được định nghĩa là để chia một thứ gì đó thành nhiều phần."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a federal program in the U.S., providing the poor with rent subsidies and subsidizing the construction of low-income housing.",
+            "vi": "Chỉ định hoặc của một chương trình liên bang ở Hoa Kỳ, cung cấp cho người nghèo trợ cấp tiền thuê nhà và trợ cấp xây dựng nhà ở cho người có thu nhập thấp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The rubber is circular in section, and about 2 in.",
+            "vi": "Mặt cắt cao su có hình tròn và khoảng 2 inch."
+        },
+        {
+            "en": "Does any section of science consider time travel a possibility?",
+            "vi": "Có bộ phận nào của khoa học coi du hành thời gian là một khả năng không?"
+        }
+    ],
+    "words_form": [
+        "sectioned",
+        "sectioning",
+        "sections"
+    ],
+    "meaning_vi": "phần"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈloʊk(ə)l/"
+    ],
+    "synonyms": [
+        "neighborhood",
+        "divisional",
+        "vernacular",
+        "sectional",
+        "district"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of local is relating to a particular space or place or serving only a small portion of something.",
+            "vi": "Định nghĩa về địa phương liên quan đến một không gian hoặc địa điểm cụ thể hoặc chỉ phục vụ một phần nhỏ của thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Local is defined as a person or thing belonging to a specific town or area.",
+            "vi": "Địa phương được định nghĩa là người hoặc vật thuộc một thị trấn hoặc khu vực cụ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The decision produced a local uproar.",
+            "vi": "Quyết định này đã tạo ra một sự náo động ở địa phương."
+        },
+        {
+            "en": "The local police think it's tied into the kidnapping he 'solved'.",
+            "vi": "Cảnh sát địa phương cho rằng nó có liên quan đến vụ bắt cóc mà anh ta đã 'giải quyết'."
+        }
+    ],
+    "words_form": [
+        "locals"
+    ],
+    "meaning_vi": "địa phương"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈpɑkət/"
+    ],
+    "synonyms": [
+        "hollow",
+        "opening",
+        "poke",
+        "pod",
+        "conceal"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Pocket is defined as to hide away or take something in a deceptive way.",
+            "vi": "Pocket được định nghĩa là để che giấu hoặc lấy thứ gì đó theo cách lừa đảo."
+        },
+        {
+            "pos": "noun",
+            "en": "A small sack or bag.",
+            "vi": "Một bao hoặc túi nhỏ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Not widespread; contained; isolated.",
+            "vi": "Không phổ biến; chứa đựng; bị cô lập."
+        },
+        {
+            "pos": "idiom",
+            "en": "in (one's) pocket  In one's power, influence, or possession: The defendant had the jury in his pocket.",
+            "vi": "trong túi của (một người) Trong quyền lực, ảnh hưởng hoặc sở hữu của một người: Bị cáo có bồi thẩm đoàn trong túi của mình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He pulled out a pocket watch and looked at it.",
+            "vi": "Anh lôi ra một chiếc đồng hồ bỏ túi và xem xét nó."
+        },
+        {
+            "en": "She dug it out of her pocket and opened it.",
+            "vi": "Cô ấy lấy nó ra khỏi túi và mở nó ra."
+        }
+    ],
+    "words_form": [
+        "pocketed",
+        "pocketing",
+        "pockets"
+    ],
+    "meaning_vi": "túi"
+}

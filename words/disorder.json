@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˌdɪsˈɔrdər/"
+    ],
+    "synonyms": [
+        "confusion",
+        "turmoil",
+        "peace",
+        "order",
+        "tranquility"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An ailment that affects the function of mind or body.",
+            "vi": "Một căn bệnh ảnh hưởng đến chức năng của tâm trí hoặc cơ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "To throw into confusion or disarray.",
+            "vi": "Để ném vào sự nhầm lẫn hoặc lộn xộn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But before starting he was called upon to suppress disorder at home.",
+            "vi": "Nhưng trước khi bắt đầu, anh ta đã được kêu gọi dẹp loạn ở nhà."
+        },
+        {
+            "en": "The tiny bit of disorder helped her relax.",
+            "vi": "Một chút rối loạn nhỏ đã giúp cô ấy thư giãn."
+        }
+    ],
+    "words_form": [
+        "disordered",
+        "disordering",
+        "disorders"
+    ],
+    "meaning_vi": "rối loạn"
+}

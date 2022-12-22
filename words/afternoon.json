@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˌæftərˈnun/"
+    ],
+    "synonyms": [
+        "evening",
+        "midday",
+        "lunchtime",
+        "teatime",
+        "day"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The latter part.",
+            "vi": "Phần sau."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, in, or for the afternoon.",
+            "vi": "Của, trong, hoặc cho buổi chiều."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Toward four o'clock in the afternoon Murat's troops were entering Moscow.",
+            "vi": "Khoảng bốn giờ chiều, quân của Murat tiến vào Matxcova."
+        },
+        {
+            "en": "In the afternoon there were to be games and races.",
+            "vi": "Vào buổi chiều có các trò chơi và cuộc đua."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "buổi chiều"
+}

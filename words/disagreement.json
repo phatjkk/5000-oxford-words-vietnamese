@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌdɪsəˈɡrimənt/"
+    ],
+    "synonyms": [
+        "dispute",
+        "argument",
+        "divisiveness",
+        "discrepance",
+        "strife"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A failure or refusal to agree.",
+            "vi": "Một sự thất bại hoặc từ chối đồng ý."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We were in strong disagreement over continuing.",
+            "vi": "Chúng tôi đã bất đồng mạnh mẽ về việc tiếp tục."
+        },
+        {
+            "en": "Brown, who described experiments which were in disagreement with Pasteur's dictum.",
+            "vi": "Brown, người đã mô tả các thí nghiệm không đồng ý với mệnh đề của Pasteur."
+        }
+    ],
+    "words_form": [
+        "disagreements"
+    ],
+    "meaning_vi": "bất đồng ý kiến"
+}

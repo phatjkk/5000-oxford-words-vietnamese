@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/dɪr/"
+    ],
+    "synonyms": [
+        "cherished",
+        "worthy",
+        "sweetheart",
+        "costly",
+        "important"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Dear is a person who is loved.",
+            "vi": "Thân là một người được yêu."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of dear is precious or highly thought of.",
+            "vi": "Định nghĩa về thân yêu là quý giá hay được nghĩ đến nhiều."
+        },
+        {
+            "pos": "interjection",
+            "en": "Dear is defined as the greeting of a letter.",
+            "vi": "Dear được định nghĩa là lời chào của một lá thư."
+        },
+        {
+            "pos": "adverb",
+            "en": "With deep affection.",
+            "vi": "Với tình cảm sâu sắc."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To endear.",
+            "vi": "(lỗi thời) Để quý mến."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll miss my dear brother.",
+            "vi": "Tôi sẽ nhớ anh trai thân yêu của tôi."
+        },
+        {
+            "en": "And that wouldn't bother dear old Arthur?",
+            "vi": "Và điều đó sẽ không làm phiền Arthur già yêu dấu?"
+        }
+    ],
+    "words_form": [
+        "dearest"
+    ],
+    "meaning_vi": "kính thưa"
+}

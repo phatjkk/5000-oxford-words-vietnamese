@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈdʒɛn(ə)rəl/"
+    ],
+    "synonyms": [
+        "across-the-board",
+        "comprehensive",
+        "overall",
+        "widespread",
+        "sweeping"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Concerned with, applicable to, or affecting the whole or every member of a class or category.",
+            "vi": "Liên quan đến, áp dụng hoặc ảnh hưởng đến toàn bộ hoặc mọi thành viên của một lớp hoặc thể loại."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a general is a military officer.",
+            "vi": "Định nghĩa tướng quân là tướng quân."
+        },
+        {
+            "pos": "idiom",
+            "en": "in general  Generally.",
+            "vi": "nói chung Nói chung."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She chose a trail that appeared to head in the general direction she wanted to go and began walking.",
+            "vi": "Cô ấy chọn một con đường mòn có vẻ như đi về hướng chung mà cô ấy muốn đi và bắt đầu đi bộ."
+        },
+        {
+            "en": "Life in general was going down hill for her then.",
+            "vi": "Cuộc sống nói chung lúc đó đang xuống dốc đối với cô ấy."
+        }
+    ],
+    "words_form": [
+        "generals"
+    ],
+    "meaning_vi": "chung"
+}

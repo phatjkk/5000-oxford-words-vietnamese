@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈfaɪ(ə)r/"
+    ],
+    "synonyms": [
+        "inferno",
+        "flame",
+        "blaze",
+        "incendiary",
+        "conflagration"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(farriery) To cauterize.",
+            "vi": "(nông nghiệp) Để cauterize."
+        },
+        {
+            "pos": "noun",
+            "en": "Fire is defined as flames, or a burning sensation in the body, or something that is burning, or strong enthusiasm.",
+            "vi": "Lửa được định nghĩa là ngọn lửa, hoặc cảm giác nóng trong cơ thể, hoặc một thứ gì đó đang bùng cháy, hoặc nhiệt tình mạnh mẽ."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Refi.",
+            "vi": "Refi."
+        },
+        {
+            "pos": "idiom",
+            "en": "between two fires  Being attacked from two sources or sides simultaneously.",
+            "vi": "giữa hai đám cháy Bị tấn công từ hai nguồn hoặc hai phía đồng thời."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A fire burned brightly in the fireplace.",
+            "vi": "Một ngọn lửa cháy sáng trong lò sưởi."
+        },
+        {
+            "en": "They were sitting around the fire and trying to keep themselves warm.",
+            "vi": "Họ đang ngồi quanh đống lửa và cố gắng giữ ấm cho mình."
+        }
+    ],
+    "words_form": [
+        "fired",
+        "fires",
+        "firing"
+    ],
+    "meaning_vi": "lửa"
+}

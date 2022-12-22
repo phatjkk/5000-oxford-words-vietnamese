@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/d(j)u/"
+    ],
+    "synonyms": [
+        "scheduled",
+        "planned",
+        "overdue",
+        "matured",
+        "owed"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Due is defined as something that is deserved or needs to be paid.",
+            "vi": "Đến hạn được định nghĩa là thứ xứng đáng hoặc cần phải trả."
+        },
+        {
+            "pos": "adjective",
+            "en": "In accord with right, convention, or courtesy; appropriate.",
+            "vi": "Phù hợp với quyền, quy ước, hoặc phép lịch sự; phù hợp."
+        },
+        {
+            "pos": "adverb",
+            "en": "Straight; directly.",
+            "vi": "Dài; trực tiếp."
+        },
+        {
+            "pos": "idiom",
+            "en": "become due  to become payable as previously arranged",
+            "vi": "đến hạn phải trả như đã thu xếp trước đó"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What is her due date?",
+            "vi": "Ngày đến hạn của cô ấy là gì?"
+        },
+        {
+            "en": "In due course, Hogwarts is going to need a very special home.",
+            "vi": "Tất nhiên, Hogwarts sẽ cần một ngôi nhà rất đặc biệt."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "do"
+}

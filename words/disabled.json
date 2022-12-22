@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˌdɪsˈeɪb(ə)ld/"
+    ],
+    "synonyms": [
+        "incapacitated",
+        "handicapped",
+        "impaired",
+        "crippled",
+        "worn-out"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The disabled are defined as the group of people with physical or mental difficulties.",
+            "vi": "Người tàn tật được định nghĩa là nhóm người có khó khăn về thể chất hoặc tinh thần."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of disabled is not working correctly or someone who isn’t able to do standard physical or mental tasks.",
+            "vi": "Định nghĩa về người tàn tật không hoạt động chính xác hoặc một người nào đó không thể làm các công việc tiêu chuẩn về thể chất hoặc tinh thần."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of disable.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ của disable."
+        },
+        {
+            "pos": "idiom",
+            "en": "the disabled  those who are physically or mentally disabled; the handicapped",
+            "vi": "người tàn tật, những người bị khuyết tật về thể chất hoặc tinh thần; Người khuyết tật"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I think he disabled the field.",
+            "vi": "Tôi nghĩ anh ấy đã vô hiệu hóa lĩnh vực này."
+        },
+        {
+            "en": "I left my ID at the Peak and disabled my government implant.",
+            "vi": "Tôi đã để lại giấy tờ tùy thân của mình tại Peak và vô hiệu hóa thiết bị cấy ghép của chính phủ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bị vô hiệu hóa"
+}

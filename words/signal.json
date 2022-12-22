@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈsɪɡnəl/"
+    ],
+    "synonyms": [
+        "beacon",
+        "words",
+        "indicate",
+        "nod",
+        "arrow"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a signal is a message or means of communicating a message.",
+            "vi": "Định nghĩa của một tín hiệu là một thông điệp hoặc phương tiện truyền đạt một thông điệp."
+        },
+        {
+            "pos": "adjective",
+            "en": "Signal means out of the ordinary or remarkable.",
+            "vi": "Tín hiệu có nghĩa là khác thường hoặc đáng chú ý."
+        },
+        {
+            "pos": "verb",
+            "en": "To signal is defined as to communicate or indicate.",
+            "vi": "Tín hiệu được định nghĩa là để giao tiếp hoặc chỉ ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Place your thumb on the pad, and it'll signal me.",
+            "vi": "Đặt ngón tay cái của bạn lên miếng đệm, và nó sẽ báo hiệu cho tôi."
+        },
+        {
+            "en": "His thrashing was the signal he was in the throes of dream.",
+            "vi": "Cú đập của anh ấy là tín hiệu anh ấy đang ở trong cơn mơ."
+        }
+    ],
+    "words_form": [
+        "signaled",
+        "signaling",
+        "signalled",
+        "signalling",
+        "signals"
+    ],
+    "meaning_vi": "tín hiệu"
+}

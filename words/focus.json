@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/ˈfoʊkəs/"
+    ],
+    "synonyms": [
+        "concentrate",
+        "center-of-attention",
+        "locus",
+        "buckle down",
+        "sharpen"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To adjust one's vision or an optical device so as to render a clear, distinct image.",
+            "vi": "Để điều chỉnh tầm nhìn của một người hoặc thiết bị quang học để hiển thị hình ảnh rõ ràng, riêng biệt."
+        },
+        {
+            "pos": "noun",
+            "en": "The point where rays of light, heat, etc. or waves of sound come together, or from which they spread or seem to spread; specif., the point where rays of light reflected by a mirror or refracted by a lens meet (called real focus) or the point where they would meet if prolonged backward through the lens or mirror (called virtual focus)",
+            "vi": "Điểm mà các tia sáng, nhiệt, v.v. hoặc sóng âm thanh kết hợp với nhau, hoặc từ đó chúng lan truyền hoặc dường như lan truyền; đặc biệt, điểm mà các tia sáng phản xạ qua gương hoặc thấu kính khúc xạ gặp nhau (được gọi là tiêu điểm thực) hoặc điểm mà chúng sẽ gặp nhau nếu kéo dài lùi lại qua thấu kính hoặc gương (được gọi là tiêu điểm ảo)"
+        },
+        {
+            "pos": "idiom",
+            "en": "in focus  clear; distinct; sharply defined",
+            "vi": "trong tiêu điểm rõ ràng; riêng biệt; Được định nghĩa rõ ràng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She shook her head, her focus back on Alex.",
+            "vi": "Cô lắc đầu, tập trung lại vào Alex."
+        },
+        {
+            "en": "He forced himself to focus on something else.",
+            "vi": "Anh buộc mình phải tập trung vào một thứ khác."
+        }
+    ],
+    "words_form": [
+        "foci",
+        "focused",
+        "focuses",
+        "focusing",
+        "focussed",
+        "focusses",
+        "focussing"
+    ],
+    "meaning_vi": "tiêu điểm"
+}

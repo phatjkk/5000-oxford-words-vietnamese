@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/bɪr/"
+    ],
+    "synonyms": [
+        "slops",
+        "brew",
+        "stein",
+        "malt-liquor",
+        "bottled"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of beer is an alcoholic beverage generally made from malted grain, flavored with hops or a carbonated soft drink made with flavor from roots or other parts of a plant.",
+            "vi": "Định nghĩa về bia là một loại đồ uống có cồn nói chung được làm từ ngũ cốc mạch nha, có hương vị hoa bia hoặc một loại nước ngọt có ga được làm từ rễ hoặc các bộ phận khác của cây."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "When he spoke, it didn't sound as if either beer was his first.",
+            "vi": "Khi anh ấy nói, nó không giống như thể bia là lần đầu tiên của anh ấy."
+        },
+        {
+            "en": "He left his beer untouched.",
+            "vi": "Anh ta để nguyên bia của mình."
+        }
+    ],
+    "words_form": [
+        "beers"
+    ],
+    "meaning_vi": "bia"
+}

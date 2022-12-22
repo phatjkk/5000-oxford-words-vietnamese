@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/du/"
+    ],
+    "synonyms": [
+        "deal with",
+        "accomplish",
+        "achieve",
+        "fulfill",
+        "give"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Used as a substitute for an antecedent verb or verb phrase.",
+            "vi": "Được sử dụng để thay thế cho một động từ hoặc cụm động từ đi trước."
+        },
+        {
+            "pos": "noun",
+            "en": "A statement of what should be done.",
+            "vi": "Một tuyên bố về những gì nên làm."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Doctor of Optometry.",
+            "vi": "Tiến sĩ Nhãn khoa."
+        },
+        {
+            "pos": "adverb",
+            "en": "(rare) Abbreviation of ditto.",
+            "vi": "(hiếm) Viết tắt của ditto."
+        },
+        {
+            "pos": "idiom",
+            "en": "can  To prefer not to experience or deal with: I could do without their complaints.",
+            "vi": "có thể Không muốn trải nghiệm hoặc đối phó với: Tôi có thể làm mà không có khiếu nại của họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Do you like fish?",
+            "vi": "Bạn có thích cá không?"
+        },
+        {
+            "en": "I never thought I could do it.",
+            "vi": "Tôi chưa bao giờ nghĩ rằng mình có thể làm được."
+        }
+    ],
+    "words_form": [
+        "did",
+        "does",
+        "doing",
+        "done",
+        "dos"
+    ],
+    "meaning_vi": "làm"
+}

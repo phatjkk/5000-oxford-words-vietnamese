@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/bækˈtɪərɪə/"
+    ],
+    "synonyms": [
+        "bacilli",
+        "germs",
+        "microbes",
+        "organisms",
+        "pathogens"
+    ],
+    "meaning": [
+        {
+            "pos": "pluralNoun",
+            "en": "Any of a division (Bacteria) of monerans, microorganisms which are typically one-celled, have no chlorophyll, multiply by simple division, and can be seen only with a microscope: they occur in three main forms, spherical (cocci), rod-shaped (bacilli), and spiral (spirilla): some bacteria cause diseases such as pneumonia and anthrax, and others are necessary for fermentation, nitrogen fixation, etc.",
+            "vi": "Bất kỳ phân chia nào (Vi khuẩn) monerans, vi sinh vật thường là một tế bào, không có chất diệp lục, nhân lên bằng cách phân chia đơn giản và chỉ có thể nhìn thấy bằng kính hiển vi: chúng xảy ra ở ba dạng chính, hình cầu (cầu khuẩn), hình que- hình (trực khuẩn), và xoắn (spirilla): một số vi khuẩn gây ra các bệnh như viêm phổi và bệnh than, và những vi khuẩn khác cần thiết cho quá trình lên men, cố định nitơ, v.v."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of bacteria are microorganisms that are the basis of fermentation and infectious diseases.",
+            "vi": "Định nghĩa vi khuẩn là vi sinh vật là cơ sở của quá trình lên men và các bệnh truyền nhiễm."
+        },
+        {
+            "pos": "pronoun",
+            "en": "In the three-domain system, a taxonomic domain comprising the single kingdom also called Bacteria, containing about 25 phyla.",
+            "vi": "Trong hệ thống ba miền, một miền phân loại bao gồm giới đơn lẻ cũng được gọi là Vi khuẩn, chứa khoảng 25 phyla."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Venter's plan is to use bacteria to brew fuel, much like we brew beer today.",
+            "vi": "Kế hoạch của Venter là sử dụng vi khuẩn để sản xuất nhiên liệu, giống như cách chúng ta nấu bia ngày nay."
+        },
+        {
+            "en": "Bacteria can process toxic wastes and oil spills into harmless biodegradable materials.",
+            "vi": "Vi khuẩn có thể xử lý chất thải độc hại và dầu tràn vào các vật liệu phân hủy sinh học vô hại."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "pluralNoun",
+            "en": "Any of a division (Bacteria) of monerans, microorganisms which are typically one-celled, have no chlorophyll, multiply by simple division, and can be seen only with a microscope: they occur in three main forms, spherical (cocci), rod-shaped (bacilli), and spiral (spirilla): some bacteria cause diseases such as pneumonia and anthrax, and others are necessary for fermentation, nitrogen fixation, etc.",
+            "vi": "Bất kỳ phân chia nào (Vi khuẩn) monerans, vi sinh vật thường là một tế bào, không có chất diệp lục, nhân lên bằng cách phân chia đơn giản và chỉ có thể nhìn thấy bằng kính hiển vi: chúng xảy ra ở ba dạng chính, hình cầu (cầu khuẩn), hình que- hình (trực khuẩn), và xoắn (spirilla): một số vi khuẩn gây ra các bệnh như viêm phổi và bệnh than, và những vi khuẩn khác cần thiết cho quá trình lên men, cố định nitơ, v.v."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of bacteria are microorganisms that are the basis of fermentation and infectious diseases.",
+            "vi": "Định nghĩa vi khuẩn là vi sinh vật là cơ sở của quá trình lên men và các bệnh truyền nhiễm."
+        },
+        {
+            "pos": "pronoun",
+            "en": "In the three-domain system, a taxonomic domain comprising the single kingdom also called Bacteria, containing about 25 phyla.",
+            "vi": "Trong hệ thống ba miền, một miền phân loại bao gồm giới đơn lẻ cũng được gọi là Vi khuẩn, chứa khoảng 25 phyla."
+        }
+    ]
+}

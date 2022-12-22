@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈmoʊdər/"
+    ],
+    "synonyms": [
+        "engine",
+        "centrifugal",
+        "machine",
+        "device",
+        "instrument"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A machine or device that converts any form of energy into mechanical energy, or imparts motion.",
+            "vi": "Máy hoặc thiết bị chuyển đổi bất kỳ dạng năng lượng nào thành cơ năng hoặc truyền chuyển động."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a nerve carrying impulses from the central nervous system to a muscle that produces motion.",
+            "vi": "Chỉ định hoặc của một dây thần kinh mang các xung động từ hệ thống thần kinh trung ương đến một cơ tạo ra chuyển động."
+        },
+        {
+            "pos": "verb",
+            "en": "To ride in a motor vehicle; esp., to travel by automobile.",
+            "vi": "Đi xe cơ giới; đặc biệt là đi du lịch bằng ô tô."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "When she caught up with a motor home going forty miles an hour, she found no place to pass.",
+            "vi": "Khi cô bắt kịp chiếc xe máy chạy về nhà bốn mươi dặm một giờ, cô không tìm thấy nơi nào để vượt qua."
+        },
+        {
+            "en": "A motor home passed by, with California plates, only the open road of the entire country ahead of them.",
+            "vi": "Một ngôi nhà có động cơ chạy ngang qua, với biển số California, chỉ con đường rộng mở của cả đất nước phía trước họ."
+        }
+    ],
+    "words_form": [
+        "motored",
+        "motoring",
+        "motors"
+    ],
+    "meaning_vi": "xe máy"
+}

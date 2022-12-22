@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈaʊtˌlaɪn/"
+    ],
+    "synonyms": [
+        "draught",
+        "shape",
+        "edge",
+        "periphery",
+        "figuration"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To outline is to summarize the main points or to draw the outer edge of something.",
+            "vi": "Lập dàn ý là tóm tắt các điểm chính hoặc để vẽ các cạnh bên ngoài của một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of an outline is the drawn edge of a shape or image.",
+            "vi": "Định nghĩa của một đường viền là cạnh được vẽ của một hình dạng hoặc hình ảnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "War as the remedy will fall out of favor for the many reasons I outline above.",
+            "vi": "Chiến tranh như một phương pháp khắc phục sẽ không còn được ưa chuộng vì nhiều lý do mà tôi đã nêu ở trên."
+        },
+        {
+            "en": "She carefully drew the outline of a truck around the words on the top.",
+            "vi": "Cô ấy cẩn thận vẽ đường viền của một chiếc xe tải xung quanh các chữ trên đầu."
+        }
+    ],
+    "words_form": [
+        "outlined",
+        "outlines",
+        "outlining"
+    ],
+    "meaning_vi": "đề cương"
+}

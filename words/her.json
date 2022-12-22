@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/hər/"
+    ],
+    "synonyms": [
+        "herself",
+        "hers",
+        "his",
+        "i",
+        "my"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Her is defined as she or a female.",
+            "vi": "Cô ấy được xác định là cô ấy hoặc một phụ nữ."
+        },
+        {
+            "pos": "noun",
+            "en": "A female.",
+            "vi": "Một người phụ nữ."
+        },
+        {
+            "pos": "possessive pronominal adjective",
+            "en": "Of, belonging to, made by, or done by her.",
+            "vi": "Của, thuộc về, được thực hiện bởi hoặc được thực hiện bởi cô ấy."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Heraldry.",
+            "vi": "Huy hiệu."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of her is the possessive form of she.",
+            "vi": "Định nghĩa về cô ấy là hình thức chiếm hữu của cô ấy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her father is very rich and stingy.",
+            "vi": "Cha cô ấy rất giàu có và keo kiệt."
+        },
+        {
+            "en": "Even so, she had accepted it in her mind to a degree.",
+            "vi": "Mặc dù vậy, cô đã chấp nhận nó trong tâm trí của mình ở một mức độ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "cô ấy"
+}

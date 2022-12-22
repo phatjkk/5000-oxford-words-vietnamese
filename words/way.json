@@ -1,0 +1,68 @@
+{
+    "spelling": [
+        "/weɪ/"
+    ],
+    "synonyms": [
+        "direction",
+        "method",
+        "route",
+        "approach",
+        "tendency"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Way is a space for passing or going from one place to another, or a manner of doing something.",
+            "vi": "Đường đi là không gian để đi qua hoặc đi từ nơi này đến nơi khác, hoặc một cách thức thực hiện một điều gì đó."
+        },
+        {
+            "pos": "adverb",
+            "en": "(slang) Very, extremely.",
+            "vi": "(tiếng lóng) Rất, vô cùng."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "See also way.",
+            "vi": "Xem thêm cách."
+        },
+        {
+            "pos": "interjection",
+            "en": "(only in reply to no way) It is true.",
+            "vi": "(chỉ để trả lời không có cách nào) Đó là sự thật."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To travel.",
+            "vi": "(lỗi thời) Để đi du lịch."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Yaw.",
+            "vi": "Ngáp."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Christianity (in translations of texts from the 1st century AD, notably the Acts of the Apostles)",
+            "vi": "Cơ đốc giáo (trong các bản dịch của các văn bản từ thế kỷ 1 sau Công nguyên, đặc biệt là Sách Công vụ các sứ đồ)"
+        },
+        {
+            "pos": "idiom",
+            "en": "all the way  From beginning to end; completely: Drove all the way from Detroit to Pittsburgh.",
+            "vi": "tất cả các cách Từ đầu đến cuối; hoàn toàn: Vượt qua tất cả các con đường từ Detroit đến Pittsburgh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Travel the way you wish to go.",
+            "vi": "Đi du lịch theo cách bạn muốn đi."
+        },
+        {
+            "en": "I thought that was the best way to carry her.",
+            "vi": "Tôi nghĩ đó là cách tốt nhất để bế cô ấy."
+        }
+    ],
+    "words_form": [
+        "ways"
+    ],
+    "meaning_vi": "cách"
+}

@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˌkɑnstəˈt(j)uʃ(ə)n/"
+    ],
+    "synonyms": [
+        "institution",
+        "habit",
+        "establishment",
+        "charter",
+        "physique"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The fundamental and organic laws and principles of a country or state that create a system of government and provides a basis against which the validity of all other laws is determined.",
+            "vi": "Các luật và nguyên tắc cơ bản và hữu cơ của một quốc gia hoặc nhà nước tạo ra hệ thống chính quyền và cung cấp cơ sở để xác định hiệu lực của tất cả các luật khác."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The supreme law of some countries, such as Australia, Ireland, and the United States.",
+            "vi": "Luật tối cao của một số quốc gia, chẳng hạn như Úc, Ireland và Hoa Kỳ."
+        },
+        {
+            "pos": "idiom",
+            "en": "the Constitution  the document containing the fundamental laws of the United States: it consists of the seven original articles, adopted in 1789, and twenty-seven amendments",
+            "vi": "Hiến pháp tài liệu chứa đựng các luật cơ bản của Hoa Kỳ: nó bao gồm bảy điều ban đầu, được thông qua vào năm 1789, và hai mươi bảy điều sửa đổi"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He contended such a visit was in violation of the Fourth Amendment of the Constitution.",
+            "vi": "Ông cho rằng chuyến thăm như vậy là vi phạm Tu chính án thứ tư của Hiến pháp."
+        },
+        {
+            "en": "In 1872, an entirely new constitution was adopted.",
+            "vi": "Năm 1872, một hiến pháp hoàn toàn mới đã được thông qua."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hiến pháp"
+}

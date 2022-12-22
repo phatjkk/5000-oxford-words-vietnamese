@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/fɑrm/"
+    ],
+    "synonyms": [
+        "field",
+        "ranch",
+        "plantation",
+        "garden",
+        "holding"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To grow (a particular crop).",
+            "vi": "Để phát triển (một loại cây trồng cụ thể)."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a farm is a place where crops are grown or animals are raised, or a piece of land leased by the government to earn tax money.",
+            "vi": "Định nghĩa nông trại là nơi trồng trọt hoặc chăn nuôi động vật, hoặc một mảnh đất được chính phủ cho thuê để kiếm tiền thuế."
+        },
+        {
+            "pos": "idiom",
+            "en": "farm out  to rent (land, a business, etc.) in return for a fixed payment to send (work) from a shop, office, etc. to workers on the outside to let out the labor of (a convict, etc.) for a fixed amount to destroy the fertility of (land), as by failing to rotate crops to assign to a farm",
+            "vi": "trang trại để cho thuê (đất đai, kinh doanh, v.v.) để đổi lại một khoản thanh toán cố định để gửi (làm việc) từ cửa hàng, văn phòng, v.v. cho công nhân bên ngoài để thoát khỏi sức lao động của (một người bị kết án, v.v.) cho một số tiền cố định để phá hủy độ màu mỡ của (đất đai), vì không thể luân canh cây trồng để giao cho một trang trại"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A farm boy gone city.",
+            "vi": "Một cậu bé nông dân đã đi thành phố."
+        },
+        {
+            "en": "The only business experience she had was the goat dairy, the non-functional farm and a horse ranch that had been in the fetal stage for years.",
+            "vi": "Kinh nghiệm kinh doanh duy nhất mà cô có là chăn nuôi dê sữa, trang trại phi chức năng và một trang trại nuôi ngựa đã trong giai đoạn bào thai trong nhiều năm."
+        }
+    ],
+    "words_form": [
+        "farmed",
+        "farming",
+        "farms"
+    ],
+    "meaning_vi": "trang trại"
+}

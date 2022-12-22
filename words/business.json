@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈbɪznəs/"
+    ],
+    "synonyms": [
+        "transaction",
+        "marketing",
+        "commerce",
+        "conglomerate",
+        "pursuit"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of business is an occupation or trade and the purchase and sale of products or services to make a profit.",
+            "vi": "Định nghĩa của kinh doanh là một nghề nghiệp hoặc thương mại và việc mua và bán các sản phẩm hoặc dịch vụ để kiếm lợi nhuận."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or for business.",
+            "vi": "Của hoặc cho doanh nghiệp."
+        },
+        {
+            "pos": "idiom",
+            "en": "do business with  to engage in commerce with to have dealings with",
+            "vi": "kinh doanh với để tham gia vào thương mại với để có giao dịch với"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I mean, I could still have my business in town.",
+            "vi": "Ý tôi là, tôi vẫn có thể kinh doanh trong thị trấn."
+        },
+        {
+            "en": "She'd need that time to settle her business and pack her things.",
+            "vi": "Cô ấy cần thời gian đó để giải quyết công việc và đóng gói đồ đạc của mình."
+        }
+    ],
+    "words_form": [
+        "businesses"
+    ],
+    "meaning_vi": "kinh doanh"
+}

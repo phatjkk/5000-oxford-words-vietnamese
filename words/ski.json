@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ski/"
+    ],
+    "synonyms": [
+        "skiing",
+        "heli-skiing",
+        "snowboard",
+        "snowboarding",
+        "backcountry"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something that is used as a runner on a vehicle.",
+            "vi": "Một cái gì đó được sử dụng như một người chạy trên một chiếc xe."
+        },
+        {
+            "pos": "verb",
+            "en": "To travel or glide on skis, especially as a sport.",
+            "vi": "Để đi du lịch hoặc lướt trên ván trượt, đặc biệt là như một môn thể thao."
+        },
+        {
+            "pos": "suffix",
+            "en": "(informal, humorous) Added to a word, name, or phrase to invoke Russianness.",
+            "vi": "(thân mật, hài hước) Được thêm vào một từ, tên hoặc cụm từ để gợi ý tiếng Nga."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Time to get out of these ski clothes and do some work.",
+            "vi": "Đã đến lúc cởi những bộ quần áo trượt tuyết này và làm một số công việc."
+        },
+        {
+            "en": "I don't think it would be fashionable if I wore a ski mask.",
+            "vi": "Tôi không nghĩ nó sẽ hợp thời trang nếu tôi đeo một chiếc mặt nạ trượt tuyết."
+        }
+    ],
+    "words_form": [
+        "skied",
+        "skiing",
+        "skis"
+    ],
+    "meaning_vi": "trượt tuyết"
+}

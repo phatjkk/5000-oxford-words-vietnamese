@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈprɪnsəpəl/"
+    ],
+    "synonyms": [
+        "law",
+        "postulate",
+        "belief",
+        "axiom",
+        "teaching"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A basic truth, law, or assumption.",
+            "vi": "Một sự thật, định luật hoặc giả định cơ bản."
+        },
+        {
+            "pos": "verb",
+            "en": "To equip with principles; to establish, or fix, in certain principles; to impress with any tenet or rule of conduct.",
+            "vi": "Để trang bị các nguyên tắc; để thiết lập, hoặc sửa chữa, theo các nguyên tắc nhất định; để gây ấn tượng với bất kỳ nguyên lý hoặc quy tắc ứng xử nào."
+        },
+        {
+            "pos": "idiom",
+            "en": "in principle  With regard to the basics: An idea that is acceptable in principle.",
+            "vi": "về nguyên tắc Đối với những điều cơ bản: Một ý tưởng có thể chấp nhận được về nguyên tắc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The basic principle was that those who worked hard would be rewarded.",
+            "vi": "Nguyên tắc cơ bản là những người làm việc chăm chỉ sẽ được khen thưởng."
+        },
+        {
+            "en": "The principle of energy makes it clear that the light emitted laterally is not a new creation, but only diverted from the main stream.",
+            "vi": "Nguyên lý năng lượng nói rõ rằng ánh sáng phát ra bên không phải là sự sáng tạo mới, mà chỉ bị chuyển hướng khỏi luồng chính."
+        }
+    ],
+    "words_form": [
+        "principles"
+    ],
+    "meaning_vi": "nguyên tắc"
+}

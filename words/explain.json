@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɪkˈspleɪn/"
+    ],
+    "synonyms": [
+        "illustrate",
+        "elucidate",
+        "clarify",
+        "reveal",
+        "interpret"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Explain is defined as to make something clear or to account for something or tell why something happened.",
+            "vi": "Giải thích được định nghĩa là để làm rõ điều gì đó hoặc giải thích điều gì đó hoặc cho biết tại sao điều gì đó lại xảy ra."
+        },
+        {
+            "pos": "idiom",
+            "en": "explain away  to state reasons for so as to justify, often by minimizing, or make understandable",
+            "vi": "giải thích đi để nêu lý do để biện minh, thường bằng cách giảm thiểu hoặc làm cho dễ hiểu"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Let him explain all of it to his mother.",
+            "vi": "Hãy để anh ấy giải thích tất cả cho mẹ anh ấy."
+        },
+        {
+            "en": "There are three small rooms upstairs but we'll explain about them later.",
+            "vi": "Có ba phòng nhỏ ở tầng trên nhưng chúng tôi sẽ giải thích về chúng sau."
+        }
+    ],
+    "words_form": [
+        "explained",
+        "explaining",
+        "explains"
+    ],
+    "meaning_vi": "giải thích"
+}

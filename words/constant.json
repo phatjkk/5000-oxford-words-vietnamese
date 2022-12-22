@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈkɑnstənt/"
+    ],
+    "synonyms": [
+        "continue",
+        "perpetual",
+        "incessant",
+        "untrue",
+        "uncompromising"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of constant is something that doesn't change or something that continues or remains steady.",
+            "vi": "Định nghĩa của hằng số là cái gì đó không thay đổi hoặc cái gì đó tiếp tục hoặc ổn định."
+        },
+        {
+            "pos": "noun",
+            "en": "Anything that does not change or vary.",
+            "vi": "Bất cứ điều gì không thay đổi hoặc thay đổi."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) (Henri Benjamin Constant de Rebecque) 1767-1830; Fr. writer & politician, born in Switzerland.",
+            "vi": "(người) (Henri Benjamin Constant de Rebecque) 1767-1830; NS. nhà văn & chính trị gia, sinh ra ở Thụy Sĩ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Anything was better than this constant conflict.",
+            "vi": "Bất cứ điều gì tốt hơn là xung đột liên tục này."
+        },
+        {
+            "en": "Could she be constant in her attachments?",
+            "vi": "Cô ấy có thể thường xuyên trong những chấp trước của mình không?"
+        }
+    ],
+    "words_form": [
+        "constants"
+    ],
+    "meaning_vi": "không thay đổi"
+}

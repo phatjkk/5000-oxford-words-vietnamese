@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/frɛnd/"
+    ],
+    "synonyms": [
+        "amigo",
+        "buddy",
+        "pal",
+        "soul-mate",
+        "comrade"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person whom one knows, likes, and trusts.",
+            "vi": "Một người mà một người biết, thích và tin tưởng."
+        },
+        {
+            "pos": "verb",
+            "en": "To friend is defined as to add someone to a circle of communication, especially in social media.",
+            "vi": "Kết bạn được định nghĩa là thêm ai đó vào vòng kết nối giao tiếp, đặc biệt là trên phương tiện truyền thông xã hội."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "be friends with  To be a friend of: I am friends with my neighbor.",
+            "vi": "be friends with To be a friend of: Tôi là bạn với người hàng xóm của tôi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You're my most perfect friend in the entire world.",
+            "vi": "Bạn là người bạn hoàn hảo nhất của tôi trên toàn thế giới."
+        },
+        {
+            "en": "Sleep was not her friend during the day.",
+            "vi": "Giấc ngủ không phải là bạn của cô trong ngày."
+        }
+    ],
+    "words_form": [
+        "friends"
+    ],
+    "meaning_vi": "bạn bè"
+}

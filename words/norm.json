@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/nɔrm/"
+    ],
+    "synonyms": [
+        "standard",
+        "model",
+        "average",
+        "measure",
+        "median"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Norm is defined as something that is considered \"normal\" and refers to something that is the usual, customary or accepted standard.",
+            "vi": "Norm được định nghĩa là một cái gì đó được coi là \"bình thường\" và đề cập đến một cái gì đó là tiêu chuẩn thông thường, phong tục hoặc được chấp nhận."
+        },
+        {
+            "pos": "verb",
+            "en": "To establish or judge in reference to a norm.",
+            "vi": "Để thiết lập hoặc đánh giá liên quan đến một quy chuẩn."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Norman.",
+            "vi": "Norman."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A diminutive of the male given name Norman.",
+            "vi": "Một chi tiết nhỏ của người đàn ông được đặt tên Norman."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The royal norm was heavier than the common norm.",
+            "vi": "Quy phạm hoàng gia nặng hơn quy chuẩn thông thường."
+        },
+        {
+            "en": "The more he stepped out of the norm to please her, the more uneasy she became.",
+            "vi": "Anh càng bước ra khỏi chuẩn mực để làm hài lòng cô, cô càng trở nên khó chịu."
+        }
+    ],
+    "words_form": [
+        "norms"
+    ],
+    "meaning_vi": "định mức"
+}

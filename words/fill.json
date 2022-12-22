@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/fɪl/"
+    ],
+    "synonyms": [
+        "permeate",
+        "occupy",
+        "load",
+        "top off",
+        "replenish"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To fill is defined as to put as much as possible or to occupy.",
+            "vi": "Để lấp đầy được định nghĩa là đặt càng nhiều càng tốt hoặc chiếm dụng."
+        },
+        {
+            "pos": "noun",
+            "en": "An amount needed to make full, complete, or satisfied.",
+            "vi": "Một số tiền cần thiết để làm cho đầy đủ, đầy đủ hoặc hài lòng."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "fill (someone's) shoes  To assume someone's position or duties.",
+            "vi": "lấp đầy (của ai đó) giày Để đảm nhận vị trí hoặc nhiệm vụ của ai đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It didn't take long to fill a few plates with pancakes.",
+            "vi": "Không mất nhiều thời gian để lấp đầy một vài đĩa bánh kếp."
+        },
+        {
+            "en": "I'll fill you in when I see you.",
+            "vi": "Tôi sẽ điền cho bạn khi tôi gặp bạn."
+        }
+    ],
+    "words_form": [
+        "filled",
+        "filling",
+        "fills"
+    ],
+    "meaning_vi": "điền vào"
+}

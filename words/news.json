@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/n(j)uz/"
+    ],
+    "synonyms": [
+        "information",
+        "report",
+        "tidings",
+        "broadcast",
+        "bulletin"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "News is information that wasn't known before or current events broadcast over the radio, television, online or in print media.",
+            "vi": "Tin tức là thông tin chưa từng được biết đến trước đây hoặc các sự kiện hiện tại được phát trên đài phát thanh, truyền hình, trực tuyến hoặc trên các phương tiện in ấn."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "New information of any kind.",
+            "vi": "Thông tin mới của bất kỳ loại nào."
+        },
+        {
+            "pos": "idiom",
+            "en": "make news  to do something that is apt to be reported as news",
+            "vi": "tạo tin tức để làm điều gì đó thích hợp để được báo cáo dưới dạng tin tức"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The news was devastating to all of us.",
+            "vi": "Tin tức này đã gây thiệt hại cho tất cả chúng tôi."
+        },
+        {
+            "en": "He's got news for you.",
+            "vi": "Anh ấy có tin tức cho bạn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tin tức"
+}

@@ -1,0 +1,52 @@
+{
+    "spelling": [
+        "/θɪn/"
+    ],
+    "synonyms": [
+        "tenuous",
+        "scraggy",
+        "skinny",
+        "scrawny",
+        "shriveled"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To thin is defined as to make something slender, less fatty or less full of something.",
+            "vi": "Mỏng được định nghĩa là làm cho một thứ gì đó mảnh mai hơn, ít béo hơn hoặc ít đầy hơn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Having little bodily flesh or fat; lean or slender.",
+            "vi": "Có ít thịt hoặc mỡ trên cơ thể; gầy hoặc mảnh mai."
+        },
+        {
+            "pos": "adverb",
+            "en": "Thin means in a slender or narrow way.",
+            "vi": "Mỏng có nghĩa là một cách mảnh mai hoặc hẹp."
+        },
+        {
+            "pos": "noun",
+            "en": "(philately) A loss or tearing of paper from the back of a stamp, although not sufficient to create a complete hole.",
+            "vi": "(thường xuyên) Mất hoặc rách giấy từ mặt sau của con tem, mặc dù không đủ để tạo ra một lỗ hoàn chỉnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You're skating on thin ice, Mr. Juror.",
+            "vi": "Ông đang trượt băng trên lớp băng mỏng, ông Juror."
+        },
+        {
+            "en": "I know you're trying to stay fashionably thin, but the truth is...",
+            "vi": "Tôi biết bạn đang cố giữ dáng gầy hợp thời trang, nhưng sự thật là ..."
+        }
+    ],
+    "words_form": [
+        "thinned",
+        "thinner",
+        "thinnest",
+        "thinning",
+        "thins"
+    ],
+    "meaning_vi": "mỏng"
+}

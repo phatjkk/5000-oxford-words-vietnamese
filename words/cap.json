@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/kæp/"
+    ],
+    "synonyms": [
+        "lid",
+        "beret",
+        "beanie",
+        "bonnet",
+        "dome"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a cap is a covering.",
+            "vi": "Định nghĩa của một nắp là một lớp bao phủ."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Capital.",
+            "vi": "Tư bản."
+        },
+        {
+            "pos": "verb",
+            "en": "To put a cap on.",
+            "vi": "Để đặt một nắp trên."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "See also headgear.",
+            "vi": "Xem thêm mũ đội đầu."
+        },
+        {
+            "pos": "idiom",
+            "en": "cap in hand  Humbly or submissively.",
+            "vi": "nắp trong tay Khiêm tốn hoặc phục tùng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She twisted the cap from the bottle and held it out to him.",
+            "vi": "Cô vặn nắp chai và chìa ra cho anh."
+        },
+        {
+            "en": "Even the root tip, which shows a certain differentiation into root cap and root apex, cannot be said to be a definite sense organ in the same way as the sense organs of an animal.",
+            "vi": "Ngay cả ngọn rễ, biểu hiện sự phân hóa nhất định thành chóp rễ và đỉnh rễ, cũng không thể được coi là một cơ quan cảm giác xác định giống như các cơ quan giác quan của động vật."
+        }
+    ],
+    "words_form": [
+        "capped",
+        "capping",
+        "caps"
+    ],
+    "meaning_vi": "mũ lưỡi trai"
+}

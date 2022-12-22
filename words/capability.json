@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˌkeɪpəˈbɪlɪti/"
+    ],
+    "synonyms": [
+        "capacity",
+        "competence",
+        "effectiveness",
+        "efficiency",
+        "facility"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The quality of being capable; ability.",
+            "vi": "Như một kẻ vũ phu; tàn nhẫn và vô cảm; dã man, bạo lực, tàn nhẫn, v.v."
+        },
+        {
+            "pos": "",
+            "en": "In information security, an indicator (token, semaphore, etc.) that authorizes an access mode to an object such as a file or a device for a specific user or process. See also privilege.",
+            "vi": "Hành động hoặc quá trình chôn cất."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "My communications capability is limited.",
+            "vi": "Khả năng giao tiếp của tôi bị hạn chế."
+        },
+        {
+            "en": "He had always been the enemy with the most capability to harm her, yet did the most to help her.",
+            "vi": "Anh luôn là kẻ thù có khả năng làm hại cô nhiều nhất, nhưng lại giúp đỡ cô nhiều nhất."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The quality of being capable; ability.",
+            "vi": "Như một kẻ vũ phu; tàn nhẫn và vô cảm; dã man, bạo lực, tàn nhẫn, v.v."
+        },
+        {
+            "pos": "",
+            "en": "In information security, an indicator (token, semaphore, etc.) that authorizes an access mode to an object such as a file or a device for a specific user or process. See also privilege.",
+            "vi": "Hành động hoặc quá trình chôn cất."
+        }
+    ]
+}

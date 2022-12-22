@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈɛldərli/"
+    ],
+    "synonyms": [
+        "senior",
+        "aging",
+        "aged",
+        "old",
+        "gray"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Elderly is defined as a general group of older people.",
+            "vi": "Người cao tuổi được định nghĩa là một nhóm chung của những người lớn tuổi."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of elderly is someone who is old.",
+            "vi": "Định nghĩa về người già là một người đã già."
+        },
+        {
+            "pos": "idiom",
+            "en": "the elderly  elderly people as a group",
+            "vi": "nhóm người cao tuổi"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The elderly woman stood in her doorway and waved.",
+            "vi": "Người phụ nữ lớn tuổi đứng ở ngưỡng cửa và vẫy tay chào."
+        },
+        {
+            "en": "Darian waved an elderly woman over.",
+            "vi": "Darian vẫy một người phụ nữ lớn tuổi tới."
+        }
+    ],
+    "words_form": [
+        "elderlies"
+    ],
+    "meaning_vi": "người cao tuổi"
+}

@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈmənθli/"
+    ],
+    "synonyms": [
+        "repeated",
+        "cyclical",
+        "periodically",
+        "punctually",
+        "rhythmic"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Occurring, appearing, or coming due every month.",
+            "vi": "Đang xảy ra, xuất hiện hoặc đến hạn hàng tháng."
+        },
+        {
+            "pos": "adverb",
+            "en": "Once a month; every month.",
+            "vi": "Mỗi tháng một lần; mỗi tháng."
+        },
+        {
+            "pos": "noun",
+            "en": "A periodical publication appearing once each month.",
+            "vi": "Một ấn phẩm định kỳ xuất hiện mỗi tháng một lần."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I will offer them monthly rations and housing at our Moscow estate.",
+            "vi": "Tôi sẽ cung cấp cho họ khẩu phần ăn hàng tháng và nhà ở tại khu đất ở Moscow của chúng tôi."
+        },
+        {
+            "en": "My monthly condition excuses me from duties today so I donned my finest dress and strolled the streets of Ouray like the lady that was once Annie Quincy.",
+            "vi": "Tình trạng hàng tháng của tôi khiến tôi không phải làm nhiệm vụ hôm nay, vì vậy tôi đã mặc bộ váy đẹp nhất của mình và đi dạo trên đường phố Ouray như người phụ nữ đã từng là Annie Quincy."
+        }
+    ],
+    "words_form": [
+        "monthlies"
+    ],
+    "meaning_vi": "hàng tháng"
+}

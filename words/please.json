@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pliz/"
+    ],
+    "synonyms": [
+        "demand",
+        "tickle",
+        "make up to",
+        "satisfy",
+        "gratify"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "If it is your desire or pleasure; if you please. Used in polite requests.",
+            "vi": "Nếu đó là mong muốn hoặc niềm vui của bạn; nếu bạn vui lòng. Được sử dụng trong các yêu cầu lịch sự."
+        },
+        {
+            "pos": "verb",
+            "en": "To have the will or desire; wish.",
+            "vi": "Để có ý chí hoặc mong muốn; muốn."
+        },
+        {
+            "pos": "idiom",
+            "en": "if you please  if you wish or like; if you will; if you permit",
+            "vi": "nếu bạn vui lòng nếu bạn muốn hoặc thích; nếu bạn muốn; nếu bạn cho phép"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Please don't tell her!",
+            "vi": "Xin đừng nói với cô ấy!"
+        },
+        {
+            "en": "Please, let me go!",
+            "vi": "Làm ơn, để tôi đi!"
+        }
+    ],
+    "words_form": [
+        "pleased",
+        "pleases",
+        "pleasing"
+    ],
+    "meaning_vi": "xin vui lòng"
+}

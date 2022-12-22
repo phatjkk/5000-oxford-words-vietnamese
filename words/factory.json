@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈfækt(ə)ri/"
+    ],
+    "synonyms": [
+        "mill",
+        "manufactory",
+        "foundry",
+        "manufacturing plant",
+        "loom"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a factory is where something is made or assembled.",
+            "vi": "Định nghĩa của một nhà máy là nơi một cái gì đó được sản xuất hoặc lắp ráp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The fifth man was the factory lad in the loose cloak.",
+            "vi": "Người đàn ông thứ năm là chàng trai nhà máy trong chiếc áo choàng rộng."
+        },
+        {
+            "en": "Working in a factory required learning a whole different rhythm of life.",
+            "vi": "Làm việc trong một nhà máy đòi hỏi phải học một nhịp sống hoàn toàn khác."
+        }
+    ],
+    "words_form": [
+        "factories"
+    ],
+    "meaning_vi": "nhà máy"
+}

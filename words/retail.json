@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/ˈriˌteɪl/"
+    ],
+    "synonyms": [
+        "market",
+        "direct",
+        "supermarket",
+        "distribute",
+        "dispense"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of retail is relating to the sale of goods directly to consumers.",
+            "vi": "Định nghĩa của bán lẻ liên quan đến việc bán hàng hóa trực tiếp cho người tiêu dùng."
+        },
+        {
+            "pos": "noun",
+            "en": "Retail is defined as relating to the sale of goods directly to consumers.",
+            "vi": "Bán lẻ được định nghĩa là liên quan đến việc bán hàng hóa trực tiếp cho người tiêu dùng."
+        },
+        {
+            "pos": "adverb",
+            "en": "In retail quantities.",
+            "vi": "Với số lượng bán lẻ."
+        },
+        {
+            "pos": "verb",
+            "en": "To sell individually or in small quantities; sell directly to the consumer.",
+            "vi": "Bán riêng lẻ hoặc số lượng ít; bán trực tiếp cho người tiêu dùng."
+        },
+        {
+            "pos": "idiom",
+            "en": "at retail  directly to the consumer at retail prices",
+            "vi": "bán lẻ trực tiếp cho người tiêu dùng với giá bán lẻ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The city has a large jobbing and retail trade.",
+            "vi": "Thành phố có một lượng lớn việc làm và thương mại bán lẻ."
+        },
+        {
+            "en": "It has a large wholesale and retail trade.",
+            "vi": "Nó có một thương mại bán buôn và bán lẻ lớn."
+        }
+    ],
+    "words_form": [
+        "retailing",
+        "retails"
+    ],
+    "meaning_vi": "bán lẻ"
+}

@@ -1,0 +1,66 @@
+{
+    "spelling": [
+        "/wɑʃ/",
+        "/wɔʃ/"
+    ],
+    "synonyms": [
+        "roll",
+        "lave",
+        "eddy",
+        "scour",
+        "gap"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(western us) The dry bed of a stream.",
+            "vi": "(miền tây chúng tôi) Lòng suối khô cạn."
+        },
+        {
+            "pos": "verb",
+            "en": "To flow over, against, or past.",
+            "vi": "Để chảy qua, chống lại hoặc quá khứ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Used for washing.",
+            "vi": "Dùng để giặt."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Washington.",
+            "vi": "Washington."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) Shallow inlet of the North Sea, on the E coast of England: c. 20 mi (32 km) long.",
+            "vi": "(địa danh) Cửa cạn của Biển Bắc, trên bờ biển E của Anh: c. Dài 20 mi (32 km)."
+        },
+        {
+            "pos": "initialism",
+            "en": "Water, Sanitation and Hygiene.",
+            "vi": "Nước, Vệ sinh và Vệ sinh."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) come out in the wash  To be revealed eventually: The real reasons for her resignation will come out in the wash.To turn out well in the end: Don't worry; this project will come out in the wash.",
+            "vi": "(tiếng lóng) come out in the wash Cuối cùng cũng được tiết lộ: Những lý do thực sự khiến cô ấy từ chức sẽ lộ ra ngay sau đó. dự án này sẽ ra mắt trong thời gian ngắn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Now go wash up for supper.",
+            "vi": "Bây giờ đi tắm rửa cho bữa tối."
+        },
+        {
+            "en": "Give me one of those polo shirts and I'll go wash up.",
+            "vi": "Đưa cho tôi một trong những chiếc áo thun polo đó và tôi sẽ đi giặt."
+        }
+    ],
+    "words_form": [
+        "washed",
+        "washes",
+        "washing"
+    ],
+    "meaning_vi": "rửa"
+}

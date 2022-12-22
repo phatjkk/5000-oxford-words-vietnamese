@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ɪkˈsplɔr/"
+    ],
+    "synonyms": [
+        "investigate",
+        "analyze",
+        "examine",
+        "probe",
+        "safari"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To investigate systematically; examine.",
+            "vi": "Để điều tra một cách có hệ thống; nghiên cứu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I was going to explore this path.",
+            "vi": "Tôi đã định khám phá con đường này."
+        },
+        {
+            "en": "No one was around, so she decided to explore the path.",
+            "vi": "Không có ai xung quanh, vì vậy cô quyết định khám phá con đường."
+        }
+    ],
+    "words_form": [
+        "explored",
+        "explores",
+        "exploring"
+    ],
+    "meaning_vi": "khám phá"
+}

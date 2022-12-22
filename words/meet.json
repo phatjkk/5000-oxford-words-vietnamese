@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/mit/"
+    ],
+    "synonyms": [
+        "prove",
+        "run into",
+        "fitting",
+        "match",
+        "converge"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a meet is a gathering of people for a sporting match.",
+            "vi": "Định nghĩa của một cuộc họp là một cuộc tập hợp mọi người cho một trận đấu thể thao."
+        },
+        {
+            "pos": "adjective",
+            "en": "Fitting; proper.",
+            "vi": "Phù hợp; thích hợp."
+        },
+        {
+            "pos": "verb",
+            "en": "Meet is defined as to come face to face with, be there when someone or something arrives, or to be introduced.",
+            "vi": "Gặp gỡ được định nghĩa là gặp mặt trực tiếp, có mặt khi ai đó hoặc điều gì đó đến hoặc để được giới thiệu."
+        },
+        {
+            "pos": "idiom",
+            "en": "meet cute  To make one another's acquaintance under unexpected and often comically adverse circumstances. Used especially of protagonists in a romantic comedy: In the movie, the lead characters meet cute in a park during a rainstorm.",
+            "vi": "gặp gỡ dễ thương Để làm quen với nhau trong những hoàn cảnh bất lợi bất ngờ và thường hài hước. Được sử dụng đặc biệt cho các nhân vật chính trong một bộ phim hài lãng mạn: Trong phim, các nhân vật chính gặp nhau dễ thương trong một công viên trong một cơn mưa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's nice to meet you both.",
+            "vi": "Rất vui được gặp cả hai bạn."
+        },
+        {
+            "en": "I want you to get your things and meet me at the mission.",
+            "vi": "Tôi muốn bạn lấy những thứ của bạn và gặp tôi tại nhiệm vụ."
+        }
+    ],
+    "words_form": [
+        "meeting",
+        "meets",
+        "met"
+    ],
+    "meaning_vi": "gặp gỡ"
+}

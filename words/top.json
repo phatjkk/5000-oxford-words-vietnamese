@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/tɑp/"
+    ],
+    "synonyms": [
+        "highest",
+        "summit",
+        "tip",
+        "superimpose",
+        "prime"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(nautical) A platform enclosing the head of each mast of a sailing ship, to which the topmast rigging is attached.",
+            "vi": "(hải lý) Một bệ bao quanh phần đầu của mỗi cột buồm của một con tàu buồm, trên đó gắn giàn khoan trên cùng."
+        },
+        {
+            "pos": "verb",
+            "en": "To top is defined as to exceed, surpass or do better.",
+            "vi": "Đứng đầu được định nghĩa là vượt qua, vượt qua hoặc làm tốt hơn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Situated at the top.",
+            "vi": "Nằm ở trên cùng."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "The forty most popular musical recordings or songs of a given time period.",
+            "vi": "Bốn mươi bản ghi âm hoặc bài hát phổ biến nhất trong một khoảng thời gian nhất định."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) off the top of (one's) head  In an impromptu way: She recited the poem off the top of her head.",
+            "vi": "(thân mật) trên đỉnh đầu của (một người) một cách ngẫu hứng: Cô ấy đọc thuộc lòng bài thơ trên đỉnh đầu của mình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You're already at the top of your class.",
+            "vi": "Bạn đã đứng đầu lớp."
+        },
+        {
+            "en": "Imagine you are a defense contractor on top of the world.",
+            "vi": "Hãy tưởng tượng bạn là một nhà thầu quốc phòng hàng đầu thế giới."
+        }
+    ],
+    "words_form": [
+        "topped",
+        "topping",
+        "tops"
+    ],
+    "meaning_vi": "hàng đầu"
+}

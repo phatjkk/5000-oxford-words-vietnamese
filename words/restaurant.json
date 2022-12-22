@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈrɛst(ə)rənt/",
+        "/ˈrɛst(ə)ˌrɑnt/"
+    ],
+    "synonyms": [
+        "eatery",
+        "bistro",
+        "diner",
+        "cafe",
+        "tavern"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of restaurant is a place of business where a large selection of food and beverages can be selected from a menu.",
+            "vi": "Định nghĩa về nhà hàng là một địa điểm kinh doanh, nơi có thể lựa chọn nhiều loại thực phẩm và đồ uống từ thực đơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The ride to the restaurant was a quiet one.",
+            "vi": "Chuyến xe đến nhà hàng thật yên tĩnh."
+        },
+        {
+            "en": "We dined at a small Mexican restaurant and spent the meal discussing general topics.",
+            "vi": "Chúng tôi ăn tối tại một nhà hàng Mexico nhỏ và dành bữa ăn để thảo luận về các chủ đề chung."
+        }
+    ],
+    "words_form": [
+        "restaurants"
+    ],
+    "meaning_vi": "nhà hàng"
+}

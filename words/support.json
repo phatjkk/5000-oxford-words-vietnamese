@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/səˈpɔrt/"
+    ],
+    "synonyms": [
+        "assistance",
+        "comfort",
+        "help",
+        "assist",
+        "provider"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Support is defined as to provide comfort, encouragement or financial assistance to someone.",
+            "vi": "Hỗ trợ được định nghĩa là cung cấp sự an ủi, động viên hoặc hỗ trợ tài chính cho một người nào đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Help or advice offered to those encountering difficulties with a product or service.",
+            "vi": "Trợ giúp hoặc lời khuyên dành cho những người gặp khó khăn với sản phẩm hoặc dịch vụ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Providing or having to do with support.",
+            "vi": "Cung cấp hoặc phải làm với hỗ trợ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Support was heavy for the school's primary sport.",
+            "vi": "Hỗ trợ rất nhiều cho môn thể thao chính của trường."
+        },
+        {
+            "en": "You know I always support you.",
+            "vi": "Bạn biết tôi luôn ủng hộ bạn."
+        }
+    ],
+    "words_form": [
+        "supported",
+        "supporting",
+        "supports"
+    ],
+    "meaning_vi": "hỗ trợ"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/skæn/"
+    ],
+    "synonyms": [
+        "cat scan",
+        "browse",
+        "words",
+        "investigate",
+        "study"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To analyze (verse) into metrical patterns.",
+            "vi": "Để phân tích (câu thơ) thành các mẫu phép tu từ."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or an instance of scanning.",
+            "vi": "Hành động hoặc một trường hợp quét."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Scandinavia.",
+            "vi": "Bán Đảo Scandinavia."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It looked like a cat scan of a brain, but it wasn't hers.",
+            "vi": "Nó trông giống như một bức ảnh quét não của một con mèo, nhưng nó không phải của cô ấy."
+        },
+        {
+            "en": "The administrator scan, which only the President or Vice President could run, came back with half a dozen errors.",
+            "vi": "Quá trình quét quản trị viên, vốn chỉ có Chủ tịch hoặc Phó Chủ tịch mới có thể điều hành, đã quay lại với hàng tá lỗi."
+        }
+    ],
+    "words_form": [
+        "scanned",
+        "scanning",
+        "scans"
+    ],
+    "meaning_vi": "quét"
+}

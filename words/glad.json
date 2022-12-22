@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ɡlæd/"
+    ],
+    "synonyms": [
+        "happy",
+        "exhilarated",
+        "jovial",
+        "festive",
+        "cheery"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Very willing; pleased.",
+            "vi": "Rất sẵn sàng; vừa lòng."
+        },
+        {
+            "pos": "verb",
+            "en": "(archaic) To gladden.",
+            "vi": "(cổ xưa) Để vui mừng."
+        },
+        {
+            "pos": "noun",
+            "en": "Gladiolus.",
+            "vi": "Cây lay ơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm so glad I have you.",
+            "vi": "Tôi rất vui vì tôi có bạn."
+        },
+        {
+            "en": "I'm glad to hear that.",
+            "vi": "Tôi rất vui khi nghe điều đó."
+        }
+    ],
+    "words_form": [
+        "gladded",
+        "gladder",
+        "gladdest",
+        "gladding",
+        "glads"
+    ],
+    "meaning_vi": "vui vẻ"
+}

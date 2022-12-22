@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈzum/"
+    ],
+    "synonyms": [
+        "begin again",
+        "recommence",
+        "reassume",
+        "summary",
+        "discontinue"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a resume is a summary of educational or work experience.",
+            "vi": "Định nghĩa của sơ yếu lý lịch là một bản tóm tắt về trình độ học vấn hoặc kinh nghiệm làm việc."
+        },
+        {
+            "pos": "verb",
+            "en": "Resume is defined as to take or get something back or to begin something again.",
+            "vi": "Resume được định nghĩa là để lấy lại hoặc lấy lại thứ gì đó hoặc để bắt đầu lại điều gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He started to resume his climb, then paused.",
+            "vi": "Anh ta bắt đầu tiếp tục cuộc leo núi của mình, sau đó tạm dừng."
+        },
+        {
+            "en": "Charles was able to resume his plans.",
+            "vi": "Charles đã có thể tiếp tục kế hoạch của mình."
+        }
+    ],
+    "words_form": [
+        "resumed",
+        "resumes",
+        "resuming"
+    ],
+    "meaning_vi": "tiếp tục"
+}

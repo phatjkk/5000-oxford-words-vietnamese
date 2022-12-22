@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/ˈsɑləd/"
+    ],
+    "synonyms": [
+        "dependable",
+        "reliable",
+        "trustworthy",
+        "constant",
+        "stable"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Solid means something that is not a liquid or a gas.",
+            "vi": "Chất rắn có nghĩa là một cái gì đó không phải là chất lỏng hoặc chất khí."
+        },
+        {
+            "pos": "adjective",
+            "en": "Firm or dependable.",
+            "vi": "Vững chắc hoặc đáng tin cậy."
+        },
+        {
+            "pos": "adverb",
+            "en": "Without a break or opening; completely or continuously.",
+            "vi": "Không có ngắt hoặc mở; hoàn toàn hoặc liên tục."
+        },
+        {
+            "pos": "acronym",
+            "en": "(programming, object-oriented) Acronym of Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion. (When followed, the created system will be more likely easy to maintain, and extend over time.)",
+            "vi": "(lập trình, hướng đối tượng) Từ viết tắt của Trách nhiệm đơn lẻ, Đóng mở, Thay thế Liskov, Phân tách giao diện và Đảo ngược phụ thuộc. (Khi được làm theo, hệ thống đã tạo sẽ dễ bảo trì hơn và kéo dài theo thời gian.)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Once again the rear end was on solid ground.",
+            "vi": "Một lần nữa phần đuôi xe lại nằm trên nền đất vững chắc."
+        },
+        {
+            "en": "It's heavy, lads--solid books.",
+            "vi": "Nó nặng, các bạn - những cuốn sách chắc chắn."
+        }
+    ],
+    "words_form": [
+        "solidest",
+        "solids"
+    ],
+    "meaning_vi": "chất rắn"
+}

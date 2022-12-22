@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˈspɒtlaɪt/"
+    ],
+    "synonyms": [
+        "fame",
+        "light",
+        "limelight",
+        "notoriety",
+        "public eye"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Public notoriety or prominence.",
+            "vi": "Toàn bộ; duy nhất."
+        },
+        {
+            "pos": "verb",
+            "en": "To focus attention on.",
+            "vi": "Hoàn thành độc lập tự chủ."
+        },
+        {
+            "pos": "",
+            "en": "The desktop search function in Mac OS X, starting with Version 10.4. Spotlight lets users search for data located within almost any type of file stored in the computer. Spotlight can also perform Boolean searches. AND is implied by searching for multiple words; however, OR can be stated with the | symbol. For example, Web | Internet means search for documents that contain the word \"Web\" or the word \"Internet.\"As is customary, in order to speed up desktop searching, Mac OS X indexes all the files in the computer. See desktop search.",
+            "vi": "Yêu cầu hoặc có đào tạo chi tiết hoặc chuyên môn trong một lĩnh vực cụ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The problem was put under the spotlight.",
+            "vi": "Vấn đề đã được đặt dưới ánh đèn sân khấu."
+        },
+        {
+            "en": "Celebrities will always be targets for thieves, since they are constantly in the spotlight and make so much money.",
+            "vi": "Những người nổi tiếng sẽ luôn là mục tiêu của những tên trộm, vì họ luôn được chú ý và kiếm được rất nhiều tiền."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "Public notoriety or prominence.",
+            "vi": "Toàn bộ; duy nhất."
+        },
+        {
+            "pos": "verb",
+            "en": "To focus attention on.",
+            "vi": "Hoàn thành độc lập tự chủ."
+        },
+        {
+            "pos": "",
+            "en": "The desktop search function in Mac OS X, starting with Version 10.4. Spotlight lets users search for data located within almost any type of file stored in the computer. Spotlight can also perform Boolean searches. AND is implied by searching for multiple words; however, OR can be stated with the | symbol. For example, Web | Internet means search for documents that contain the word \"Web\" or the word \"Internet.\"As is customary, in order to speed up desktop searching, Mac OS X indexes all the files in the computer. See desktop search.",
+            "vi": "Yêu cầu hoặc có đào tạo chi tiết hoặc chuyên môn trong một lĩnh vực cụ thể."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/hoʊst/"
+    ],
+    "synonyms": [
+        "entertainer",
+        "master-of-ceremonies",
+        "group",
+        "toastmaster",
+        "mistress"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(biology) The animal or plant on which or in which another organism lives.",
+            "vi": "(sinh học) Động vật hoặc thực vật mà sinh vật khác sinh sống."
+        },
+        {
+            "pos": "verb",
+            "en": "Host is defined as the action of inviting others in or having guests.",
+            "vi": "Host được định nghĩa là hành động mời người khác vào hoặc có khách."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Behind him walked his host and hostess.",
+            "vi": "Phía sau anh ta đi bộ dẫn chương trình và tiếp viên của anh ta."
+        },
+        {
+            "en": "The original host goes mad.",
+            "vi": "Người dẫn chương trình ban đầu phát điên."
+        }
+    ],
+    "words_form": [
+        "hosted",
+        "hosting",
+        "hosts"
+    ],
+    "meaning_vi": "chủ nhà"
+}

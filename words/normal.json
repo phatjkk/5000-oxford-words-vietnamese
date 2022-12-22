@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈnɔrməl/"
+    ],
+    "synonyms": [
+        "ordinary",
+        "usual",
+        "right-minded",
+        "sane",
+        "routine"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Normal is defined as the usual or the average.",
+            "vi": "Bình thường được định nghĩa là bình thường hoặc trung bình."
+        },
+        {
+            "pos": "adjective",
+            "en": "(category theory) (Of a category) In which every monomorphism is normal.",
+            "vi": "(lý thuyết phạm trù) (Thuộc một phạm trù) Trong đó mọi đơn hình đều bình thường."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was normal in that respect.",
+            "vi": "Anh ấy bình thường về mặt đó."
+        },
+        {
+            "en": "Such a normal thing seemed … weird.",
+            "vi": "Một điều bình thường như vậy có vẻ… kỳ lạ."
+        }
+    ],
+    "words_form": [
+        "normals"
+    ],
+    "meaning_vi": "bình thường"
+}

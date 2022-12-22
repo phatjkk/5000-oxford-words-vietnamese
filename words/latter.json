@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈlædər/"
+    ],
+    "synonyms": [
+        "late",
+        "concluding",
+        "last",
+        "subsequent",
+        "following"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Near or nearer to the end.",
+            "vi": "Gần hoặc gần cuối."
+        },
+        {
+            "pos": "noun",
+            "en": "The second of two persons or things mentioned.",
+            "vi": "Người thứ hai trong số hai người hoặc sự vật được đề cập."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She liked the latter plan much better.",
+            "vi": "Cô ấy thích kế hoạch sau hơn nhiều."
+        },
+        {
+            "en": "Faced with those two, I would far prefer the latter.",
+            "vi": "Đối mặt với hai người đó, tôi sẽ thích cái sau hơn nhiều."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "cái sau, cái thứ hai"
+}

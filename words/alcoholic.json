@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌælkəˈhɔlɪk/"
+    ],
+    "synonyms": [
+        "alcoholic drink",
+        "distilled",
+        "addict",
+        "drunkard",
+        "alcohol"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an alcoholic is a person who is addicted to drinking alcohol.",
+            "vi": "Định nghĩa của một người nghiện rượu là một người nghiện uống rượu."
+        },
+        {
+            "pos": "adjective",
+            "en": "Containing or preserved in alcohol.",
+            "vi": "Chứa hoặc bảo quản trong rượu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It crystallizes in orange-red needles and its alcoholic solution fluoresces strongly.",
+            "vi": "Nó kết tinh ở dạng kim màu đỏ cam và dung dịch cồn của nó phát huỳnh quang mạnh."
+        },
+        {
+            "en": "She's both a recovering alcoholic and addicted to painkillers.",
+            "vi": "Cô ấy vừa nghiện rượu vừa nghiện thuốc giảm đau."
+        }
+    ],
+    "words_form": [
+        "alcoholics"
+    ],
+    "meaning_vi": "người nghiện rượu"
+}

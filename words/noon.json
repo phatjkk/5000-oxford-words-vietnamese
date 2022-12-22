@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/nun/"
+    ],
+    "synonyms": [
+        "noontide",
+        "twelve noon",
+        "high-noon",
+        "meridian",
+        "apex"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The highest point; the zenith.",
+            "vi": "Điểm cao nhất; thiên đỉnh."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or occurring at noon or midday.",
+            "vi": "Của hoặc xảy ra vào giữa trưa hoặc giữa trưa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Finally, approaching noon, we crossed over a wide stream.",
+            "vi": "Cuối cùng, đến gần trưa, chúng tôi băng qua một con suối rộng."
+        },
+        {
+            "en": "A little after noon he emerged from his room.",
+            "vi": "Một chút sau buổi trưa, anh ta xuất hiện từ phòng của mình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "giữa trưa"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈpɛrəˌɡræf/"
+    ],
+    "synonyms": [
+        "passage",
+        "section",
+        "statement",
+        "topic",
+        "verse"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A brief article, notice, or announcement, as in a newspaper.",
+            "vi": "Một bài báo, thông báo hoặc thông báo ngắn gọn, như trên một tờ báo."
+        },
+        {
+            "pos": "verb",
+            "en": "To divide or arrange into paragraphs.",
+            "vi": "Để chia hoặc sắp xếp thành các đoạn văn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I was reading the following paragraph to her:",
+            "vi": "Tôi đang đọc đoạn văn sau cho cô ấy nghe:"
+        },
+        {
+            "en": "The explanation indicated in the last paragraph applies to this case also Type II.",
+            "vi": "Giải thích nêu trong đoạn cuối áp dụng cho trường hợp này cũng là Loại II."
+        }
+    ],
+    "words_form": [
+        "paragraphs"
+    ],
+    "meaning_vi": "đoạn"
+}

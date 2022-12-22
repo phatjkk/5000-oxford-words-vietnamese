@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ɪnˈfɔrm/"
+    ],
+    "synonyms": [
+        "notify",
+        "spill-the-beans",
+        "blab",
+        "tell",
+        "familiarize"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To inform is defined as to tell, give knowledge or information.",
+            "vi": "Thông báo được định nghĩa là cho biết, cung cấp kiến ​​thức hoặc thông tin."
+        },
+        {
+            "pos": "adjective",
+            "en": "(archaic) Without form; formless.",
+            "vi": "(cổ xưa) Không có hình thức; vô dạng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Allow me to inform you...",
+            "vi": "Cho phép tôi thông báo cho bạn ..."
+        },
+        {
+            "en": "\"Inform the prince that I the bridge fired!\" said the colonel triumphantly and gaily.",
+            "vi": "\"Thông báo cho hoàng tử rằng ta cây cầu bắn ra!\" viên đại tá nói một cách đắc thắng và vui vẻ."
+        }
+    ],
+    "words_form": [
+        "informed",
+        "informs"
+    ],
+    "meaning_vi": "thông báo"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/boʊ/"
+    ],
+    "synonyms": [
+        "crossbow",
+        "abase",
+        "longbow",
+        "genuflect",
+        "arbalest"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Bow is defined as the very front part of a ship.",
+            "vi": "Mũi tàu được định nghĩa là phần phía trước của một con tàu."
+        },
+        {
+            "pos": "verb",
+            "en": "To incline the body or head or bend the knee in greeting, consent, courtesy, acknowledgment, submission, or veneration.",
+            "vi": "Nghiêng cơ thể hoặc đầu hoặc uốn cong đầu gối để chào hỏi, đồng ý, lịch sự, thừa nhận, phục tùng hoặc tôn kính."
+        },
+        {
+            "pos": "adjective",
+            "en": "Bow-shaped; curved; bent.",
+            "vi": "Hình cánh cung; cong cong; uốn cong."
+        },
+        {
+            "pos": "idiom",
+            "en": "bow and scrape  To behave obsequiously.",
+            "vi": "cúi đầu và cạo Để cư xử vâng lời."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Their weapons were the bow and arrow and stones.",
+            "vi": "Vũ khí của họ là cung tên và đá."
+        },
+        {
+            "en": "Her lips were full, a perfect bow, and her large eyes steady and concerned.",
+            "vi": "Đôi môi của cô ấy đầy đặn, một cánh cung hoàn hảo, và đôi mắt to của cô ấy kiên định và quan tâm."
+        }
+    ],
+    "words_form": [
+        "bowed",
+        "bowing",
+        "bows"
+    ],
+    "meaning_vi": "cây cung"
+}

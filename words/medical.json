@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈmɛdək(ə)l/"
+    ],
+    "synonyms": [
+        "healing",
+        "medication",
+        "nursing",
+        "prophylactic",
+        "therapeutic"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of or connected with medicine or the practice or study of medicine.",
+            "vi": "Của hoặc liên quan đến y học hoặc thực hành hoặc nghiên cứu y học."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) A medical examination.",
+            "vi": "(không chính thức) Khám sức khỏe."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I spent the day at the medical facility.",
+            "vi": "Tôi đã dành cả ngày tại cơ sở y tế."
+        },
+        {
+            "en": "That a cultured medical genius found her inspiring was beyond flattering.",
+            "vi": "Việc một thiên tài y học có văn hóa tìm thấy cô ấy đầy cảm hứng không phải là điều đáng tâng bốc."
+        }
+    ],
+    "words_form": [
+        "medicals"
+    ],
+    "meaning_vi": "y tế"
+}

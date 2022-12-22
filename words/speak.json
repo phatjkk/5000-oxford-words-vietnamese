@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/spik/"
+    ],
+    "synonyms": [
+        "talk",
+        "vocalize",
+        "express",
+        "articulate",
+        "pronounce"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Speak is defined as to say words, talk or verbally deliver a message.",
+            "vi": "Nói được định nghĩa là nói các từ, nói hoặc chuyển tải một thông điệp bằng lời nói."
+        },
+        {
+            "pos": "suffix",
+            "en": "Language characteristic of.",
+            "vi": "Đặc trưng ngôn ngữ của."
+        },
+        {
+            "pos": "noun",
+            "en": "Language, jargon, or terminology used uniquely in a particular environment or group.",
+            "vi": "Ngôn ngữ, biệt ngữ hoặc thuật ngữ được sử dụng duy nhất trong một môi trường hoặc nhóm cụ thể."
+        },
+        {
+            "pos": "idiom",
+            "en": "so to speak  Used to call attention to a choice of words, and especially to the metaphoric or expressive nature of a word or phrase: Can't see the forest for the trees, so to speak.",
+            "vi": "so to speak Được sử dụng để kêu gọi sự chú ý đến một lựa chọn từ ngữ, và đặc biệt là tính chất ẩn dụ hoặc biểu cảm của một từ hoặc cụm từ: Không thể nhìn thấy rừng cho cây, vì vậy để nói."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I started to speak but she shushed me.",
+            "vi": "Tôi bắt đầu nói nhưng cô ấy làm tôi ngượng ngùng."
+        },
+        {
+            "en": "All I want is a chance to speak my piece.",
+            "vi": "Tất cả những gì tôi muốn là một cơ hội để nói tác phẩm của mình."
+        }
+    ],
+    "words_form": [
+        "speaking",
+        "speaks",
+        "spoke",
+        "spoken"
+    ],
+    "meaning_vi": "nói chuyện (trang trọng), phát biểu"
+}

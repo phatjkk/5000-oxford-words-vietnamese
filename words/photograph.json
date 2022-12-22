@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈfoʊdəˌɡræf/"
+    ],
+    "synonyms": [
+        "snapshot",
+        "snap",
+        "photomicrograph",
+        "blowup",
+        "photomontage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An image, especially a positive print, recorded by exposing a photosensitive surface to light, especially in a camera.",
+            "vi": "Hình ảnh, đặc biệt là bản in dương bản, được ghi lại bằng cách để bề mặt cảm quang tiếp xúc với ánh sáng, đặc biệt là trong máy ảnh."
+        },
+        {
+            "pos": "verb",
+            "en": "To take a photograph of.",
+            "vi": "Để chụp ảnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Dean tried to picture Byrne from his photograph but nothing came to mind.",
+            "vi": "Dean cố gắng hình dung Byrne từ bức ảnh của mình nhưng không có gì để ý."
+        },
+        {
+            "en": "Lisa started for her room to get a book to read and paused in the hallway to look at a photograph again.",
+            "vi": "Lisa bắt đầu vào phòng để lấy một cuốn sách để đọc và dừng lại ở hành lang để xem lại một bức ảnh."
+        }
+    ],
+    "words_form": [
+        "photographed",
+        "photographs"
+    ],
+    "meaning_vi": "ảnh chụp"
+}

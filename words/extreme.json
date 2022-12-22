@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ɪkˈstrim/"
+    ],
+    "synonyms": [
+        "utmost",
+        "absolute",
+        "harsh",
+        "excessive",
+        "intense"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The greatest or utmost degree or point.",
+            "vi": "Mức độ hoặc điểm lớn nhất hoặc cao nhất."
+        },
+        {
+            "pos": "adjective",
+            "en": "(archaic) Ultimate, final or last.",
+            "vi": "(cổ xưa) Cuối cùng, cuối cùng hoặc cuối cùng."
+        },
+        {
+            "pos": "adverb",
+            "en": "(archaic) Extremely.",
+            "vi": "(cổ xưa) Vô cùng."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the extreme  To an extreme degree: Eccentric in the extreme.",
+            "vi": "ở mức độ cực đoan To một mức độ cực đoan: Eccentric ở mức độ cực đoan."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The situation called for extreme measures.",
+            "vi": "Tình hình đòi hỏi các biện pháp cực đoan."
+        },
+        {
+            "en": "Charles bared his teeth in a look of extreme displeasure.",
+            "vi": "Charles nhe răng tỏ vẻ cực kỳ không hài lòng."
+        }
+    ],
+    "words_form": [
+        "extremes"
+    ],
+    "meaning_vi": "cực"
+}

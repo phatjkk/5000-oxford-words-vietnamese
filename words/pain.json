@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/peɪn/"
+    ],
+    "synonyms": [
+        "pain",
+        "anguish",
+        "disorder",
+        "twinge",
+        "martyrdom"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Pain is any sort of mental or physical suffering or distress.",
+            "vi": "Đau đớn là bất kỳ loại đau khổ hoặc đau khổ nào về tinh thần và thể chất."
+        },
+        {
+            "pos": "verb",
+            "en": "Pain is defined as to hurt or cause suffering.",
+            "vi": "Đau được định nghĩa là làm tổn thương hoặc gây ra đau khổ."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "Pang.",
+            "vi": "Pang."
+        },
+        {
+            "pos": "pronoun",
+            "en": "An English surname, variant of Paine.",
+            "vi": "Một họ tiếng Anh, biến thể của Paine."
+        },
+        {
+            "pos": "idiom",
+            "en": "on  Subject to the penalty of (a specified punishment, such as death).",
+            "vi": "về Đối tượng của hình phạt (một hình phạt cụ thể, chẳng hạn như tử hình)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The pain threatened to cripple him again.",
+            "vi": "Nỗi đau lại đe dọa làm anh tê liệt."
+        },
+        {
+            "en": "In fact, she felt no pain at all, anywhere.",
+            "vi": "Trên thực tế, cô không cảm thấy đau đớn gì cả, ở bất cứ đâu."
+        }
+    ],
+    "words_form": [
+        "pained",
+        "pains"
+    ],
+    "meaning_vi": "đau"
+}

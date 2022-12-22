@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈtreɪdɪŋ/"
+    ],
+    "synonyms": [
+        "dealing",
+        "exchanging",
+        "selling",
+        "bartering",
+        "industry"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Present participle of trade.",
+            "vi": "Hiện tại phân từ thương mại."
+        },
+        {
+            "pos": "adjective",
+            "en": "Carrying on trade or commerce; engaged in trade.",
+            "vi": "Thực hiện thương mại hoặc thương mại; tham gia vào thương mại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Trading is able to create value for two reasons.",
+            "vi": "Giao dịch có thể tạo ra giá trị vì hai lý do."
+        },
+        {
+            "en": "A law of the republic required every merchant trading to the East to bring back some material for the adornment of the fane.",
+            "vi": "Một đạo luật của nước cộng hòa yêu cầu mọi thương nhân buôn bán sang phương Đông phải mang về một số vật liệu để trang điểm cho người điên."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "kinh doanh"
+}

@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈspɛndɪŋ/"
+    ],
+    "synonyms": [
+        "expenditure",
+        "outlay",
+        "cost",
+        "disposal",
+        "expense"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Present participle of spend.",
+            "vi": "Hiện tại phân từ chi tiêu."
+        },
+        {
+            "pos": "noun",
+            "en": "An amount that has been, or is planned to be spent.",
+            "vi": "Một số tiền đã hoặc được lên kế hoạch chi tiêu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Yes, I take it I'm spending the night again?",
+            "vi": "Vâng, tôi hiểu rằng tôi đang ở lại qua đêm?"
+        },
+        {
+            "en": "He was spending way too much on her.",
+            "vi": "Anh ta đã chi tiêu quá nhiều cho cô ấy."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "verb",
+            "en": "Present participle of spend.",
+            "vi": "Hiện tại phân từ chi tiêu."
+        },
+        {
+            "pos": "noun",
+            "en": "An amount that has been, or is planned to be spent.",
+            "vi": "Một số tiền đã hoặc được lên kế hoạch chi tiêu."
+        }
+    ]
+}

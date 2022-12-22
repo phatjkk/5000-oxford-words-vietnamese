@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈtɛknək(ə)l/"
+    ],
+    "synonyms": [
+        "special",
+        "technological",
+        "methodological",
+        "practical",
+        "professional"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of technical is something having to do with an industrial or mechanical art or an applied science.",
+            "vi": "Định nghĩa của kỹ thuật là một cái gì đó liên quan đến nghệ thuật công nghiệp hoặc cơ khí hoặc khoa học ứng dụng."
+        },
+        {
+            "pos": "noun",
+            "en": "Technical foul.",
+            "vi": "Lỗi kỹ thuật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There are municipal technical schools.",
+            "vi": "Có các trường kỹ thuật thành phố."
+        },
+        {
+            "en": "And war is a by-product of several technical problems.",
+            "vi": "Và chiến tranh là sản phẩm phụ của một số vấn đề kỹ thuật."
+        }
+    ],
+    "words_form": [
+        "technicals"
+    ],
+    "meaning_vi": "kỹ thuật"
+}

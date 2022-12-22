@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌəmˈbrɛlə/"
+    ],
+    "synonyms": [
+        "parasol",
+        "brolly",
+        "guard",
+        "protect",
+        "screen"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an umbrella is a piece of material stretched over a round spoked frame that provides shade or protection from rain, or something that protects.",
+            "vi": "Định nghĩa của ô là một phần vật liệu được kéo dài trên một khung có gai tròn để che nắng hoặc che mưa, hoặc một thứ gì đó bảo vệ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Umbrella is something that is designed to cover multiple items at the same time.",
+            "vi": "Ô là một cái gì đó được thiết kế để che nhiều mặt hàng cùng một lúc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She held an umbrella and was dressed in a grey suit.",
+            "vi": "Cô ấy cầm một chiếc ô và mặc một bộ đồ màu xám."
+        },
+        {
+            "en": "It was raining very hard and he had a very large umbrella to keep off the rain-drops.",
+            "vi": "Trời mưa rất to và anh ấy có một chiếc ô rất lớn để tránh những giọt mưa."
+        }
+    ],
+    "words_form": [
+        "umbrellas"
+    ],
+    "meaning_vi": "Cái dù"
+}

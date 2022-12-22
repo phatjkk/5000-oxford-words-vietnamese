@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/plɛdʒ/"
+    ],
+    "synonyms": [
+        "promise",
+        "guarantee",
+        "pawn",
+        "vow",
+        "earnest"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A promise or agreement.",
+            "vi": "Một lời hứa hoặc thỏa thuận."
+        },
+        {
+            "pos": "verb",
+            "en": "To drink a toast.",
+            "vi": "Để uống bánh mì nướng."
+        },
+        {
+            "pos": "idiom",
+            "en": "take the pledge  to make a solemn resolution not to drink alcoholic liquor",
+            "vi": "cam kết thực hiện một quyết định trang trọng không uống rượu có cồn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The United States is a republic, as even the Pledge of Allegiance says.",
+            "vi": "Hoa Kỳ là một nước cộng hòa, như Tuyên ngôn Trung thành đã nói."
+        },
+        {
+            "en": "This somewhat hazardous pledge was nobly redeemed.",
+            "vi": "Lời cam kết có phần nguy hiểm này đã được chuộc lại một cách tuyệt vời."
+        }
+    ],
+    "words_form": [
+        "pledged",
+        "pledges",
+        "pledging"
+    ],
+    "meaning_vi": "lời hứa"
+}

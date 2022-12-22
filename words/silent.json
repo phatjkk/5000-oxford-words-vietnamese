@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈsaɪlənt/"
+    ],
+    "synonyms": [
+        "quiet",
+        "hushed",
+        "taciturn",
+        "still",
+        "quiescent"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(linguistics) Having no phonetic value; unpronounced.",
+            "vi": "(ngôn ngữ học) Không có giá trị ngữ âm; không phát âm."
+        },
+        {
+            "pos": "noun",
+            "en": "Silent films.",
+            "vi": "Những bộ phim câm."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Enlist.",
+            "vi": "Nhập ngũ."
+        },
+        {
+            "pos": "acronym",
+            "en": "Acronym of syndrome of irreversible lithium-effectuated neurotoxicity.",
+            "vi": "Từ viết tắt của hội chứng nhiễm độc thần kinh do lithi không hồi phục."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The room was silent for a few minutes after they left.",
+            "vi": "Căn phòng im lặng trong vài phút sau khi họ rời đi."
+        },
+        {
+            "en": "Mary was silent a long time and then she finally spoke.",
+            "vi": "Mary im lặng một lúc lâu và cuối cùng cô ấy cũng lên tiếng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chế độ im lặng"
+}

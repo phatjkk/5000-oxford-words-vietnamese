@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/kloʊzd/"
+    ],
+    "synonyms": [
+        "shut",
+        "sealed",
+        "shut down",
+        "restricted",
+        "started"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having boundaries; enclosed.",
+            "vi": "Có ranh giới; gửi kèm."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of close.",
+            "vi": "Quá khứ đơn và quá khứ phân từ đóng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She closed her eyes and prayed fervently.",
+            "vi": "Cô nhắm mắt và cầu nguyện một cách nhiệt thành."
+        },
+        {
+            "en": "She piled one arm high and closed the door.",
+            "vi": "Cô ấy chồng cao một cánh tay và đóng cửa lại."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đóng cửa"
+}

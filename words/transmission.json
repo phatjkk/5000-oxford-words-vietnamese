@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/trænzˈmɪʃ(ə)n/",
+        "/træn(t)sˈmɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "transference",
+        "carrying",
+        "sending",
+        "hauling",
+        "conveyance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An automotive assembly of gears and associated parts by which power is transmitted from the engine to a driving axle.",
+            "vi": "Một tổ hợp ô tô gồm các bánh răng và các bộ phận liên quan mà nhờ đó công suất được truyền từ động cơ đến trục dẫn động."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You received my latest transmission of the cities that are beyond repair?",
+            "vi": "Bạn nhận được thông báo mới nhất của tôi về các thành phố đang sửa chữa?"
+        },
+        {
+            "en": "Thus he approximates to the wave theory of light, though he supposed that the transmission of light was instantaneous.",
+            "vi": "Vì vậy, ông gần đúng với lý thuyết sóng của ánh sáng, mặc dù ông cho rằng sự truyền ánh sáng là tức thời."
+        }
+    ],
+    "words_form": [
+        "transmissions"
+    ],
+    "meaning_vi": "truyền tải"
+}

@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈmoʊs(t)li/"
+    ],
+    "synonyms": [
+        "essentially",
+        "frequently",
+        "regularly",
+        "predominately",
+        "rarely"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Usually; generally.",
+            "vi": "Thông thường; nói chung."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She kept mostly to her room.",
+            "vi": "Cô ấy hầu như chỉ ở trong phòng của mình."
+        },
+        {
+            "en": "He was mostly dead when we fished him out of the bay.",
+            "vi": "Anh ta gần như đã chết khi chúng tôi vớt anh ta ra khỏi vịnh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chủ yếu là"
+}

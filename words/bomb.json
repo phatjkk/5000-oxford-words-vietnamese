@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/bɑm/"
+    ],
+    "synonyms": [
+        "explosive",
+        "bombshell",
+        "grenade",
+        "nuclear",
+        "missile"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Bomb means to fail.",
+            "vi": "Bomb có nghĩa là thất bại."
+        },
+        {
+            "pos": "noun",
+            "en": "(chemistry) A heavy-walled container designed to permit chemical reactions under high pressure.",
+            "vi": "(hóa học) Một thùng chứa có thành dày được thiết kế để cho phép các phản ứng hóa học dưới áp suất cao."
+        },
+        {
+            "pos": "adjective",
+            "en": "(slang) Great, awesome.",
+            "vi": "(tiếng lóng) Tuyệt vời, tuyệt vời."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) the Bomb  atomic bomb",
+            "vi": "(không chính thức) bom nguyên tử Bomb"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But what has the bomb to do with what I wish you to write?",
+            "vi": "Nhưng quả bom có ​​liên quan gì đến những gì tôi muốn bạn viết?"
+        },
+        {
+            "en": "The bomb was approached with caution.",
+            "vi": "Quả bom được tiếp cận một cách thận trọng."
+        }
+    ],
+    "words_form": [
+        "bombed",
+        "bombing",
+        "bombs"
+    ],
+    "meaning_vi": "bom"
+}

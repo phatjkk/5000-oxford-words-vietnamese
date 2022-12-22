@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ˈsərvəs/"
+    ],
+    "synonyms": [
+        "kindness",
+        "repair",
+        "ceremony",
+        "assistance",
+        "army"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(law) Notification of legal action, as by the serving of a writ.",
+            "vi": "(luật) Thông báo về hành động pháp lý, bằng cách tống đạt một văn bản."
+        },
+        {
+            "pos": "adjective",
+            "en": "Service is defined as someone or something that is intended to provide help to those providing assistance to others.",
+            "vi": "Dịch vụ được định nghĩa là một người nào đó hoặc một cái gì đó nhằm cung cấp sự trợ giúp cho những người cung cấp sự trợ giúp cho người khác."
+        },
+        {
+            "pos": "verb",
+            "en": "Service is defined as to repair, maintain or provide something to someone.",
+            "vi": "Dịch vụ được định nghĩa là sửa chữa, bảo trì hoặc cung cấp thứ gì đó cho ai đó."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1874-1958; Cdn. verse writer, born in England.",
+            "vi": "(người) 1874-1958; Cdn. người viết câu thơ, sinh ra ở Anh."
+        },
+        {
+            "pos": "idiom",
+            "en": "at (someone's) service  Ready to help or be of use.",
+            "vi": "tại (của ai đó) dịch vụ Sẵn sàng giúp đỡ hoặc được sử dụng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The service was a most pleasant experience.",
+            "vi": "Dịch vụ là một trải nghiệm thú vị nhất."
+        },
+        {
+            "en": "You're saying it's sinful if you go to a whore house, but take-out service is acceptable?",
+            "vi": "Bạn đang nói rằng thật tội lỗi nếu bạn đi đến một nhà điếm, nhưng dịch vụ mang đi có được chấp nhận không?"
+        }
+    ],
+    "words_form": [
+        "serviced",
+        "services",
+        "servicing"
+    ],
+    "meaning_vi": "dịch vụ; sự phục vụ"
+}

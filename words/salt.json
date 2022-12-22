@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/sɔlt/"
+    ],
+    "synonyms": [
+        "saline",
+        "corned",
+        "briny",
+        "preserved",
+        "pickled"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Salt is sodium chloride, a white crystal found in sea water which is used for preserving and seasoning food.",
+            "vi": "Muối là natri clorua, một tinh thể màu trắng có trong nước biển được sử dụng để bảo quản và làm gia vị cho thực phẩm."
+        },
+        {
+            "pos": "verb",
+            "en": "To cure or preserve by treating with salt or a salt solution.",
+            "vi": "Để chữa bệnh hoặc bảo quản bằng cách xử lý bằng muối hoặc dung dịch muối."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Strategic Arms Limitation Talks.",
+            "vi": "Đàm phán Giới hạn Vũ khí Chiến lược."
+        },
+        {
+            "pos": "adjective",
+            "en": "Containing salt.",
+            "vi": "Chứa muối."
+        },
+        {
+            "pos": "idiom",
+            "en": "salt of the earth  A person or group considered the best or most worthy part of society.",
+            "vi": "muối của trái đất Một người hoặc một nhóm được coi là thành phần tốt nhất hoặc xứng đáng nhất của xã hội."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You can get that salt shaker now, Cynthia.",
+            "vi": "Bạn có thể lấy cái bình lắc muối đó ngay bây giờ, Cynthia."
+        },
+        {
+            "en": "There are mines of silver, copper, lignite and salt, and many hot springs, including some of great repute medicinally.",
+            "vi": "Có các mỏ bạc, đồng, than non và muối, và nhiều suối nước nóng, trong đó có một số mỏ có uy tín lớn về mặt y học."
+        }
+    ],
+    "words_form": [
+        "salted",
+        "salting",
+        "salts"
+    ],
+    "meaning_vi": "muối"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈdɑktər/"
+    ],
+    "synonyms": [
+        "physician",
+        "expert",
+        "surgeon",
+        "doc",
+        "medico"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(informal) To give medical treatment to.",
+            "vi": "(không chính thức) Để điều trị y tế cho."
+        },
+        {
+            "pos": "noun",
+            "en": "Used as a title and form of address for a person holding the degree of doctor.",
+            "vi": "Được sử dụng như một chức danh và hình thức địa chỉ cho một người có bằng tiến sĩ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The doctor called today to see if my condition had improved with the medication.",
+            "vi": "Bác sĩ đã gọi điện hôm nay để xem liệu tình trạng của tôi có được cải thiện khi dùng thuốc hay không."
+        },
+        {
+            "en": "The doctor seemed tired and in a hurry.",
+            "vi": "Bác sĩ có vẻ mệt mỏi và vội vàng."
+        }
+    ],
+    "words_form": [
+        "doctored",
+        "doctoring",
+        "doctors"
+    ],
+    "meaning_vi": "bác sĩ"
+}

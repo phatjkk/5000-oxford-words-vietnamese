@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈvɪdioʊ/"
+    ],
+    "synonyms": [
+        "full-motion",
+        "tv",
+        "audio video",
+        "picture",
+        "dvd"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of or used in television.",
+            "vi": "Của hoặc được sử dụng trong truyền hình."
+        },
+        {
+            "pos": "noun",
+            "en": "A filmed or taped performance, presentation, etc. for viewing; specif., music video.",
+            "vi": "Một buổi biểu diễn, bản trình bày, v.v. được quay hoặc ghi hình để xem; specif., video âm nhạc."
+        },
+        {
+            "pos": "verb",
+            "en": "To record using video equipment.",
+            "vi": "Để ghi bằng thiết bị video."
+        },
+        {
+            "pos": "prefix",
+            "en": "Forms terms relating to moving images, and especially to television.",
+            "vi": "Hình thành các thuật ngữ liên quan đến hình ảnh chuyển động, và đặc biệt là truyền hình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We don't simply have more video screens; we now have an infinitude of broadcasters.",
+            "vi": "Chúng tôi không chỉ đơn giản là có nhiều màn hình video hơn; bây giờ chúng ta có vô số các đài truyền hình."
+        },
+        {
+            "en": "She left the room to get the video camera.",
+            "vi": "Cô rời phòng để lấy máy quay phim."
+        }
+    ],
+    "words_form": [
+        "videoed",
+        "videoing",
+        "videos"
+    ],
+    "meaning_vi": "đoạn video"
+}

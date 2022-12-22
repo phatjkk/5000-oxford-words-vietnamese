@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈɛpəˌsoʊd/"
+    ],
+    "synonyms": [
+        "occurrence",
+        "incident",
+        "event",
+        "happening",
+        "interlude"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Any event or series of events complete in itself but forming part of a larger one.",
+            "vi": "Bất kỳ sự kiện hoặc chuỗi sự kiện nào cũng hoàn thành nhưng tạo thành một phần của sự kiện lớn hơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "One incident of this painful episode is worth mentioning.",
+            "vi": "Một tình tiết đáng nói của tập phim đau lòng này."
+        },
+        {
+            "en": "Every episode, something exploded.",
+            "vi": "Mỗi tập phim, một cái gì đó bùng nổ."
+        }
+    ],
+    "words_form": [
+        "episodes"
+    ],
+    "meaning_vi": "tập (phim), kì (câu chuyện)"
+}

@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈəŋk(ə)l/"
+    ],
+    "synonyms": [
+        "aunt",
+        "brother-in-law",
+        "son",
+        "brother",
+        "elder"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The husband of one's aunt.",
+            "vi": "Chồng của một người cô."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(brother of someone's father): paternal uncle.",
+            "vi": "(anh của bố ai đó): bác nội."
+        },
+        {
+            "pos": "interjection",
+            "en": "A cry used to indicate surrender.",
+            "vi": "Một tiếng kêu được sử dụng để biểu thị sự đầu hàng."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) cry  To indicate a willingness to give up a fight or surrender: Tickled my brother until he cried uncle.",
+            "vi": "(thân mật) khóc Để biểu thị sự sẵn sàng từ bỏ cuộc chiến hoặc đầu hàng: Cù anh tôi cho đến khi anh ta khóc chú."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What does your uncle do on the planet?",
+            "vi": "Chú của bạn làm gì trên hành tinh?"
+        },
+        {
+            "en": "She had always loved Sirian as an uncle, a man who helped raise her.",
+            "vi": "Cô luôn yêu Sirian như một người chú, một người đàn ông đã giúp nuôi nấng cô."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chú; bác"
+}

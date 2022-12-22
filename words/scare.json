@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/skɛr/"
+    ],
+    "synonyms": [
+        "fright",
+        "panic",
+        "alarm",
+        "fear",
+        "intimidate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To scare is defined as to suddenly frighten or alarm someone.",
+            "vi": "Sợ hãi được định nghĩa là đột nhiên làm ai đó sợ hãi hoặc báo động."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a scare is something frightening or a sudden panic of fear.",
+            "vi": "Định nghĩa của sự sợ hãi là một cái gì đó đáng sợ hoặc một sự hoảng sợ đột ngột vì sợ hãi."
+        },
+        {
+            "pos": "adjective",
+            "en": "Scare means to frighten.",
+            "vi": "Scare có nghĩa là sợ hãi."
+        },
+        {
+            "pos": "idiom",
+            "en": "scare away  to drive away or off by frightening",
+            "vi": "sợ hãi để lái xe đi hoặc bỏ đi bằng cách sợ hãi"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He didn't scare her the way Jonny did, and she wasn't certain why, beyond the obvious that he healed her.",
+            "vi": "Anh ta không làm cô sợ như cách Jonny đã làm, và cô không chắc tại sao, ngoài điều hiển nhiên là anh đã chữa lành cho cô."
+        },
+        {
+            "en": "There's nothing that's going to scare you.",
+            "vi": "Không có gì làm bạn sợ."
+        }
+    ],
+    "words_form": [
+        "scared",
+        "scares",
+        "scaring"
+    ],
+    "meaning_vi": "dọa"
+}

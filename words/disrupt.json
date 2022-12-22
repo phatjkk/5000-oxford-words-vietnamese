@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dɪsˈrəpt/"
+    ],
+    "synonyms": [
+        "interrupt",
+        "disorder",
+        "confuse",
+        "break up",
+        "disarray"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To disrupt is to break up or disturb something’s course.",
+            "vi": "Phá vỡ là phá vỡ hoặc làm xáo trộn quá trình của một cái gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Torn off or torn asunder; severed; disrupted.",
+            "vi": "(lỗi thời) Bị rách hoặc xé nát; cắt đứt; bị gián đoạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It wasn't like Alex to let anger disrupt his schedule.",
+            "vi": "Alex không để sự tức giận làm gián đoạn lịch trình của mình."
+        },
+        {
+            "en": "You can't just march into a person's life and disrupt it.",
+            "vi": "Bạn không thể chỉ bước vào cuộc sống của một người và phá vỡ nó."
+        }
+    ],
+    "words_form": [
+        "disrupted",
+        "disrupting",
+        "disrupts"
+    ],
+    "meaning_vi": "phá vỡ"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈfɪzɪk(ə)l/"
+    ],
+    "synonyms": [
+        "corporeal",
+        "visible",
+        "solid",
+        "substantial",
+        "sonic"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of or according to the laws of nature.",
+            "vi": "Của hoặc theo quy luật của tự nhiên."
+        },
+        {
+            "pos": "noun",
+            "en": "Physical is defined as a general medical check up.",
+            "vi": "Thể chất được định nghĩa là một cuộc kiểm tra sức khỏe tổng quát."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The process causes physical difficulty and effort.",
+            "vi": "Quá trình này gây ra khó khăn về thể chất và nỗ lực."
+        },
+        {
+            "en": "I sense physical weakness.",
+            "vi": "Tôi cảm thấy suy nhược cơ thể."
+        }
+    ],
+    "words_form": [
+        "physicals"
+    ],
+    "meaning_vi": "vật lý"
+}

@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˌdaɪəɡˈnoʊs/"
+    ],
+    "synonyms": [
+        "diagnosis",
+        "name",
+        "diagnostic",
+        "identify",
+        "trace"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To distinguish or identify (a disease, for example) by diagnosis.",
+            "vi": "Để phân biệt hoặc xác định (một bệnh chẳng hạn) bằng chẩn đoán."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Information and statements including those regarding dietary supplements have not been evaluated by the Food and Drug Administration and are not intended to diagnose, treat, cure, or prevent any disease.",
+            "vi": "Thông tin và tuyên bố bao gồm những thông tin liên quan đến thực phẩm chức năng chưa được Cục Quản lý Thực phẩm và Dược phẩm đánh giá và không nhằm chẩn đoán, điều trị, chữa bệnh hoặc ngăn ngừa bất kỳ bệnh nào."
+        },
+        {
+            "en": "It was most unkind of you to cruelly diagnose him otherwise and accuse him of being a thief.",
+            "vi": "Thật không tốt chút nào đối với các bạn khi chẩn đoán anh ta một cách tàn nhẫn và buộc tội anh ta là một tên trộm."
+        }
+    ],
+    "words_form": [
+        "diagnosed",
+        "diagnoses",
+        "diagnosing"
+    ],
+    "meaning_vi": "chẩn đoán"
+}

@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/taɪ/"
+    ],
+    "synonyms": [
+        "band",
+        "affinity",
+        "cravat",
+        "windsor",
+        "fall-behind"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A necktie.",
+            "vi": "Một chiếc cà vạt."
+        },
+        {
+            "pos": "verb",
+            "en": "Tie means to fasten or bind two or more things together with string or rope or to make a knot or bow.",
+            "vi": "Buộc có nghĩa là buộc chặt hoặc buộc hai hoặc nhiều thứ lại với nhau bằng dây hoặc dây thừng hoặc để thắt nút hoặc thắt nơ."
+        },
+        {
+            "pos": "adjective",
+            "en": "That has been tied, or made equal.",
+            "vi": "Điều đó đã được ràng buộc, hoặc được làm bằng."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) tie one on  To become intoxicated; go on a drinking spree.",
+            "vi": "(tiếng lóng) buộc một vào Để trở nên say sưa; đi uống rượu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You have to tie the bales by hand, though.",
+            "vi": "Tuy nhiên, bạn phải buộc các kiện bằng tay."
+        },
+        {
+            "en": "Here, tie the rope around your waist.",
+            "vi": "Ở đây, buộc dây quanh eo của bạn."
+        }
+    ],
+    "words_form": [
+        "tied",
+        "tieing",
+        "ties",
+        "tying"
+    ],
+    "meaning_vi": "cà vạt; tỉ số hòa (thể thao)"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈsmɑrtˌfoʊn/"
+    ],
+    "synonyms": [
+        "smartphones",
+        "handhelds",
+        "handheld",
+        "bluetooth",
+        "pda"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A cell phone that includes features of a PDA, such as applications for reading and sending e-mail, maintaining a calendar, and browsing the web.",
+            "vi": "Điện thoại di động bao gồm các tính năng của PDA, chẳng hạn như các ứng dụng để đọc và gửi e-mail, duy trì lịch và duyệt web."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Even though, at the time this article was written, the Apple iPhone was not available for purchase and use on the Verizon network, that doesn't mean that Verizon customers are without many other fantastic smartphone options.",
+            "vi": "Mặc dù tại thời điểm bài báo này được viết, Apple iPhone không có sẵn để mua và sử dụng trên mạng Verizon, điều đó không có nghĩa là khách hàng của Verizon không có nhiều lựa chọn điện thoại thông minh tuyệt vời khác."
+        },
+        {
+            "en": "Going through the company's official lineup, you'll discover that the first Sprint Windows Mobile 6.5 smartphone also happens to be the only phone from the carrier that is currently powered by the new mobile operating system.",
+            "vi": "Xem qua dòng sản phẩm chính thức của công ty, bạn sẽ phát hiện ra rằng điện thoại thông minh Sprint Windows Mobile 6.5 đầu tiên cũng là điện thoại duy nhất của nhà cung cấp dịch vụ hiện đang được cung cấp bởi hệ điều hành di động mới."
+        }
+    ],
+    "words_form": [
+        "smartphones"
+    ],
+    "meaning_vi": "điện thoại thông minh"
+}

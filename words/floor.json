@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/flɔr/"
+    ],
+    "synonyms": [
+        "stage",
+        "linoleum",
+        "platform",
+        "story",
+        "level"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of floor is the bottom surface of a room, the bottom of something, or a level in a building.",
+            "vi": "Định nghĩa của sàn là bề mặt dưới cùng của một căn phòng, dưới cùng của một cái gì đó hoặc một tầng trong một tòa nhà."
+        },
+        {
+            "pos": "verb",
+            "en": "Floor is defined as to cover with a bottom surface, or to press down or astound someone.",
+            "vi": "Sàn được định nghĩa là để phủ một bề mặt dưới cùng, hoặc để đè xuống hoặc làm ai đó kinh ngạc."
+        },
+        {
+            "pos": "idiom",
+            "en": "(basketball) from the floor  during the time of a game when active defense is permitted The team shot 56% from the floor.",
+            "vi": "(bóng rổ) từ sàn trong thời gian diễn ra trận đấu khi được phép phòng thủ chủ động Đội sút 56% khỏi sàn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The floor was cold.",
+            "vi": "Sàn nhà lạnh ngắt."
+        },
+        {
+            "en": "The floor creaked as she chose the one on the right.",
+            "vi": "Sàn nhà kêu cót két khi cô chọn cái bên phải."
+        }
+    ],
+    "words_form": [
+        "floored",
+        "floors"
+    ],
+    "meaning_vi": "sàn"
+}

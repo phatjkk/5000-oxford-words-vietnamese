@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈsteɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "site",
+        "calling",
+        "occupation",
+        "service",
+        "stop"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(australian & new zealand) A large ranch on which livestock, especially cattle or sheep, are raised.",
+            "vi": "(australian & new zealand) Một trang trại lớn nuôi gia súc, đặc biệt là gia súc hoặc cừu."
+        },
+        {
+            "pos": "verb",
+            "en": "Station is defined as assigning someone to a location or task.",
+            "vi": "Trạm được định nghĩa là chỉ định một người nào đó cho một vị trí hoặc nhiệm vụ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I left the station, not sure what to do next.",
+            "vi": "Tôi rời nhà ga, không biết phải làm gì tiếp theo."
+        },
+        {
+            "en": "The stage came to a halt in front of the station, and people drifted by, satisfying their curiosity about its occupants.",
+            "vi": "Sân khấu dừng lại ở phía trước nhà ga, và mọi người lướt qua, thỏa mãn sự tò mò của họ về những người ở trong đó."
+        }
+    ],
+    "words_form": [
+        "stationed",
+        "stations"
+    ],
+    "meaning_vi": "ga tàu"
+}

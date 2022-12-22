@@ -1,0 +1,61 @@
+{
+    "spelling": [
+        "/səm/"
+    ],
+    "synonyms": [
+        "various",
+        "several",
+        "more-or-less",
+        "remarkable",
+        "part of"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Being an unspecified number or quantity.",
+            "vi": "Là một số lượng hoặc số lượng không xác định."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Some is an indefinite or unspecified number.",
+            "vi": "Một số là một số không xác định hoặc không xác định."
+        },
+        {
+            "pos": "adverb",
+            "en": "(informal) To a great extent or at a great rate.",
+            "vi": "(không chính thức) Ở một mức độ lớn hoặc ở một tỷ lệ lớn."
+        },
+        {
+            "pos": "suffix",
+            "en": "Characterized by a specified quality, condition, or action.",
+            "vi": "Được đặc trưng bởi chất lượng, điều kiện hoặc hành động được chỉ định."
+        },
+        {
+            "pos": "affix",
+            "en": "Like, tending to, tending to be.",
+            "vi": "Giống như, có xu hướng, có xu hướng."
+        },
+        {
+            "pos": "determiner",
+            "en": "An unspecified quantity or number of.",
+            "vi": "Một số lượng hoặc số lượng không xác định."
+        },
+        {
+            "pos": "idiom",
+            "en": "and then some  and more than that",
+            "vi": "và sau đó là một số và hơn thế nữa"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Now go home and get some rest.",
+            "vi": "Bây giờ hãy về nhà và nghỉ ngơi một chút."
+        },
+        {
+            "en": "They have some very nice animals.",
+            "vi": "Họ có một số động vật rất tốt."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "một số"
+}

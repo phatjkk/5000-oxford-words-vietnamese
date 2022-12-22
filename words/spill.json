@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/spɪl/"
+    ],
+    "synonyms": [
+        "lose",
+        "drop",
+        "spill-over",
+        "spile",
+        "scatter"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of spilling.",
+            "vi": "Hành động làm đổ."
+        },
+        {
+            "pos": "verb",
+            "en": "To cause to fall.",
+            "vi": "Để gây ra ngã."
+        },
+        {
+            "pos": "idiom",
+            "en": "spill one's guts  to divulge everything one knows or reveal all one's personal problems",
+            "vi": "dũng cảm của một người để tiết lộ mọi thứ mà người ta biết hoặc tiết lộ tất cả các vấn đề cá nhân của một người"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was afraid she would spill the beans.",
+            "vi": "Anh sợ cô làm đổ hạt đậu."
+        },
+        {
+            "en": "\"C'mon, Sofi, spill it,\" he ordered.",
+            "vi": "“Thôi nào, Sofi, làm đổ nó đi,” anh ra lệnh."
+        }
+    ],
+    "words_form": [
+        "spilled",
+        "spilling",
+        "spills",
+        "spilt"
+    ],
+    "meaning_vi": "làm đổ, tràn ra"
+}

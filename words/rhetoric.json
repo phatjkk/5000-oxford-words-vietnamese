@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈrɛdərɪk/"
+    ],
+    "synonyms": [
+        "discourse",
+        "empty talk",
+        "oratory",
+        "euphuism",
+        "composition"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Skill in using language effectively and persuasively.",
+            "vi": "Kỹ năng sử dụng ngôn ngữ hiệu quả và thuyết phục."
+        },
+        {
+            "pos": "adjective",
+            "en": "Synonym of rhetorical.",
+            "vi": "Từ đồng nghĩa của phép tu từ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The audience was impressed by the rhetoric the young girl used in her speech.",
+            "vi": "Khán giả vô cùng ấn tượng trước tài hùng biện mà cô gái trẻ sử dụng trong bài phát biểu của mình."
+        },
+        {
+            "en": "The speaker's powerful rhetoric amazed nearly all of the audience.",
+            "vi": "Bài hùng biện mạnh mẽ của diễn giả đã khiến gần như tất cả khán giả phải kinh ngạc."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hùng biện"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɪkˈstrækt/"
+    ],
+    "synonyms": [
+        "derive",
+        "secure",
+        "pick up",
+        "extraction",
+        "pull out"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an extract is a concentrated form of something.",
+            "vi": "Định nghĩa của một chiết xuất là một dạng cô đặc của một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To draw or pull out, often with great force or effort.",
+            "vi": "Để kéo hoặc kéo ra, thường phải dùng lực hoặc nỗ lực lớn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "To extract the metal, the pitchblende is first roasted in order to remove the arsenic and sulphur.",
+            "vi": "Để chiết xuất kim loại này, đầu tiên bạn sẽ rang vàng kim loại để loại bỏ asen và lưu huỳnh."
+        },
+        {
+            "en": "Rum, sugar, bricks, leather, furniture and extract of meat are manufactured.",
+            "vi": "Rượu rum, đường, gạch, da, đồ nội thất và chiết xuất từ ​​thịt được sản xuất."
+        }
+    ],
+    "words_form": [
+        "extracted",
+        "extracting",
+        "extracts"
+    ],
+    "meaning_vi": "trích xuất"
+}

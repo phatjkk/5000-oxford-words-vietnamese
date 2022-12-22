@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/saɪt/"
+    ],
+    "synonyms": [
+        "view",
+        "visibility",
+        "perception",
+        "lookout",
+        "eyesight"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Sight is the ability to see, the act of seeing or something seen.",
+            "vi": "Sight là khả năng nhìn thấy, hành động nhìn thấy hoặc một cái gì đó được nhìn thấy."
+        },
+        {
+            "pos": "verb",
+            "en": "Sight is defined as to see, notice or observe.",
+            "vi": "Sight được định nghĩa là nhìn, nhận thấy hoặc quan sát."
+        },
+        {
+            "pos": "adjective",
+            "en": "Read, done, understood, etc. quickly and easily as soon as seen.",
+            "vi": "Đọc, thực hiện, hiểu, vv một cách nhanh chóng và dễ dàng ngay khi nhìn thấy."
+        },
+        {
+            "pos": "idiom",
+            "en": "(upper southern us) a sight  A lot; much: We're a sight better off without him.",
+            "vi": "(thượng nam chúng tôi) một cảnh Rất nhiều; nhiều: Chúng tôi sẽ tốt hơn nếu không có anh ấy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She must look a sight with red swollen eyes.",
+            "vi": "Cô ấy phải nhìn một cảnh tượng với đôi mắt sưng đỏ."
+        },
+        {
+            "en": "He paused at the sight of Pierre.",
+            "vi": "Anh dừng lại khi nhìn thấy Pierre."
+        }
+    ],
+    "words_form": [
+        "sighted",
+        "sighting",
+        "sights"
+    ],
+    "meaning_vi": "thị giác"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/lɛɡ/"
+    ],
+    "synonyms": [
+        "foot",
+        "femur",
+        "shin",
+        "part",
+        "circuit"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One of the branches of a forked or jointed object.",
+            "vi": "Một trong các nhánh của một vật được chia hoặc nối."
+        },
+        {
+            "pos": "verb",
+            "en": "To go on foot; walk or run. Often used with the indefinite it .",
+            "vi": "Đi bộ; đi bộ hoặc chạy. Thường được sử dụng với nó không xác định."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Legate.",
+            "vi": "Đỡ đòn."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) a leg to stand on  A justifiable or logical basis for defense; support: He doesn't have a leg to stand on in this debate.",
+            "vi": "(tiếng lóng) một chân để đứng trên Một cơ sở chính đáng hoặc hợp lý để bào chữa; ủng hộ: Anh ấy không có chân để đứng vững trong cuộc tranh luận này."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"He's just pulling your leg,\" Martha answered.",
+            "vi": "\"Anh ấy chỉ đang kéo chân bạn,\" Martha trả lời."
+        },
+        {
+            "en": "After your leg is broken next week.",
+            "vi": "Sau khi chân của bạn bị gãy vào tuần sau."
+        }
+    ],
+    "words_form": [
+        "legged",
+        "legging",
+        "legs"
+    ],
+    "meaning_vi": "chân"
+}

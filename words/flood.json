@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/fləd/"
+    ],
+    "synonyms": [
+        "overflow",
+        "inundation",
+        "inundate",
+        "high-tide",
+        "swamp"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Flood is defined as to overflow, or put too much liquid into something.",
+            "vi": "Lũ lụt được định nghĩa là làm tràn hoặc đổ quá nhiều chất lỏng vào một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a flood is an overflowing of water onto normally dry land.",
+            "vi": "Định nghĩa của lũ lụt là sự tràn nước lên vùng đất khô ráo bình thường."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(biblical) The flood referred to in the Book of Genesis in the Old Testament.",
+            "vi": "(Kinh thánh) Trận lụt được đề cập đến trong Sách Sáng thế trong Cựu ước."
+        },
+        {
+            "pos": "idiom",
+            "en": "the Flood  the great flood in Noah's time: Gen. 7",
+            "vi": "Trận lụt, trận lụt lớn vào thời Nô-ê: Sáng thế ký 7"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Carmen felt warmth flood her face.",
+            "vi": "Carmen cảm thấy hơi ấm tràn ngập trên khuôn mặt mình."
+        },
+        {
+            "en": "No stone left unturned until I see the blood of my tipster-nemesis flood the ground beneath her panicked body.",
+            "vi": "Không một viên đá nào được bỏ đi cho đến khi tôi nhìn thấy máu của kẻ thù không đội trời chung của tôi tràn ngập mặt đất bên dưới cơ thể hoảng loạn của cô ấy."
+        }
+    ],
+    "words_form": [
+        "flooded",
+        "flooding",
+        "floods"
+    ],
+    "meaning_vi": "ngập lụt"
+}

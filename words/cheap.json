@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tʃip/"
+    ],
+    "synonyms": [
+        "shoddy",
+        "budget",
+        "inexpensive",
+        "competitive",
+        "inferior"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Cheap means at a low cost.",
+            "vi": "Giá rẻ có nghĩa là với chi phí thấp."
+        },
+        {
+            "pos": "adjective",
+            "en": "Worthy of no respect; vulgar or contemptible.",
+            "vi": "Đáng không có sự tôn trọng; thô tục hoặc khinh thường."
+        },
+        {
+            "pos": "noun",
+            "en": "(obs.) A bargain.",
+            "vi": "Một món hời."
+        },
+        {
+            "pos": "verb",
+            "en": "(intransitive, obsolete) To trade; traffic; bargain; chaffer; ask the price of goods; cheapen goods.",
+            "vi": "(intransitive, lỗi thời) Để giao dịch; giao thông; mặc cả; người ăn cắp vặt; hỏi giá hàng hóa; làm rẻ hàng hoá."
+        },
+        {
+            "pos": "idiom",
+            "en": "cheap at twice the price  Extremely inexpensive.",
+            "vi": "rẻ với giá gấp đôi Cực kỳ rẻ."
+        }
+    ],
+    "sentences": [],
+    "words_form": [
+        "cheaper",
+        "cheapest"
+    ],
+    "meaning_vi": "rẻ tiền"
+}

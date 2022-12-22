@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/sərv/"
+    ],
+    "synonyms": [
+        "carry out",
+        "complete",
+        "attend",
+        "wait on",
+        "work"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To work for (someone) as a servant.",
+            "vi": "Làm việc cho (ai đó) như một người hầu."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or right of serving in many court games.",
+            "vi": "Hành động hoặc quyền giao bóng trong nhiều trò chơi cung đình."
+        },
+        {
+            "pos": "idiom",
+            "en": "serve (someone) right  To be deserved under the circumstances: Punish him; it will serve him right for what he has done to you.",
+            "vi": "phục vụ (ai đó) quyền Được xứng đáng trong các trường hợp: Trừng phạt anh ta; nó sẽ phục vụ anh ta đúng cho những gì anh ta đã làm cho bạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I serve my own purpose.",
+            "vi": "Tôi phục vụ mục đích của riêng tôi."
+        },
+        {
+            "en": "We all serve the same cause of protecting those weaker than us from evil.",
+            "vi": "Tất cả chúng ta đều phục vụ cùng một mục đích là bảo vệ những người yếu hơn chúng ta khỏi cái ác."
+        }
+    ],
+    "words_form": [
+        "served",
+        "serves",
+        "serving"
+    ],
+    "meaning_vi": "phục vụ"
+}

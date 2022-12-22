@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ˈlɛðər/"
+    ],
+    "synonyms": [
+        "buckskin",
+        "lizard",
+        "parchment",
+        "vellum",
+        "skin"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of leather is a material made from animal skins that have been tanned.",
+            "vi": "Định nghĩa về da thuộc là chất liệu được làm từ da động vật đã được thuộc da."
+        },
+        {
+            "pos": "verb",
+            "en": "To cover wholly or in part with the dressed or tanned hide of an animal.",
+            "vi": "Để che toàn bộ hoặc một phần bộ da của động vật đã được mặc quần áo hoặc rám nắng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or made of leather.",
+            "vi": "Bằng hoặc làm bằng da."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(types of leather): chagrin, cordovan, cordwain, galuchat, maroquin, morocco, morocco leather, shagreen, sharkskin.",
+            "vi": "(các loại da): chagrin, cordovan, cordwain, galuchat, maroquin, morocco, da morocco, shagreen, da cá mập."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She sank into the softness of her leather chair.",
+            "vi": "Cô chìm vào sự mềm mại của chiếc ghế da."
+        },
+        {
+            "en": "She sat in the living room as masculine as he, surrounded by wood, wool, and leather in dark colors.",
+            "vi": "Cô ngồi trong phòng khách cũng nam tính như anh, xung quanh là gỗ, len và da màu tối."
+        }
+    ],
+    "words_form": [
+        "leathers"
+    ],
+    "meaning_vi": "da"
+}

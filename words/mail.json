@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/meɪl/"
+    ],
+    "synonyms": [
+        "printed matter",
+        "letter",
+        "correspondence",
+        "send",
+        "armor"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Mail means to send something through the postal service.",
+            "vi": "Thư có nghĩa là gửi một cái gì đó thông qua dịch vụ bưu chính."
+        },
+        {
+            "pos": "noun",
+            "en": "Rent.",
+            "vi": "Thuê."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of mail is related to the handling or delivery of letters and packages.",
+            "vi": "Định nghĩa về thư liên quan đến việc xử lý hoặc chuyển phát thư và gói hàng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "All my mail goes to a post office box.",
+            "vi": "Tất cả thư của tôi đều được chuyển đến hộp thư bưu điện."
+        },
+        {
+            "en": "Alex didn't answer and it went to his voice mail, so she left a message.",
+            "vi": "Alex không trả lời và nó đã chuyển đến hộp thư thoại của anh ấy, vì vậy cô ấy đã để lại tin nhắn."
+        }
+    ],
+    "words_form": [
+        "mailed",
+        "mailing",
+        "mails"
+    ],
+    "meaning_vi": "thư từ"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ɡreɪd/"
+    ],
+    "synonyms": [
+        "hill",
+        "slope",
+        "gradient",
+        "slant",
+        "inclination"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Grade is defined as to make something evenly leveled or sloped, or to assign a rating.",
+            "vi": "Cấp độ được định nghĩa là để làm cho một thứ gì đó được san bằng đều hoặc có độ dốc, hoặc để ấn định một đánh giá."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a grade is a way of rating the quality, worth, rank or order of things or how well someone performed.",
+            "vi": "Định nghĩa của điểm là một cách đánh giá chất lượng, giá trị, thứ hạng hoặc thứ tự của mọi thứ hoặc mức độ hoạt động của một người nào đó."
+        },
+        {
+            "pos": "affix",
+            "en": "Walking or moving (in a specified manner)",
+            "vi": "Đi bộ hoặc di chuyển (theo cách cụ thể)"
+        },
+        {
+            "pos": "idiom",
+            "en": "at grade  on the same level",
+            "vi": "ở cùng cấp"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't know how you keep such a high grade average.",
+            "vi": "Tôi không biết làm thế nào mà bạn giữ được điểm trung bình cao như vậy."
+        },
+        {
+            "en": "That jug is grade double A light.",
+            "vi": "Cái bình đó là ánh sáng loại A đôi."
+        }
+    ],
+    "words_form": [
+        "graded",
+        "grades",
+        "grading"
+    ],
+    "meaning_vi": "lớp"
+}

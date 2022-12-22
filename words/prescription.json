@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/prəˈskrɪpʃ(ə)n/"
+    ],
+    "synonyms": [
+        "medicine",
+        "formula",
+        "prescript",
+        "mixture",
+        "decree"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something prescribed; order; direction; prescript.",
+            "vi": "Một cái gì đó được quy định; đặt hàng; phương hướng; đơn thuốc."
+        },
+        {
+            "pos": "adjective",
+            "en": "Made according to, or purchasable only with, a doctor's prescription.",
+            "vi": "Được sản xuất theo, hoặc chỉ có thể mua được khi có đơn thuốc của bác sĩ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "All parts of my body ached and the prescription I was taking caused my head to spin.",
+            "vi": "Tất cả các bộ phận trên cơ thể tôi đều đau nhức và đơn thuốc tôi đang dùng khiến đầu tôi quay cuồng."
+        },
+        {
+            "en": "Cork was a borough by prescription, and successive charters were granted to it from the reign of Henry II.",
+            "vi": "Cork là một quận theo quy định, và các điều lệ kế tiếp đã được cấp cho nó từ triều đại của Henry II."
+        }
+    ],
+    "words_form": [
+        "prescriptions"
+    ],
+    "meaning_vi": "đơn thuốc"
+}

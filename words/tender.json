@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈtɛndər/"
+    ],
+    "synonyms": [
+        "delicate",
+        "fragile",
+        "soft",
+        "supple",
+        "immature"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Tender is a person who takes care of someone or something.",
+            "vi": "Dịu dàng là một người chăm sóc một ai đó hoặc một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To offer formally.",
+            "vi": "Để cung cấp một cách chính thức."
+        },
+        {
+            "pos": "adjective",
+            "en": "Frail; delicate.",
+            "vi": "Yếu đuối; mong manh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her neck was tender and swallowing was painful.",
+            "vi": "Cổ cô ấy mềm và nuốt rất đau."
+        },
+        {
+            "en": "His eyes were so tender — so sweet.",
+            "vi": "Đôi mắt anh thật dịu dàng - thật ngọt ngào."
+        }
+    ],
+    "words_form": [
+        "tendered",
+        "tenderest",
+        "tenders"
+    ],
+    "meaning_vi": "bị đau khi chạm vào; mềm"
+}

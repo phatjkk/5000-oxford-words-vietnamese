@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/peɪnt/"
+    ],
+    "synonyms": [
+        "touch up",
+        "coloring material",
+        "chroma",
+        "chlorophyll",
+        "tint"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Paint means a mixture of color used for creating art or changing the color of a surface.",
+            "vi": "Sơn có nghĩa là hỗn hợp màu được sử dụng để tạo tác phẩm nghệ thuật hoặc thay đổi màu sắc của bề mặt."
+        },
+        {
+            "pos": "verb",
+            "en": "Paint is defined as to cover with paint, to create a picture with paint, or to create an imaginary, colorful picture.",
+            "vi": "Sơn được định nghĩa là phủ bằng sơn, để tạo ra một bức tranh bằng sơn, hoặc để tạo ra một bức tranh tưởng tượng, đầy màu sắc."
+        },
+        {
+            "pos": "idiom",
+            "en": "paint the black  To throw a pitched ball over the edge of home plate for a strike.",
+            "vi": "sơn màu đen Để ném một quả bóng ném qua mép của phần sân nhà để thực hiện một cú đánh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I had to bring you here so I could paint a portrait.",
+            "vi": "Tôi phải đưa bạn đến đây để tôi có thể vẽ một bức chân dung."
+        },
+        {
+            "en": "Maybe being able to paint or draw would ease her anguish.",
+            "vi": "Có lẽ việc có thể vẽ hoặc vẽ sẽ giúp cô ấy bớt đau khổ."
+        }
+    ],
+    "words_form": [
+        "painted",
+        "painting",
+        "paints"
+    ],
+    "meaning_vi": "sơn; vẽ"
+}

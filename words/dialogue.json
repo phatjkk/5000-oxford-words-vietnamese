@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈdaɪəˌlɑɡ/",
+        "/ˈdaɪəˌlɔɡ/"
+    ],
+    "synonyms": [
+        "conversation",
+        "exchange",
+        "remarks",
+        "monologue",
+        "talk"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To engage in a dialogue.",
+            "vi": "Để tham gia vào một cuộc đối thoại."
+        },
+        {
+            "pos": "noun",
+            "en": "A talking together; conversation.",
+            "vi": "A cùng nhau nói chuyện; cuộc nói chuyện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The characters are well drawn and the dialogue full of comic strength, the scenes knit together and the plot skilfully worked out.",
+            "vi": "Các nhân vật được vẽ tốt và lời thoại đầy sức mạnh truyện tranh, các cảnh kết hợp với nhau và cốt truyện được xử lý một cách khéo léo."
+        },
+        {
+            "en": "There is more monologue than dialogue in this play.",
+            "vi": "Có nhiều độc thoại hơn là đối thoại trong vở kịch này."
+        }
+    ],
+    "words_form": [
+        "dialogs",
+        "dialogued",
+        "dialogues",
+        "dialoguing"
+    ],
+    "meaning_vi": "hội thoại"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/kəmˈpleɪnt/"
+    ],
+    "synonyms": [
+        "accusation",
+        "complainant",
+        "criticism",
+        "allegation",
+        "happiness"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of complaining; utterance of pain, displeasure, annoyance, etc.",
+            "vi": "Hành động than phiền; nói ra sự đau đớn, không hài lòng, khó chịu, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Have you a complaint to make?",
+            "vi": "Bạn có một khiếu nại để thực hiện?"
+        },
+        {
+            "en": "I took down the name and rank of their commanding officer, to hand in a complaint about it.",
+            "vi": "Tôi gỡ xuống tên và cấp bậc của sĩ quan chỉ huy của họ, để nộp đơn khiếu nại về điều đó."
+        }
+    ],
+    "words_form": [
+        "complaints"
+    ],
+    "meaning_vi": "lời phàn nàn"
+}

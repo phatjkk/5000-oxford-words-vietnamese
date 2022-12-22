@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈɔfɪs/",
+        "/ˈɑfɪs/"
+    ],
+    "synonyms": [
+        "job",
+        "occupation",
+        "province",
+        "spot",
+        "appointment"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an office is a place where business is conducted, the people who make up that business or a position of authority.",
+            "vi": "Định nghĩa văn phòng là nơi tiến hành hoạt động kinh doanh, những người tạo nên hoạt động kinh doanh đó hoặc một chức vụ quyền hạn."
+        },
+        {
+            "pos": "idiom",
+            "en": "in (or out of) office  currently holding (or not holding) power or a particular position of authority",
+            "vi": "trong (hoặc ngoài) chức vụ hiện đang nắm giữ (hoặc không nắm giữ) quyền lực hoặc một vị trí quyền lực cụ thể"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I've repaired the computers in your office, too.",
+            "vi": "Tôi cũng đã sửa máy tính trong văn phòng của bạn."
+        },
+        {
+            "en": "From the window of his office, the path was clearly visible.",
+            "vi": "Từ cửa sổ phòng làm việc của anh, có thể nhìn thấy rõ lối đi."
+        }
+    ],
+    "words_form": [
+        "offices"
+    ],
+    "meaning_vi": "văn phòng"
+}

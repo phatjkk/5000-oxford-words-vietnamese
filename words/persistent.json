@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/pəˈsɪstənt/"
+    ],
+    "synonyms": [
+        "constant",
+        "continual",
+        "endless",
+        "enduring",
+        "incessant"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Existing or remaining in the same state for an indefinitely long time; enduring.",
+            "vi": "Dựa trên hoặc tuân theo các phong tục và quy tắc của quốc hội hoặc hội đồng công cộng khác."
+        },
+        {
+            "pos": "",
+            "en": "Permanent. See persistent data, persistent name and persistent object.",
+            "vi": "Đến một mức độ; không hoàn toàn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was completely obsessed by one persistent thought.",
+            "vi": "Anh hoàn toàn bị ám ảnh bởi một ý nghĩ dai dẳng."
+        },
+        {
+            "en": "Ignoring the persistent ring, she put the chicken in the oven and closed the door.",
+            "vi": "Bỏ qua những lời kêu gọi dai dẳng, cô cho gà vào lò và đóng cửa lại."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "adjective",
+            "en": "Existing or remaining in the same state for an indefinitely long time; enduring.",
+            "vi": "Dựa trên hoặc tuân theo các phong tục và quy tắc của quốc hội hoặc hội đồng công cộng khác."
+        },
+        {
+            "pos": "",
+            "en": "Permanent. See persistent data, persistent name and persistent object.",
+            "vi": "Đến một mức độ; không hoàn toàn."
+        }
+    ]
+}

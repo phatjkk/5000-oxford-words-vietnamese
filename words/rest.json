@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/rɛst/"
+    ],
+    "synonyms": [
+        "relax",
+        "cessation",
+        "let up",
+        "lounge",
+        "doze"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "That or those remaining.",
+            "vi": "Cái đó hoặc những cái còn lại."
+        },
+        {
+            "pos": "verb",
+            "en": "To base or ground.",
+            "vi": "Để căn cứ hoặc mặt đất."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Restitution.",
+            "vi": "Sự thay thế."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(object designed to be used to support something else): arm rest, elbow rest, foot rest, head rest, leg rest, neck rest, wrist rest.",
+            "vi": "(vật được thiết kế để dùng để đỡ một thứ khác): tựa tay, tựa khuỷu tay, tựa chân, tựa đầu, tựa chân, tựa cổ, tựa cổ tay."
+        },
+        {
+            "pos": "idiom",
+            "en": "at rest  Motionless; inactive. Free from anxiety or distress.",
+            "vi": "lúc nghỉ Bất động; không hoạt động. Không lo lắng hoặc đau khổ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The rest of the ride was pleasant.",
+            "vi": "Phần còn lại của chuyến đi thật dễ chịu."
+        },
+        {
+            "en": "He dumped the rest of his coffee in the sink and left the room.",
+            "vi": "Anh đổ phần cà phê còn lại vào bồn rửa và rời khỏi phòng."
+        }
+    ],
+    "words_form": [
+        "rested",
+        "resting",
+        "rests"
+    ],
+    "meaning_vi": "phần còn lại"
+}

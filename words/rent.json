@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rɛnt/"
+    ],
+    "synonyms": [
+        "lend",
+        "hire",
+        "let",
+        "engage",
+        "pay"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Rent is money paid for the use of a property or home belonging to someone else.",
+            "vi": "Tiền thuê nhà là tiền được trả cho việc sử dụng tài sản hoặc nhà của người khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To rent is to pay for the temporary use of something.",
+            "vi": "Thuê là trả tiền cho việc sử dụng tạm thời một thứ gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "for rent  Available for use or service in return for payment.",
+            "vi": "cho thuê Có sẵn để sử dụng hoặc dịch vụ để đổi lại thanh toán."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Why don't I just rent one?",
+            "vi": "Tại sao tôi không thuê một cái?"
+        },
+        {
+            "en": "Alex had asked one of the men go into town and rent a car for them.",
+            "vi": "Alex đã yêu cầu một trong những người đàn ông vào thị trấn và thuê một chiếc xe hơi cho họ."
+        }
+    ],
+    "words_form": [
+        "rented",
+        "renting",
+        "rents"
+    ],
+    "meaning_vi": "1) tiền thuê nhà; sự thuê nhà; 2) thuê"
+}

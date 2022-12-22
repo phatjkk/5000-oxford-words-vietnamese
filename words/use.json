@@ -1,0 +1,43 @@
+{
+    "spelling": [],
+    "synonyms": [
+        "utilization",
+        "usage",
+        "practice",
+        "exercise",
+        "employment"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To consume, expend, or exhaust by use.",
+            "vi": "Để tiêu thụ, tiêu hao hoặc cạn kiệt do sử dụng."
+        },
+        {
+            "pos": "noun",
+            "en": "Gain or advantage; good.",
+            "vi": "Đạt được hoặc lợi thế; tốt."
+        },
+        {
+            "pos": "idiom",
+            "en": "make use of  To use for a purpose.",
+            "vi": "tận dụng Để sử dụng cho một mục đích."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I figured you could use the rest.",
+            "vi": "Tôi nghĩ bạn có thể sử dụng phần còn lại."
+        },
+        {
+            "en": "I could use the help.",
+            "vi": "Tôi có thể sử dụng sự giúp đỡ."
+        }
+    ],
+    "words_form": [
+        "used",
+        "uses",
+        "using"
+    ],
+    "meaning_vi": "sử dụng"
+}

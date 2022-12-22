@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈɛvər/"
+    ],
+    "synonyms": [
+        "eternally",
+        "at-all",
+        "always",
+        "eternal",
+        "aeonian"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "At all times; always.",
+            "vi": "Tại mọi thời điểm; luôn."
+        },
+        {
+            "pos": "adjective",
+            "en": "(epidemiology) Occurring at any time, occurring even but once during a timespan.",
+            "vi": "(dịch tễ học) Xảy ra bất cứ lúc nào, xảy ra thậm chí nhưng một lần trong khoảng thời gian."
+        },
+        {
+            "pos": "idiom",
+            "en": "ever and again  Now and then; occasionally.",
+            "vi": "mãi mãi Bây giờ và sau đó; thỉnh thoảng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't think she was ever afraid of him.",
+            "vi": "Tôi không nghĩ rằng cô ấy đã từng sợ anh ta."
+        },
+        {
+            "en": "No. Do they ever have a formal dinner?",
+            "vi": "Không. Họ có bao giờ ăn tối chính thức không?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bao giờ hết"
+}

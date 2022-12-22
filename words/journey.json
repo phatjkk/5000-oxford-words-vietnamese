@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈdʒərni/"
+    ],
+    "synonyms": [
+        "excursion",
+        "pilgrimage",
+        "voyage",
+        "adventure",
+        "junket"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Any course or passage from one stage or experience to another.",
+            "vi": "Bất kỳ khóa học hoặc chuyển từ giai đoạn này hoặc kinh nghiệm khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To travel over or through.",
+            "vi": "Để đi du lịch qua hoặc đi qua."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "See also journey.",
+            "vi": "Xem thêm hành trình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It would be a long journey and a dangerous one.",
+            "vi": "Đó sẽ là một hành trình dài và nguy hiểm."
+        },
+        {
+            "en": "Throughout his journey he felt like a schoolboy on holiday.",
+            "vi": "Trong suốt cuộc hành trình của mình, anh ấy cảm thấy mình như một cậu học sinh trong kỳ nghỉ."
+        }
+    ],
+    "words_form": [
+        "journeyed",
+        "journeying",
+        "journeys"
+    ],
+    "meaning_vi": "hành trình"
+}

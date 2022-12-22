@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rəˈfjuz/"
+    ],
+    "synonyms": [
+        "reject",
+        "decline",
+        "deny",
+        "spurn",
+        "ignore"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Refuse means trash.",
+            "vi": "Từ chối có nghĩa là thùng rác."
+        },
+        {
+            "pos": "verb",
+            "en": "To decline to accept, agree to, or do something.",
+            "vi": "Từ chối chấp nhận, đồng ý hoặc làm điều gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Discarded, rejected.",
+            "vi": "Bị loại bỏ, bị từ chối."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can't refuse to answer you.",
+            "vi": "Tôi không thể từ chối trả lời bạn."
+        },
+        {
+            "en": "Having no way to refuse, she followed him to the campfire of their host.",
+            "vi": "Không còn cách nào từ chối, cô đi theo anh đến đống lửa trại của chủ nhà."
+        }
+    ],
+    "words_form": [
+        "refused",
+        "refuses",
+        "refusing"
+    ],
+    "meaning_vi": "từ chối"
+}

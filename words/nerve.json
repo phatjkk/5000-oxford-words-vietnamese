@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/nərv/"
+    ],
+    "synonyms": [
+        "audacity",
+        "nervure",
+        "resolution",
+        "spirit",
+        "mettle"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Nerve is defined as courage or strength.",
+            "vi": "Thần kinh được định nghĩa là lòng dũng cảm hoặc sức mạnh."
+        },
+        {
+            "pos": "verb",
+            "en": "To give courage; sometimes with \"up\".",
+            "vi": "Để cho lòng dũng cảm; đôi khi với \"lên\"."
+        },
+        {
+            "pos": "idiom",
+            "en": "get on (someone's) nerves  To irritate or exasperate.",
+            "vi": "kích thích (của ai đó) dây thần kinh Để kích thích hoặc bực tức."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her nerve began to frazzle.",
+            "vi": "Thần kinh của cô bắt đầu căng thẳng."
+        },
+        {
+            "en": "Do you know, she had the nerve to call me!",
+            "vi": "Bạn có biết không, cô ấy đã có gan gọi cho tôi!"
+        }
+    ],
+    "words_form": [
+        "nerved",
+        "nerves",
+        "nerving"
+    ],
+    "meaning_vi": "thần kinh"
+}

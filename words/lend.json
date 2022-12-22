@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/lɛnd/"
+    ],
+    "synonyms": [
+        "borrow",
+        "give",
+        "let out",
+        "loan",
+        "supply"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make a loan.",
+            "vi": "Để thực hiện một khoản vay."
+        },
+        {
+            "pos": "noun",
+            "en": "(anatomy, UK dialectal) The lumbar region; loin.",
+            "vi": "(giải phẫu, phương ngữ Vương quốc Anh) Vùng thắt lưng; thịt thăn."
+        },
+        {
+            "pos": "idiom",
+            "en": "lend a hand  To be of assistance.",
+            "vi": "giúp một tay Để được hỗ trợ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You want to lend me them glasses, Bordeaux?",
+            "vi": "Bạn muốn cho tôi mượn kính, Bordeaux?"
+        },
+        {
+            "en": "Lend a hand... will you?",
+            "vi": "Giúp một tay ... được không?"
+        }
+    ],
+    "words_form": [
+        "lending",
+        "lends",
+        "lent"
+    ],
+    "meaning_vi": "cho vay"
+}

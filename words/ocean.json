@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈoʊʃən/"
+    ],
+    "synonyms": [
+        "sea",
+        "vastness",
+        "seaside",
+        "shores",
+        "seashore"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The entire body of salt water that covers more than 70 percent of the earth's surface.",
+            "vi": "Toàn bộ khối nước muối bao phủ hơn 70% bề mặt trái đất."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A female given name of modern usage.",
+            "vi": "Một tên phụ nữ được sử dụng hiện đại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She breathed in the ocean air.",
+            "vi": "Cô hít thở không khí đại dương."
+        },
+        {
+            "en": "She faced the ocean, the moon dangling low and large in the sky before her.",
+            "vi": "Cô đối mặt với đại dương, mặt trăng lơ lửng thấp và lớn trên bầu trời trước mặt."
+        }
+    ],
+    "words_form": [
+        "oceans"
+    ],
+    "meaning_vi": "đại dương"
+}

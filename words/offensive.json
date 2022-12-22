@@ -1,0 +1,36 @@
+{
+    "spelling": [],
+    "synonyms": [
+        "foul",
+        "indecent",
+        "abominable",
+        "infamous",
+        "bad"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Causing resentment, anger, etc.; insulting.",
+            "vi": "Gây phẫn uất, tức giận, v.v ...; xúc phạm."
+        },
+        {
+            "pos": "noun",
+            "en": "(countable, military) An attack.",
+            "vi": "(đếm được, quân sự) Một cuộc tấn công."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We must respect their traditions, no matter how offensive they are.",
+            "vi": "Chúng ta phải tôn trọng truyền thống của họ, cho dù họ có xúc phạm đến mức nào."
+        },
+        {
+            "en": "It was decided therefore to abandon offensive operations.",
+            "vi": "Do đó, nó đã được quyết định từ bỏ các hoạt động tấn công."
+        }
+    ],
+    "words_form": [
+        "offensives"
+    ],
+    "meaning_vi": "phản cảm"
+}

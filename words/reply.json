@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈplaɪ/"
+    ],
+    "synonyms": [
+        "answer",
+        "response",
+        "rejoinder",
+        "feedback",
+        "repartee"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An act made in reaction or response.",
+            "vi": "Một hành động được thực hiện trong phản ứng hoặc phản ứng."
+        },
+        {
+            "pos": "verb",
+            "en": "To answer, or respond, in speech or writing.",
+            "vi": "Để trả lời, hoặc phản hồi, bằng giọng nói hoặc văn bản."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "When I didn't reply, she continued.",
+            "vi": "Khi tôi không trả lời, cô ấy tiếp tục."
+        },
+        {
+            "en": "His reply was fast.",
+            "vi": "Câu trả lời của anh ấy rất nhanh."
+        }
+    ],
+    "words_form": [
+        "replied",
+        "replies",
+        "replying"
+    ],
+    "meaning_vi": "đáp lại"
+}

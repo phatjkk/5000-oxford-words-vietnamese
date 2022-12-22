@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ʃut/"
+    ],
+    "synonyms": [
+        "blast",
+        "bag",
+        "fleet",
+        "drive",
+        "emit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(slang) To begin talking. Often used in the imperative.",
+            "vi": "(tiếng lóng) Để bắt đầu nói chuyện. Thường được sử dụng trong mệnh lệnh."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a shoot is the new growth on a plant or an act of firing something from a gun.",
+            "vi": "Định nghĩa về bắn là sự phát triển mới trên cây hoặc hành động bắn một thứ gì đó từ súng."
+        },
+        {
+            "pos": "interjection",
+            "en": "(slang) Used to tell a person to begin talking.",
+            "vi": "(tiếng lóng) Được sử dụng để nói một người bắt đầu nói chuyện."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) shoot from the hip  To act or speak on a matter without forethought.",
+            "vi": "(tiếng lóng) bắn từ hông Để hành động hoặc nói về một vấn đề mà không cần suy tính trước."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Come on, don't shoot it down before you give it a try.",
+            "vi": "Thôi nào, đừng bắn hạ nó trước khi bạn thử."
+        },
+        {
+            "en": "Did you shoot him?",
+            "vi": "Bạn đã bắn anh ta?"
+        }
+    ],
+    "words_form": [
+        "shooting",
+        "shoots",
+        "shot"
+    ],
+    "meaning_vi": "bắn"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kwoʊt/"
+    ],
+    "synonyms": [
+        "excerpt",
+        "paraphrase",
+        "extract",
+        "cost",
+        "adduce"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A quotation.",
+            "vi": "Một bảng báo giá."
+        },
+        {
+            "pos": "verb",
+            "en": "To reproduce or repeat a passage from or statement of.",
+            "vi": "Để tái tạo hoặc lặp lại một đoạn văn từ hoặc tuyên bố của."
+        },
+        {
+            "pos": "interjection",
+            "en": "I shall quote.",
+            "vi": "Tôi sẽ trích dẫn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "To quote Tamer, there's too much bureaucracy.",
+            "vi": "Để nói với Tamer, có quá nhiều sự quan liêu."
+        },
+        {
+            "en": "You are right to quote Jefferson, but you chose the wrong quote.",
+            "vi": "Bạn đúng khi trích dẫn Jefferson, nhưng bạn đã chọn sai câu trích dẫn."
+        }
+    ],
+    "words_form": [
+        "quoted",
+        "quotes",
+        "quoting"
+    ],
+    "meaning_vi": "báo"
+}

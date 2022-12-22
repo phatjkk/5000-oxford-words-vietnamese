@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ɪnˈɡridiənt/"
+    ],
+    "synonyms": [
+        "constituent",
+        "part",
+        "element",
+        "component",
+        "building block"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Any of the things that a mixture is made of.",
+            "vi": "Bất kỳ thứ gì mà hỗn hợp được tạo thành."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In Europe the seeds are used as an ingredient in soups.",
+            "vi": "Ở châu Âu, hạt được sử dụng như một thành phần trong súp."
+        },
+        {
+            "en": "The soils of Florida have sand as a common ingredient.'",
+            "vi": "Đất ở Florida có cát như một thành phần phổ biến. '"
+        }
+    ],
+    "words_form": [
+        "ingredients"
+    ],
+    "meaning_vi": "thành phần (món ăn)"
+}

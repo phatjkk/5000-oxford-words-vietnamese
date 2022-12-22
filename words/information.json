@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˌɪnfərˈmeɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "message",
+        "data",
+        "knowledge",
+        "lore",
+        "wisdom"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Knowledge or facts learned, especially about a certain subject or event.",
+            "vi": "Kiến thức hoặc sự kiện đã học, đặc biệt là về một chủ đề hoặc sự kiện nhất định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Getting information about him from Katie is too much work.",
+            "vi": "Lấy thông tin về anh ta từ Katie là quá nhiều việc."
+        },
+        {
+            "en": "Of course, she knew Alex well enough now to know he didn't like people to hand out information about him.",
+            "vi": "Tất nhiên, giờ cô biết Alex đủ rõ để biết anh không thích mọi người tiết lộ thông tin về mình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thông tin"
+}

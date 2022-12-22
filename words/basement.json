@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈbeɪsmənt/"
+    ],
+    "synonyms": [
+        "cellar",
+        "vault",
+        "boiler room",
+        "wine-cellar",
+        "storeroom"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The substructure or foundation of a building.",
+            "vi": "Cấu trúc phụ hoặc nền tảng của một tòa nhà."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The basement contained a sealed room that we soundproofed.",
+            "vi": "Tầng hầm chứa một căn phòng kín mà chúng tôi đã cách âm."
+        },
+        {
+            "en": "He turned toward the basement stairs and we all followed.",
+            "vi": "Anh ta quay về phía cầu thang tầng hầm và tất cả chúng tôi theo sau."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tầng hầm"
+}

@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/lɔs/",
+        "/lɑs/"
+    ],
+    "synonyms": [
+        "ruin",
+        "end",
+        "misfortune",
+        "calamity",
+        "perdition"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Loss is defined as having something or someone leave or be taken away from you, a feeling of grief when something is gone, or a decline in money.",
+            "vi": "Mất mát được định nghĩa là có một thứ gì đó hoặc một người nào đó rời đi hoặc bị lấy đi khỏi bạn, cảm giác đau buồn khi một thứ gì đó không còn nữa hoặc sự sụt giảm tiền bạc."
+        },
+        {
+            "pos": "idiom",
+            "en": "at a loss  Below cost: Sold the merchandise at a loss.Perplexed; puzzled: I am at a loss to understand those remarks.",
+            "vi": "thua lỗ Chi phí thấp hơn: Bán hàng bị lỗ. khó hiểu: Tôi không hiểu những nhận xét đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The sense of loss returned.",
+            "vi": "Cảm giác mất mát quay trở lại."
+        },
+        {
+            "en": "He already felt the loss of her calm energy, but he had no idea what to do about it.",
+            "vi": "Anh đã cảm thấy mất năng lượng bình tĩnh của cô, nhưng anh không biết phải làm gì với điều đó."
+        }
+    ],
+    "words_form": [
+        "losses"
+    ],
+    "meaning_vi": "mất mát"
+}

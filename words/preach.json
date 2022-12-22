@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pritʃ/"
+    ],
+    "synonyms": [
+        "proclaim",
+        "inform",
+        "discourse",
+        "teach",
+        "evangelize"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Preach is defined as to give a speech or advice about morals or spirituality.",
+            "vi": "Thuyết giáo được định nghĩa là đưa ra một bài phát biểu hoặc lời khuyên về đạo đức hoặc tâm linh."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) A religious discourse.",
+            "vi": "(lỗi thời) Một diễn ngôn tôn giáo."
+        },
+        {
+            "pos": "idiom",
+            "en": "preach to the choir  To argue in favor of a viewpoint already held by one's audience.",
+            "vi": "giảng cho dàn hợp xướng Để tranh luận ủng hộ một quan điểm đã được khán giả của một người nắm giữ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The ejected ministers were forbidden to preach or administer the sacraments.",
+            "vi": "Các thừa tác viên bị trục xuất bị cấm giảng hoặc điều hành các bí tích."
+        },
+        {
+            "en": "What we want is the heart, and to win that we must preach the gospel.",
+            "vi": "Điều chúng ta muốn là tấm lòng, và để giành được điều đó, chúng ta phải rao giảng phúc âm."
+        }
+    ],
+    "words_form": [
+        "preached",
+        "preaches",
+        "preaching"
+    ],
+    "meaning_vi": "rao giảng"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈkɛrɪdʒ/"
+    ],
+    "synonyms": [
+        "posture",
+        "conduct",
+        "walk",
+        "manner",
+        "comportment"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A baby carriage.",
+            "vi": "Một chiếc xe nôi."
+        },
+        {
+            "pos": "adjective",
+            "en": "Related to a wheeled vehicle, generally drawn by horse power.",
+            "vi": "Liên quan đến xe có bánh, thường được kéo bằng sức ngựa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Turn the carriage quickly, coachman, and drive home.",
+            "vi": "Nhanh chóng quay đầu xe, người đánh xe, và lái xe về nhà."
+        },
+        {
+            "en": "The carriage door was opened.",
+            "vi": "Cửa xe ngựa đã được mở."
+        }
+    ],
+    "words_form": [
+        "carriages"
+    ],
+    "meaning_vi": "xe"
+}

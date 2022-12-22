@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rəˈzəlt/"
+    ],
+    "synonyms": [
+        "outcome",
+        "aftereffect",
+        "pan out",
+        "cause",
+        "succeed"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To happen as a consequence.",
+            "vi": "Để xảy ra như một hệ quả."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a result is how something ended or the outcome of some action.",
+            "vi": "Định nghĩa của một kết quả là cách một điều gì đó kết thúc hoặc kết quả của một hành động nào đó."
+        },
+        {
+            "pos": "interjection",
+            "en": "(UK) An exclamation of joy following a favorable outcome.",
+            "vi": "(Anh) Một lời cảm thán vui mừng sau một kết quả thuận lợi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We do know as a result of earlier tests EA, as we call it, is also part of the lure.",
+            "vi": "Chúng tôi biết là kết quả của các thử nghiệm trước đó EA, như chúng tôi gọi, cũng là một phần của sự thu hút."
+        },
+        {
+            "en": "I did not know at first but it was the result of a wise policy.",
+            "vi": "Lúc đầu tôi không biết nhưng đó là kết quả của một chính sách khôn ngoan."
+        }
+    ],
+    "words_form": [
+        "resulted",
+        "resulting",
+        "results"
+    ],
+    "meaning_vi": "kết quả"
+}

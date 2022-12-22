@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈaɪrəni/"
+    ],
+    "synonyms": [
+        "paradox",
+        "ambiguity",
+        "humor",
+        "ridicule",
+        "subtext"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of irony is the use of words where the meaning is the opposite of their usual meaning or what is expected to happen.",
+            "vi": "Định nghĩa của sự mỉa mai là việc sử dụng những từ mà nghĩa của nó đối lập với ý nghĩa thông thường của chúng hoặc những gì được mong đợi sẽ xảy ra."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, like, or containing iron.",
+            "vi": "Của, giống như, hoặc chứa sắt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I failed to detect any irony in his tone.",
+            "vi": "Tôi không phát hiện ra sự mỉa mai nào trong giọng điệu của anh ta."
+        },
+        {
+            "en": "He loved the irony of the situation.",
+            "vi": "Anh yêu hoàn cảnh trớ trêu."
+        }
+    ],
+    "words_form": [
+        "ironies"
+    ],
+    "meaning_vi": "trớ trêu"
+}

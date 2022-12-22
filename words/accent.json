@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈækˌsɛnt/"
+    ],
+    "synonyms": [
+        "beat",
+        "stroke",
+        "brogue",
+        "highlight",
+        "pitch"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an accent is a syllable or word that stands out from the others when spoken.",
+            "vi": "Định nghĩa của trọng âm là một âm tiết hoặc từ nổi bật so với những âm tiết khác khi được nói."
+        },
+        {
+            "pos": "verb",
+            "en": "Accent means to give importance or attention to something.",
+            "vi": "Trọng âm có nghĩa là thể hiện tầm quan trọng hoặc sự chú ý đến điều gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maybe it was the soft accent that held her attention.",
+            "vi": "Có lẽ đó là giọng nói nhẹ nhàng đã thu hút sự chú ý của cô ấy."
+        },
+        {
+            "en": "His cultured accent made even bad news sound pleasant.",
+            "vi": "Giọng văn có văn hóa của anh ấy khiến cho cả những tin xấu cũng trở nên dễ chịu."
+        }
+    ],
+    "words_form": [
+        "accented",
+        "accenting",
+        "accents"
+    ],
+    "meaning_vi": "giọng, trọng âm, dấu trọng âm"
+}

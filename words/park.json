@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/pɑrk/"
+    ],
+    "synonyms": [
+        "playground",
+        "national-park",
+        "square",
+        "parkway",
+        "car-park"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Park is defined as to make into an outdoor recreational area, or store in such a space, or to put a car in a space temporarily.",
+            "vi": "Công viên được định nghĩa là để biến thành một khu vực giải trí ngoài trời, hoặc cất giữ trong một không gian như vậy, hoặc để tạm thời để xe hơi vào một không gian."
+        },
+        {
+            "pos": "noun",
+            "en": "(sports) A stadium or an enclosed playing field.",
+            "vi": "(thể thao) Một sân vận động hoặc một sân chơi khép kín."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1771-1806; Scot. explorer in Africa.",
+            "vi": "(người) 1771-1806; Scot. nhà thám hiểm ở Châu Phi."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname, the English form of a surname very common in Korea. (ë°• (Bak), æœ´). The third most common Korean surname.",
+            "vi": "Họ, dạng tiếng Anh của một họ rất phổ biến ở Hàn Quốc. (ë ° • (Bak), æœ´). Họ phổ biến thứ ba của Hàn Quốc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I took the shortest way through the little park behind the palace.",
+            "vi": "Tôi đi con đường ngắn nhất qua công viên nhỏ phía sau cung điện."
+        },
+        {
+            "en": "Yes, but this is park land.",
+            "vi": "Có, nhưng đây là đất công viên."
+        }
+    ],
+    "words_form": [
+        "parked",
+        "parking",
+        "parks"
+    ],
+    "meaning_vi": "công viên"
+}

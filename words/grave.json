@@ -1,0 +1,58 @@
+{
+    "spelling": [
+        "/ɡreɪv/"
+    ],
+    "synonyms": [
+        "serious",
+        "critical",
+        "tomb",
+        "pit",
+        "death"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of grave is something that is serious or taken seriously or doing something in a solemn or sedate manner.",
+            "vi": "Định nghĩa về mộ là một việc gì đó nghiêm túc hoặc được coi trọng hoặc làm một việc gì đó một cách trang trọng hoặc trầm mặc."
+        },
+        {
+            "pos": "noun",
+            "en": "Grave is defined as a location where a dead body is buried in the ground or a place where something that is broken is lying.",
+            "vi": "Mộ được định nghĩa là vị trí chôn xác người chết xuống đất hoặc nơi có vật gì hỏng hóc nằm."
+        },
+        {
+            "pos": "verb",
+            "en": "To clean and coat (the bottom of a wooden ship) with pitch.",
+            "vi": "Làm sạch và phủ (đáy tàu gỗ) bằng cao độ."
+        },
+        {
+            "pos": "suffix",
+            "en": "A final syllable signifying a ruler, as in landgrave, margrave, burgrave.",
+            "vi": "Một âm cuối biểu thị một người cai trị, như trong landgrave, margrave, burgrave."
+        },
+        {
+            "pos": "idiom",
+            "en": "have one foot in the grave  to be very ill, old, or infirm; be near death",
+            "vi": "có một bàn chân trong nấm mồ là bệnh nặng, già, hoặc ốm yếu; cận kề cái chết"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We realized very quickly we had made a grave mistake, and I don't even like to think about it.",
+            "vi": "Chúng tôi nhanh chóng nhận ra rằng chúng tôi đã mắc một sai lầm nghiêm trọng, và tôi thậm chí không muốn nghĩ về điều đó."
+        },
+        {
+            "en": "She remained beside the grave for a while, silently praying.",
+            "vi": "Cô vẫn ở bên cạnh mộ một lúc, thầm cầu nguyện."
+        }
+    ],
+    "words_form": [
+        "graved",
+        "graven",
+        "graver",
+        "graves",
+        "gravest",
+        "graving"
+    ],
+    "meaning_vi": "phần mộ"
+}

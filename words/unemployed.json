@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˌənəmˈplɔɪd/"
+    ],
+    "synonyms": [
+        "jobless",
+        "out-of-work",
+        "laid-off",
+        "canned",
+        "unoccupied"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Out of work, especially involuntarily; jobless.",
+            "vi": "Không làm việc, đặc biệt là không tự nguyện; thất nghiệp."
+        },
+        {
+            "pos": "noun",
+            "en": "Unemployed people.",
+            "vi": "Người thất nghiệp."
+        },
+        {
+            "pos": "idiom",
+            "en": "the unemployed  people who are out of work",
+            "vi": "những người thất nghiệp không có việc làm"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Howard was unemployed but was forced to eat an expensive lease.",
+            "vi": "Howard thất nghiệp nhưng buộc phải ăn một hợp đồng thuê đắt đỏ."
+        },
+        {
+            "en": "You've got more time on your hands than an unemployed whaler.",
+            "vi": "Bạn có nhiều thời gian hơn một tay săn cá voi thất nghiệp."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thất nghiệp"
+}

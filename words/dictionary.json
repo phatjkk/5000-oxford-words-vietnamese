@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈdɪkʃəˌnɛri/"
+    ],
+    "synonyms": [
+        "word-list",
+        "vocabulary",
+        "encyclopedia",
+        "thesaurus",
+        "concordance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A dictionary is defined as a list of words or articles that refer to a specific subject.",
+            "vi": "Từ điển được định nghĩa là một danh sách các từ hoặc bài viết đề cập đến một chủ đề cụ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "To look up in a dictionary.",
+            "vi": "Để tra từ điển."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "At this point you may consult a dictionary to check spelling or usage.",
+            "vi": "Tại thời điểm này, bạn có thể tham khảo từ điển để kiểm tra chính tả hoặc cách sử dụng."
+        },
+        {
+            "en": "\"You could see if the library has a Mayan-English dictionary,\" Cynthia offered with a twinkle in her eye as she led Maria to the dining room, holding her hand.",
+            "vi": "“Bạn có thể xem thư viện có từ điển tiếng Anh-Maya không,” Cynthia đưa ra ánh mắt lấp lánh khi dẫn Maria vào phòng ăn, nắm tay cô ấy."
+        }
+    ],
+    "words_form": [
+        "dictionaries"
+    ],
+    "meaning_vi": "từ điển"
+}

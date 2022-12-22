@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/loʊˈkeɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "locale",
+        "place",
+        "locality",
+        "spot",
+        "position"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A place where something is or could be located; a site.",
+            "vi": "Nơi có hoặc có thể đặt một thứ gì đó; một trang web."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Why are the time and location different?",
+            "vi": "Tại sao thời gian và địa điểm khác nhau?"
+        },
+        {
+            "en": "Was it the location or the fact that it needed charged?",
+            "vi": "Đó là vị trí hay thực tế là nó cần được tính phí?"
+        }
+    ],
+    "words_form": [
+        "locations"
+    ],
+    "meaning_vi": "vị trí"
+}

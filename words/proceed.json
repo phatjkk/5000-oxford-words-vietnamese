@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/prəˈsid/",
+        "/proʊˈsid/"
+    ],
+    "synonyms": [
+        "advance",
+        "move",
+        "start",
+        "flow",
+        "continue"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To move on in an orderly manner.",
+            "vi": "Để tiếp tục một cách có trật tự."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "The amount of money derived from a commercial or fundraising venture; the yield.",
+            "vi": "Số tiền thu được từ một liên doanh thương mại hoặc gây quỹ; sản lượng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You may now proceed through the checkout.",
+            "vi": "Bây giờ bạn có thể tiếp tục thanh toán."
+        },
+        {
+            "en": "Proceed with caution, as always.",
+            "vi": "Tiến hành một cách thận trọng, như mọi khi."
+        }
+    ],
+    "words_form": [
+        "proceeded",
+        "proceeding",
+        "proceeds"
+    ],
+    "meaning_vi": "tiến hành"
+}

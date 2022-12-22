@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˌæpəˈrædəs/",
+        "/ˌæpəˈreɪdəs/"
+    ],
+    "synonyms": [
+        "device",
+        "equipment",
+        "appliance",
+        "appurtenances",
+        "armamentarium"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The instruments, materials, tools, etc. needed for a specific use.",
+            "vi": "Các công cụ, vật liệu, công cụ, v.v. cần thiết cho một mục đích sử dụng cụ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The normal form of the apparatus is shown in figs.",
+            "vi": "Hình thức bình thường của bộ máy được thể hiện trong quả sung."
+        },
+        {
+            "en": "We have not had an opportunity of testing this, nor Grubb's more recent models; but, should it be found possible to produce such images satisfactorily, without distortion and with an apparatus convenient and rigid in form, such micrometers may possibly supersede the filar micrometer.",
+            "vi": "Chúng tôi chưa có cơ hội thử nghiệm điều này, cũng như các mô hình gần đây hơn của Grubb; nhưng, nếu thấy rằng có thể tạo ra những hình ảnh như vậy một cách thỏa đáng, không bị biến dạng và với một thiết bị thuận tiện và có hình thức chắc chắn, thì những micromet như vậy có thể thay thế micromet filar."
+        }
+    ],
+    "words_form": [
+        "apparatuses"
+    ],
+    "meaning_vi": "bộ máy"
+}

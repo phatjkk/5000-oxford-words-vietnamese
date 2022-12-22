@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/kəˈmərʃəl/"
+    ],
+    "synonyms": [
+        "sales",
+        "for-profit",
+        "wholesale",
+        "wall street",
+        "mercantile"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of commercial is something related to doing business or for business purposes.",
+            "vi": "Định nghĩa của thương mại là một cái gì đó liên quan đến hoạt động kinh doanh hoặc cho các mục đích kinh doanh."
+        },
+        {
+            "pos": "noun",
+            "en": "Commercial is defined as a paid advertisement.",
+            "vi": "Thương mại được định nghĩa là một quảng cáo trả tiền."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He continued the agitation with the object of attaining both the political and commercial independence of Hungary.",
+            "vi": "Ông tiếp tục kích động với mục tiêu giành được độc lập cả về chính trị và thương mại của Hungary."
+        },
+        {
+            "en": "The capital was the center of the commercial activities.",
+            "vi": "Thủ đô là trung tâm của các hoạt động thương mại."
+        }
+    ],
+    "words_form": [
+        "commercials"
+    ],
+    "meaning_vi": "thương mại"
+}

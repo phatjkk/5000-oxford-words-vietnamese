@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈmɪz(ə)rəb(ə)l/"
+    ],
+    "synonyms": [
+        "unfortunate",
+        "injured",
+        "worthless",
+        "suffering",
+        "tortured"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "In a state of misery: very sad, ill, or poor.",
+            "vi": "Trong tình trạng khốn khổ: rất buồn, ốm, hoặc nghèo."
+        },
+        {
+            "pos": "noun",
+            "en": "(obs.) A miserable person.",
+            "vi": "(obs.) Một người khốn khổ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I've been miserable without you.",
+            "vi": "Tôi đã rất đau khổ khi không có bạn."
+        },
+        {
+            "en": "Would winter be less miserable if the house was warm?",
+            "vi": "Mùa đông sẽ bớt khổ hơn nếu ngôi nhà ấm áp?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khổ sở"
+}

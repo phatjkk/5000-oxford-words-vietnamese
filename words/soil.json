@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/sɔɪl/"
+    ],
+    "synonyms": [
+        "dirt",
+        "loam",
+        "spoil",
+        "debase",
+        "clay"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The top layer of the earth's surface in which plants can grow, consisting of rock and mineral particles mixed with decayed organic matter and having the capability of retaining water.",
+            "vi": "Lớp trên cùng của bề mặt trái đất nơi thực vật có thể phát triển, bao gồm đá và các hạt khoáng chất trộn với chất hữu cơ đã phân hủy và có khả năng giữ nước."
+        },
+        {
+            "pos": "verb",
+            "en": "To disgrace; tarnish.",
+            "vi": "Làm ô nhục; bị xỉn màu."
+        },
+        {
+            "pos": "idiom",
+            "en": "the soil  life and work on a farm",
+            "vi": "cuộc sống đất và làm việc trên một trang trại"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is an abundance of fertile soil and magnificent grazing land.",
+            "vi": "Có rất nhiều đất màu mỡ và đất chăn thả tuyệt vời."
+        },
+        {
+            "en": "The trees are planted on irrigated soil and the fruit gathered between November and August.",
+            "vi": "Cây được trồng trên đất có tưới và cho quả vào khoảng từ tháng 11 đến tháng 8."
+        }
+    ],
+    "words_form": [
+        "soiled",
+        "soils"
+    ],
+    "meaning_vi": "đất"
+}

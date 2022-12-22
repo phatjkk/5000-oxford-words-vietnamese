@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈtraɪəmf/"
+    ],
+    "synonyms": [
+        "victory",
+        "success",
+        "mastery",
+        "prevail",
+        "gain"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be victorious or successful; win.",
+            "vi": "Để chiến thắng hoặc thành công; thắng lợi."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a triumph is a victory or success.",
+            "vi": "Định nghĩa của một chiến thắng là một chiến thắng hoặc thành công."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Our spectacular triumph was the return of an infant from a small Texas hospital.",
+            "vi": "Chiến thắng ngoạn mục của chúng tôi là sự trở về của một đứa trẻ sơ sinh từ một bệnh viện nhỏ ở Texas."
+        },
+        {
+            "en": "Her performance in the debate competition was an unmitigated triumph.",
+            "vi": "Màn trình diễn của cô ấy trong cuộc thi tranh luận là một chiến thắng không thể chối cãi."
+        }
+    ],
+    "words_form": [
+        "triumphed",
+        "triumphs"
+    ],
+    "meaning_vi": "chiến thắng"
+}

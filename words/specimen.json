@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈspɛsəmən/"
+    ],
+    "synonyms": [
+        "example",
+        "sample",
+        "case",
+        "illustration",
+        "instance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A sample, as of tissue, blood, or urine, used for analysis and diagnosis.",
+            "vi": "Một mẫu, như mô, máu hoặc nước tiểu, được sử dụng để phân tích và chẩn đoán."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was the basis of the earliest specimen of Provençal literature.",
+            "vi": "Nó là cơ sở của các mẫu vật sớm nhất của văn học Provençal."
+        },
+        {
+            "en": "The aye-aye was discovered by Pierre Sonnerat in 1780, the specimen brought to Paris by that traveller being the only one known until 1860.",
+            "vi": "Aye-aye được Pierre Sonnerat phát hiện vào năm 1780, mẫu vật được người du lịch đó mang đến Paris và là mẫu vật duy nhất được biết đến cho đến năm 1860."
+        }
+    ],
+    "words_form": [
+        "specimens"
+    ],
+    "meaning_vi": "mẫu vật"
+}

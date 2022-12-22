@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ʃɛd/"
+    ],
+    "synonyms": [
+        "lean-to",
+        "drop",
+        "sprinkle",
+        "hut",
+        "shelter"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a shed is a small building used for storage or as a workshop.",
+            "vi": "Định nghĩa về nhà kho là một tòa nhà nhỏ được sử dụng để lưu trữ hoặc làm xưởng."
+        },
+        {
+            "pos": "verb",
+            "en": "To diffuse or radiate; send forth or impart.",
+            "vi": "Để khuếch tán hoặc phát xạ; gửi đi hoặc truyền đạt."
+        },
+        {
+            "pos": "idiom",
+            "en": "shed blood  To wound or kill in a violent manner. To be wounded or killed:",
+            "vi": "đổ máu Để gây thương tích hoặc giết người một cách bạo lực. Bị thương hoặc bị giết:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She shed it and her boots quickly, wanting to escape to her room before her father cornered her.",
+            "vi": "Cô nhanh chóng cởi bỏ nó và đôi ủng, muốn trốn về phòng trước khi cha cô dồn cô vào chân tường."
+        },
+        {
+            "en": "The shed was piled high with wood.",
+            "vi": "Nhà kho được chất đống cao bằng gỗ."
+        }
+    ],
+    "words_form": [
+        "shedding",
+        "sheds"
+    ],
+    "meaning_vi": "nhà kho"
+}

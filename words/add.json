@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/æd/"
+    ],
+    "synonyms": [
+        "add-up",
+        "adjunct",
+        "run-over",
+        "join",
+        "count-up"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(computer science) An act or instance of adding.",
+            "vi": "(khoa học máy tính) Một hành động hoặc trường hợp thêm."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Attention deficit disorder.",
+            "vi": "Rối loạn thiếu chú ý."
+        },
+        {
+            "pos": "verb",
+            "en": "To cause an increase; be an addition (to)",
+            "vi": "Để gây ra sự gia tăng; là một bổ sung (cho)"
+        },
+        {
+            "pos": "initialism",
+            "en": "Attention deficit disorder.",
+            "vi": "Rối loạn thiếu chú ý."
+        },
+        {
+            "pos": "idiom",
+            "en": "add up to  To constitute; amount to: The revisions added up to a lot of work.",
+            "vi": "cộng lại để tạo thành; số tiền: Các bản sửa đổi đã thêm vào rất nhiều công việc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Once we have a sheriff's salary coming in, maybe we can add a little to their budget—until they get settled.",
+            "vi": "Một khi chúng tôi có lương của cảnh sát trưởng, có lẽ chúng tôi có thể thêm một ít vào ngân sách của họ — cho đến khi họ ổn định."
+        },
+        {
+            "en": "You couldn't add wood to the fire?",
+            "vi": "Bạn không thể thêm củi vào lửa?"
+        }
+    ],
+    "words_form": [
+        "added",
+        "adding",
+        "adds"
+    ],
+    "meaning_vi": "thêm vào"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tɛl/"
+    ],
+    "synonyms": [
+        "reveal",
+        "communicate",
+        "announce",
+        "familiarize",
+        "acquaint"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To name or number one by one; count.",
+            "vi": "Để đặt tên hoặc đánh số từng cái một; đếm."
+        },
+        {
+            "pos": "noun",
+            "en": "A mound, especially in the Middle East, made up of the remains of a succession of previous settlements.",
+            "vi": "Một gò đất, đặc biệt là ở Trung Đông, được tạo thành từ phần còn lại của một loạt các khu định cư trước đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "tell time  To determine the time of day indicated by the positions of the hands on a clock.",
+            "vi": "cho biết thời gian Để xác định thời gian trong ngày được chỉ ra bởi vị trí của các kim trên đồng hồ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Then there will be no one to tell tales.",
+            "vi": "Sau đó sẽ không có ai để kể những câu chuyện."
+        },
+        {
+            "en": "Boys, what did I tell you?",
+            "vi": "Các chàng trai, tôi đã nói gì với các bạn?"
+        }
+    ],
+    "words_form": [
+        "telling",
+        "tells",
+        "told"
+    ],
+    "meaning_vi": "bảo, nói cho biết"
+}

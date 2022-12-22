@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/jild/"
+    ],
+    "synonyms": [
+        "produce",
+        "give in",
+        "bring forth",
+        "bring in",
+        "bloom"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To give way to physical force.",
+            "vi": "Để nhường chỗ cho lực lượng vật chất."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a yield is the act of producing or the amount produced.",
+            "vi": "Định nghĩa về lợi tức là hành vi sản xuất hoặc số lượng được sản xuất."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The yield of corn varies from six to ten times the amount sown.",
+            "vi": "Năng suất ngô thay đổi từ sáu đến mười lần so với sản lượng được gieo."
+        },
+        {
+            "en": "The division of labor applied to science will yield substantial results.",
+            "vi": "Sự phân công lao động được áp dụng khoa học sẽ mang lại những kết quả đáng kể."
+        }
+    ],
+    "words_form": [
+        "yielded",
+        "yielding",
+        "yields"
+    ],
+    "meaning_vi": "năng suất"
+}

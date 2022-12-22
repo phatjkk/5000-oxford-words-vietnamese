@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/ɪkˈsploʊsɪv/",
+        "/ɪkˈsploʊzɪv/"
+    ],
+    "synonyms": [
+        "gunpowder",
+        "sensitive",
+        "volatile",
+        "fulminant",
+        "inflammable"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Relating to or having the nature of an explosion.",
+            "vi": "Có liên quan hoặc có tính chất của một vụ nổ."
+        },
+        {
+            "pos": "noun",
+            "en": "Plosive.",
+            "vi": "Nổ tung."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is decomposed by water with explosive violence.",
+            "vi": "Nó bị phân hủy bởi nước với bạo lực bùng nổ."
+        },
+        {
+            "en": "Torpedoing The explosive employed is generally nitroglycerin, Wells.",
+            "vi": "Đánh ngư lôi Chất nổ được sử dụng thường là nitroglycerin, Wells."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nổ"
+}

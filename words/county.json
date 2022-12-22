@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈkaʊn(t)i/"
+    ],
+    "synonyms": [
+        "district",
+        "parish",
+        "constituency",
+        "division",
+        "borough"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A county is defined as an administrative division of a state or country.",
+            "vi": "Quận được định nghĩa là một bộ phận hành chính của một tiểu bang hoặc quốc gia."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of county refers to an administrative division in a state or country.",
+            "vi": "Định nghĩa về quận dùng để chỉ một bộ phận hành chính trong một tiểu bang hoặc quốc gia."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The county borough was created in 1888.",
+            "vi": "Quận được thành lập vào năm 1888."
+        },
+        {
+            "en": "Five years hadn't changed the wild hills of Madison County, but she had forgotten how truly remote the area was.",
+            "vi": "Năm năm đã không thay đổi những ngọn đồi hoang vu của Quận Madison, nhưng cô đã quên rằng khu vực này thực sự xa xôi như thế nào."
+        }
+    ],
+    "words_form": [
+        "counties"
+    ],
+    "meaning_vi": "quận"
+}

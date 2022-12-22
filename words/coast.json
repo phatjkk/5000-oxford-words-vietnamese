@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/koʊst/"
+    ],
+    "synonyms": [
+        "beach",
+        "shoreline",
+        "glide",
+        "skirt",
+        "seashore"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Coast means to sail along or near an oceanside, to slide down an incline.",
+            "vi": "Bờ biển có nghĩa là đi thuyền dọc theo hoặc gần bờ đại dương, trượt xuống một đường nghiêng."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of coast means land along the ocean.",
+            "vi": "Định nghĩa của bờ biển có nghĩa là vùng đất dọc theo đại dương."
+        },
+        {
+            "pos": "idiom",
+            "en": "the Coast  in the U.S., the Pacific coast",
+            "vi": "Bờ biển ở Hoa Kỳ, bờ biển Thái Bình Dương"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm headed to the coast this weekend.",
+            "vi": "Tôi sẽ đến bờ biển vào cuối tuần này."
+        },
+        {
+            "en": "It says it's an island off the coast of Ireland.",
+            "vi": "Nó nói rằng đó là một hòn đảo ngoài khơi Ireland."
+        }
+    ],
+    "words_form": [
+        "coasted",
+        "coasting",
+        "coasts"
+    ],
+    "meaning_vi": "bờ biển"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/weɪt/"
+    ],
+    "synonyms": [
+        "grain",
+        "headache",
+        "tax",
+        "massiveness",
+        "bulk"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Weight is how heavy something is or how much mass it has.",
+            "vi": "Trọng lượng là vật nặng bao nhiêu hoặc khối lượng bao nhiêu."
+        },
+        {
+            "pos": "verb",
+            "en": "To load, burden or oppress someone.",
+            "vi": "Để tải, gánh nặng hoặc áp bức ai đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "by weight  According to weight rather than volume or other measure.",
+            "vi": "theo trọng lượng Theo trọng lượng hơn là khối lượng hoặc biện pháp khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The boxes were heavy, so carrying two of them was too much weight to handle.",
+            "vi": "Những chiếc hộp rất nặng, vì vậy việc mang theo hai chiếc là quá nặng để xử lý."
+        },
+        {
+            "en": "He exercised enough and his weight was perfect.",
+            "vi": "Anh ấy đã tập thể dục đủ và cân nặng của anh ấy ở mức hoàn hảo."
+        }
+    ],
+    "words_form": [
+        "weighted",
+        "weighting",
+        "weights"
+    ],
+    "meaning_vi": "trọng lượng"
+}

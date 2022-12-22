@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/rəˈʒim/",
+        "/reɪˈʒim/"
+    ],
+    "synonyms": [
+        "government",
+        "rule",
+        "management",
+        "administration",
+        "legislation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A regulated system of diet, exercise, or medical treatment; a regimen.",
+            "vi": "Một hệ thống quy định về chế độ ăn uống, tập thể dục hoặc điều trị y tế; một phác đồ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The natural result of such a regime is increasing indebtedness.",
+            "vi": "Kết quả tự nhiên của một chế độ như vậy là mắc nợ ngày càng tăng."
+        },
+        {
+            "en": "We mean the regime of serfdom.",
+            "vi": "Chúng tôi muốn nói đến chế độ nông nô."
+        }
+    ],
+    "words_form": [
+        "regimes"
+    ],
+    "meaning_vi": "chế độ"
+}

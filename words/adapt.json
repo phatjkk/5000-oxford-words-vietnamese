@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈdæpt/"
+    ],
+    "synonyms": [
+        "modify",
+        "adjust",
+        "orientate",
+        "habituation",
+        "acclimatize"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of adapt is to adjust or modify something or to a particular situation or circumstance.",
+            "vi": "Định nghĩa của thích ứng là điều chỉnh hoặc sửa đổi một cái gì đó hoặc cho một tình huống hoặc hoàn cảnh cụ thể."
+        },
+        {
+            "pos": "adjective",
+            "en": "Adapted; fit; suited; suitable.",
+            "vi": "Thích nghi; Phù hợp; phù hợp; phù hợp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He needed to adapt his strategies when dealing with her.",
+            "vi": "Anh cần phải điều chỉnh các chiến lược của mình khi đối phó với cô ấy."
+        },
+        {
+            "en": "How long would it take her to adapt to this culture?",
+            "vi": "Cô ấy sẽ mất bao lâu để thích nghi với nền văn hóa này?"
+        }
+    ],
+    "words_form": [
+        "adapted",
+        "adapting",
+        "adapts"
+    ],
+    "meaning_vi": "phỏng theo"
+}

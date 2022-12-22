@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/loʊn/"
+    ],
+    "synonyms": [
+        "lend",
+        "advance",
+        "mortgage",
+        "credit",
+        "trust"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To loan is defined as to give someone money that will be repaid with interest or an object that will be returned.",
+            "vi": "Cho vay được định nghĩa là cho ai đó tiền sẽ được trả lại bằng lãi suất hoặc một vật sẽ được trả lại."
+        },
+        {
+            "pos": "noun",
+            "en": "(banking, finance) A sum of money or other valuables or consideration that an individual, group or other legal entity borrows from another individual, group or legal entity (the latter often being a financial institution) with the condition that it be returned or repaid at a later date (sometimes with interest).",
+            "vi": "(ngân hàng, tài chính) Một khoản tiền hoặc các vật có giá trị khác hoặc việc một cá nhân, nhóm hoặc pháp nhân khác vay từ một cá nhân, nhóm hoặc pháp nhân khác (thường là tổ chức tài chính) với điều kiện phải trả lại hoặc hoàn trả. vào một ngày sau đó (đôi khi có lãi suất)."
+        },
+        {
+            "pos": "idiom",
+            "en": "on loan  lent for temporary use or service to another by the owner, regular employer, etc.",
+            "vi": "cho vay để sử dụng tạm thời hoặc dịch vụ cho người khác bởi chủ sở hữu, người sử dụng lao động thường xuyên, v.v."
+        }
+    ],
+    "sentences": [],
+    "words_form": [
+        "loaned",
+        "loaning",
+        "loans"
+    ],
+    "meaning_vi": "tiền vay"
+}

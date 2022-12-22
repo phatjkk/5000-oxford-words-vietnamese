@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ɔlˈðoʊ/"
+    ],
+    "synonyms": [
+        "though",
+        "whereas",
+        "albeit",
+        "despite",
+        "whilst"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "Regardless of the fact that; even though.",
+            "vi": "Bất kể thực tế là; Mặc dù."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Although she had said the words \"I love you,\" several times, he had not uttered them.",
+            "vi": "Dù cô đã nói câu \"Anh yêu em\" vài lần nhưng anh vẫn chưa thốt ra."
+        },
+        {
+            "en": "Certainly this could happen, although the odds are remote.",
+            "vi": "Chắc chắn điều này có thể xảy ra, mặc dù tỷ lệ cược là xa."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "mặc dầu"
+}

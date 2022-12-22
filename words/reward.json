@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈwɔrd/"
+    ],
+    "synonyms": [
+        "award",
+        "prize",
+        "compensation",
+        "pay",
+        "bonus"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A satisfying return on investment; a profit.",
+            "vi": "Lợi tức đầu tư thỏa mãn; lợi nhuận."
+        },
+        {
+            "pos": "verb",
+            "en": "To give a reward to or for.",
+            "vi": "Để trao phần thưởng cho hoặc cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There's a hefty reward out for her, too.",
+            "vi": "Cũng có một phần thưởng kếch xù dành cho cô ấy."
+        },
+        {
+            "en": "I can neither punish him if he does wrong nor reward him if he does right.",
+            "vi": "Tôi không thể trừng phạt anh ta nếu anh ta làm sai và thưởng cho anh ta nếu anh ta làm đúng."
+        }
+    ],
+    "words_form": [
+        "rewarded",
+        "rewarding",
+        "rewards"
+    ],
+    "meaning_vi": "phần thưởng"
+}

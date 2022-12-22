@@ -1,0 +1,32 @@
+{
+    "spelling": [
+        "/ˌənˈkəmfərdəb(ə)l/",
+        "/ˌənˈkəmftərbəl/"
+    ],
+    "synonyms": [
+        "hurt",
+        "restless",
+        "strained",
+        "annoying",
+        "weary"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Experiencing physical discomfort.",
+            "vi": "Trải qua sự khó chịu về thể chất."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was uncomfortable, but safe.",
+            "vi": "Nó không thoải mái, nhưng an toàn."
+        },
+        {
+            "en": "He looked uncomfortable and his gaze shifted absently to the cabinets.",
+            "vi": "Anh ta trông có vẻ khó chịu và ánh mắt lơ đãng chuyển sang các ngăn tủ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "không thoải mái"
+}

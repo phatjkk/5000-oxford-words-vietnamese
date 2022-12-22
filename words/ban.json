@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/bæn/"
+    ],
+    "synonyms": [
+        "forbid",
+        "prohibition",
+        "restrained",
+        "limitation",
+        "prohibit"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A prohibition imposed by law or official decree.",
+            "vi": "Một sự cấm đoán do luật pháp hoặc nghị định chính thức đưa ra."
+        },
+        {
+            "pos": "verb",
+            "en": "To prohibit, as by official order, from doing, using, appearing, happening, etc.; forbid; censor.",
+            "vi": "Cấm, như theo lệnh chính thức, không được làm, sử dụng, xuất hiện, xảy ra, v.v.; ngăn cấm; người kiểm duyệt."
+        },
+        {
+            "pos": "initialism",
+            "en": "British Approved Name.",
+            "vi": "Tên được chấp thuận của Anh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They may try to ban you from day trading given the current climate.",
+            "vi": "Họ có thể cố gắng cấm bạn giao dịch trong ngày với tình hình hiện tại."
+        },
+        {
+            "en": "In Mexico and Peru they fell under the ban of the Inquisition.",
+            "vi": "Ở Mexico và Peru, họ bị cấm bởi Tòa án Dị giáo."
+        }
+    ],
+    "words_form": [
+        "bani",
+        "banned",
+        "banning",
+        "bans"
+    ],
+    "meaning_vi": "lệnh cấm"
+}

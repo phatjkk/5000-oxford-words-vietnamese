@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/su/"
+    ],
+    "synonyms": [
+        "karen",
+        "prosecute",
+        "accuse",
+        "litigate",
+        "go to law"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To sue is defined as to bring a legal action against a person or an organization.",
+            "vi": "Kiện được định nghĩa là khởi kiện một cá nhân hoặc một tổ chức."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A diminutive of Susan and of related female given names; popular as a middle name.",
+            "vi": "Một chi tiết nhỏ của Susan và những tên phụ nữ có liên quan; phổ biến như một tên đệm."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) A Mary Sue (type of character in fiction).",
+            "vi": "(thân mật) Một Mary Sue (kiểu nhân vật trong tiểu thuyết)."
+        },
+        {
+            "pos": "anagrams",
+            "en": "SEU.",
+            "vi": "SEU."
+        },
+        {
+            "pos": "idiom",
+            "en": "sue out  to apply for and receive from a court (a writ or other legal process)",
+            "vi": "kiện ra tòa để xin và nhận từ tòa án (văn bản hoặc thủ tục pháp lý khác)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm good at spotting trends, so sue me.",
+            "vi": "Tôi rất giỏi trong việc phát hiện các xu hướng, vì vậy hãy kiện tôi."
+        },
+        {
+            "en": "He could sue us!",
+            "vi": "Anh ta có thể kiện chúng tôi!"
+        }
+    ],
+    "words_form": [
+        "sued",
+        "sues",
+        "suing"
+    ],
+    "meaning_vi": "kiện"
+}

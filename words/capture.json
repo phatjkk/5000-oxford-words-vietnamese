@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈkæptʃər/"
+    ],
+    "synonyms": [
+        "seizure",
+        "arrest",
+        "occupation",
+        "capturing",
+        "obtaining"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To succeed in preserving in lasting form.",
+            "vi": "Để thành công trong việc bảo tồn ở dạng lâu dài."
+        },
+        {
+            "pos": "noun",
+            "en": "One that has been seized, caught, or won; a catch or prize.",
+            "vi": "Một cái đã bị bắt, bị bắt, hoặc đã giành được; một cú bắt hoặc giải thưởng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We will set up our plan to capture him.",
+            "vi": "Chúng tôi sẽ thiết lập kế hoạch của chúng tôi để bắt anh ta."
+        },
+        {
+            "en": "It is only possible to capture prisoners if they agree to be captured, just as it is only possible to catch a swallow if it settles on one's hand.",
+            "vi": "Chỉ có thể bắt được tù nhân nếu họ đồng ý bị bắt, cũng như chỉ có thể bắt được một con én nếu nó nằm trong tay một người."
+        }
+    ],
+    "words_form": [
+        "captured",
+        "captures",
+        "capturing"
+    ],
+    "meaning_vi": "chụp"
+}

@@ -1,0 +1,32 @@
+{
+    "spelling": [
+        "/ˌɛkspərˈtiz/",
+        "/ˌɛkspərˈtis/"
+    ],
+    "synonyms": [
+        "ability",
+        "adeptness",
+        "proficiency",
+        "knowledge",
+        "mastery"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of expertise is advanced knowledge or skill.",
+            "vi": "Định nghĩa của chuyên môn là kiến ​​thức hoặc kỹ năng nâng cao."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't know that we have the expertise here to repair it at this time.",
+            "vi": "Tôi không biết rằng chúng tôi có chuyên môn ở đây để sửa chữa nó vào lúc này."
+        },
+        {
+            "en": "I would not recommend quickly chopping vegetables unless you have expertise with a knife.",
+            "vi": "Tôi không khuyên bạn nên thái nhanh rau trừ khi bạn có chuyên môn về dao."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chuyên môn"
+}

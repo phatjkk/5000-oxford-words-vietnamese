@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/veɪn/"
+    ],
+    "synonyms": [
+        "lode",
+        "bed",
+        "vessel",
+        "temperament",
+        "mood"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(zoology) One of the thickened cuticular ribs that form the supporting network of the wing of an insect and that often carry hemolymph.",
+            "vi": "(động vật học) Một trong những xương sườn dạng thấu kính dày lên tạo thành mạng lưới nâng đỡ cánh của côn trùng và thường mang vi khuẩn huyết."
+        },
+        {
+            "pos": "verb",
+            "en": "To streak or mark with or as with veins.",
+            "vi": "Để tạo vệt hoặc đánh dấu bằng hoặc giống với các tĩnh mạch."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A genuine vein of philanthropy has always existed in the Quaker body.",
+            "vi": "Lòng nhân ái chân chính luôn tồn tại trong cơ thể Quaker."
+        },
+        {
+            "en": "He had discovered a contraction in the vein of fluid (vena contracta) which issued from the orifice, and found that, at the distance of about a diameter of the aperture, the section of the vein was contracted in the subduplicate ratio of two to one.",
+            "vi": "Ông đã phát hiện ra một sự co thắt trong tĩnh mạch của chất lỏng (vena contracta) chảy ra từ lỗ thoát nước, và nhận thấy rằng, ở khoảng cách khoảng một đường kính của lỗ, phần của tĩnh mạch đã bị co lại theo tỷ lệ hai phần một. ."
+        }
+    ],
+    "words_form": [
+        "veined",
+        "veining",
+        "veins"
+    ],
+    "meaning_vi": "tĩnh mạch"
+}

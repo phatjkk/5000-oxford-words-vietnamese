@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈdɪsˌkɔrs/"
+    ],
+    "synonyms": [
+        "oration",
+        "narration",
+        "dialogue",
+        "talk",
+        "treat"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of discourse is a discussion about a topic either in writing or face to face.",
+            "vi": "Định nghĩa của diễn ngôn là một cuộc thảo luận về một chủ đề hoặc bằng văn bản hoặc mặt đối mặt."
+        },
+        {
+            "pos": "verb",
+            "en": "Discourse is defined as to talk about a subject.",
+            "vi": "Diễn ngôn được định nghĩa là để nói về một chủ đề."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Martha said nothing during my discourse, not helping my confidence.",
+            "vi": "Martha không nói gì trong suốt bài diễn thuyết của tôi, không giúp ích gì cho sự tự tin của tôi."
+        },
+        {
+            "en": "I finished my discourse with a request for words of wisdom.",
+            "vi": "Tôi đã hoàn thành bài diễn văn của mình với một yêu cầu về những lời lẽ khôn ngoan."
+        }
+    ],
+    "words_form": [
+        "discoursed",
+        "discourses",
+        "discoursing"
+    ],
+    "meaning_vi": "đàm luận"
+}

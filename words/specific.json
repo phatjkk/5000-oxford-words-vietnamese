@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/spəˈsɪfɪk/"
+    ],
+    "synonyms": [
+        "particular",
+        "distinct",
+        "precise",
+        "definite",
+        "clear"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Specific is someone or something that is specially suited for a purpose or need.",
+            "vi": "Cụ thể là một người nào đó hoặc một cái gì đó đặc biệt phù hợp cho một mục đích hoặc nhu cầu."
+        },
+        {
+            "pos": "adjective",
+            "en": "Limiting or limited; specifying or specified; precise; definite; explicit.",
+            "vi": "Hạn chế hoặc hạn chế; xác định cụ thể hoặc chỉ định; tóm lược; xác định; rõ ràng."
+        },
+        {
+            "pos": "affix",
+            "en": "Limited or specific to, characteristic of (a specified thing or person)",
+            "vi": "Giới hạn hoặc cụ thể đối với, đặc điểm của (một vật hoặc một người cụ thể)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's easy to identify specific crimes and follow them up.",
+            "vi": "Thật dễ dàng để xác định tội phạm cụ thể và theo dõi chúng."
+        },
+        {
+            "en": "She dropped Jonathan off and told him to meet her at a specific time and place.",
+            "vi": "Cô ấy thả Jonathan xuống và bảo anh ấy gặp cô ấy vào một thời gian và địa điểm cụ thể."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "cụ thể; chi tiết"
+}

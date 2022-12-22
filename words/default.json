@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/dəˈfɔlt/"
+    ],
+    "synonyms": [
+        "nonfulfillment",
+        "delinquency",
+        "failure",
+        "lapse",
+        "neglect"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(law) To lose (a case) by failing to appear in court.",
+            "vi": "(luật) Bị thua (một vụ án) do không ra hầu tòa."
+        },
+        {
+            "pos": "noun",
+            "en": "(electronics, computing) The original software programming settings as set by the factory.",
+            "vi": "(điện tử, máy tính) Các cài đặt lập trình phần mềm ban đầu do nhà máy thiết lập."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating a choice, setting, etc. that is the default.",
+            "vi": "Chỉ định một lựa chọn, cài đặt, v.v. là mặc định."
+        },
+        {
+            "pos": "idiom",
+            "en": "in default of  Through the failure, absence, or lack of.",
+            "vi": "theo mặc định của Thông qua sự thất bại, thiếu vắng hoặc thiếu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In default of due payment, their lands were liable to be sold to the highest bidder.",
+            "vi": "Khi không được thanh toán đến hạn, đất đai của họ phải được bán cho người trả giá cao nhất."
+        },
+        {
+            "en": "He was the default for most of the decisions she felt uncomfortable about making, but those decisions rarely included the children.",
+            "vi": "Anh ấy là người mặc định cho hầu hết các quyết định mà cô cảm thấy không thoải mái khi đưa ra, nhưng những quyết định đó hiếm khi có sự tham gia của con cái."
+        }
+    ],
+    "words_form": [
+        "defaulted",
+        "defaulting",
+        "defaults"
+    ],
+    "meaning_vi": "mặc định"
+}

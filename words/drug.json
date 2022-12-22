@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/drəɡ/"
+    ],
+    "synonyms": [
+        "controlled substance",
+        "tranquilizer",
+        "restorative",
+        "opiate",
+        "narcotic"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A chemical substance, such as a narcotic or hallucinogen, that affects the central nervous system, causing changes in behavior and often addiction.",
+            "vi": "Một chất hóa học, chẳng hạn như chất gây nghiện hoặc chất gây ảo giác, ảnh hưởng đến hệ thần kinh trung ương, gây ra những thay đổi trong hành vi và thường gây nghiện."
+        },
+        {
+            "pos": "verb",
+            "en": "To administer a drug to.",
+            "vi": "Để quản lý một loại thuốc cho."
+        },
+        {
+            "pos": "idiom",
+            "en": "drug on the market  a commodity for which there is little or no demand because the supply is so plentiful",
+            "vi": "thuốc trên thị trường một loại hàng hóa mà nhu cầu rất ít hoặc không có vì nguồn cung quá dồi dào"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Would he try to drug them as he had Elisabeth?",
+            "vi": "Liệu anh ta có cố gắng đánh thuốc mê họ như khi anh ta có Elisabeth không?"
+        },
+        {
+            "en": "Was Giddon involved in a drug ring?",
+            "vi": "Giddon có dính líu đến một chiếc nhẫn ma túy không?"
+        }
+    ],
+    "words_form": [
+        "drugged",
+        "drugging",
+        "drugs"
+    ],
+    "meaning_vi": "thuốc uống"
+}

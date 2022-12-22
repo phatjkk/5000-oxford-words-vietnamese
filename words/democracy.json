@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/dəˈmɑkrəsi/"
+    ],
+    "synonyms": [
+        "equality",
+        "justice",
+        "commonwealth",
+        "freedom of speech",
+        "government"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of democracy is a form of government in which the common people hold political power and can rule either directly or through elected representatives.",
+            "vi": "Định nghĩa về dân chủ là một hình thức chính phủ trong đó người dân nắm giữ quyền lực chính trị và có thể cai trị trực tiếp hoặc thông qua các đại diện dân cử."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We welcome new members to join in the fight for a liberal democracy.",
+            "vi": "Chúng tôi hoan nghênh các thành viên mới tham gia đấu tranh cho một nền dân chủ tự do."
+        },
+        {
+            "en": "There is an increasing feeling of democracy in the country.",
+            "vi": "Có một cảm giác dân chủ ngày càng tăng trong nước."
+        }
+    ],
+    "words_form": [
+        "democracies"
+    ],
+    "meaning_vi": "dân chủ"
+}

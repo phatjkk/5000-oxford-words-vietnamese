@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈpɑrləmənt/"
+    ],
+    "synonyms": [
+        "council",
+        "senate",
+        "congress",
+        "court",
+        "authority"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Parliament is a legislative body.",
+            "vi": "Nghị viện là cơ quan lập pháp."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Any of several parliaments of various countries.",
+            "vi": "Bất kỳ trong số một số nghị viện của các quốc gia khác nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A new parliament was called to meet at Oxford, to avoid the influences of the city of London, where Shaftesbury had taken the greatest pains to make himself popular.",
+            "vi": "Một nghị viện mới đã được triệu tập để họp tại Oxford, để tránh ảnh hưởng của thành phố London, nơi Shaftesbury đã phải chịu đựng những khó khăn lớn nhất để khiến mình trở nên nổi tiếng."
+        },
+        {
+            "en": "In this matter the opposition were in the wrong, and by attacking the parliament discredited themselves.",
+            "vi": "Trong vấn đề này, phe đối lập đã sai, và bằng cách tấn công quốc hội đã làm mất uy tín của chính họ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "quốc hội"
+}

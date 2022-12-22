@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/strɛtʃ/"
+    ],
+    "synonyms": [
+        "elongate",
+        "range",
+        "extend",
+        "lengthen",
+        "inflate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To stretch is to move the limbs of your body as far as you can.",
+            "vi": "Để kéo căng là di chuyển các chi của cơ thể bạn hết mức có thể."
+        },
+        {
+            "pos": "noun",
+            "en": "A straight section of a racecourse or track, especially the section leading to the finish line.",
+            "vi": "Đoạn thẳng của trường đua ngựa hoặc đường đua, đặc biệt là đoạn dẫn đến vạch đích."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or being a vehicle, such as a limousine or passenger jet, having an extended seating area that provides extra space for more passengers, leg room, or amenities.",
+            "vi": "Liên quan đến, hoặc là một phương tiện, chẳng hạn như xe limousine hoặc máy bay chở khách, có khu vực ghế ngồi mở rộng cung cấp thêm không gian cho nhiều hành khách hơn, chỗ để chân hoặc các tiện nghi."
+        },
+        {
+            "pos": "idiom",
+            "en": "stretch (one's) legs  To go for a walk, especially after a lengthy period of sitting.",
+            "vi": "duỗi chân (của một người) Để đi dạo, đặc biệt là sau một thời gian dài ngồi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That's a stretch and a tug.",
+            "vi": "Đó là một cuộc kéo căng và kéo co."
+        },
+        {
+            "en": "She heard him stretch out on the ground and within minutes his breathing changed.",
+            "vi": "Cô nghe thấy tiếng anh nằm dài trên mặt đất và trong vài phút hơi thở của anh thay đổi."
+        }
+    ],
+    "words_form": [
+        "stretched",
+        "stretches",
+        "stretching"
+    ],
+    "meaning_vi": "giãn cơ (kéo giãn cơ)"
+}

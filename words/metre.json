@@ -1,0 +1,67 @@
+{
+    "spelling": [
+        "/ˈmiːtə/"
+    ],
+    "synonyms": [
+        "cadence",
+        "flow",
+        "movement",
+        "pattern",
+        "pulse"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The basic unit of length in the International System of Units (SI: Système International d'Unités). It is equal to 3947⁄127 (approximately 39.37) imperial inches.",
+            "vi": "Đơn vị đo độ dài cơ bản trong Hệ đơn vị quốc tế (SI: Système International d'Unités). Nó bằng 3947⁄127 (khoảng 39,37) inch hệ Anh."
+        },
+        {
+            "pos": "",
+            "en": "See meter.",
+            "vi": "Xem đồng hồ."
+        },
+        {
+            "pos": "verb",
+            "en": "(UK, rare) Alternative spelling of meter.",
+            "vi": "(Anh, hiếm) Cách viết thay thế của mét."
+        },
+        {
+            "pos": "suffix",
+            "en": "(nonstandard, UK) Alternative form of -meter (suffix used to form the names of measuring devices).",
+            "vi": "(nonstandard, UK) Dạng thay thế của -meter (hậu tố dùng để tạo tên các thiết bị đo lường)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The line is of metre gauge.",
+            "vi": "Dòng có khổ mét."
+        },
+        {
+            "en": "A lens of twice its strength has a refractive power of 2 D, and a focal length of half a metre, and so on.",
+            "vi": "Thấu kính có độ bền gấp đôi thấu kính có chiết suất 2 D và tiêu cự là nửa mét, v.v."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The basic unit of length in the International System of Units (SI: Système International d'Unités). It is equal to 3947⁄127 (approximately 39.37) imperial inches.",
+            "vi": "Đơn vị đo độ dài cơ bản trong Hệ đơn vị quốc tế (SI: Système International d'Unités). Nó bằng 3947⁄127 (khoảng 39,37) inch hệ Anh."
+        },
+        {
+            "pos": "",
+            "en": "See meter.",
+            "vi": "Xem đồng hồ."
+        },
+        {
+            "pos": "verb",
+            "en": "(UK, rare) Alternative spelling of meter.",
+            "vi": "(Anh, hiếm) Cách viết thay thế của mét."
+        },
+        {
+            "pos": "suffix",
+            "en": "(nonstandard, UK) Alternative form of -meter (suffix used to form the names of measuring devices).",
+            "vi": "(nonstandard, UK) Dạng thay thế của -meter (hậu tố dùng để tạo tên các thiết bị đo lường)."
+        }
+    ]
+}

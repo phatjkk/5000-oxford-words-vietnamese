@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/ˈnəθɪŋ/"
+    ],
+    "synonyms": [
+        "naught",
+        "zero",
+        "emptiness",
+        "nullity",
+        "nix"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Nothing is defined as no existence, or of no importance.",
+            "vi": "Không có gì được định nghĩa là không tồn tại, hoặc không có tầm quan trọng."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of nothing is the absence of something, or zero.",
+            "vi": "Định nghĩa của hư không là sự vắng mặt của một cái gì đó, hoặc bằng không."
+        },
+        {
+            "pos": "adverb",
+            "en": "Nothing means in no way.",
+            "vi": "Không có gì có nghĩa là không có cách nào."
+        },
+        {
+            "pos": "adjective",
+            "en": "Insignificant or worthless.",
+            "vi": "Không đáng kể hoặc vô giá trị."
+        },
+        {
+            "pos": "idiom",
+            "en": "for nothing  Free of charge. To no avail: All that trouble for nothing.For no reason: Fired him for nothing.",
+            "vi": "miễn phí. Vô ích: Tất cả những rắc rối đó không vì lý do gì."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She tried to speak, but nothing came out.",
+            "vi": "Cô cố gắng nói, nhưng không có gì phát ra."
+        },
+        {
+            "en": "Nothing. I was just thinking about technology.",
+            "vi": "Không. Tôi chỉ đang nghĩ về công nghệ."
+        }
+    ],
+    "words_form": [
+        "nothings"
+    ],
+    "meaning_vi": "không có gì"
+}

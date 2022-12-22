@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/fid/"
+    ],
+    "synonyms": [
+        "ingestion",
+        "nourish",
+        "supply",
+        "fodder",
+        "provender"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Feed is a source of nourishment or food that is provided to animals.",
+            "vi": "Thức ăn chăn nuôi là nguồn dinh dưỡng hoặc thức ăn được cung cấp cho động vật."
+        },
+        {
+            "pos": "verb",
+            "en": "To provide something necessary for the growth, development, or existence of; nourish; sustain.",
+            "vi": "Để cung cấp một cái gì đó cần thiết cho sự tăng trưởng, phát triển hoặc tồn tại của; nuôi; duy trì."
+        },
+        {
+            "pos": "idiom",
+            "en": "be off (one's) feed  To have lost one's appetite: The dog is off its feed this week.",
+            "vi": "be off (một người) cho ăn Để mất cảm giác thèm ăn: Con chó đã bỏ thức ăn trong tuần này."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm going to feed the chickens.",
+            "vi": "Tôi sẽ cho gà ăn."
+        },
+        {
+            "en": "How was she going to feed a baby?",
+            "vi": "Cô ấy sẽ cho một đứa trẻ bú như thế nào?"
+        }
+    ],
+    "words_form": [
+        "fed",
+        "feeding",
+        "feeds"
+    ],
+    "meaning_vi": "thức ăn"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/prəˈlɪməˌnɛri/"
+    ],
+    "synonyms": [
+        "concluding",
+        "initial",
+        "finale",
+        "conclusion",
+        "beginning"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "In preparation for the main matter; initial, introductory, preparatory.",
+            "vi": "Để chuẩn bị cho vấn đề chính; ban đầu, giới thiệu, dự bị."
+        },
+        {
+            "pos": "noun",
+            "en": "A preliminary step, procedure, etc.",
+            "vi": "Một bước sơ bộ, quy trình, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That event was so important it requires some preliminary explanation.",
+            "vi": "Sự kiện đó rất quan trọng nên cần một số lời giải thích sơ bộ."
+        },
+        {
+            "en": "All the other preliminary examinations were conducted in the same manner.",
+            "vi": "Tất cả các cuộc kiểm tra sơ bộ khác cũng được tiến hành theo cách tương tự."
+        }
+    ],
+    "words_form": [
+        "preliminaries"
+    ],
+    "meaning_vi": "sơ bộ"
+}

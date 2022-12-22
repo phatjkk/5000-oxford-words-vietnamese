@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/neɪl/"
+    ],
+    "synonyms": [
+        "pin",
+        "stud",
+        "brad",
+        "hob",
+        "pound"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A slender rod used in operations to fasten together the divided extremities of a broken bone.",
+            "vi": "Một thanh mảnh được sử dụng trong các hoạt động để gắn chặt các chi bị chia cắt của xương gãy lại với nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "Nail means to attach or join.",
+            "vi": "Đinh có nghĩa là gắn hoặc nối."
+        },
+        {
+            "pos": "idiom",
+            "en": "hard as nails  callous, unfeeling, remorseless, etc.",
+            "vi": "cứng như móng tay chai sạn, không cảm xúc, không hối hận, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He flicked his nail against the pad of his thumb.",
+            "vi": "Anh búng móng tay vào ngón tay cái."
+        },
+        {
+            "en": "I'll bet I hit the nail on the head when I said she was in Ouray to meet some guy.",
+            "vi": "Tôi dám cá là tôi đã đánh một cái đinh vào đầu khi tôi nói rằng cô ấy đang ở Ouray để gặp một anh chàng nào đó."
+        }
+    ],
+    "words_form": [
+        "nailed",
+        "nailing",
+        "nails"
+    ],
+    "meaning_vi": "móng (tay, chân)"
+}

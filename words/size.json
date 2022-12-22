@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/saɪz/"
+    ],
+    "synonyms": [
+        "stature",
+        "mass",
+        "thickness",
+        "quantity",
+        "area"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Character, value, or status with reference to relative importance or the capacity to meet given requirements.",
+            "vi": "Đặc tính, giá trị hoặc trạng thái liên quan đến tầm quan trọng tương đối hoặc khả năng đáp ứng các yêu cầu nhất định."
+        },
+        {
+            "pos": "verb",
+            "en": "To make of a certain size.",
+            "vi": "Để làm cho một kích thước nhất định."
+        },
+        {
+            "pos": "adjective",
+            "en": "Sized. Often used in combination.",
+            "vi": "Kích thước. Thường được sử dụng kết hợp."
+        },
+        {
+            "pos": "affix",
+            "en": "-sized.",
+            "vi": "-kích thước."
+        },
+        {
+            "pos": "idiom",
+            "en": "of a size  of one or the same size",
+            "vi": "có kích thước bằng một hoặc cùng kích thước"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was about the size of mine.",
+            "vi": "Đó là kích thước của tôi."
+        },
+        {
+            "en": "Dean was amazed at the size of the crowd.",
+            "vi": "Dean ngạc nhiên về quy mô của đám đông."
+        }
+    ],
+    "words_form": [
+        "sized",
+        "sizes",
+        "sizing"
+    ],
+    "meaning_vi": "kích thước"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈsərpləs/"
+    ],
+    "synonyms": [
+        "leftover",
+        "surplusage",
+        "plethora",
+        "overabundance",
+        "remainder"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A quantity or amount over and above what is needed or used; something left over; excess.",
+            "vi": "Một số lượng hoặc số lượng nhiều hơn và cao hơn những gì cần thiết hoặc sử dụng; một cái gì đó còn sót lại; thặng dư."
+        },
+        {
+            "pos": "adjective",
+            "en": "Being more than or in excess of what is needed or required.",
+            "vi": "Nhiều hơn hoặc vượt quá những gì cần thiết hoặc bắt buộc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The surplus for the year amounted to 65,000,000 lire.",
+            "vi": "Thặng dư trong năm lên tới 65.000.000 lire."
+        },
+        {
+            "en": "In the lean years, harvests are small and farmers sometimes don't even produce enough to have surplus to sell.",
+            "vi": "Trong những năm gầy, sản lượng thu hoạch ít và người nông dân đôi khi không sản xuất đủ để có dư để bán."
+        }
+    ],
+    "words_form": [
+        "surpluses"
+    ],
+    "meaning_vi": "số dư"
+}

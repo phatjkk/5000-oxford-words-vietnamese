@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/klɪk/"
+    ],
+    "synonyms": [
+        "hit-it-off",
+        "snap",
+        "crack",
+        "tick",
+        "flick"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a click is a slight, sharp sound or a device that makes such a sound.",
+            "vi": "Định nghĩa của tiếng lách cách là một âm thanh nhẹ, sắc nét hoặc một thiết bị tạo ra âm thanh như vậy."
+        },
+        {
+            "pos": "verb",
+            "en": "To produce a click or series of clicks.",
+            "vi": "Để tạo ra một nhấp chuột hoặc một loạt các nhấp chuột."
+        },
+        {
+            "pos": "interjection",
+            "en": "The sound of a click.",
+            "vi": "Âm thanh của một cú nhấp chuột."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was a click as Mansr closed the connection.",
+            "vi": "Có một cú nhấp chuột khi Mansr đóng kết nối."
+        },
+        {
+            "en": "- A, Wireworm; B, pupa of Click Beetle; C, adult Click Beetle (A griotes lineatum), b c a FIG.",
+            "vi": "- A, Giun chỉ; B, nhộng của Bọ Click; C, Bọ Click trưởng thành (A griotes lineatum), hình bca."
+        }
+    ],
+    "words_form": [
+        "clicked",
+        "clicking",
+        "clicks"
+    ],
+    "meaning_vi": "nhấp chuột"
+}

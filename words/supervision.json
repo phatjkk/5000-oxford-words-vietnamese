@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˌsupərˈvɪʒ(ə)n/"
+    ],
+    "synonyms": [
+        "guidance",
+        "trust",
+        "care",
+        "surveillance",
+        "superintendence"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act, process, or function of supervising.",
+            "vi": "Hành động, quy trình hoặc chức năng giám sát."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Taxation is assessed under British supervision and paid into the native treasury.",
+            "vi": "Thuế được đánh giá dưới sự giám sát của Anh và nộp vào kho bạc bản xứ."
+        },
+        {
+            "en": "The county supervision of public schools is vested in a county superintendent, who is elected for a term of four years.",
+            "vi": "Việc giám sát của quận đối với các trường công được giao cho một giám đốc quận, người được bầu với nhiệm kỳ bốn năm."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "giám sát"
+}

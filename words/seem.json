@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/sim/"
+    ],
+    "synonyms": [
+        "appear",
+        "look",
+        "resemble",
+        "tend",
+        "show"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be apparently true.",
+            "vi": "Rõ ràng là sự thật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You never seem to study.",
+            "vi": "Bạn dường như không bao giờ học."
+        },
+        {
+            "en": "You don't seem to be very happy.",
+            "vi": "Bạn có vẻ không được hạnh phúc cho lắm."
+        }
+    ],
+    "words_form": [
+        "seemed",
+        "seems"
+    ],
+    "meaning_vi": "hình như"
+}

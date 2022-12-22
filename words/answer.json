@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈænsər/"
+    ],
+    "synonyms": [
+        "solution",
+        "rejoinder",
+        "rebuttal",
+        "key",
+        "result"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An answer is defined as something that is similar or a close copy.",
+            "vi": "Một câu trả lời được định nghĩa là một cái gì đó tương tự hoặc một bản sao gần giống."
+        },
+        {
+            "pos": "verb",
+            "en": "To answer is defined as to give a response to a question in either an oral or written manner, or by a physical gesture.",
+            "vi": "Trả lời được định nghĩa là trả lời một câu hỏi bằng lời nói hoặc bằng văn bản, hoặc bằng một cử chỉ vật lý."
+        },
+        {
+            "pos": "idiom",
+            "en": "answer back  to reply forcefully, rudely, or impertinently; talk back",
+            "vi": "trả lời lại để trả lời một cách gượng gạo, thô lỗ hoặc không thích hợp; nói chuyện trở lại"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He put her answer down in his note book.",
+            "vi": "Anh ghi câu trả lời của cô vào cuốn sổ ghi chép của mình."
+        },
+        {
+            "en": "Alex didn't answer and it went to his voice mail, so she left a message.",
+            "vi": "Alex không trả lời và nó đã chuyển đến hộp thư thoại của anh ấy, vì vậy cô ấy đã để lại tin nhắn."
+        }
+    ],
+    "words_form": [
+        "answered",
+        "answers"
+    ],
+    "meaning_vi": "câu trả lời"
+}

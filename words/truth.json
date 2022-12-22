@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/truθ/"
+    ],
+    "synonyms": [
+        "reality",
+        "veridicality",
+        "honesty",
+        "exactitude",
+        "openness"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Truth is something that has been proven by facts or sincerity.",
+            "vi": "Sự thật là thứ đã được chứng minh bằng sự thật hoặc sự chân thành."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) (orig. a slave called Isabella) 1797?-1883; U.S. abolitionist & women's-rights advocate.",
+            "vi": "(người) (gọi là nô lệ Isabella) 1797? -1883; Người ủng hộ quyền phụ nữ và người theo chủ nghĩa bãi nô của Hoa Kỳ."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To assert as true; to declare.",
+            "vi": "(lỗi thời) Để khẳng định là đúng; để khai báo."
+        },
+        {
+            "pos": "idiom",
+            "en": "in truth  truly; in fact",
+            "vi": "trong sự thật thực sự; trên thực tế"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The truth was so painful.",
+            "vi": "Sự thật quá đau lòng."
+        },
+        {
+            "en": "To tell the truth, I did it because I was pissed off at him over my losing Annie.",
+            "vi": "Thành thật mà nói, tôi đã làm điều đó bởi vì tôi đã rất tức giận với anh ấy về việc mất Annie của tôi."
+        }
+    ],
+    "words_form": [
+        "truths"
+    ],
+    "meaning_vi": "sự thật"
+}

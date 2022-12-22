@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/strænd/"
+    ],
+    "synonyms": [
+        "thread",
+        "ground",
+        "coast",
+        "beach",
+        "seacoast"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a strand is one piece of a fiber, fabric or similar material.",
+            "vi": "Định nghĩa của một sợi là một mảnh của sợi, vải hoặc vật liệu tương tự."
+        },
+        {
+            "pos": "verb",
+            "en": "Strand is defined as to leave, often in a helpless position or to form something by twisting fibers or similar materials together.",
+            "vi": "Strand được định nghĩa là rời ra, thường ở vị trí bất lực hoặc hình thành thứ gì đó bằng cách xoắn các sợi hoặc các vật liệu tương tự lại với nhau."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A street in Westminster running from Trafalgar Square to Fleet Street.",
+            "vi": "Một con phố ở Westminster chạy từ Quảng trường Trafalgar đến Phố Fleet."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He smiled, brushing a strand of hair from her cheek.",
+            "vi": "Anh mỉm cười, vuốt một lọn tóc trên má cô."
+        },
+        {
+            "en": "Mrs. Byrne was dressed in a black jersey dress with a single strand of pearls around her neck.",
+            "vi": "Bà Byrne mặc một chiếc váy đen với một sợi ngọc trai quanh cổ."
+        }
+    ],
+    "words_form": [
+        "stranded",
+        "stranding",
+        "strands"
+    ],
+    "meaning_vi": "sợi"
+}

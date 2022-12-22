@@ -1,0 +1,65 @@
+{
+    "spelling": [
+        "/pɑp/"
+    ],
+    "synonyms": [
+        "shot",
+        "soda-pop",
+        "burst",
+        "bang",
+        "soda"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Pop is a noise inside of your ears when pressure equalizes or when your eyes getting big when you see something impressive.",
+            "vi": "Pop là tiếng ồn bên trong tai của bạn khi áp suất cân bằng hoặc khi mắt bạn to lên khi bạn nhìn thấy một thứ gì đó ấn tượng."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of pop is something that is generally liked by the masses.",
+            "vi": "Định nghĩa về nhạc pop là thứ thường được công chúng ưa thích."
+        },
+        {
+            "pos": "noun",
+            "en": "Pop is a kind of music that is generally liked by most people and that is considered to be commercially successful among the mainstream.",
+            "vi": "Pop là thể loại âm nhạc thường được hầu hết mọi người yêu thích và được coi là thành công về mặt thương mại trong dòng nhạc chính thống."
+        },
+        {
+            "pos": "adverb",
+            "en": "With a popping sound.",
+            "vi": "Với một âm thanh bốp."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "(computers) Point of presence.",
+            "vi": "(máy tính) Điểm hiện diện."
+        },
+        {
+            "pos": "interjection",
+            "en": "Sound made in imitation of the sound.",
+            "vi": "Âm thanh được tạo ra để bắt chước âm thanh."
+        },
+        {
+            "pos": "idiom",
+            "en": "a pop  Apiece; each: Tickets to the benefit were $100 a pop.",
+            "vi": "một chiếc đàn pop; Mỗi: Vé tham gia phúc lợi là 100 đô la một lần."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We pop some popcorn and drink some eggnog - just enjoy each other.",
+            "vi": "Chúng tôi đốt một ít bỏng ngô và uống một ít eggnog - chỉ cần thưởng thức nhau."
+        },
+        {
+            "en": "I felt something pop in my neck, but I don't think it's serious.",
+            "vi": "Tôi cảm thấy có thứ gì đó bật ra trong cổ mình, nhưng tôi không nghĩ nó nghiêm trọng."
+        }
+    ],
+    "words_form": [
+        "popped",
+        "popping",
+        "pops"
+    ],
+    "meaning_vi": "nhạc pop"
+}

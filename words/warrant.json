@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈwɔrənt/"
+    ],
+    "synonyms": [
+        "credential",
+        "summons",
+        "authorization",
+        "certificate",
+        "passport"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An order that serves as authorization, especially:  (law) A judicial writ authorizing the search or seizure of property, arrest of a person, or the execution of a legal judgment. A voucher authorizing payment or receipt of money. An option to buy stock at a specified price from an issuing company.",
+            "vi": "Một lệnh phục vụ như ủy quyền, đặc biệt là: (luật) Một văn bản tư pháp cho phép khám xét hoặc tịch thu tài sản, bắt giữ một người hoặc thi hành một bản án pháp lý. Một chứng từ cho phép thanh toán hoặc nhận tiền. Một quyền chọn mua cổ phiếu với một mức giá xác định từ một công ty phát hành."
+        },
+        {
+            "pos": "verb",
+            "en": "To provide adequate grounds for; justify or require.",
+            "vi": "Cung cấp cơ sở đầy đủ cho; biện minh hoặc yêu cầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They find Scripture warrant for this belief in Matt.",
+            "vi": "Họ tìm thấy lời bảo đảm của Kinh thánh cho niềm tin này nơi Matt."
+        },
+        {
+            "en": "If your Dad is feeling bad enough to warrant medical attention, he needs to see a doctor, not a nurse.",
+            "vi": "Nếu bố bạn cảm thấy tồi tệ đến mức cần được chăm sóc y tế, ông ấy cần đến gặp bác sĩ, không phải y tá."
+        }
+    ],
+    "words_form": [
+        "warranted",
+        "warrants"
+    ],
+    "meaning_vi": "bảo đảm"
+}

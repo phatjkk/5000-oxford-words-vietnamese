@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈfaɪnæns/",
+        "/fəˈnæns/"
+    ],
+    "synonyms": [
+        "money",
+        "help",
+        "business",
+        "fund",
+        "grubstake"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Finance is defined as to provide money or credit for something.",
+            "vi": "Tài chính được định nghĩa là cung cấp tiền hoặc tín dụng cho một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of finance is the management of money matters.",
+            "vi": "Định nghĩa của tài chính là quản lý các vấn đề tiền bạc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You could finance the entire government and its (hopefully) noble agenda, by this method alone.",
+            "vi": "Bạn có thể tài trợ cho toàn bộ chính phủ và chương trình nghị sự cao quý (hy vọng) của nó, chỉ bằng phương pháp này."
+        },
+        {
+            "en": "The administration of finance was as chaotic as the condition of parliament.",
+            "vi": "Việc quản lý tài chính cũng hỗn loạn như tình trạng của quốc hội."
+        }
+    ],
+    "words_form": [
+        "financed",
+        "finances",
+        "financing"
+    ],
+    "meaning_vi": "tài chính"
+}

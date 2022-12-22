@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌkɑmprəˈhɛnsɪv/"
+    ],
+    "synonyms": [
+        "overall",
+        "full",
+        "all-embracing",
+        "extensive",
+        "absolute"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(UK) A comprehensive school.",
+            "vi": "(Vương quốc Anh) Một trường học toàn diện."
+        },
+        {
+            "pos": "adjective",
+            "en": "Marked by or showing extensive understanding.",
+            "vi": "Được đánh dấu bởi hoặc thể hiện sự hiểu biết sâu rộng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I hope our final in this class is not a comprehensive exam.",
+            "vi": "Tôi hy vọng trận chung kết của chúng tôi trong lớp này không phải là một kỳ thi toàn diện."
+        },
+        {
+            "en": "His face was a road map of emotion, traveling from puzzled, to comprehensive and then on to frustration.",
+            "vi": "Khuôn mặt của anh ấy là một bản đồ cảm xúc, đi từ bối rối, đến toàn diện và sau đó là thất vọng."
+        }
+    ],
+    "words_form": [
+        "comprehensives"
+    ],
+    "meaning_vi": "bao hàm toàn diện"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ʃɑp/"
+    ],
+    "synonyms": [
+        "buy at",
+        "studio",
+        "store",
+        "patronize",
+        "sell"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Shop is defined as to visit stores and buy goods.",
+            "vi": "Shop được định nghĩa là đến thăm các cửa hàng và mua hàng."
+        },
+        {
+            "pos": "noun",
+            "en": "An atelier; a studio.",
+            "vi": "Một xưởng may; Phòng thu."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to attract the services of a shop assistant.",
+            "vi": "Được sử dụng để thu hút các dịch vụ của một trợ lý cửa hàng."
+        },
+        {
+            "pos": "idiom",
+            "en": "talk shop  To talk about one's work.",
+            "vi": "cửa hàng nói chuyện Để nói về công việc của một người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was too early for the silver shop to be open.",
+            "vi": "Còn quá sớm để mở cửa tiệm bạc."
+        },
+        {
+            "en": "And here's the little shop where we used to buy gingerbread!",
+            "vi": "Và đây là cửa hàng nhỏ nơi chúng tôi từng mua bánh gừng!"
+        }
+    ],
+    "words_form": [
+        "shopped",
+        "shopping",
+        "shops"
+    ],
+    "meaning_vi": "cửa tiệm"
+}

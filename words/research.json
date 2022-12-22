@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈriˌsərtʃ/",
+        "/rəˈsərtʃ/"
+    ],
+    "synonyms": [
+        "study",
+        "explore",
+        "investigative",
+        "enquiry",
+        "analysis"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Research is careful and organized study or gathering of information about a specific topic.",
+            "vi": "Nghiên cứu là nghiên cứu cẩn thận và có tổ chức hoặc thu thập thông tin về một chủ đề cụ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "To study (something) thoroughly so as to present in a detailed, accurate manner.",
+            "vi": "Nghiên cứu (một cái gì đó) kỹ lưỡng để trình bày một cách chi tiết, chính xác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I was trying to research the buyer.",
+            "vi": "Tôi đã cố gắng nghiên cứu người mua."
+        },
+        {
+            "en": "Sensing my reaction she added, It's sort of what I do in my job; research things.",
+            "vi": "Cảm nhận được phản ứng của tôi, cô ấy nói thêm, Đó là những gì tôi làm trong công việc của mình; điều nghiên cứu."
+        }
+    ],
+    "words_form": [
+        "researched",
+        "researches",
+        "researching"
+    ],
+    "meaning_vi": "(việc) nghiên cứu"
+}

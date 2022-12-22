@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈsərkət/"
+    ],
+    "synonyms": [
+        "ambit",
+        "rotation",
+        "orbit",
+        "course",
+        "wind"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a circuit is a closed path or a line forming a boundary.",
+            "vi": "Định nghĩa của một mạch là một đường khép kín hoặc một đường tạo thành một ranh giới."
+        },
+        {
+            "pos": "verb",
+            "en": "To make a circuit or circuit of.",
+            "vi": "Để thực hiện một mạch hoặc mạch của."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maybe the refrigerator is on a separate circuit breaker!",
+            "vi": "Có thể tủ lạnh đang ở một cầu dao riêng!"
+        },
+        {
+            "en": "This consists of a low resistance coil of copper wire enclosed in a laminated iron circuit similar to the magnetic shunt already de Magnetic scribed.",
+            "vi": "Điều này bao gồm một cuộn dây đồng có điện trở thấp được bao bọc trong một mạch sắt nhiều lớp tương tự như shunt từ tính đã được viết nguệch ngoạc của Magnetic."
+        }
+    ],
+    "words_form": [
+        "circuits"
+    ],
+    "meaning_vi": "mạch"
+}

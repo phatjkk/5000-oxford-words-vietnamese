@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/ˈoʊnli/"
+    ],
+    "synonyms": [
+        "exclusively",
+        "utterly",
+        "simply",
+        "entirely",
+        "severally"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Alone of its or their kind; by itself or by themselves; sole.",
+            "vi": "Một mình của nó hoặc loại của họ; bởi chính nó hoặc bởi chính họ; Duy Nhất."
+        },
+        {
+            "pos": "adverb",
+            "en": "Without anyone or anything else; alone.",
+            "vi": "Không có bất kỳ ai hoặc bất cứ điều gì khác; một mình."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Were it not that; except that.",
+            "vi": "Có phải nó không; ngoại trừ việc."
+        },
+        {
+            "pos": "noun",
+            "en": "(rare) Only child.",
+            "vi": "(hiếm) Con một."
+        },
+        {
+            "pos": "idiom",
+            "en": "if only  would that; I wish that if only they would leave; if they would only try harder.",
+            "vi": "giá như vậy; Tôi ước rằng giá như họ rời đi; nếu họ chỉ cố gắng nhiều hơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I only wish there was a real horse here for me to race with.",
+            "vi": "Tôi chỉ ước có một con ngựa thật ở đây để tôi đua cùng."
+        },
+        {
+            "en": "Only Nick noticed her standing in the door.",
+            "vi": "Chỉ có Nick nhận thấy cô ấy đang đứng ở cửa."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chỉ có"
+}

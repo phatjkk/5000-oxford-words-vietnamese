@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/əˈvɔɪd/"
+    ],
+    "synonyms": [
+        "stay away",
+        "elude",
+        "prevent",
+        "duck",
+        "boycott"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To keep away from; evade; shun.",
+            "vi": "Tránh xa; trốn tránh; xa lánh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You can't avoid conflict all the time.",
+            "vi": "Bạn không thể tránh xung đột mọi lúc."
+        },
+        {
+            "en": "Why lie when she made it so easy for him to avoid talking about it at all?",
+            "vi": "Tại sao lại nói dối khi cô ấy khiến anh ta dễ dàng tránh nói về điều đó một chút nào?"
+        }
+    ],
+    "words_form": [
+        "avoided",
+        "avoiding",
+        "avoids"
+    ],
+    "meaning_vi": "tránh"
+}

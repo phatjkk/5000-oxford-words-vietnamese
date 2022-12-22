@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rəˈvɛndʒ/"
+    ],
+    "synonyms": [
+        "avenge",
+        "vindictiveness",
+        "retaliation",
+        "requite",
+        "requital"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Revenge is an action of inflicting harm or damage on someone else in retaliation for harm or damage inflicted on you.",
+            "vi": "Trả thù là một hành động gây tổn hại hoặc thiệt hại cho người khác để trả thù cho việc làm tổn hại hoặc gây ra thiệt hại cho bạn."
+        },
+        {
+            "pos": "verb",
+            "en": "(obs.) To take vengeance.",
+            "vi": "(obs.) Để trả thù."
+        },
+        {
+            "pos": "idiom",
+            "en": "be revenged  to get revenge",
+            "vi": "được tôn kính để trả thù"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His revenge was all that would make him whole again.",
+            "vi": "Sự trả thù của anh ta là tất cả những gì sẽ khiến anh ta trở lại hoàn toàn."
+        },
+        {
+            "en": "\"I can understand him seeking revenge,\" she said.",
+            "vi": "\"Tôi có thể hiểu anh ta đang tìm cách trả thù,\" cô nói."
+        }
+    ],
+    "words_form": [
+        "revenged",
+        "revenges",
+        "revenging"
+    ],
+    "meaning_vi": "trả thù"
+}

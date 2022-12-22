@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/tɛnd/"
+    ],
+    "synonyms": [
+        "care for",
+        "manage",
+        "direct",
+        "accomplish",
+        "do"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Tend means to take care of or be in charge of someone or something.",
+            "vi": "Xu hướng có nghĩa là chăm sóc hoặc phụ trách một ai đó hoặc một cái gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "tend on  to wait upon; serve",
+            "vi": "có xu hướng chờ đợi; phục vụ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We tend to never forget.",
+            "vi": "Chúng tôi có xu hướng không bao giờ quên."
+        },
+        {
+            "en": "Folks around here tend to wear gloves in the winter when it gets that nippy.",
+            "vi": "Người dân quanh đây có xu hướng đeo găng tay vào mùa đông khi trời đẹp."
+        }
+    ],
+    "words_form": [
+        "tended",
+        "tends"
+    ],
+    "meaning_vi": "có xu hướng"
+}

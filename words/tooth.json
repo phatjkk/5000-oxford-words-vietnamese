@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/tuθ/"
+    ],
+    "synonyms": [
+        "fang",
+        "tusk",
+        "tush",
+        "wisdom",
+        "ivory"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a tooth is the hard, small, white parts covered in enamel and set in the jaw or something that resembles them in structure or function.",
+            "vi": "Định nghĩa về răng là những phần cứng, nhỏ, màu trắng được bao phủ bởi men răng và nằm trong hàm hoặc một thứ gì đó giống với chúng về cấu trúc hoặc chức năng."
+        },
+        {
+            "pos": "verb",
+            "en": "To make a jagged edge on.",
+            "vi": "Để làm cho một cạnh răng cưa trên."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(structure in the mouth): bicuspid, canine, cuspid, incisor, premolar, molar.",
+            "vi": "(cấu trúc trong miệng): hai răng, răng nanh, răng nanh, răng cửa, răng tiền hàm, răng hàm."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) get  To be actively involved in; get a firm grasp of.",
+            "vi": "(tiếng lóng) được Để được tham gia tích cực vào; nắm chắc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "(Formula, x.l.x.) radula has a number of uniform teeth on each side of the median tooth in each transverse row.",
+            "vi": "(Công thức, xlx) radula có một số răng đồng đều ở mỗi bên của răng ở giữa trong mỗi hàng ngang."
+        },
+        {
+            "en": "The absence of a gap between the lower canine and first premolar and between the latter and the following tooth is regarded as an essentially tapir-like feature.",
+            "vi": "Việc không có khoảng cách giữa răng nanh dưới và răng tiền hàm đầu tiên và giữa răng sau và răng sau được coi là một đặc điểm về cơ bản giống như vòi rồng."
+        }
+    ],
+    "words_form": [
+        "teeth",
+        "tooths"
+    ],
+    "meaning_vi": "răng"
+}

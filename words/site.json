@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/saɪt/"
+    ],
+    "synonyms": [
+        "location",
+        "area",
+        "situation",
+        "place",
+        "field"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a site is an area where something is built or to be built or a location where a historic or important event took place.",
+            "vi": "Định nghĩa của một địa điểm là một khu vực nơi một cái gì đó được xây dựng hoặc sẽ được xây dựng hoặc một vị trí nơi một sự kiện lịch sử hoặc quan trọng đã diễn ra."
+        },
+        {
+            "pos": "verb",
+            "en": "To situate or locate on a site.",
+            "vi": "Để định vị hoặc xác định vị trí trên một trang web."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We're going to the site tonight.",
+            "vi": "Chúng tôi sẽ đến trang web tối nay."
+        },
+        {
+            "en": "Tips were conveyed to a dedicated site on guaranteed secure lines.",
+            "vi": "Các mẹo đã được chuyển tải đến một trang web chuyên dụng trên các đường dây an toàn được đảm bảo."
+        }
+    ],
+    "words_form": [
+        "sited",
+        "sites",
+        "siting"
+    ],
+    "meaning_vi": "Địa điểm"
+}

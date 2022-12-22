@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/loʊd/"
+    ],
+    "synonyms": [
+        "weight",
+        "carload",
+        "shipload",
+        "pressure",
+        "haul"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(engineering) The force exerted on a structural component such as a beam, girder, cable etc.",
+            "vi": "(kỹ thuật) Lực tác dụng lên một bộ phận kết cấu như dầm, dầm, cáp, v.v."
+        },
+        {
+            "pos": "verb",
+            "en": "To place in or on a conveyance or a place of storage.",
+            "vi": "Để đặt trong hoặc trên một phương tiện vận chuyển hoặc một nơi lưu trữ."
+        },
+        {
+            "pos": "idiom",
+            "en": "get a load of  To look at; notice. To listen to: Get a load of this!.",
+            "vi": "nhận được một tải để xem xét; lưu ý. Để nghe: Tải về cái này !."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was like having a heavy load lifted from her shoulders.",
+            "vi": "Nó giống như có một gánh nặng được nâng lên khỏi vai cô ấy."
+        },
+        {
+            "en": "Wait until Fred gets a load of this!",
+            "vi": "Chờ cho đến khi Fred tải xong cái này!"
+        }
+    ],
+    "words_form": [
+        "loaded",
+        "loading",
+        "loads"
+    ],
+    "meaning_vi": "tải"
+}

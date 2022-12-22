@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈɪʃu/"
+    ],
+    "synonyms": [
+        "problem",
+        "emit",
+        "puzzle",
+        "concern",
+        "assign"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Issue is defined as to deliver or distribute.",
+            "vi": "Vấn đề được định nghĩa là phân phối hoặc phân phối."
+        },
+        {
+            "pos": "noun",
+            "en": "(euphemistic) A problem or concern, usually of a mental nature.",
+            "vi": "(euphemistic) Một vấn đề hoặc mối quan tâm, thường có tính chất tinh thần."
+        },
+        {
+            "pos": "idiom",
+            "en": "at issue  In question; in dispute: At variance; in disagreement.",
+            "vi": "tại vấn đề Đang được hỏi; đang tranh chấp: Tại phương sai; trong sự bất đồng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Three days later the issue was settled.",
+            "vi": "Ba ngày sau, vấn đề đã được giải quyết."
+        },
+        {
+            "en": "I'll issue the orders.",
+            "vi": "Tôi sẽ ra lệnh."
+        }
+    ],
+    "words_form": [
+        "issued",
+        "issues",
+        "issuing"
+    ],
+    "meaning_vi": "vấn đề"
+}

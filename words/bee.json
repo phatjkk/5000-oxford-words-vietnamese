@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/bi/"
+    ],
+    "synonyms": [
+        "social",
+        "boutade",
+        "caprice",
+        "conceit",
+        "megrim"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A meeting of people to work together or to compete.",
+            "vi": "Một cuộc họp của mọi người để làm việc cùng nhau hoặc để cạnh tranh."
+        },
+        {
+            "pos": "verb",
+            "en": "Obsolete spelling of be.",
+            "vi": "Lỗi chính tả của be."
+        },
+        {
+            "pos": "idiom",
+            "en": "a bee in (one's) bonnet  An impulse to do something; a notion. An obsession.",
+            "vi": "một con ong trong nắp ca-pô (của một người) Một sự thôi thúc để làm điều gì đó; một khái niệm. Một nỗi ám ảnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A bee settling on a flower has stung a child.",
+            "vi": "Một con ong đậu trên một bông hoa đã đốt một đứa trẻ."
+        },
+        {
+            "en": "Somewhere in the garden a bee buzzed and someone shuffled their feet.",
+            "vi": "Ở đâu đó trong vườn, một con ong vo ve và ai đó lê chân."
+        }
+    ],
+    "words_form": [
+        "bees"
+    ],
+    "meaning_vi": "con ong"
+}

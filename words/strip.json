@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/strɪp/"
+    ],
+    "synonyms": [
+        "tape",
+        "slip",
+        "shred",
+        "divest",
+        "layer"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a strip is a long narrow piece or section of something.",
+            "vi": "Định nghĩa của dải là một đoạn dài hẹp hoặc một phần của một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To fall away or be removed; peel.",
+            "vi": "Để rơi ra hoặc bị loại bỏ; bóc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You've managed to strip all the life out of this place.",
+            "vi": "Bạn đã cố gắng tước bỏ tất cả cuộc sống ra khỏi nơi này."
+        },
+        {
+            "en": "It rapidly absorbs the elements of water wherever possible, so that a strip of paper plunged into the gas is rapidly charred.",
+            "vi": "Nó nhanh chóng hấp thụ các phần tử của nước ở bất cứ nơi nào có thể, do đó, một dải giấy lao vào khí sẽ nhanh chóng bị cháy thành than."
+        }
+    ],
+    "words_form": [
+        "stripped",
+        "stripping",
+        "strips"
+    ],
+    "meaning_vi": "dải"
+}

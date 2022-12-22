@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈskændl/"
+    ],
+    "synonyms": [
+        "reproach",
+        "defamation",
+        "opprobrium",
+        "atrocious",
+        "villainous"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Damage to reputation or character caused by public disclosure of immoral or grossly improper behavior; disgrace.",
+            "vi": "Thiệt hại về danh tiếng hoặc tính cách do công khai hành vi vô đạo đức hoặc hoàn toàn không đúng đắn gây ra; Ghét bỏ."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To scandalize; to offend.",
+            "vi": "(lỗi thời) Để gây tai tiếng; xúc phạm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The actor laid low for a few months after the scandal and subsequent investigation.",
+            "vi": "Nam diễn viên đã nằm im trong vài tháng sau vụ bê bối và cuộc điều tra sau đó."
+        },
+        {
+            "en": "The Serbian court, instead of being a centre of perpetual scandal and misrule, resumed its true position as a focus of national aspirations, and this change was not lost upon the Yugosla y s of \" the other side.\"",
+            "vi": "Tòa án Serbia, thay vì là trung tâm của bê bối và hành vi sai trái vĩnh viễn, đã trở lại vị trí thực sự của nó là trọng tâm của nguyện vọng quốc gia, và sự thay đổi này không bị mất đi đối với những người Yugosla ở \"phía bên kia\"."
+        }
+    ],
+    "words_form": [
+        "scandal",
+        "scandal",
+        "scandalled",
+        "scandalling",
+        "scandals"
+    ],
+    "meaning_vi": "vụ bê bối"
+}

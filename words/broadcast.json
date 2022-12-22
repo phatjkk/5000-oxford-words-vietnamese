@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈbrɔdˌkæst/"
+    ],
+    "synonyms": [
+        "blazon",
+        "television-program",
+        "newscast",
+        "relay",
+        "bruit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To communicate or transmit (a signal, a message, or content, such as audio or video programming) to numerous recipients simultaneously over a communication network.",
+            "vi": "Để giao tiếp hoặc truyền (tín hiệu, tin nhắn hoặc nội dung, chẳng hạn như lập trình âm thanh hoặc video) đến nhiều người nhận đồng thời qua mạng truyền thông."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or process of broadcasting a signal, a message, or content, such as audio or video programming.",
+            "vi": "Hành động hoặc quá trình phát tín hiệu, tin nhắn hoặc nội dung, chẳng hạn như chương trình âm thanh hoặc video."
+        },
+        {
+            "pos": "adjective",
+            "en": "Widely known.",
+            "vi": "Được biết đến rộng rãi."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a scattered manner.",
+            "vi": "Một cách phân tán."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The seed is then sown broadcast as in the case of flax.",
+            "vi": "Hạt giống sau đó được gieo phát sóng như trong trường hợp của cây lanh."
+        },
+        {
+            "en": "The idea is the power of short, instant messages broadcast to interested crowds.",
+            "vi": "Ý tưởng là sức mạnh của những thông điệp ngắn, tức thì được truyền đi tới những đám đông quan tâm."
+        }
+    ],
+    "words_form": [
+        "broadcasted",
+        "broadcasting",
+        "broadcasts"
+    ],
+    "meaning_vi": "phát sóng"
+}

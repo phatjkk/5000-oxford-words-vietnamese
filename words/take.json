@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/teɪk/"
+    ],
+    "synonyms": [
+        "proceeds",
+        "cut",
+        "part",
+        "select",
+        "film"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Take is defined as capture, get hold of, transfer something to oneself or travel by something.",
+            "vi": "Take được định nghĩa là nắm bắt, nắm giữ, chuyển một thứ gì đó cho chính mình hoặc đi du lịch bằng một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or process of taking.",
+            "vi": "Hành động hoặc quá trình thực hiện."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) on the take  Taking or seeking to take bribes or illegal income:",
+            "vi": "(không chính thức) đang thực hiện Nhận hoặc tìm cách nhận hối lộ hoặc thu nhập bất hợp pháp:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can take care of myself.",
+            "vi": "Tôi có thể tự lo cho mình."
+        },
+        {
+            "en": "We'll take care of them together.",
+            "vi": "Chúng ta sẽ cùng nhau chăm sóc chúng."
+        }
+    ],
+    "words_form": [
+        "taken",
+        "takes",
+        "taking",
+        "took"
+    ],
+    "meaning_vi": "lấy"
+}

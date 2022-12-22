@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈɪn(t)ərˌfeɪs/"
+    ],
+    "synonyms": [
+        "port",
+        "configuration",
+        "graphical",
+        "gui",
+        "api"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of interface is a surface that forms a common boundary between two things or a point of interaction between two components or systems.",
+            "vi": "Định nghĩa về giao diện là một bề mặt tạo thành ranh giới chung giữa hai sự vật hoặc một điểm tương tác giữa hai thành phần hoặc hệ thống."
+        },
+        {
+            "pos": "verb",
+            "en": "To serve as an interface for.",
+            "vi": "Để phục vụ như một giao diện cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We'll come on to implementing this interface later.",
+            "vi": "Chúng ta sẽ tiếp tục triển khai giao diện này sau."
+        },
+        {
+            "en": "I redesigned the web interface, ran usability tests and researched customer requirements... .",
+            "vi": "Tôi thiết kế lại giao diện web, chạy thử nghiệm khả năng sử dụng và nghiên cứu các yêu cầu của khách hàng…."
+        }
+    ],
+    "words_form": [
+        "interfaced",
+        "interfaces",
+        "interfacing"
+    ],
+    "meaning_vi": "giao diện"
+}

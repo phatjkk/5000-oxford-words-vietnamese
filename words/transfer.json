@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/trænsˈfər/",
+        "/ˈtrænsfər/"
+    ],
+    "synonyms": [
+        "transference",
+        "send",
+        "fare",
+        "orders",
+        "alien"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Transfer is defined as to move, carry or transport from one person or place to another.",
+            "vi": "Chuyển giao được định nghĩa là di chuyển, mang vác hoặc vận chuyển từ người này sang nơi khác."
+        },
+        {
+            "pos": "noun",
+            "en": "(law) A conveyance of title or property from one person to another.",
+            "vi": "(luật) Sự chuyển tải quyền sở hữu hoặc tài sản từ người này sang người khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He would fly to Los Angeles, then transfer for the short hop north to Santa Barbara.",
+            "vi": "Anh ấy sẽ bay đến Los Angeles, sau đó chuyển sang chặng ngắn về phía bắc đến Santa Barbara."
+        },
+        {
+            "en": "The cost of transfer was about £I,000,000.",
+            "vi": "Chi phí chuyển nhượng là khoảng £ I, 000,000."
+        }
+    ],
+    "words_form": [
+        "transferred",
+        "transferring",
+        "transfers"
+    ],
+    "meaning_vi": "chuyển khoản"
+}

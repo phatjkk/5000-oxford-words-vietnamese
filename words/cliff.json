@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/klɪf/"
+    ],
+    "synonyms": [
+        "hill",
+        "bluff",
+        "mountain",
+        "crag",
+        "face"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A high, steep, or overhanging face of rock.",
+            "vi": "Mặt đá cao, dốc hoặc nhô ra."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A diminutive of the male given name Clifford.",
+            "vi": "Một chi tiết nhỏ của người đàn ông được đặt tên Clifford."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The car slid off the cliff before I got back.",
+            "vi": "Chiếc xe trượt khỏi vách đá trước khi tôi quay lại."
+        },
+        {
+            "en": "They reached the cliff before the first arrows fell.",
+            "vi": "Họ đến được vách đá trước khi những mũi tên đầu tiên rơi xuống."
+        }
+    ],
+    "words_form": [
+        "cliffs"
+    ],
+    "meaning_vi": "vách đá"
+}

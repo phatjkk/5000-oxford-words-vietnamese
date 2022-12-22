@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈ(h)jumən/"
+    ],
+    "synonyms": [
+        "earthborn",
+        "anthropoid",
+        "human being",
+        "manlike",
+        "civilized"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Human means someone or something that is related to or associated with people or humanity.",
+            "vi": "Human có nghĩa là một người nào đó hoặc một cái gì đó có liên quan hoặc liên quan đến con người hoặc nhân loại."
+        },
+        {
+            "pos": "noun",
+            "en": "A member of the primate genus Homo, especially a member of the species Homo sapiens, distinguished from other apes by a large brain and the capacity for speech.",
+            "vi": "Một thành viên của chi linh trưởng Homo, đặc biệt là một thành viên của loài Homo sapiens, được phân biệt với các loài vượn khác bởi bộ não lớn và khả năng nói."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "No human could've caused this.",
+            "vi": "Không ai có thể gây ra điều này."
+        },
+        {
+            "en": "Only a handful of human minds can comprehend his work.",
+            "vi": "Chỉ một số ít bộ óc của con người mới có thể hiểu được tác phẩm của ông."
+        }
+    ],
+    "words_form": [
+        "humans"
+    ],
+    "meaning_vi": "nhân loại"
+}

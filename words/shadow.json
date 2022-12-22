@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈʃædoʊ/"
+    ],
+    "synonyms": [
+        "darkness",
+        "shade",
+        "umbra",
+        "phantasma",
+        "adumbrate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Shadow is defined as either a dark part of something or to an area of complete darkness.",
+            "vi": "Bóng tối được định nghĩa là một phần tối của một thứ gì đó hoặc một khu vực hoàn toàn bóng tối."
+        },
+        {
+            "pos": "verb",
+            "en": "To represent vaguely, mysteriously, or prophetically; foreshadow.",
+            "vi": "Để đại diện một cách mơ hồ, bí ẩn hoặc tiên tri; điềm báo trước."
+        },
+        {
+            "pos": "adjective",
+            "en": "Not having official status.",
+            "vi": "Không có trạng thái chính thức."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the shadow of  very close to; verging upon under the influence or domination of",
+            "vi": "trong bóng tối của rất gần với; sắp tới khi chịu ảnh hưởng hoặc sự thống trị của"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The shadow made her long legs look short.",
+            "vi": "Cái bóng khiến đôi chân dài của cô trông như ngắn ngủn."
+        },
+        {
+            "en": "I don't want a shadow hanging over him.",
+            "vi": "Tôi không muốn có một cái bóng che khuất anh ấy."
+        }
+    ],
+    "words_form": [
+        "shadowed",
+        "shadowing",
+        "shadows"
+    ],
+    "meaning_vi": "bóng tối"
+}

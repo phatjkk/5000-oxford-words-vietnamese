@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/tʃæns/"
+    ],
+    "synonyms": [
+        "random",
+        "good-luck",
+        "opportunity",
+        "happen",
+        "likelihood"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Chance means to happen by luck or fortune.",
+            "vi": "Cơ hội có nghĩa là xảy ra bởi may mắn hoặc tài sản."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of chance is accidental or not expected or planned.",
+            "vi": "Định nghĩa về cơ hội là tình cờ hoặc không được mong đợi hoặc có kế hoạch."
+        },
+        {
+            "pos": "noun",
+            "en": "Chance is defined as happening by unexplainable reasons, luck, a risk, or the likelihood of something happening.",
+            "vi": "Cơ hội được định nghĩa là xảy ra bởi những lý do không thể giải thích được, may mắn, rủi ro hoặc khả năng xảy ra một điều gì đó."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A male given name, an American pet form of Chauncey, in modern usage also associated with the word chance.",
+            "vi": "Một cái tên được đặt cho nam giới, một dạng vật nuôi ở Mỹ của Chauncey, trong cách sử dụng hiện đại cũng được kết hợp với từ cơ hội."
+        },
+        {
+            "pos": "idiom",
+            "en": "by chance  Without plan; accidentally: They met by chance on a plane.Possibly; perchance: Is he, by chance, her brother?.",
+            "vi": "tình cờ mà không có kế hoạch; tình cờ: Họ tình cờ gặp nhau trên một chiếc máy bay. perchance: Tình cờ là anh ấy, là anh trai của cô ấy sao ?."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You had your chance to solve it on your own.",
+            "vi": "Bạn đã có cơ hội để giải quyết nó một mình."
+        },
+        {
+            "en": "What a chance those girls have missed!",
+            "vi": "Thật là một cơ hội mà những cô gái đã bỏ lỡ!"
+        }
+    ],
+    "words_form": [
+        "chanced",
+        "chances",
+        "chancing"
+    ],
+    "meaning_vi": "cơ hội"
+}

@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/dɪˈlɛmə/",
+        "/daɪˈlɛmə/"
+    ],
+    "synonyms": [
+        "problem",
+        "quandary",
+        "perplexity",
+        "predicament",
+        "crisis"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a dilemma is a situation where there is no clear easy choice or answer.",
+            "vi": "Định nghĩa về tình thế tiến thoái lưỡng nan là một tình huống không có sự lựa chọn hoặc câu trả lời dễ dàng rõ ràng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He made an attempt to resolve the long-standing dilemma.",
+            "vi": "Anh đã cố gắng giải quyết tình huống khó xử bấy lâu nay."
+        },
+        {
+            "en": "The new school rules have put counselors in a terrible dilemma.",
+            "vi": "Các quy định mới của trường học đã đặt các cố vấn vào tình thế khó xử khủng khiếp."
+        }
+    ],
+    "words_form": [
+        "dilemmas"
+    ],
+    "meaning_vi": "tình trạng khó xử"
+}

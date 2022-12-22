@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/iz/"
+    ],
+    "synonyms": [
+        "quietness",
+        "rest",
+        "reduce",
+        "peace",
+        "comfort"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Ease is defined as comfort, relaxation and freedom from pain, stress or anxiety.",
+            "vi": "Dễ dàng được định nghĩa là sự thoải mái, thư giãn và không bị đau đớn, căng thẳng hoặc lo lắng."
+        },
+        {
+            "pos": "verb",
+            "en": "To free from pain, worry, or agitation.",
+            "vi": "Để không bị đau, lo lắng hoặc kích động."
+        },
+        {
+            "pos": "idiom",
+            "en": "at ease  In a relaxed position, especially standing silently at rest with the right foot stationary: Put the soldiers at ease while waiting for inspection.Used as a command for troops to assume a relaxed position.",
+            "vi": "thoải mái Ở tư thế thoải mái, đặc biệt là đứng yên lặng, chân phải đứng yên: Đặt binh lính thoải mái trong khi chờ kiểm tra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can ease that tension.",
+            "vi": "Tôi có thể giảm bớt căng thẳng đó."
+        },
+        {
+            "en": "He felt her turmoil through their bond and ached to ease her pain.",
+            "vi": "Anh cảm nhận được sự xáo trộn của cô qua sự ràng buộc của họ và đau đớn để xoa dịu nỗi đau của cô."
+        }
+    ],
+    "words_form": [
+        "eased",
+        "eases",
+        "easing"
+    ],
+    "meaning_vi": "dễ"
+}

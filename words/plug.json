@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pləɡ/"
+    ],
+    "synonyms": [
+        "chew",
+        "tout",
+        "stopper",
+        "stopple",
+        "filling"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A small wedge or segment cut from something, as from a melon to test its ripeness.",
+            "vi": "Một cái nêm hoặc một đoạn nhỏ được cắt ra từ thứ gì đó, chẳng hạn như từ quả dưa để kiểm tra độ chín của nó."
+        },
+        {
+            "pos": "verb",
+            "en": "(informal) To work or study hard and steadily; plod.",
+            "vi": "(không chính thức) Làm việc hoặc học tập chăm chỉ và ổn định; mềm mại."
+        },
+        {
+            "pos": "idiom",
+            "en": "plug in  to connect (an electrical device) with an outlet, etc. by inserting a plug in a socket, jack, etc. to be or become connected in this way or in a way regarded as analogous",
+            "vi": "cắm để kết nối (thiết bị điện) với ổ cắm, v.v. bằng cách cắm phích cắm vào ổ cắm, giắc cắm, v.v. để được hoặc được kết nối theo cách này hoặc theo cách được coi là tương tự"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She jerked the plug out of the sink and dried her hands.",
+            "vi": "Cô giật phích cắm ra khỏi bồn rửa và lau khô tay."
+        },
+        {
+            "en": "The only thing we might be able to do is plug the holes.",
+            "vi": "Điều duy nhất chúng ta có thể làm là cắm các lỗ."
+        }
+    ],
+    "words_form": [
+        "plugged",
+        "plugging",
+        "plugs"
+    ],
+    "meaning_vi": "phích cắm"
+}

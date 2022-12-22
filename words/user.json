@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈjuzər/"
+    ],
+    "synonyms": [
+        "client",
+        "end user",
+        "consumer",
+        "subscriber",
+        "vendor"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One who uses a computer, computer program, or online service.",
+            "vi": "Người sử dụng máy tính, chương trình máy tính hoặc dịch vụ trực tuyến."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They provide information such as reviews and user ratings.",
+            "vi": "Họ cung cấp thông tin như đánh giá và xếp hạng của người dùng."
+        },
+        {
+            "en": "(iii.) The improper user of the premises to the injury of the reversioner is waste (q.v.).",
+            "vi": "(iii.) Người sử dụng mặt bằng không đúng cách gây thương tích cho người đảo chiều là lãng phí (qv)."
+        }
+    ],
+    "words_form": [
+        "users"
+    ],
+    "meaning_vi": "người dùng"
+}

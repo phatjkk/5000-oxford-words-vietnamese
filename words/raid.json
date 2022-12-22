@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/reɪd/"
+    ],
+    "synonyms": [
+        "looting",
+        "sortie",
+        "incursion",
+        "harry",
+        "sweep"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a raid is a surprise attack or surprise visit, especially when done by the military during war or by police to arrest suspects.",
+            "vi": "Định nghĩa về một cuộc đột kích là một cuộc tấn công bất ngờ hoặc chuyến thăm bất ngờ, đặc biệt khi được thực hiện bởi quân đội trong chiến tranh hoặc bởi cảnh sát để bắt giữ những kẻ tình nghi."
+        },
+        {
+            "pos": "verb",
+            "en": "To raid is to take something quickly and stealthily or to launch a surprise attack or surprise visit.",
+            "vi": "Đột kích là lấy một thứ gì đó một cách nhanh chóng và lén lút hoặc tiến hành một cuộc tấn công bất ngờ hoặc truy cập bất ngờ."
+        },
+        {
+            "pos": "acronym",
+            "en": "(computing) A redundant array of inexpensive disks, or, less frequently restated as a redundant array of independent disks.",
+            "vi": "(máy tính) Một mảng dự phòng của các đĩa rẻ tiền, hoặc ít thường xuyên được khôi phục lại như một mảng dự phòng của các đĩa độc lập."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He couldn't have planned the Indian raid, though.",
+            "vi": "Tuy nhiên, anh ta không thể lên kế hoạch cho cuộc đột kích của người da đỏ."
+        },
+        {
+            "en": "\"You repay me by making sure the raid planned for tonight never happens,\" she replied.",
+            "vi": "\"Bạn trả ơn tôi bằng cách đảm bảo rằng cuộc đột kích được lên kế hoạch cho tối nay sẽ không bao giờ xảy ra,\" cô trả lời."
+        }
+    ],
+    "words_form": [
+        "raided",
+        "raiding",
+        "raids"
+    ],
+    "meaning_vi": "đột kích"
+}

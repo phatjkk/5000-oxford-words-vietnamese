@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/fleɪm/"
+    ],
+    "synonyms": [
+        "blaze",
+        "flare",
+        "spark",
+        "flicker",
+        "burn"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To burst forth like flame; to break out in violence of passion; to be kindled with zeal or ardour.",
+            "vi": "Để bùng lên như ngọn lửa; để bùng phát trong bạo lực của đam mê; được thể hiện bằng lòng nhiệt thành hoặc sự cuồng nhiệt."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) A person that one has an intense passion for.",
+            "vi": "(không chính thức) Một người mà một người có niềm đam mê mãnh liệt."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of a brilliant reddish orange-gold colour, like that of a flame.",
+            "vi": "Có màu đỏ cam-vàng rực rỡ, giống như ngọn lửa."
+        },
+        {
+            "pos": "idiom",
+            "en": "flame out  to experience a flameout",
+            "vi": "bùng cháy để trải nghiệm ngọn lửa"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His red shock of hair stood up like a flame as he glared down at her.",
+            "vi": "Mái tóc đỏ rực của anh dựng đứng như ngọn lửa khi anh nhìn xuống cô."
+        },
+        {
+            "en": "The warmth grew into a flame and she tossed her head defiantly.",
+            "vi": "Hơi ấm bùng lên thành ngọn lửa và cô hất đầu thách thức."
+        }
+    ],
+    "words_form": [
+        "flamed",
+        "flames",
+        "flaming"
+    ],
+    "meaning_vi": "ngọn lửa"
+}

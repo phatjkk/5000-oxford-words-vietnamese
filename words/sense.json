@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/sɛns/"
+    ],
+    "synonyms": [
+        "intellect",
+        "opinion",
+        "common sense",
+        "knowledge",
+        "taste"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The general opinion, sentiment, or attitude of a group.",
+            "vi": "Ý kiến ​​chung, tình cảm hoặc thái độ của một nhóm."
+        },
+        {
+            "pos": "verb",
+            "en": "To grasp; understand.",
+            "vi": "Để nắm bắt; hiểu không."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "See also sense.",
+            "vi": "Xem cũng có ý nghĩa."
+        },
+        {
+            "pos": "adjective",
+            "en": "(genetics) Of or relating to the portion of the strand of double-stranded DNA that serves as a template for and is transcribed into RNA.",
+            "vi": "(di truyền) Của hoặc liên quan đến phần của chuỗi DNA sợi kép dùng làm khuôn mẫu và được phiên mã thành RNA."
+        },
+        {
+            "pos": "idiom",
+            "en": "in a sense  to a limited extent or degree in one aspect",
+            "vi": "theo một nghĩa nào đó ở một mức độ hoặc mức độ hạn chế ở một khía cạnh"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He also had a sense of responsibility about it.",
+            "vi": "Anh ấy cũng có ý thức trách nhiệm về nó."
+        },
+        {
+            "en": "I can sense it and I'm never wrong.",
+            "vi": "Tôi có thể cảm nhận được điều đó và tôi không bao giờ sai."
+        }
+    ],
+    "words_form": [
+        "sensed",
+        "senses",
+        "sensing"
+    ],
+    "meaning_vi": "giác quan"
+}

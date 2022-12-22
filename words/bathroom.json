@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈbæθˌrum/",
+        "/ˈbæθˌrʊm/"
+    ],
+    "synonyms": [
+        "lavatory",
+        "privy",
+        "shower",
+        "head",
+        "can"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A room containing a bathtub or shower, and usually a toilet and sink.",
+            "vi": "Một căn phòng có bồn tắm hoặc vòi hoa sen, và thường là nhà vệ sinh và bồn rửa."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) go to the bathroom  To defecate or urinate.",
+            "vi": "(không chính thức) đi vệ sinh Để đi đại tiện hoặc đi tiểu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She cleaned up and left the bathroom, freezing.",
+            "vi": "Cô dọn dẹp và rời khỏi phòng tắm, lạnh cóng."
+        },
+        {
+            "en": "She put the things in her bathroom and was returning to the bedroom when Cade knocked on her open door.",
+            "vi": "Cô cất đồ vào phòng tắm và đang quay trở lại phòng ngủ thì Cade gõ cửa mở."
+        }
+    ],
+    "words_form": [
+        "bathrooms"
+    ],
+    "meaning_vi": "phòng tắm"
+}

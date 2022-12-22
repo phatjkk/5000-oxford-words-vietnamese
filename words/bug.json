@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/bəɡ/"
+    ],
+    "synonyms": [
+        "insect",
+        "flea",
+        "beetle",
+        "eavesdrop",
+        "gnat"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a bug is an insect or a defect in something.",
+            "vi": "Định nghĩa về một con bọ là một loài côn trùng hoặc một khiếm khuyết trong một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "Bug is slang meaning to annoy someone.",
+            "vi": "Bug là tiếng lóng có nghĩa là làm phiền ai đó."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) River in S Ukraine, flowing southeastward into the Black Sea: 530 mi (853 km)",
+            "vi": "(địa điểm) Sông ở S Ukraine, chảy theo hướng đông nam vào Biển Đen: 530 mi (853 km)"
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) put a bug in (someone's) ear  To impart useful information to (another) in a subtle, discreet way.",
+            "vi": "(không chính thức) nhét lỗi vào tai (ai đó) Để truyền đạt thông tin hữu ích cho (người khác) một cách tế nhị, kín đáo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A bug crawled across her leg, and she swiped it away.",
+            "vi": "Một con bọ trườn qua chân cô, và cô đã gạt nó đi."
+        },
+        {
+            "en": "Is bug very happy?",
+            "vi": "Con bọ rất hạnh phúc phải không?"
+        }
+    ],
+    "words_form": [
+        "bugged",
+        "bugging",
+        "bugs"
+    ],
+    "meaning_vi": "lỗi"
+}

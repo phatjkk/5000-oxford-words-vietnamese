@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/dɪɡ/"
+    ],
+    "synonyms": [
+        "excavation",
+        "digging",
+        "mine",
+        "exploration",
+        "discover"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a dig is a sarcastic remark or joke, or an archaeological search.",
+            "vi": "Định nghĩa về một cuộc đào bới là một nhận xét hoặc trò đùa mỉa mai, hoặc một cuộc tìm kiếm khảo cổ học."
+        },
+        {
+            "pos": "verb",
+            "en": "To dig is defined as to break up, remove or unearth, or to discover or find.",
+            "vi": "Để đào được định nghĩa là chia nhỏ, loại bỏ hoặc khai quật, hoặc khám phá hoặc tìm thấy."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Digest.",
+            "vi": "Tiêu."
+        },
+        {
+            "pos": "acronym",
+            "en": "(astronomy) Dwarf irregular galaxy.",
+            "vi": "(thiên văn học) Thiên hà bất thường lùn."
+        },
+        {
+            "pos": "idiom",
+            "en": "dig in (one's) heels  To resist opposition stubbornly; refuse to yield or compromise.",
+            "vi": "bấu víu vào gót chân (của một người) Để chống lại phe đối lập một cách ngoan cố; từ chối nhượng bộ hoặc thỏa hiệp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It shouldn't be hard to dig in this sand.",
+            "vi": "Không khó để đào trong cát này."
+        },
+        {
+            "en": "You can dig it out.",
+            "vi": "Bạn có thể đào nó ra."
+        }
+    ],
+    "words_form": [
+        "digging",
+        "digs",
+        "dug"
+    ],
+    "meaning_vi": "đào"
+}

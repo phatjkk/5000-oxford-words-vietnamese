@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/saɪn/"
+    ],
+    "synonyms": [
+        "mark",
+        "indication",
+        "indicator",
+        "presentiment",
+        "omen"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To relinquish or transfer title to by signature.",
+            "vi": "Từ bỏ hoặc chuyển nhượng chức danh bằng chữ ký."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a sign is anything that shows a meaning, a mark used as an abbreviation or shortening of something, or a publicly displayed board.",
+            "vi": "Định nghĩa của một dấu hiệu là bất cứ điều gì thể hiện một ý nghĩa, một dấu hiệu được sử dụng như một chữ viết tắt hoặc viết tắt của một cái gì đó, hoặc một bảng hiển thị công khai."
+        },
+        {
+            "pos": "idiom",
+            "en": "sign away  to abandon or transfer title to (something) by or as by signing a document; convey",
+            "vi": "ký tên để từ bỏ hoặc chuyển nhượng chức danh cho (một cái gì đó) bằng cách hoặc bằng cách ký vào một tài liệu; chuyên chở"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was no sign of anyone.",
+            "vi": "Không có dấu hiệu của bất cứ ai."
+        },
+        {
+            "en": "There was no sign of anyone else about.",
+            "vi": "Không có dấu hiệu của bất kỳ ai khác về."
+        }
+    ],
+    "words_form": [
+        "signed",
+        "signing",
+        "signs"
+    ],
+    "meaning_vi": "ký tên"
+}

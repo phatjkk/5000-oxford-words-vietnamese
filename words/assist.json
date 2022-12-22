@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/əˈsɪst/"
+    ],
+    "synonyms": [
+        "help",
+        "hurt",
+        "support",
+        "aid",
+        "assisting"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To give aid or support.",
+            "vi": "Để cung cấp viện trợ hoặc hỗ trợ."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of an assist is something a person may do to be helpful.",
+            "vi": "Định nghĩa về sự trợ giúp là điều gì đó mà một người có thể làm để có ích."
+        },
+        {
+            "pos": "idiom",
+            "en": "assist at  to be present at; attend",
+            "vi": "hỗ trợ tại để có mặt tại; tham dự"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The money would assist in taking care of her schooling.",
+            "vi": "Số tiền này sẽ giúp lo cho việc ăn học của cô ấy."
+        },
+        {
+            "en": "She had the sudden urge to assist him.",
+            "vi": "Cô đột nhiên muốn giúp đỡ anh ta."
+        }
+    ],
+    "words_form": [
+        "assisted",
+        "assisting",
+        "assists"
+    ],
+    "meaning_vi": "hỗ trợ"
+}

@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/flit/"
+    ],
+    "synonyms": [
+        "navy",
+        "argosy",
+        "spry",
+        "formation",
+        "armada"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A fleet is defined as a group of ships, vessels or vehicles that operate together or that are under the control of one person.",
+            "vi": "Hạm đội được định nghĩa là một nhóm tàu, tàu hoặc phương tiện hoạt động cùng nhau hoặc dưới sự điều khiển của một người."
+        },
+        {
+            "pos": "verb",
+            "en": "To cause (time) to pass quickly.",
+            "vi": "Để khiến (thời gian) trôi qua nhanh chóng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Swift; rapid.",
+            "vi": "Nhanh; nhanh."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The stream that ran where Fleet Street now runs.",
+            "vi": "Dòng chảy nơi Fleet Street bây giờ chảy qua."
+        },
+        {
+            "pos": "idiom",
+            "en": "the Fleet  a former small creek in London, now a covered sewer a debtor's prison which stood near this creek",
+            "vi": "Hạm đội trước đây là một con lạch nhỏ ở Luân Đôn, bây giờ là một ống cống có mái che, một nhà tù của con nợ đứng gần con lạch này"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There's a fleet of nice ladies at the courthouse that are always happy to help.",
+            "vi": "Có một đội ngũ quý bà tốt bụng tại tòa án luôn sẵn lòng giúp đỡ."
+        },
+        {
+            "en": "The fleet sailed in May 1787, and arrived off the Australian coast early in the following January.",
+            "vi": "Hạm đội lên đường vào tháng 5 năm 1787, và đến ngoài khơi bờ biển Úc vào đầu tháng 1 năm sau."
+        }
+    ],
+    "words_form": [
+        "fleetest",
+        "fleeting",
+        "fleets"
+    ],
+    "meaning_vi": "đội tàu"
+}

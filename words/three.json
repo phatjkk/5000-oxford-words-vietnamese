@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/θri/"
+    ],
+    "synonyms": [
+        "thrice",
+        "trinity",
+        "triply",
+        "triunity",
+        "troika"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Three-pointer.",
+            "vi": "Con trỏ ba."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of three is two plus one more.",
+            "vi": "Định nghĩa của ba là hai cộng với một nữa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Put three in each shoe.",
+            "vi": "Đặt ba chiếc vào mỗi chiếc giày."
+        },
+        {
+            "en": "All three girls laughed.",
+            "vi": "Cả ba cô gái đều cười."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "số ba"
+}

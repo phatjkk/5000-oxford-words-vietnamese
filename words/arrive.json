@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈraɪv/"
+    ],
+    "synonyms": [
+        "come in",
+        "come",
+        "reach",
+        "enter",
+        "visit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To reach a destination.",
+            "vi": "Để đến một điểm đến."
+        },
+        {
+            "pos": "idiom",
+            "en": "arrive at  to reach by traveling to reach by work, thinking, development, etc.",
+            "vi": "đến để tiếp cận bằng cách đi du lịch để tiếp cận bằng công việc, suy nghĩ, phát triển, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We expect visitors to arrive soon.",
+            "vi": "Chúng tôi mong muốn du khách đến sớm."
+        },
+        {
+            "en": "They wouldn't arrive until after 6:00 at the earliest.",
+            "vi": "Họ sẽ không đến sớm nhất là sau 6 giờ."
+        }
+    ],
+    "words_form": [
+        "arrived",
+        "arrives",
+        "arriving"
+    ],
+    "meaning_vi": "đến nơi"
+}

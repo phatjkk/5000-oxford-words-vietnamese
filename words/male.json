@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/meɪl/"
+    ],
+    "synonyms": [
+        "masculine",
+        "vigorous",
+        "manlike",
+        "potent",
+        "mankind"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a male is a person of the sex that produces sperm (as opposed to a female who produces an egg).",
+            "vi": "Định nghĩa nam giới là người có giới tính sinh ra tinh trùng (trái ngược với nữ giới sinh ra trứng)."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or denoting the gamete that is smaller and more motile than the other corresponding gamete. Used of anisogamous organisms.",
+            "vi": "Của hoặc biểu thị giao tử nhỏ hơn và di động hơn giao tử tương ứng khác. Được sử dụng của các sinh vật dị hợp."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) Chief island & capital of the Maldives.",
+            "vi": "(địa điểm) Đảo trưởng và thủ đô của Maldives."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Toby!\" a male voice yelled.",
+            "vi": "\"Toby!\" một giọng nam hét lên."
+        },
+        {
+            "en": "In a few moments I heard a gruff male voice ask, \"Is this the swami?\"",
+            "vi": "Trong giây lát, tôi nghe thấy một giọng nam cộc cằn hỏi, \"Đây có phải là swami không?\""
+        }
+    ],
+    "words_form": [
+        "males"
+    ],
+    "meaning_vi": "Nam giới."
+}

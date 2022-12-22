@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈkɑntɛkst/"
+    ],
+    "synonyms": [
+        "background",
+        "setting",
+        "framework",
+        "climate",
+        "meaning"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The part of a text or statement that surrounds a particular word or passage and determines its meaning.",
+            "vi": "Một phần của văn bản hoặc câu lệnh bao quanh một từ hoặc đoạn văn cụ thể và xác định ý nghĩa của nó."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Knit or woven together; close; firm.",
+            "vi": "(lỗi thời) Đan hoặc dệt với nhau; gần; chắc chắn."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To knit or bind together; to unite closely.",
+            "vi": "(lỗi thời) Để đan hoặc kết lại với nhau; đoàn kết chặt chẽ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That said, he would set out the broader context for manufacturing.",
+            "vi": "Điều đó nói lên rằng, ông sẽ đặt ra bối cảnh rộng lớn hơn cho sản xuất."
+        },
+        {
+            "en": "Setting guidelines can help in defining the context of your search.",
+            "vi": "Đặt nguyên tắc có thể giúp xác định bối cảnh tìm kiếm của bạn."
+        }
+    ],
+    "words_form": [
+        "contexts"
+    ],
+    "meaning_vi": "bối cảnh"
+}

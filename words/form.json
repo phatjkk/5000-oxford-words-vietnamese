@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/fɔrm/"
+    ],
+    "synonyms": [
+        "plan",
+        "arrangement",
+        "design",
+        "forge",
+        "assemble"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of form is the shape of a person, animal or thing or a piece of paperwork that needs to be filled out.",
+            "vi": "Định nghĩa về hình thức là hình dạng của một người, động vật hoặc sự vật hoặc một mảnh giấy tờ cần được điền vào."
+        },
+        {
+            "pos": "verb",
+            "en": "Form is defined as to make or construct something.",
+            "vi": "Hình thức được định nghĩa là để tạo ra hoặc xây dựng một cái gì đó."
+        },
+        {
+            "pos": "suffix",
+            "en": "Having the form of.",
+            "vi": "Có dạng."
+        },
+        {
+            "pos": "affix",
+            "en": "Having the form of; shaped like.",
+            "vi": "Có dạng; có hình dạng như thế nào."
+        },
+        {
+            "pos": "idiom",
+            "en": "good (or bad) form  conduct in (or not in) accord with social custom",
+            "vi": "hạnh kiểm hình thức tốt (hoặc xấu) theo (hoặc không) phù hợp với phong tục xã hội"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "As she reached the tree, a large black furry form crashed into the trees ahead of her.",
+            "vi": "Khi cô tới cái cây, một hình dạng lông đen lớn lao vào những cái cây phía trước cô."
+        },
+        {
+            "en": "Sofia saw the tears form in her gaze.",
+            "vi": "Sofia nhìn thấy những giọt nước mắt đọng lại trong ánh mắt cô."
+        }
+    ],
+    "words_form": [
+        "formed",
+        "forming",
+        "forms"
+    ],
+    "meaning_vi": "hình thức"
+}

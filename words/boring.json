@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈbɔrɪŋ/"
+    ],
+    "synonyms": [
+        "dull",
+        "tedious",
+        "monotonous",
+        "dreary",
+        "tiresome"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The action of one that bores.",
+            "vi": "Hành động của một trong những buồn bã."
+        },
+        {
+            "pos": "adjective",
+            "en": "Uninteresting and tiresome; dull.",
+            "vi": "Không thú vị và mệt mỏi; đần độn."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of bore.",
+            "vi": "Hiện tại phân từ của lỗ khoan."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I must be boring you to death.",
+            "vi": "Tôi phải làm bạn chán chết."
+        },
+        {
+            "en": "She didn't stay long in the boring room.",
+            "vi": "Cô không ở lâu trong căn phòng buồn tẻ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tẻ nhạt, nhạt nhẽo"
+}

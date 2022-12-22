@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈprɛməs/"
+    ],
+    "synonyms": [
+        "assumption",
+        "basis",
+        "truth",
+        "supposition",
+        "introduce"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A proposition upon which an argument is based or from which a conclusion is drawn.",
+            "vi": "Một mệnh đề dựa trên lập luận hoặc từ đó rút ra kết luận."
+        },
+        {
+            "pos": "verb",
+            "en": "To state as a premise.",
+            "vi": "Để nêu làm tiền đề."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The game was won on the premise that the home team had been out of bounds.",
+            "vi": "Trò chơi đã được phân thắng bại với lý do là đội chủ nhà đã vượt qua giới hạn."
+        },
+        {
+            "en": "He accepted the employment on the premise that he would receive an annual bonus of 25%",
+            "vi": "Anh ấy đã chấp nhận làm việc với tiền đề rằng anh ấy sẽ nhận được khoản tiền thưởng hàng năm là 25%"
+        }
+    ],
+    "words_form": [
+        "premised",
+        "premises",
+        "premising",
+        "premiss"
+    ],
+    "meaning_vi": "tiền đề"
+}

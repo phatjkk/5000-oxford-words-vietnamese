@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/kəˈmɪdi/"
+    ],
+    "synonyms": [
+        "council",
+        "group",
+        "commission",
+        "task-force",
+        "bureau"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(archaic) A person to whom a trust or charge is committed.",
+            "vi": "(cổ xưa) Một người được cam kết ủy thác hoặc tính phí."
+        },
+        {
+            "pos": "idiom",
+            "en": "in committee  under consideration by a committee, as a resolution or bill",
+            "vi": "trong ủy ban đang được một ủy ban xem xét, như một nghị quyết hoặc dự luật"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "These professors formed the \" Committee of Bonn,\" which organized the new Church.",
+            "vi": "Các giáo sư này đã thành lập \"Ủy ban Bonn,\" tổ chức Giáo hội mới."
+        },
+        {
+            "en": "The appeal is to the king in council, and is heard by the judicial committee of the privy council.",
+            "vi": "Lời kêu gọi dành cho nhà vua trong hội đồng, và được nghe bởi ủy ban tư pháp của hội đồng cơ mật."
+        }
+    ],
+    "words_form": [
+        "committees"
+    ],
+    "meaning_vi": "ủy ban"
+}

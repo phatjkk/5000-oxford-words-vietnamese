@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈkɑn(t)ʃəs/"
+    ],
+    "synonyms": [
+        "apprised",
+        "known",
+        "percipient",
+        "acquainted",
+        "discerning"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Able to feel and think; in the normal waking state.",
+            "vi": "Có khả năng cảm nhận và suy nghĩ; ở trạng thái thức dậy bình thường."
+        },
+        {
+            "pos": "affix",
+            "en": "Aware of and attaching importance to.",
+            "vi": "Nhận thức và coi trọng."
+        },
+        {
+            "pos": "noun",
+            "en": "In psychoanalysis, the component of waking awareness perceptible by a person at any given instant; consciousness.",
+            "vi": "Trong phân tâm học, thành phần của nhận thức thức tỉnh mà một người có thể cảm nhận được tại bất kỳ thời điểm nào; ý thức."
+        },
+        {
+            "pos": "idiom",
+            "en": "the conscious  that part of one's mental activity of which one is fully aware at any given time",
+            "vi": "ý thức rằng một phần hoạt động tinh thần của một người mà người đó hoàn toàn nhận thức được tại bất kỳ thời điểm nào"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I wasn't even conscious of what was happening.",
+            "vi": "Tôi thậm chí không nhận thức được những gì đang xảy ra."
+        },
+        {
+            "en": "I wish I wasn't so conscious of every little nuance.",
+            "vi": "Tôi ước gì mình không quá để ý đến từng sắc thái nhỏ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "có ý thức"
+}

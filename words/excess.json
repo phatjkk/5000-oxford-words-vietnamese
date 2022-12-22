@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/ɪkˈsɛs/",
+        "/ˈɛksɛs/"
+    ],
+    "synonyms": [
+        "plethora",
+        "superabundance",
+        "overkill",
+        "overabundance",
+        "overload"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Action or conduct that goes beyond the usual, reasonable, or lawful limit.",
+            "vi": "Hành động hoặc hành vi vượt quá giới hạn thông thường, hợp lý hoặc hợp pháp."
+        },
+        {
+            "pos": "verb",
+            "en": "To eliminate the job or position of.",
+            "vi": "Để loại bỏ công việc hoặc vị trí của."
+        },
+        {
+            "pos": "adjective",
+            "en": "More than usual; extra; surplus.",
+            "vi": "Nhiều hơn bình thường; phụ; số dư."
+        },
+        {
+            "pos": "idiom",
+            "en": "in excess of  Greater than; more than: Unit sales in excess of 20 million.",
+            "vi": "vượt quá Greater than; hơn: Doanh số bán đơn vị trên 20 triệu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He even made grants in excess to the others from his own share.",
+            "vi": "Anh ta thậm chí còn tài trợ vượt mức cho những người khác từ phần của mình."
+        },
+        {
+            "en": "She scooted closer to him, shifting the blanket so that she could drape the excess around his shoulders.",
+            "vi": "Cô nhích lại gần anh, dịch chuyển tấm chăn để có thể đắp phần thừa quanh vai anh."
+        }
+    ],
+    "words_form": [
+        "excesses"
+    ],
+    "meaning_vi": "dư thừa"
+}

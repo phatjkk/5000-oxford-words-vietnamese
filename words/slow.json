@@ -1,0 +1,52 @@
+{
+    "spelling": [
+        "/sloʊ/"
+    ],
+    "synonyms": [
+        "sluggish",
+        "lazy",
+        "laggard",
+        "slow-paced",
+        "drowsy"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of slow is someone or something that is not quick or takes a long time.",
+            "vi": "Định nghĩa của chậm là một người nào đó hoặc một cái gì đó không nhanh chóng hoặc mất nhiều thời gian."
+        },
+        {
+            "pos": "verb",
+            "en": "To make (something) run, move, etc. less quickly; to reduce the speed of.",
+            "vi": "Để làm cho (một cái gì đó) chạy, di chuyển, v.v. ít nhanh hơn; để giảm tốc độ của."
+        },
+        {
+            "pos": "noun",
+            "en": "Someone who is slow; a sluggard.",
+            "vi": "Một người chậm chạp; một kẻ lười biếng."
+        },
+        {
+            "pos": "adverb",
+            "en": "Slowly.",
+            "vi": "Chậm rãi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A slow smile came to his lips.",
+            "vi": "Một nụ cười chậm rãi nở trên môi anh."
+        },
+        {
+            "en": "Don't let me slow you down.",
+            "vi": "Đừng để tôi làm bạn chậm lại."
+        }
+    ],
+    "words_form": [
+        "slowed",
+        "slower",
+        "slowest",
+        "slowing",
+        "slows"
+    ],
+    "meaning_vi": "lề mề"
+}

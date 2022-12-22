@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/oʊld/"
+    ],
+    "synonyms": [
+        "ancient",
+        "elderly",
+        "aged",
+        "faded",
+        "superannuated"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of old is advanced in age or having been around for awhile.",
+            "vi": "Định nghĩa về già được nâng cao theo thời đại hoặc đã tồn tại được một thời gian."
+        },
+        {
+            "pos": "noun",
+            "en": "Old is used to mean people advanced in age collectively or days past.",
+            "vi": "Già được sử dụng để chỉ những người đã cao tuổi nói chung hoặc những ngày đã qua."
+        },
+        {
+            "pos": "verb",
+            "en": "Eye dialect spelling of hold.",
+            "vi": "Đánh vần phương ngữ mắt của giữ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "My parents used to listen to those old songs.",
+            "vi": "Bố mẹ tôi thường nghe những bài hát cũ đó."
+        },
+        {
+            "en": "The old woman spoke to one of the younger women.",
+            "vi": "Bà lão nói chuyện với một trong những phụ nữ trẻ hơn."
+        }
+    ],
+    "words_form": [
+        "older",
+        "oldest",
+        "olds"
+    ],
+    "meaning_vi": "cũ; lớn tuổi"
+}

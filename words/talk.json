@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tɔk/"
+    ],
+    "synonyms": [
+        "sermon",
+        "utterance",
+        "speak",
+        "consultation",
+        "converse"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A speech, esp. a somewhat informal one.",
+            "vi": "Một bài phát biểu, đặc biệt. một chút không chính thức."
+        },
+        {
+            "pos": "verb",
+            "en": "To talk is to speak, to have the power to speak, or to have a formal conversation.",
+            "vi": "Nói là nói, có sức mạnh để nói, hoặc có một cuộc trò chuyện chính thức."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) talk big  To brag.",
+            "vi": "(thân mật) nói lớn Để khoe khoang."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She didn't come here to talk to me.",
+            "vi": "Cô ấy không đến đây để nói chuyện với tôi."
+        },
+        {
+            "en": "Let's talk about this.",
+            "vi": "Hãy nói về điều này."
+        }
+    ],
+    "words_form": [
+        "talked",
+        "talking",
+        "talks"
+    ],
+    "meaning_vi": "nói chuyện"
+}

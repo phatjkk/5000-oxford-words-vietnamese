@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/mjuˈnɪsəpəl/"
+    ],
+    "synonyms": [
+        "self-governing",
+        "urban",
+        "metropolitan",
+        "city",
+        "rural"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of or relating to the internal affairs of a nation.",
+            "vi": "Của hoặc liên quan đến công việc nội bộ của một quốc gia."
+        },
+        {
+            "pos": "noun",
+            "en": "A municipal bond.",
+            "vi": "Một trái phiếu của thành phố."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A red brick municipal building stood at the far end of the street ahead of us.",
+            "vi": "Một tòa nhà thành phố bằng gạch đỏ đứng ở cuối con phố phía trước chúng tôi."
+        },
+        {
+            "en": "In Paris the municipal police are divided among the twenty arrondissements, which the uniform police patrol.",
+            "vi": "Ở Paris, cảnh sát thành phố được chia thành hai mươi đội, mà cảnh sát đồng phục tuần tra."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thành phố"
+}

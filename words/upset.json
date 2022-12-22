@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˌəpˈsɛt/"
+    ],
+    "synonyms": [
+        "overthrow",
+        "defeat",
+        "unsettled",
+        "undisturbed",
+        "agitated"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Upset means disturbed or sad.",
+            "vi": "Upset có nghĩa là bị quấy rầy hoặc buồn bã."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of an upset is an unexpected victory.",
+            "vi": "Định nghĩa của một sự khó chịu là một chiến thắng bất ngờ."
+        },
+        {
+            "pos": "verb",
+            "en": "Upset is defined as to disturb physically, mentally or emotionally.",
+            "vi": "Upset được định nghĩa là rối loạn về thể chất, tinh thần hoặc cảm xúc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The kid was already too upset about something.",
+            "vi": "Đứa trẻ đã quá khó chịu về điều gì đó."
+        },
+        {
+            "en": "I've said something to upset you.",
+            "vi": "Tôi đã nói điều gì đó để làm bạn buồn."
+        }
+    ],
+    "words_form": [
+        "upsets",
+        "upsetting"
+    ],
+    "meaning_vi": "buồn bã"
+}

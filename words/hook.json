@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/hʊk/"
+    ],
+    "synonyms": [
+        "catch",
+        "clasp",
+        "link",
+        "pull",
+        "bend"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A means of catching or ensnaring; a trap.",
+            "vi": "Một phương tiện bắt hoặc gài bẫy; một cái bẫy."
+        },
+        {
+            "pos": "verb",
+            "en": "To fasten by a hook.",
+            "vi": "Để buộc chặt bằng một cái móc."
+        },
+        {
+            "pos": "idiom",
+            "en": "by hook or by crook  By whatever means possible, fair or unfair.",
+            "vi": "bằng móc hoặc bằng kẻ gian Bằng bất cứ phương tiện nào có thể, công bằng hay không công bằng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I caught fish with hook and line and pole.",
+            "vi": "Tôi bắt cá bằng lưỡi câu và dây câu và sào."
+        },
+        {
+            "en": "\"Kind of lets you off the hook, don't it?\" the old man said with a smile.",
+            "vi": "\"Loại cho phép bạn khỏi móc, phải không?\" ông già cười nói."
+        }
+    ],
+    "words_form": [
+        "hooked",
+        "hooking",
+        "hooks"
+    ],
+    "meaning_vi": "cái móc"
+}

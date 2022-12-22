@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/it/"
+    ],
+    "synonyms": [
+        "munch",
+        "chew",
+        "swallow",
+        "devour",
+        "consume"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(slang) To worry or bother.",
+            "vi": "(tiếng lóng) Lo lắng hoặc bận tâm."
+        },
+        {
+            "pos": "idiom",
+            "en": "eat crow  To be forced to accept a humiliating defeat.",
+            "vi": "ăn quạ Để buộc phải nhận một thất bại nhục nhã."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We're going to eat before we leave, and you're going to act grateful.",
+            "vi": "Chúng ta sẽ ăn trước khi rời đi, và bạn sẽ tỏ ra biết ơn."
+        },
+        {
+            "en": "Don't you want to eat before we leave?",
+            "vi": "Bạn không muốn ăn trước khi chúng ta đi?"
+        }
+    ],
+    "words_form": [
+        "ate",
+        "eating",
+        "eats"
+    ],
+    "meaning_vi": "ăn"
+}

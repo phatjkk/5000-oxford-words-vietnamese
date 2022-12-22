@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈɪməɡrənt/"
+    ],
+    "synonyms": [
+        "settler",
+        "foreigner",
+        "outlander",
+        "newcomer",
+        "local"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person who leaves one country to settle permanently in another.",
+            "vi": "Một người rời khỏi một quốc gia để định cư lâu dài ở một quốc gia khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to immigrants or the act of immigrating.",
+            "vi": "Của hoặc liên quan đến người nhập cư hoặc hành động nhập cư."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is a large Indian immigrant population.",
+            "vi": "Có một lượng lớn dân nhập cư Ấn Độ."
+        },
+        {
+            "en": "The immigrant population is concentrated in or near the large cities.",
+            "vi": "Dân nhập cư tập trung ở hoặc gần các thành phố lớn."
+        }
+    ],
+    "words_form": [
+        "immigrants"
+    ],
+    "meaning_vi": "di trú"
+}

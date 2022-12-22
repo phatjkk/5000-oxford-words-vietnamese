@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/prəˈdəkʃ(ə)n/"
+    ],
+    "synonyms": [
+        "manufacturing",
+        "augmentation",
+        "authoring",
+        "work",
+        "creation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Production is the process of making, harvesting or creating something or the amount of something that was made or harvested.",
+            "vi": "Sản xuất là quá trình làm ra, thu hoạch hoặc tạo ra một cái gì đó hoặc số lượng một cái gì đó đã được tạo ra hoặc thu hoạch."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a product, as a motor vehicle or boat, made in quantity for general sale.",
+            "vi": "Chỉ định hoặc của một sản phẩm, như một phương tiện cơ giới hoặc thuyền, được sản xuất với số lượng để bán chung."
+        },
+        {
+            "pos": "idiom",
+            "en": "make a production (out) of  to dwell on, fuss over, elaborate, etc. needlessly and annoyingly",
+            "vi": "tạo ra (ngoài) để dừng lại, làm phiền phức, công phu, v.v. một cách không cần thiết và khó chịu"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Look at the way he made a production out of opening up the box.",
+            "vi": "Hãy nhìn cách anh ấy tạo ra sản phẩm từ khi mở hộp."
+        },
+        {
+            "en": "Sheep production, mining volumes, births, crop production, weather patterns... it's all public information reports and numbers.",
+            "vi": "Sản lượng cừu, khối lượng khai thác, sinh đẻ, sản lượng mùa màng, các kiểu thời tiết ... tất cả đều là các báo cáo và con số thông tin công khai."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sản xuất"
+}

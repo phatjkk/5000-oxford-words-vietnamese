@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ənˈlɛs/"
+    ],
+    "synonyms": [
+        "except",
+        "when",
+        "as-if",
+        "saving",
+        "if"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "In any case other than that; except that; except if.",
+            "vi": "Trong bất kỳ trường hợp nào khác ngoài trường hợp đó; ngoại trừ việc; ngoại trừ nếu."
+        },
+        {
+            "pos": "preposition",
+            "en": "(archaic, dial.) Except; save.",
+            "vi": "(cổ xưa, quay số.) Ngoại trừ; cứu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't want you to give that number to anyone unless it's an emergency, you understand?",
+            "vi": "Tôi không muốn bạn đưa số đó cho bất kỳ ai trừ khi đó là trường hợp khẩn cấp, bạn hiểu không?"
+        },
+        {
+            "en": "They wouldn't all be there unless something terrible had happened.",
+            "vi": "Tất cả họ sẽ không ở đó trừ khi có điều gì đó khủng khiếp đã xảy ra."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "trừ khi"
+}

@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈɪləˌstreɪt/"
+    ],
+    "synonyms": [
+        "elucidate",
+        "demonstrate",
+        "portray",
+        "paint",
+        "explain"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To present a clarification, example, or explanation.",
+            "vi": "Để trình bày một sự làm rõ, ví dụ hoặc giải thích."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Let me illustrate this one from my own life.",
+            "vi": "Hãy để tôi minh họa điều này từ cuộc sống của chính tôi."
+        },
+        {
+            "en": "A single example will be sufficient to illustrate this.",
+            "vi": "Một ví dụ duy nhất sẽ đủ để minh họa điều này."
+        }
+    ],
+    "words_form": [
+        "illustrated",
+        "illustrates",
+        "illustrating"
+    ],
+    "meaning_vi": "minh họa"
+}

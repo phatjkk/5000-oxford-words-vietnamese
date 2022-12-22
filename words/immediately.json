@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɪˈmidiətli/"
+    ],
+    "synonyms": [
+        "instantly",
+        "instant",
+        "instantaneous",
+        "straightway",
+        "at-once"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Without an intermediary; directly.",
+            "vi": "Không có trung gian; trực tiếp."
+        },
+        {
+            "pos": "conjunction",
+            "en": "As soon as; directly.",
+            "vi": "Càng sớm càng; trực tiếp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Immediately she was alert.",
+            "vi": "Ngay lập tức cô cảnh giác."
+        },
+        {
+            "en": "I must have slept immediately after she left.",
+            "vi": "Chắc tôi đã ngủ ngay sau khi cô ấy đi rồi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ngay lập tức"
+}

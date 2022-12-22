@@ -1,0 +1,58 @@
+{
+    "spelling": [
+        "/tru/"
+    ],
+    "synonyms": [
+        "veridical",
+        "correct",
+        "exact",
+        "valid",
+        "real"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Quick and exact in sensing and responding.",
+            "vi": "Nhanh chóng và chính xác trong việc cảm nhận và phản hồi."
+        },
+        {
+            "pos": "adverb",
+            "en": "In accord with reality, fact, or truthfulness.",
+            "vi": "Phù hợp với thực tế, thực tế hoặc trung thực."
+        },
+        {
+            "pos": "verb",
+            "en": "To position (something) so as to make it balanced, level, or square.",
+            "vi": "Định vị (một cái gì đó) sao cho nó cân đối, ngang bằng hoặc vuông vắn."
+        },
+        {
+            "pos": "noun",
+            "en": "Truth or reality. Used with the.",
+            "vi": "Sự thật hay thực tế. Được sử dụng với."
+        },
+        {
+            "pos": "idiom",
+            "en": "come true  to happen in fulfillment of an expectation, prediction, wish, etc.; become a realized fact",
+            "vi": "trở thành sự thật để thực hiện một kỳ vọng, dự đoán, mong muốn, v.v.; trở thành sự thật"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A few months ago she didn't know the true meaning of love.",
+            "vi": "Vài tháng trước cô không biết ý nghĩa thực sự của tình yêu."
+        },
+        {
+            "en": "It was true, she didn't know him.",
+            "vi": "Đó là sự thật, cô không biết anh ta."
+        }
+    ],
+    "words_form": [
+        "trued",
+        "trueing",
+        "truer",
+        "trues",
+        "truest",
+        "truing"
+    ],
+    "meaning_vi": "đúng"
+}

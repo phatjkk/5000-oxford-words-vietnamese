@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/əˈsɛs/"
+    ],
+    "synonyms": [
+        "judge",
+        "evaluate",
+        "appraise",
+        "charge",
+        "exact"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To estimate or determine the significance, importance, or value of; evaluate.",
+            "vi": "Để ước tính hoặc xác định ý nghĩa, tầm quan trọng hoặc giá trị của; Thúc giục."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She tried to assess how many there might be.",
+            "vi": "Cô ấy cố gắng đánh giá xem có thể có bao nhiêu cái."
+        },
+        {
+            "en": "I'll come get you in the morning, so we can assess your skills.",
+            "vi": "Tôi sẽ đến gặp bạn vào buổi sáng, để chúng tôi có thể đánh giá kỹ năng của bạn."
+        }
+    ],
+    "words_form": [
+        "assessed",
+        "assesses",
+        "assessing"
+    ],
+    "meaning_vi": "đánh giá"
+}

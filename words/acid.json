@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈæsəd/"
+    ],
+    "synonyms": [
+        "erosive",
+        "rusting",
+        "sour",
+        "corroding",
+        "eating-away"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A substance having a sour taste.",
+            "vi": "Một chất có vị chua."
+        },
+        {
+            "pos": "adjective",
+            "en": "(geology) Containing a large proportion of silica.",
+            "vi": "(địa chất) Chứa một tỷ lệ lớn silica."
+        },
+        {
+            "pos": "acronym",
+            "en": "(databases) Atomicity, consistency, isolation, and durability: a set of properties that guarantee database transactions are processed reliably.",
+            "vi": "(cơ sở dữ liệu) Tính nguyên tử, tính nhất quán, tính cách ly và độ bền: một tập hợp các thuộc tính đảm bảo các giao dịch cơ sở dữ liệu được xử lý một cách đáng tin cậy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Thanks for revealing your strategy,\" she said in an acid tone.",
+            "vi": "\"Cảm ơn vì đã tiết lộ chiến lược của bạn,\" cô ấy nói với giọng điệu chua chát."
+        },
+        {
+            "en": "The acid, when distilled slowly, is decomposed and yields a and 0-angelica lactones.",
+            "vi": "Axit, khi được chưng cất từ ​​từ, bị phân hủy và tạo ra a và 0-angelica lacton."
+        }
+    ],
+    "words_form": [
+        "acids"
+    ],
+    "meaning_vi": "axit"
+}

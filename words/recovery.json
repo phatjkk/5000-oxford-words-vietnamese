@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/rɪˈkʌvəri/"
+    ],
+    "synonyms": [
+        "improvement",
+        "readjustment",
+        "reconstruction",
+        "rehabilitation",
+        "restoration"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A return to a normal or healthy condition.",
+            "vi": "Trở lại tình trạng bình thường hoặc khỏe mạnh."
+        },
+        {
+            "pos": "",
+            "en": "See backup and restore, checkpoint/restart, recovery console, bootable disk and tape backup.",
+            "vi": "Xem sao lưu và khôi phục, điểm kiểm tra / khởi động lại, bảng điều khiển khôi phục, đĩa có thể khởi động và sao lưu băng."
+        },
+        {
+            "pos": "idiom",
+            "en": "in recovery  In the process of participating in a group or program providing treatment and support for a longstanding psychological or behavioral problem, such as abuse, addiction, grief, or trauma.",
+            "vi": "trong quá trình phục hồi Trong quá trình tham gia vào một nhóm hoặc chương trình cung cấp điều trị và hỗ trợ cho một vấn đề tâm lý hoặc hành vi lâu dài, chẳng hạn như lạm dụng, nghiện ngập, đau buồn hoặc chấn thương."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We'll know more about her recovery tomorrow.",
+            "vi": "Chúng tôi sẽ biết thêm về sự hồi phục của cô ấy vào ngày mai."
+        },
+        {
+            "en": "The doctors pronounced recovery impossible.",
+            "vi": "Các bác sĩ thông báo là không thể phục hồi được."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "A return to a normal or healthy condition.",
+            "vi": "Trở lại tình trạng bình thường hoặc khỏe mạnh."
+        },
+        {
+            "pos": "",
+            "en": "See backup and restore, checkpoint/restart, recovery console, bootable disk and tape backup.",
+            "vi": "Xem sao lưu và khôi phục, điểm kiểm tra / khởi động lại, bảng điều khiển khôi phục, đĩa có thể khởi động và sao lưu băng."
+        },
+        {
+            "pos": "idiom",
+            "en": "in recovery  In the process of participating in a group or program providing treatment and support for a longstanding psychological or behavioral problem, such as abuse, addiction, grief, or trauma.",
+            "vi": "trong quá trình phục hồi Trong quá trình tham gia vào một nhóm hoặc chương trình cung cấp điều trị và hỗ trợ cho một vấn đề tâm lý hoặc hành vi lâu dài, chẳng hạn như lạm dụng, nghiện ngập, đau buồn hoặc chấn thương."
+        }
+    ]
+}

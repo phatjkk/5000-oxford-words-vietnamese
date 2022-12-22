@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/boʊl/"
+    ],
+    "synonyms": [
+        "jar",
+        "dish",
+        "tureen",
+        "pot",
+        "saucer"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A roll or throw of this ball, as in bowling.",
+            "vi": "Lăn hoặc ném quả bóng này, như trong bowling."
+        },
+        {
+            "pos": "verb",
+            "en": "To move quickly and smoothly by or as if by rolling.",
+            "vi": "Để di chuyển nhanh chóng và trơn tru bằng cách hoặc như thể bằng cách lăn."
+        },
+        {
+            "pos": "idiom",
+            "en": "bowl over  to knock over with or as with something rolled to astonish or amaze, thrill or delight, etc. The election results bowled them over.",
+            "vi": "tô qua để xô đổ hoặc như với một cái gì đó lăn tròn đến ngạc nhiên hoặc kinh ngạc, hồi hộp hoặc thích thú, v.v. Kết quả bầu cử làm họ nghiêng ngả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She grabbed a bowl and dipped out the last of the oatmeal.",
+            "vi": "Cô lấy một cái bát và chấm nốt bột yến mạch cuối cùng."
+        },
+        {
+            "en": "His gaze shifted to a bowl of food.",
+            "vi": "Ánh mắt anh chuyển sang một bát thức ăn."
+        }
+    ],
+    "words_form": [
+        "bowled",
+        "bowling",
+        "bowls"
+    ],
+    "meaning_vi": "bát"
+}

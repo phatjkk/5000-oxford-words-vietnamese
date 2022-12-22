@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/bin/"
+    ],
+    "synonyms": [
+        "conk",
+        "pulse",
+        "nugget",
+        "pill",
+        "noddle"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Any of various other plants or their seeds or fruits, especially those suggestive of beans such as the coffee bean or vanilla bean.",
+            "vi": "Bất kỳ loại cây nào khác hoặc hạt hoặc trái cây của chúng, đặc biệt là những loại có liên quan đến các loại đậu như hạt cà phê hoặc hạt vani."
+        },
+        {
+            "pos": "verb",
+            "en": "To hit (another) on the head with a thrown object, especially a pitched baseball.",
+            "vi": "Đánh (khác) vào đầu bằng một vật ném, đặc biệt là một quả bóng chày ném."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Bane.",
+            "vi": "Tai ương."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "full of beans  Energetic; frisky: The children were too full of beans to sit still.Badly mistaken: Don't believe him; he's full of beans.",
+            "vi": "đầy đủ các loại đậu Hăng hái; frisky: Lũ trẻ đầy ắp đậu không thể ngồi yên được. anh ấy đầy đậu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Destiny helped her with planting the green bean seeds.",
+            "vi": "Định mệnh đã giúp cô gieo hạt đậu xanh."
+        },
+        {
+            "en": "If she likes imitating a bean pole, that's her choice.",
+            "vi": "Nếu cô ấy thích bắt chước cây sào đậu, đó là sự lựa chọn của cô ấy."
+        }
+    ],
+    "words_form": [
+        "beans"
+    ],
+    "meaning_vi": "hạt đậu"
+}

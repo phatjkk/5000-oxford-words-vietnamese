@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/wɑnt/",
+        "/wɔnt/"
+    ],
+    "synonyms": [
+        "desire",
+        "wish",
+        "ache",
+        "privation",
+        "dearth"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a want is something desired or wished for.",
+            "vi": "Định nghĩa của một mong muốn là một cái gì đó được mong muốn hoặc mong muốn."
+        },
+        {
+            "pos": "verb",
+            "en": "Want is defined as to feel a wish, desire or need for something.",
+            "vi": "Muốn được định nghĩa là cảm thấy một mong muốn, mong muốn hoặc nhu cầu về một cái gì đó."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A personification of want.",
+            "vi": "Một hiện thân của sự muốn."
+        },
+        {
+            "pos": "idiom",
+            "en": "want in (or out or off, etc.)  to want to get, go, or come in (or out, off, etc.)",
+            "vi": "muốn vào (hoặc ra hoặc tắt, v.v.) muốn vào, đi hoặc vào (hoặc ra, tắt, v.v.)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I do not want all this.",
+            "vi": "Tôi không muốn tất cả những điều này."
+        },
+        {
+            "en": "Sometimes we have to accept change, if we want to move forward.",
+            "vi": "Đôi khi chúng ta phải chấp nhận sự thay đổi, nếu chúng ta muốn tiến về phía trước."
+        }
+    ],
+    "words_form": [
+        "wanted",
+        "wants"
+    ],
+    "meaning_vi": "muốn"
+}

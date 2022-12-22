@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɪkˈskjuz/"
+    ],
+    "synonyms": [
+        "remit",
+        "reason",
+        "absolve",
+        "pretense",
+        "exonerate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an excuse is an explanation or a reason for an action.",
+            "vi": "Định nghĩa của một cái cớ là một lời giải thích hoặc một lý do cho một hành động."
+        },
+        {
+            "pos": "verb",
+            "en": "Excuse is defined as to forgive, pardon or free from an obligation.",
+            "vi": "Xin lỗi được định nghĩa là để tha thứ, tha thứ hoặc miễn nghĩa vụ."
+        },
+        {
+            "pos": "idiom",
+            "en": "Excuse me  Used to acknowledge and ask forgiveness for an action that could cause offense. Used to request that a statement be repeated.",
+            "vi": "Xin lỗi Được sử dụng để thừa nhận và cầu xin sự tha thứ cho một hành động có thể gây ra xúc phạm. Được sử dụng để yêu cầu lặp lại một câu lệnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Rather, he was looking for an excuse not to believe them.",
+            "vi": "Đúng hơn, anh ta đang kiếm cớ để không tin họ."
+        },
+        {
+            "en": "\"If you'll excuse me,\" Darian said.",
+            "vi": "\"Nếu bạn thứ lỗi cho tôi,\" Darian nói."
+        }
+    ],
+    "words_form": [
+        "excused",
+        "excuses",
+        "excusing"
+    ],
+    "meaning_vi": "tha"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kɔst/"
+    ],
+    "synonyms": [
+        "expense",
+        "price",
+        "charge",
+        "value",
+        "be"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To have as a price.",
+            "vi": "Để có như một mức giá."
+        },
+        {
+            "pos": "noun",
+            "en": "The expenditure of something, such as time or labor, necessary for the attainment of a goal.",
+            "vi": "Chi phí cho một cái gì đó, chẳng hạn như thời gian hoặc lao động, cần thiết để đạt được mục tiêu."
+        },
+        {
+            "pos": "idiom",
+            "en": "at all costs  Regardless of the expense or effort involved; by any means.",
+            "vi": "bằng mọi giá Bất kể chi phí hoặc nỗ lực liên quan; bằng bất kỳ phương tiện nào."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It must have cost a fortune!",
+            "vi": "Nó phải có giá một gia tài!"
+        },
+        {
+            "en": "That must have cost you a pretty penny.",
+            "vi": "Điều đó chắc hẳn đã khiến bạn phải trả một xu khá lớn."
+        }
+    ],
+    "words_form": [
+        "costed",
+        "costing",
+        "costs"
+    ],
+    "meaning_vi": "giá cả"
+}

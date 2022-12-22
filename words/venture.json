@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈvɛn(t)ʃər/"
+    ],
+    "synonyms": [
+        "adventure",
+        "risk",
+        "project",
+        "post",
+        "try"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Venture is defined as to go on some sort of journey or to take a risk in something.",
+            "vi": "Mạo hiểm được định nghĩa là thực hiện một hành trình nào đó hoặc chấp nhận rủi ro trong một việc gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a venture is an undertaking, particularly one that involves some sort of risk or danger.",
+            "vi": "Định nghĩa về liên doanh là một cam kết, đặc biệt là một cam kết liên quan đến một số loại rủi ro hoặc nguy hiểm."
+        },
+        {
+            "pos": "idiom",
+            "en": "at a venture  By mere chance or fortune; at random.",
+            "vi": "trong một liên doanh Chỉ bằng cơ hội hoặc may mắn; ngẫu nhiên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He has no venture in the present.",
+            "vi": "Anh ấy không có liên doanh trong hiện tại."
+        },
+        {
+            "en": "It was obvious she was petrified to venture anywhere near the edge.",
+            "vi": "Rõ ràng là cô ấy đã bị hóa đá khi mạo hiểm đến bất cứ nơi nào gần rìa."
+        }
+    ],
+    "words_form": [
+        "ventured",
+        "ventures",
+        "venturing"
+    ],
+    "meaning_vi": "liên doanh"
+}

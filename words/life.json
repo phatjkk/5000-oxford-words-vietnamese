@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/laɪf/"
+    ],
+    "synonyms": [
+        "endurance",
+        "era",
+        "decade",
+        "being",
+        "reproduction"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Life is defined as the quality of plants and animals that makes them different than dead organisms, or a collection of things that are alive.",
+            "vi": "Sự sống được định nghĩa là chất lượng của thực vật và động vật làm cho chúng khác với những sinh vật đã chết, hoặc một tập hợp những thứ còn sống."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to the property of life.",
+            "vi": "Của hoặc liên quan đến tài sản của cuộc sống."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(Christian Science) God.",
+            "vi": "(Khoa học Cơ đốc) Chúa."
+        },
+        {
+            "pos": "idiom",
+            "en": "as big as life  Life-size. Actually present.",
+            "vi": "lớn như cuộc sống Kích thước cuộc sống. Trên thực tế hiện tại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This is the life he was born for.",
+            "vi": "Đây là cuộc sống mà anh ấy sinh ra để làm."
+        },
+        {
+            "en": "The remaining vacation slipped by quickly and life returned to normal.",
+            "vi": "Kỳ nghỉ còn lại trôi qua nhanh chóng và cuộc sống trở lại bình thường."
+        }
+    ],
+    "words_form": [
+        "lives"
+    ],
+    "meaning_vi": "cuộc sống"
+}

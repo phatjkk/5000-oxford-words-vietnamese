@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/maɪl/"
+    ],
+    "synonyms": [
+        "5",
+        "geographical mile",
+        "statute-mile",
+        "nautical-mile",
+        "international mile"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A unit of length equal to 5,280 feet or 1,760 yards (1,609 meters), used in the United States and other English-speaking countries.",
+            "vi": "Một đơn vị chiều dài bằng 5.280 feet hoặc 1.760 thước Anh (1.609 mét), được sử dụng ở Hoa Kỳ và các nước nói tiếng Anh khác."
+        },
+        {
+            "pos": "idiom",
+            "en": "a mile a minute  very rapidly To talk a mile a minute.",
+            "vi": "một dặm một phút rất nhanh Để nói một dặm một phút."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They found the problem about a mile down the creek.",
+            "vi": "Họ tìm thấy vấn đề khoảng một dặm xuống con lạch."
+        },
+        {
+            "en": "The house sits more than a mile off the snow plow route, so sometimes I'm snowed in for a week or so.",
+            "vi": "Ngôi nhà nằm cách xa con đường cày tuyết hơn một dặm, vì vậy đôi khi tôi bị tuyết ở trong một tuần hoặc lâu hơn."
+        }
+    ],
+    "words_form": [
+        "miles"
+    ],
+    "meaning_vi": "dặm"
+}

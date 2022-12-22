@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/wəns/"
+    ],
+    "synonyms": [
+        "already",
+        "one",
+        "back",
+        "quondam",
+        "twice"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A single occurrence; one time.",
+            "vi": "Một sự kiện duy nhất; một lần."
+        },
+        {
+            "pos": "conjunction",
+            "en": "As soon as; if ever; when.",
+            "vi": "Càng sớm càng; giá như; khi nào."
+        },
+        {
+            "pos": "adverb",
+            "en": "By one degree or grade.",
+            "vi": "Bằng một mức độ hoặc cấp độ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Having been formerly; former.",
+            "vi": "Đã được trước đây; trước."
+        },
+        {
+            "pos": "idiom",
+            "en": "at once  All at one time; simultaneously: Everything happened at once. The view of the skyline is at once awesome, grand, and disappointing.Immediately; instantly: Leave the room at once.",
+            "vi": "cùng một lúc Tất cả cùng một lúc; Đồng thời: Mọi thứ xảy ra cùng một lúc. Khung cảnh đường chân trời ngay lập tức tuyệt vời, hùng vĩ và đáng thất vọng. ngay lập tức: Rời khỏi phòng ngay lập tức."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Once again she sighed deeply.",
+            "vi": "Một lần nữa cô thở dài ngao ngán."
+        },
+        {
+            "en": "Once into the woods, she began to relax.",
+            "vi": "Khi vào rừng, cô bắt đầu thư giãn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "một lần"
+}

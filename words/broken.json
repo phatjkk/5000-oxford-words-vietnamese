@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈbroʊkən/"
+    ],
+    "synonyms": [
+        "shattered",
+        "mutilated",
+        "damaged",
+        "pulverized",
+        "fragmented"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Forcibly separated into two or more pieces; fractured.",
+            "vi": "Buộc tách thành hai hoặc nhiều mảnh; bị gãy."
+        },
+        {
+            "pos": "verb",
+            "en": "Break.",
+            "vi": "Nghỉ."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(pejorative, politically incorrect) Torres Strait Creole.",
+            "vi": "(không chính xác, không chính xác về mặt chính trị) Torres Strait Creole."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They had broken the rules.",
+            "vi": "Họ đã phá vỡ các quy tắc."
+        },
+        {
+            "en": "You don't sound very broken up about it.",
+            "vi": "Bạn không có vẻ gì là rất buồn về nó."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bị hỏng"
+}

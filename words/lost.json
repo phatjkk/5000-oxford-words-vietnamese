@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/lɔst/",
+        "/lɑst/"
+    ],
+    "synonyms": [
+        "abandoned",
+        "helpless",
+        "damned",
+        "missing",
+        "astray"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Lost is defined as the past tense of to lose.",
+            "vi": "Lost được định nghĩa là thì quá khứ của để mất."
+        },
+        {
+            "pos": "adjective",
+            "en": "No longer held or possessed; parted with.",
+            "vi": "Không còn bị nắm giữ hoặc sở hữu; chia tay với."
+        },
+        {
+            "pos": "idiom",
+            "en": "be lost on  To have no effect or influence on: Her advice was lost on me.To be beyond the comprehension of: The lecture was lost on us.",
+            "vi": "bị mất trên Để không có hiệu lực hoặc ảnh hưởng đến: Lời khuyên của cô ấy đã bị mất đối với tôi. Không thể hiểu được: Bài giảng đã bị mất đối với chúng tôi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Had he lost his mind?",
+            "vi": "Có phải anh ấy đã mất trí không?"
+        },
+        {
+            "en": "Mom always said lost time couldn't be replaced.",
+            "vi": "Mẹ luôn nói thời gian đã mất không thể thay thế được."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "mất đi"
+}

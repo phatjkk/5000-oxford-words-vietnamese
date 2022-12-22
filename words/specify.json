@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈspɛsəˌfaɪ/"
+    ],
+    "synonyms": [
+        "define",
+        "designate",
+        "stipulate",
+        "particularize",
+        "blueprint"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To state explicitly or in detail.",
+            "vi": "Để nêu rõ ràng hoặc chi tiết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"The rule doesn't specify,\" she replied sweetly.",
+            "vi": "\"Quy tắc không quy định,\" cô ấy đáp lại một cách ngọt ngào."
+        },
+        {
+            "en": "Since the intrinsic energy of a substance varies with the conditions under which the substance exists, it is necessary, before proceeding to the practical application of any of the laws mentioned above, accurately to specify the conditions of the initial and final systems, or at least to secure that they shall not vary in the operations considered.",
+            "vi": "Vì năng lượng nội tại của một chất thay đổi theo các điều kiện tồn tại của chất đó, nên trước khi tiến hành áp dụng thực tế bất kỳ định luật nào đã đề cập ở trên, phải xác định chính xác các điều kiện của hệ ban đầu và hệ cuối cùng, hoặc ít nhất là để đảm bảo rằng chúng sẽ không thay đổi trong các hoạt động được xem xét."
+        }
+    ],
+    "words_form": [
+        "specified",
+        "specifies",
+        "specifying"
+    ],
+    "meaning_vi": "chỉ rõ, ghi rõ, định rõ"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌɛpəˈdɛmɪk/"
+    ],
+    "synonyms": [
+        "plague",
+        "contagious",
+        "pandemic",
+        "disease",
+        "infectious"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an epidemic is an outbreak of disease that occurs on a ground scale or a community-wide level.",
+            "vi": "Định nghĩa dịch bệnh là một đợt bùng phát dịch bệnh xảy ra trên quy mô mặt đất hoặc quy mô toàn cộng đồng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Spreading rapidly and extensively by infection and affecting many individuals in an area or a population at the same time.",
+            "vi": "Lây lan nhanh chóng và rộng rãi do lây nhiễm và ảnh hưởng đến nhiều cá thể trong một khu vực hoặc một quần thể cùng một lúc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In 1888 there was an epidemic of yellow fever.",
+            "vi": "Năm 1888 có một trận dịch sốt vàng da."
+        },
+        {
+            "en": "In 1903 the city was devastated by an epidemic of plague.",
+            "vi": "Năm 1903, thành phố bị tàn phá bởi một trận dịch hạch."
+        }
+    ],
+    "words_form": [
+        "epidemics"
+    ],
+    "meaning_vi": "dịch"
+}

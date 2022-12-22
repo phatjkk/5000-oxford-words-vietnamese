@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈsəmˌ(h)wɑt/",
+        "/ˈsəmˌ(h)wət/"
+    ],
+    "synonyms": [
+        "kinda",
+        "moderately",
+        "slightly",
+        "considerably",
+        "more-or-less"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Somewhat is defined as to some degree or amount.",
+            "vi": "Phần nào đó được định nghĩa là ở một mức độ hoặc số lượng nào đó."
+        },
+        {
+            "pos": "adverb",
+            "en": "To some extent or degree; rather.",
+            "vi": "Ở một mức độ hoặc mức độ nào đó; hơn là."
+        },
+        {
+            "pos": "noun",
+            "en": "More or less; a certain quantity or degree; a part, more or less; something.",
+            "vi": "Nhiều hơn hoặc ít hơn; một số lượng hoặc mức độ nhất định; một phần, nhiều hay ít; thứ gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The female is somewhat smaller.",
+            "vi": "Con cái có phần nhỏ hơn."
+        },
+        {
+            "en": "Jake looked over at her still body, feeling somewhat guilty.",
+            "vi": "Jake nhìn qua cơ thể vẫn còn của cô ấy, cảm thấy có phần tội lỗi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "phần nào"
+}

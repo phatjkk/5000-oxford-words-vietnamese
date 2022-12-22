@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈdʒunjər/"
+    ],
+    "synonyms": [
+        "juvenile",
+        "subordinate",
+        "lesser",
+        "student",
+        "minion"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Used to distinguish a son from his father when they have the same given name.",
+            "vi": "Dùng để phân biệt con trai với cha khi họ có tên giống nhau."
+        },
+        {
+            "pos": "noun",
+            "en": "A name suffix used after a son's name when his father has the same name. Abbreviation: Jr.",
+            "vi": "Hậu tố tên được sử dụng sau tên con trai khi cha của anh ta có cùng tên. Viết tắt: Jr."
+        },
+        {
+            "pos": "idiom",
+            "en": "be someone's junior  to be younger than someone",
+            "vi": "là đàn em của ai đó để trẻ hơn ai đó"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was a junior salesman.",
+            "vi": "Anh ấy là một nhân viên bán hàng cấp dưới."
+        },
+        {
+            "en": "Or maybe it goes back to your junior prom.",
+            "vi": "Hoặc có thể nó quay trở lại buổi dạ hội cấp dưới của bạn."
+        }
+    ],
+    "words_form": [
+        "juniors"
+    ],
+    "meaning_vi": "sinh viên năm 3"
+}

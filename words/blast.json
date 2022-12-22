@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/blæst/"
+    ],
+    "synonyms": [
+        "explosive",
+        "eruption",
+        "blight",
+        "wreck",
+        "fire"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a blast is a strong gust of air, the sound of a sudden rush of air or gas, or an explosion.",
+            "vi": "Định nghĩa về một vụ nổ là một luồng không khí mạnh, âm thanh của một luồng không khí hoặc khí đột ngột, hoặc một vụ nổ."
+        },
+        {
+            "pos": "verb",
+            "en": "To knock down or shatter by explosion; smash.",
+            "vi": "Đánh sập hoặc vỡ vụn do nổ; đập phá."
+        },
+        {
+            "pos": "suffix",
+            "en": "(biology) An immature, embryonic stage in the development of cells or tissues.",
+            "vi": "(sinh học) Giai đoạn chưa trưởng thành, phôi thai trong sự phát triển của tế bào hoặc mô."
+        },
+        {
+            "pos": "affix",
+            "en": "Blasto-",
+            "vi": "Blasto-"
+        },
+        {
+            "pos": "interjection",
+            "en": "Blast it; damn it.",
+            "vi": "Làm nổ tung nó; Chết tiệt."
+        },
+        {
+            "pos": "idiom",
+            "en": "full blast  At full speed, volume, or capacity: Turned the radio up full blast.",
+            "vi": "toàn bộ tiếng nổ Ở tốc độ, âm lượng hoặc công suất tối đa: Bật đài phát thanh toàn bộ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They say a blast at the Wanaka mine killed two.",
+            "vi": "Họ nói rằng một vụ nổ ở mỏ Wanaka đã giết chết hai người."
+        },
+        {
+            "en": "Blast her when she falls.",
+            "vi": "Nổ cô ấy khi cô ấy ngã."
+        }
+    ],
+    "words_form": [
+        "blasted",
+        "blasting",
+        "blasts"
+    ],
+    "meaning_vi": "vụ nổ"
+}

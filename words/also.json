@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈɔlsoʊ/"
+    ],
+    "synonyms": [
+        "additionally",
+        "as-well",
+        "besides",
+        "plus",
+        "moreover"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Likewise; too.",
+            "vi": "Tương tự như vậy; quá."
+        },
+        {
+            "pos": "conjunction",
+            "en": "And in addition.",
+            "vi": "Và thêm vào đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Aside from packing, there was also decorating to be done.",
+            "vi": "Bên cạnh việc đóng gói, cũng có một phần trang trí phải được thực hiện."
+        },
+        {
+            "en": "Also, my hat is quite empty.",
+            "vi": "Ngoài ra, mũ của tôi khá trống rỗng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "cũng, cũng vậy, cũng thế"
+}

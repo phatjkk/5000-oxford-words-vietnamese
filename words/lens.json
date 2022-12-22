@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/lɛnz/"
+    ],
+    "synonyms": [
+        "camera",
+        "optic",
+        "lense",
+        "condenser",
+        "nosepiece"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a lens is a piece of glass or other hard clear material molded with one side flat and the other curved or both sides curved that forms an image by bringing together or spreading the light that passes through it.",
+            "vi": "Định nghĩa của thấu kính là một mảnh thủy tinh hoặc vật liệu cứng trong suốt khác được đúc với một mặt phẳng và mặt kia cong hoặc cả hai mặt cong tạo thành hình ảnh bằng cách tập hợp hoặc truyền ánh sáng đi qua nó."
+        },
+        {
+            "pos": "verb",
+            "en": "To bend or distort (light, for example) by means of a lens, especially a gravitational field.",
+            "vi": "Để bẻ cong hoặc làm biến dạng (ví dụ như ánh sáng) bằng thấu kính, đặc biệt là trường hấp dẫn."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A taxonomic genus within the family Fabaceae — the lentils.",
+            "vi": "Một chi phân loại trong họ Fabaceae - đậu lăng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If not, the substitution of an achromatic lens will be of no advantage.",
+            "vi": "Nếu không, việc thay thế một thấu kính tiêu sắc sẽ không có lợi."
+        },
+        {
+            "en": "Its object is a practical one, to determine by scientific considerations the shape of lens best adapted to improve the capabilities of the telescope, which had been invented not long before.",
+            "vi": "Đối tượng của nó là một vật thực tế, để xác định bằng các cân nhắc khoa học hình dạng của thấu kính thích nghi nhất để cải thiện khả năng của kính thiên văn, loại kính đã được phát minh trước đó không lâu."
+        }
+    ],
+    "words_form": [
+        "lenses"
+    ],
+    "meaning_vi": "ống kính"
+}

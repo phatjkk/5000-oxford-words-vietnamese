@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈvælju/"
+    ],
+    "synonyms": [
+        "cost",
+        "amount",
+        "worth",
+        "caliber",
+        "equivalent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A principle or standard, as of behavior, that is considered important or desirable.",
+            "vi": "Một nguyên tắc hoặc tiêu chuẩn, về hành vi, được coi là quan trọng hoặc mong muốn."
+        },
+        {
+            "pos": "verb",
+            "en": "To regard highly; esteem.",
+            "vi": "Đánh giá cao; kính trọng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Relating to or consisting of principles or standards.",
+            "vi": "Liên quan đến hoặc bao gồm các nguyên tắc hoặc tiêu chuẩn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That would increase the value of the house.",
+            "vi": "Điều đó sẽ làm tăng giá trị của ngôi nhà."
+        },
+        {
+            "en": "That was its value to him.",
+            "vi": "Đó là giá trị của nó đối với anh ta."
+        }
+    ],
+    "words_form": [
+        "valued",
+        "values",
+        "valuing"
+    ],
+    "meaning_vi": "giá trị"
+}

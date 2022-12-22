@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/əˌlɛkˈtrɪsədi/"
+    ],
+    "synonyms": [
+        "current",
+        "spark",
+        "voltage",
+        "service",
+        "charge"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Electricity is defined as the effects of an electric charge.",
+            "vi": "Điện năng được định nghĩa là tác dụng của điện tích."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "After a century, electricity was still being generated.",
+            "vi": "Sau một thế kỷ, điện vẫn được tạo ra."
+        },
+        {
+            "en": "Probably some run down shack without electricity or running water - and how much of the 40 acres was vertical?",
+            "vi": "Có lẽ một số nhà đã chạy xuống lán mà không có điện hoặc nước sinh hoạt - và bao nhiêu trong số 40 mẫu Anh là thẳng đứng?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "điện lực"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/feɪl/"
+    ],
+    "synonyms": [
+        "flop",
+        "lose",
+        "miss",
+        "miscarry",
+        "break down"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To receive an academic grade below the acceptable minimum.",
+            "vi": "Nhận được điểm học tập dưới mức tối thiểu có thể chấp nhận được."
+        },
+        {
+            "pos": "noun",
+            "en": "A failing grade.",
+            "vi": "Một điểm trượt."
+        },
+        {
+            "pos": "adjective",
+            "en": "(slang, US) That is a failure.",
+            "vi": "(tiếng lóng, Mỹ) Đó là một thất bại."
+        },
+        {
+            "pos": "idiom",
+            "en": "without fail  With no chance of failure: Be here at noon without fail.",
+            "vi": "không có thất bại Không có cơ hội thất bại: Hãy ở đây vào buổi trưa mà không thất bại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I won't fail again, Dusty, I promise.",
+            "vi": "Tôi sẽ không thất bại lần nữa, Dusty, tôi hứa."
+        },
+        {
+            "en": "You didn't fail me.",
+            "vi": "Bạn không làm tôi thất vọng."
+        }
+    ],
+    "words_form": [
+        "failed",
+        "failing",
+        "fails"
+    ],
+    "meaning_vi": "thất bại"
+}

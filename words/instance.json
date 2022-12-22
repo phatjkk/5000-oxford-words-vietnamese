@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈɪnstəns/"
+    ],
+    "synonyms": [
+        "example",
+        "situation",
+        "case",
+        "occurrence",
+        "proof"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To offer as an example; cite.",
+            "vi": "Để cung cấp như một ví dụ; dẫn chứng."
+        },
+        {
+            "pos": "noun",
+            "en": "(computing) In object-oriented programming: a created object, one that has had memory allocated for local data storage; an instantiation of a class. [from 20th c.]",
+            "vi": "(máy tính) Trong lập trình hướng đối tượng: một đối tượng được tạo, một đối tượng đã được cấp phát bộ nhớ để lưu trữ dữ liệu cục bộ; một khởi tạo của một lớp. [từ ngày 20 c.]"
+        },
+        {
+            "pos": "idiom",
+            "en": "for instance  As an example; for example.",
+            "vi": "ví dụ Như một ví dụ; Ví dụ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "For instance, you may manufacture widgets from lightweight plastic.",
+            "vi": "Ví dụ, bạn có thể sản xuất các vật dụng từ nhựa nhẹ."
+        },
+        {
+            "en": "Yesterday, for instance, Mitya was naughty...",
+            "vi": "Ví dụ như hôm qua, Mitya đã nghịch ngợm ..."
+        }
+    ],
+    "words_form": [
+        "instanced",
+        "instances",
+        "instancing"
+    ],
+    "meaning_vi": "ví dụ"
+}

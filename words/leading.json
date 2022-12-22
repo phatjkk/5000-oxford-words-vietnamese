@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈlidɪŋ/"
+    ],
+    "synonyms": [
+        "foremost",
+        "central",
+        "chief",
+        "preeminent",
+        "advance"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having a position in the lead; foremost.",
+            "vi": "Có vị trí dẫn đầu; quan trọng nhất."
+        },
+        {
+            "pos": "noun",
+            "en": "The action of one that leads; guidance; direction; leadership.",
+            "vi": "Hành động của một trong những dẫn đầu; sự hướng dẫn; phương hướng; Khả năng lãnh đạo."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of lead.",
+            "vi": "Hiện tại phân từ dẫn dắt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The door leading to his father.s corpse was locked, and he tested it.",
+            "vi": "Cánh cửa dẫn đến xác chết của cha anh đã bị khóa, và anh đã kiểm tra nó."
+        },
+        {
+            "en": "Bordeaux was leading his horse.",
+            "vi": "Bordeaux đang dắt ngựa."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hàng đầu"
+}

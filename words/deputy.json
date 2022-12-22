@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈdɛpjədi/"
+    ],
+    "synonyms": [
+        "lieutenant",
+        "delegate",
+        "second",
+        "manager",
+        "adjutant"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a deputy is a person who is appointed to be a substitute or assistant to another person.",
+            "vi": "Định nghĩa về cấp phó là người được bổ nhiệm để thay thế hoặc trợ lý cho người khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Acting as deputy.",
+            "vi": "Làm phó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He'd recently employed a deputy who was doing a top notch job.",
+            "vi": "Gần đây anh ấy đã tuyển dụng một cấp phó đang làm một công việc hàng đầu."
+        },
+        {
+            "en": "In 1820 he was elected as a deputy to the cantonal council, and was a member of the extraordinary diet of 1832.",
+            "vi": "Năm 1820, ông được bầu làm phó hội đồng bang, và là thành viên của chế độ ăn kiêng đặc biệt năm 1832."
+        }
+    ],
+    "words_form": [
+        "deputies"
+    ],
+    "meaning_vi": "phó phòng"
+}

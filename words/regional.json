@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈridʒ(ə)n(ə)l/"
+    ],
+    "synonyms": [
+        "local",
+        "provincial",
+        "territorial",
+        "zonal",
+        "positional"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of or relating to a particular region or district.",
+            "vi": "Của hoặc liên quan đến một khu vực hoặc quận cụ thể."
+        },
+        {
+            "pos": "noun",
+            "en": "Something extending over or representing a region or regions.",
+            "vi": "Một cái gì đó mở rộng hoặc đại diện cho một khu vực hoặc các khu vực."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The security offered by this treaty was further guaranteed by the formation of a regional league of the Baltic states against external aggression.",
+            "vi": "An ninh mà hiệp ước này đưa ra đã được đảm bảo hơn nữa bằng việc hình thành một liên minh khu vực của các quốc gia Baltic chống lại sự xâm lược từ bên ngoài."
+        },
+        {
+            "en": "It is divided into six provinces, each governed by a regional commissioner.",
+            "vi": "Nó được chia thành sáu tỉnh, mỗi tỉnh do một ủy viên khu vực điều hành."
+        }
+    ],
+    "words_form": [
+        "regionals"
+    ],
+    "meaning_vi": "khu vực"
+}

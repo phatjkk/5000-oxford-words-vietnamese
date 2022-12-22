@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/wɔrm/"
+    ],
+    "synonyms": [
+        "hot",
+        "heated",
+        "sunny",
+        "temperate",
+        "earnest"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Somewhat hotter than temperate; having or producing a comfortable and agreeable degree of heat; moderately hot.",
+            "vi": "Hơi nóng hơn ôn đới; có hoặc tạo ra một mức độ nhiệt dễ chịu và dễ chịu; nóng vừa phải."
+        },
+        {
+            "pos": "verb",
+            "en": "To warm is defined as to raise the temperature a bit.",
+            "vi": "Làm ấm được định nghĩa là tăng nhiệt độ lên một chút."
+        },
+        {
+            "pos": "noun",
+            "en": "A warming or heating.",
+            "vi": "Một sự hâm nóng hoặc sưởi ấm."
+        },
+        {
+            "pos": "adverb",
+            "en": "So as to be warm; warmly.",
+            "vi": "Vì vậy, để được ấm áp; nồng nhiệt."
+        },
+        {
+            "pos": "idiom",
+            "en": "warm up  to reheat (cooked food, etc.) to make or become more animated, excited, ardent, lively, etc. to practice, exercise, or limber up awhile in preparation for going into a game, contest, performance, etc.",
+            "vi": "hâm nóng để hâm nóng (thức ăn đã nấu chín, v.v.) để làm cho hoặc trở nên sôi nổi, hào hứng, hăng hái, sôi nổi hơn, v.v. để luyện tập, rèn luyện sức khỏe hoặc vận động một lúc để chuẩn bị tham gia một trò chơi, cuộc thi, biểu diễn, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was a warm afternoon in August.",
+            "vi": "Đó là một buổi chiều tháng tám ấm áp."
+        },
+        {
+            "en": "His skin was warm to the touch.",
+            "vi": "Da anh ấm khi chạm vào."
+        }
+    ],
+    "words_form": [
+        "warmed",
+        "warmer",
+        "warmest",
+        "warming",
+        "warms"
+    ],
+    "meaning_vi": "ấm"
+}

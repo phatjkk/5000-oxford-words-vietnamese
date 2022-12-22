@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/wɔrn/"
+    ],
+    "synonyms": [
+        "signal",
+        "forewarn",
+        "notify",
+        "alert",
+        "advise"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To tell (a person) of a danger, coming evil, misfortune, etc.; put on guard; caution.",
+            "vi": "Để báo cho (một người) biết về một mối nguy hiểm, sự dữ sắp đến, sự bất hạnh, v.v ...; đề phòng; thận trọng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I warn you again, step aside.",
+            "vi": "Tôi cảnh báo bạn một lần nữa, bước sang một bên."
+        },
+        {
+            "en": "Go up the hill and watch for cars so you can warn anyone before they get to the curve.",
+            "vi": "Đi lên đồi và để ý những chiếc xe để bạn có thể cảnh báo bất kỳ ai trước khi họ đến khúc cua."
+        }
+    ],
+    "words_form": [
+        "warned",
+        "warning",
+        "warns"
+    ],
+    "meaning_vi": "cảnh báo"
+}

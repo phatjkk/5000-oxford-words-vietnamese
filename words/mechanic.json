@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/məˈkænɪk/"
+    ],
+    "synonyms": [
+        "technician",
+        "repairman",
+        "car-mechanic",
+        "artisan",
+        "craftsman"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A worker skilled in making, using, or repairing machines, vehicles, and tools.",
+            "vi": "Một công nhân có kỹ năng chế tạo, sử dụng hoặc sửa chữa máy móc, phương tiện và công cụ."
+        },
+        {
+            "pos": "adjective",
+            "en": "(archaic) Mechanical; relating to the laws of motion in the art of constructing things.",
+            "vi": "(cổ) Cơ khí; liên quan đến các quy luật chuyển động trong nghệ thuật xây dựng mọi thứ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The College of Agriculture and Mechanic Arts became a department of the university in 1870.",
+            "vi": "Trường Cao đẳng Nông nghiệp và Nghệ thuật Cơ khí trở thành một khoa của trường đại học vào năm 1870."
+        },
+        {
+            "en": "An unsuccessful European carpenter or other mechanic, or even labourer, not infrequently occupied this position.",
+            "vi": "Một người thợ mộc châu Âu không thành công hoặc một người thợ cơ khí khác, hoặc thậm chí là người lao động, không thường xuyên chiếm giữ vị trí này."
+        }
+    ],
+    "words_form": [
+        "mechanics"
+    ],
+    "meaning_vi": "thợ cơ khí"
+}

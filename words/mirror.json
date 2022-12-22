@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈmɪrər/"
+    ],
+    "synonyms": [
+        "imager",
+        "reflect",
+        "hand glass",
+        "glass",
+        "reflector"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a mirror is a surface that reflects, or anything that gives a true image of a person or thing.",
+            "vi": "Định nghĩa của gương là một bề mặt phản chiếu hoặc bất cứ thứ gì cho hình ảnh chân thực của một người hoặc một sự vật."
+        },
+        {
+            "pos": "verb",
+            "en": "To reflect, as in a mirror; give or show a likeness of.",
+            "vi": "Để phản chiếu, như trong một tấm gương; cho hoặc hiển thị một sự giống nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A mirror lined the inside of one door.",
+            "vi": "Một tấm gương lót bên trong một cánh cửa."
+        },
+        {
+            "en": "She pushed open the door with the mirror and stared.",
+            "vi": "Cô dùng gương đẩy cửa và nhìn chằm chằm."
+        }
+    ],
+    "words_form": [
+        "mirrored",
+        "mirroring",
+        "mirrors"
+    ],
+    "meaning_vi": "gương"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/tæks/"
+    ],
+    "synonyms": [
+        "load",
+        "fine",
+        "obligation",
+        "strain",
+        "require"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A heavy demand; burden; strain.",
+            "vi": "Một nhu cầu nặng nề; gánh nặng; sự căng thẳng, quá tải."
+        },
+        {
+            "pos": "verb",
+            "en": "Tax is defined as to make people pay a percentage of money to the government.",
+            "vi": "Thuế được định nghĩa là bắt mọi người phải trả một phần trăm tiền cho chính phủ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Two people laughed aloud and someone growled about their federal tax dollars at work.",
+            "vi": "Hai người cười lớn và ai đó gầm gừ về số tiền thuế liên bang của họ tại nơi làm việc."
+        },
+        {
+            "en": "\"This is like jailing Al Capone for tax evasion,\" Damian said.",
+            "vi": "Damian nói: “Điều này giống như việc bỏ tù Al Capone vì tội trốn thuế."
+        }
+    ],
+    "words_form": [
+        "taxed",
+        "taxes",
+        "taxing"
+    ],
+    "meaning_vi": "thuế"
+}

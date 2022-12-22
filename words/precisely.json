@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/prəˈsaɪsli/"
+    ],
+    "synonyms": [
+        "exactly",
+        "accurately",
+        "straight",
+        "definitely",
+        "correctly"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Exactly.",
+            "vi": "Chính xác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The time, of day however, was precisely known.",
+            "vi": "Tuy nhiên, thời gian trong ngày đã được biết chính xác."
+        },
+        {
+            "en": "You know, that's precisely why I don't want you up in the hills alone.",
+            "vi": "Bạn biết đấy, đó chính là lý do tại sao tôi không muốn bạn lên đồi một mình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đúng"
+}

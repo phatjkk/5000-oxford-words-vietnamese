@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/læb/"
+    ],
+    "synonyms": [
+        "research lab",
+        "laboratory",
+        "research-laboratory",
+        "science lab",
+        "science laboratory"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A laboratory.",
+            "vi": "Phòng thí nghiệm."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Labrador.",
+            "vi": "Labrador."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You had a lab and science symposiums.",
+            "vi": "Bạn đã có một phòng thí nghiệm và hội nghị chuyên đề khoa học."
+        },
+        {
+            "en": "Ully.s lab was a disaster, with glass covering the floor and counters flipped on end.",
+            "vi": "Phòng thí nghiệm của Ully.s là một thảm họa, với kính phủ trên sàn và các quầy bị lật."
+        }
+    ],
+    "words_form": [
+        "labs"
+    ],
+    "meaning_vi": "phòng thí nghiệm"
+}

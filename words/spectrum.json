@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈspɛktrəm/"
+    ],
+    "synonyms": [
+        "continuum",
+        "array",
+        "sphere",
+        "series",
+        "distribution"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Spectrum is the range of colors of wavelength energy sent out from a light source when viewed through a prism.",
+            "vi": "Quang phổ là dải màu của năng lượng bước sóng được phát ra từ nguồn sáng khi nhìn qua lăng kính."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the spectrum  having a diagnosis based on a wide range of related symptoms including those of autism and Asperger's syndrome",
+            "vi": "trên phổ có chẩn đoán dựa trên một loạt các triệu chứng liên quan bao gồm cả hội chứng tự kỷ và Asperger"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Our eyes are capable of seeing only a narrow spectrum of light.",
+            "vi": "Đôi mắt của chúng ta chỉ có khả năng nhìn thấy một dải ánh sáng hẹp."
+        },
+        {
+            "en": "Let AoBo be a plane wave-surface of the light before it falls upon the prisms, AB the corresponding wave-surface for a particular part of the spectrum after the light has passed the prisms, or after it has passed the eye-piece of the observing telescope.",
+            "vi": "Gọi AoBo là mặt sóng phẳng của ánh sáng trước khi nó rơi xuống lăng kính, AB là mặt sóng tương ứng đối với một phần cụ thể của quang phổ sau khi ánh sáng đi qua lăng kính, hoặc sau khi nó đi qua mắt của kính thiên văn quan sát."
+        }
+    ],
+    "words_form": [
+        "spectra",
+        "spectrums"
+    ],
+    "meaning_vi": "quang phổ"
+}

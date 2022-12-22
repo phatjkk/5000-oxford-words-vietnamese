@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/rəˈtaɪ(ə)rd/"
+    ],
+    "synonyms": [
+        "emeritus",
+        "resigned",
+        "superannuation",
+        "superannuated",
+        "active"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Retired people considered as a group. Used with the .",
+            "vi": "Những người đã nghỉ hưu được coi là một nhóm. Được sử dụng với."
+        },
+        {
+            "pos": "adjective",
+            "en": "Received by a person in retirement.",
+            "vi": "Nhận bởi một người khi nghỉ hưu."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of retire.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ về hưu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In 1907 he retired from public life.",
+            "vi": "Năm 1907, ông từ giã cuộc sống công cộng."
+        },
+        {
+            "en": "Afterward he took a book from the shelf and retired to his room.",
+            "vi": "Sau đó, anh lấy một cuốn sách trên kệ và trở về phòng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đã nghỉ hưu"
+}

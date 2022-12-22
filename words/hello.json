@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/həˈloʊ/",
+        "/hɛˈloʊ/"
+    ],
+    "synonyms": [
+        "greetings",
+        "hey",
+        "howdy",
+        "hi",
+        "yo"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A calling or greeting of “hello.”",
+            "vi": "Một cuộc gọi hoặc lời chào \"xin chào\"."
+        },
+        {
+            "pos": "verb",
+            "en": "To say or exclaim “hello” (to)",
+            "vi": "Để nói hoặc kêu lên “xin chào” (đến)"
+        },
+        {
+            "pos": "interjection",
+            "en": "A greeting (salutation) said when meeting someone or acknowledging someone’s arrival or presence.",
+            "vi": "Một lời chào (chào) nói khi gặp ai đó hoặc thừa nhận sự đến hoặc sự hiện diện của ai đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Hello, can I help you with something?",
+            "vi": "Xin chào, tôi có thể giúp gì cho bạn được không?"
+        },
+        {
+            "en": "She then turned and sauntered towards Victor, not a hint of fear in her carriage \"Hello, Victor\" His greeting was returned with a hiss, \"Elisabeth!\"",
+            "vi": "Sau đó, cô quay lại và chạy về phía Victor, không có một chút sợ hãi trong xe của cô \"Xin chào, Victor\" Lời chào của anh được đáp lại bằng một tiếng rít, \"Elisabeth!\""
+        }
+    ],
+    "words_form": [
+        "hello",
+        "hello",
+        "hello",
+        "hellos"
+    ],
+    "meaning_vi": "xin chào"
+}

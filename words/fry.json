@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/fraɪ/"
+    ],
+    "synonyms": [
+        "cook",
+        "stir-fry",
+        "small-fry",
+        "tike",
+        "pan-fry"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Fry is defined as to cook in hot oil.",
+            "vi": "Chiên được định nghĩa là nấu trong dầu nóng."
+        },
+        {
+            "pos": "noun",
+            "en": "A dish of a fried food.",
+            "vi": "Một món ăn chiên."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "Young fish.",
+            "vi": "Cá con."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) (born Christopher Hammond) 1907-2005; Eng. playwright.",
+            "vi": "(người) (sinh Christopher Hammond) 1907-2005; Anh nhà viết kịch."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We used to fry them for supper.",
+            "vi": "Chúng tôi đã từng chiên chúng cho bữa tối."
+        },
+        {
+            "en": "25, quoted above, those nominated on behalf of Great Britain being Lord Pauncefote, Sir Edward Malet, Sir Edward Fry and Professor Westlake.",
+            "vi": "25, được trích dẫn ở trên, những người được đề cử thay mặt cho Vương quốc Anh là Lãnh chúa Pauncefote, Ngài Edward Malet, Ngài Edward Fry và Giáo sư Westlake."
+        }
+    ],
+    "words_form": [
+        "fried",
+        "fries",
+        "frying"
+    ],
+    "meaning_vi": "chiên; rán"
+}

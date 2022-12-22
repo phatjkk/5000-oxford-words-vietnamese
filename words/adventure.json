@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ædˈvɛn(t)ʃər/",
+        "/ədˈvɛn(t)ʃər/"
+    ],
+    "synonyms": [
+        "experience",
+        "adventuresome",
+        "escapade",
+        "enterprise",
+        "venturesome"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an adventure is an exciting or unusual experience that usually involves risks.",
+            "vi": "Định nghĩa về một cuộc phiêu lưu là một trải nghiệm thú vị hoặc bất thường thường bao gồm rủi ro."
+        },
+        {
+            "pos": "verb",
+            "en": "To venture upon; undertake or try.",
+            "vi": "Để mạo hiểm; đảm nhận hoặc cố gắng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The adventure turned into a nightmare.",
+            "vi": "Cuộc phiêu lưu biến thành một cơn ác mộng."
+        },
+        {
+            "en": "The wildness and adventure that are in fishing still recommended it to me.",
+            "vi": "Sự hoang dã và phiêu lưu trong câu cá vẫn khuyến khích tôi."
+        }
+    ],
+    "words_form": [
+        "adventured",
+        "adventures",
+        "adventuring"
+    ],
+    "meaning_vi": "cuộc phiêu lưu"
+}

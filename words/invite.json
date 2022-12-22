@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɪnˈvaɪt/"
+    ],
+    "synonyms": [
+        "request",
+        "call",
+        "urge",
+        "invitation",
+        "ask"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To request formally.",
+            "vi": "Để yêu cầu chính thức."
+        },
+        {
+            "pos": "noun",
+            "en": "An invitation.",
+            "vi": "Lời mời."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Did she invite you?",
+            "vi": "Cô ấy có mời bạn không?"
+        },
+        {
+            "en": "I was wondering if I should invite him to stay at our place.",
+            "vi": "Tôi đang băn khoăn không biết có nên mời anh ấy ở lại chỗ của chúng tôi không."
+        }
+    ],
+    "words_form": [
+        "invited",
+        "invites",
+        "inviting"
+    ],
+    "meaning_vi": "mời gọi"
+}

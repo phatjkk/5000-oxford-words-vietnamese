@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌlɪməˈteɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "restriction",
+        "taboo",
+        "weak spot",
+        "hindrance",
+        "prohibition"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A limiting or being limited.",
+            "vi": "Một giới hạn hoặc bị giới hạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Even with this limitation the subject is too vast for us to enter into details.",
+            "vi": "Ngay cả với giới hạn này, chủ đề vẫn quá rộng lớn để chúng tôi đi vào chi tiết."
+        },
+        {
+            "en": "But this limitation is always taken for granted.",
+            "vi": "Nhưng hạn chế này luôn được coi là đương nhiên."
+        }
+    ],
+    "words_form": [
+        "limitations"
+    ],
+    "meaning_vi": "giới hạn"
+}

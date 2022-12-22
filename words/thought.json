@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/θɔt/"
+    ],
+    "synonyms": [
+        "image",
+        "speculation",
+        "intellection",
+        "insight",
+        "reflection"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of thought is the act of thinking, or the outcome of mental activity.",
+            "vi": "Định nghĩa của suy nghĩ là hành động của suy nghĩ, hoặc kết quả của hoạt động tinh thần."
+        },
+        {
+            "pos": "verb",
+            "en": "Thought is the past tense of the word think which means to conceive in the mind.",
+            "vi": "Suy nghĩ là thì quá khứ của từ nghĩ có nghĩa là hình thành trong tâm trí."
+        },
+        {
+            "pos": "verb impersonal",
+            "en": "Think.",
+            "vi": "Nghĩ."
+        },
+        {
+            "pos": "idiom",
+            "en": "a thought  To a small degree; somewhat: You could be a thought more considerate.",
+            "vi": "một suy nghĩ Ở một mức độ nhỏ; phần nào: Bạn có thể là một người suy nghĩ chín chắn hơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The children thought the new game was very funny.",
+            "vi": "Những đứa trẻ nghĩ rằng trò chơi mới rất vui nhộn."
+        },
+        {
+            "en": "I never thought I could do it.",
+            "vi": "Tôi chưa bao giờ nghĩ rằng mình có thể làm được."
+        }
+    ],
+    "words_form": [
+        "thoughts"
+    ],
+    "meaning_vi": "nghĩ"
+}

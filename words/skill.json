@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/skɪl/"
+    ],
+    "synonyms": [
+        "capability",
+        "talent",
+        "dexterity",
+        "craft",
+        "work"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a skill is a talent or ability that comes from training or practice.",
+            "vi": "Định nghĩa của một kỹ năng là một tài năng hoặc khả năng có được từ đào tạo hoặc thực hành."
+        },
+        {
+            "pos": "verb",
+            "en": "(archaic) To matter, avail, or make a difference.",
+            "vi": "(cổ điển) Quan trọng, tận dụng hoặc tạo ra sự khác biệt."
+        },
+        {
+            "pos": "adjective",
+            "en": "(UK, slang) Great, excellent.",
+            "vi": "(Anh, tiếng lóng) Tuyệt vời, tuyệt vời."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We have the skill and the strategy.",
+            "vi": "Chúng tôi có kỹ năng và chiến lược."
+        },
+        {
+            "en": "Darkyn's lie detector skill gave Deidre a tingling at the base of her skull that she took to be a red flag.",
+            "vi": "Kỹ năng phát hiện nói dối của Darkyn khiến Deidre ngứa ran ở đáy hộp sọ mà cô cho là lá cờ đỏ."
+        }
+    ],
+    "words_form": [
+        "skills"
+    ],
+    "meaning_vi": "kỹ năng"
+}

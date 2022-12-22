@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/maʊs/"
+    ],
+    "synonyms": [
+        "rat",
+        "rodent",
+        "pussyfoot",
+        "animal",
+        "slip"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To hunt mice.",
+            "vi": "Để săn chuột."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) A discolored swelling under the eye caused by a blow; a black eye.",
+            "vi": "(không chính thức) Sưng đổi màu dưới mắt do một cú đánh; một con mắt đen."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Look, I'll be quiet as a mouse and cause no trouble.",
+            "vi": "Nghe này, tôi sẽ im lặng như một con chuột và không gây rắc rối."
+        },
+        {
+            "en": "A mouse is in the box.",
+            "vi": "Một con chuột ở trong hộp."
+        }
+    ],
+    "words_form": [
+        "mice",
+        "moused",
+        "mouses",
+        "mousing"
+    ],
+    "meaning_vi": "chuột"
+}

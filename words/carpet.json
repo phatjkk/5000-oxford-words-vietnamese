@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈkɑrpət/"
+    ],
+    "synonyms": [
+        "rug",
+        "carpeting",
+        "covering",
+        "moquette",
+        "cover"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A surface or surface covering that is similar to a rug.",
+            "vi": "Bề mặt hoặc lớp phủ bề mặt tương tự như tấm thảm."
+        },
+        {
+            "pos": "verb",
+            "en": "To substantially cover something, like a carpet; to blanket something.",
+            "vi": "Để che phủ đáng kể thứ gì đó, chẳng hạn như một tấm thảm; để chăn một cái gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the carpet  In a position of being reprimanded by one in authority: Was called on the carpet for cheating.Under discussion or consideration: Important matters will be on the carpet at today's meeting.",
+            "vi": "trên thảm Ở vị trí bị người có thẩm quyền khiển trách: Bị gọi lên thảm vì gian lận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It will be covered with carpet by next weekend.",
+            "vi": "Nó sẽ được trải thảm vào cuối tuần tới."
+        },
+        {
+            "en": "This thing wouldn't be easy to handle on a red carpet, but I think I can make it all right.",
+            "vi": "Chuyện này không dễ giải quyết trên thảm đỏ, nhưng tôi nghĩ mình có thể làm được."
+        }
+    ],
+    "words_form": [
+        "carpeted",
+        "carpeting",
+        "carpets"
+    ],
+    "meaning_vi": "thảm"
+}

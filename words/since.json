@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/sɪns/"
+    ],
+    "synonyms": [
+        "considering",
+        "until now",
+        "because",
+        "forasmuch-as",
+        "for"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Before now; ago.",
+            "vi": "Trước đây; trước kia."
+        },
+        {
+            "pos": "preposition",
+            "en": "Continuously from.",
+            "vi": "Liên tục từ."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Inasmuch as; because.",
+            "vi": "Nhân vì; tại vì."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Since you arrived, she is not sure this is the way.",
+            "vi": "Kể từ khi bạn đến, cô ấy không chắc chắn đây là đường đi."
+        },
+        {
+            "en": "\"It's a long time since we met,\" he said.",
+            "vi": "“Đã lâu rồi chúng ta không gặp nhau,” anh nói."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "từ lúc"
+}

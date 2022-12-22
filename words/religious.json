@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/rəˈlɪdʒəs/"
+    ],
+    "synonyms": [
+        "faithful",
+        "pious",
+        "indolent",
+        "sacred",
+        "spiritual"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having or showing belief in and reverence for God or a deity.",
+            "vi": "Có hoặc thể hiện niềm tin và sự tôn kính đối với Chúa hoặc một vị thần."
+        },
+        {
+            "pos": "noun",
+            "en": "A member of a monastic order, especially a nun or monk.",
+            "vi": "Một thành viên của một dòng tu, đặc biệt là một nữ tu sĩ."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "Muslim, Jew, Hindu, Buddhist, Baha'i, Wiccan, Eckist, Druid, Jain, RaÃ«lian, Sikh, Taoist, Zoroastrian, Unitarian Universalist, New Ager, reconstructionist, LaVeyan Satanist, Scientologist, Rastafarian, Taoist, pagan, spiritist, humanist, Thelemite, Confucianist.",
+            "vi": "Muslim, Do Thái, Hindu, Buddhist, Baha'i, Wiccan, Eckist, Druid, Jain, RaÃ «lian, Sikh, Taoist, Zoroastrian, Unitarian Universalist, New Ager, nhà tái tạo, LaVeyan Satanist, Scientist, Rastafarian, Taoist, ngoại giáo, linh hồn , nhà nhân văn, Thelemite, nhà Nho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Josh is religious, but there aren't many men who would claim to understand women.",
+            "vi": "Josh theo đạo, nhưng không có nhiều đàn ông tuyên bố hiểu phụ nữ."
+        },
+        {
+            "en": "He was buried, with all religious honours, in the church of St Leonard, Basel.",
+            "vi": "Ông đã được chôn cất, với tất cả các danh dự tôn giáo, trong nhà thờ St Leonard, Basel."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tôn giáo"
+}

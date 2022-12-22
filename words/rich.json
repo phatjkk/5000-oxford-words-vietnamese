@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/rɪtʃ/"
+    ],
+    "synonyms": [
+        "wealthy",
+        "luxurious",
+        "golden",
+        "posh",
+        "affluent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The rich is defined as the group of people who are wealthy.",
+            "vi": "Người giàu được định nghĩa là nhóm người giàu có."
+        },
+        {
+            "pos": "adjective",
+            "en": "Highly varied, developed, or complex.",
+            "vi": "Rất đa dạng, phát triển hoặc phức tạp."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To enrich.",
+            "vi": "(lỗi thời) Để làm giàu."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A diminutive of the male given name Richard.",
+            "vi": "Một chi tiết nhỏ của người đàn ông được đặt tên Richard."
+        },
+        {
+            "pos": "idiom",
+            "en": "the rich  wealthy people collectively",
+            "vi": "tập thể những người giàu có giàu có"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The rich have always had this luxury.",
+            "vi": "Người giàu luôn có thứ xa xỉ này."
+        },
+        {
+            "en": "If I had, I'd be a rich man, wouldn't I?",
+            "vi": "Nếu có, tôi sẽ là một người giàu có, phải không?"
+        }
+    ],
+    "words_form": [
+        "richest"
+    ],
+    "meaning_vi": "giàu có"
+}

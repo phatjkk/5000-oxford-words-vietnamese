@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈsərfəs/"
+    ],
+    "synonyms": [
+        "exterior",
+        "interior",
+        "face",
+        "coating",
+        "gradient"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a surface is the outer face or side of something.",
+            "vi": "Định nghĩa của một bề mặt là mặt bên ngoài hoặc mặt bên của một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "Surface is defined as to cause to appear, to come to the top or to finish the outer part of something.",
+            "vi": "Bề mặt được định nghĩa là nguyên nhân xuất hiện, lên trên cùng hoặc hoàn thiện phần bên ngoài của một thứ gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Surface means relating to the outer or superficial characteristics, or carrying something on land or sea.",
+            "vi": "Bề mặt có nghĩa là liên quan đến các đặc điểm bên ngoài hoặc bề ngoài, hoặc mang một cái gì đó trên đất liền hoặc trên biển."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the surface  To all intents and purposes; to all outward appearances: A soldier who, on the surface, appeared brave and patriotic.",
+            "vi": "bề ngoài Đối với tất cả các ý định và mục đích; với tất cả những hình thức bên ngoài: Một người lính bề ngoài tỏ ra dũng cảm và yêu nước."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The last time he went to the surface, it had rained huge raindrops.",
+            "vi": "Lần cuối cùng anh ta lên mặt nước, trời đã đổ những hạt mưa rất lớn."
+        },
+        {
+            "en": "Yet, wasn't it better if the issue didn't surface for a while?",
+            "vi": "Tuy nhiên, không phải là tốt hơn nếu vấn đề không xuất hiện trong một thời gian?"
+        }
+    ],
+    "words_form": [
+        "surfaced",
+        "surfaces",
+        "surfacing"
+    ],
+    "meaning_vi": "bề mặt"
+}

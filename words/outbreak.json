@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈaʊtˌbreɪk/"
+    ],
+    "synonyms": [
+        "eruption",
+        "onset",
+        "ebullition",
+        "pandemic",
+        "epizootic"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an outbreak is a sudden increase, outburst or riot.",
+            "vi": "Định nghĩa bùng phát là sự gia tăng đột ngột, bùng phát hoặc bạo loạn."
+        },
+        {
+            "pos": "verb",
+            "en": "(intransitive) To burst out.",
+            "vi": "(intransitive) Để bùng phát."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The origin of the outbreak is uncertain.",
+            "vi": "Nguồn gốc của đợt bùng phát là không chắc chắn."
+        },
+        {
+            "en": "The cause was the outbreak of the Thirty Years' War (1618).",
+            "vi": "Nguyên nhân là do Chiến tranh Ba mươi năm bùng nổ (1618)."
+        }
+    ],
+    "words_form": [
+        "outbreaks"
+    ],
+    "meaning_vi": "sự bùng nổ"
+}

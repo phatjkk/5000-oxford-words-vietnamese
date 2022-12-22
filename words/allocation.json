@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌæləˈkeɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "distribution",
+        "quantum",
+        "ration",
+        "allotment",
+        "apportionment"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A thing or amount allocated.",
+            "vi": "Một thứ hoặc số tiền được phân bổ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The numbers in square brackets indicate the provisional allocation of maximum marks per section of the paper.",
+            "vi": "Các con số trong ngoặc vuông cho biết sự phân bổ tạm thời số điểm tối đa cho mỗi phần của bài báo."
+        },
+        {
+            "en": "Allocation of the oral amoxicillin and placebo was reported as being double blind.",
+            "vi": "Phân bổ amoxicillin uống và giả dược được báo cáo là mù đôi."
+        }
+    ],
+    "words_form": [
+        "allocations"
+    ],
+    "meaning_vi": "phân bổ"
+}

@@ -1,0 +1,32 @@
+{
+    "spelling": [
+        "/kʊd/",
+        "/kəd/"
+    ],
+    "synonyms": [
+        "would",
+        "should",
+        "might",
+        "cannot",
+        "must"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of could is often used in the place of \"can\" to show a little doubt.",
+            "vi": "Định nghĩa của could thường được sử dụng thay cho \"can\" để thể hiện một chút nghi ngờ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I wish you could hear yourself talking.",
+            "vi": "Tôi ước bạn có thể nghe thấy chính mình nói chuyện."
+        },
+        {
+            "en": "What could he do about it but lose more sleep?",
+            "vi": "Anh ấy có thể làm gì ngoài việc mất ngủ nhiều hơn?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "có thể"
+}

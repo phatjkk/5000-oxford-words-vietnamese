@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/trænˈzækʃ(ə)n/",
+        "/trænˈsækʃ(ə)n/"
+    ],
+    "synonyms": [
+        "exchange",
+        "affair",
+        "deal",
+        "deed",
+        "undertaking"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a transaction is an exchange, or an instance where business is done or something is bought or sold.",
+            "vi": "Định nghĩa của một giao dịch là một cuộc trao đổi, hoặc một ví dụ nơi hoạt động kinh doanh được thực hiện hoặc một thứ gì đó được mua hoặc bán."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The council meets once a week for the transaction of the business of government.",
+            "vi": "Hội đồng họp mỗi tuần một lần để trao đổi về công việc kinh doanh của chính phủ."
+        },
+        {
+            "en": "Such a transaction might be of two kinds.",
+            "vi": "Một giao dịch như vậy có thể có hai loại."
+        }
+    ],
+    "words_form": [
+        "transactions"
+    ],
+    "meaning_vi": "giao dịch"
+}

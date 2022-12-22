@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/jɛt/"
+    ],
+    "synonyms": [
+        "however",
+        "but",
+        "notwithstanding",
+        "although",
+        "precede"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Yet means at this time, up to now or at a future time.",
+            "vi": "Tuy nhiên, có nghĩa là tại thời điểm này, cho đến bây giờ hoặc tại một thời điểm trong tương lai."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Yet is defined as nevertheless or but.",
+            "vi": "Yet được định nghĩa là tuy nhiên hoặc nhưng."
+        },
+        {
+            "pos": "verb",
+            "en": "(dialectal) To melt; found; cast, as metal.",
+            "vi": "(phương ngữ) Để làm tan chảy; tìm; đúc, như kim loại."
+        },
+        {
+            "pos": "noun",
+            "en": "(dialectal) A metal pan or boiler; yetling.",
+            "vi": "(phương ngữ) Một chảo kim loại hoặc nồi hơi; chưa chết."
+        },
+        {
+            "pos": "idiom",
+            "en": "as yet  Up to the present time; up to now.",
+            "vi": "Tính đến thời điểm hiện tại; đến nay."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was early, yet we were all ready for bed after our long hike.",
+            "vi": "Trời còn sớm, nhưng tất cả chúng tôi đã sẵn sàng đi ngủ sau chuyến đi bộ dài."
+        },
+        {
+            "en": "He would often say the exact opposite of what he had said on a previous occasion, yet both would be right.",
+            "vi": "Anh ấy thường nói hoàn toàn ngược lại với những gì anh ấy đã nói trong một dịp trước đó, nhưng cả hai đều đúng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chưa"
+}

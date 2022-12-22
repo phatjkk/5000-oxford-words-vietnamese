@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/weɪ/"
+    ],
+    "synonyms": [
+        "heft",
+        "carry weight",
+        "turn over",
+        "thoughts",
+        "weigh-in"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To have a certain weight.",
+            "vi": "Để có một trọng lượng nhất định."
+        },
+        {
+            "pos": "noun",
+            "en": "Way. Used in the phrase under weigh.",
+            "vi": "Đường. Được sử dụng trong cụm từ dưới cân nặng."
+        },
+        {
+            "pos": "idiom",
+            "en": "weigh down  to make bend downward as with added weight to burden or bear down on so as to oppress or depress",
+            "vi": "đè nặng để làm cho cúi xuống như có thêm sức nặng để gánh nặng hoặc chịu đựng để áp bức hoặc làm phiền"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I weigh 105 lbs now!",
+            "vi": "Bây giờ tôi nặng 105 lbs!"
+        },
+        {
+            "en": "Yeah, you must weigh all of fifty pounds.",
+            "vi": "Phải, bạn phải nặng tất cả 50 pound."
+        }
+    ],
+    "words_form": [
+        "weighed",
+        "weighing",
+        "weighs"
+    ],
+    "meaning_vi": "cân nhắc"
+}

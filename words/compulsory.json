@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/kəmˈpəlsəri/"
+    ],
+    "synonyms": [
+        "mandatory",
+        "obligatory",
+        "statutory",
+        "required",
+        "imperative"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "That must be done, undergone, etc.; obligatory; required.",
+            "vi": "Điều đó phải được thực hiện, trải qua, v.v.; bắt buộc; yêu cầu."
+        },
+        {
+            "pos": "noun",
+            "en": "Something that is compulsory or required.",
+            "vi": "Một cái gì đó là bắt buộc hoặc bắt buộc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Much, however, is effected towards unification, by compulsory military service, it being the principle that no man shall serve within the military district to which he belongs.",
+            "vi": "Tuy nhiên, phần lớn được thực hiện theo hướng thống nhất, bởi nghĩa vụ quân sự bắt buộc, đó là nguyên tắc không một người đàn ông nào được phục vụ trong quân khu mà anh ta trực thuộc."
+        },
+        {
+            "en": "Primary education is free and secular, and is compulsory for children of 6 to 14 years.",
+            "vi": "Giáo dục tiểu học là miễn phí và thế tục, và là bắt buộc đối với trẻ em từ 6 đến 14 tuổi."
+        }
+    ],
+    "words_form": [
+        "compulsory"
+    ],
+    "meaning_vi": "bắt buộc"
+}

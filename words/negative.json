@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/ˈnɛɡədɪv/"
+    ],
+    "synonyms": [
+        "cynical",
+        "negativism",
+        "detrimental",
+        "contradictory",
+        "nullifying"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A negative is defined as a person or thing that refuses or denies, or is undesirable, unwanted or disliked.",
+            "vi": "Một tiêu cực được định nghĩa là một người hoặc vật từ chối hoặc phủ nhận, hoặc không mong muốn, không mong muốn hoặc không thích."
+        },
+        {
+            "pos": "verb",
+            "en": "To refuse to approve; veto.",
+            "vi": "Từ chối phê duyệt; quyền phủ quyết."
+        },
+        {
+            "pos": "adjective",
+            "en": "(chemistry) Of or relating to an ion, the anion, that is attracted to a positive electrode.",
+            "vi": "(hóa học) Của hoặc liên quan đến một ion, anion, bị hút vào một điện cực dương."
+        },
+        {
+            "pos": "adverb",
+            "en": "No! not so!",
+            "vi": "Không! không phải như vậy!"
+        },
+        {
+            "pos": "interjection",
+            "en": "No! not so!",
+            "vi": "Không! không phải như vậy!"
+        },
+        {
+            "pos": "idiom",
+            "en": "in the negative  in refusal or denial of a plan, suggestion, etc. with a denial or negative answer",
+            "vi": "phủ định trong việc từ chối hoặc từ chối một kế hoạch, gợi ý, v.v. với một câu trả lời từ chối hoặc phủ định"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What makes you so negative about him?",
+            "vi": "Điều gì khiến bạn tiêu cực về anh ấy?"
+        },
+        {
+            "en": "I try to resurrect my first impression of Howard Abbott not colored by Quinn's negative appraisal.",
+            "vi": "Tôi cố gắng phục hồi ấn tượng đầu tiên của mình về Howard Abbott không bị tô màu bởi sự đánh giá tiêu cực của Quinn."
+        }
+    ],
+    "words_form": [
+        "negatived",
+        "negatives",
+        "negativing"
+    ],
+    "meaning_vi": "tiêu cực"
+}

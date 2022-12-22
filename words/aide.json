@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/eɪd/"
+    ],
+    "synonyms": [
+        "adjutant",
+        "lieutenant",
+        "assistant",
+        "helper",
+        "orderly"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An assistant; a helper.",
+            "vi": "Người trợ lý; một người trợ giúp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The secretary acts as an aide to the principal.",
+            "vi": "Thư ký đóng vai trò như một phụ tá cho hiệu trưởng."
+        },
+        {
+            "en": "After the aide let out a government secret, he was fired from his position.",
+            "vi": "Sau khi người phụ tá tiết lộ một bí mật của chính phủ, anh ta đã bị sa thải khỏi vị trí của mình."
+        }
+    ],
+    "words_form": [
+        "aides"
+    ],
+    "meaning_vi": "phụ tá"
+}

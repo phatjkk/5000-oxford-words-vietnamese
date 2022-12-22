@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈroʊˌbɑt/",
+        "/ˈroʊbət/"
+    ],
+    "synonyms": [
+        "android",
+        "machine",
+        "cyborg",
+        "humanoid",
+        "automaton"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A mechanical device that sometimes resembles a human and is capable of performing a variety of often complex human tasks on command or by being programmed in advance.",
+            "vi": "Một thiết bị cơ khí đôi khi giống con người và có khả năng thực hiện nhiều nhiệm vụ phức tạp của con người theo lệnh hoặc được lập trình trước."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Robot\" is a term almost one hundred years old, created in fiction before becoming a reality.",
+            "vi": "\"Robot\" là một thuật ngữ gần một trăm năm tuổi, được tạo ra trong tiểu thuyết trước khi trở thành hiện thực."
+        },
+        {
+            "en": "But even if I had a robot that knew everything, I couldn't really say, \"Tell me every custom they have here\" and be fully informed.",
+            "vi": "Nhưng ngay cả khi tôi có một con robot biết mọi thứ, tôi thực sự không thể nói, \"Hãy nói cho tôi biết mọi phong tục họ có ở đây\" và được thông báo đầy đủ."
+        }
+    ],
+    "words_form": [
+        "robots"
+    ],
+    "meaning_vi": "robot"
+}

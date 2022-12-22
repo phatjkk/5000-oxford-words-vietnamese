@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/nəˈɡlɛkt/"
+    ],
+    "synonyms": [
+        "fault",
+        "omit",
+        "delinquent",
+        "laugh-off",
+        "depreciate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To pay little or no attention to; fail to heed; disregard.",
+            "vi": "Để ý ít hoặc không chú ý đến; không để ý đến; xem thường."
+        },
+        {
+            "pos": "noun",
+            "en": "The state or fact of being neglected.",
+            "vi": "Trạng thái hoặc thực tế của việc bị bỏ quên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If you neglect to do so, we will be gone before you arrive.",
+            "vi": "Nếu bạn sơ ý làm như vậy, chúng tôi sẽ biến mất trước khi bạn đến."
+        },
+        {
+            "en": "In order to keep a tidy kitchen, do not neglect to wash your dishes.",
+            "vi": "Để giữ một nhà bếp ngăn nắp, đừng bỏ qua việc rửa bát của bạn."
+        }
+    ],
+    "words_form": [
+        "neglected",
+        "neglecting",
+        "neglects"
+    ],
+    "meaning_vi": "bỏ mặc"
+}

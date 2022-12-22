@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈsɪɡnətʃər/",
+        "/ˈsɪɡnəˌtʃʊr/"
+    ],
+    "synonyms": [
+        "autograph",
+        "trademark",
+        "stamp",
+        "sign",
+        "mark"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person's name written by that person; also, a representation of this in a mark, stamp, deputy's handwriting, etc.",
+            "vi": "Tên của một người được viết bởi người đó; ngoài ra, sự thể hiện điều này trong một nhãn hiệu, con dấu, chữ viết tay của phó, v.v."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a product, as clothing, which is distinguished by a label bearing the stylized signature of its designer.",
+            "vi": "Chỉ định hoặc của một sản phẩm, như quần áo, được phân biệt bằng nhãn có chữ ký cách điệu của nhà thiết kế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His paintings were so unique as to require no signature for identification.",
+            "vi": "Những bức tranh của ông độc đáo đến mức không cần chữ ký để nhận dạng."
+        },
+        {
+            "en": "Just need your signature, he said, pulling a file out of one of the drawers in his desk.",
+            "vi": "Anh ta nói, chỉ cần chữ ký của bạn, lôi một tập tài liệu ra khỏi một trong những ngăn kéo trên bàn làm việc."
+        }
+    ],
+    "words_form": [
+        "signatures"
+    ],
+    "meaning_vi": "chữ ký"
+}

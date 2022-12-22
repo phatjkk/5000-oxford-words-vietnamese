@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈdɪf(ə)rənt/"
+    ],
+    "synonyms": [
+        "distinct",
+        "various",
+        "unlike",
+        "dissimilar",
+        "varying"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In a different way or manner; otherwise.",
+            "vi": "Theo một cách hoặc cách thức khác; nếu không thì."
+        },
+        {
+            "pos": "adjective",
+            "en": "Not the same; distinct; separate; other.",
+            "vi": "Không giống nhau; riêng biệt; riêng rẽ; khác."
+        },
+        {
+            "pos": "noun",
+            "en": "(mathematics) The different ideal.",
+            "vi": "(toán học) Lý tưởng khác nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There's nothing wrong with having a different opinion.",
+            "vi": "Không có gì sai khi có một ý kiến ​​khác."
+        },
+        {
+            "en": "He's a different person, entirely.",
+            "vi": "Anh ấy hoàn toàn là một con người khác."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khác nhau"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/rəˈsit/"
+    ],
+    "synonyms": [
+        "receiving",
+        "arrival",
+        "intake",
+        "acquiring",
+        "release"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To give a receipt.",
+            "vi": "Để đưa ra một biên lai."
+        },
+        {
+            "pos": "noun",
+            "en": "Receipt is defined as to accept something given to you or is a record of money being received.",
+            "vi": "Biên lai được định nghĩa là chấp nhận một cái gì đó được đưa cho bạn hoặc là một bản ghi nhận tiền."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He ran down the receipt that was found in Byrne's car.",
+            "vi": "Anh chạy xuống tờ biên lai được tìm thấy trong xe của Byrne."
+        },
+        {
+            "en": "She looked more closely at the paper she'd just signed and flipped the page to the receipt he'd stapled there.",
+            "vi": "Cô nhìn kỹ hơn vào tờ giấy cô vừa ký và lật trang đến tờ biên lai mà anh đã ghim ở đó."
+        }
+    ],
+    "words_form": [
+        "receipts"
+    ],
+    "meaning_vi": "biên lai"
+}

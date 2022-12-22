@@ -1,0 +1,59 @@
+{
+    "spelling": [
+        "/seɪ/"
+    ],
+    "synonyms": [
+        "state",
+        "announce",
+        "remark",
+        "speak",
+        "declare"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a say is the right to speak or choose.",
+            "vi": "Định nghĩa của nói là quyền được nói hoặc lựa chọn."
+        },
+        {
+            "pos": "adverb",
+            "en": "Say means approximately or for example.",
+            "vi": "Nói có nghĩa là gần đúng hoặc ví dụ."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express surprise or appeal for someone's attention.",
+            "vi": "Được sử dụng để bày tỏ sự ngạc nhiên hoặc kêu gọi sự chú ý của ai đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To utter, pronounce, or speak.",
+            "vi": "Để thốt ra, phát âm hoặc nói."
+        },
+        {
+            "pos": "conjunction",
+            "en": "(informal) Used to introduce a hypothetical.",
+            "vi": "(không chính thức) Được sử dụng để giới thiệu một giả thuyết."
+        },
+        {
+            "pos": "idiom",
+            "en": "I say  Used preceding an utterance to call attention to it: I say, do you have the time?.Used as an exclamation of surprise, delight, or dismay.",
+            "vi": "I say Được sử dụng trước một câu nói để kêu gọi sự chú ý đến nó: Tôi nói, bạn có thời gian không?. Được sử dụng như một câu cảm thán về sự ngạc nhiên, vui mừng hoặc mất tinh thần."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I like the way you say thank you.",
+            "vi": "Tôi thích cách bạn nói cảm ơn."
+        },
+        {
+            "en": "I won't say anything to anyone.",
+            "vi": "Tôi sẽ không nói bất cứ điều gì với bất cứ ai."
+        }
+    ],
+    "words_form": [
+        "said",
+        "says"
+    ],
+    "meaning_vi": "nói"
+}

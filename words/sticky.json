@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈstɪki/"
+    ],
+    "synonyms": [
+        "adhesive",
+        "muggy",
+        "sultry",
+        "gummy",
+        "tacky"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Potentially difficult to escape from.",
+            "vi": "Có khả năng khó thoát khỏi."
+        },
+        {
+            "pos": "noun",
+            "en": "A sticky note, such as a post-it note.",
+            "vi": "Một ghi chú dính, chẳng hạn như một ghi chú post-it."
+        },
+        {
+            "pos": "verb",
+            "en": "(Internet, bulletin boards) To fix a thread at the top of the list of topics or threads so as to keep it in view.",
+            "vi": "(Internet, bảng thông báo) Để sửa một chủ đề ở đầu danh sách các chủ đề hoặc chủ đề để giữ cho nó được hiển thị."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He dropped the sticky pouch in her hand.",
+            "vi": "Anh đánh rơi cái túi nhớp nháp trên tay cô."
+        },
+        {
+            "en": "The evening was sticky and hot.",
+            "vi": "Buổi tối nhớp nháp và nóng nực."
+        }
+    ],
+    "words_form": [
+        "stickier",
+        "stickiest"
+    ],
+    "meaning_vi": "dính"
+}

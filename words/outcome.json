@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈaʊtˌkəm/"
+    ],
+    "synonyms": [
+        "result",
+        "consequence",
+        "corollary",
+        "end",
+        "issue"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The outcome is the final result of something, or the way things end up.",
+            "vi": "Kết quả là kết quả cuối cùng của một điều gì đó, hoặc cách mọi thứ kết thúc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This was the only outcome we could allow.",
+            "vi": "Đây là kết quả duy nhất mà chúng tôi có thể cho phép."
+        },
+        {
+            "en": "We're the only ones who can influence the outcome of this.",
+            "vi": "Chúng tôi là những người duy nhất có thể ảnh hưởng đến kết quả của việc này."
+        }
+    ],
+    "words_form": [
+        "outcomes"
+    ],
+    "meaning_vi": "kết quả"
+}

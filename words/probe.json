@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/proʊb/"
+    ],
+    "synonyms": [
+        "investigate",
+        "investigation",
+        "poke",
+        "quiz",
+        "scout"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To probe is to explore or investigate something.",
+            "vi": "Thăm dò là để khám phá hoặc điều tra một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a probe is an investigation into something or a blunt surgical tool used for exploratory medical testing.",
+            "vi": "Định nghĩa của thăm dò là một cuộc điều tra về một cái gì đó hoặc một công cụ phẫu thuật cùn được sử dụng để kiểm tra y tế thăm dò."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A model of Ford automobile.",
+            "vi": "Một mô hình ô tô của Ford."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We are therefore forced to pause awhile, and probe beneath the surface.",
+            "vi": "Do đó, chúng tôi buộc phải tạm dừng một lúc và thăm dò bên dưới bề mặt."
+        },
+        {
+            "en": "(I) Animal removed from its shell, a probe g passed into the sub-pallial chamber through the excurrent siphonal notch.",
+            "vi": "(I) Động vật được lấy ra khỏi vỏ, một đầu dò g được đưa vào khoang phụ qua rãnh xi phông."
+        }
+    ],
+    "words_form": [
+        "probed",
+        "probes",
+        "probing"
+    ],
+    "meaning_vi": "thăm dò"
+}

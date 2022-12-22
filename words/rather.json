@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/ˈræðər/"
+    ],
+    "synonyms": [
+        "fairly",
+        "quite",
+        "certainly",
+        "by choice",
+        "preferably"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "More accurately; more precisely.",
+            "vi": "Chính xác hơn; chính xác hơn."
+        },
+        {
+            "pos": "interjection",
+            "en": "(chiefly brit.) Yes; certainly.",
+            "vi": "(chủ yếu là anh.) Có; chắc chắn."
+        },
+        {
+            "pos": "verb",
+            "en": "(nonstandard or dialectal) To prefer; to prefer to.",
+            "vi": "(không chuẩn hoặc phương ngữ) Thích hơn; thích hơn."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Prior; earlier; former.",
+            "vi": "(lỗi thời) Trước đó; sớm hơn; trước."
+        },
+        {
+            "pos": "idiom",
+            "en": "had rather  would rather",
+            "vi": "thà thà"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "No, if one of us has to get snowed in up here, I'd rather it was me.",
+            "vi": "Không, nếu ai trong chúng ta phải bị tuyết ở trên này, tôi thà rằng đó là tôi."
+        },
+        {
+            "en": "Thanks, but I'd rather go alone.",
+            "vi": "Cảm ơn, nhưng tôi muốn đi một mình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hơn là"
+}

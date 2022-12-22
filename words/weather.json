@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/ˈwɛðər/"
+    ],
+    "synonyms": [
+        "climate",
+        "overcome",
+        "tan",
+        "pulverize",
+        "endure"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The state of the atmosphere at a given time and place, with respect to variables such as temperature, moisture, wind velocity, and barometric pressure.",
+            "vi": "Trạng thái của khí quyển tại một thời điểm và địa điểm nhất định, liên quan đến các biến số như nhiệt độ, độ ẩm, vận tốc gió và áp suất khí quyển."
+        },
+        {
+            "pos": "verb",
+            "en": "Weather means to be affected by climate.",
+            "vi": "Thời tiết có nghĩa là bị ảnh hưởng bởi khí hậu."
+        },
+        {
+            "pos": "adjective",
+            "en": "Relating to or used in weather forecasting.",
+            "vi": "Liên quan đến hoặc được sử dụng trong dự báo thời tiết."
+        },
+        {
+            "pos": "idiom",
+            "en": "make heavy weather of  To exaggerate the difficulty of something to be done.",
+            "vi": "làm cho thời tiết nặng nề của Để phóng đại sự khó khăn của một cái gì đó được thực hiện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm surprised to say the weather was better.",
+            "vi": "Tôi ngạc nhiên khi nói rằng thời tiết đã tốt hơn."
+        },
+        {
+            "en": "The weather was balmy, adding to the enjoyment of the day.",
+            "vi": "Thời tiết mát mẻ, làm tăng thêm sự thú vị trong ngày."
+        }
+    ],
+    "words_form": [
+        "weathered",
+        "weathers"
+    ],
+    "meaning_vi": "thời tiết"
+}

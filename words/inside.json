@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/ɪnˈsaɪd/"
+    ],
+    "synonyms": [
+        "bounded",
+        "interior",
+        "indoors",
+        "exclusive",
+        "inward"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Into or in the interior; within.",
+            "vi": "Trong hoặc trong nội thất; ở trong."
+        },
+        {
+            "pos": "noun",
+            "en": "Inside means the inner area.",
+            "vi": "Inside có nghĩa là khu vực bên trong."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of inside is inner, indoor or private.",
+            "vi": "Định nghĩa của bên trong là bên trong, trong nhà hoặc riêng tư."
+        },
+        {
+            "pos": "preposition",
+            "en": "Inside is defined as the inner part of something.",
+            "vi": "Inside được định nghĩa là phần bên trong của một thứ gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "inside out  With the inner surface turned out; reversed: Wore the sweatshirt inside out.As completely as possible; thoroughly: Knew the city inside out.",
+            "vi": "từ trong ra ngoài Với mặt trong quay ra ngoài; đảo ngược: Làm mặc áo len từ trong ra ngoài. càng hoàn toàn càng tốt; kỹ lưỡng: Biết thành phố từ trong ra ngoài."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was not a sound inside of the cave.",
+            "vi": "Không có một âm thanh nào bên trong hang động."
+        },
+        {
+            "en": "She placed the letter inside and lifted the flag.",
+            "vi": "Cô đặt lá thư bên trong và nâng lá cờ lên."
+        }
+    ],
+    "words_form": [
+        "insides"
+    ],
+    "meaning_vi": "bên trong"
+}

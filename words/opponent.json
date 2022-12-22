@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/əˈpoʊnənt/"
+    ],
+    "synonyms": [
+        "competitor",
+        "defender",
+        "colleague",
+        "partner",
+        "helper"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One that opposes another or others, as in a battle, contest, or debate.",
+            "vi": "Một trong những phản đối khác hoặc những người khác, như trong một trận chiến, cuộc thi hoặc tranh luận."
+        },
+        {
+            "pos": "adjective",
+            "en": "(rare) Opposite, as in position.",
+            "vi": "(hiếm) Đối lập, như ở vị trí."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"A battle is only truly won when the opponent believes he's been beaten,\" he said.",
+            "vi": "Ông nói: “Một trận chiến chỉ thực sự chiến thắng khi đối thủ tin rằng mình đã bị đánh bại."
+        },
+        {
+            "en": "The opponent of the eldest hesitated before handing her the weapon.",
+            "vi": "Đối thủ của anh cả lưỡng lự trước khi giao vũ khí cho cô."
+        }
+    ],
+    "words_form": [
+        "opponents"
+    ],
+    "meaning_vi": "phản đối"
+}

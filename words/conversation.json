@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˌkɑnvərˈseɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "chat",
+        "communication",
+        "discourse",
+        "gossip",
+        "palaver"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a conversation is a sharing of thoughts and ideas.",
+            "vi": "Định nghĩa của một cuộc trò chuyện là sự chia sẻ những suy nghĩ và ý tưởng."
+        },
+        {
+            "pos": "verb",
+            "en": "(nonstandard, intransitive) To engage in conversation (with).",
+            "vi": "(không chuẩn, không trực quan) Để tham gia vào cuộc trò chuyện (với)."
+        },
+        {
+            "pos": "idiom",
+            "en": "make conversation  to engage in light, informal conversation, often, specif., out of mere politeness",
+            "vi": "làm cho cuộc trò chuyện trở thành một cuộc trò chuyện nhẹ nhàng, thân mật, thường xuyên, cụ thể, chỉ vì phép lịch sự"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Had he heard her conversation with Sarah?",
+            "vi": "Anh ấy đã nghe cuộc trò chuyện của cô ấy với Sarah chưa?"
+        },
+        {
+            "en": "I had no idea where this conversation was going.",
+            "vi": "Tôi không biết cuộc trò chuyện này sẽ đi đến đâu."
+        }
+    ],
+    "words_form": [
+        "conversations"
+    ],
+    "meaning_vi": "cuộc hội thoại"
+}

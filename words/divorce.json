@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈvɔrs/"
+    ],
+    "synonyms": [
+        "detachment",
+        "detach",
+        "nullify",
+        "dissolution",
+        "estrangement"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A separation between things that were once connected or associated.",
+            "vi": "Một sự tách biệt giữa những thứ đã từng được kết nối hoặc liên kết."
+        },
+        {
+            "pos": "verb",
+            "en": "To end marriage with (one's spouse) by way of legal divorce.",
+            "vi": "Kết thúc hôn nhân với (vợ / chồng của một người) bằng cách ly hôn hợp pháp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The chief subjects of discussion were: the relations of faith and modern thought, the supply and training of the clergy, education, foreign missions, revision and \"enrichment\" of the Prayer-Book, the relation of the Church to \"ministries of healing\" (Christian Science, &c.), the questions of marriage and divorce, organization of the Anglican Church, reunion with other Churches.",
+            "vi": "Các chủ đề chính của cuộc thảo luận là: các mối quan hệ của đức tin và tư tưởng hiện đại, việc cung cấp và đào tạo giáo sĩ, giáo dục, truyền giáo nước ngoài, việc sửa đổi và \"làm giàu\" Sách Cầu nguyện, mối quan hệ của Giáo hội với \"các mục vụ chữa bệnh\" (Khoa học Cơ đốc, & c.), Các câu hỏi về hôn nhân và ly hôn, tổ chức của Giáo hội Anh giáo, sự đoàn tụ với các Giáo hội khác."
+        },
+        {
+            "en": "\"I never asked you to front for me – and I wasn't the one who brought up divorce,\" he shot back.",
+            "vi": "\"Tôi chưa bao giờ yêu cầu bạn đứng trước mặt tôi - và tôi không phải là người đưa ra vụ ly hôn\", anh ta đáp trả."
+        }
+    ],
+    "words_form": [
+        "divorced",
+        "divorces",
+        "divorcing"
+    ],
+    "meaning_vi": "ly hôn"
+}

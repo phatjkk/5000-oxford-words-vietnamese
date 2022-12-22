@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/faɪv/"
+    ],
+    "synonyms": [
+        "pentagonal",
+        "quintuple",
+        "pentagram",
+        "v",
+        "quintuplet"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The fifth in a set or sequence.",
+            "vi": "Thứ năm trong một tập hợp hoặc trình tự."
+        },
+        {
+            "pos": "adjective",
+            "en": "Totaling one more than four.",
+            "vi": "Tổng cộng một hơn bốn."
+        },
+        {
+            "pos": "idiom",
+            "en": "give me  Used when offering a high-five, as in congratulation.",
+            "vi": "cho tôi Được sử dụng khi cung cấp một high-five, như trong lời chúc mừng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I've waited at that station for five hours.",
+            "vi": "Tôi đã đợi ở nhà ga đó năm tiếng đồng hồ."
+        },
+        {
+            "en": "I'll see you at five, then.",
+            "vi": "Tôi sẽ gặp bạn lúc năm giờ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "năm"
+}

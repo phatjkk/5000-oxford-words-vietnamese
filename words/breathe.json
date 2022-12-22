@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/brið/"
+    ],
+    "synonyms": [
+        "exhale",
+        "smell",
+        "gasp",
+        "sniff",
+        "breath"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be alive; live.",
+            "vi": "Để được sống; trực tiếp."
+        },
+        {
+            "pos": "idiom",
+            "en": "breathe down (someone's) neck  To threaten by proximity, especially by pursuing closely. To watch or monitor closely, often annoyingly: The boss was breathing down my neck all morning.",
+            "vi": "thở xuống cổ (của ai đó) Để đe dọa khi ở gần, đặc biệt là bằng cách theo đuổi sát sao. Để theo dõi hoặc giám sát chặt chẽ, thường thật khó chịu: Ông chủ đã thở dài trên cổ của tôi suốt buổi sáng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her chest was too tight for her to breathe deeply.",
+            "vi": "Ngực cô quá căng khiến cô không thể thở sâu."
+        },
+        {
+            "en": "Rissa forced herself to breathe steadily.",
+            "vi": "Rissa buộc mình phải thở đều đặn."
+        }
+    ],
+    "words_form": [
+        "breathed",
+        "breathes",
+        "breathing"
+    ],
+    "meaning_vi": "hít thở"
+}

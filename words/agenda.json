@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/əˈdʒɛndə/"
+    ],
+    "synonyms": [
+        "plan",
+        "objective",
+        "docket",
+        "program",
+        "consensus"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A list of things to be discussed in a meeting.",
+            "vi": "Một danh sách những điều sẽ được thảo luận trong một cuộc họp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "So, what's on the agenda today, Princess?",
+            "vi": "Vậy, chương trình làm việc hôm nay là gì, thưa Công chúa?"
+        },
+        {
+            "en": "\"Let's just say, you're not the only one here with a hidden agenda,\" he replied.",
+            "vi": "\"Hãy nói rằng, bạn không phải là người duy nhất ở đây có một chương trình làm việc ẩn,\" anh ta trả lời."
+        }
+    ],
+    "words_form": [
+        "agendas",
+        "agendum"
+    ],
+    "meaning_vi": "chương trình nghị sự"
+}

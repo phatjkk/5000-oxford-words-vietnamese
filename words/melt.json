@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/mɛlt/"
+    ],
+    "synonyms": [
+        "dissolve",
+        "liquefy",
+        "sweat",
+        "merge",
+        "flow"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To soften (someone's feelings); make gentle or tender.",
+            "vi": "Làm mềm (cảm xúc của ai đó); làm cho nhẹ nhàng hoặc dịu dàng."
+        },
+        {
+            "pos": "noun",
+            "en": "The state of being melted.",
+            "vi": "Trạng thái bị nấu chảy."
+        },
+        {
+            "pos": "idiom",
+            "en": "melt down  to melt (previously formed metal) so that it can be cast or molded again",
+            "vi": "nấu chảy để nấu chảy (kim loại đã hình thành trước đó) để có thể đúc hoặc đúc lại"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She'll melt when she sees you.",
+            "vi": "Cô ấy sẽ tan chảy khi nhìn thấy bạn."
+        },
+        {
+            "en": "This pond has no stream passing through it to melt or wear away the ice.",
+            "vi": "Ao này không có dòng suối nào chảy qua để làm tan chảy hoặc bào mòn băng."
+        }
+    ],
+    "words_form": [
+        "melted",
+        "melting",
+        "melts"
+    ],
+    "meaning_vi": "tan chảy"
+}

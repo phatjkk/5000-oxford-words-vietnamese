@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/kənˈtɛnt/"
+    ],
+    "synonyms": [
+        "happy",
+        "satisfied",
+        "comfortable",
+        "give",
+        "calm"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something contained, as in a receptacle.",
+            "vi": "Một cái gì đó được chứa, như trong một hộp đựng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Ready to accept or acquiesce; willing.",
+            "vi": "Sẵn sàng chấp nhận hoặc đồng ý; sẵn sàng."
+        },
+        {
+            "pos": "verb",
+            "en": "To give contentment or satisfaction; to satisfy; to gratify; to appease.",
+            "vi": "Để cung cấp cho sự hài lòng hoặc hài lòng; để thỏa mãn; để làm hài lòng; xoa dịu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm content to just move forward.",
+            "vi": "Tôi hài lòng để tiến về phía trước."
+        },
+        {
+            "en": "It will analyze and record the nutritional content of your meal.",
+            "vi": "Nó sẽ phân tích và ghi lại thành phần dinh dưỡng trong bữa ăn của bạn."
+        }
+    ],
+    "words_form": [
+        "contented",
+        "contents"
+    ],
+    "meaning_vi": "nội dung"
+}

@@ -1,0 +1,61 @@
+{
+    "spelling": [
+        "/ˈæftər/"
+    ],
+    "synonyms": [
+        "next",
+        "following",
+        "afterwards",
+        "later",
+        "later-on"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "After means a person or thing being behind in position.",
+            "vi": "Sau có nghĩa là một người hoặc vật ở phía sau vị trí."
+        },
+        {
+            "pos": "noun",
+            "en": "(chiefly british) Dessert.",
+            "vi": "(chủ yếu là người Anh) Món tráng miệng."
+        },
+        {
+            "pos": "adverb",
+            "en": "Behind in time; later; next.",
+            "vi": "Đằng sau trong thời gian; một lát sau; Kế tiếp."
+        },
+        {
+            "pos": "adjective",
+            "en": "Subsequent in time or place; later; following.",
+            "vi": "Tiếp theo về thời gian hoặc địa điểm; một lát sau; tiếp theo."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Following or subsequent to the time that.",
+            "vi": "Theo sau hoặc tiếp theo thời gian đó."
+        },
+        {
+            "pos": "affix",
+            "en": "Coming behind or later.",
+            "vi": "Đến sau hoặc muộn hơn."
+        },
+        {
+            "pos": "idiom",
+            "en": "after all  In spite of everything to the contrary; nevertheless: We chose to take the train after all.Everything else having been considered; ultimately: A car is after all a means of transportation.",
+            "vi": "sau khi tất cả, bất chấp mọi thứ trái ngược; tuy nhiên: Rốt cuộc chúng tôi đã chọn đi tàu. Mọi thứ khác đều đã được xem xét; cuối cùng: Một chiếc ô tô xét cho cùng cũng là một phương tiện đi lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He has come after me.",
+            "vi": "Anh ấy đã đến sau tôi."
+        },
+        {
+            "en": "After the service, Alex was unusually silent.",
+            "vi": "Sau buổi lễ, Alex im lặng một cách lạ thường."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sau"
+}

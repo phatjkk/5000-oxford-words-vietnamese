@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈprəʊsɛsə/"
+    ],
+    "synonyms": [
+        "skinner",
+        "slaughterer",
+        "meat person",
+        "meatmarket person"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Central processing unit.",
+            "vi": "Ngôi thứ ba số ít, hiện tại đơn giản biểu thị hình thức tiến hành."
+        },
+        {
+            "pos": "",
+            "en": "A part of a computer, such as the central processing unit, that performs calculations or other manipulations of data.",
+            "vi": "Thao tác dữ liệu trong máy tính. Để biết giải thích về cách máy tính xử lý dữ liệu, hãy xem máy tính và xem lại \"3 chữ C.\" \"Xử lý\" được thêm vào nhiều thuật ngữ, nhưng bản thân từ này luôn ngụ ý \"thực hiện\" hoặc \"thực hiện công việc\" bằng máy tính hoặc thiết bị dựa trên máy tính. Xem xử lý tập trung, xử lý phân tán, xử lý hàng loạt, xử lý giao dịch và xử lý đa xử lý."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She made sure her computer was solely a word processor with no on line capabilities so no one could ever hack into it.",
+            "vi": "Cô đảm bảo rằng máy tính của mình chỉ là một bộ xử lý văn bản không có tính năng trực tuyến để không ai có thể xâm nhập vào nó."
+        },
+        {
+            "en": "The process allowed them to emulate the bit-slice processor on another computer.",
+            "vi": "Quá trình này cho phép chúng mô phỏng bộ xử lý bit-Slice trên một máy tính khác."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "Central processing unit.",
+            "vi": "Ngôi thứ ba số ít, hiện tại đơn giản biểu thị hình thức tiến hành."
+        },
+        {
+            "pos": "",
+            "en": "A part of a computer, such as the central processing unit, that performs calculations or other manipulations of data.",
+            "vi": "Thao tác dữ liệu trong máy tính. Để biết giải thích về cách máy tính xử lý dữ liệu, hãy xem máy tính và xem lại \"3 chữ C.\" \"Xử lý\" được thêm vào nhiều thuật ngữ, nhưng bản thân từ này luôn ngụ ý \"thực hiện\" hoặc \"thực hiện công việc\" bằng máy tính hoặc thiết bị dựa trên máy tính. Xem xử lý tập trung, xử lý phân tán, xử lý hàng loạt, xử lý giao dịch và xử lý đa xử lý."
+        }
+    ]
+}

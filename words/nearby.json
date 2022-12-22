@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈnɪrbaɪ/"
+    ],
+    "synonyms": [
+        "near",
+        "adjacent",
+        "convenient",
+        "contiguous",
+        "close"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Located a short distance away; close at hand.",
+            "vi": "Nằm cách đó không xa; đóng trong tầm tay."
+        },
+        {
+            "pos": "adverb",
+            "en": "Not far away.",
+            "vi": "Không xa lắm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A woman nearby was staring at her.",
+            "vi": "Một người phụ nữ gần đó đang nhìn chằm chằm vào cô."
+        },
+        {
+            "en": "Two uniformed officers nearby turned their heads.",
+            "vi": "Hai sĩ quan mặc sắc phục gần đó quay đầu lại."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "gần đó"
+}

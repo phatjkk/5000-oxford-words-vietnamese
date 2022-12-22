@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ɡrit/"
+    ],
+    "synonyms": [
+        "welcome",
+        "herald",
+        "meet",
+        "salute",
+        "approach"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Greet is defined as to meet or acknowledge, or to welcome and show friendliness.",
+            "vi": "Chào hỏi được định nghĩa là để gặp gỡ hoặc thừa nhận, hoặc chào đón và thể hiện sự thân thiện."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) Mourning, weeping, lamentation.",
+            "vi": "(lỗi thời) Thương tiếc, khóc lóc, than thở."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete except Scotland) Great.",
+            "vi": "(lỗi thời ngoại trừ Scotland) Tuyệt vời."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She did not even get up to greet him.",
+            "vi": "Cô thậm chí còn không đứng dậy để chào anh."
+        },
+        {
+            "en": "She left the door cracked until she heard Jake greet Damian as the leader passed her room.",
+            "vi": "Cô rời khỏi cánh cửa hé mở cho đến khi nghe thấy tiếng Jake chào Damian khi người lãnh đạo đi ngang qua phòng cô."
+        }
+    ],
+    "words_form": [
+        "greeted",
+        "greets"
+    ],
+    "meaning_vi": "chào"
+}

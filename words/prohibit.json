@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/prəˈhɪbɪt/",
+        "/proʊˈhɪbɪt/"
+    ],
+    "synonyms": [
+        "ban",
+        "outlaw",
+        "restrain",
+        "embargo",
+        "verboten"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To prohibit is to forbid someone from doing something or to prevent something from being done.",
+            "vi": "Cấm là cấm ai đó làm điều gì đó hoặc ngăn cản điều gì đó được thực hiện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Indeed, the trouble and expense of these moulds sometimes prohibit its use.",
+            "vi": "Thật vậy, những rắc rối và chi phí của những chiếc khuôn này đôi khi ngăn cấm việc sử dụng nó."
+        },
+        {
+            "en": "Great Britain, instead of agreeing to prohibit the importation of bounty-fed sugar, was allowed to permit it under certain limits.",
+            "vi": "Vương quốc Anh, thay vì đồng ý cấm nhập khẩu đường ăn bằng tiền thưởng, đã cho phép nó theo những giới hạn nhất định."
+        }
+    ],
+    "words_form": [
+        "prohibited",
+        "prohibiting",
+        "prohibits"
+    ],
+    "meaning_vi": "cấm"
+}

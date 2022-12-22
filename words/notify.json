@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈnoʊdəˌfaɪ/"
+    ],
+    "synonyms": [
+        "declare",
+        "divulge",
+        "announce",
+        "enlighten",
+        "give-notice"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Notify is defined as to tell, or to make known.",
+            "vi": "Thông báo được định nghĩa là để nói, hoặc để làm cho biết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Usually. We'll notify his doctor that he was awake briefly today.",
+            "vi": "Thông thường. Chúng tôi sẽ thông báo cho bác sĩ của anh ấy rằng anh ấy đã tỉnh trong một thời gian ngắn hôm nay."
+        },
+        {
+            "en": "You should also notify local law enforcement.",
+            "vi": "Bạn cũng nên thông báo cho cơ quan thực thi pháp luật địa phương."
+        }
+    ],
+    "words_form": [
+        "notified",
+        "notifies",
+        "notifying"
+    ],
+    "meaning_vi": "thông báo"
+}

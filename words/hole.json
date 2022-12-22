@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/hoʊl/"
+    ],
+    "synonyms": [
+        "crevice",
+        "defect",
+        "deep",
+        "hollow",
+        "puncture"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a hole is a hollow place, opening or break in something.",
+            "vi": "Định nghĩa của một cái lỗ là một nơi rỗng, mở ra hoặc vỡ ra trong một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To make a hole or holes in.",
+            "vi": "Để tạo một lỗ hoặc các lỗ trong."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the hole  Having a score below zero. In debt. At a disadvantage.",
+            "vi": "trong lỗ Có điểm dưới 0. Nợ. Ở thế bất lợi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He comes in through a hole in the floor.",
+            "vi": "Anh ta đi vào qua một cái lỗ trên sàn."
+        },
+        {
+            "en": "\"How big is this hole?\" asked Dorothy.",
+            "vi": "\"Cái lỗ này lớn đến mức nào?\" Dorothy hỏi."
+        }
+    ],
+    "words_form": [
+        "holed",
+        "holes",
+        "holing"
+    ],
+    "meaning_vi": "lỗ"
+}

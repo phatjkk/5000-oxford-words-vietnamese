@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈvænɪʃ/"
+    ],
+    "synonyms": [
+        "disappear",
+        "fade",
+        "vaporize",
+        "go away",
+        "evanesce"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Vanish is defined as to disappear quickly.",
+            "vi": "Vanish được định nghĩa là biến mất nhanh chóng."
+        },
+        {
+            "pos": "noun",
+            "en": "(phonetics) The brief terminal part of a vowel or vocal element, differing more or less in quality from the main part.",
+            "vi": "(ngữ âm) Phần đầu cuối ngắn gọn của một nguyên âm hoặc thành phần phát âm, ít nhiều khác biệt về chất lượng so với phần chính."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Didn't he vanish somewhere?",
+            "vi": "Không phải anh ta đã biến mất ở đâu đó?"
+        },
+        {
+            "en": "And then all threads of hope will finally vanish from the fabric of my life.",
+            "vi": "Và rồi tất cả những tia hy vọng cuối cùng sẽ tan biến khỏi kết cấu cuộc đời tôi."
+        }
+    ],
+    "words_form": [
+        "vanished",
+        "vanishes"
+    ],
+    "meaning_vi": "tan biến"
+}

@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈpæləs/"
+    ],
+    "synonyms": [
+        "castle",
+        "mansion",
+        "dwelling",
+        "chateau",
+        "seraglio"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The official residence of a king, emperor, bishop, etc.",
+            "vi": "Nơi ở chính thức của vua, hoàng đế, giám mục, v.v."
+        },
+        {
+            "pos": "verb",
+            "en": "(archaic) To decorate or ornate.",
+            "vi": "(cổ xưa) Để trang trí hoặc trang trí công phu."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(soccer) Crystal Palace Football Club, a football team from London.",
+            "vi": "(bóng đá) Câu lạc bộ bóng đá Crystal Palace, một đội bóng đến từ London."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Some large bird has stolen it from his palace.",
+            "vi": "Một con chim lớn nào đó đã đánh cắp nó khỏi cung điện của anh ta."
+        },
+        {
+            "en": "They tore apart the palace and your cabin.",
+            "vi": "Họ xé nát cung điện và căn nhà của bạn."
+        }
+    ],
+    "words_form": [
+        "palaces"
+    ],
+    "meaning_vi": "cung điện"
+}

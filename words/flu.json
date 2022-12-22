@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/flu/"
+    ],
+    "synonyms": [
+        "grippe",
+        "pandemic",
+        "rabies",
+        "measles",
+        "norovirus"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Influenza.",
+            "vi": "Bệnh cúm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His place is as busy as a country doctor's waiting room in flu season.",
+            "vi": "Chỗ ở của anh nhộn nhịp như phòng chờ của bác sĩ quê mùa cúm."
+        },
+        {
+            "en": "Will wearing a mask protect me from pandemic flu?",
+            "vi": "Đeo khẩu trang có bảo vệ tôi khỏi đại dịch cúm không?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "Cúm"
+}

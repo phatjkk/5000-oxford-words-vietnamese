@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/brænd/"
+    ],
+    "synonyms": [
+        "mark",
+        "brand name",
+        "seal",
+        "hallmark",
+        "brands"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a brand is an identifying name or mark of a company, or a specific product made by a company.",
+            "vi": "Định nghĩa thương hiệu là tên hoặc nhãn hiệu nhận dạng của một công ty hoặc một sản phẩm cụ thể do một công ty sản xuất."
+        },
+        {
+            "pos": "verb",
+            "en": "To mark with a hot iron, as to show ownership.",
+            "vi": "Để đánh dấu bằng bàn ủi nóng, như để thể hiện quyền sở hữu."
+        },
+        {
+            "pos": "adjective",
+            "en": "(advertising) Associated with a particular product, service, or company.",
+            "vi": "(quảng cáo) Liên kết với một sản phẩm, dịch vụ hoặc công ty cụ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She grabbed the note pad and wrote a brand name and quantity.",
+            "vi": "Cô ấy nắm lấy tập giấy và viết tên thương hiệu và số lượng."
+        },
+        {
+            "en": "They moved into a brand new building a couple of months back.",
+            "vi": "Họ đã chuyển đến một tòa nhà hoàn toàn mới vài tháng trước."
+        }
+    ],
+    "words_form": [
+        "branded",
+        "branding",
+        "brands"
+    ],
+    "meaning_vi": "thương hiệu"
+}

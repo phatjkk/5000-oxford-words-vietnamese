@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈtərməˌneɪt/"
+    ],
+    "synonyms": [
+        "eliminate",
+        "end",
+        "cease",
+        "abolish",
+        "stop"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To bring to an end or halt.",
+            "vi": "Để kết thúc hoặc dừng lại."
+        },
+        {
+            "pos": "adjective",
+            "en": "Terminated; limited; bounded; ended.",
+            "vi": "Đã chấm dứt; giới hạn; bị ràng buộc; đã kết thúc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The owner could call in his land and terminate the relation at any time, for any reason, or for none at all.",
+            "vi": "Chủ sở hữu có thể gọi đến đất của mình và chấm dứt mối quan hệ bất cứ lúc nào, vì bất kỳ lý do gì, hoặc không vì lý do gì cả."
+        },
+        {
+            "en": "Both branches terminate in a broad tidal lake immediately above Lisbon.",
+            "vi": "Cả hai nhánh đều kết thúc tại một hồ thủy triều rộng ngay phía trên Lisbon."
+        }
+    ],
+    "words_form": [
+        "terminated",
+        "terminates",
+        "terminating"
+    ],
+    "meaning_vi": "chấm dứt"
+}

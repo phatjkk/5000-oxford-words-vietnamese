@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/əbˈdʒɛktɪv/"
+    ],
+    "synonyms": [
+        "detached",
+        "real",
+        "actual",
+        "scientific",
+        "sure"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Objective is defined as someone or something that is real or not imagined.",
+            "vi": "Khách quan được định nghĩa là một người nào đó hoặc một cái gì đó có thật hoặc không được tưởng tượng."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of an objective is a goal or something to aim for.",
+            "vi": "Định nghĩa của một mục tiêu là một mục tiêu hoặc một cái gì đó để hướng tới."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Dean tried to be as objective as possible and let the report speak for itself.",
+            "vi": "Dean cố gắng tỏ ra khách quan nhất có thể và để bản báo cáo tự nói lên điều đó."
+        },
+        {
+            "en": "Success will depend on objective criteria and visualizing the process.",
+            "vi": "Thành công sẽ phụ thuộc vào các tiêu chí khách quan và hình dung quá trình."
+        }
+    ],
+    "words_form": [
+        "objectives"
+    ],
+    "meaning_vi": "mục tiêu"
+}

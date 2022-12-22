@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈlædər/"
+    ],
+    "synonyms": [
+        "stair",
+        "stairway",
+        "rung",
+        "belay",
+        "ledge"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Anything by means of which a person climbs or rises.",
+            "vi": "Bất cứ điều gì bằng cách mà một người leo lên hoặc đi lên."
+        },
+        {
+            "pos": "verb",
+            "en": "To run, as a stocking does.",
+            "vi": "Để chạy, như một kho hàng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Some people get to the top of the ladder, only to find that it's leaning against the wrong wall?",
+            "vi": "Một số người lên đến đỉnh của cái thang, chỉ để thấy rằng nó đang dựa vào bức tường sai?"
+        },
+        {
+            "en": "I'd better get a screwdriver and tighten that ladder before you fall and break your neck.",
+            "vi": "Tốt hơn là tôi nên lấy một cái tuốc nơ vít và siết chặt cái thang đó trước khi bạn ngã và gãy cổ."
+        }
+    ],
+    "words_form": [
+        "ladders"
+    ],
+    "meaning_vi": "thang"
+}

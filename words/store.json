@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/stɔr/"
+    ],
+    "synonyms": [
+        "save",
+        "mart",
+        "market",
+        "set-aside",
+        "magazine"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A stock or supply reserved for future use.",
+            "vi": "Một kho dự trữ hoặc nguồn cung cấp để sử dụng trong tương lai."
+        },
+        {
+            "pos": "verb",
+            "en": "Store is defined as to put away or to stock.",
+            "vi": "Cửa hàng được định nghĩa là để cất đi hoặc để tồn kho."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of a kind sold in stores; being a commercial or mass-produced article.",
+            "vi": "Của một loại được bán trong các cửa hàng; là một bài báo thương mại hoặc sản xuất hàng loạt."
+        },
+        {
+            "pos": "idiom",
+            "en": "in store  Forthcoming: Great trouble in store for her.In reserve; stored.",
+            "vi": "trong cửa hàng Sắp tới: Rắc rối lớn trong cửa hàng cho cô ấy.In dự trữ; được lưu trữ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She caught sight of herself in a store window.",
+            "vi": "Cô nhìn thấy mình trong cửa sổ cửa hàng."
+        },
+        {
+            "en": "I'm surprised the clothing store was open.",
+            "vi": "Tôi ngạc nhiên khi cửa hàng quần áo đã mở cửa."
+        }
+    ],
+    "words_form": [
+        "stored",
+        "stores",
+        "storing"
+    ],
+    "meaning_vi": "cửa hàng"
+}

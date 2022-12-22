@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/rəˈmeɪnz/"
+    ],
+    "synonyms": [
+        "remnant",
+        "relics",
+        "body",
+        "debris",
+        "foots"
+    ],
+    "meaning": [
+        {
+            "pos": "pluralNoun",
+            "en": "A dead body or parts of a dead body.",
+            "vi": "Xác chết hoặc các bộ phận của cơ thể chết."
+        },
+        {
+            "pos": "noun",
+            "en": "What is left after a person (any organism) dies; a corpse.",
+            "vi": "Những gì còn lại sau khi một người (bất kỳ sinh vật nào) chết; một xác chết."
+        },
+        {
+            "pos": "verb",
+            "en": "Third-person singular simple present indicative form of remain.",
+            "vi": "Ngôi thứ ba số ít thì hiện tại đơn dạng biểu thị còn lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was the remains of another large building.",
+            "vi": "Đó là phần còn lại của một tòa nhà lớn khác."
+        },
+        {
+            "en": "That's all that remains of the command center on the Peak.",
+            "vi": "Đó là tất cả những gì còn lại của trung tâm chỉ huy trên Peak."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "vẫn còn"
+}

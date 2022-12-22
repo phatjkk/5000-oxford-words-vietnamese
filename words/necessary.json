@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈnɛsəˌsɛri/"
+    ],
+    "synonyms": [
+        "essential",
+        "required",
+        "urgent",
+        "pressing",
+        "significant"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Needed or required.",
+            "vi": "Cần thiết hoặc bắt buộc."
+        },
+        {
+            "pos": "noun",
+            "en": "(law) Those things essential to maintaining a dependent or incompetent in comfort and well-being.",
+            "vi": "(luật) Những điều cần thiết để duy trì một người phụ thuộc hoặc không đủ năng lực trong sự thoải mái và hạnh phúc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maybe it wasn't necessary to say anything.",
+            "vi": "Có lẽ nó không cần thiết để nói bất cứ điều gì."
+        },
+        {
+            "en": "It is necessary to protect life, liberty, and property.",
+            "vi": "Nó là cần thiết để bảo vệ cuộc sống, tự do và tài sản."
+        }
+    ],
+    "words_form": [
+        "necessaries"
+    ],
+    "meaning_vi": "cần thiết"
+}

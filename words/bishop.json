@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈbɪʃəp/"
+    ],
+    "synonyms": [
+        "mitre",
+        "diocesan",
+        "suffragan",
+        "archbishop",
+        "primate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A high-ranking Christian cleric, in modern churches usually in charge of a diocese and in some churches regarded as having received the highest ordination in unbroken succession from the apostles.",
+            "vi": "Một giáo sĩ Cơ đốc giáo cấp cao, trong các nhà thờ hiện đại thường phụ trách một giáo phận và trong một số nhà thờ được coi là đã nhận được sắc phong cao nhất liên tiếp từ các sứ đồ."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1911-79; U.S. poet.",
+            "vi": "(người) 1911-79; Nhà thơ Hoa Kỳ."
+        },
+        {
+            "pos": "verb",
+            "en": "(now historical) To admit into the church by confirmation; to confirm.",
+            "vi": "(bây giờ là lịch sử) Để thừa nhận vào nhà thờ bằng cách xác nhận; xác nhận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Please let Bishop Brooks know our plans, so that he may arrange to be with us.",
+            "vi": "Xin vui lòng cho Bishop Brooks biết kế hoạch của chúng tôi, để ông có thể sắp xếp để ở với chúng tôi."
+        },
+        {
+            "en": "Angouleme is the seat of a bishop, a prefect, and a court of assizes.",
+            "vi": "Angouleme là trụ sở của giám mục, quận trưởng và một tòa án."
+        }
+    ],
+    "words_form": [
+        "bishops"
+    ],
+    "meaning_vi": "giám mục"
+}

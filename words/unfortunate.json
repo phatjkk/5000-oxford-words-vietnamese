@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˌənˈfɔrtʃ(ə)nət/"
+    ],
+    "synonyms": [
+        "unlucky",
+        "unpropitious",
+        "burdened",
+        "unsuccessful",
+        "afflicted"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having bad luck; unlucky.",
+            "vi": "Gặp xui xẻo; xui xẻo."
+        },
+        {
+            "pos": "noun",
+            "en": "An unfortunate person.",
+            "vi": "Một người bất hạnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There wasn't any evidence to suggest other than an unfortunate accident.",
+            "vi": "Không có bằng chứng nào cho thấy ngoài một tai nạn đáng tiếc."
+        },
+        {
+            "en": "He is an unfortunate madman who did not know what he was doing.",
+            "vi": "Anh ta là một người điên không may không biết mình đang làm gì."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "không may"
+}

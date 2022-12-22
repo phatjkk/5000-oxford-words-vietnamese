@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈrɛdʒəstər/"
+    ],
+    "synonyms": [
+        "check in",
+        "entry",
+        "blotter",
+        "personnel",
+        "roll"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a register is a book, list or record of dates, events or other important pieces of information.",
+            "vi": "Định nghĩa của sổ đăng ký là một cuốn sách, danh sách hoặc bản ghi về ngày tháng, sự kiện hoặc các phần thông tin quan trọng khác."
+        },
+        {
+            "pos": "verb",
+            "en": "Register is defined as to sign up, sign in or enroll.",
+            "vi": "Đăng ký được định nghĩa là đăng ký, đăng nhập hoặc ghi danh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You'll help Julie to register Molly at the Keene school while I make the plane reservation.",
+            "vi": "Bạn sẽ giúp Julie đăng ký Molly tại trường Keene trong khi tôi đặt vé máy bay."
+        },
+        {
+            "en": "It took a moment for her to register the truth.",
+            "vi": "Phải mất một lúc để cô ghi nhận sự thật."
+        }
+    ],
+    "words_form": [
+        "registered",
+        "registering",
+        "registers"
+    ],
+    "meaning_vi": "đăng ký"
+}

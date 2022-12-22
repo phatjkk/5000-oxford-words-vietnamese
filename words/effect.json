@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/əˈfɛkt/"
+    ],
+    "synonyms": [
+        "consequence",
+        "conclusion",
+        "effective",
+        "influence",
+        "ramification"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Effect is defined as a result of something or the ability to bring about a result.",
+            "vi": "Hiệu ứng được định nghĩa là kết quả của một điều gì đó hoặc khả năng mang lại kết quả."
+        },
+        {
+            "pos": "verb",
+            "en": "To make or bring about; to implement.",
+            "vi": "Để tạo ra hoặc mang lại; thực hiện."
+        },
+        {
+            "pos": "idiom",
+            "en": "in effect  In essence; to all purposes: Testimony that in effect contradicted her earlier statement.",
+            "vi": "về hiệu lực Về bản chất; cho tất cả các mục đích: Lời khai có hiệu lực mâu thuẫn với tuyên bố trước đó của cô ấy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The changes had an immediate effect.",
+            "vi": "Những thay đổi có hiệu lực ngay lập tức."
+        },
+        {
+            "en": "Its effect was immediate.",
+            "vi": "Hiệu quả của nó là ngay lập tức."
+        }
+    ],
+    "words_form": [
+        "effected",
+        "effecting",
+        "effects"
+    ],
+    "meaning_vi": "hiệu ứng"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/vju/"
+    ],
+    "synonyms": [
+        "contemplate",
+        "outlook",
+        "horizon",
+        "panorama",
+        "look"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A seeing or looking, as in inspection or examination.",
+            "vi": "Nhìn hoặc nhìn, như trong thanh tra hoặc kiểm tra."
+        },
+        {
+            "pos": "verb",
+            "en": "To inspect; scrutinize.",
+            "vi": "Để kiểm tra; xem xét kỹ lưỡng."
+        },
+        {
+            "pos": "idiom",
+            "en": "in view of  Taking into account; in consideration of.",
+            "vi": "theo quan điểm của Tính đến; đang xem xét."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You have a nice view from your apartment.",
+            "vi": "Bạn có một cái nhìn đẹp từ căn hộ của bạn."
+        },
+        {
+            "en": "He came into view and moved around the punching bag.",
+            "vi": "Anh ta nhìn thấy và di chuyển xung quanh túi đấm."
+        }
+    ],
+    "words_form": [
+        "viewed",
+        "viewing",
+        "views"
+    ],
+    "meaning_vi": "lượt xem"
+}

@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/wɔl/"
+    ],
+    "synonyms": [
+        "barricade",
+        "bulwark",
+        "barrier",
+        "snag",
+        "levee"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a wall is something that divides or supports.",
+            "vi": "Định nghĩa của một bức tường là một cái gì đó ngăn cách hoặc hỗ trợ."
+        },
+        {
+            "pos": "verb",
+            "en": "To confine or seal behind a wall; immure.",
+            "vi": "Để giam giữ hoặc niêm phong sau một bức tường; không chắc chắn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Placed or growing on, in, or against a wall.",
+            "vi": "Đặt hoặc mọc trên, trong hoặc dựa vào tường."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) off the wall  Extremely unconventional. Without foundation; ridiculous: An accusation that is really off the wall.",
+            "vi": "(tiếng lóng) khỏi bức tường Cực kỳ độc đáo. Không có cơ sở; nực cười: Một lời buộc tội thực sự không tường tận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The keys hung on the wall beside the door.",
+            "vi": "Chìa khóa treo trên tường cạnh cửa."
+        },
+        {
+            "en": "She leaned her head against the shower wall, exhausted.",
+            "vi": "Cô dựa đầu vào tường tắm, kiệt sức."
+        }
+    ],
+    "words_form": [
+        "walled",
+        "walls"
+    ],
+    "meaning_vi": "bức tường"
+}

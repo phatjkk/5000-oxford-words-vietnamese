@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈhəndrəd/"
+    ],
+    "synonyms": [
+        "century",
+        "centennial",
+        "centenary",
+        "centenarian",
+        "hundredth"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The cardinal number equal to 10 × 10 or 102 .",
+            "vi": "Số chính bằng 10 × 10 hoặc 102."
+        },
+        {
+            "pos": "adjective",
+            "en": "Ten times ten.",
+            "vi": "Mười lần mười."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I've told myself that a hundred times.",
+            "vi": "Tôi đã nói với bản thân mình điều đó cả trăm lần."
+        },
+        {
+            "en": "We're two hundred miles away.",
+            "vi": "Chúng ta đang ở cách đây hai trăm dặm."
+        }
+    ],
+    "words_form": [
+        "hundreds"
+    ],
+    "meaning_vi": "trăm"
+}

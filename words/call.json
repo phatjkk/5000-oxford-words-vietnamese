@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kɔl/"
+    ],
+    "synonyms": [
+        "command",
+        "cry",
+        "request",
+        "appeal",
+        "phone"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To give the command for; order.",
+            "vi": "Để đưa ra lệnh cho; đặt hàng."
+        },
+        {
+            "pos": "noun",
+            "en": "An option to buy a given quantity of a stock, commodity, etc. at a specified price and within a specified time: calls are purchased in expectation of a rise in price.",
+            "vi": "Quyền chọn mua một số lượng cổ phiếu, hàng hóa, v.v. nhất định ở một mức giá xác định và trong một thời gian xác định: lệnh mua được mua với kỳ vọng giá tăng."
+        },
+        {
+            "pos": "idiom",
+            "en": "call in  To raise doubts about.",
+            "vi": "gọi vào Để nêu ra nghi ngờ về."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was going to call the doctor.",
+            "vi": "Anh ấy định gọi bác sĩ."
+        },
+        {
+            "en": "If you need anything, be sure to call me.",
+            "vi": "Nếu bạn cần bất cứ điều gì, hãy chắc chắn để gọi cho tôi."
+        }
+    ],
+    "words_form": [
+        "called",
+        "calling",
+        "calls"
+    ],
+    "meaning_vi": "gọi điện"
+}

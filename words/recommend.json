@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˌrɛkəˈmɛnd/"
+    ],
+    "synonyms": [
+        "prize",
+        "advise",
+        "suggest",
+        "urge",
+        "endorse"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make attractive or acceptable.",
+            "vi": "Để làm cho hấp dẫn hoặc chấp nhận được."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I recommend we start there, Dan said.",
+            "vi": "Tôi khuyên chúng ta nên bắt đầu từ đó, Dan nói."
+        },
+        {
+            "en": "He, however, was the first to recommend the use of impersonal accounts in the national household.",
+            "vi": "Tuy nhiên, ông là người đầu tiên khuyến nghị sử dụng tài khoản cá nhân trong hộ gia đình quốc gia."
+        }
+    ],
+    "words_form": [
+        "recommended",
+        "recommends"
+    ],
+    "meaning_vi": "đề nghị"
+}

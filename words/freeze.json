@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/friz/"
+    ],
+    "synonyms": [
+        "refrigerate",
+        "cool",
+        "ice",
+        "halt",
+        "harden"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be killed or harmed by cold or frost.",
+            "vi": "Bị chết hoặc bị hại bởi lạnh hoặc sương giá."
+        },
+        {
+            "pos": "noun",
+            "en": "A spell of cold weather; a frost.",
+            "vi": "Thời tiết đột ngột lạnh trong một khoảng thời gian ngắn; sương giá."
+        },
+        {
+            "pos": "idiom",
+            "en": "freeze (someone's) blood  To affect with terror or dread; horrify: A scream that froze my blood.",
+            "vi": "đông máu (của ai đó) Để ảnh hưởng đến kinh hoàng hoặc khiếp sợ; kinh hoàng: Một tiếng hét làm máu tôi đông cứng lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Did they freeze off?",
+            "vi": "Họ có bị đóng băng không?"
+        },
+        {
+            "en": "\"You'd better get some clothes on before you freeze,\" he said.",
+            "vi": "\"Tốt hơn hết bạn nên mặc một số quần áo trước khi đóng băng,\" anh nói."
+        }
+    ],
+    "words_form": [
+        "freezes",
+        "freezing",
+        "froze",
+        "frozen"
+    ],
+    "meaning_vi": "đông cứng"
+}

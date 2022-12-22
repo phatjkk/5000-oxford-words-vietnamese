@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɡraɪnd/"
+    ],
+    "synonyms": [
+        "toil",
+        "labor",
+        "triturate",
+        "drudgery",
+        "toiler"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To grind is defined as to crush, reduce to a powder using friction or to rub two surfaces together forcefully.",
+            "vi": "Để nghiền được định nghĩa là để nghiền nhỏ, giảm thành bột bằng cách sử dụng ma sát hoặc để chà xát hai bề mặt với nhau một cách mạnh mẽ."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of grinding.",
+            "vi": "Hành động mài."
+        },
+        {
+            "pos": "idiom",
+            "en": "grind it out  To make a persistent effort in doing something that is difficult; work at something persistently.",
+            "vi": "xay ra Để nỗ lực bền bỉ làm một việc khó; làm việc một cách bền bỉ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She thought she heard him grind his teeth and frowned.",
+            "vi": "Cô nghĩ rằng cô nghe thấy anh nghiến răng và cau mày."
+        },
+        {
+            "en": "They crush or grind the food, and are hence called \" molars.\"",
+            "vi": "Chúng nghiền nát hoặc nghiền thức ăn, và do đó được gọi là \"răng hàm\"."
+        }
+    ],
+    "words_form": [
+        "grinding",
+        "grinds",
+        "ground"
+    ],
+    "meaning_vi": "mài ngọc"
+}

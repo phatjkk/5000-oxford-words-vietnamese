@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈkəstəmər/"
+    ],
+    "synonyms": [
+        "consumer",
+        "client",
+        "patron",
+        "shopper",
+        "owner"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a customer is a person who buys products or services from a store, restaurant or other retail seller.",
+            "vi": "Định nghĩa về khách hàng là người mua sản phẩm hoặc dịch vụ từ cửa hàng, nhà hàng hoặc người bán lẻ khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They suggest other products a customer might be interested in.",
+            "vi": "Họ đề xuất các sản phẩm khác mà khách hàng có thể quan tâm."
+        },
+        {
+            "en": "More and more data about each customer will be available.",
+            "vi": "Ngày càng nhiều dữ liệu về từng khách hàng sẽ có sẵn."
+        }
+    ],
+    "words_form": [
+        "customers"
+    ],
+    "meaning_vi": "khách hàng"
+}

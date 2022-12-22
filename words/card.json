@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/kɑrd/"
+    ],
+    "synonyms": [
+        "jester",
+        "quipster",
+        "ticket",
+        "postcard",
+        "paper"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(informal) An eccentrically amusing person.",
+            "vi": "(không chính thức) Một người vui tính lập dị."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of card is something relating to playing with a deck.",
+            "vi": "Định nghĩa của thẻ là một cái gì đó liên quan đến việc chơi với một bộ bài."
+        },
+        {
+            "pos": "verb",
+            "en": "(sports) To warn or eject (a soccer player who has committed a flagrant foul) by showing a yellow card or a red card.",
+            "vi": "(thể thao) Cảnh cáo hoặc đuổi (một cầu thủ bóng đá phạm lỗi thô bạo) bằng cách rút thẻ vàng hoặc thẻ đỏ."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Cardinal.",
+            "vi": "Đức Hồng Y."
+        },
+        {
+            "pos": "idiom",
+            "en": "card up (one's) sleeve  A secret resource or plan held in reserve: A tough negotiator who had a number of cards up his sleeve.",
+            "vi": "thẻ lên tay áo của (một người) Một nguồn lực hoặc kế hoạch bí mật được dự trữ: Một nhà đàm phán cứng rắn, người đã có một số thẻ trong tay áo của mình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They sat on the bed, playing a card game.",
+            "vi": "Họ ngồi trên giường, chơi một trò chơi bài."
+        },
+        {
+            "en": "Cynthia was seated with two other women at a card table in front of the Post Office when Dean arrived.",
+            "vi": "Cynthia đang ngồi cùng với hai người phụ nữ khác tại một bàn đánh bài trước Bưu điện khi Dean đến."
+        }
+    ],
+    "words_form": [
+        "carded",
+        "carding",
+        "cards"
+    ],
+    "meaning_vi": "thẻ"
+}

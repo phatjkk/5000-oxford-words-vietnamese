@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/praɪs/"
+    ],
+    "synonyms": [
+        "outlay",
+        "charge",
+        "value",
+        "penalty",
+        "barter"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Price means the cost or the amount at which something is valued.",
+            "vi": "Giá cả có nghĩa là chi phí hoặc số tiền mà một thứ gì đó được định giá."
+        },
+        {
+            "pos": "verb",
+            "en": "To put a price on; fix the price of.",
+            "vi": "Để đặt giá trên; cố định giá của."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1927- ; U.S. operatic soprano.",
+            "vi": "(người) 1927-; Giọng nữ cao opera của Mỹ."
+        },
+        {
+            "pos": "acronym",
+            "en": "(medicine) Protect, Rest, Ice, Compression, and Elevation; treatment method for sprained joints.",
+            "vi": "(y học) Bảo vệ, Nghỉ ngơi, Băng, Nén và Nâng cao; phương pháp điều trị bong gân khớp."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A Welsh patronymic surname, anglicized from ap Rhys.",
+            "vi": "Một họ viết tắt của xứ Wales, được ghép từ ap Rhys."
+        },
+        {
+            "pos": "idiom",
+            "en": "price out of the market  To eliminate the demand for (goods or services) by setting prices too high.",
+            "vi": "giá ngoài thị trường Để loại bỏ nhu cầu về (hàng hoá hoặc dịch vụ) bằng cách đặt giá quá cao."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Then they all agree to set the price per flip at $1,000.",
+            "vi": "Sau đó, tất cả đều đồng ý đặt giá mỗi lần lật là 1.000 đô la."
+        },
+        {
+            "en": "But what a price to pay!",
+            "vi": "Nhưng những gì một cái giá phải trả!"
+        }
+    ],
+    "words_form": [
+        "priced",
+        "prices",
+        "pricing"
+    ],
+    "meaning_vi": "giá bán"
+}

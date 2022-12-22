@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈsɛʃən/"
+    ],
+    "synonyms": [
+        "conference",
+        "plenary",
+        "sessions",
+        "gathering",
+        "concourse"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A period of time devoted to a specific activity.",
+            "vi": "Một khoảng thời gian dành cho một hoạt động cụ thể."
+        },
+        {
+            "pos": "idiom",
+            "en": "in session  officially meeting; assembled",
+            "vi": "trong phiên họp chính thức; lắp ráp"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Unfortunately, this session was unsuccessful.",
+            "vi": "Thật không may, phiên này đã không thành công."
+        },
+        {
+            "en": "It was nearly noon when the session ended.",
+            "vi": "Buổi học kết thúc đã gần trưa."
+        }
+    ],
+    "words_form": [
+        "sessions"
+    ],
+    "meaning_vi": "phiên"
+}

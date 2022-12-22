@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ˈsɪdi/"
+    ],
+    "synonyms": [
+        "civil",
+        "downtown",
+        "town",
+        "capital",
+        "megalopolis"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a city is a town of significant size or an urban area with self-government.",
+            "vi": "Định nghĩa về một thành phố là một thị trấn có quy mô đáng kể hoặc một khu vực đô thị tự quản."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A popular name (not always capitalized) for any of several other cities in metropolitan areas (such as San Francisco).",
+            "vi": "Tên phổ biến (không phải lúc nào cũng được viết hoa) cho bất kỳ thành phố nào trong số các thành phố khác ở các khu vực đô thị (chẳng hạn như San Francisco)."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, in, for, or characteristic of a city.",
+            "vi": "Của, trong, cho, hoặc đặc trưng của một thành phố."
+        },
+        {
+            "pos": "idiom",
+            "en": "the City  the financial and commercial district of Greater London the borough of Manhattan",
+            "vi": "Thành phố, khu tài chính và thương mại của Đại Luân Đôn, quận Manhattan"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You should have called the city cops.",
+            "vi": "Bạn nên gọi cảnh sát thành phố."
+        },
+        {
+            "en": "The three-story building looked big enough to cover a city block.",
+            "vi": "Tòa nhà ba tầng trông đủ lớn để bao phủ một khu phố."
+        }
+    ],
+    "words_form": [
+        "cities"
+    ],
+    "meaning_vi": "thành phố"
+}

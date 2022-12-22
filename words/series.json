@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈsɪriz/"
+    ],
+    "synonyms": [
+        "line",
+        "chain",
+        "set",
+        "disorganization",
+        "two-part"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a series is a group or number of people or things which are related, similar or produced together.",
+            "vi": "Định nghĩa của một chuỗi là một nhóm hoặc một số người hoặc sự vật có liên quan, giống nhau hoặc được sản xuất cùng nhau."
+        },
+        {
+            "pos": "adjective",
+            "en": "(elec.) Designating or of a circuit in series.",
+            "vi": "(elec.) Chỉ định hoặc của một mạch nối tiếp."
+        },
+        {
+            "pos": "idiom",
+            "en": "in series  In an arrangement that forms a series.",
+            "vi": "trong một loạt Trong một sự sắp xếp tạo thành một loạt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A series of disasters frustrated the gigantic scheme.",
+            "vi": "Một loạt các thảm họa làm thất bại kế hoạch khổng lồ."
+        },
+        {
+            "en": "The left side of Howie's head was absent hair and a series of three dark scars were visible.",
+            "vi": "Phần đầu bên trái của Howie không có tóc và ba vết sẹo thâm hiện rõ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "loạt"
+}

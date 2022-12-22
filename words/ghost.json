@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɡoʊst/"
+    ],
+    "synonyms": [
+        "spirit",
+        "phantom",
+        "apparition",
+        "demon",
+        "specter"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To haunt.",
+            "vi": "Ám ảnh."
+        },
+        {
+            "pos": "noun",
+            "en": "A person's spirit or soul.",
+            "vi": "Tinh thần hoặc linh hồn của một người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I think I saw a ghost, in the hall!",
+            "vi": "Tôi nghĩ rằng tôi đã nhìn thấy một con ma, trong hội trường!"
+        },
+        {
+            "en": "I could feel a cold sweat passing over me like a ghost at a séance.",
+            "vi": "Tôi có thể cảm thấy một giọt mồ hôi lạnh lướt qua người tôi như một bóng ma trong một buổi lễ."
+        }
+    ],
+    "words_form": [
+        "ghosted",
+        "ghosting",
+        "ghosts"
+    ],
+    "meaning_vi": "ma"
+}

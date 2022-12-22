@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˌsɛnsɪˈtɪvɪti/"
+    ],
+    "synonyms": [
+        "awareness",
+        "feeling",
+        "nervousness",
+        "sense",
+        "subtlety"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The proportion of individuals in a population that will be correctly identified when administered a test designed to detect the presence of a particular disease.",
+            "vi": "Phân phối lỏng lẻo; rải rác."
+        },
+        {
+            "pos": "",
+            "en": "See sensitive.",
+            "vi": "Định nghĩa của hoài nghi, còn được đánh vần là hoài nghi, có nghĩa là một người nào đó đang đặt câu hỏi hoặc nghi ngờ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They can be connected to sensors whose sensitivity dwarfs anything a human can do.",
+            "vi": "Chúng có thể được kết nối với các cảm biến có độ nhạy thấp hơn bất cứ điều gì con người có thể làm."
+        },
+        {
+            "en": "The rocks were deceptively sharp and the coldness of the water increased the sensitivity of the soles of her feet.",
+            "vi": "Những tảng đá sắc nhọn và độ lạnh của nước càng làm tăng độ nhạy của lòng bàn chân cô."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The proportion of individuals in a population that will be correctly identified when administered a test designed to detect the presence of a particular disease.",
+            "vi": "Phân phối lỏng lẻo; rải rác."
+        },
+        {
+            "pos": "",
+            "en": "See sensitive.",
+            "vi": "Định nghĩa của hoài nghi, còn được đánh vần là hoài nghi, có nghĩa là một người nào đó đang đặt câu hỏi hoặc nghi ngờ."
+        }
+    ]
+}

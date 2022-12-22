@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈstəmbəl/"
+    ],
+    "synonyms": [
+        "topple",
+        "blunder",
+        "tilt",
+        "botch",
+        "bumble"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To cause to stumble.",
+            "vi": "Để gây ra vấp ngã."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a stumble is an act of making a minor mistake or of tripping or missing your step while running or walking.",
+            "vi": "Định nghĩa về vấp ngã là một hành động phạm một lỗi nhỏ hoặc vấp hoặc hụt ​​bước khi đang chạy hoặc đi bộ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was no way to know where Lana was; he had to hope to stumble upon her.",
+            "vi": "Không có cách nào để biết Lana đang ở đâu; anh phải hy vọng tình cờ gặp cô."
+        },
+        {
+            "en": "That's why you changed the lock so snoopy Mrs. Glass wouldn't stumble on it.",
+            "vi": "Đó là lý do tại sao bạn đã thay đổi ổ khóa để bà Glass hay dòm ngó sẽ không vấp phải nó."
+        }
+    ],
+    "words_form": [
+        "stumbled",
+        "stumbles",
+        "stumbling"
+    ],
+    "meaning_vi": "vấp ngã"
+}

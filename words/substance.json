@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈsəbstəns/"
+    ],
+    "synonyms": [
+        "matter",
+        "materiality",
+        "material",
+        "focus",
+        "solidity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Substance is some material or item with a particular texture or an intoxicating drink or drug.",
+            "vi": "Chất là một số nguyên liệu hoặc vật phẩm có kết cấu cụ thể hoặc một thức uống hoặc ma túy gây say."
+        },
+        {
+            "pos": "idiom",
+            "en": "in substance  with regard to essential elements actually; really",
+            "vi": "về chất đối với các yếu tố thiết yếu thực sự; có thật không"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The future system I foresee will not be different in substance, but only in degree.",
+            "vi": "Hệ thống tương lai mà tôi thấy trước sẽ không khác về chất, mà chỉ khác về mức độ."
+        },
+        {
+            "en": "The substance of thought is language, and language is the one thing to teach the deaf child and every other child.",
+            "vi": "Bản chất của suy nghĩ là ngôn ngữ, và ngôn ngữ là thứ cần dạy cho trẻ khiếm thính và mọi trẻ khác."
+        }
+    ],
+    "words_form": [
+        "substances"
+    ],
+    "meaning_vi": "vật chất"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈdædəˌbeɪs/",
+        "/ˈdeɪdəˌbeɪs/"
+    ],
+    "synonyms": [
+        "directory",
+        "repository",
+        "datasets",
+        "dataset",
+        "bibliographic"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A large collection of data in a computer, organized so that it can be expanded, updated, and retrieved rapidly for various uses.",
+            "vi": "Một bộ sưu tập lớn dữ liệu trong máy tính, được sắp xếp để có thể mở rộng, cập nhật và truy xuất nhanh chóng cho các mục đích sử dụng khác nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "To put (data) into a database.",
+            "vi": "Để đưa (dữ liệu) vào cơ sở dữ liệu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Tim confirmed she'd logged into a database from here.",
+            "vi": "Tim xác nhận rằng cô ấy đã đăng nhập vào cơ sở dữ liệu từ đây."
+        },
+        {
+            "en": "The database of associations will grow forever.",
+            "vi": "Cơ sở dữ liệu của các hiệp hội sẽ phát triển mãi mãi."
+        }
+    ],
+    "words_form": [
+        "data base",
+        "databases"
+    ],
+    "meaning_vi": "cơ sở dữ liệu"
+}

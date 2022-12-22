@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/rəˈtərn/"
+    ],
+    "synonyms": [
+        "revert",
+        "renew",
+        "regain",
+        "riposte",
+        "reenter"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To answer or respond.",
+            "vi": "Để trả lời hoặc phản hồi."
+        },
+        {
+            "pos": "noun",
+            "en": "A recurrence, as of a periodic occasion or event.",
+            "vi": "Một lần lặp lại, như một dịp hoặc sự kiện định kỳ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or bringing about a going or coming back to a place or situation.",
+            "vi": "Của, liên quan đến, hoặc mang lại một sự đi hoặc trở lại một địa điểm hoặc tình huống."
+        },
+        {
+            "pos": "idiom",
+            "en": "in return  In repayment or reciprocation.",
+            "vi": "đổi lại Trả nợ hoặc đáp lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I have something to return to you.",
+            "vi": "Tôi có một cái gì đó để trả lại cho bạn."
+        },
+        {
+            "en": "I've gotta return to Florida.",
+            "vi": "Tôi phải trở lại Florida."
+        }
+    ],
+    "words_form": [
+        "returned",
+        "returning",
+        "returns"
+    ],
+    "meaning_vi": "trở về"
+}

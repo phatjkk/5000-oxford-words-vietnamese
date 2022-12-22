@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/jɛl/"
+    ],
+    "synonyms": [
+        "shout",
+        "holler",
+        "bellow",
+        "shriek",
+        "squeal"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To cry out loudly, as in pain, fright, surprise, or enthusiasm.",
+            "vi": "Để khóc thật to, như đau đớn, sợ hãi, ngạc nhiên hoặc nhiệt tình."
+        },
+        {
+            "pos": "noun",
+            "en": "A loud cry; a shout.",
+            "vi": "Một tiếng kêu lớn; một tiếng hét."
+        },
+        {
+            "pos": "adjective",
+            "en": "(Ulster) Dry (of cow)",
+            "vi": "(Ulster) Khô (bò)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't mean to yell at you, but you nearly scared me to death.",
+            "vi": "Tôi không có ý định hét vào mặt bạn, nhưng bạn đã làm tôi sợ gần chết."
+        },
+        {
+            "en": "Kiki's yell was pain-filled.",
+            "vi": "Kiki hét lên đầy đau đớn."
+        }
+    ],
+    "words_form": [
+        "yelled",
+        "yelling",
+        "yells"
+    ],
+    "meaning_vi": "la lên"
+}

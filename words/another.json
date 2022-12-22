@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/əˈnəðər/"
+    ],
+    "synonyms": [
+        "added",
+        "additional",
+        "second",
+        "different",
+        "extra"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Another refers to someone of something that is comparable or alike.",
+            "vi": "Một người khác đề cập đến một người nào đó có thể so sánh hoặc giống nhau."
+        },
+        {
+            "pos": "pronoun",
+            "en": "One of an undetermined number or group.",
+            "vi": "Một trong số hoặc nhóm chưa được xác định."
+        },
+        {
+            "pos": "determiner",
+            "en": "One more, in addition to a former number; a second or additional one, similar in likeness or in effect.",
+            "vi": "Một số khác, ngoài một số cũ; cái thứ hai hoặc cái bổ sung, tương tự về hình ảnh hoặc hiệu ứng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Let's try another one.",
+            "vi": "Hãy thử một cái khác."
+        },
+        {
+            "en": "They may have just moved to Alaska from another state.",
+            "vi": "Họ có thể vừa chuyển đến Alaska từ một tiểu bang khác."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khác"
+}

@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ˈkɛrəktər/"
+    ],
+    "synonyms": [
+        "mood",
+        "original",
+        "temper",
+        "sense",
+        "values"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Character is defined as a trait, quality or high moral code.",
+            "vi": "Tính cách được xác định là một đặc điểm, phẩm chất hoặc quy tắc đạo đức cao."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to one's character.",
+            "vi": "Của hoặc liên quan đến nhân vật của một người."
+        },
+        {
+            "pos": "verb",
+            "en": "To write, print, engrave, or inscribe.",
+            "vi": "Viết, in, khắc, hoặc ghi."
+        },
+        {
+            "pos": "idiom",
+            "en": "in character  Consistent with someone's general character or behavior: Behavior that was totally in character.",
+            "vi": "về tính cách Phù hợp với tính cách hoặc hành vi chung của ai đó: Hành vi hoàn toàn thuộc về tính cách."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was totally out of character for her.",
+            "vi": "Nó hoàn toàn không có tính cách đối với cô ấy."
+        },
+        {
+            "en": "\"Every country has its own character,\" said he.",
+            "vi": "Ông nói: “Mỗi quốc gia đều có đặc điểm riêng của mình."
+        }
+    ],
+    "words_form": [
+        "characters"
+    ],
+    "meaning_vi": "tính cách"
+}

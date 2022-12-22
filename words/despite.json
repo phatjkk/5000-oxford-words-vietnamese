@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/dəˈspaɪt/"
+    ],
+    "synonyms": [
+        "regardless",
+        "respect",
+        "notwithstanding",
+        "indignity",
+        "recalcitrance"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "Despite is defined as not affected by or in spite of.",
+            "vi": "Mặc dù được định nghĩa là không bị ảnh hưởng bởi hoặc bất chấp."
+        },
+        {
+            "pos": "noun",
+            "en": "Contemptuous defiance or disregard.",
+            "vi": "Khinh thường thách thức hoặc coi thường."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To vex; to annoy; to offend contemptuously.",
+            "vi": "(lỗi thời) Làm phật ý; làm phiền; để xúc phạm một cách khinh thường."
+        },
+        {
+            "pos": "idiom",
+            "en": "in despite of  in defiance of in spite of",
+            "vi": "mặc dù bất chấp bất chấp"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Despite her fear, she wrapped her arms around him.",
+            "vi": "Bất chấp nỗi sợ hãi, cô vòng tay ôm lấy anh."
+        },
+        {
+            "en": "He appeared relaxed, despite the danger.",
+            "vi": "Anh ta tỏ ra thoải mái, bất chấp nguy hiểm."
+        }
+    ],
+    "words_form": [
+        "despited",
+        "despiting"
+    ],
+    "meaning_vi": "mặc dù"
+}

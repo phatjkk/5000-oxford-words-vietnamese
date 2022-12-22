@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˌnənðəˈlɛs/"
+    ],
+    "synonyms": [
+        "although",
+        "anyway",
+        "however",
+        "all the same",
+        "yet"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Nevertheless; however.",
+            "vi": "Tuy nhiên; Tuy vậy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Furious at Jessi, he was nonetheless concerned.",
+            "vi": "Giận dữ với Jessi, nhưng anh vẫn quan tâm."
+        },
+        {
+            "en": "Eyes blurred by tears, she nonetheless caught the flash of silver eyes.",
+            "vi": "Đôi mắt nhòe đi vì nước mắt, cô vẫn bắt gặp ánh sáng của đôi mắt màu bạc."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "dù sao"
+}

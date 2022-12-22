@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/saɪ/"
+    ],
+    "synonyms": [
+        "groan",
+        "gasp",
+        "rustle",
+        "exhalation",
+        "cry"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To take in and let out a long, deep, audible breath, esp. in expressing sorrow, relief, fatigue, longing, etc.",
+            "vi": "Để hít vào và thở ra một hơi dài, sâu, dễ nghe, đặc biệt. trong việc thể hiện nỗi buồn, sự nhẹ nhõm, mệt mỏi, khao khát, v.v."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or sound of sighing.",
+            "vi": "Hành động hoặc âm thanh thở dài."
+        },
+        {
+            "pos": "interjection",
+            "en": "An expression of fatigue, exhaustion, grief, sorrow, frustration, or the like, often used in casual written contexts.",
+            "vi": "Biểu hiện của sự mệt mỏi, kiệt sức, đau buồn, buồn bã, thất vọng, hoặc tương tự, thường được sử dụng trong các ngữ cảnh viết thông thường."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her sigh was a mixture of contentment and relief.",
+            "vi": "Tiếng thở dài của cô ấy là một hỗn hợp của sự mãn nguyện và nhẹ nhõm."
+        },
+        {
+            "en": "Betsy and I breathed a sigh of relief.",
+            "vi": "Betsy và tôi thở phào nhẹ nhõm."
+        }
+    ],
+    "words_form": [
+        "sighed",
+        "sighing",
+        "sighs"
+    ],
+    "meaning_vi": "thở dài"
+}

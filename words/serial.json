@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈsɪriəl/"
+    ],
+    "synonyms": [
+        "successive",
+        "consecutive",
+        "following",
+        "continued",
+        "continual"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a serial is something written or performed in parts.",
+            "vi": "Định nghĩa của một serial là một cái gì đó được viết hoặc thực hiện trong các phần."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, arranged in, or forming a series.",
+            "vi": "Của, được sắp xếp trong, hoặc tạo thành một chuỗi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Many serial publications have been almost entirely made up of extracts from English sources.",
+            "vi": "Nhiều ấn phẩm nối tiếp gần như hoàn toàn được tạo thành từ các trích dẫn từ các nguồn tiếng Anh."
+        },
+        {
+            "en": "How did a serial killer get into heaven?",
+            "vi": "Làm thế nào mà một kẻ giết người hàng loạt vào được thiên đường?"
+        }
+    ],
+    "words_form": [
+        "serials"
+    ],
+    "meaning_vi": "nối tiếp"
+}

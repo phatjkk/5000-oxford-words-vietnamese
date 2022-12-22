@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/əˈsɔlt/"
+    ],
+    "synonyms": [
+        "attack",
+        "bushwhack",
+        "fight",
+        "invade",
+        "advance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an assault is an act that causes verbal or physical injury.",
+            "vi": "Định nghĩa về hành hung là một hành vi gây thương tích bằng lời nói hoặc thể chất."
+        },
+        {
+            "pos": "verb",
+            "en": "To assault is defined as to cause harm to someone, to threaten harm, or to try and cause harm.",
+            "vi": "Hành hung được định nghĩa là gây tổn hại cho ai đó, đe dọa làm hại hoặc cố gắng gây tổn hại."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating a rifle or other firearm, either automatic or semiautomatic, designed especially for military use.",
+            "vi": "Chỉ định súng trường hoặc súng cầm tay khác, tự động hoặc bán tự động, được thiết kế đặc biệt cho quân sự."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Rome, attacked by the French army, was taken by assault after a month's sanguinary siege.",
+            "vi": "Rome, bị tấn công bởi quân đội Pháp, đã bị tấn công sau một cuộc bao vây sanguinary kéo dài một tháng."
+        },
+        {
+            "en": "Didn't he know that his brutal assault proved nothing?",
+            "vi": "Anh ta không biết rằng cuộc tấn công tàn bạo của anh ta chẳng chứng minh được gì sao?"
+        }
+    ],
+    "words_form": [
+        "assaulted",
+        "assaulting",
+        "assaults"
+    ],
+    "meaning_vi": "tấn công"
+}

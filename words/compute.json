@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kəmˈpjut/"
+    ],
+    "synonyms": [
+        "calculate",
+        "figure",
+        "measure",
+        "count",
+        "estimate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To determine or calculate by using a computer.",
+            "vi": "Để xác định hoặc tính toán bằng cách sử dụng máy tính."
+        },
+        {
+            "pos": "noun",
+            "en": "Computation.",
+            "vi": "Tính toán."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "How do I compute the intersection of two arrays?",
+            "vi": "Làm cách nào để tính giao điểm của hai mảng?"
+        },
+        {
+            "en": "The algorithms used to compute the correlation in the Question Statistics report have been improved in 2.2.",
+            "vi": "Các thuật toán được sử dụng để tính toán mối tương quan trong báo cáo Thống kê Câu hỏi đã được cải thiện trong 2.2."
+        }
+    ],
+    "words_form": [
+        "computed",
+        "computes",
+        "computing"
+    ],
+    "meaning_vi": "tính toán"
+}

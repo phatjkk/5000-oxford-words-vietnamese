@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/pruv/"
+    ],
+    "synonyms": [
+        "show",
+        "substantiate",
+        "confirm",
+        "manifest",
+        "affirm"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be shown to be such; turn out.",
+            "vi": "Để được thể hiện là như vậy; Tắt."
+        },
+        {
+            "pos": "idiom",
+            "en": "(idiom) the exception proves the rule",
+            "vi": "(thành ngữ) ngoại lệ chứng minh quy tắc"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm not asking you to prove anything.",
+            "vi": "Tôi không yêu cầu bạn chứng minh bất cứ điều gì."
+        },
+        {
+            "en": "There's no point in being uncomfortable just so you can prove what a macho man you are.",
+            "vi": "Không có gì khó chịu chỉ để bạn có thể chứng minh bạn là một nam nhi."
+        }
+    ],
+    "words_form": [
+        "proved",
+        "proven",
+        "proves",
+        "proving"
+    ],
+    "meaning_vi": "chứng minh"
+}

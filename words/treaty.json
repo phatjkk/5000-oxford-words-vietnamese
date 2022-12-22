@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈtridi/"
+    ],
+    "synonyms": [
+        "agreement",
+        "alliance",
+        "pact",
+        "compact",
+        "agree"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a treaty is a formal agreement between two or more countries about trade, peace, immigration etc.",
+            "vi": "Định nghĩa của một hiệp ước là một thỏa thuận chính thức giữa hai hoặc nhiều quốc gia về thương mại, hòa bình, nhập cư, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In 1890-1893 its shores were divided by treaty between Great Britain, France and Germany.",
+            "vi": "Năm 1890-1893 bờ biển của nó bị chia cắt theo hiệp ước giữa Anh, Pháp và Đức."
+        },
+        {
+            "en": "The border issue was finally resolved by the Webster-Ashburton treaty of 1842.",
+            "vi": "Vấn đề biên giới cuối cùng đã được giải quyết bằng hiệp ước Webster-Ashburton năm 1842."
+        }
+    ],
+    "words_form": [
+        "treaties"
+    ],
+    "meaning_vi": "hiệp ước"
+}

@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈriˌsɔrs/",
+        "/rəˈsɔrs/"
+    ],
+    "synonyms": [
+        "supply",
+        "stock",
+        "product",
+        "recourse",
+        "wealth"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Ability to deal promptly and effectively with problems, difficulties, etc.; resourcefulness.",
+            "vi": "Có khả năng giải quyết kịp thời và hiệu quả các vướng mắc, khó khăn, v.v ...; sự tháo vát."
+        },
+        {
+            "pos": "verb",
+            "en": "To supply with resources.",
+            "vi": "Để cung cấp với các nguồn lực."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was only as a last resource that she tried literature.",
+            "vi": "Nó chỉ là một nguồn cuối cùng mà cô ấy đã thử văn học."
+        },
+        {
+            "en": "He was a ready and powerful debater, full of resource, and dexterous in controversy.",
+            "vi": "Anh ta là một nhà tranh luận sẵn sàng và mạnh mẽ, đầy tài nguyên và khéo léo trong các cuộc tranh cãi."
+        }
+    ],
+    "words_form": [
+        "resources"
+    ],
+    "meaning_vi": "nguồn lực"
+}

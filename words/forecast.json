@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈfɔrˌkæst/"
+    ],
+    "synonyms": [
+        "prediction",
+        "guess",
+        "estimate",
+        "divination",
+        "reason"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To forecast is defined as to predict something.",
+            "vi": "Dự báo được định nghĩa là dự đoán điều gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a forecast is a prediction.",
+            "vi": "Định nghĩa của một dự báo là một dự đoán."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Spain presented a forecast of the anarchy of Poland.",
+            "vi": "Tây Ban Nha đưa ra dự báo về tình trạng vô chính phủ của Ba Lan."
+        },
+        {
+            "en": "The national weather forecast on television was calling for light snow in Arkansas.",
+            "vi": "Dự báo thời tiết quốc gia trên truyền hình kêu gọi tuyết rơi nhẹ ở Arkansas."
+        }
+    ],
+    "words_form": [
+        "forecasted",
+        "forecasting",
+        "forecasts"
+    ],
+    "meaning_vi": "dự báo (thời tiết)"
+}

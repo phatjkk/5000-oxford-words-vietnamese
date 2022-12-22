@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/pɛn/"
+    ],
+    "synonyms": [
+        "wall",
+        "cage",
+        "coop",
+        "fold",
+        "close in"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Pen is defined as to write something using pen and ink.",
+            "vi": "Bút được định nghĩa là để viết một cái gì đó bằng cách sử dụng bút và mực."
+        },
+        {
+            "pos": "noun",
+            "en": "An instrument for writing or drawing with ink or similar fluid, especially:  A ballpoint pen. A fountain pen. A pen point. A penholder and its pen point. A quill.",
+            "vi": "Dụng cụ để viết hoặc vẽ bằng mực hoặc chất lỏng tương tự, đặc biệt: Bút bi. Một cây bút máy. Một điểm bút. Bút dạ và đầu bút của nó. Một cây bút lông."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "International Association of Poets, Playwrights, Editors, Essayists, and Novelists.",
+            "vi": "Hiệp hội quốc tế các nhà thơ, nhà viết kịch, biên tập viên, tiểu luận gia và tiểu thuyết gia."
+        },
+        {
+            "pos": "prefix",
+            "en": "Nearly, almost.",
+            "vi": "Gần như hầu hết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The pen has black ink in it now.",
+            "vi": "Bây giờ bút có mực đen."
+        },
+        {
+            "en": "\"Think about the missing pen,\" he answered.",
+            "vi": "\"Hãy nghĩ về chiếc bút bị mất,\" anh trả lời."
+        }
+    ],
+    "words_form": [
+        "penned",
+        "penning",
+        "pens",
+        "pent"
+    ],
+    "meaning_vi": "cây bút"
+}

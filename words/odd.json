@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ɑd/"
+    ],
+    "synonyms": [
+        "unique",
+        "strange",
+        "queer",
+        "insecure",
+        "redundant"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Numbered with an odd number.",
+            "vi": "Được đánh số bằng một số lẻ."
+        },
+        {
+            "pos": "interjection",
+            "en": "Od.",
+            "vi": "Kỳ lạ."
+        },
+        {
+            "pos": "initialism",
+            "en": "Oppositional defiant disorder.",
+            "vi": "Rối loạn thách thức chống đối."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Some of them asked odd questions.",
+            "vi": "Một số người trong số họ đã hỏi những câu hỏi kỳ quặc."
+        },
+        {
+            "en": "An odd ringing sound punctuated the rumbling storm.",
+            "vi": "Một tiếng chuông kỳ quặc phá tan cơn bão ầm ầm."
+        }
+    ],
+    "words_form": [
+        "oddest"
+    ],
+    "meaning_vi": "lẻ"
+}

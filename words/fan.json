@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/fæn/"
+    ],
+    "synonyms": [
+        "admirer",
+        "fin",
+        "devotee",
+        "aficionado",
+        "buff"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An ardent devotee; an enthusiast.",
+            "vi": "Một tín đồ nhiệt thành; một người đam mê."
+        },
+        {
+            "pos": "verb",
+            "en": "To direct a current of air or a breeze upon, especially in order to cool.",
+            "vi": "Hướng một luồng không khí hoặc một làn gió vào, đặc biệt là để làm mát."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A diminutive of Frances.",
+            "vi": "Một mảnh nhỏ của Frances."
+        },
+        {
+            "pos": "idiom",
+            "en": "fan out  to scatter or spread out like an open fan",
+            "vi": "quạt tản ra hoặc tản ra như quạt mở"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I am a huge fan of heritage meats.",
+            "vi": "Tôi là một fan hâm mộ lớn của các loại thịt di sản."
+        },
+        {
+            "en": "I am a fan of free will, so it's your choice.",
+            "vi": "Tôi là một fan hâm mộ của ý chí tự do, vì vậy đó là sự lựa chọn của bạn."
+        }
+    ],
+    "words_form": [
+        "fanned",
+        "fanning",
+        "fans"
+    ],
+    "meaning_vi": "cái quạt; người hâm mộ"
+}

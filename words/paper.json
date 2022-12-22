@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈpeɪpər/"
+    ],
+    "synonyms": [
+        "essay",
+        "peal",
+        "journal",
+        "newspaper",
+        "money"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A newspaper.",
+            "vi": "Một tờ báo."
+        },
+        {
+            "pos": "verb",
+            "en": "To cover with wallpaper.",
+            "vi": "Để che bằng hình nền."
+        },
+        {
+            "pos": "adjective",
+            "en": "Made of paper.",
+            "vi": "Làm từ giấy."
+        },
+        {
+            "pos": "idiom",
+            "en": "in paper  With a paperback binding; as a paperback.",
+            "vi": "bằng giấy Với bìa mềm đóng gáy; như một bìa mềm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I put aside the paper and tried to nap.",
+            "vi": "Tôi đặt tờ giấy sang một bên và cố gắng chợp mắt."
+        },
+        {
+            "en": "Do you have a couple of paper bags?",
+            "vi": "Bạn có một vài túi giấy?"
+        }
+    ],
+    "words_form": [
+        "papered",
+        "papering",
+        "papers"
+    ],
+    "meaning_vi": "Giấy"
+}

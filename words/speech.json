@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/spitʃ/"
+    ],
+    "synonyms": [
+        "enunciation",
+        "talk",
+        "locution",
+        "discourse",
+        "vocalization"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Speech is communication through talking or a talk given to an audience.",
+            "vi": "Lời nói là giao tiếp thông qua trò chuyện hoặc một bài nói chuyện với khán giả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I guess the speech went pretty well.",
+            "vi": "Tôi đoán bài phát biểu diễn ra khá tốt."
+        },
+        {
+            "en": "You made that silly speech the other night and I'm still not buying.",
+            "vi": "Bạn đã thực hiện bài phát biểu ngớ ngẩn đó vào đêm hôm trước và tôi vẫn không mua."
+        }
+    ],
+    "words_form": [
+        "speeches"
+    ],
+    "meaning_vi": "phát biểu"
+}

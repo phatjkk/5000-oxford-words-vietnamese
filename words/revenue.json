@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈrɛvəˌn(j)u/"
+    ],
+    "synonyms": [
+        "income",
+        "profits",
+        "tax",
+        "revenue",
+        "assets"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "All the income produced by a particular source.",
+            "vi": "Tất cả thu nhập được tạo ra bởi một nguồn cụ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The gross revenue of all the states is estimated at 24 millions sterling.",
+            "vi": "Tổng doanh thu của tất cả các bang được ước tính là 24 triệu bảng Anh."
+        },
+        {
+            "en": "Revenue is derived principally from customs duties, direct taxation being light.",
+            "vi": "Nguồn thu chủ yếu từ thuế hải quan, thuế trực thu là nhẹ."
+        }
+    ],
+    "words_form": [
+        "revenues"
+    ],
+    "meaning_vi": "doanh thu"
+}

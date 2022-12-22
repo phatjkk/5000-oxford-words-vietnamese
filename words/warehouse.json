@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈwɛrˌhaʊs/"
+    ],
+    "synonyms": [
+        "repository",
+        "storehouse",
+        "elevator",
+        "store",
+        "depot"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a warehouse is a place where goods are stored.",
+            "vi": "Định nghĩa kho hàng là nơi chứa hàng hóa."
+        },
+        {
+            "pos": "verb",
+            "en": "To warehouse is to store, or to place a patient in a large institution with minimal medical, educational or social services.",
+            "vi": "Kho là lưu trữ, hoặc đặt bệnh nhân trong một cơ sở lớn với các dịch vụ y tế, giáo dục hoặc xã hội tối thiểu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The warehouse was empty.",
+            "vi": "Nhà kho trống rỗng."
+        },
+        {
+            "en": "The lanterns hanging from the warehouse ceiling were all lit.",
+            "vi": "Những chiếc đèn lồng treo trên trần nhà kho đều được thắp sáng."
+        }
+    ],
+    "words_form": [
+        "warehoused",
+        "warehouses",
+        "warehousing"
+    ],
+    "meaning_vi": "kho"
+}

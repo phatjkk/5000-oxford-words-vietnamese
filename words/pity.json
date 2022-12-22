@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈpɪdi/"
+    ],
+    "synonyms": [
+        "sympathy",
+        "commiseration",
+        "forbearance",
+        "ill-luck",
+        "kindliness"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Sorrow felt for another's suffering or misfortune; compassion; sympathy.",
+            "vi": "Nỗi buồn cảm thấy đau khổ hoặc bất hạnh của người khác; thương hại; cảm thông."
+        },
+        {
+            "pos": "verb",
+            "en": "To feel pity.",
+            "vi": "Để cảm thấy thương hại."
+        },
+        {
+            "pos": "interjection",
+            "en": "Short form of what a pity.",
+            "vi": "Hình thức ngắn của những gì một điều đáng tiếc."
+        },
+        {
+            "pos": "idiom",
+            "en": "have  To show compassion for.",
+            "vi": "phải thể hiện lòng từ bi đối với."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Your pity is a weakness.",
+            "vi": "Sự đáng tiếc của bạn là một điểm yếu."
+        },
+        {
+            "en": "I always thought he felt more pity than love for the old lady.",
+            "vi": "Tôi luôn nghĩ anh ấy cảm thấy thương hại hơn là thương cho bà cụ."
+        }
+    ],
+    "words_form": [
+        "pitied",
+        "pities",
+        "pitying"
+    ],
+    "meaning_vi": "lòng thương hại"
+}

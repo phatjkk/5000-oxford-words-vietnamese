@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/rən/"
+    ],
+    "synonyms": [
+        "dash",
+        "sprint",
+        "dart",
+        "gallop",
+        "scurry"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be in operation; function or work.",
+            "vi": "Đi vào hoạt động; chức năng hoặc công việc."
+        },
+        {
+            "pos": "noun",
+            "en": "(comput.) One execution of a program.",
+            "vi": "(tính toán.) Một lần thực thi một chương trình."
+        },
+        {
+            "pos": "adjective",
+            "en": "Cast in a mould.",
+            "vi": "Đúc trong khuôn."
+        },
+        {
+            "pos": "idiom",
+            "en": "a run for (one's) money  Strong competition.",
+            "vi": "một cuộc chạy đua cho tiền của (một người) Cạnh tranh mạnh mẽ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't run away.",
+            "vi": "Tôi không chạy trốn."
+        },
+        {
+            "en": "I could have run away from my father, as I wanted to.",
+            "vi": "Tôi đã có thể chạy trốn khỏi cha tôi, như tôi muốn."
+        }
+    ],
+    "words_form": [
+        "ran",
+        "running",
+        "runs"
+    ],
+    "meaning_vi": "chạy"
+}

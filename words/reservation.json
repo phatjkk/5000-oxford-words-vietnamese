@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌrɛzərˈveɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "booking",
+        "restriction",
+        "limitation",
+        "isolation",
+        "withholding"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An arrangement by which accommodations are secured in advance, as in a hotel or restaurant or on an airplane.",
+            "vi": "Một sự sắp xếp theo đó chỗ ở được đảm bảo trước, như trong khách sạn hoặc nhà hàng hoặc trên máy bay."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The reservation system says they have availability.",
+            "vi": "Hệ thống đặt chỗ cho biết họ có sẵn hàng."
+        },
+        {
+            "en": "She responded with none of the reservation she normally displayed, opening to him.",
+            "vi": "Cô ấy trả lời không đặt chỗ trước mà cô ấy thường trưng bày, mở cửa cho anh ta."
+        }
+    ],
+    "words_form": [
+        "reservations"
+    ],
+    "meaning_vi": "(sự) đặt trước"
+}

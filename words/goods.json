@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ɡʊdz/"
+    ],
+    "synonyms": [
+        "equipment",
+        "merchandise",
+        "personal property",
+        "materials",
+        "wares"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(business, economics, plural only) That which is produced, then traded, bought or sold, then finally consumed.",
+            "vi": "(chỉ kinh doanh, kinh tế, số nhiều) Cái đó được sản xuất, sau đó được trao đổi, mua hoặc bán, rồi cuối cùng là tiêu dùng."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "(brit.) Freight.",
+            "vi": "(Anh) Vận chuyển hàng hóa."
+        },
+        {
+            "pos": "idiom",
+            "en": "deliver the goods  to do or produce the thing required",
+            "vi": "cung cấp hàng hóa để làm hoặc sản xuất những thứ được yêu cầu"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They need markets to sell goods in and stable currencies.",
+            "vi": "Họ cần thị trường để bán hàng hóa bằng tiền tệ ổn định."
+        },
+        {
+            "en": "Two are household goods and one's theater stuff.",
+            "vi": "Hai là đồ gia dụng và đồ dùng trong rạp hát."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "các mặt hàng"
+}

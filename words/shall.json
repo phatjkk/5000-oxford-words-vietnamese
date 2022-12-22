@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ʃæl/",
+        "/ʃəl/"
+    ],
+    "synonyms": [
+        "ought-to",
+        "should",
+        "will",
+        "must",
+        "hereby"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Shall is another way of saying should.",
+            "vi": "Shall là một cách khác để nói nên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What shall I make?",
+            "vi": "Tôi sẽ làm gì?"
+        },
+        {
+            "en": "My dears, what shall we do?",
+            "vi": "Các bạn ơi, chúng ta phải làm gì đây?"
+        }
+    ],
+    "words_form": [
+        "should"
+    ],
+    "meaning_vi": "sẽ"
+}

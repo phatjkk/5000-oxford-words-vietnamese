@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dɪˈklɛr/"
+    ],
+    "synonyms": [
+        "announce",
+        "testify",
+        "notify",
+        "state",
+        "assert"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To reveal or make manifest; show.",
+            "vi": "Để tiết lộ hoặc làm cho bản kê khai; chỉ."
+        },
+        {
+            "pos": "idiom",
+            "en": "declare war  To state formally the intention to carry on armed hostilities against. To state one's intent to suppress or eradicate: Declared war on drug dealing in the neighborhood.",
+            "vi": "tuyên chiến Tuyên bố chính thức ý định tiến hành các hành động thù địch có vũ trang chống lại. Để nói rõ ý định đàn áp hoặc tiêu diệt của một người: Tuyên chiến chống buôn bán ma túy trong khu vực lân cận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They declare that we are all the children of God, and therefore must consider ourselves as brothers and sisters.",
+            "vi": "Họ tuyên bố rằng tất cả chúng ta là con cái của Đức Chúa Trời, và do đó phải coi mình như anh chị em."
+        },
+        {
+            "en": "I thought a daughter was just an excuse to declare war on everyone.",
+            "vi": "Cứ tưởng con gái chỉ là cái cớ để tuyên chiến với mọi người."
+        }
+    ],
+    "words_form": [
+        "declared",
+        "declares",
+        "declaring"
+    ],
+    "meaning_vi": "khai"
+}

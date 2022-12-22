@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/kəˈmænd/"
+    ],
+    "synonyms": [
+        "will",
+        "govern",
+        "rule",
+        "fiat",
+        "tyranny"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a command is an order or the authority to command.",
+            "vi": "Định nghĩa của một lệnh là một mệnh lệnh hoặc quyền ra lệnh."
+        },
+        {
+            "pos": "verb",
+            "en": "To give orders.",
+            "vi": "Để cung cấp cho các đơn đặt hàng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or constituting a command.",
+            "vi": "Của, liên quan đến, hoặc cấu thành một lệnh."
+        },
+        {
+            "pos": "idiom",
+            "en": "at someone's command  available or ready for someone to direct or make use of at will",
+            "vi": "theo lệnh của ai đó có sẵn hoặc sẵn sàng để ai đó chỉ đạo hoặc sử dụng theo ý muốn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He sat in the only seat in the tiny craft, studying Ne'Rin, who transmitted from A'Ran's battle command center on the moon that was his interim home.",
+            "vi": "Anh ngồi ở chỗ ngồi duy nhất trong chiếc thuyền nhỏ, nghiên cứu Ne'Rin, người được truyền từ trung tâm chỉ huy chiến đấu của A'Ran trên mặt trăng là ngôi nhà tạm thời của anh."
+        },
+        {
+            "en": "But when his Serenity took command everything became straight forward.",
+            "vi": "Nhưng khi Serenity của anh ấy nắm quyền chỉ huy, mọi thứ trở nên thẳng tiến."
+        }
+    ],
+    "words_form": [
+        "commanded",
+        "commands"
+    ],
+    "meaning_vi": "lệnh"
+}

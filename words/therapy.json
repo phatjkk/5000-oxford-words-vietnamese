@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈθɛrəpi/"
+    ],
+    "synonyms": [
+        "therapeutics",
+        "healing",
+        "help",
+        "treatment",
+        "damage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Healing power or quality.",
+            "vi": "Sức mạnh hoặc chất lượng chữa bệnh."
+        },
+        {
+            "pos": "verb",
+            "en": "To treat with a therapy.",
+            "vi": "Để điều trị bằng một liệu pháp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maybe he needs a little shock therapy to bring him back.",
+            "vi": "Có lẽ anh ta cần một liệu pháp sốc nhỏ để đưa anh ta trở lại."
+        },
+        {
+            "en": "The same year, a technique for treating diabetes, insulin therapy, was developed.",
+            "vi": "Cùng năm, một kỹ thuật điều trị bệnh tiểu đường, liệu pháp insulin, đã được phát triển."
+        }
+    ],
+    "words_form": [
+        "therapies"
+    ],
+    "meaning_vi": "trị liệu"
+}

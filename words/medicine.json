@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈmɛdəsən/"
+    ],
+    "synonyms": [
+        "medication",
+        "pill",
+        "elixir",
+        "doctors",
+        "drug"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something that serves as a remedy or corrective.",
+            "vi": "Một cái gì đó phục vụ như một biện pháp khắc phục hoặc sửa chữa."
+        },
+        {
+            "pos": "verb",
+            "en": "To give medicine to; treat medicinally.",
+            "vi": "Đưa thuốc cho; điều trị về mặt y học."
+        },
+        {
+            "pos": "idiom",
+            "en": "take one's medicine  to endure just punishment or accept the results of one's action",
+            "vi": "uống thuốc của một người để chịu đựng chỉ trừng phạt hoặc chấp nhận kết quả của hành động của một người"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Medicine isn't an exact science.",
+            "vi": "Y học không phải là một khoa học chính xác."
+        },
+        {
+            "en": "She wrenched open the medicine cabinet for the most powerful of the drugs Dr. Mallard prescribed for her and slammed the cabinet shut.",
+            "vi": "Cô vặn vẹo mở tủ thuốc lấy loại thuốc mạnh nhất mà bác sĩ Mallard kê cho cô và đóng sập tủ lại."
+        }
+    ],
+    "words_form": [
+        "medicined",
+        "medicines",
+        "medicining"
+    ],
+    "meaning_vi": "y"
+}

@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈdʒʊri/"
+    ],
+    "synonyms": [
+        "judges",
+        "tribunal",
+        "petit jury",
+        "board",
+        "committee"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(law) A body of persons selected to decide a verdict in a legal case, based upon the evidence presented, after being given instructions on the applicable law.",
+            "vi": "(luật) Một cơ quan gồm những người được lựa chọn để quyết định phán quyết trong một vụ án pháp lý, dựa trên bằng chứng được trình bày, sau khi được hướng dẫn về luật áp dụng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Intended or designed for temporary use; makeshift.",
+            "vi": "Dự định hoặc được thiết kế để sử dụng tạm thời; tạm bợ."
+        },
+        {
+            "pos": "verb",
+            "en": "To judge or evaluate by a jury.",
+            "vi": "Để phán xét hoặc đánh giá bởi một bồi thẩm đoàn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What's it got to do with jury duty?",
+            "vi": "Nó có liên quan gì đến nhiệm vụ bồi thẩm đoàn?"
+        },
+        {
+            "en": "In this court and in this court alone there is always a jury of twelve.",
+            "vi": "Trong tòa án này và riêng tòa án này luôn luôn có một bồi thẩm đoàn gồm mười hai người."
+        }
+    ],
+    "words_form": [
+        "juries"
+    ],
+    "meaning_vi": "ban bồi thẩm"
+}

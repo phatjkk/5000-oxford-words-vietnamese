@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/dip/"
+    ],
+    "synonyms": [
+        "beneath",
+        "sunk",
+        "low",
+        "submerged",
+        "recondite"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of deep is going far down or far away, something strongly felt, or something that is hard to understand.",
+            "vi": "Định nghĩa của sâu là đi xuống rất xa hoặc xa, một cái gì đó được cảm nhận mạnh mẽ, hoặc một cái gì đó khó hiểu."
+        },
+        {
+            "pos": "noun",
+            "en": "Deep means a part of water, earth or space that is known to be one of most extreme known to science.",
+            "vi": "Sâu có nghĩa là một phần của nước, trái đất hoặc không gian được biết đến là một trong những phần cực đoan nhất mà khoa học đã biết."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a deep way or to a deep extent; far down, far in, far back, etc.",
+            "vi": "Theo một cách sâu sắc hoặc một mức độ sâu sắc; xa xuống, xa trong, xa trở lại, v.v."
+        },
+        {
+            "pos": "idiom",
+            "en": "deep down  At bottom; basically: Deep down, she was still a rebel.",
+            "vi": "sâu xuống Dưới đáy; về cơ bản: Trong sâu thẳm, cô ấy vẫn là một kẻ nổi loạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She drew a deep breath.",
+            "vi": "Cô hít một hơi thật sâu."
+        },
+        {
+            "en": "He paced back and forth across the room, deep in thought.",
+            "vi": "Anh đi đi lại lại trong phòng, trầm tư."
+        }
+    ],
+    "words_form": [
+        "deeper",
+        "deepest",
+        "deeps"
+    ],
+    "meaning_vi": "sâu"
+}

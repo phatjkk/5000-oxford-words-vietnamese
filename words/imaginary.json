@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ɪˈmædʒəˌnɛri/"
+    ],
+    "synonyms": [
+        "unreal",
+        "nonexistent",
+        "fancied",
+        "apocryphal",
+        "illusory"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having existence only in the imagination; unreal.",
+            "vi": "Chỉ tồn tại trong trí tưởng tượng; không có thật."
+        },
+        {
+            "pos": "noun",
+            "en": "An imaginary number.",
+            "vi": "Một con số tưởng tượng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He paused at the door and mimed a jump shot at an imaginary hoop.",
+            "vi": "Anh dừng lại ở cửa và bắt chước một cú nhảy vào một cái vòng tưởng tượng."
+        },
+        {
+            "en": "It is an imaginary history of the patriarchs and their descendants.",
+            "vi": "Đó là một lịch sử tưởng tượng của các tộc trưởng và con cháu của họ."
+        }
+    ],
+    "words_form": [
+        "imaginaries"
+    ],
+    "meaning_vi": "tưởng tượng"
+}

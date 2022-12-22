@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈlaɪkliˌhʊd/"
+    ],
+    "synonyms": [
+        "possibility",
+        "probability",
+        "unlikelihood",
+        "improbability",
+        "odds"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The probability of a specified outcome; the chance of something happening; probability; the state of being probable.",
+            "vi": "Xác suất của một kết quả xác định; cơ hội của một cái gì đó xảy ra; xác suất; trạng thái có thể xảy ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was in all likelihood a near kindred between the earliest inhabitants of the two lands.",
+            "vi": "Rất có thể có một sự gần gũi giữa những cư dân đầu tiên của hai vùng đất."
+        },
+        {
+            "en": "All a doctor can do is predict the likelihood of success.",
+            "vi": "Tất cả những gì bác sĩ có thể làm là dự đoán khả năng thành công."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khả năng"
+}

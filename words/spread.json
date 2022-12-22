@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/sprɛd/"
+    ],
+    "synonyms": [
+        "expanded",
+        "diffused",
+        "advertise",
+        "opened",
+        "extended"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To open to a fuller extent or width; stretch.",
+            "vi": "Để mở đến một mức độ hoặc chiều rộng đầy đủ hơn; kéo dài."
+        },
+        {
+            "pos": "noun",
+            "en": "The extent or limit to which something is or can be spread.",
+            "vi": "Mức độ hoặc giới hạn mà một cái gì đó đang hoặc có thể lây lan."
+        },
+        {
+            "pos": "idiom",
+            "en": "spread (oneself) thin  To work on too many projects: overextend oneself.",
+            "vi": "dàn trải (bản thân) mỏng Để làm việc trong quá nhiều dự án: cố gắng quá mức."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He took the blanket from her and spread it on the ground.",
+            "vi": "Anh lấy chăn từ cô và trải nó trên mặt đất."
+        },
+        {
+            "en": "The table was spread and supper was ready.",
+            "vi": "Bàn đã được trải ra và bữa tối đã sẵn sàng."
+        }
+    ],
+    "words_form": [
+        "spreading",
+        "spreads"
+    ],
+    "meaning_vi": "lan tràn"
+}

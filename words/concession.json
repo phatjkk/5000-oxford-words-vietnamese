@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/kənˈsɛʃən/"
+    ],
+    "synonyms": [
+        "granting",
+        "fighting",
+        "gambit",
+        "yielding",
+        "acquiescence"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A grant of a tract of land made by a government or other controlling authority in return for stipulated services or a promise that the land will be used for a specific purpose.",
+            "vi": "Chính phủ hoặc cơ quan có thẩm quyền kiểm soát khác cấp một vùng đất để đổi lấy các dịch vụ quy định hoặc lời hứa rằng đất sẽ được sử dụng cho một mục đích cụ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "To grant or approve by means of a concession agreement.",
+            "vi": "Cấp hoặc phê duyệt bằng một thỏa thuận nhượng bộ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This concession involved important consequences.",
+            "vi": "Sự nhượng bộ này kéo theo những hệ quả quan trọng."
+        },
+        {
+            "en": "Genoa determined to oppose the concession, and war broke out.",
+            "vi": "Genoa kiên quyết phản đối việc nhượng bộ, và chiến tranh nổ ra."
+        }
+    ],
+    "words_form": [
+        "concessions"
+    ],
+    "meaning_vi": "nhượng bộ"
+}

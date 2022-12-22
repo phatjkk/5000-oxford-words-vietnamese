@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/kæst/"
+    ],
+    "synonyms": [
+        "add",
+        "plan",
+        "throw",
+        "performers",
+        "casting"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Cast means to throw something with force, to pick someone for a part in a play or to submit a ballot to vote.",
+            "vi": "Cast có nghĩa là ném một cái gì đó bằng vũ lực, để chọn một người nào đó cho một vai trong vở kịch hoặc gửi một lá phiếu để bỏ phiếu."
+        },
+        {
+            "pos": "noun",
+            "en": "The addition of a column of figures; calculation.",
+            "vi": "Việc bổ sung một cột số liệu; phép tính."
+        },
+        {
+            "pos": "affix",
+            "en": "Broadcast.",
+            "vi": "Phát tin."
+        },
+        {
+            "pos": "idiom",
+            "en": "cast (one's) lot with  To join or side with for better or worse.",
+            "vi": "cast (một) lô với Để tham gia hoặc sát cánh với tốt hơn hoặc tệ hơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Does he cast a shadow?",
+            "vi": "Anh ta có phủ bóng không?"
+        },
+        {
+            "en": "They're putting a cast on her leg right now.",
+            "vi": "Họ đang bó bột cho chân của cô ấy ngay bây giờ."
+        }
+    ],
+    "words_form": [
+        "casting",
+        "casts"
+    ],
+    "meaning_vi": "bó bột"
+}

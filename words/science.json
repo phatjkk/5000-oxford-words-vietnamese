@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈsaɪəns/"
+    ],
+    "synonyms": [
+        "chemistry",
+        "geography",
+        "physics",
+        "botany",
+        "geology"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Systematized knowledge derived from observation, study, and experimentation carried on in order to determine the nature or principles of what is being studied.",
+            "vi": "Kiến thức được hệ thống hóa thu được từ quá trình quan sát, nghiên cứu và thử nghiệm để xác định bản chất hoặc nguyên tắc của những gì đang được nghiên cứu."
+        },
+        {
+            "pos": "verb",
+            "en": "To cause to become versed in science; to make skilled; to instruct.",
+            "vi": "Để trở nên thành thạo trong khoa học; để làm cho có tay nghề cao; để hướng dẫn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Does any section of science consider time travel a possibility?",
+            "vi": "Có bộ phận nào của khoa học coi du hành thời gian là một khả năng không?"
+        },
+        {
+            "en": "Groups of people will do science this same way.",
+            "vi": "Các nhóm người sẽ làm khoa học theo cách này."
+        }
+    ],
+    "words_form": [
+        "sciences"
+    ],
+    "meaning_vi": "khoa học"
+}

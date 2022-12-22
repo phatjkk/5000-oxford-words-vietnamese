@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/fju/"
+    ],
+    "synonyms": [
+        "some",
+        "several",
+        "less",
+        "scant",
+        "scarce"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Few is defined as not many.",
+            "vi": "Ít được định nghĩa là không nhiều."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of few is a small number of something.",
+            "vi": "Định nghĩa của vài là một số nhỏ của một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "An indefinitely small number of persons or things.",
+            "vi": "Một số lượng nhỏ người hoặc vật vô hạn."
+        },
+        {
+            "pos": "determiner",
+            "en": "(preceded by another determiner) An indefinite, but usually small, number of.",
+            "vi": "(đứng trước một công cụ xác định khác) Một số lượng không xác định, nhưng thường là nhỏ."
+        },
+        {
+            "pos": "idiom",
+            "en": "few and far between  scarce; rare",
+            "vi": "ít và xa giữa khan hiếm; hiếm"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The doctor will be in to talk to you in a few minutes.",
+            "vi": "Bác sĩ sẽ có mặt để nói chuyện với bạn sau vài phút."
+        },
+        {
+            "en": "He had a right to a few quirks.",
+            "vi": "Anh ta có quyền đối với một số điều kỳ quặc."
+        }
+    ],
+    "words_form": [
+        "fewest"
+    ],
+    "meaning_vi": "vài"
+}

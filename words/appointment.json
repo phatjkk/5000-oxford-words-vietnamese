@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˈpɔɪntmənt/"
+    ],
+    "synonyms": [
+        "engagement",
+        "job",
+        "approval",
+        "employment",
+        "installation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(Government) The assignment of a person by an official to perform a duty, such as a presidential appointment of a judge to a court.",
+            "vi": "(Chính phủ) Việc một quan chức chỉ định một người để thực hiện nhiệm vụ, chẳng hạn như tổng thống bổ nhiệm một thẩm phán cho một tòa án."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can make it to my appointment without you.",
+            "vi": "Tôi có thể đến hẹn mà không cần đến bạn."
+        },
+        {
+            "en": "I'll tell my receptionist to make you an appointment for next week.",
+            "vi": "Tôi sẽ nói với nhân viên lễ tân của tôi để hẹn bạn vào tuần sau."
+        }
+    ],
+    "words_form": [
+        "appointments"
+    ],
+    "meaning_vi": "cuộc hẹn"
+}

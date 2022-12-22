@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈɪnˌkəm/"
+    ],
+    "synonyms": [
+        "earnings",
+        "interest",
+        "profit",
+        "salary",
+        "revenue"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of income is the amount of money received by a person, group or company during a certain period of time.",
+            "vi": "Định nghĩa về thu nhập là số tiền mà một người, một nhóm hoặc một công ty nhận được trong một khoảng thời gian nhất định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This income will not be regarded as welfare.",
+            "vi": "Thu nhập này sẽ không được coi là phúc lợi."
+        },
+        {
+            "en": "He had a good income and access to his father's equipment.",
+            "vi": "Anh ấy đã có thu nhập tốt và được tiếp cận với thiết bị của cha mình."
+        }
+    ],
+    "words_form": [
+        "incomes"
+    ],
+    "meaning_vi": "thu nhập"
+}

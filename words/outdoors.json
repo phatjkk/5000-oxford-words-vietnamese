@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˌaʊtˈdɔrz/"
+    ],
+    "synonyms": [
+        "country",
+        "environment",
+        "indoors",
+        "patio",
+        "woods"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In or into the open; outside.",
+            "vi": "Vào hoặc mở; ngoài."
+        },
+        {
+            "pos": "noun",
+            "en": "The open air.",
+            "vi": "Không khí thoáng đãng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "How about getting outdoors this afternoon?",
+            "vi": "Làm thế nào về việc ra ngoài trời chiều nay?"
+        },
+        {
+            "en": "Somewhere in the cold outdoors, a wolf howled.",
+            "vi": "Đâu đó ngoài trời lạnh giá, một tiếng sói tru."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ngoài trời"
+}

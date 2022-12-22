@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/maʊnt/"
+    ],
+    "synonyms": [
+        "prepare",
+        "ascend",
+        "scale",
+        "backing",
+        "ride"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To climb or ascend.",
+            "vi": "Để leo lên hoặc đi lên."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a mount is a mountain or hill, or a horse or bicycle for riding.",
+            "vi": "Định nghĩa của một ngọn núi là một ngọn núi hoặc một ngọn đồi, hoặc một con ngựa hoặc xe đạp để cưỡi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Bordeaux turned his mount to walk beside her.",
+            "vi": "Bordeaux xoay người đi bên cạnh cô."
+        },
+        {
+            "en": "I thought we would go to Mount Greylock.",
+            "vi": "Tôi nghĩ chúng tôi sẽ đến Mount Greylock."
+        }
+    ],
+    "words_form": [
+        "mounted",
+        "mounting",
+        "mounts"
+    ],
+    "meaning_vi": "gắn kết"
+}

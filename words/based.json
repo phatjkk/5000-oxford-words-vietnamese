@@ -1,0 +1,67 @@
+{
+    "spelling": [
+        "/beɪst/"
+    ],
+    "synonyms": [
+        "established",
+        "occupying",
+        "placed",
+        "planted",
+        "positioned"
+    ],
+    "meaning": [
+        {
+            "pos": "affix",
+            "en": "Based in or at (a specified place); having headquarters in or at.",
+            "vi": "Có trụ sở tại hoặc tại (một địa điểm cụ thể); có trụ sở chính tại hoặc tại."
+        },
+        {
+            "pos": "suffix",
+            "en": "Based is used with a location and is defined to show where something is situated.",
+            "vi": "Dựa được sử dụng với một vị trí và được xác định để hiển thị vị trí của một cái gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Founded on; having a basis; often used in combining forms.",
+            "vi": "Được tìm thấy vào; có cơ sở; thường được sử dụng trong các hình thức kết hợp."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of base.",
+            "vi": "Quá khứ đơn và quá khứ phân từ của cơ sở."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Marriage was based on mutual respect.",
+            "vi": "Hôn nhân dựa trên sự tôn trọng lẫn nhau."
+        },
+        {
+            "en": "Prices are based on the market value of fresh ingredients each day.",
+            "vi": "Giá dựa trên giá thị trường của nguyên liệu tươi mỗi ngày."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "affix",
+            "en": "Based in or at (a specified place); having headquarters in or at.",
+            "vi": "Có trụ sở tại hoặc tại (một địa điểm cụ thể); có trụ sở chính tại hoặc tại."
+        },
+        {
+            "pos": "suffix",
+            "en": "Based is used with a location and is defined to show where something is situated.",
+            "vi": "Dựa được sử dụng với một vị trí và được xác định để hiển thị vị trí của một cái gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Founded on; having a basis; often used in combining forms.",
+            "vi": "Được tìm thấy vào; có cơ sở; thường được sử dụng trong các hình thức kết hợp."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of base.",
+            "vi": "Quá khứ đơn và quá khứ phân từ của cơ sở."
+        }
+    ]
+}

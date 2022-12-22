@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈfɛb(j)uˌɛri/",
+        "/ˈfɛbruˌɛri/"
+    ],
+    "synonyms": [
+        "feb",
+        "month",
+        "winter",
+        "october",
+        "january"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The second month of the year, having 28 days in regular years and 29 days in leap years.",
+            "vi": "Tháng thứ hai trong năm, có 28 ngày trong năm thường và 29 ngày trong năm nhuận."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The second month of the Gregorian calendar, following January and preceding March.",
+            "vi": "Tháng thứ hai của lịch Gregory, sau tháng Giêng và trước tháng Ba."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "On the 28th of February they celebrated her thirtieth birthday.",
+            "vi": "Vào ngày 28 tháng Hai, họ tổ chức sinh nhật lần thứ ba mươi của cô."
+        },
+        {
+            "en": "It was unseasonably warm for the end of February, but this was the time of year that they might expect a few nice days.",
+            "vi": "Vào cuối tháng 2, thời tiết ấm áp một cách vô lý, nhưng đây là thời điểm trong năm mà họ có thể mong đợi một vài ngày đẹp trời."
+        }
+    ],
+    "words_form": [
+        "februaries",
+        "februarys"
+    ],
+    "meaning_vi": "tháng Hai"
+}

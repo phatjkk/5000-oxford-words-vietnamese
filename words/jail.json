@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/dʒeɪl/"
+    ],
+    "synonyms": [
+        "cell",
+        "slammer",
+        "calaboose",
+        "pokey",
+        "prison"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A building for the confinement of people who are awaiting trial or who have been convicted of minor offenses.",
+            "vi": "Một tòa nhà để giam giữ những người đang chờ xét xử hoặc những người đã bị kết án về tội nhẹ."
+        },
+        {
+            "pos": "verb",
+            "en": "Jail is defined as to put someone into a place that they can't get out of.",
+            "vi": "Nhà tù được định nghĩa là đưa ai đó vào một nơi mà họ không thể ra khỏi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The point is that he went to jail for it.",
+            "vi": "Vấn đề là anh ta đã phải vào tù vì nó."
+        },
+        {
+            "en": "He was still in jail.",
+            "vi": "Anh ta vẫn ở trong tù."
+        }
+    ],
+    "words_form": [
+        "jailed",
+        "jails"
+    ],
+    "meaning_vi": "nhà giam"
+}

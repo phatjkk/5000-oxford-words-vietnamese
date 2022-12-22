@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ɪnˈvoʊk/"
+    ],
+    "synonyms": [
+        "request",
+        "summon",
+        "supplicate",
+        "appeal",
+        "effect"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Invoke means to put something to use.",
+            "vi": "Invoke có nghĩa là đặt một cái gì đó để sử dụng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "An accused slave could not invoke the aid of the tribunes.",
+            "vi": "Một nô lệ bị buộc tội không thể kêu gọi sự hỗ trợ của tòa án."
+        },
+        {
+            "en": "His incompetent leadership made it necessary for the rebels to invoke the help of France.",
+            "vi": "Khả năng lãnh đạo kém cỏi của ông khiến quân nổi dậy phải cầu cứu sự giúp đỡ của Pháp."
+        }
+    ],
+    "words_form": [
+        "invoked",
+        "invokes",
+        "invoking"
+    ],
+    "meaning_vi": "gọi"
+}

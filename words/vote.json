@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/voʊt/"
+    ],
+    "synonyms": [
+        "ticket",
+        "ball",
+        "bring about",
+        "plebiscite",
+        "suffrage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a vote is an expression of a choice, or a decision by a group in an election or poll.",
+            "vi": "Định nghĩa về phiếu bầu là sự thể hiện sự lựa chọn hoặc quyết định của một nhóm trong một cuộc bầu cử hoặc thăm dò ý kiến."
+        },
+        {
+            "pos": "verb",
+            "en": "To express one's preference for a candidate or for a proposed resolution of an issue; cast a vote.",
+            "vi": "Để bày tỏ sự ưu tiên của một người đối với một ứng cử viên hoặc cho một giải pháp đề xuất của một vấn đề; bỏ phiếu."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) vote with (one's) feet  To indicate a preference or an opinion by leaving or entering a particular locale:",
+            "vi": "(không chính thức) bỏ phiếu bằng chân của (một người) Để biểu thị một sở thích hoặc một ý kiến ​​bằng cách rời khỏi hoặc nhập một ngôn ngữ cụ thể:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I, for one, would vote for peace.",
+            "vi": "Tôi, vì một người, sẽ bỏ phiếu cho hòa bình."
+        },
+        {
+            "en": "I'm not a citizen of the county, so I can't vote for you.",
+            "vi": "Tôi không phải là công dân của quận, vì vậy tôi không thể bầu cho bạn."
+        }
+    ],
+    "words_form": [
+        "voted",
+        "votes",
+        "voting"
+    ],
+    "meaning_vi": "bỏ phiếu"
+}

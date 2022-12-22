@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/pərˈsiv/"
+    ],
+    "synonyms": [
+        "detect",
+        "grasp",
+        "identify",
+        "note",
+        "realize"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To see, to be aware of, to understand.",
+            "vi": "Để xem, để nhận thức, để hiểu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I perceive pressure, heat, color, sound, flavor and odor in my five senses.",
+            "vi": "Tôi cảm nhận áp suất, nhiệt, màu sắc, âm thanh, hương vị và mùi trong năm giác quan của mình."
+        },
+        {
+            "en": "Sometimes we perceive things as what we want them to be instead of what they actually are.",
+            "vi": "Đôi khi chúng ta nhìn nhận mọi thứ như những gì chúng ta muốn thay vì những gì chúng thực sự là."
+        }
+    ],
+    "words_form": [
+        "perceived",
+        "perceives",
+        "perceiving"
+    ],
+    "meaning_vi": "nhận thức"
+}

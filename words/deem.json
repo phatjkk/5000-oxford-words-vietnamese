@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/dim/"
+    ],
+    "synonyms": [
+        "consider",
+        "assume",
+        "reckon",
+        "account",
+        "hold"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of deem is to believe or judge.",
+            "vi": "Định nghĩa của được coi là tin tưởng hoặc phán xét."
+        },
+        {
+            "pos": "noun",
+            "en": "An opinion; judgement; surmise.",
+            "vi": "Một ý kiến; sự phán xét; phỏng đoán."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's hard to know what later generations will deem to be art.",
+            "vi": "Thật khó để biết những gì các thế hệ sau sẽ coi là nghệ thuật."
+        },
+        {
+            "en": "But when theists charge one another with \"anthropomorphism,\" in order to rebuke what they deem unduly manlike conceptions of God, they stand on slippery ground.",
+            "vi": "Nhưng khi những người theo thuyết thuyết phục lẫn nhau bằng \"thuyết nhân bản\", để quở trách những gì họ cho là những quan niệm không đúng đắn về Thiên Chúa, thì họ lại đứng trên mặt đất trơn trượt."
+        }
+    ],
+    "words_form": [
+        "deemed",
+        "deems"
+    ],
+    "meaning_vi": "coi là"
+}

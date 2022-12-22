@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈprɛzəns/"
+    ],
+    "synonyms": [
+        "occupancy",
+        "attendance",
+        "aura",
+        "mien",
+        "carriage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The fact or condition of being present; existence, occurrence, or attendance at some place or in some thing.",
+            "vi": "Thực tế hoặc điều kiện của hiện tại; sự tồn tại, sự xuất hiện, hoặc sự hiện diện ở một nơi nào đó hoặc ở một số thứ."
+        },
+        {
+            "pos": "verb",
+            "en": "(philosophy) To make or become present.",
+            "vi": "(triết học) Để tạo ra hoặc trở thành hiện tại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He spoke to her, and his cold presence was close.",
+            "vi": "Anh ta nói chuyện với cô, và sự hiện diện lạnh lùng của anh ta đã gần kề."
+        },
+        {
+            "en": "Maybe the presence of the other two women was why Darcie was so quiet.",
+            "vi": "Có lẽ sự hiện diện của hai người phụ nữ kia là lý do khiến Darcie im lặng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sự hiện diện"
+}

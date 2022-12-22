@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈæk(t)ʃ(u)əl/"
+    ],
+    "synonyms": [
+        "real",
+        "reality",
+        "official",
+        "evidence",
+        "objective"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Existing at present or at the time.",
+            "vi": "Hiện tại hoặc tại thời điểm."
+        },
+        {
+            "pos": "noun",
+            "en": "An actual, real one; notably: (finance) Something actually received; real receipts, as distinct from estimated ones. (military) A radio callsign modifier that specifies the commanding officer of the unit or asset denoted by the remainder of the callsign and not the officer's assistant or other designee.",
+            "vi": "Một thực tế, một thực tế; đáng chú ý là: (tài chính) Một cái gì đó thực sự nhận được; biên lai thực, khác biệt với biên lai ước tính. (quân sự) Một công cụ sửa đổi dấu hiệu vô tuyến chỉ định sĩ quan chỉ huy của đơn vị hoặc tài sản được biểu thị bằng phần còn lại của bảng hiệu chứ không phải trợ lý của sĩ quan hoặc người được chỉ định khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Yet even now there were no actual facts to go upon.",
+            "vi": "Tuy nhiên, thậm chí bây giờ không có sự kiện thực tế nào để xem xét."
+        },
+        {
+            "en": "When was the last time they had an actual conversation?",
+            "vi": "Lần cuối cùng họ trò chuyện thực sự là khi nào?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thực tế"
+}

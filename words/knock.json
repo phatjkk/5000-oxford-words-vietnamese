@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/nɑk/"
+    ],
+    "synonyms": [
+        "injury",
+        "rap",
+        "thump",
+        "hurt",
+        "belittle"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a knock is a rattling sound that an engine makes when there are ignition problems, or is a sound made by hitting, colliding with or tapping on something.",
+            "vi": "Định nghĩa tiếng gõ là âm thanh lạch cạch mà động cơ tạo ra khi có vấn đề về đánh lửa, hoặc là âm thanh do va chạm, va chạm hoặc gõ vào vật gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "Knock is defined as to rap on a door, or to hit something, or to criticize someone or something.",
+            "vi": "Knock được định nghĩa là rap vào cửa, hoặc đập vào một thứ gì đó, hoặc chỉ trích ai đó hoặc điều gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) have it knocked  To be certain of success:",
+            "vi": "(tiếng lóng) đã gõ cửa Để chắc chắn thành công:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I better knock on his door.",
+            "vi": "Tốt hơn là tôi nên gõ cửa nhà anh ấy."
+        },
+        {
+            "en": "There was a soft knock at the door.",
+            "vi": "Có tiếng gõ cửa nhẹ."
+        }
+    ],
+    "words_form": [
+        "knocked",
+        "knocking",
+        "knocks"
+    ],
+    "meaning_vi": "đánh"
+}

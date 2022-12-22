@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/toʊn/"
+    ],
+    "synonyms": [
+        "pitch",
+        "expression",
+        "timbre",
+        "atonicity",
+        "temper"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a tone is a sound in terms of its quality, pitch, origin or power.",
+            "vi": "Định nghĩa của âm là một âm thanh về chất lượng, cao độ, nguồn gốc hoặc sức mạnh của nó."
+        },
+        {
+            "pos": "verb",
+            "en": "Tone means to soften or reduce, particularly in artistic terms.",
+            "vi": "Giọng điệu có nghĩa là làm mềm hoặc giảm bớt, đặc biệt là về mặt nghệ thuật."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(now dialectal) The one (of two).",
+            "vi": "(bây giờ là phương ngữ) Một (trong hai)."
+        },
+        {
+            "pos": "idiom",
+            "en": "tone down  to give a lower or less intense tone to to become softened to make (something written or said) less harsh or more moderate",
+            "vi": "giảm âm để tạo ra một giai điệu thấp hơn hoặc ít dữ dội hơn để trở nên dịu đi để làm cho (điều gì đó được viết hoặc nói) bớt gay gắt hơn hoặc vừa phải hơn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I hoped he could read the tone of my voice.",
+            "vi": "Tôi hy vọng anh ấy có thể đọc được giọng nói của tôi."
+        },
+        {
+            "en": "His tone and expression awoke an old unwelcome feeling.",
+            "vi": "Giọng điệu và biểu cảm của anh ấy đánh thức một cảm giác không được chào đón cũ."
+        }
+    ],
+    "words_form": [
+        "toned",
+        "tones",
+        "toning"
+    ],
+    "meaning_vi": "tấn"
+}

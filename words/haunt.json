@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/hɔnt/",
+        "/hɑnt/"
+    ],
+    "synonyms": [
+        "infest",
+        "worry",
+        "besiege",
+        "meeting-place",
+        "rendezvous"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To haunt is defined as to appear as a ghost, or to visit or appear often.",
+            "vi": "Ám ảnh được định nghĩa là xuất hiện như một bóng ma, hoặc đến thăm hoặc xuất hiện thường xuyên."
+        },
+        {
+            "pos": "noun",
+            "en": "A feeding place for animals.",
+            "vi": "Nơi kiếm ăn của động vật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The mountains are a haunt of red deer.",
+            "vi": "Những ngọn núi là một ám ảnh của hươu đỏ."
+        },
+        {
+            "en": "The cave is the haunt of seals and sea birds.",
+            "vi": "Hang động là nơi ám ảnh của hải cẩu và chim biển."
+        }
+    ],
+    "words_form": [
+        "haunted",
+        "haunting",
+        "haunts"
+    ],
+    "meaning_vi": "ám ảnh"
+}

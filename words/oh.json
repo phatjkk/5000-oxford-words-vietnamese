@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/oʊ/"
+    ],
+    "synonyms": [
+        "no",
+        "ah",
+        "yes",
+        "ohio",
+        "ahh"
+    ],
+    "meaning": [
+        {
+            "pos": "interjection",
+            "en": "Used in direct address.",
+            "vi": "Được sử dụng trong địa chỉ trực tiếp."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Ohio.",
+            "vi": "Ohio."
+        },
+        {
+            "pos": "noun",
+            "en": "The letter O, o (more commonly spelled o)",
+            "vi": "Chữ cái O, o (thường được đánh vần là o)"
+        },
+        {
+            "pos": "verb",
+            "en": "(intransitive) To utter the interjection oh; to express surprise, etc.",
+            "vi": "(intransitive) Để thốt ra thán từ oh; để bày tỏ sự ngạc nhiên, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Oh, I forgot to ask.",
+            "vi": "Ồ, tôi quên hỏi."
+        },
+        {
+            "en": "Oh, what a pretty sound it made!",
+            "vi": "Ồ, nó tạo ra âm thanh tuyệt vời làm sao!"
+        }
+    ],
+    "words_form": [
+        "ohs"
+    ],
+    "meaning_vi": "ồ"
+}

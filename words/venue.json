@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈvɛnˌju/"
+    ],
+    "synonyms": [
+        "place",
+        "ground",
+        "scene",
+        "setting",
+        "marquee"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The scene or locale of a large gathering, as for a sports event or rock concert.",
+            "vi": "Khung cảnh hoặc địa điểm của một cuộc tụ tập đông người, chẳng hạn như một sự kiện thể thao hoặc buổi hòa nhạc rock."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "Stadium.",
+            "vi": "Sân vận động."
+        },
+        {
+            "pos": "idiom",
+            "en": "change of venue  the substitution of another place of trial, as when the local jury or court is likely to be prejudiced",
+            "vi": "thay đổi địa điểm thay thế một địa điểm xét xử khác, như khi bồi thẩm đoàn hoặc tòa án địa phương có thể có thành kiến"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She asked Elisabeth if she had a date and venue in mind yet.",
+            "vi": "Cô ấy hỏi Elisabeth rằng cô ấy đã có ý định về ngày và địa điểm chưa."
+        },
+        {
+            "en": "\"Your choice of venue is …interesting,\" Darkyn said with a glance around.",
+            "vi": "\"Sự lựa chọn địa điểm của bạn là ... thú vị,\" Darkyn nói với một cái nhìn xung quanh."
+        }
+    ],
+    "words_form": [
+        "venues"
+    ],
+    "meaning_vi": "địa điểm"
+}

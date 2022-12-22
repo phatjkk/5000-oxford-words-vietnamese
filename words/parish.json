@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈpɛrɪʃ/"
+    ],
+    "synonyms": [
+        "archdiocese",
+        "territory",
+        "charge",
+        "congregation",
+        "demesne"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A political subdivision of a British county, usually corresponding in boundaries to an original ecclesiastical parish.",
+            "vi": "Một phân khu chính trị của một quận thuộc Anh, thường tương ứng trong ranh giới với một giáo xứ giáo hội ban đầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I've got parish calls to make this evening.",
+            "vi": "Tôi có cuộc gọi từ giáo xứ để thực hiện vào tối nay."
+        },
+        {
+            "en": "The restored church of St Michael, formerly a parish church, but standing on a hill about 2 m.",
+            "vi": "Nhà thờ St Michael đã được trùng tu, trước đây là nhà thờ giáo xứ, nhưng đứng trên một ngọn đồi khoảng 2 m."
+        }
+    ],
+    "words_form": [
+        "parishes"
+    ],
+    "meaning_vi": "giáo xứ"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈækˌsɛs/"
+    ],
+    "synonyms": [
+        "accessible",
+        "path",
+        "available",
+        "introduction",
+        "reach"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Access means to approach, use, or enter something.",
+            "vi": "Access có nghĩa là tiếp cận, sử dụng hoặc nhập một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Access is defined as the way to enter or exit a place.",
+            "vi": "Quyền truy cập được định nghĩa là cách để vào hoặc ra khỏi một địa điểm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You gave Howard access to the checking account.",
+            "vi": "Bạn đã cấp cho Howard quyền truy cập vào tài khoản séc."
+        },
+        {
+            "en": "You had access to that door and didn't walk through it.",
+            "vi": "Bạn đã vào được cánh cửa đó và không bước qua nó."
+        }
+    ],
+    "words_form": [
+        "accessed",
+        "accesses",
+        "accessing"
+    ],
+    "meaning_vi": "truy cập; tiếp cận; lối, cửa, đường vào"
+}

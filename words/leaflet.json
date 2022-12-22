@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈliflɪt/"
+    ],
+    "synonyms": [
+        "flyer",
+        "pinna",
+        "brochure",
+        "handout",
+        "broadside"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A separate sheet of printed matter, often folded but not stitched.",
+            "vi": "Một tờ giấy in riêng biệt, thường được gấp lại nhưng không được khâu lại."
+        },
+        {
+            "pos": "verb",
+            "en": "To hand out leaflets.",
+            "vi": "Phát tờ rơi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The instruction leaflet offers various methods for getting out of tight spots.",
+            "vi": "Tờ rơi hướng dẫn cung cấp nhiều phương pháp khác nhau để thoát khỏi những chỗ kín."
+        },
+        {
+            "en": "It was stated in a leaflet circulated throughout Paris that Favras had organized a plot of which the count of Provence was the moving spirit.",
+            "vi": "Trong một tờ rơi được lưu hành khắp Paris, Favras đã tổ chức một âm mưu mà bá tước Provence là linh hồn chuyển động."
+        }
+    ],
+    "words_form": [
+        "leafleted",
+        "leafleting",
+        "leaflets",
+        "leafletted",
+        "leafletting"
+    ],
+    "meaning_vi": "tờ rơi"
+}

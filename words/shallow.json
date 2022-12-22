@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈʃæloʊ/"
+    ],
+    "synonyms": [
+        "shoal",
+        "deep",
+        "superficial",
+        "serious",
+        "slight"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Not deep.",
+            "vi": "Không sâu."
+        },
+        {
+            "pos": "verb",
+            "en": "To make or become less deep.",
+            "vi": "Để làm cho hoặc trở nên ít sâu hơn."
+        },
+        {
+            "pos": "noun",
+            "en": "A part of a body of water of little depth; a shoal.",
+            "vi": "Một phần của vùng nước có độ sâu nhỏ; một bãi cạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His breathing was shallow and fast.",
+            "vi": "Hơi thở của anh nông và nhanh."
+        },
+        {
+            "en": "They are fresh, shallow and tideless.",
+            "vi": "Chúng tươi, nông và không ngăn nắp."
+        }
+    ],
+    "words_form": [
+        "shallowest",
+        "shallowing",
+        "shallows"
+    ],
+    "meaning_vi": "cạn"
+}

@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/maɪnd/"
+    ],
+    "synonyms": [
+        "soul",
+        "brain",
+        "ego",
+        "intuition",
+        "conscious"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Mind is defined as to give attention to something or someone.",
+            "vi": "Tâm trí được định nghĩa là dành sự chú ý cho một cái gì đó hoặc một người nào đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The human consciousness that originates in the brain and is manifested especially in thought, perception, emotion, will, memory, and imagination.",
+            "vi": "Ý thức của con người bắt nguồn từ bộ não và được biểu hiện đặc biệt ở tư duy, tri giác, tình cảm, ý chí, trí nhớ và trí tưởng tượng."
+        },
+        {
+            "pos": "idiom",
+            "en": "a mind of (one's) own  A capacity or inclination to think or act independently: A reporter with a mind of her own.",
+            "vi": "tư duy của riêng (một người) Năng lực hoặc khuynh hướng suy nghĩ hoặc hành động độc lập: Một phóng viên với tư duy của riêng mình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Those words stayed in her mind all afternoon.",
+            "vi": "Những lời nói đó ở trong tâm trí cô cả buổi chiều."
+        },
+        {
+            "en": "How long would these mind games go on?",
+            "vi": "Những trò chơi trí óc này sẽ diễn ra trong bao lâu?"
+        }
+    ],
+    "words_form": [
+        "minds"
+    ],
+    "meaning_vi": "lí trí"
+}

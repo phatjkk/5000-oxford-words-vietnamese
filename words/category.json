@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈkædəˌɡɔri/"
+    ],
+    "synonyms": [
+        "concept",
+        "genre",
+        "level",
+        "section",
+        "division"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A specifically defined division in a system of classification; a class.",
+            "vi": "Một bộ phận được xác định cụ thể trong một hệ thống phân loại; một lớp học."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "All members that belong to the same category are sitting together.",
+            "vi": "Tất cả các thành viên thuộc cùng một hạng mục đang ngồi cùng nhau."
+        },
+        {
+            "en": "It seems to me that it should be organized by 1911 political divisions as much as possible, so there should be Category: Austria-Hungary instead of Category: Central Europe, for instance.",
+            "vi": "Đối với tôi, dường như nó nên được tổ chức bởi các bộ phận chính trị năm 1911 càng nhiều càng tốt, vì vậy nên có Danh mục: Áo-Hungary thay vì Danh mục: Trung Âu chẳng hạn."
+        }
+    ],
+    "words_form": [
+        "categories"
+    ],
+    "meaning_vi": "thể loại"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˌkɑmˈplɛks/",
+        "/kəmˈplɛks/",
+        "/ˈkɑmˌplɛks/"
+    ],
+    "synonyms": [
+        "heterogeneous",
+        "mingled",
+        "motley",
+        "multifaceted",
+        "multiform"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Made up of multiple parts; composite; not simple.",
+            "vi": "Được tạo thành từ nhiều bộ phận; hỗn hợp; không đơn giản."
+        },
+        {
+            "pos": "noun",
+            "en": "In psychoanalysis, a group of related, often repressed ideas and impulses that compel characteristic or habitual patterns of thought, feelings, and behavior.",
+            "vi": "Trong phân tâm học, một nhóm các ý tưởng và xung lực có liên quan, thường bị kìm nén, tạo nên các kiểu suy nghĩ, cảm xúc và hành vi đặc trưng hoặc theo thói quen."
+        },
+        {
+            "pos": "verb",
+            "en": "(chemistry, intransitive) To form a complex with another substance.",
+            "vi": "(hóa học, nội môi) Để tạo phức với chất khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was one of many complex issues.",
+            "vi": "Đó là một trong nhiều vấn đề phức tạp."
+        },
+        {
+            "en": "There should be complex interaction between those trends and currents.",
+            "vi": "Cần có sự tương tác phức tạp giữa các xu hướng và dòng chảy đó."
+        }
+    ],
+    "words_form": [
+        "complexes"
+    ],
+    "meaning_vi": "phức tạp"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/waɪp/"
+    ],
+    "synonyms": [
+        "mop",
+        "swab",
+        "efface",
+        "clean",
+        "soak up"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or an instance of wiping.",
+            "vi": "Hành động hoặc một ví dụ của việc xóa sổ."
+        },
+        {
+            "pos": "verb",
+            "en": "To rub or pass (a cloth, the hand, etc.) over something.",
+            "vi": "Để chà xát hoặc vuốt (một miếng vải, bàn tay, v.v.) lên một thứ gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "wipe out  to remove; erase to kill off to destroy or demolish to make emotionally or physically drained or exhausted",
+            "vi": "quét sạch để loại bỏ; xóa để giết để phá hủy hoặc phá hủy để làm cho tinh thần hoặc thể chất kiệt quệ hoặc kiệt quệ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She sighed and pulled her hands free to wipe her eyes.",
+            "vi": "Cô thở dài và rụt tay lại để lau mắt."
+        },
+        {
+            "en": "Go in and wipe out the demons.",
+            "vi": "Đi vào và quét sạch những con quỷ."
+        }
+    ],
+    "words_form": [
+        "wiped",
+        "wipes",
+        "wiping"
+    ],
+    "meaning_vi": "lau"
+}

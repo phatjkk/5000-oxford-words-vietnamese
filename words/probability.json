@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˌprɒbəˈbɪlɪti/"
+    ],
+    "synonyms": [
+        "anticipation",
+        "chance",
+        "contingency",
+        "expectation",
+        "feasibility"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The quality or state of being probable; likelihood.",
+            "vi": "Chất lượng hoặc trạng thái có thể xảy ra; khả năng xảy ra."
+        },
+        {
+            "pos": "",
+            "en": "A number expressing the likelihood of the occurrence of a given event, especially a fraction expressing how many times the event will happen in a given number of tests or experiments. For example, when rolling a six-sided die, the probability of rolling a particular side is 1 in 6, or1 /6 .",
+            "vi": "Một con số biểu thị khả năng xảy ra của một sự kiện nhất định, đặc biệt là một phần thể hiện số lần sự kiện đó sẽ xảy ra trong một số lần kiểm tra hoặc thử nghiệm nhất định. Ví dụ: khi lăn một con xúc sắc sáu mặt, xác suất để lăn một mặt cụ thể là 1 trên 6 hoặc 1/6."
+        },
+        {
+            "pos": "idiom",
+            "en": "in all probability  Most probably; very likely.",
+            "vi": "trong tất cả các xác suất Có lẽ nhất; rất có khả năng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What reason was there for assuming any probability of an uprising in the city?",
+            "vi": "Lý do nào để giả định bất kỳ xác suất nào về một cuộc nổi dậy trong thành phố?"
+        },
+        {
+            "en": "They claim probability - moral certainty - mathematical certainty.",
+            "vi": "Họ khẳng định xác suất - sự chắc chắn về mặt đạo đức - sự chắc chắn về toán học."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The quality or state of being probable; likelihood.",
+            "vi": "Chất lượng hoặc trạng thái có thể xảy ra; khả năng xảy ra."
+        },
+        {
+            "pos": "",
+            "en": "A number expressing the likelihood of the occurrence of a given event, especially a fraction expressing how many times the event will happen in a given number of tests or experiments. For example, when rolling a six-sided die, the probability of rolling a particular side is 1 in 6, or1 /6 .",
+            "vi": "Một con số biểu thị khả năng xảy ra của một sự kiện nhất định, đặc biệt là một phần thể hiện số lần sự kiện đó sẽ xảy ra trong một số lần kiểm tra hoặc thử nghiệm nhất định. Ví dụ: khi lăn một con xúc sắc sáu mặt, xác suất để lăn một mặt cụ thể là 1 trên 6 hoặc 1/6."
+        },
+        {
+            "pos": "idiom",
+            "en": "in all probability  Most probably; very likely.",
+            "vi": "trong tất cả các xác suất Có lẽ nhất; rất có khả năng."
+        }
+    ]
+}

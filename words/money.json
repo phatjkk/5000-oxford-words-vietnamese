@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈməni/"
+    ],
+    "synonyms": [
+        "cash",
+        "dinero",
+        "dough",
+        "money",
+        "specie"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The official currency, coins, and negotiable paper notes issued by a government.",
+            "vi": "Tiền tệ chính thức, tiền xu và tiền giấy có thể chuyển nhượng được do chính phủ phát hành."
+        },
+        {
+            "pos": "idiom",
+            "en": "for (one's) money  According to one's opinion, choice, or preference: For my money, it's not worth the trouble.",
+            "vi": "cho tiền của (một người) Theo quan điểm, lựa chọn hoặc sở thích của một người: Đối với tiền của tôi, điều đó không đáng để bạn phải bận tâm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He said I could spend his money with a clear conscience.",
+            "vi": "Anh ấy nói tôi có thể tiêu tiền của anh ấy với lương tâm trong sáng."
+        },
+        {
+            "en": "It's about time you spent some money on yourself.",
+            "vi": "Đã đến lúc bạn dành một số tiền cho bản thân."
+        }
+    ],
+    "words_form": [
+        "moneys",
+        "monies"
+    ],
+    "meaning_vi": "tiền bạc"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈloʊˌkeɪt/",
+        "/loʊˈkeɪt/"
+    ],
+    "synonyms": [
+        "discover",
+        "find",
+        "come across",
+        "meet-with",
+        "position"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(informal) To make one's home or headquarters; settle.",
+            "vi": "(không chính thức) Để làm nhà riêng hoặc trụ sở chính; ổn định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I told him I was just trying to locate the guy.",
+            "vi": "Tôi nói với anh ấy rằng tôi chỉ đang cố gắng xác định vị trí của anh chàng."
+        },
+        {
+            "en": "I've not been able to locate it.",
+            "vi": "Tôi không thể xác định được vị trí của nó."
+        }
+    ],
+    "words_form": [
+        "located",
+        "locates",
+        "locating"
+    ],
+    "meaning_vi": "định vị"
+}

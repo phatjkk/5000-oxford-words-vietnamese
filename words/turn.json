@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tərn/"
+    ],
+    "synonyms": [
+        "repulse",
+        "curve",
+        "round",
+        "work",
+        "wrick"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Turn is defined as to rotate in a circle or to change position or reverse.",
+            "vi": "Rẽ được định nghĩa là xoay theo vòng tròn hoặc thay đổi vị trí hoặc đảo ngược."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of turning or the condition of being turned; rotation or revolution.",
+            "vi": "Hành động quay đầu hoặc tình trạng bị quay đầu; luân chuyển hoặc cách mạng."
+        },
+        {
+            "pos": "idiom",
+            "en": "at every turn  In every place; at every moment.",
+            "vi": "ở mọi ngả Ở mọi nơi; tại mọi thời điểm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But let's see how things turn out.",
+            "vi": "Nhưng hãy xem mọi thứ diễn ra như thế nào."
+        },
+        {
+            "en": "He reached back and tried to turn on the lights.",
+            "vi": "Anh đưa tay về phía sau và cố gắng bật đèn."
+        }
+    ],
+    "words_form": [
+        "turned",
+        "turning",
+        "turns"
+    ],
+    "meaning_vi": "bật"
+}

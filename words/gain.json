@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɡeɪn/"
+    ],
+    "synonyms": [
+        "profit",
+        "earnings",
+        "winnings",
+        "acquire",
+        "accumulation"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To come to; reach.",
+            "vi": "Để đi tới; với tới."
+        },
+        {
+            "pos": "noun",
+            "en": "A notch or mortise cut into a board to receive another part.",
+            "vi": "Một khía hoặc lỗ mộng được cắt thành một tấm ván để nhận một phần khác."
+        },
+        {
+            "pos": "idiom",
+            "en": "gain ground  To progress, advance, or increase: Stock prices gained ground yesterday.",
+            "vi": "đạt được mặt bằng Để tiến bộ, tăng hoặc tăng: Giá cổ phiếu đã tăng điểm vào ngày hôm qua."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "All they gain is a sense of contributing.",
+            "vi": "Tất cả những gì họ đạt được là ý thức đóng góp."
+        },
+        {
+            "en": "My loss is your gain, Josh.",
+            "vi": "Sự mất mát của tôi là lợi ích của bạn, Josh."
+        }
+    ],
+    "words_form": [
+        "gained",
+        "gaining",
+        "gains"
+    ],
+    "meaning_vi": "thu được"
+}

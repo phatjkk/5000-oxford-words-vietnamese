@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/treɪl/"
+    ],
+    "synonyms": [
+        "tracks",
+        "train",
+        "way",
+        "hound",
+        "precede"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a trail is a marked, paved or beaten path or course.",
+            "vi": "Định nghĩa của một đường nhỏ là một con đường hoặc khóa học được đánh dấu, trải nhựa hoặc được đánh dấu."
+        },
+        {
+            "pos": "verb",
+            "en": "Trail is defined as to drag, pull, follow or lag behind someone or something.",
+            "vi": "Đường nhỏ được định nghĩa là kéo, kéo, đi theo hoặc tụt lại phía sau ai đó hoặc cái gì đó."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A city in British Columbia.",
+            "vi": "Một thành phố ở British Columbia."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A scarred tree marked a turning point in the trail, so she slowed down.",
+            "vi": "Một cái cây có sẹo đánh dấu một khúc quanh của con đường mòn, vì vậy cô ấy giảm tốc độ."
+        },
+        {
+            "en": "She glanced down the trail and nodded.",
+            "vi": "Cô nhìn xuống con đường mòn và gật đầu."
+        }
+    ],
+    "words_form": [
+        "trailed",
+        "trailing",
+        "trails"
+    ],
+    "meaning_vi": "đường mòn"
+}

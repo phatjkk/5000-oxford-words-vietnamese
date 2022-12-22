@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ˈreɪdioʊ/"
+    ],
+    "synonyms": [
+        "communication",
+        "shortwave",
+        "walkman",
+        "signaling",
+        "radiotelegraphy"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Electromagnetic radiation with lower frequencies and longer wavelengths than those of microwaves, having frequencies lower than 300 megahertz and wavelengths longer than 1 meter.",
+            "vi": "Bức xạ điện từ có tần số thấp hơn và bước sóng dài hơn của vi sóng, có tần số thấp hơn 300 megahertz và bước sóng dài hơn 1 mét."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of radio is relating to a device that uses electromagnetic waves for communication.",
+            "vi": "Định nghĩa của radio liên quan đến một thiết bị sử dụng sóng điện từ để liên lạc."
+        },
+        {
+            "pos": "verb",
+            "en": "To send (a message, etc.) or communicate with (a person) by radio.",
+            "vi": "Để gửi (tin nhắn, v.v.) hoặc liên lạc với (một người) bằng radio."
+        },
+        {
+            "pos": "prefix",
+            "en": "Radiation; radiant energy.",
+            "vi": "Sự bức xạ; năng lượng bức xạ."
+        },
+        {
+            "pos": "affix",
+            "en": "Ray, raylike.",
+            "vi": "Tia, giống tia."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The radio had shifted into Christmas mode with one song after another.",
+            "vi": "Đài đã chuyển sang chế độ Giáng sinh với bài hát này đến bài hát khác."
+        },
+        {
+            "en": "Turn on the radio so we can talk.",
+            "vi": "Bật đài để chúng ta có thể nói chuyện."
+        }
+    ],
+    "words_form": [
+        "radioed",
+        "radioing",
+        "radios"
+    ],
+    "meaning_vi": "đài phát thanh"
+}

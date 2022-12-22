@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/kənˈdɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "trim",
+        "state",
+        "ailment",
+        "stipulation",
+        "cause"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(gram.) A clause expressing a condition, as one beginning with if.",
+            "vi": "(gram.) Một mệnh đề thể hiện một điều kiện, như một mệnh đề bắt đầu bằng if."
+        },
+        {
+            "pos": "verb",
+            "en": "To apply a conditioner to the hair, etc.",
+            "vi": "Để thoa dầu dưỡng tóc, v.v."
+        },
+        {
+            "pos": "idiom",
+            "en": "on condition that  provided that; if",
+            "vi": "với điều kiện cung cấp rằng; nếu như"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You're in no condition to run around town.",
+            "vi": "Bạn không có điều kiện để chạy quanh thị trấn."
+        },
+        {
+            "en": "Do you know the condition I am in?",
+            "vi": "Bạn có biết tình trạng tôi đang ở không?"
+        }
+    ],
+    "words_form": [
+        "conditioned",
+        "conditions"
+    ],
+    "meaning_vi": "điều kiện"
+}

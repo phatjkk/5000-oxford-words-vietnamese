@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈkɑnˌtræst/"
+    ],
+    "synonyms": [
+        "conflict",
+        "inverse",
+        "comparison",
+        "mismatch",
+        "contradiction"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A difference, esp. a striking difference, between things being compared.",
+            "vi": "Một sự khác biệt, đặc biệt. một sự khác biệt nổi bật, giữa những thứ được so sánh."
+        },
+        {
+            "pos": "verb",
+            "en": "Contrast means to compare in order to show differences.",
+            "vi": "Tương phản có nghĩa là so sánh để chỉ ra sự khác biệt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His opinions were in broad contrast to the views of Dr. Andrews.",
+            "vi": "Ý kiến ​​của ông hoàn toàn trái ngược với quan điểm của Tiến sĩ Andrews."
+        },
+        {
+            "en": "Such is the contrast between winter and spring.",
+            "vi": "Đó là sự tương phản giữa mùa đông và mùa xuân."
+        }
+    ],
+    "words_form": [
+        "contrasted",
+        "contrasting",
+        "contrasts"
+    ],
+    "meaning_vi": "tương phản"
+}

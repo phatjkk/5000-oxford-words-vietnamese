@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈkərəntli/"
+    ],
+    "synonyms": [
+        "presently",
+        "now",
+        "previously",
+        "already",
+        "time"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "At this moment, at present, now.",
+            "vi": "Tại thời điểm này, hiện tại, bây giờ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This is currently my favorite red car.",
+            "vi": "Đây hiện là chiếc xe màu đỏ yêu thích của tôi."
+        },
+        {
+            "en": "Jackson rounded the corner onto Elm Street toward the Renaissance inspired estate he currently called home.",
+            "vi": "Jackson vòng qua góc phố Elm về phía bất động sản lấy cảm hứng từ thời Phục hưng mà anh ấy hiện gọi là nhà."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hiện tại"
+}

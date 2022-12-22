@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈtɪkɪt/"
+    ],
+    "synonyms": [
+        "certificate",
+        "annie oakley",
+        "summons",
+        "tag",
+        "key"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(informal) A license or qualifying certificate.",
+            "vi": "(không chính thức) Giấy phép hoặc chứng chỉ đủ điều kiện."
+        },
+        {
+            "pos": "verb",
+            "en": "To provide with a ticket for passage or admission.",
+            "vi": "Để cung cấp một vé để đi qua hoặc vào cửa."
+        },
+        {
+            "pos": "idiom",
+            "en": "just the ticket  fitting; proper; just right",
+            "vi": "chỉ là sự phù hợp vé; thích hợp; đúng rồi"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They approached the ticket counter with 15 minutes to spare.",
+            "vi": "Họ tiếp cận quầy bán vé với 15 phút rảnh rỗi."
+        },
+        {
+            "en": "I.m your only ticket out of here.",
+            "vi": "Tôi là tấm vé duy nhất của bạn ra khỏi đây."
+        }
+    ],
+    "words_form": [
+        "ticketed",
+        "ticketing",
+        "tickets"
+    ],
+    "meaning_vi": "vé"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌɪmpləˈkeɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "indication",
+        "union",
+        "consequence",
+        "implications",
+        "connotation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of implication is something that is inferred.",
+            "vi": "Định nghĩa của hàm ý là một cái gì đó được suy ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The implication was as obvious as it was annoying.",
+            "vi": "Hàm ý quá rõ ràng vì nó thật khó chịu."
+        },
+        {
+            "en": "The implication is always that some people are simply unable to do any job that a machine cannot do.",
+            "vi": "Hàm ý luôn luôn là một số người đơn giản là không thể làm bất kỳ công việc nào mà máy móc không thể làm được."
+        }
+    ],
+    "words_form": [
+        "implications"
+    ],
+    "meaning_vi": "hàm ý"
+}

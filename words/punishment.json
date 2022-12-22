@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈpənɪʃmənt/"
+    ],
+    "synonyms": [
+        "correction",
+        "penalisation",
+        "judgment",
+        "sentence",
+        "exoneration"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Punishment is the act of inflicting a consequence or penalty on someone as a result of their wrongdoing, or the consequence or penalty itself.",
+            "vi": "Hình phạt là hành vi gây ra một hậu quả hoặc hình phạt đối với một người nào đó do hành vi sai trái của họ, hoặc chính hậu quả hoặc hình phạt đó."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "Retribution.",
+            "vi": "Quả báo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"What will the punishment be, Mr. Johnson?\" asked a bold, bad boy.",
+            "vi": "\"Hình phạt sẽ như thế nào, thưa ông Johnson?\" một cậu bé mạnh dạn, xấu tính hỏi."
+        },
+        {
+            "en": "No other punishment fell on the man.",
+            "vi": "Không có hình phạt nào khác rơi vào người đàn ông."
+        }
+    ],
+    "words_form": [
+        "punishments"
+    ],
+    "meaning_vi": "trừng phạt"
+}

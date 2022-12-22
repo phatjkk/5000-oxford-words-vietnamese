@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/pli/"
+    ],
+    "synonyms": [
+        "petition",
+        "prayer",
+        "argument",
+        "pleading",
+        "appeal"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An earnest and urgent request; appeal; entreaty.",
+            "vi": "Một yêu cầu nghiêm túc và khẩn cấp; bắt mắt; sự rủ rê."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is a forcible plea for freedom of conscience.",
+            "vi": "Đó là một lời cầu xin cưỡng bức cho tự do lương tâm."
+        },
+        {
+            "en": "Her tearful plea made him angry that he hadn't been able to protect her as he should have.",
+            "vi": "Lời cầu xin đẫm nước mắt của cô khiến anh tức giận vì anh đã không thể bảo vệ cô như lẽ ra phải làm."
+        }
+    ],
+    "words_form": [
+        "pleas"
+    ],
+    "meaning_vi": "cầu xin"
+}

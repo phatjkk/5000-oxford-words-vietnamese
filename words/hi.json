@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/haɪ/"
+    ],
+    "synonyms": [
+        "hello",
+        "how-do-you-do",
+        "howdy",
+        "hullo",
+        "hiya"
+    ],
+    "meaning": [
+        {
+            "pos": "interjection",
+            "en": "(informal) Hello.",
+            "vi": "(thân mật) Xin chào."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Hawaii.",
+            "vi": "Hawaii."
+        },
+        {
+            "pos": "noun",
+            "en": "\"Hi\" or similar greeting.",
+            "vi": "\"Xin chào\" hoặc lời chào tương tự."
+        },
+        {
+            "pos": "adjective",
+            "en": "Informal spelling of high, often hyphenated.",
+            "vi": "Chính tả không chính thức của cao, thường được gạch nối."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Hi,\" she said with a slight smile.",
+            "vi": "“Xin chào,” cô ấy nói với một nụ cười nhẹ."
+        },
+        {
+            "en": "Hi guys, what's up?",
+            "vi": "Nay, anh bạn! Co chuyện gi vậy?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "Chào"
+}

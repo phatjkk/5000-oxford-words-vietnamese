@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/prəˈdɪkt/"
+    ],
+    "synonyms": [
+        "foretell",
+        "divine",
+        "prognosticate",
+        "predictable",
+        "predictive"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(obsolete) A prediction.",
+            "vi": "(lỗi thời) Một dự đoán."
+        },
+        {
+            "pos": "verb",
+            "en": "To believe or hold to be true in advance; forehold; surmise.",
+            "vi": "Để tin hoặc cho là đúng trước; nói trước; phỏng đoán."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I predict tonight will be a huge success.",
+            "vi": "Tôi dự đoán đêm nay sẽ thành công rực rỡ."
+        },
+        {
+            "en": "He was in a place, emotionally, that was totally foreign, and he couldn't begin to predict how this night would unfold.",
+            "vi": "Về mặt cảm xúc, anh ấy đang ở một nơi hoàn toàn xa lạ, và anh ấy bắt đầu không thể đoán được đêm này sẽ diễn ra như thế nào."
+        }
+    ],
+    "words_form": [
+        "predicted",
+        "predicting",
+        "predicts"
+    ],
+    "meaning_vi": "dự đoán"
+}

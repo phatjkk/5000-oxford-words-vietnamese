@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/əˈtərn(ə)l/"
+    ],
+    "synonyms": [
+        "endless",
+        "continuous",
+        "continued",
+        "unending",
+        "unceasing"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Being without beginning or end.",
+            "vi": "Không có bắt đầu hay kết thúc."
+        },
+        {
+            "pos": "noun",
+            "en": "Something timeless, uninterrupted, or endless.",
+            "vi": "Một cái gì đó vượt thời gian, không bị gián đoạn hoặc vô tận."
+        },
+        {
+            "pos": "idiom",
+            "en": "(epithet) the Eternal  God",
+            "vi": "(ephet) Chúa vĩnh cửu"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Some people are very concerned about their eternal destiny.",
+            "vi": "Một số người rất quan tâm đến số phận vĩnh viễn của họ."
+        },
+        {
+            "en": "The young girl wasn't allowed to have a pet dog, but she had an eternal craving for one.",
+            "vi": "Cô gái trẻ không được phép nuôi một con chó cưng, nhưng cô luôn khao khát có được một con."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bất diệt"
+}

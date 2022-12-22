@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌəndərˈɡrædʒuət/"
+    ],
+    "synonyms": [
+        "freshman",
+        "sophomore",
+        "junior",
+        "undergrad",
+        "underclassman"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having the standing of an undergraduate.",
+            "vi": "Có tư cách của một sinh viên đại học."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of an undergraduate is a university or college student who has not completed a degree.",
+            "vi": "Định nghĩa của một đại học là một sinh viên đại học hoặc cao đẳng chưa hoàn thành một bằng cấp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His marriage while still an undergraduate probably accounted for his low place in the tripos.",
+            "vi": "Cuộc hôn nhân của anh ấy khi vẫn còn là một sinh viên đại học có lẽ đã chiếm vị trí thấp của anh ấy trong bộ ba."
+        },
+        {
+            "en": "When the Berlin Wall fell in 1989, I was an undergraduate at Rice University.",
+            "vi": "Khi Bức tường Berlin sụp đổ năm 1989, tôi đang là sinh viên Đại học Rice."
+        }
+    ],
+    "words_form": [
+        "undergraduates"
+    ],
+    "meaning_vi": "sinh viên đại học hoặc cao đẳng chưa lấy bằng đầu tiên; sinh viên chưa tốt nghiệp"
+}

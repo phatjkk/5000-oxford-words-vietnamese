@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈlɪrɪk/"
+    ],
+    "synonyms": [
+        "verse",
+        "words",
+        "ode",
+        "sonnet",
+        "hymn"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Lyric is defined as a word or words in a song.",
+            "vi": "Lyric được định nghĩa là một từ hoặc các từ trong một bài hát."
+        },
+        {
+            "pos": "adjective",
+            "en": "Lyrical.",
+            "vi": "Trữ tình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He also drew up select lists of epic and lyric poets.",
+            "vi": "Ông cũng lập danh sách chọn lọc các nhà thơ sử thi và trữ tình."
+        },
+        {
+            "en": "Joseph Kiss in 1876 brought out a few lyric and epic poems of considerable merit.",
+            "vi": "Joseph Kiss vào năm 1876 đã đưa ra một vài bài thơ trữ tình và sử thi có giá trị đáng kể."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bài thơ trữ tình"
+}

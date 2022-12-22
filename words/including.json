@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɪnˈkludɪŋ/"
+    ],
+    "synonyms": [
+        "numbering",
+        "comprising",
+        "containing",
+        "incorporating",
+        "admitting"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "Involving, containing, or comprising.",
+            "vi": "Bao gồm, chứa hoặc bao gồm."
+        },
+        {
+            "pos": "verb",
+            "en": "Including is defined as containing.",
+            "vi": "Bao gồm được định nghĩa là chứa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Was he including himself in that statement?",
+            "vi": "Anh ta có bao gồm chính mình trong câu nói đó không?"
+        },
+        {
+            "en": "Dean gave Winston the information, including both names, Cleary and Corbin.",
+            "vi": "Dean đã cung cấp cho Winston thông tin, bao gồm cả tên, Cleary và Corbin."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "kể cả"
+}

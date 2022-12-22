@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dʒoʊk/"
+    ],
+    "synonyms": [
+        "prank",
+        "hoax",
+        "quip",
+        "buffoonery",
+        "frolic"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To speak in fun; be facetious.",
+            "vi": "Nói một cách vui vẻ; hãy đối mặt."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a joke is something said or done for laughter or amusement.",
+            "vi": "Định nghĩa của một trò đùa là một cái gì đó được nói hoặc làm để gây cười hoặc giải trí."
+        },
+        {
+            "pos": "idiom",
+            "en": "no joke  a serious matter",
+            "vi": "không đùa, một vấn đề nghiêm trọng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Don't joke about that.",
+            "vi": "Đừng đùa về điều đó."
+        },
+        {
+            "en": "If what I'm seeing isn't some kind of joke, I'm at the end of the yellow brick road.",
+            "vi": "Nếu những gì tôi đang thấy không phải là một trò đùa nào đó, thì tôi đang ở cuối con đường gạch vàng."
+        }
+    ],
+    "words_form": [
+        "joked",
+        "jokes",
+        "joking"
+    ],
+    "meaning_vi": "đùa"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈfɔrmər/"
+    ],
+    "synonyms": [
+        "prior",
+        "erstwhile",
+        "latter",
+        "past",
+        "above-mentioned"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having been so in the past.",
+            "vi": "Đã từng như vậy trong quá khứ."
+        },
+        {
+            "pos": "noun",
+            "en": "The first of two persons or things mentioned.",
+            "vi": "Người đầu tiên trong số hai người hoặc sự vật được đề cập."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She felt too bad for the former goddess to walk away.",
+            "vi": "Cô cảm thấy quá tệ khi cựu nữ thần bỏ đi."
+        },
+        {
+            "en": "Prince Vasili, who still occupied his former important posts, formed a connecting link between these two circles.",
+            "vi": "Hoàng tử Vasili, người vẫn chiếm giữ các chức vụ quan trọng trước đây của mình, đã hình thành một liên kết kết nối giữa hai vòng tròn này."
+        }
+    ],
+    "words_form": [
+        "formers"
+    ],
+    "meaning_vi": "trước đây"
+}

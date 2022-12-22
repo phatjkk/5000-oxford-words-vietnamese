@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/drəŋk/"
+    ],
+    "synonyms": [
+        "inebriated",
+        "intoxicated",
+        "under the influence",
+        "sottish",
+        "smashed"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "In a state of intoxication caused by the consumption of excessive alcohol, usually by drinking alcoholic beverages.",
+            "vi": "Trong tình trạng say do uống quá nhiều rượu, thường là do uống đồ uống có cồn."
+        },
+        {
+            "pos": "noun",
+            "en": "A drunken state.",
+            "vi": "Một trạng thái say xỉn."
+        },
+        {
+            "pos": "verb",
+            "en": "Drink.",
+            "vi": "Uống."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was drunk, Lori.",
+            "vi": "Anh ấy say rồi, Lori."
+        },
+        {
+            "en": "Maybe I'll get him drunk instead.",
+            "vi": "Có lẽ tôi sẽ làm cho anh ta say."
+        }
+    ],
+    "words_form": [
+        "drunks"
+    ],
+    "meaning_vi": "say rượu"
+}

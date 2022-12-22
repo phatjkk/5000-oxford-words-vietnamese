@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/steɪt/"
+    ],
+    "synonyms": [
+        "republic",
+        "declare",
+        "put forward",
+        "express",
+        "submit"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "State is defined as a territory with its own government and borders within a larger country.",
+            "vi": "Bang được định nghĩa là một lãnh thổ có chính phủ riêng và biên giới bên trong một quốc gia lớn hơn."
+        },
+        {
+            "pos": "verb",
+            "en": "State means to speak or say something.",
+            "vi": "State có nghĩa là nói hoặc nói điều gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Owned and operated by a state.",
+            "vi": "Được sở hữu và điều hành bởi một nhà nước."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Taste.",
+            "vi": "Mùi vị."
+        },
+        {
+            "pos": "pronoun",
+            "en": "State University, as the shortened form of any public university name.",
+            "vi": "State University, là dạng rút gọn của bất kỳ tên trường đại học công lập nào."
+        },
+        {
+            "pos": "idiom",
+            "en": "in (or into) a state  in (or into) a condition of agitation or excitement",
+            "vi": "ở (hoặc vào) trạng thái trong (hoặc vào) tình trạng kích động hoặc phấn khích"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Oh, what a terrible state he is in!",
+            "vi": "Ôi, anh ấy đang ở trong tình trạng khủng khiếp làm sao!"
+        },
+        {
+            "en": "She came tearing upstairs a few minutes ago in a state of great excitement.",
+            "vi": "Cô ấy đã lên lầu cách đây vài phút với tâm trạng vô cùng phấn khích."
+        }
+    ],
+    "words_form": [
+        "stated",
+        "states",
+        "stating"
+    ],
+    "meaning_vi": "bang"
+}

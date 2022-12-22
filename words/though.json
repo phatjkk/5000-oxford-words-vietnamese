@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ðoʊ/"
+    ],
+    "synonyms": [
+        "although",
+        "despite",
+        "albeit",
+        "while",
+        "if"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "Though is defined as even if, or in spite of, the fact.",
+            "vi": "Mặc dù được định nghĩa là ngay cả khi, hoặc bất chấp thực tế."
+        },
+        {
+            "pos": "adverb",
+            "en": "However; nevertheless.",
+            "vi": "Tuy vậy; Tuy nhiên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She looked at them as though they had betrayed her.",
+            "vi": "Cô nhìn họ như thể họ đã phản bội cô."
+        },
+        {
+            "en": "The phone woke me up, even though it wasn't very loud.",
+            "vi": "Điện thoại đánh thức tôi, mặc dù nó không lớn lắm."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tuy nhiên"
+}

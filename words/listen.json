@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈlɪs(ə)n/"
+    ],
+    "synonyms": [
+        "overhear",
+        "hearken",
+        "attend",
+        "accept",
+        "adopt"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Listen is defined as to make an effort to hear or pay close attention to someone or something.",
+            "vi": "Lắng nghe được định nghĩa là nỗ lực để nghe hoặc chú ý đến ai đó hoặc điều gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "An act of listening.",
+            "vi": "Một hành động lắng nghe."
+        },
+        {
+            "pos": "idiom",
+            "en": "listen in  to listen to the conversation of others; esp., to eavesdrop to listen to a broadcast",
+            "vi": "lắng nghe để lắng nghe cuộc trò chuyện của người khác; đặc biệt, để nghe trộm để nghe một chương trình phát sóng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Just listen to what he has to say.",
+            "vi": "Chỉ cần lắng nghe những gì anh ấy nói."
+        },
+        {
+            "en": "My parents used to listen to those old songs.",
+            "vi": "Bố mẹ tôi thường nghe những bài hát cũ đó."
+        }
+    ],
+    "words_form": [
+        "listened",
+        "listening",
+        "listens"
+    ],
+    "meaning_vi": "lắng nghe"
+}

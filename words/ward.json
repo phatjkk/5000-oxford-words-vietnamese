@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/wɔrd/"
+    ],
+    "synonyms": [
+        "child",
+        "district",
+        "division",
+        "parish",
+        "shield"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a ward is a wing of a hospital, a division of a prison, or a person, especially a child, who is dependent upon the care and support of an appointed guardian.",
+            "vi": "Định nghĩa của một người được giám hộ là một cánh của bệnh viện, một khu nhà tù, hoặc một người, đặc biệt là trẻ em, người phụ thuộc vào sự chăm sóc và hỗ trợ của người giám hộ được chỉ định."
+        },
+        {
+            "pos": "verb",
+            "en": "(archaic) To keep watch over; guard; protect.",
+            "vi": "(cổ xưa) Để trông chừng; bảo vệ; bảo vệ."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) (pseud. of Charles Farrar Browne) 1834-67; U.S. humorist.",
+            "vi": "(người) (bút danh của Charles Farrar Browne) 1834-67; Nhà hài hước Hoa Kỳ."
+        },
+        {
+            "pos": "affix",
+            "en": "In a (specified) direction.",
+            "vi": "Theo một hướng (xác định)."
+        },
+        {
+            "pos": "pronoun",
+            "en": "An English occupational surname for a guard or watchman.",
+            "vi": "Họ nghề nghiệp bằng tiếng Anh cho người bảo vệ hoặc người canh gác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He sensed the ward he triggered and waited.",
+            "vi": "Anh ta cảm nhận được phường mà anh ta kích hoạt và chờ đợi."
+        },
+        {
+            "en": "If he bought property belonging to a feudal holding, or to a ward in chancery, he had to return it and forfeit what he gave for it as well.",
+            "vi": "Nếu anh ta mua tài sản thuộc quyền sở hữu của phong kiến, hoặc của một phường trong phủ, anh ta phải trả lại nó và tước bỏ những gì anh ta đã cho nó."
+        }
+    ],
+    "words_form": [
+        "warded",
+        "warding",
+        "wards"
+    ],
+    "meaning_vi": "khu vực"
+}

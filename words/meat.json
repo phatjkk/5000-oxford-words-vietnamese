@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/mit/"
+    ],
+    "synonyms": [
+        "essence",
+        "heart-and-soul",
+        "import",
+        "centre",
+        "pork"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Meat is vulgar slang for a person’s body, in a strictly sexual view.",
+            "vi": "Thịt là tiếng lóng thô tục để chỉ cơ thể của một người, theo quan điểm tình dục nghiêm túc."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) meat and potatoes  The fundamental parts or part; the basis.",
+            "vi": "(không chính thức) thịt và khoai tây Các bộ phận hoặc một phần cơ bản; Điều cơ bản."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His bread and meat are sweet.",
+            "vi": "Bánh mì và thịt của anh ấy ngọt ngào."
+        },
+        {
+            "en": "She ate the meat and drank some of the cool water.",
+            "vi": "Cô ăn thịt và uống một ít nước mát."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thịt"
+}

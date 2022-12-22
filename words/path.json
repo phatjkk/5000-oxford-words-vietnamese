@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/pæθ/"
+    ],
+    "synonyms": [
+        "pathway",
+        "roadway",
+        "route",
+        "bridle-path",
+        "footway"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A trodden track or way.",
+            "vi": "Một con đường hoặc một con đường mòn."
+        },
+        {
+            "pos": "suffix",
+            "en": "A practitioner of a specified kind of medical treatment.",
+            "vi": "Một người hành nghề của một loại điều trị y tế cụ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "To make a path in, or on (something), or for (someone).",
+            "vi": "Để tạo một con đường vào, hoặc trên (cái gì đó), hoặc cho (ai đó)."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Pathological.",
+            "vi": "Bệnh lý."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Sofi says his path is dark.",
+            "vi": "Sofi nói rằng con đường của anh ta là tăm tối."
+        },
+        {
+            "en": "Every path but your own is the path of fate.",
+            "vi": "Mọi con đường nhưng của riêng bạn là con đường của số phận."
+        }
+    ],
+    "words_form": [
+        "paths"
+    ],
+    "meaning_vi": "con đường"
+}

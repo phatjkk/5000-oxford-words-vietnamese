@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ɪnˈvɪzəb(ə)l/"
+    ],
+    "synonyms": [
+        "unseen",
+        "imperceptible",
+        "veiled",
+        "transparent",
+        "obscure"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Impossible to see; not visible.",
+            "vi": "Không thể nhìn thấy; không thể thây."
+        },
+        {
+            "pos": "noun",
+            "en": "An invisible thing or being.",
+            "vi": "Một thứ vô hình hay hiện hữu."
+        },
+        {
+            "pos": "idiom",
+            "en": "the Invisible  God the unseen world",
+            "vi": "Thiên Chúa vô hình thế giới không thể nhìn thấy"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They were nearly invisible from the main store.",
+            "vi": "Họ gần như vô hình từ cửa hàng chính."
+        },
+        {
+            "en": "Surely he didn't intend to be verbally invisible the entire visit.",
+            "vi": "Chắc chắn anh ta không có ý định vô hình bằng lời nói trong toàn bộ chuyến thăm."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "vô hình"
+}

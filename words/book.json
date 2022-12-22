@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/bʊk/"
+    ],
+    "synonyms": [
+        "booklet",
+        "document",
+        "scroll",
+        "publication",
+        "writing"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of book is a story or collection of stories that can be read.",
+            "vi": "Định nghĩa về sách là một câu chuyện hoặc tập hợp các câu chuyện có thể đọc được."
+        },
+        {
+            "pos": "verb",
+            "en": "To book is defined as to make reservations for something in advance.",
+            "vi": "Đặt chỗ được định nghĩa là đặt chỗ trước cho một thứ gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to knowledge learned from books rather than actual experience.",
+            "vi": "Của hoặc liên quan đến kiến ​​thức học được từ sách hơn là kinh nghiệm thực tế."
+        },
+        {
+            "pos": "idiom",
+            "en": "bring to book  To demand an explanation from; call to account.",
+            "vi": "mang đến cuốn sách Để yêu cầu một lời giải thích từ; cuộc gọi đến tài khoản."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A coloring book and crayons kept her busy while they worked and talked.",
+            "vi": "Một cuốn sách tô màu và bút màu khiến cô bận rộn trong khi họ làm việc và nói chuyện."
+        },
+        {
+            "en": "He put the book down and slowly stood.",
+            "vi": "Anh đặt cuốn sách xuống và từ từ đứng dậy."
+        }
+    ],
+    "words_form": [
+        "booked",
+        "booking",
+        "books"
+    ],
+    "meaning_vi": "cuốn sách"
+}

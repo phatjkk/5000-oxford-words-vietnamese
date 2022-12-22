@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈmænjəˌskrɪpt/"
+    ],
+    "synonyms": [
+        "composition",
+        "handwriting",
+        "scroll",
+        "piece of music",
+        "typescript"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a manuscript is a book that is written for submission to a publisher, or a book, play or other creative work that is written by hand instead of typed.",
+            "vi": "Định nghĩa về bản thảo là một cuốn sách được viết để gửi cho nhà xuất bản, hoặc một cuốn sách, vở kịch hoặc tác phẩm sáng tạo khác được viết bằng tay thay vì đánh máy."
+        },
+        {
+            "pos": "adjective",
+            "en": "Written by hand or with a typewriter, not printed.",
+            "vi": "Viết bằng tay hoặc bằng máy đánh chữ, không in."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Braille is especially useful in making single manuscript copies of books.",
+            "vi": "Chữ nổi Braille đặc biệt hữu ích trong việc tạo các bản sao chép tay của sách."
+        },
+        {
+            "en": "A notebook lay on the table next to a few scrolls, an ancient manuscript and another block of stone with carvings too faint for Gabe to read.",
+            "vi": "Một cuốn sổ nằm trên bàn bên cạnh một vài cuộn giấy, một bản thảo cổ và một khối đá khác có chạm khắc quá mờ để Gabe có thể đọc được."
+        }
+    ],
+    "words_form": [
+        "manuscripts"
+    ],
+    "meaning_vi": "bản thảo"
+}

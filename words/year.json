@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/jɪr/"
+    ],
+    "synonyms": [
+        "annual",
+        "senectitude",
+        "annually",
+        "elderliness",
+        "blue moon"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A specific period of time, usually shorter than 12 months, devoted to a special activity.",
+            "vi": "Một khoảng thời gian cụ thể, thường ngắn hơn 12 tháng, dành cho một hoạt động đặc biệt."
+        },
+        {
+            "pos": "idiom",
+            "en": "year after year  every year or for many successive years",
+            "vi": "năm này qua năm khác hàng năm hoặc trong nhiều năm liên tiếp"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Each year a payment is made to each resident of Alaska.",
+            "vi": "Mỗi năm, mỗi cư dân của Alaska đều phải trả một khoản tiền."
+        },
+        {
+            "en": "It's been a year since I found out you were married and we split!",
+            "vi": "Đã một năm trôi qua kể từ khi anh biết em đã kết hôn và chúng ta chia tay!"
+        }
+    ],
+    "words_form": [
+        "years"
+    ],
+    "meaning_vi": "năm"
+}

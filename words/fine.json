@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/faɪn/"
+    ],
+    "synonyms": [
+        "beautiful",
+        "narrow",
+        "alright",
+        "powdery",
+        "bitty"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Fine is defined as money charged to a person for doing something wrong, such as breaking the speed limit.",
+            "vi": "Phạt tiền được định nghĩa là khoản tiền bị tính cho một người vì làm điều gì đó sai trái, chẳng hạn như vi phạm tốc độ giới hạn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Consisting of very small particles; not coarse.",
+            "vi": "Bao gồm các hạt rất nhỏ; không thô."
+        },
+        {
+            "pos": "adverb",
+            "en": "(informal) Very well; all right.",
+            "vi": "(không chính thức) Rất tốt; được rồi."
+        },
+        {
+            "pos": "verb",
+            "en": "To make or become finer, purer, or cleaner.",
+            "vi": "Để làm cho hoặc trở nên mịn hơn, tinh khiết hơn hoặc sạch hơn."
+        },
+        {
+            "pos": "idiom",
+            "en": "in fine  In conclusion; finally. In summation; in brief.",
+            "vi": "trong tốt đẹp Trong kết luận; cuối cùng. Trong tổng kết; tóm lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This is a fine meal, do you think?",
+            "vi": "Đây là một bữa ăn ngon, bạn có nghĩ vậy không?"
+        },
+        {
+            "en": "That would be fine with me.",
+            "vi": "Điều đó sẽ ổn với tôi."
+        }
+    ],
+    "words_form": [
+        "fined",
+        "finer",
+        "fines",
+        "finest",
+        "fining"
+    ],
+    "meaning_vi": "khỏe"
+}

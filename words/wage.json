@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/weɪdʒ/"
+    ],
+    "synonyms": [
+        "wages",
+        "engage in",
+        "emolument",
+        "stipendiary",
+        "honorarium"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The payment to an employee, usually based on hours worked or quantity of goods or services produced.",
+            "vi": "Khoản thanh toán cho nhân viên, thường dựa trên số giờ làm việc hoặc số lượng hàng hóa hoặc dịch vụ được sản xuất."
+        },
+        {
+            "pos": "verb",
+            "en": "To engage in or carry on (a war, struggle, campaign, etc.)",
+            "vi": "Để tham gia hoặc tiếp tục (chiến tranh, đấu tranh, chiến dịch, v.v.)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If you are a wage earner, then you should love machines.",
+            "vi": "Nếu bạn là người làm công ăn lương thì bạn nên yêu thích máy móc."
+        },
+        {
+            "en": "The first strike, which was for an eight-hour day and $3.00 wage, was won by the miners.",
+            "vi": "Cuộc đình công đầu tiên, kéo dài tám giờ một ngày và mức lương 3,00 đô la, đã được các thợ mỏ chiến thắng."
+        }
+    ],
+    "words_form": [
+        "waged",
+        "wages",
+        "waging"
+    ],
+    "meaning_vi": "lương"
+}

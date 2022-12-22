@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/ʃi/"
+    ],
+    "synonyms": [
+        "girl",
+        "woman",
+        "i",
+        "barmaid",
+        "hers"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A female animal or person. Sometimes used in combination.",
+            "vi": "Một động vật hoặc người giống cái. Đôi khi được sử dụng kết hợp."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Used to refer to the female person or animal previously mentioned or implied.",
+            "vi": "Được sử dụng để chỉ người hoặc động vật nữ được đề cập hoặc ngụ ý trước đó."
+        },
+        {
+            "pos": "affix",
+            "en": "Female.",
+            "vi": "Giống cái."
+        },
+        {
+            "pos": "initialism",
+            "en": "Initialism of standard hydrogen electrode.",
+            "vi": "Khởi tạo của điện cực hydro tiêu chuẩn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She is betraying us!",
+            "vi": "Cô ấy đang phản bội chúng ta!"
+        },
+        {
+            "en": "Nature is hard to be overcome, but she must be overcome.",
+            "vi": "Bản chất khó bị khuất phục, nhưng cô nhất định phải vượt qua."
+        }
+    ],
+    "words_form": [
+        "shes",
+        "they"
+    ],
+    "meaning_vi": "bà ấy"
+}

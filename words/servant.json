@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈsərvənt/"
+    ],
+    "synonyms": [
+        "hireling",
+        "helper",
+        "servitor",
+        "attendant",
+        "slave"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One who is privately employed to perform domestic services.",
+            "vi": "Một người được tư nhân làm việc để thực hiện các dịch vụ trong nước."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To subject.",
+            "vi": "(lỗi thời) Theo chủ đề."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Would you like a cup of tea?\" the servant asked.",
+            "vi": "\"Bạn có muốn một tách trà không?\" người hầu hỏi."
+        },
+        {
+            "en": "Government is the servant of the people, not the master.",
+            "vi": "Chính phủ là đầy tớ của nhân dân, không phải là chủ."
+        }
+    ],
+    "words_form": [
+        "servants"
+    ],
+    "meaning_vi": "người hầu"
+}

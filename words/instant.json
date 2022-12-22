@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈɪnstənt/"
+    ],
+    "synonyms": [
+        "moment",
+        "instantaneous",
+        "jiffy",
+        "flash",
+        "trice"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The current month.",
+            "vi": "Tháng hiện tại."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of instant is something that is urgent or happens immediately.",
+            "vi": "Định nghĩa của tức thời là một cái gì đó khẩn cấp hoặc xảy ra ngay lập tức."
+        },
+        {
+            "pos": "adverb",
+            "en": "At once; instantly.",
+            "vi": "Một lần; ngay lập tức."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the instant  without delay",
+            "vi": "ngay lập tức mà không bị chậm trễ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In an instant he was beside her, trying to take the bale from her hands.",
+            "vi": "Ngay lập tức, anh đã ở bên cạnh cô, cố gắng lấy gói bánh từ tay cô."
+        },
+        {
+            "en": "In that instant the telephone rang.",
+            "vi": "Ngay lập tức, điện thoại đổ chuông."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tức thì"
+}

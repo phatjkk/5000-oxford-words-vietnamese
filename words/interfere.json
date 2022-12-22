@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˌɪn(t)ərˈfɪr/"
+    ],
+    "synonyms": [
+        "stop",
+        "intervene",
+        "interlope",
+        "hamper",
+        "obstruct"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(physics & electronics) To cause interference.",
+            "vi": "(vật lý & điện tử) Để gây nhiễu."
+        },
+        {
+            "pos": "idiom",
+            "en": "interfere with  to hinder",
+            "vi": "can thiệp vào để cản trở"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You may call or have friends over anytime you wish - as long as they don't interfere with your work.",
+            "vi": "Bạn có thể gọi điện hoặc hẹn gặp bạn bè bất cứ lúc nào bạn muốn - miễn là họ không can thiệp vào công việc của bạn."
+        },
+        {
+            "en": "Just don't let her interfere with the business.",
+            "vi": "Chỉ cần đừng để cô ấy can thiệp vào công việc kinh doanh."
+        }
+    ],
+    "words_form": [
+        "interfered",
+        "interferes",
+        "interfering"
+    ],
+    "meaning_vi": "gây trở ngại"
+}

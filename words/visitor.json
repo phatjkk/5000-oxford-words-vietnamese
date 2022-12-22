@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈvɪzɪdər/"
+    ],
+    "synonyms": [
+        "guest",
+        "visitant",
+        "sightseer",
+        "vacationer",
+        "caller"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Someone or something making a visit.",
+            "vi": "Ai đó hoặc một cái gì đó thực hiện một chuyến thăm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You didn't have a visitor last night.",
+            "vi": "Tối qua bạn không có khách."
+        },
+        {
+            "en": "\"You may have a visitor... yesterday,\" I said as I hung up.",
+            "vi": "\"Có thể bạn có một vị khách ... hôm qua,\" tôi nói khi cúp máy."
+        }
+    ],
+    "words_form": [
+        "visitors"
+    ],
+    "meaning_vi": "khách thăm quan"
+}

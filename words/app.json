@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/æp/"
+    ],
+    "synonyms": [],
+    "meaning": [
+        {
+            "pos": "",
+            "en": "(1) (APPlication) The file extension for executable Mac applications. See APP file.",
+            "vi": "(1) (Ứng dụng) Phần mở rộng tệp cho các ứng dụng Mac có thể thực thi. Xem tệp APP."
+        },
+        {
+            "pos": "noun",
+            "en": "Application, specif., one designed to be downloaded to a computer, smartphone, etc. and having specific Web interface functions.",
+            "vi": "Ứng dụng, đặc biệt, một ứng dụng được thiết kế để tải xuống máy tính, điện thoại thông minh, v.v. và có các chức năng giao diện Web cụ thể."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Appendix.",
+            "vi": "Ruột thừa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This is vitally important, because just looking through Google for \"How to create a Facebook app\" will get you very in-depth tutorials on obsolete methods.",
+            "vi": "Điều này cực kỳ quan trọng, bởi vì chỉ cần xem qua Google về \"Cách tạo ứng dụng Facebook\", bạn sẽ nhận được hướng dẫn rất chuyên sâu về các phương pháp lỗi thời."
+        },
+        {
+            "en": "In general, you will need to code the app separately and according to a different set of standards depending on the phone that you'd like to use.",
+            "vi": "Nói chung, bạn sẽ cần phải viết mã ứng dụng riêng và theo một bộ tiêu chuẩn khác tùy thuộc vào điện thoại mà bạn muốn sử dụng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "",
+            "en": "(1) (APPlication) The file extension for executable Mac applications. See APP file.",
+            "vi": "(1) (Ứng dụng) Phần mở rộng tệp cho các ứng dụng Mac có thể thực thi. Xem tệp APP."
+        },
+        {
+            "pos": "noun",
+            "en": "Application, specif., one designed to be downloaded to a computer, smartphone, etc. and having specific Web interface functions.",
+            "vi": "Ứng dụng, đặc biệt, một ứng dụng được thiết kế để tải xuống máy tính, điện thoại thông minh, v.v. và có các chức năng giao diện Web cụ thể."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Appendix.",
+            "vi": "Ruột thừa."
+        }
+    ]
+}

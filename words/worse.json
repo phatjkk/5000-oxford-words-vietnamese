@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/wərs/"
+    ],
+    "synonyms": [
+        "deteriorated",
+        "harder",
+        "graver",
+        "worsened",
+        "not-so-good"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Worse means in a less acceptable way or manner.",
+            "vi": "Tệ hơn có nghĩa là theo cách hoặc cách thức ít được chấp nhận hơn."
+        },
+        {
+            "pos": "adjective",
+            "en": "More severe or unfavorable.",
+            "vi": "Nặng hơn hoặc không thuận lợi."
+        },
+        {
+            "pos": "noun",
+            "en": "Something that is worse.",
+            "vi": "Một cái gì đó tồi tệ hơn."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To make worse; to put at disadvantage; to discomfit.",
+            "vi": "(lỗi thời) Để làm cho tồi tệ hơn; đặt vào tình thế bất lợi; làm mất lợi ích."
+        },
+        {
+            "pos": "idiom",
+            "en": "for better or (for) worse  Whether the situation or consequences be good or ill: For better or worse, he trusts everyone.",
+            "vi": "tốt hơn hoặc (cho) tệ hơn Cho dù tình huống hoặc hậu quả là tốt hay xấu: Dù tốt hơn hay xấu hơn, anh ấy đều tin tưởng tất cả mọi người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was the worse news I could hear.",
+            "vi": "Đó là tin tức tồi tệ hơn tôi có thể nghe thấy."
+        },
+        {
+            "en": "His silence was worse than his anger.",
+            "vi": "Sự im lặng của anh còn tệ hơn cả sự tức giận của anh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tệ hơn"
+}

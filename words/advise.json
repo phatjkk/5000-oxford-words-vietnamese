@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ədˈvaɪz/"
+    ],
+    "synonyms": [
+        "prescribe",
+        "exhort",
+        "counsel",
+        "guide",
+        "suggest"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To offer as advice; recommend.",
+            "vi": "Để cung cấp như lời khuyên; giới thiệu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I couldn't think of a logical way to advise Detective Jackson.",
+            "vi": "Tôi không thể nghĩ ra cách hợp lý để khuyên thám tử Jackson."
+        },
+        {
+            "en": "He'll advise you and help you in ways I can't.",
+            "vi": "Anh ấy sẽ tư vấn cho bạn và giúp bạn theo những cách mà tôi không thể."
+        }
+    ],
+    "words_form": [
+        "advised",
+        "advises",
+        "advising"
+    ],
+    "meaning_vi": "khuyên nhủ"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈtɛks(t)ˌbʊk/"
+    ],
+    "synonyms": [
+        "text",
+        "coursebooks",
+        "casebook",
+        "text edition",
+        "schoolbook"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of textbook is something that is a perfect or classic example.",
+            "vi": "Định nghĩa của sách giáo khoa là một cái gì đó là một ví dụ hoàn hảo hoặc cổ điển."
+        },
+        {
+            "pos": "noun",
+            "en": "A book used in schools or colleges for the formal study of a subject.",
+            "vi": "Một cuốn sách được sử dụng trong các trường học hoặc cao đẳng để nghiên cứu chính thức một chủ đề."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A textbook example of this is Eli Whitney and the cotton gin.",
+            "vi": "Một ví dụ trong sách giáo khoa về điều này là Eli Whitney và gin bông."
+        },
+        {
+            "en": "His famous textbook, the Sententiae, was written between 1145 and 1150.",
+            "vi": "Sách giáo khoa nổi tiếng của ông, Sententiae, được viết từ năm 1145 đến 1150."
+        }
+    ],
+    "words_form": [
+        "textbooks"
+    ],
+    "meaning_vi": "sách giáo khoa"
+}

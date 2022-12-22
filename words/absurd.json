@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/əbˈsərd/",
+        "/əbˈzərd/"
+    ],
+    "synonyms": [
+        "senseless",
+        "foolish",
+        "illogical",
+        "ludicrous",
+        "untenable"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of absurd is something that is so untrue or impossible it is funny.",
+            "vi": "Định nghĩa của vô lý là một cái gì đó không đúng sự thật hoặc không thể nó là buồn cười."
+        },
+        {
+            "pos": "noun",
+            "en": "The condition or state in which humans exist in an absurd universe, without meaning or purpose. Used chiefly with the.",
+            "vi": "Tình trạng hoặc trạng thái mà con người tồn tại trong một vũ trụ phi lý, không có ý nghĩa hay mục đích. Được sử dụng chủ yếu với."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It had an absurd ritual and a strange uniform.",
+            "vi": "Nó có một nghi lễ vô lý và một bộ đồng phục kỳ lạ."
+        },
+        {
+            "en": "I'm curious, and it's absurd I'm not allowed to talk to anyone!",
+            "vi": "Tôi tò mò, và thật vô lý khi tôi không được phép nói chuyện với bất kỳ ai!"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "vô lý"
+}

@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/dɪˈrɛktəri/"
+    ],
+    "synonyms": [
+        "almanac",
+        "catalogue",
+        "list",
+        "yellow pages",
+        "agenda"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A book containing an alphabetical or classified listing of names, addresses, and other data, such as telephone numbers, of specific persons, groups, or firms.",
+            "vi": "(1) Đồng nghĩa với máy tính để bàn. Ví dụ, cụm từ \"bộ phận CNTT hỗ trợ 150 máy tính để bàn\" có nghĩa là bộ phận này chịu trách nhiệm duy trì 150 máy tính người dùng. Trong những trường hợp như vậy, máy tính xách tay có thể được tính là máy tính để bàn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Serving to direct.",
+            "vi": "Chỉ tiêu cực; không hữu dụng."
+        },
+        {
+            "pos": "",
+            "en": "(1) A simulated file folder on disk. \"Directory\" was first used in the Unix and DOS environments. Apple introduced \"folder\" for the same structure on the Macintosh, and Windows followed. See folder.",
+            "vi": "Hành động hoặc quá trình phát hiện; khám phá."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Clearly, then, the Directory was doomed.",
+            "vi": "Rõ ràng, khi đó, Directory đã bị diệt vong."
+        },
+        {
+            "en": "The Directory was guilty of even greater abuses in dealing with the assignats.",
+            "vi": "Directory đã phạm tội thậm chí còn lạm dụng nhiều hơn trong việc giao dịch với những người được chuyển nhượng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "A book containing an alphabetical or classified listing of names, addresses, and other data, such as telephone numbers, of specific persons, groups, or firms.",
+            "vi": "(1) Đồng nghĩa với máy tính để bàn. Ví dụ, cụm từ \"bộ phận CNTT hỗ trợ 150 máy tính để bàn\" có nghĩa là bộ phận này chịu trách nhiệm duy trì 150 máy tính người dùng. Trong những trường hợp như vậy, máy tính xách tay có thể được tính là máy tính để bàn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Serving to direct.",
+            "vi": "Chỉ tiêu cực; không hữu dụng."
+        },
+        {
+            "pos": "",
+            "en": "(1) A simulated file folder on disk. \"Directory\" was first used in the Unix and DOS environments. Apple introduced \"folder\" for the same structure on the Macintosh, and Windows followed. See folder.",
+            "vi": "Hành động hoặc quá trình phát hiện; khám phá."
+        }
+    ]
+}

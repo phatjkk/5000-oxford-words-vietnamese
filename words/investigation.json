@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ɪnˌvɛstəˈɡeɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "examination",
+        "exploratory",
+        "inquisition",
+        "investigational",
+        "exploration"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A careful examination or search in order to discover facts or gain information.",
+            "vi": "Kiểm tra hoặc tìm kiếm cẩn thận để khám phá sự kiện hoặc thu thập thông tin."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "An investigation proved that to be the case.",
+            "vi": "Một cuộc điều tra đã chứng minh rằng đúng như vậy."
+        },
+        {
+            "en": "Further investigation revealed nothing.",
+            "vi": "Điều tra thêm không tiết lộ gì."
+        }
+    ],
+    "words_form": [
+        "investigations"
+    ],
+    "meaning_vi": "sự điều tra hoặc bị điều tra"
+}

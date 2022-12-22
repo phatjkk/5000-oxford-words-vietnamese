@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/ˈkɑntrɛri/"
+    ],
+    "synonyms": [
+        "refractory",
+        "pigheaded",
+        "antagonistic",
+        "inimical",
+        "cross-grained"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Contrary is defined as something that is opposite.",
+            "vi": "Trái ngược được định nghĩa là một cái gì đó đối lập."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of contrary is someone or something that is opposite to something else or is unfavorable.",
+            "vi": "Định nghĩa của trái ngược là một người nào đó hoặc một cái gì đó đối lập với một cái gì đó khác hoặc là không thuận lợi."
+        },
+        {
+            "pos": "adverb",
+            "en": "Contrarily.",
+            "vi": "Ngược lại."
+        },
+        {
+            "pos": "verb",
+            "en": "1603, John Florio, translating Michel de Montaigne, Essays, I.47.",
+            "vi": "1603, John Florio, dịch Michel de Montaigne, Các tiểu luận, I.47."
+        },
+        {
+            "pos": "idiom",
+            "en": "(obsolete) by contraries  In opposition to what is expected.",
+            "vi": "(lỗi thời) bởi những điều trái ngược với những gì được mong đợi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "On the contrary, I didn't even hear it.",
+            "vi": "Ngược lại, tôi thậm chí còn không nghe thấy."
+        },
+        {
+            "en": "There was a contrary opinion of course!",
+            "vi": "Tất nhiên đã có một ý kiến ​​trái ngược!"
+        }
+    ],
+    "words_form": [
+        "contraries"
+    ],
+    "meaning_vi": "ngược lại"
+}

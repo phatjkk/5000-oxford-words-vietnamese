@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/stəf/"
+    ],
+    "synonyms": [
+        "junk",
+        "load",
+        "nonsense",
+        "cram",
+        "wad"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Stuff is what people or things are made of, general matter or objects.",
+            "vi": "Stuff là những gì con người hoặc mọi thứ được tạo thành, vật chất hoặc đồ vật nói chung."
+        },
+        {
+            "pos": "verb",
+            "en": "To stuff is defined as to fill the interior, overfill or overload.",
+            "vi": "Thứ được định nghĩa là để lấp đầy bên trong, quá đầy hoặc quá tải."
+        },
+        {
+            "pos": "idiom",
+            "en": "(vulgar slang) stuff it  Used as an intensive to express extreme anger, frustration, or disgust.",
+            "vi": "(tiếng lóng thô tục) nó Được sử dụng như một cách chuyên sâu để thể hiện sự tức giận, thất vọng hoặc ghê tởm tột độ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll take her over in the morning to get her stuff out of the car.",
+            "vi": "Tôi sẽ đưa cô ấy đến vào buổi sáng để lấy đồ của cô ấy ra khỏi xe."
+        },
+        {
+            "en": "He refused to do stuff like that.",
+            "vi": "Anh ấy từ chối làm những việc như vậy."
+        }
+    ],
+    "words_form": [
+        "stuffed",
+        "stuffing",
+        "stuffs"
+    ],
+    "meaning_vi": "đồ đạc"
+}

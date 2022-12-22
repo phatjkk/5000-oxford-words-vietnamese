@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈmætʃɪŋ/"
+    ],
+    "synonyms": [
+        "equal",
+        "duplicate",
+        "comparable",
+        "parallel",
+        "analogous"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The same as another; sharing the same design.",
+            "vi": "Giống như cái khác; chia sẻ cùng một thiết kế."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of match.",
+            "vi": "Hiện tại phân từ của trận đấu."
+        },
+        {
+            "pos": "noun",
+            "en": "(graph theory) A set of independent edges in a given graph, i.e. a set of edges which do not intersect: so-called because pairs of vertices are \"matched\" to each other one-to-one.",
+            "vi": "(lý thuyết đồ thị) Một tập hợp các cạnh độc lập trong một đồ thị cho trước, tức là một tập hợp các cạnh không cắt nhau: được gọi là vì các cặp đỉnh là \"đối xứng\" với nhau một-một."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Matching flowers spilled gracefully down the smooth cake.",
+            "vi": "Những bông hoa phù hợp tràn xuống chiếc bánh mịn màng một cách duyên dáng."
+        },
+        {
+            "en": "Destiny giggled, revealing top and bottom teeth in matching pairs.",
+            "vi": "Destiny cười khúc khích, để lộ hàm răng trên và dưới khớp nhau."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "phù hợp"
+}

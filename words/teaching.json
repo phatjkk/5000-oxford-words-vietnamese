@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈtitʃɪŋ/"
+    ],
+    "synonyms": [
+        "instruction",
+        "doctrine",
+        "teach",
+        "curriculum",
+        "rehearsing"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something taught; precept, doctrine, or instruction.",
+            "vi": "Một điều gì đó đã dạy; giới luật, giáo lý, hoặc chỉ dẫn."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of teach.",
+            "vi": "Hiện tại phân từ của giảng dạy."
+        },
+        {
+            "pos": "adjective",
+            "en": "Working as a teacher or in teaching.",
+            "vi": "Đang làm giáo viên hoặc giảng dạy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That was his way—his responsibility— teaching me a very important lesson.",
+            "vi": "Đó là cách của anh ấy - trách nhiệm của anh ấy - dạy cho tôi một bài học rất quan trọng."
+        },
+        {
+            "en": "Alex was teaching Saundra to speak Spanish.",
+            "vi": "Alex đang dạy Saundra nói tiếng Tây Ban Nha."
+        }
+    ],
+    "words_form": [
+        "teachings"
+    ],
+    "meaning_vi": "sự dạy, công việc dạy học"
+}

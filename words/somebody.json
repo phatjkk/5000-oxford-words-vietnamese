@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈsəmbədi/"
+    ],
+    "synonyms": [
+        "one",
+        "he",
+        "she",
+        "anybody",
+        "so-and-so"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "An unspecified or unknown person; someone.",
+            "vi": "Một người không xác định hoặc không rõ; người nào."
+        },
+        {
+            "pos": "noun",
+            "en": "A person of importance.",
+            "vi": "Một người có tầm quan trọng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Somebody clocked my fast ball at seventy-nine.",
+            "vi": "Ai đó đã bấm giờ quả bóng nhanh của tôi ở mức bảy mươi chín."
+        },
+        {
+            "en": "Somebody had to bring up the subject.",
+            "vi": "Ai đó đã phải đưa ra chủ đề."
+        }
+    ],
+    "words_form": [
+        "somebodies",
+        "somebody"
+    ],
+    "meaning_vi": "có ai"
+}

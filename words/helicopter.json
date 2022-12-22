@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈhɛləˌkɑptər/"
+    ],
+    "synonyms": [
+        "chopper",
+        "aircraft",
+        "eggbeater",
+        "gyro",
+        "whirlybird"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An aircraft that derives its lift from blades that rotate about an approximately vertical central axis.",
+            "vi": "Một máy bay tạo ra lực nâng của nó từ các cánh quay quanh trục trung tâm gần như thẳng đứng."
+        },
+        {
+            "pos": "verb",
+            "en": "To transport by helicopter.",
+            "vi": "Để vận chuyển bằng máy bay trực thăng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We've got a helicopter on the way.",
+            "vi": "Chúng tôi có một chiếc trực thăng trên đường tới."
+        },
+        {
+            "en": "The helicopter dropped and caught.",
+            "vi": "Máy bay trực thăng bị rơi và mắc kẹt."
+        }
+    ],
+    "words_form": [
+        "helicoptered",
+        "helicoptering",
+        "helicopters"
+    ],
+    "meaning_vi": "máy bay trực thăng"
+}

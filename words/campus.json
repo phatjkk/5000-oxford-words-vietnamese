@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈkæmpəs/"
+    ],
+    "synonyms": [
+        "university",
+        "college",
+        "school",
+        "academia",
+        "alma-mater"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of campus is something that relates to school or college.",
+            "vi": "Định nghĩa của trường là một cái gì đó liên quan đến trường học hoặc đại học."
+        },
+        {
+            "pos": "noun",
+            "en": "The grounds and buildings of an institution, especially a college or other institution of learning, a hospital, or a corporation.",
+            "vi": "Các khu đất và tòa nhà của một tổ chức, đặc biệt là một trường cao đẳng hoặc các cơ sở học tập khác, một bệnh viện hoặc một công ty."
+        },
+        {
+            "pos": "verb",
+            "en": "To restrict (a student) to campus or dormitory, usually because of an infraction of the rules.",
+            "vi": "Để hạn chế (một sinh viên) vào khuôn viên trường hoặc ký túc xá, thường là do vi phạm các quy tắc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The atmosphere on campus was electric!",
+            "vi": "Bầu không khí trong khuôn viên trường là điện!"
+        },
+        {
+            "en": "She walked from the hospital campus to a crowded sidewalk that ran beside a main street.",
+            "vi": "Cô đi bộ từ khuôn viên bệnh viện đến một vỉa hè đông đúc chạy bên cạnh một con phố chính."
+        }
+    ],
+    "words_form": [
+        "campused",
+        "campuses",
+        "campusing"
+    ],
+    "meaning_vi": "khuôn viên"
+}

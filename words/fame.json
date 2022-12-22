@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/feɪm/"
+    ],
+    "synonyms": [
+        "renown",
+        "popularity",
+        "famous",
+        "elevation",
+        "glory"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The state of being widely known or much talked about; renown; celebrity.",
+            "vi": "Trạng thái được biết đến rộng rãi hoặc được nói đến nhiều; nổi tiếng; Danh nhân."
+        },
+        {
+            "pos": "verb",
+            "en": "To make (someone or something) famous.",
+            "vi": "Để làm cho (ai đó hoặc điều gì đó) nổi tiếng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But his fame rests mainly on his theological works.",
+            "vi": "Nhưng danh tiếng của ông chủ yếu dựa vào các tác phẩm thần học của ông."
+        },
+        {
+            "en": "His fame had not been forgotten in the Land of Oz, by any means.",
+            "vi": "Danh tiếng của ông đã không bị lãng quên ở Xứ Oz, bằng mọi cách."
+        }
+    ],
+    "words_form": [
+        "famed",
+        "fames",
+        "fame"
+    ],
+    "meaning_vi": "danh tiếng"
+}

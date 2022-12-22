@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/ˈænəlaɪz/"
+    ],
+    "synonyms": [
+        "consider",
+        "evaluate",
+        "figure out",
+        "inspect",
+        "interpret"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To resolve (anything complex) into its elements.",
+            "vi": "Để giải quyết (bất cứ điều gì phức tạp) thành các phần tử của nó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He followed this professor to learn how to analyse certain minerals, but in the end he found that the teacher himself was ignorant of the process.",
+            "vi": "Anh đã theo chân vị giáo sư này để học cách phân tích một số khoáng chất, nhưng cuối cùng anh phát hiện ra rằng chính vị giáo sư này đã không biết gì về quy trình này."
+        },
+        {
+            "en": "But first we must analyse this notion of reality itself, to which our scepticism had already led us, for, though we could doubt whether \"the given\" is what it appears, we cannot doubt that it is something; the conception of the real thus consists of the two conceptions of being and quality.",
+            "vi": "Nhưng trước tiên, chúng ta phải phân tích chính khái niệm này về thực tại, mà sự hoài nghi của chúng ta đã dẫn dắt chúng ta, vì mặc dù chúng ta có thể nghi ngờ liệu \"cái đã cho\" có phải là cái mà nó xuất hiện hay không, chúng ta không thể nghi ngờ rằng nó là một cái gì đó; Do đó, quan niệm về cái thực bao gồm hai quan niệm về bản thể và chất lượng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "verb",
+            "en": "To resolve (anything complex) into its elements.",
+            "vi": "Để giải quyết (bất cứ điều gì phức tạp) thành các phần tử của nó."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈɔrɡən/"
+    ],
+    "synonyms": [
+        "publication",
+        "visceral",
+        "medium",
+        "journal",
+        "newsletter"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an organ is a part of the body that has a specific function.",
+            "vi": "Định nghĩa cơ quan là một bộ phận của cơ thể có một chức năng cụ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To supply with an organ or organs; to fit with organs.",
+            "vi": "(lỗi thời) Để cung cấp cho một cơ quan hoặc các bộ phận; để phù hợp với các cơ quan."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The medics were talking about looking in his pockets for an organ donor card.",
+            "vi": "Các bác sĩ đang nói về việc tìm thẻ hiến tạng trong túi của anh ta."
+        },
+        {
+            "en": "I hate organ transplants.",
+            "vi": "Tôi ghét cấy ghép nội tạng."
+        }
+    ],
+    "words_form": [
+        "organs"
+    ],
+    "meaning_vi": "đàn organ"
+}

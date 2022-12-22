@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/nɑd/"
+    ],
+    "synonyms": [
+        "acceptance",
+        "agree",
+        "assent",
+        "yes",
+        "bend"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Nod is defined as to quickly raise and lower the head, usually for showing agreement or tiredness.",
+            "vi": "Gật đầu được định nghĩa là nhanh chóng nâng cao và hạ thấp đầu, thường là để thể hiện sự đồng ý hoặc mệt mỏi."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a nod is an up and down movement of the head, usually to show agreement or tiredness.",
+            "vi": "Định nghĩa của cái gật đầu là một chuyển động lên xuống của đầu, thường là để thể hiện sự đồng ý hoặc mệt mỏi."
+        },
+        {
+            "pos": "initialism",
+            "en": "(law) Notice Of Disagreement; filed by an appellant in response to a denial of veteran's benefits in United States law.",
+            "vi": "(luật) Thông báo về sự bất đồng; do một người kháng cáo đệ trình trước sự từ chối quyền lợi của cựu chiến binh theo luật pháp Hoa Kỳ."
+        },
+        {
+            "pos": "idiom",
+            "en": "nod off  to fall asleep, esp. when sitting up",
+            "vi": "gật đầu đi vào giấc ngủ, đặc biệt. khi ngồi dậy"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "At his nod, she leaned back in her seat.",
+            "vi": "Trước cái gật đầu của anh, cô ngả người về chỗ của mình."
+        },
+        {
+            "en": "His nod was brief.",
+            "vi": "Cái gật đầu của anh ấy thật ngắn gọn."
+        }
+    ],
+    "words_form": [
+        "nodded",
+        "nodding",
+        "nods"
+    ],
+    "meaning_vi": "gật đầu"
+}

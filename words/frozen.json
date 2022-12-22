@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈfroʊzən/"
+    ],
+    "synonyms": [
+        "iced",
+        "hardened",
+        "chilled",
+        "arctic",
+        "gelid"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Affected as if turned into ice; made motionless.",
+            "vi": "Bị ảnh hưởng như thể biến thành băng; làm cho bất động."
+        },
+        {
+            "pos": "verb",
+            "en": "Past participle of freeze.",
+            "vi": "Quá khứ phân từ của sự đóng băng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She stood frozen, searching for him.",
+            "vi": "Cô đứng đơ ra, tìm kiếm anh."
+        },
+        {
+            "en": "I can cross the frozen tundra.",
+            "vi": "Tôi có thể băng qua lãnh nguyên băng giá."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đông lạnh"
+}

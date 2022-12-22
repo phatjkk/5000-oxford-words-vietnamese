@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/stən/"
+    ],
+    "synonyms": [
+        "stunned",
+        "confused",
+        "surprise",
+        "daze",
+        "floor"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Stun is to stop or confuse with a sharp blow or a loud noise, or to shock someone.",
+            "vi": "Choáng là để dừng lại hoặc nhầm lẫn với một cú đánh mạnh hoặc một tiếng động lớn, hoặc gây sốc cho ai đó."
+        },
+        {
+            "pos": "noun",
+            "en": "A blow or shock that stupefies.",
+            "vi": "Một cú đánh hoặc cú sốc làm choáng váng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He would not budge, he would not fall, He would not stun, no, not at all!",
+            "vi": "Anh ấy sẽ không nhúc nhích, anh ấy sẽ không gục ngã, Anh ấy sẽ không choáng váng, không, không hề!"
+        },
+        {
+            "en": "As stun grenades exploded, he was grabbed sharply by the arm.",
+            "vi": "Khi lựu đạn gây choáng phát nổ, anh ta bị nắm chặt lấy cánh tay."
+        }
+    ],
+    "words_form": [
+        "stunned",
+        "stunning",
+        "stuns"
+    ],
+    "meaning_vi": "choáng"
+}

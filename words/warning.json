@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ˈwɔrnɪŋ/"
+    ],
+    "synonyms": [
+        "prediction",
+        "alarming",
+        "signalling",
+        "urging",
+        "advice"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A statement telling of or an indication providing evidence of impending danger, difficulty, or misfortune.",
+            "vi": "Một tuyên bố về hoặc một dấu hiệu cung cấp bằng chứng về nguy hiểm, khó khăn hoặc bất hạnh sắp xảy ra."
+        },
+        {
+            "pos": "adjective",
+            "en": "That warns; serving to warn.",
+            "vi": "Điều đó cảnh báo; phục vụ để cảnh báo."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of warn.",
+            "vi": "Hiện tại phân từ cảnh báo."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to warn of danger in signs and notices.",
+            "vi": "Dùng để cảnh báo nguy hiểm trong các biển báo và thông báo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"I'm warning you,\" she said again, backing away.",
+            "vi": "\"Tôi đang cảnh báo bạn,\" cô nói một lần nữa, lùi lại."
+        },
+        {
+            "en": "He bent down his head and listened, shaking a warning finger at his master.",
+            "vi": "Nó cúi đầu lắng nghe, lắc ngón tay cảnh cáo chủ nhân."
+        }
+    ],
+    "words_form": [
+        "warnings"
+    ],
+    "meaning_vi": "cảnh báo"
+}

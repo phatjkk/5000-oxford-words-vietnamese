@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈvɛriəs/"
+    ],
+    "synonyms": [
+        "diverse",
+        "multifarious",
+        "different",
+        "diversified",
+        "multiple"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of various is different or many kinds or many-sided.",
+            "vi": "Định nghĩa của đa dạng là khác nhau hoặc nhiều loại hoặc nhiều mặt."
+        },
+        {
+            "pos": "determiner",
+            "en": "More than one indeterminate thing.",
+            "vi": "Nhiều hơn một điều không xác định."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Several different people or things.",
+            "vi": "Nhiều người hoặc nhiều thứ khác nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She said nothing, barely nodding in response to the various greetings.",
+            "vi": "Cô ấy không nói gì, chỉ gật đầu đáp lại những lời chào khác nhau."
+        },
+        {
+            "en": "Tables and shelves were stacked with dozens of potted plants of various sizes, each in separate boxes.",
+            "vi": "Bàn và kệ được xếp chồng lên nhau với hàng chục chậu cây với nhiều kích cỡ khác nhau, mỗi chậu được đựng trong các hộp riêng biệt."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khác nhau"
+}

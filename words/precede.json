@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/prəˈsid/"
+    ],
+    "synonyms": [
+        "usher in",
+        "ring-in",
+        "head-up",
+        "forego",
+        "preface"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be in front of or prior to in order.",
+            "vi": "Để ở phía trước hoặc trước theo thứ tự."
+        },
+        {
+            "pos": "noun",
+            "en": "Precede (plural precedes) Brief editorial preface (usually to an article or essay)",
+            "vi": "Precede (đứng trước số nhiều) Lời nói đầu ngắn gọn của bài xã luận (thường cho một bài báo hoặc bài luận)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "An adverb may precede the verb.",
+            "vi": "Trạng từ có thể đứng trước động từ."
+        },
+        {
+            "en": "A great analysis was to precede a great synthesis, but it was the synthesis on which Comte's vision was centred from the first.",
+            "vi": "Một phân tích tuyệt vời là để đi trước một tổng hợp tuyệt vời, nhưng đó là tổng hợp mà tầm nhìn của Comte được làm trung tâm ngay từ lần đầu tiên."
+        }
+    ],
+    "words_form": [
+        "preceded",
+        "precedes",
+        "preceding"
+    ],
+    "meaning_vi": "đứng trước"
+}

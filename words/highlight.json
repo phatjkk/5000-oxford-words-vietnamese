@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈhaɪˌlaɪt/"
+    ],
+    "synonyms": [
+        "emphasize",
+        "focus",
+        "feature",
+        "italicize",
+        "underline"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An especially significant or interesting detail or event.",
+            "vi": "Một chi tiết hoặc sự kiện đặc biệt quan trọng và thú vị."
+        },
+        {
+            "pos": "verb",
+            "en": "Highlight is defined as to emphasize something.",
+            "vi": "Highlight được định nghĩa là để nhấn mạnh điều gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Feeding and harnessing the cantankerous mules wasn't exactly the highlight of her day.",
+            "vi": "Cho ăn và cho những con la láu cá không hẳn là điểm nhấn trong ngày của cô."
+        },
+        {
+            "en": "The soft warm beige had a yellow highlight that reflected the evening sun.",
+            "vi": "Màu be ấm áp nhẹ nhàng có điểm nhấn màu vàng phản chiếu ánh mặt trời buổi tối."
+        }
+    ],
+    "words_form": [
+        "highlighted",
+        "highlighting",
+        "highlights"
+    ],
+    "meaning_vi": "điểm nổi bật"
+}

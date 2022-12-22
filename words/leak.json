@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/lik/"
+    ],
+    "synonyms": [
+        "drip",
+        "flow",
+        "drain",
+        "drool",
+        "ooze"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To permit the escape, entry, or passage of something through a breach or flaw.",
+            "vi": "Cho phép trốn thoát, xâm nhập hoặc đi qua một cái gì đó thông qua một vi phạm hoặc lỗ hổng."
+        },
+        {
+            "pos": "noun",
+            "en": "A crack or flaw that permits something to escape from or enter a container or conduit.",
+            "vi": "Một vết nứt hoặc lỗ hổng cho phép thứ gì đó thoát ra khỏi hoặc xâm nhập vào thùng chứa hoặc ống dẫn."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Leaky.",
+            "vi": "(lỗi thời) Rò rỉ."
+        },
+        {
+            "pos": "idiom",
+            "en": "(vulgar slang) take a leak  To urinate.",
+            "vi": "(tiếng lóng thô tục) lấy một chỗ rò rỉ Để đi tiểu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Just one massive gas leak,\" he said with a shrug.",
+            "vi": "\"Chỉ là một vụ rò rỉ khí lớn\", anh ta nhún vai nói."
+        },
+        {
+            "en": "Is there a leak in you operation?",
+            "vi": "Có bị rò rỉ trong hoạt động của bạn không?"
+        }
+    ],
+    "words_form": [
+        "leaked",
+        "leaking",
+        "leaks"
+    ],
+    "meaning_vi": "rò rỉ"
+}

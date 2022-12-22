@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/səˈspɛkt/"
+    ],
+    "synonyms": [
+        "presume",
+        "doubt",
+        "defendant",
+        "unlikely",
+        "mistrust"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To have doubts about (something); distrust.",
+            "vi": "Để có nghi ngờ về (cái gì đó); không tin tưởng."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a suspect is a person believed to have committed a crime.",
+            "vi": "Định nghĩa về nghi phạm là một người được cho là đã phạm tội."
+        },
+        {
+            "pos": "adjective",
+            "en": "Open to or viewed with suspicion.",
+            "vi": "Mở hoặc xem với sự nghi ngờ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "So they did suspect her.",
+            "vi": "Vì vậy, họ đã nghi ngờ cô ấy."
+        },
+        {
+            "en": "Did they suspect she was here?",
+            "vi": "Họ có nghi ngờ cô ấy ở đây không?"
+        }
+    ],
+    "words_form": [
+        "suspected",
+        "suspects"
+    ],
+    "meaning_vi": "nghi ngờ"
+}

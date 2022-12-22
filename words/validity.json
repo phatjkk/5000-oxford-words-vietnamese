@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/vəˈlɪdədi/"
+    ],
+    "synonyms": [
+        "legality",
+        "substance",
+        "potency",
+        "strength",
+        "efficacy"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Validity is the quality of being correct or true.",
+            "vi": "Tính hợp lệ là chất lượng của việc đúng hoặc đúng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The Maryland Court of Appeals sustained the validity of this act.",
+            "vi": "Tòa phúc thẩm Maryland duy trì hiệu lực của đạo luật này."
+        },
+        {
+            "en": "She had to research the topic for hours to ensure the validity of her argument.",
+            "vi": "Cô đã phải nghiên cứu chủ đề trong nhiều giờ để đảm bảo tính hợp lệ của lập luận của mình."
+        }
+    ],
+    "words_form": [
+        "validities"
+    ],
+    "meaning_vi": "hiệu lực"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈbəfər/"
+    ],
+    "synonyms": [
+        "shock-absorber",
+        "backstop",
+        "bumper",
+        "safeguard",
+        "cushion"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a buffer is something that keeps opposing elements separated or someone who helps people get along who are argumentative with each other.",
+            "vi": "Định nghĩa của vùng đệm là thứ ngăn cách các yếu tố đối lập hoặc một người nào đó giúp mọi người hòa hợp với những người hay tranh cãi với nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "To act as a buffer for or between.",
+            "vi": "Để hoạt động như một bộ đệm cho hoặc giữa."
+        },
+        {
+            "pos": "adjective",
+            "en": "Comparative form of buff: more buff.",
+            "vi": "Hình thức so sánh của buff: buff nhiều hơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maybe it provided a buffer zone to protect the mind.",
+            "vi": "Có thể nó cung cấp một vùng đệm để bảo vệ tâm trí."
+        },
+        {
+            "en": "This Lakhmid kingdom was more or less dependent, during the four centuries of its existence, on the Sassanian empire, to which it formed a sort of buffer state towards Arabia.",
+            "vi": "Vương quốc Lakhmid này phụ thuộc ít nhiều, trong suốt 4 thế kỷ tồn tại, vào đế chế Sassanian, nơi mà nó đã hình thành một loại nhà nước đệm đối với Ả Rập."
+        }
+    ],
+    "words_form": [
+        "buffered",
+        "buffering",
+        "buffers"
+    ],
+    "meaning_vi": "bộ đệm"
+}

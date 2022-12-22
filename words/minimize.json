@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈmɪnəˌmaɪz/"
+    ],
+    "synonyms": [
+        "decrease",
+        "lessen",
+        "slight",
+        "reduce",
+        "mitigate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To reduce to the smallest possible amount, extent, size, or degree.",
+            "vi": "Để giảm đến số lượng, mức độ, kích thước hoặc mức độ nhỏ nhất có thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In order to minimize expenditures, Dean planned to skip the motel bit and camp out on the tour.",
+            "vi": "Để giảm thiểu chi tiêu, Dean đã lên kế hoạch bỏ qua nhà nghỉ và cắm trại trong chuyến tham quan."
+        },
+        {
+            "en": "He must minimize foreign influence, whether French, Spanish or German, in Italy.",
+            "vi": "Anh ta phải giảm thiểu ảnh hưởng của nước ngoài, dù là Pháp, Tây Ban Nha hay Đức, ở Ý."
+        }
+    ],
+    "words_form": [
+        "minimized",
+        "minimizes",
+        "minimizing"
+    ],
+    "meaning_vi": "giảm thiểu"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/skul/"
+    ],
+    "synonyms": [
+        "class",
+        "academy",
+        "university",
+        "institution",
+        "schoolhouse"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a school is a place or building used for instruction, learning and education.",
+            "vi": "Định nghĩa của một trường học là một địa điểm hoặc tòa nhà được sử dụng để giảng dạy, học tập và giáo dục."
+        },
+        {
+            "pos": "verb",
+            "en": "School means to train, educate, teach or discipline someone or something.",
+            "vi": "Trường học có nghĩa là đào tạo, giáo dục, dạy dỗ hoặc kỷ luật một người nào đó hoặc một cái gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to school or education in schools.",
+            "vi": "Của hoặc liên quan đến trường học hoặc giáo dục trong trường học."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "See also school.",
+            "vi": "Xem thêm trường học."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I go to school every day, and I learn many new things.",
+            "vi": "Tôi đến trường mỗi ngày, và tôi học được nhiều điều mới."
+        },
+        {
+            "en": "I ripped these off a high school kid.",
+            "vi": "Tôi đã xé những thứ này của một đứa trẻ trung học."
+        }
+    ],
+    "words_form": [
+        "schooled",
+        "schooling",
+        "schools"
+    ],
+    "meaning_vi": "trường học"
+}

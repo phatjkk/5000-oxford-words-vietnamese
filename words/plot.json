@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/plɑt/"
+    ],
+    "synonyms": [
+        "story line",
+        "conspiracy",
+        "climax",
+        "denouement",
+        "plan"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The plot is the main story of a tale.",
+            "vi": "Cốt truyện là câu chuyện chính của một câu chuyện."
+        },
+        {
+            "pos": "verb",
+            "en": "To conceive and arrange the action and incidents of.",
+            "vi": "Để hình thành và sắp xếp các hành động và sự cố của."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The plot summary leaves a lot to be desired!",
+            "vi": "Bản tóm tắt cốt truyện để lại rất nhiều điều mong muốn!"
+        },
+        {
+            "en": "To plot against him, to attempt his life by poison or the sword, was accounted virtuous.",
+            "vi": "Âm mưu chống lại anh ta, cố gắng tính mạng của anh ta bằng thuốc độc hoặc thanh kiếm, được coi là có đạo đức."
+        }
+    ],
+    "words_form": [
+        "plots",
+        "plotted",
+        "plotting"
+    ],
+    "meaning_vi": "cốt truyện"
+}

@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/kənˌfɪgjʊˈreɪʃən/"
+    ],
+    "synonyms": [
+        "composition",
+        "contour",
+        "shape",
+        "structure",
+        "Gestalt"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The arrangement of parts or elements in a pattern or form, as:  (chemistry) The structural arrangement of atoms in a compound or molecule. (computers) The way in which a computer system or network is set up or connected. (psychology) Gestalt.",
+            "vi": "Sự hình thành hợp tử do sự kết hợp của tinh trùng và tế bào trứng; sự thụ tinh."
+        },
+        {
+            "pos": "",
+            "en": "The makeup of a system. To \"configure software\" means selecting programmable options that make the program function to the user's liking. To \"configure hardware\" means assembling desired components for a custom system as well as selecting options in the user-programmable parts of the system. \"Configurability\" refers to the hardware or software's ability to be changed and customized. See settings.",
+            "vi": "Niềm tin cuồng nhiệt vào các học thuyết của một đức tin cụ thể; một tín điều."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Owing to the existence of a strong Mussulman minority among its inhabitants, the warlike character of the natives, and the mountainous configuration of the country, which enabled a portion of the Christian population to maintain itself in a state of partial independence, the island has constantly been the scene of prolonged and sanguinary struggles in which the numerical superiority of the Christians was counterbalanced by the aid rendered to the Moslems by the Ottoman troops.",
+            "vi": "Do sự tồn tại của một dân tộc thiểu số Mussulman mạnh mẽ trong số cư dân của nó, tính cách hiếu chiến của người bản địa, và cấu trúc miền núi của đất nước, cho phép một bộ phận dân cư theo đạo Thiên chúa duy trì ở trạng thái độc lập một phần, hòn đảo này đã liên tục là bối cảnh của những cuộc đấu tranh kéo dài và phức tạp, trong đó ưu thế về quân số của những người theo đạo Cơ đốc bị cân bằng bởi sự viện trợ của quân đội Ottoman dành cho người Hồi giáo."
+        },
+        {
+            "en": "In its configuration the island is elevated but not mountainous.",
+            "vi": "Trong cấu hình của nó, hòn đảo được nâng cao nhưng không phải là núi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The arrangement of parts or elements in a pattern or form, as:  (chemistry) The structural arrangement of atoms in a compound or molecule. (computers) The way in which a computer system or network is set up or connected. (psychology) Gestalt.",
+            "vi": "Sự hình thành hợp tử do sự kết hợp của tinh trùng và tế bào trứng; sự thụ tinh."
+        },
+        {
+            "pos": "",
+            "en": "The makeup of a system. To \"configure software\" means selecting programmable options that make the program function to the user's liking. To \"configure hardware\" means assembling desired components for a custom system as well as selecting options in the user-programmable parts of the system. \"Configurability\" refers to the hardware or software's ability to be changed and customized. See settings.",
+            "vi": "Niềm tin cuồng nhiệt vào các học thuyết của một đức tin cụ thể; một tín điều."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɪnˈvɛst/"
+    ],
+    "synonyms": [
+        "entrust",
+        "endue",
+        "finance",
+        "buy",
+        "spend"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of invest is to put valuable resources into something that you expect will give you a personal or financial gain.",
+            "vi": "Định nghĩa của đầu tư là đưa các nguồn lực có giá trị vào một thứ mà bạn mong đợi sẽ mang lại cho bạn lợi ích cá nhân hoặc tài chính."
+        },
+        {
+            "pos": "noun",
+            "en": "(meteorology) An unnamed tropical weather pattern \"to investigate\" for development into a significant (named) system.",
+            "vi": "(khí tượng) Một kiểu thời tiết nhiệt đới chưa được đặt tên \"để điều tra\" để phát triển thành một hệ thống quan trọng (được đặt tên)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Now I must invest in a new vehicle.",
+            "vi": "Bây giờ tôi phải đầu tư vào một chiếc xe mới."
+        },
+        {
+            "en": "One of his first acts was to invest the emperor Charles VI.",
+            "vi": "Một trong những hành động đầu tiên của ông là đầu tư cho hoàng đế Charles VI."
+        }
+    ],
+    "words_form": [
+        "invested",
+        "investing",
+        "invests"
+    ],
+    "meaning_vi": "đầu tư"
+}

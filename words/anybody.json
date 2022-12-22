@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈɛniˌbɑdi/",
+        "/ˈɛniˌbədi/"
+    ],
+    "synonyms": [
+        "anyone",
+        "you",
+        "whoever",
+        "someone",
+        "every"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Any person; anyone.",
+            "vi": "Bất kỳ người nào; bất cứ ai."
+        },
+        {
+            "pos": "noun",
+            "en": "A person of consequence.",
+            "vi": "Một người của hệ quả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Has anybody ever told you that you're beautiful?",
+            "vi": "Có ai từng nói với bạn rằng bạn xinh đẹp không?"
+        },
+        {
+            "en": "And if anybody asks you, or if you ask yourself what God is, answer, \"God is Love.\"",
+            "vi": "Và nếu ai đó hỏi bạn, hoặc nếu bạn tự hỏi mình Thượng đế là gì, hãy trả lời, \"Thượng đế là Tình yêu.\""
+        }
+    ],
+    "words_form": [
+        "anybodies"
+    ],
+    "meaning_vi": "ai"
+}

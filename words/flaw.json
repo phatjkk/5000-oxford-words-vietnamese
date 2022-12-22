@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/flɔ/"
+    ],
+    "synonyms": [
+        "fault",
+        "defect",
+        "blemish",
+        "imperfection",
+        "shortcoming"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An imperfection, often concealed, that impairs soundness.",
+            "vi": "Một sự không hoàn hảo, thường được che giấu, làm suy yếu tính âm thanh."
+        },
+        {
+            "pos": "verb",
+            "en": "To cause a flaw in; make defective.",
+            "vi": "Để gây ra một lỗ hổng trong; làm cho bị lỗi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is a serious flaw in the play that the fate of the heroine is virtually decided before the curtain rises, and the poet is obliged to create by theatrical devices the semblance of a tragic conflict which, in reality, does not exist.",
+            "vi": "Một thiếu sót nghiêm trọng trong vở kịch là số phận của nhân vật nữ chính hầu như được quyết định trước khi bức màn vén lên, và nhà thơ buộc phải tạo ra bằng các thiết bị sân khấu hình ảnh của một cuộc xung đột bi kịch mà trên thực tế, không hề tồn tại."
+        },
+        {
+            "en": "But the majority of them will admit no flaw in the sage or in his annals.",
+            "vi": "Nhưng phần lớn trong số họ sẽ không thừa nhận không có sai sót trong nhà hiền triết hoặc trong biên niên sử của ông."
+        }
+    ],
+    "words_form": [
+        "flaws"
+    ],
+    "meaning_vi": "lỗ hổng"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ərn/"
+    ],
+    "synonyms": [
+        "reap",
+        "make",
+        "procure",
+        "pull down",
+        "acquire"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To receive (interest, dividends, etc.) as a return.",
+            "vi": "Để nhận (lãi suất, cổ tức, v.v.) như một khoản lợi nhuận."
+        },
+        {
+            "pos": "noun",
+            "en": "Alternative form of erne.",
+            "vi": "Hình thức thay thế của erne."
+        },
+        {
+            "pos": "idiom",
+            "en": "earn (one's) spurs  To gain a position through hard work and the accumulation of experience, often in the face of difficulties.",
+            "vi": "kiếm được (của một người) thúc đẩy Để có được một vị trí thông qua làm việc chăm chỉ và tích lũy kinh nghiệm, thường là khi đối mặt với khó khăn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I did not earn it.",
+            "vi": "Tôi đã không kiếm được nó."
+        },
+        {
+            "en": "Janet says I got to earn my keep.",
+            "vi": "Janet nói rằng tôi phải kiếm tiền."
+        }
+    ],
+    "words_form": [
+        "earned",
+        "earning",
+        "earns"
+    ],
+    "meaning_vi": "kiếm"
+}

@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/kəˈlæbəˌreɪt/"
+    ],
+    "synonyms": [
+        "join",
+        "assist",
+        "aid",
+        "disagree",
+        "divorce"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of collaborate means to work together.",
+            "vi": "Định nghĩa của cộng tác có nghĩa là làm việc cùng nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Teams of scientists in different parts of the world can collaborate virtually.",
+            "vi": "Các nhóm nhà khoa học ở các khu vực khác nhau trên thế giới có thể hợp tác ảo."
+        },
+        {
+            "en": "He had no way to collaborate with scientists in other places, no Internet, and no library.",
+            "vi": "Anh không có cách nào để cộng tác với các nhà khoa học ở những nơi khác, không có Internet và không có thư viện."
+        }
+    ],
+    "words_form": [
+        "collaborated",
+        "collaborates",
+        "collaborating"
+    ],
+    "meaning_vi": "hợp tác"
+}

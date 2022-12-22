@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/koʊd/"
+    ],
+    "synonyms": [
+        "codex",
+        "law",
+        "cryptogram",
+        "cypher",
+        "cryptanalysis"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(computing) To write software programs.",
+            "vi": "(máy tính) Để viết các chương trình phần mềm."
+        },
+        {
+            "pos": "noun",
+            "en": "Any set of principles or rules of conduct.",
+            "vi": "Bất kỳ bộ nguyên tắc hoặc quy tắc ứng xử nào."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"I may have violated our secrecy code,\" I told her as I slipped into bed.",
+            "vi": "\"Tôi có thể đã vi phạm quy tắc bí mật của chúng tôi,\" tôi nói với cô ấy khi tôi lao vào giường."
+        },
+        {
+            "en": "The Code was no longer his master.",
+            "vi": "Mã không còn là chủ nhân của anh ta nữa."
+        }
+    ],
+    "words_form": [
+        "coded",
+        "codes",
+        "coding"
+    ],
+    "meaning_vi": "mã"
+}

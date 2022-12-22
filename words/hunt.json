@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/hənt/"
+    ],
+    "synonyms": [
+        "pursuit",
+        "seeking",
+        "shooting",
+        "tracing",
+        "rummage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of hunting; the chase.",
+            "vi": "Hành động săn bắn; cuộc rượt đuổi."
+        },
+        {
+            "pos": "verb",
+            "en": "To make use of (hounds, for example) in pursuing game.",
+            "vi": "Để tận dụng (ví dụ: chó săn) trong trò chơi theo đuổi."
+        },
+        {
+            "pos": "pronoun",
+            "en": "An English occupational surname for a hunter (for game, birds etc).",
+            "vi": "Họ nghề nghiệp tiếng Anh cho thợ săn (cho trò chơi, chim, v.v.)."
+        },
+        {
+            "pos": "idiom",
+            "en": "hunt down  to pursue until successful in catching or killing to search for until successful in finding",
+            "vi": "săn lùng để theo đuổi cho đến khi bắt hoặc giết thành công để tìm kiếm cho đến khi tìm thấy thành công"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They hunt at night.",
+            "vi": "Chúng săn mồi vào ban đêm."
+        },
+        {
+            "en": "The choices are endless, the hunt so exciting.",
+            "vi": "Các lựa chọn là vô tận, cuộc săn lùng rất thú vị."
+        }
+    ],
+    "words_form": [
+        "hunted",
+        "hunting",
+        "hunts"
+    ],
+    "meaning_vi": "săn"
+}

@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈmɛθəd/"
+    ],
+    "synonyms": [
+        "mode",
+        "routine",
+        "way",
+        "standard procedure",
+        "style"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a method is a system or a way of doing something.",
+            "vi": "Định nghĩa của một phương pháp là một hệ thống hoặc một cách thực hiện một điều gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Using or suggestive of the Method.",
+            "vi": "Sử dụng hoặc gợi ý về Phương pháp."
+        },
+        {
+            "pos": "idiom",
+            "en": "the Method  a realistic style of acting in which the actor strives for close personal identification with the role being played",
+            "vi": "Phương pháp một phong cách diễn xuất thực tế, trong đó diễn viên cố gắng xác định cá nhân chặt chẽ với vai diễn đang diễn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We have already seen this method work.",
+            "vi": "Chúng tôi đã thấy phương pháp này hoạt động."
+        },
+        {
+            "en": "Now I'm able to adjust my method of operation accordingly.",
+            "vi": "Bây giờ tôi có thể điều chỉnh phương pháp hoạt động của mình cho phù hợp."
+        }
+    ],
+    "words_form": [
+        "methods"
+    ],
+    "meaning_vi": "phương pháp"
+}

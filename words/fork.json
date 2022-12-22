@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/fɔrk/"
+    ],
+    "synonyms": [
+        "crotch",
+        "pitchfork",
+        "trident",
+        "confluence",
+        "prong"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a fork is a tool with a handle and two or more prongs at the end or a division into two branches.",
+            "vi": "Định nghĩa của nĩa là một công cụ có tay cầm và hai hoặc nhiều ngạnh ở cuối hoặc phân chia thành hai nhánh."
+        },
+        {
+            "pos": "verb",
+            "en": "To divide into branches; be bifurcated.",
+            "vi": "Để chia thành các chi nhánh; được phân đôi."
+        },
+        {
+            "pos": "idiom",
+            "en": "fork over  to pay out or hand over",
+            "vi": "ngã ba để thanh toán hoặc giao"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She dropped her fork and stood.",
+            "vi": "Cô ấy bỏ nĩa xuống và đứng dậy."
+        },
+        {
+            "en": "Jonathan put the last fork beside a plate and smiled up at her.",
+            "vi": "Jonathan đặt chiếc nĩa cuối cùng bên cạnh một chiếc đĩa và mỉm cười với cô."
+        }
+    ],
+    "words_form": [
+        "forked",
+        "forking",
+        "forks"
+    ],
+    "meaning_vi": "cái nĩa"
+}

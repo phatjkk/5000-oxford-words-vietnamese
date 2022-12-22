@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈhændlɪŋ/"
+    ],
+    "synonyms": [
+        "handle",
+        "record keeping",
+        "styling",
+        "guiding",
+        "administration"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The process of packing and distributing merchandise.",
+            "vi": "Quá trình đóng gói và phân phối hàng hóa."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of handle.",
+            "vi": "Trình bày phân từ của tay cầm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You're not handling this one alone.",
+            "vi": "Bạn không xử lý vấn đề này một mình."
+        },
+        {
+            "en": "You're very good at handling her, thank you.",
+            "vi": "Bạn rất giỏi trong việc xử lý cô ấy, cảm ơn bạn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "xử lý"
+}

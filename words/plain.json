@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/pleɪn/"
+    ],
+    "synonyms": [
+        "clear",
+        "broad",
+        "open",
+        "thoroughgoing",
+        "total"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Clearly understood; evident; obvious.",
+            "vi": "Đã hiểu; hiển nhiên; rõ ràng."
+        },
+        {
+            "pos": "adverb",
+            "en": "Clearly; simply.",
+            "vi": "Rõ ràng; đơn giản."
+        },
+        {
+            "pos": "noun",
+            "en": "Something free of ornamentation or extraneous matter.",
+            "vi": "Thứ gì đó không có trang trí hoặc vật chất không liên quan."
+        },
+        {
+            "pos": "verb",
+            "en": "(now chiefly dial.) To complain.",
+            "vi": "(bây giờ chủ yếu quay số.) để phàn nàn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm glad we were out in plain sight!",
+            "vi": "Tôi rất vui vì chúng tôi đã ở trong tầm nhìn rõ ràng!"
+        },
+        {
+            "en": "Her room was plain and basic.",
+            "vi": "Phòng của cô ấy đơn giản và cơ bản."
+        }
+    ],
+    "words_form": [
+        "plainest",
+        "plains"
+    ],
+    "meaning_vi": "trơn"
+}

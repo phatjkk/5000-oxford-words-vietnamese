@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈtɛkstʃər/"
+    ],
+    "synonyms": [
+        "touch",
+        "make",
+        "feel",
+        "character",
+        "fineness"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Texture is defined as the physical composition of something, or the look and feel of fabric.",
+            "vi": "Kết cấu được định nghĩa là thành phần vật lý của một thứ gì đó, hoặc giao diện của vải."
+        },
+        {
+            "pos": "verb",
+            "en": "To give texture to, especially to impart desirable surface characteristics to.",
+            "vi": "Để tạo ra kết cấu, đặc biệt là để truyền đạt các đặc tính bề mặt mong muốn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A soil of very close texture, the gabbro, is found, most largely in the north-east.",
+            "vi": "Đất có kết cấu rất gần, gabbro, được tìm thấy, phần lớn ở phía đông bắc."
+        },
+        {
+            "en": "Everything from the texture of his skin to the heat of his hands branding her was heaven to one unaccustomed to the sensuality of her world.",
+            "vi": "Tất cả mọi thứ từ kết cấu của làn da anh ta đến sức nóng của bàn tay anh ta xây dựng thương hiệu cho cô ấy là thiên đường cho một người không quen với sự gợi cảm trong thế giới của cô ấy."
+        }
+    ],
+    "words_form": [
+        "textured",
+        "textures",
+        "texturing"
+    ],
+    "meaning_vi": "kết cấu"
+}

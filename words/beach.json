@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/bitʃ/"
+    ],
+    "synonyms": [
+        "seaside",
+        "shore",
+        "shingle",
+        "boardwalk",
+        "watering place"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The zone above the water line at a shore of a body of water, marked by an accumulation of sand, stone, or gravel that has been deposited by the tide or waves.",
+            "vi": "Khu vực phía trên dòng nước tại bờ của một vùng nước, được đánh dấu bằng sự tích tụ của cát, đá hoặc sỏi đã bị thủy triều hoặc sóng bồi lắng."
+        },
+        {
+            "pos": "verb",
+            "en": "To ground (a boat, whale, etc.) on or as if on a beach.",
+            "vi": "Tiếp đất (thuyền, cá voi, v.v.) trên hoặc như thể trên một bãi biển."
+        },
+        {
+            "pos": "adjective",
+            "en": "Appropriate for the beach or sunbathing; specif., designating or of a novel, etc. regarded as entertaining and easy to read.",
+            "vi": "Thích hợp cho các bãi biển hoặc tắm nắng; specif., chỉ định hoặc của một cuốn tiểu thuyết, v.v. được coi là giải trí và dễ đọc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is a lovely beach that stretches miles along the blue Atlantic.",
+            "vi": "Có một bãi biển xinh xắn trải dài hàng dặm dọc theo Đại Tây Dương xanh biếc."
+        },
+        {
+            "en": "I've always wanted to stay in a beach house.",
+            "vi": "Tôi luôn muốn ở trong một ngôi nhà bên bờ biển."
+        }
+    ],
+    "words_form": [
+        "beached",
+        "beaches"
+    ],
+    "meaning_vi": "bãi biển"
+}

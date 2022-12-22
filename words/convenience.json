@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/kənˈvinjəns/"
+    ],
+    "synonyms": [
+        "handiness",
+        "openness",
+        "suitability",
+        "usefulness",
+        "accessibility"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of convenience is the state of being able to do something easily with little effort and no hindrances.",
+            "vi": "Định nghĩa của sự thuận tiện là trạng thái có thể làm một việc gì đó dễ dàng với ít nỗ lực và không gặp trở ngại nào."
+        },
+        {
+            "pos": "idiom",
+            "en": "at someone's convenience  at a time, or in a place or manner, suitable to someone",
+            "vi": "tại một thời điểm thuận tiện cho ai đó hoặc tại một địa điểm hoặc cách thức, phù hợp với ai đó"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "For convenience the judge often sits at the royal courts of justice.",
+            "vi": "Để thuận tiện, thẩm phán thường ngồi tại các tòa án công lý của hoàng gia."
+        },
+        {
+            "en": "This triangle, for the convenience of calculation, we divide into two right-angled triangles.",
+            "vi": "Tam giác này, để tiện cho việc tính toán, ta chia thành hai tam giác vuông cân."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tiện"
+}

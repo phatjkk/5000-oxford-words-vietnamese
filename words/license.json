@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈlaɪs(ə)ns/"
+    ],
+    "synonyms": [
+        "permit",
+        "privilege",
+        "pass",
+        "excess",
+        "laxity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a license is an official permission to do something or a document, plate or tag showing proof of permission.",
+            "vi": "Định nghĩa của giấy phép là một sự cho phép chính thức để làm một cái gì đó hoặc một tài liệu, biển số hoặc thẻ hiển thị bằng chứng cho phép."
+        },
+        {
+            "pos": "verb",
+            "en": "To give or yield permission to or for.",
+            "vi": "Để cung cấp hoặc nhường quyền cho hoặc cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I reported the license plate number to him.",
+            "vi": "Tôi đã báo lại biển số xe cho anh ta."
+        },
+        {
+            "en": "I read the license plate.",
+            "vi": "Tôi đã đọc biển số xe."
+        }
+    ],
+    "words_form": [
+        "licensed",
+        "licenses",
+        "licensing"
+    ],
+    "meaning_vi": "giấy phép"
+}

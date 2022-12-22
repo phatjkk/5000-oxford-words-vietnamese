@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/klɪp/"
+    ],
+    "synonyms": [
+        "snip",
+        "unclip",
+        "cut",
+        "decrease",
+        "embrace"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(informal) To move rapidly.",
+            "vi": "(không chính thức) Để di chuyển nhanh chóng."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) A pace or rate.",
+            "vi": "(không chính thức) Tốc độ hoặc tốc độ."
+        },
+        {
+            "pos": "idiom",
+            "en": "at a clip  on one particular occasion; at one particular time",
+            "vi": "tại một đoạn clip vào một dịp cụ thể; tại một thời điểm cụ thể"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Who would have thought he would actually clip the umbilical cord?",
+            "vi": "Ai có thể nghĩ rằng anh ấy thực sự sẽ cắt dây rốn?"
+        },
+        {
+            "en": "He removed a hundred dollar bill from his money clip and waved it in front of the shopkeeper's nose.",
+            "vi": "Anh ta lấy tờ tiền một trăm đô la ra khỏi chiếc kẹp tiền của mình và vẫy nó trước mũi người bán hàng."
+        }
+    ],
+    "words_form": [
+        "clipped",
+        "clipping",
+        "clips"
+    ],
+    "meaning_vi": "kẹp"
+}

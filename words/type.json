@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/taɪp/"
+    ],
+    "synonyms": [
+        "species",
+        "sort",
+        "quintessence",
+        "model",
+        "personalization"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a type means people, places or things that share traits which allow them to belong to the same group.",
+            "vi": "Định nghĩa về một loại có nghĩa là những người, địa điểm hoặc những thứ có chung những đặc điểm cho phép họ thuộc cùng một nhóm."
+        },
+        {
+            "pos": "verb",
+            "en": "To write using the keyboard of a typewriter, computer, etc.",
+            "vi": "Để viết bằng bàn phím của máy đánh chữ, máy tính, v.v."
+        },
+        {
+            "pos": "affix",
+            "en": "Type, representative form, example.",
+            "vi": "Loại, hình thức đại diện, ví dụ."
+        },
+        {
+            "pos": "idiom",
+            "en": "(one's) type  A person to whom one should be sexually attracted or romantically inclined: With her interest in art, she should be just your type.",
+            "vi": "(một người) kiểu Một người mà người ta nên bị thu hút về tình dục hoặc có khuynh hướng lãng mạn: Với sở thích về nghệ thuật, cô ấy nên là mẫu người của bạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She continued to type while I put in the call.",
+            "vi": "Cô ấy tiếp tục gõ trong khi tôi thực hiện cuộc gọi."
+        },
+        {
+            "en": "I just haven't had time to type up my notes.",
+            "vi": "Tôi chỉ không có thời gian để gõ các ghi chú của mình."
+        }
+    ],
+    "words_form": [
+        "typed",
+        "types",
+        "typing"
+    ],
+    "meaning_vi": "loại"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/səm/"
+    ],
+    "synonyms": [
+        "addition",
+        "whole",
+        "aggregate",
+        "add",
+        "tally"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a sum is a total amount you arrive at by adding up multiple things, or the total amount of something that exists, or the total amount of money you have.",
+            "vi": "Định nghĩa về một khoản tiền là tổng số tiền bạn có được bằng cách cộng nhiều thứ, hoặc tổng số tiền hiện có hoặc tổng số tiền bạn có."
+        },
+        {
+            "pos": "verb",
+            "en": "To get, or come to, a total.",
+            "vi": "Để có được, hoặc đến với, tổng số."
+        },
+        {
+            "pos": "affix",
+            "en": "Sub-",
+            "vi": "Phụ"
+        },
+        {
+            "pos": "idiom",
+            "en": "in sum  to put it briefly; in short",
+            "vi": "tóm lại để nói một cách ngắn gọn; Nói ngắn gọn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The score against him reached the fateful sum of forty-three thousand.",
+            "vi": "Điểm số chống lại anh ta đạt đến tổng số định mệnh là bốn mươi ba nghìn."
+        },
+        {
+            "en": "In 1831, from a study of the specific heats of compounds, he formulated \"Neumann's law,\" which expressed in modern language runs: \"The molecular heat of a compound is equal to the sum of the atomic heats of its constituents.\"",
+            "vi": "Năm 1831, từ một nghiên cứu về sự phát nhiệt cụ thể của các hợp chất, ông đã đưa ra \"định luật Neumann\", được diễn đạt bằng ngôn ngữ hiện đại: \"Nhiệt phân tử của một hợp chất bằng tổng các nhiệt nguyên tử của các thành phần của nó.\""
+        }
+    ],
+    "words_form": [
+        "summed",
+        "summing",
+        "sums"
+    ],
+    "meaning_vi": "tổng"
+}

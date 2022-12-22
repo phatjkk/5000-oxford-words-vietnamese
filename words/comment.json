@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈkɑmɛnt/"
+    ],
+    "synonyms": [
+        "commentary",
+        "remark",
+        "annotation",
+        "discuss",
+        "point out"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To comment is to make a statement, remark or express an opinion.",
+            "vi": "Bình luận là phát biểu, nhận xét hoặc bày tỏ ý kiến."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a comment is a statement or remark.",
+            "vi": "Định nghĩa của một bình luận là một tuyên bố hoặc nhận xét."
+        },
+        {
+            "pos": "idiom",
+            "en": "no comment!  I have nothing to say!",
+            "vi": "miễn bình luận! Tôi không có gì để nói!"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Opening his morning comment, she read.",
+            "vi": "Mở bình luận buổi sáng của anh ấy, cô ấy đọc."
+        },
+        {
+            "en": "He repeated her comment about the Porsche, \"Nice wheels.\"",
+            "vi": "Anh nhắc lại nhận xét của cô về chiếc Porsche, \"Bánh xe đẹp.\""
+        }
+    ],
+    "words_form": [
+        "commented",
+        "commenting",
+        "comments"
+    ],
+    "meaning_vi": "bình luận"
+}

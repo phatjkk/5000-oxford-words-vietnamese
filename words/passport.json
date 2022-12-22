@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈpæsˌpɔrt/"
+    ],
+    "synonyms": [
+        "identification",
+        "visa",
+        "authorization",
+        "pass",
+        "license"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An official document normally used for international journeys, which proves the identity and nationality of the person for whom it was issued.",
+            "vi": "Một tài liệu chính thức thường được sử dụng cho các hành trình quốc tế, chứng minh danh tính và quốc tịch của người được cấp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But the terms passport and sea-letter are often used indiscriminately.",
+            "vi": "Nhưng các thuật ngữ passport và sea-letter thường được sử dụng một cách bừa bãi."
+        },
+        {
+            "en": "In its more familiar sense a passport is a.",
+            "vi": "Theo nghĩa quen thuộc hơn của nó, hộ chiếu là một."
+        }
+    ],
+    "words_form": [
+        "passports"
+    ],
+    "meaning_vi": "hộ chiếu"
+}

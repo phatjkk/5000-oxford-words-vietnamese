@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˌɛn(t)ərˈteɪn/"
+    ],
+    "synonyms": [
+        "amuse",
+        "enjoy",
+        "divert",
+        "depress",
+        "interest"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To hold the interest of and give pleasure to; divert; amuse.",
+            "vi": "Để nắm giữ sự quan tâm và mang lại niềm vui cho; chuyển hướng; giải trí."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) Entertainment; pleasure.",
+            "vi": "(lỗi thời) Giải trí; Hài lòng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm not here to entertain you, Xander.",
+            "vi": "Tôi đến đây không phải để giải trí cho anh, Xander."
+        },
+        {
+            "en": "This evening they are going to entertain their friends with readings from your poems and music.",
+            "vi": "Tối nay, họ sẽ chiêu đãi bạn bè bằng những bài thơ và nhạc của bạn."
+        }
+    ],
+    "words_form": [
+        "entertained",
+        "entertaining",
+        "entertains"
+    ],
+    "meaning_vi": "giải trí"
+}

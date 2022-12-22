@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kju/"
+    ],
+    "synonyms": [
+        "row",
+        "pigtail",
+        "tail",
+        "chain",
+        "plait"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To get in line.",
+            "vi": "Để xếp hàng."
+        },
+        {
+            "pos": "noun",
+            "en": "A long braid of hair worn hanging down the back of the neck; a pigtail.",
+            "vi": "Một bím tóc dài buông xõa sau gáy; một bím tóc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The queue to get in here is longer than you'd guess.",
+            "vi": "Hàng đợi để vào đây dài hơn bạn đoán."
+        },
+        {
+            "en": "The list was a scrolling queue of names.",
+            "vi": "Danh sách là một hàng đợi cuộn các tên."
+        }
+    ],
+    "words_form": [
+        "queued",
+        "queues",
+        "queuing"
+    ],
+    "meaning_vi": "xếp hàng"
+}

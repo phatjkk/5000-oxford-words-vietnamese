@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈnɔɪ/"
+    ],
+    "synonyms": [
+        "irritate",
+        "harass",
+        "exasperate",
+        "pester",
+        "worry"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of annoy means to irritate or disturb.",
+            "vi": "Định nghĩa của khó chịu có nghĩa là làm khó chịu hoặc làm phiền."
+        },
+        {
+            "pos": "noun",
+            "en": "(now rare, literary) A feeling of discomfort or vexation caused by what one dislikes.",
+            "vi": "(bây giờ hiếm, văn học) Cảm giác khó chịu hoặc bực bội gây ra bởi những gì một người không thích."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "My cat likes to knock over water glasses just to annoy me.",
+            "vi": "Con mèo của tôi thích làm đổ cốc nước chỉ để làm phiền tôi."
+        },
+        {
+            "en": "People who chew with their mouths open really annoy me.",
+            "vi": "Những người nhai với miệng của họ mở thực sự làm phiền tôi."
+        }
+    ],
+    "words_form": [
+        "annoyed",
+        "annoying",
+        "annoys"
+    ],
+    "meaning_vi": "làm phiền"
+}

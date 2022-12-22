@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈɑbdʒɛkt/"
+    ],
+    "synonyms": [
+        "aim",
+        "recipient",
+        "objective",
+        "intention",
+        "gadget"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "What is aimed at; purpose; end; goal.",
+            "vi": "Nhằm mục đích gì; mục đích; kết thúc; ghi bàn."
+        },
+        {
+            "pos": "verb",
+            "en": "To be averse to or express disapproval of something.",
+            "vi": "Không thích hoặc bày tỏ sự không đồng tình đối với điều gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He shoved a shiny red object at her.",
+            "vi": "Anh đẩy một vật màu đỏ bóng vào cô."
+        },
+        {
+            "en": "She dropped the cloth and moved to the next object, which was obviously a painting.",
+            "vi": "Cô thả tấm vải xuống và chuyển sang đồ vật tiếp theo, đó rõ ràng là một bức tranh."
+        }
+    ],
+    "words_form": [
+        "objected",
+        "objects"
+    ],
+    "meaning_vi": "vật"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/əˈsərt/"
+    ],
+    "synonyms": [
+        "state",
+        "declare",
+        "affirm",
+        "aver",
+        "claim"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(computer science) An assert statement; a section of source code which tests whether an expected condition is true.",
+            "vi": "(khoa học máy tính) Một tuyên bố khẳng định; một phần mã nguồn kiểm tra xem điều kiện mong đợi có đúng không."
+        },
+        {
+            "pos": "verb",
+            "en": "(computer science) To make true; to make equal to 1.",
+            "vi": "(khoa học máy tính) Để làm cho đúng; để làm cho bằng 1."
+        },
+        {
+            "pos": "idiom",
+            "en": "assert oneself  To act boldly or forcefully, especially in defending one's rights or stating an opinion.",
+            "vi": "khẳng định bản thân Được hành động một cách táo bạo hoặc mạnh mẽ, đặc biệt là trong việc bảo vệ quyền lợi của mình hoặc nêu quan điểm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Only once during this period did the young tsar come forward and assert his authority.",
+            "vi": "Chỉ một lần trong thời kỳ này, vị sa hoàng trẻ tuổi tiến lên và khẳng định quyền lực của mình."
+        },
+        {
+            "en": "At last the law-abiding Jews might and must assert the majesty of the outraged Law.",
+            "vi": "Cuối cùng, những người Do Thái tuân thủ luật pháp có thể và phải khẳng định sự uy nghiêm của Luật pháp gây phẫn nộ."
+        }
+    ],
+    "words_form": [
+        "asserted",
+        "asserting",
+        "asserts"
+    ],
+    "meaning_vi": "khẳng định"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/bɛd/"
+    ],
+    "synonyms": [
+        "hay",
+        "cot",
+        "row",
+        "sack",
+        "roost"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The part of a truck, trailer, or freight car designed to carry loads.",
+            "vi": "Bộ phận của xe tải, xe đầu kéo hoặc xe ô tô chở hàng được thiết kế để chở hàng."
+        },
+        {
+            "pos": "verb",
+            "en": "To furnish with a bed or sleeping quarters.",
+            "vi": "Để trang bị giường hoặc chỗ ngủ."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Bachelor of Education.",
+            "vi": "Cử nhân Sư Phạm."
+        },
+        {
+            "pos": "idiom",
+            "en": "get into bed with  To become closely involved with another person or group, as in an intrigue:",
+            "vi": "lên giường với Để tham gia chặt chẽ với một người hoặc một nhóm khác, như trong một âm mưu:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He sat up in the bed and looked around.",
+            "vi": "Anh ngồi dậy trên giường và nhìn xung quanh."
+        },
+        {
+            "en": "We went to bed and slept until morning.",
+            "vi": "Chúng tôi lên giường và ngủ một giấc đến sáng."
+        }
+    ],
+    "words_form": [
+        "bedded",
+        "bedding",
+        "beds"
+    ],
+    "meaning_vi": "cái giường"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈfeɪdl/"
+    ],
+    "synonyms": [
+        "deadly",
+        "fateful",
+        "disastrous",
+        "lethal",
+        "catastrophic"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Resulting in death.",
+            "vi": "Dẫn đến tử vong."
+        },
+        {
+            "pos": "noun",
+            "en": "A fatality; an event that leads to death.",
+            "vi": "Một cái chết; một sự kiện dẫn đến cái chết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The council had also a fatal defect in its constitution.",
+            "vi": "Hội đồng cũng có một khiếm khuyết nghiêm trọng trong hiến pháp của mình."
+        },
+        {
+            "en": "This step was fatal to Pippin's designs.",
+            "vi": "Bước đi này đã gây tử vong cho các thiết kế của Pippin."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chí tử; chí mạng (có thể gây tử vong)"
+}

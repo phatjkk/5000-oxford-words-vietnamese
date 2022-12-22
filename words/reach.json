@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ritʃ/"
+    ],
+    "synonyms": [
+        "arrive",
+        "horizon",
+        "get to",
+        "compass",
+        "orbit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of reach is stretching out an arm or hand in order to touch or grab something.",
+            "vi": "Định nghĩa về tầm với là duỗi một cánh tay hoặc bàn tay ra để chạm hoặc nắm lấy một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The extent or distance something can reach.",
+            "vi": "Mức độ hoặc khoảng cách mà thứ gì đó có thể đạt tới."
+        },
+        {
+            "pos": "acronym",
+            "en": "Registration, Evaluation and Authorisation of Chemicals.",
+            "vi": "Đăng ký, Đánh giá và Cấp phép Hóa chất."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Sometimes that's the only way you can reach each other.",
+            "vi": "Đôi khi đó là cách duy nhất để bạn có thể đến được với nhau."
+        },
+        {
+            "en": "His smile didn't reach his eyes.",
+            "vi": "Nụ cười của anh không qua được mắt."
+        }
+    ],
+    "words_form": [
+        "reached",
+        "reaches",
+        "reaching"
+    ],
+    "meaning_vi": "chạm tới"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/sfɪr/"
+    ],
+    "synonyms": [
+        "orb",
+        "ball",
+        "cylindrical",
+        "domain",
+        "province"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To sphere is defined as to enclose in or put into a round shape.",
+            "vi": "Hình cầu được định nghĩa là bao bọc hoặc đặt thành một hình tròn."
+        },
+        {
+            "pos": "noun",
+            "en": "The sky, appearing as a hemisphere to an observer.",
+            "vi": "Bầu trời, xuất hiện như một bán cầu cho người quan sát."
+        },
+        {
+            "pos": "suffix",
+            "en": "Designating some layer of the Earth.",
+            "vi": "Chỉ định một số lớp của Trái đất."
+        },
+        {
+            "pos": "affix",
+            "en": "Something, esp. a cell or body part, resembling a sphere.",
+            "vi": "Một cái gì đó, đặc biệt. một tế bào hoặc một phần cơ thể, giống như một quả cầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His sphere of action, however, was not in parliament.",
+            "vi": "Tuy nhiên, phạm vi hoạt động của ông không nằm trong quốc hội."
+        },
+        {
+            "en": "The continental area is on one side of the sphere and the oceanic on the other.",
+            "vi": "Khu vực lục địa nằm ở một bên của hình cầu và ở bên kia là đại dương."
+        }
+    ],
+    "words_form": [
+        "sphered",
+        "spheres",
+        "sphering"
+    ],
+    "meaning_vi": "một quả/hình cầu; một môn học hoặc lĩnh vực kiến thức, công việc v.v."
+}

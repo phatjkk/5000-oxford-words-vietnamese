@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈskriːnɪŋ/"
+    ],
+    "synonyms": [
+        "cloaking",
+        "covering",
+        "masking",
+        "suppressing",
+        "veiling"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The initial evaluation of a person, intended to determine suitability for a particular treatment modality.",
+            "vi": "Đánh giá ban đầu về một người, nhằm xác định sự phù hợp đối với một phương thức điều trị cụ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of screen.",
+            "vi": "Trình bày phân từ của màn hình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We know how well that screening worked out, now don't we?",
+            "vi": "Chúng ta biết việc sàng lọc đó diễn ra tốt như thế nào, phải không?"
+        },
+        {
+            "en": "These raids, and the more ordinary screening work, were never executed more brilliantly than by Lee's great cavalry general, \"Jeb\" Stuart, in Virginia, but the Federal generals, Pleasonton and Sheridan, did excellent work in the east, as also Wheeler and Forrest on the Confederate, Wilson and Grierson on the Federal, side in the west.",
+            "vi": "Những cuộc đột kích này, và công việc sàng lọc bình thường hơn, không bao giờ được thực hiện xuất sắc hơn tướng kỵ binh vĩ đại của Lee, \"Jeb\" Stuart, ở Virginia, nhưng các tướng Liên bang, Pleasonton và Sheridan, đã làm việc xuất sắc ở phía đông, cũng như Wheeler và Forrest của Liên bang, Wilson và Grierson ở Liên bang, ở phía tây."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The initial evaluation of a person, intended to determine suitability for a particular treatment modality.",
+            "vi": "Đánh giá ban đầu về một người, nhằm xác định sự phù hợp đối với một phương thức điều trị cụ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of screen.",
+            "vi": "Trình bày phân từ của màn hình."
+        }
+    ]
+}

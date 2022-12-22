@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈmɔrnɪŋ/"
+    ],
+    "synonyms": [
+        "morn",
+        "dayspring",
+        "daybreak",
+        "forenoon",
+        "aurora"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The first or early part.",
+            "vi": "Phần đầu hoặc phần đầu."
+        },
+        {
+            "pos": "interjection",
+            "en": "A greeting said in the morning; good morning.",
+            "vi": "Một lời chào nói vào buổi sáng; buổi sáng tốt lành."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of morning is used or occurring in the first part of the day.",
+            "vi": "Định nghĩa về buổi sáng được sử dụng hoặc xuất hiện trong phần đầu tiên của ngày."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In the morning she showered and dressed before he woke.",
+            "vi": "Buổi sáng, cô tắm rửa và thay quần áo trước khi anh thức dậy."
+        },
+        {
+            "en": "You are quiet this morning, son.",
+            "vi": "Sáng nay con yên lặng, con trai."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "buổi sáng"
+}

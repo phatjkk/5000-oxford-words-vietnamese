@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌɑbzərˈveɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "noticing",
+        "measurement",
+        "heedfulness",
+        "perception",
+        "scrutiny"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an observation is the act of noticing something or a judgment or inference from something seen or experienced.",
+            "vi": "Định nghĩa của một quan sát là hành động nhận thấy một cái gì đó hoặc một phán đoán hoặc suy luận từ một cái gì đó đã nhìn thấy hoặc trải nghiệm."
+        },
+        {
+            "pos": "adjective",
+            "en": "For observing.",
+            "vi": "Để quan sát."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll record the facts from my personal point of view, and my observation.",
+            "vi": "Tôi sẽ ghi lại các sự kiện theo quan điểm cá nhân và quan sát của tôi."
+        },
+        {
+            "en": "It is a matter of common observation that the blue of the sky is highly variable.",
+            "vi": "Một vấn đề quan sát thông thường là màu xanh của bầu trời rất thay đổi."
+        }
+    ],
+    "words_form": [
+        "observations"
+    ],
+    "meaning_vi": "quan sát"
+}

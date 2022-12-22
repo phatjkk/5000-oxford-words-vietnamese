@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌkwɛstʃəˈnɛr/"
+    ],
+    "synonyms": [
+        "survey",
+        "public-opinion poll",
+        "inquiry",
+        "canvass",
+        "outline"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Questionnaire is a form or a document that contains a series of questions to be answered.",
+            "vi": "Bảng câu hỏi là một biểu mẫu hoặc một tài liệu có chứa một loạt các câu hỏi cần được trả lời."
+        },
+        {
+            "pos": "verb",
+            "en": "To survey using questionnaires.",
+            "vi": "Để khảo sát bằng bảng câu hỏi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Just follow the step-by-step instructions, which will guide you through the questionnaire.",
+            "vi": "Chỉ cần làm theo hướng dẫn từng bước, sẽ hướng dẫn bạn qua bảng câu hỏi."
+        },
+        {
+            "en": "Completion of the questionnaire is entirely anonymous and will take only a minute or two of your time.",
+            "vi": "Việc hoàn thành bảng câu hỏi là hoàn toàn ẩn danh và sẽ chỉ mất một hoặc hai phút thời gian của bạn."
+        }
+    ],
+    "words_form": [
+        "questionnaires"
+    ],
+    "meaning_vi": "bản câu hỏi (để điều tra, để thăm dò ý kiến)"
+}

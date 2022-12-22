@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/blæŋk/"
+    ],
+    "synonyms": [
+        "empty",
+        "unused",
+        "white",
+        "expressionless",
+        "barren"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of blank is something not written upon or without thought or ideas.",
+            "vi": "Định nghĩa của trống là một cái gì đó không được viết dựa trên hoặc không có suy nghĩ hoặc ý tưởng."
+        },
+        {
+            "pos": "noun",
+            "en": "A manufactured article of a standard shape or form that is ready for final processing, as by stamping or cutting.",
+            "vi": "Một mặt hàng được sản xuất có hình dạng hoặc hình thức tiêu chuẩn đã sẵn sàng cho quá trình xử lý cuối cùng, bằng cách dập hoặc cắt."
+        },
+        {
+            "pos": "verb",
+            "en": "To remove, as from view; obliterate.",
+            "vi": "Để loại bỏ, như khỏi chế độ xem; bôi."
+        },
+        {
+            "pos": "idiom",
+            "en": "blank out  to cancel or obscure by covering over; void",
+            "vi": "bỏ trống để hủy bỏ hoặc che khuất bằng cách che đậy; vô hiệu"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She gave him a blank look.",
+            "vi": "Cô nhìn anh một cách trống rỗng."
+        },
+        {
+            "en": "Jessi poured herself more coffee, eyes going to the blank iPad calendar.",
+            "vi": "Jessi rót thêm cà phê cho mình, mắt nhìn vào tờ lịch trống trên iPad."
+        }
+    ],
+    "words_form": [
+        "blanked",
+        "blankest",
+        "blanking",
+        "blanks"
+    ],
+    "meaning_vi": "chỗ trống"
+}

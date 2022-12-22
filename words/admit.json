@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ədˈmɪt/"
+    ],
+    "synonyms": [
+        "confess",
+        "receive",
+        "uncover",
+        "acknowledge",
+        "tell"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Admit is defined as to confess or agree that something is true.",
+            "vi": "Thừa nhận được định nghĩa là thú nhận hoặc đồng ý rằng điều gì đó là đúng."
+        },
+        {
+            "pos": "noun",
+            "en": "One who is admitted.",
+            "vi": "Một người được nhận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He needed glasses, but he wouldn't admit it.",
+            "vi": "Anh ấy cần kính, nhưng anh ấy sẽ không thừa nhận điều đó."
+        },
+        {
+            "en": "At least I admit I'm jealous - and I have every reason to be.",
+            "vi": "Ít nhất tôi thừa nhận rằng tôi ghen tị - và tôi có mọi lý do để như vậy."
+        }
+    ],
+    "words_form": [
+        "admits",
+        "admitted",
+        "admitting"
+    ],
+    "meaning_vi": "thừa nhận"
+}

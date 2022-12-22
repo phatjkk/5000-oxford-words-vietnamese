@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/əs/"
+    ],
+    "synonyms": [
+        "we",
+        "us",
+        "ourselves",
+        "US government",
+        "United States government"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Us is defined as we.",
+            "vi": "Chúng tôi được định nghĩa là chúng tôi."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Uncle Sam.",
+            "vi": "Chú Sam."
+        },
+        {
+            "pos": "determiner",
+            "en": "The speakers/writers, or the speaker/writer and at least one other person.",
+            "vi": "Người nói / người viết, hoặc người nói / người viết và ít nhất một người khác."
+        },
+        {
+            "pos": "symbol",
+            "en": "Alternative spelling of Âµs.",
+            "vi": "Cách viết khác của Âµs."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You didn't tell us it was her birthday.",
+            "vi": "Bạn đã không nói với chúng tôi rằng đó là sinh nhật của cô ấy."
+        },
+        {
+            "en": "I hope he likes us all.",
+            "vi": "Tôi hy vọng anh ấy thích tất cả chúng tôi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "Chúng tôi / Chúng ta"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈɡrævədi/"
+    ],
+    "synonyms": [
+        "force",
+        "center-of-gravity",
+        "magnetic field",
+        "heaviness",
+        "somberness"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of gravity is the force that causes everything that goes up to fall back down to Earth or is a word used to describe seriousness.",
+            "vi": "Định nghĩa của lực hấp dẫn là lực khiến mọi thứ đi lên rơi trở lại Trái đất hoặc là một từ dùng để mô tả mức độ nghiêm trọng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Operated by the force of gravity.",
+            "vi": "Hoạt động bởi lực của trọng lực."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Gravity is what keeps everything from floating around.",
+            "vi": "Lực hấp dẫn là thứ giữ cho mọi thứ không trôi nổi xung quanh."
+        },
+        {
+            "en": "The gravity in his voice made her afraid of what was to come.",
+            "vi": "Sự hấp dẫn trong giọng nói của anh khiến cô sợ hãi về những gì sắp xảy đến."
+        }
+    ],
+    "words_form": [
+        "gravities"
+    ],
+    "meaning_vi": "nghiêm trọng"
+}

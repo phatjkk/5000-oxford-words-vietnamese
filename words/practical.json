@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈpræktək(ə)l/"
+    ],
+    "synonyms": [
+        "useless",
+        "real",
+        "impractical",
+        "be",
+        "sensible"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of practical is sensible or usable.",
+            "vi": "Định nghĩa của thực tế là hợp lý hoặc có thể sử dụng được."
+        },
+        {
+            "pos": "noun",
+            "en": "(UK) A part of an exam or series of exams in which the candidate has to demonstrate their practical ability.",
+            "vi": "(Vương quốc Anh) Một phần của kỳ thi hoặc một loạt các kỳ thi trong đó thí sinh phải thể hiện khả năng thực hành của mình."
+        },
+        {
+            "pos": "idiom",
+            "en": "for all practical purposes  so as to amount to; virtually; in effect",
+            "vi": "cho tất cả các mục đích thực tế để số tiền; hầu như; có hiệu lực"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "For all practical purposes, we have an unlimited supply of air to breathe.",
+            "vi": "Đối với tất cả các mục đích thực tế, chúng tôi có nguồn cung cấp không khí không giới hạn để thở."
+        },
+        {
+            "en": "Is it finite, or is it for all practical purposes infinite?",
+            "vi": "Nó hữu hạn, hay nó cho tất cả các mục đích thực tế là vô hạn?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thực tế"
+}

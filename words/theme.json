@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/θim/"
+    ],
+    "synonyms": [
+        "topic",
+        "subject matter",
+        "point",
+        "exposition",
+        "proposition"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A topic of discourse or discussion.",
+            "vi": "Một chủ đề nghị luận hoặc thảo luận."
+        },
+        {
+            "pos": "verb",
+            "en": "To give a theme to; specif., to plan according to a central theme.",
+            "vi": "Để đưa ra một chủ đề cho; specif., để lập kế hoạch theo một chủ đề trọng tâm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"What I have certainly gained is freedom,\" he began seriously, but did not continue, noticing that this theme was too egotistic.",
+            "vi": "“Điều tôi chắc chắn đạt được là tự do,” anh nghiêm túc bắt đầu, nhưng không tiếp tục, nhận thấy rằng chủ đề này quá tự cao tự đại."
+        },
+        {
+            "en": "Carmen had chosen the colors pastel violet and light gray, with the theme being hearts and the flowers being forget-me-nots.",
+            "vi": "Carmen đã chọn màu sắc tím nhạt và xám nhạt, với chủ đề là trái tim và những bông hoa là những điều lãng quên."
+        }
+    ],
+    "words_form": [
+        "themed",
+        "themes",
+        "theming"
+    ],
+    "meaning_vi": "chủ đề"
+}

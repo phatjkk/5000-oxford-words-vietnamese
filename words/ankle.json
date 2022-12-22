@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈæŋk(ə)l/"
+    ],
+    "synonyms": [
+        "sprain",
+        "kneecap",
+        "toe",
+        "talus",
+        "ankle joint"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The slender section of the leg immediately above the foot.",
+            "vi": "Phần chân thon ngay trên bàn chân."
+        },
+        {
+            "pos": "verb",
+            "en": "To fail to go on with (an agreement, job, contract, etc.)",
+            "vi": "Không tiếp tục (thỏa thuận, công việc, hợp đồng, v.v.)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I hurt my ankle and I can't walk on it.",
+            "vi": "Tôi bị thương ở mắt cá chân và tôi không thể đi trên nó."
+        },
+        {
+            "en": "I twisted my ankle and fell.",
+            "vi": "Tôi bị trẹo mắt cá chân và ngã."
+        }
+    ],
+    "words_form": [
+        "ankled",
+        "ankles",
+        "ankling"
+    ],
+    "meaning_vi": "mắt cá chân"
+}

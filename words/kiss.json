@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/kɪs/"
+    ],
+    "synonyms": [
+        "smooch",
+        "osculate",
+        "french-kiss",
+        "soul-kiss",
+        "snog"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Kiss is defined as to lightly touch with the lips.",
+            "vi": "Nụ hôn được định nghĩa là chạm nhẹ vào môi."
+        },
+        {
+            "pos": "noun",
+            "en": "A slight or gentle touch.",
+            "vi": "Một cái chạm nhẹ hoặc nhẹ nhàng."
+        },
+        {
+            "pos": "phrase",
+            "en": "Acronym of Keep it simple, stupid.",
+            "vi": "Viết tắt của Giữ nó đơn giản, ngu ngốc."
+        },
+        {
+            "pos": "idiom",
+            "en": "(vulgar slang) kiss ass  To act submissively or obsequiously in order to gain favor.",
+            "vi": "(tiếng lóng thô tục) hôn mông Hành động phục tùng hoặc vâng lời để được ưu ái."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Would you like to kiss me? she whispered almost inaudibly, glancing up at him from under her brows, smiling, and almost crying from excitement.",
+            "vi": "Bạn có muốn hôn tôi không? cô thì thầm gần như không nghe được, ngước nhìn anh từ dưới lông mày, mỉm cười và gần như khóc vì phấn khích."
+        },
+        {
+            "en": "He gave her a light kiss, unable to resist.",
+            "vi": "Anh hôn nhẹ cô một cái, không thể phản kháng."
+        }
+    ],
+    "words_form": [
+        "kissed",
+        "kisses",
+        "kissing"
+    ],
+    "meaning_vi": "nụ hôn"
+}

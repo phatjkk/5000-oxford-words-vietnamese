@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/did/"
+    ],
+    "synonyms": [
+        "act",
+        "action",
+        "commission",
+        "accomplishment",
+        "charter"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a deed is something which is done.",
+            "vi": "Định nghĩa của một chứng thư là một cái gì đó được thực hiện."
+        },
+        {
+            "pos": "verb",
+            "en": "A written conveyance of an interest in real property.",
+            "vi": "Một thông báo bằng văn bản về sự quan tâm đến bất động sản."
+        },
+        {
+            "pos": "adverb",
+            "en": "(informal) Indeed.",
+            "vi": "(không chính thức) Thật vậy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her works are in very deed the echo of our times.",
+            "vi": "Các tác phẩm của cô ấy rất có tiếng vang của thời đại chúng ta."
+        },
+        {
+            "en": "It is only in this sense that an evil deed can be atoned for by a good deed.",
+            "vi": "Theo nghĩa này, một việc ác có thể được chuộc lại bằng một việc tốt."
+        }
+    ],
+    "words_form": [
+        "deeded",
+        "deeds"
+    ],
+    "meaning_vi": "chứng thư"
+}

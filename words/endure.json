@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɪnˈd(j)ʊr/",
+        "/ɛnˈd(j)ʊr/"
+    ],
+    "synonyms": [
+        "sustain",
+        "exist",
+        "remain",
+        "last",
+        "bear up"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To carry on through, despite hardships; undergo or suffer.",
+            "vi": "Để tiếp tục, dù gian khổ; trải qua hoặc đau khổ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He learned to endure hunger and cold.",
+            "vi": "Anh học cách chịu đựng đói và lạnh."
+        },
+        {
+            "en": "How could she endure the ride?",
+            "vi": "Làm sao cô ấy có thể chịu đựng được chuyến đi?"
+        }
+    ],
+    "words_form": [
+        "endured",
+        "endures",
+        "enduring"
+    ],
+    "meaning_vi": "chịu đựng"
+}

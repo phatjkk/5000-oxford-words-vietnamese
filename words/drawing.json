@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈdrɔɪŋ/"
+    ],
+    "synonyms": [
+        "sketch",
+        "tracing",
+        "representation",
+        "rendering",
+        "yanking"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a drawing is a picture created with a pen, marker, crayons or other tools, or is the act of making such a picture, or is a contest in which a winner is randomly selected.",
+            "vi": "Định nghĩa của một bức vẽ là một bức tranh được tạo ra bằng bút, bút dạ, bút chì màu hoặc các công cụ khác, hoặc là hành động tạo ra một bức tranh như vậy, hoặc là một cuộc thi trong đó người chiến thắng được chọn ngẫu nhiên."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of draw.",
+            "vi": "Trình bày phân từ bốc thăm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"How strange!\" she exclaimed, drawing a long breath.",
+            "vi": "\"Cách kỳ lạ!\" cô ấy thốt lên, thở một hơi dài."
+        },
+        {
+            "en": "The red planet beneath her was drawing closer.",
+            "vi": "Hành tinh đỏ bên dưới cô ấy đang đến gần hơn."
+        }
+    ],
+    "words_form": [
+        "drawings"
+    ],
+    "meaning_vi": "vẽ"
+}

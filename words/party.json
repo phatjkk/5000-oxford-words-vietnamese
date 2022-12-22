@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈpɑrdi/"
+    ],
+    "synonyms": [
+        "celebration",
+        "soiree",
+        "bevy",
+        "array",
+        "fiesta"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person.",
+            "vi": "Một người."
+        },
+        {
+            "pos": "verb",
+            "en": "To party is to enjoy yourself and have a good time, especially at a social event.",
+            "vi": "Tiệc tùng là để tận hưởng bản thân và có một khoảng thời gian vui vẻ, đặc biệt là tại một sự kiện xã hội."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or participating in an established political organization.",
+            "vi": "Của, liên quan đến, hoặc tham gia vào một tổ chức chính trị được thành lập."
+        },
+        {
+            "pos": "adverb",
+            "en": "(obsolete) Partly.",
+            "vi": "(lỗi thời) Một phần."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "So the party was actually for him, not both of them.",
+            "vi": "Vì vậy, bữa tiệc thực sự là dành cho anh ấy, không phải cả hai."
+        },
+        {
+            "en": "According to the invitation, the party will be held in the main entrance near the Christmas tree.",
+            "vi": "Theo thư mời, bữa tiệc sẽ được tổ chức ở lối vào chính gần cây thông Noel."
+        }
+    ],
+    "words_form": [
+        "partied",
+        "parties",
+        "partying"
+    ],
+    "meaning_vi": "bữa tiệc"
+}

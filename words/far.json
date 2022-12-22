@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/fɑr/"
+    ],
+    "synonyms": [
+        "distant",
+        "faraway",
+        "greatly",
+        "incomparably",
+        "considerably"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "To, from, or at a considerable distance.",
+            "vi": "Đến, từ, hoặc ở một khoảng cách đáng kể."
+        },
+        {
+            "pos": "adjective",
+            "en": "Extending a long way.",
+            "vi": "Kéo dài một chặng đường dài."
+        },
+        {
+            "pos": "noun",
+            "en": "A distant place.",
+            "vi": "Một nơi xa."
+        },
+        {
+            "pos": "idiom",
+            "en": "by far  To the most extreme or evident degree: She is by far the best executive in the company.",
+            "vi": "Cho đến nay Ở mức độ cao nhất hoặc rõ ràng nhất: Cô ấy cho đến nay vẫn là giám đốc điều hành giỏi nhất trong công ty."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "So far her prayers had been unanswered.",
+            "vi": "Cho đến nay những lời cầu nguyện của cô vẫn chưa được đáp lại."
+        },
+        {
+            "en": "They have a camp not far away.",
+            "vi": "Họ có một trại không xa."
+        }
+    ],
+    "words_form": [
+        "farthest",
+        "further",
+        "furthest"
+    ],
+    "meaning_vi": "xa"
+}

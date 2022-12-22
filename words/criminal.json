@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈkrɪm(ə)n(ə)l/"
+    ],
+    "synonyms": [
+        "culprit",
+        "fugitive",
+        "public-enemy",
+        "gangster",
+        "lawbreaker"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A criminal is defined as a person who has done something illegal.",
+            "vi": "Tội phạm được định nghĩa là người đã làm điều gì đó bất hợp pháp."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of criminal is someone or something related to the commission of a crime.",
+            "vi": "Định nghĩa tội phạm là một người nào đó hoặc một cái gì đó liên quan đến việc thực hiện một tội phạm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't want some dangerous criminal living next door.",
+            "vi": "Tôi không muốn một tên tội phạm nguy hiểm nào đó sống bên cạnh."
+        },
+        {
+            "en": "The criminal must be taken in the act, e.g.",
+            "vi": "Tội phạm phải được thực hiện trong hành động, ví dụ"
+        }
+    ],
+    "words_form": [
+        "criminals"
+    ],
+    "meaning_vi": "hình sự"
+}

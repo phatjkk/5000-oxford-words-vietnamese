@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/prəˈsidʒər/"
+    ],
+    "synonyms": [
+        "line",
+        "step",
+        "policy",
+        "routine",
+        "operation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of procedure is order of the steps to be taken to make something happen, or how something is done.",
+            "vi": "Định nghĩa của thủ tục là thứ tự các bước cần thực hiện để thực hiện một điều gì đó xảy ra, hoặc cách một điều gì đó được thực hiện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The civil procedure was kept secret.",
+            "vi": "Thủ tục dân sự được giữ bí mật."
+        },
+        {
+            "en": "Confused, she tried again to remember what procedure Dr. Wynn was performing today.",
+            "vi": "Bối rối, cô cố gắng nhớ lại ngày hôm nay bác sĩ Wynn đã thực hiện thủ thuật gì."
+        }
+    ],
+    "words_form": [
+        "procedures"
+    ],
+    "meaning_vi": "thủ tục"
+}

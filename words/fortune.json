@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈfɔrtʃən/"
+    ],
+    "synonyms": [
+        "luck",
+        "lot",
+        "megabucks",
+        "tidy sum",
+        "chance"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(obsolete) To ascribe or give good or bad fortune to.",
+            "vi": "(lỗi thời) Để ghi nhận hoặc ban cho vận may tốt hay xấu cho."
+        },
+        {
+            "pos": "noun",
+            "en": "The entity or power believed by some to bring good or bad luck to people; luck; chance; fate.",
+            "vi": "Một thực thể hoặc sức mạnh được một số người tin rằng sẽ mang lại điều tốt hoặc điều xui xẻo cho con người; sự may mắn; cơ hội; định mệnh."
+        },
+        {
+            "pos": "idiom",
+            "en": "a small fortune  a very high price or cost",
+            "vi": "một tài sản nhỏ nhưng giá cả hoặc chi phí rất cao"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There must be a fortune right here in this building.",
+            "vi": "Phải có một gia tài ngay trong tòa nhà này."
+        },
+        {
+            "en": "That castle cost a fortune to build.",
+            "vi": "Lâu đài đó tốn một gia tài để xây dựng."
+        }
+    ],
+    "words_form": [
+        "fortuned",
+        "fortunes",
+        "fortuning"
+    ],
+    "meaning_vi": "vận may"
+}

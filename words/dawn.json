@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/dɔn/",
+        "/dɑn/"
+    ],
+    "synonyms": [
+        "rise",
+        "daybreak",
+        "aurora",
+        "occur",
+        "evening"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The beginning of daylight in the morning; daybreak.",
+            "vi": "Sự khởi đầu của ánh sáng ban ngày vào buổi sáng; rạng đông."
+        },
+        {
+            "pos": "verb",
+            "en": "To begin to be day; grow light.",
+            "vi": "Để bắt đầu được một ngày; phát triển ánh sáng."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Wand.",
+            "vi": "Đũa phép."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A female given name sometimes given to a girl born at that time of day.",
+            "vi": "Một tên phụ nữ đôi khi được đặt cho một cô gái sinh ra vào thời điểm đó trong ngày."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was evening in our world but dawn here.",
+            "vi": "Ở thế giới của chúng ta đã là buổi tối nhưng bình minh ở đây."
+        },
+        {
+            "en": "The dawn brought cool air and dense fog.",
+            "vi": "Bình minh lên mang theo không khí mát mẻ và sương mù dày đặc."
+        }
+    ],
+    "words_form": [
+        "dawned",
+        "dawning",
+        "dawns"
+    ],
+    "meaning_vi": "bình minh"
+}

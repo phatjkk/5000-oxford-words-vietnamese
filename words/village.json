@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈvɪlɪdʒ/"
+    ],
+    "synonyms": [
+        "hamlet",
+        "small-town",
+        "settlement",
+        "community",
+        "microcosm"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a village is an residential area in the country that is smaller than a town.",
+            "vi": "Định nghĩa làng là một khu dân cư ở quốc gia nhỏ hơn thị trấn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Village means relating to a residential area smaller than a town.",
+            "vi": "Làng có nghĩa là liên quan đến một khu dân cư nhỏ hơn một thị trấn."
+        },
+        {
+            "pos": "proper name",
+            "en": "Greenwich Village.",
+            "vi": "Làng Greenwich."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Away they went through the village street and out upon the country road.",
+            "vi": "Đi xa, họ đi qua đường làng và ra con đường quê."
+        },
+        {
+            "en": "When he had reached the village of Pratzen he halted.",
+            "vi": "Khi đến làng Pratzen, anh ta dừng lại."
+        }
+    ],
+    "words_form": [
+        "villages"
+    ],
+    "meaning_vi": "làng; xã"
+}

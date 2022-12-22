@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ɪkˈsploʊʒən/"
+    ],
+    "synonyms": [
+        "blast",
+        "bursting",
+        "bang",
+        "rat-a-tat-tat",
+        "concussion"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A noisy outburst; loud breaking forth.",
+            "vi": "Một sự bùng phát ồn ào; lớn tiếng nổ ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A second explosion threw him across the room.",
+            "vi": "Một vụ nổ thứ hai ném anh ta khắp phòng."
+        },
+        {
+            "en": "In 1716 an explosion took place at the Moorfields.",
+            "vi": "Năm 1716, một vụ nổ đã xảy ra tại Moorfields."
+        }
+    ],
+    "words_form": [
+        "explosions"
+    ],
+    "meaning_vi": "vụ nổ"
+}

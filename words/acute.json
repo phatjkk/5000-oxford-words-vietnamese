@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/əˈkjut/"
+    ],
+    "synonyms": [
+        "penetrating",
+        "sharp",
+        "dire",
+        "clever",
+        "severe"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Acute is defined as something that is very serious, severe or extreme.",
+            "vi": "Cấp tính được định nghĩa là một cái gì đó rất nghiêm trọng, nghiêm trọng hoặc cực độ."
+        },
+        {
+            "pos": "noun",
+            "en": "(orthography) An acute accent.",
+            "vi": "(chỉnh âm) Giọng cấp tính."
+        },
+        {
+            "pos": "verb",
+            "en": "(phonetics) To give an acute sound to.",
+            "vi": "(ngữ âm) Để tạo âm sắc cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The branches grow at a more acute angle.",
+            "vi": "Các nhánh phát triển ở một góc nhọn hơn."
+        },
+        {
+            "en": "He had had a short illness, there had been a brief time of acute suffering, then all was over.",
+            "vi": "Anh ấy đã có một cơn bệnh ngắn, đã có một thời gian ngắn bị đau cấp tính, sau đó tất cả đã kết thúc."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nhọn"
+}

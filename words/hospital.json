@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈhɑˌspɪdl/"
+    ],
+    "synonyms": [
+        "clinic",
+        "sanitarium",
+        "sick bay",
+        "mental-hospital",
+        "detox"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a hospital is a place to get medical attention.",
+            "vi": "Định nghĩa của bệnh viện là một nơi để được chăm sóc y tế."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Hospitable.",
+            "vi": "(lỗi thời) Hiếu khách."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "When they arrived at the hospital, Alex was pacing.",
+            "vi": "Khi họ đến bệnh viện, Alex đang đi lại."
+        },
+        {
+            "en": "They have a hospital here.",
+            "vi": "Họ có một bệnh viện ở đây."
+        }
+    ],
+    "words_form": [
+        "hospitals"
+    ],
+    "meaning_vi": "bệnh viện"
+}

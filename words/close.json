@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/kloʊs/"
+    ],
+    "synonyms": [
+        "ending",
+        "stuff",
+        "conclude",
+        "close-down",
+        "termination"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Being near in space or time.",
+            "vi": "Ở gần trong không gian hoặc thời gian."
+        },
+        {
+            "pos": "verb",
+            "en": "Close means to seal up, shut off or make something not be open anymore.",
+            "vi": "Đóng có nghĩa là niêm phong, tắt hoặc làm cho một cái gì đó không mở được nữa."
+        },
+        {
+            "pos": "noun",
+            "en": "An enclosed place, especially land surrounding or beside a cathedral or other building.",
+            "vi": "Một nơi kín, đặc biệt là vùng đất xung quanh hoặc bên cạnh nhà thờ hoặc tòa nhà khác."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a close manner; very near; closely.",
+            "vi": "Nói một cách gần gũi; rất gần; chặt chẽ."
+        },
+        {
+            "pos": "idiom",
+            "en": "close the book on  To make a final effort regarding (something); bring to a conclusion: Closed the book on her career with a fine performance.",
+            "vi": "đóng sách trên Để thực hiện một nỗ lực cuối cùng liên quan đến (một cái gì đó); đưa ra kết luận: Đã khép lại cuốn sách về sự nghiệp của cô ấy với một màn trình diễn xuất sắc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She was so close to achieving her goal.",
+            "vi": "Cô ấy đã gần đạt được mục tiêu của mình."
+        },
+        {
+            "en": "She slid over, cuddling close to him, her head on his pillow.",
+            "vi": "Cô trượt tới, ôm ấp sát vào người anh, gối đầu lên gối anh."
+        }
+    ],
+    "words_form": [
+        "closed",
+        "closer",
+        "closes",
+        "closest",
+        "closing"
+    ],
+    "meaning_vi": "đóng"
+}

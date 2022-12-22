@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/səˈplaɪ/"
+    ],
+    "synonyms": [
+        "rations",
+        "give",
+        "equip",
+        "fulfill",
+        "provide"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An amount or quantity available for use; stock; store.",
+            "vi": "Một số lượng hoặc số lượng có sẵn để sử dụng; Cổ phần; cửa hàng."
+        },
+        {
+            "pos": "verb",
+            "en": "To make available for use; provide.",
+            "vi": "Để có sẵn để sử dụng; cung cấp."
+        },
+        {
+            "pos": "adjective",
+            "en": "Having to do with a supply or supplies.",
+            "vi": "Có liên quan đến nguồn cung cấp hoặc nguồn cung cấp."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a supple manner; supplely.",
+            "vi": "Một cách dẻo dai; một cách dẻo dai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Jackson stopped by the art supply store on the way home to purchase supplies for Elisabeth.",
+            "vi": "Trên đường về nhà, Jackson ghé vào cửa hàng đồ nghệ thuật để mua đồ dùng cho Elisabeth."
+        },
+        {
+            "en": "\"Supply and demand,\" Dean answered.",
+            "vi": "\"Cung và cầu,\" Dean trả lời."
+        }
+    ],
+    "words_form": [
+        "supplied",
+        "supplies",
+        "supplying"
+    ],
+    "meaning_vi": "cung cấp"
+}

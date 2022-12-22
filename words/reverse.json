@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/rəˈvərs/"
+    ],
+    "synonyms": [
+        "setback",
+        "recessive",
+        "shift",
+        "modify",
+        "opposite"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Reverse is defined as the opposite or the opposing side of something.",
+            "vi": "Reverse được định nghĩa là mặt đối lập hoặc mặt đối lập của một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "Reverse means to go backward, or to turn inside out or to the correct side.",
+            "vi": "Reverse có nghĩa là đi lùi, hoặc rẽ từ trong ra ngoài hoặc sang bên phải."
+        },
+        {
+            "pos": "adjective",
+            "en": "Turned backward in position, direction, or order.",
+            "vi": "Đã quay ngược về vị trí, hướng hoặc thứ tự."
+        },
+        {
+            "pos": "adverb",
+            "en": "(now rare) In a reverse way or direction; upside-down. [from 14th c.]",
+            "vi": "(bây giờ hiếm) Theo một cách hoặc hướng ngược lại; lộn ngược. [từ ngày 14 c.]"
+        },
+        {
+            "pos": "idiom",
+            "en": "reverse (one's) field  To turn and proceed in the opposite direction.",
+            "vi": "trường đảo ngược (một người) Để rẽ và đi theo hướng ngược lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If only she could reverse this day and start over.",
+            "vi": "Giá như cô ấy có thể đảo ngược ngày hôm nay và bắt đầu lại."
+        },
+        {
+            "en": "After another reverse on the east side of the Gulf of Darien Ojeda returned to Hispaniola and died there.",
+            "vi": "Sau một cuộc ngược dòng khác ở phía đông của Vịnh Darien, Ojeda quay trở lại Hispaniola và chết ở đó."
+        }
+    ],
+    "words_form": [
+        "reversed",
+        "reverses",
+        "reversing"
+    ],
+    "meaning_vi": "đảo ngược"
+}

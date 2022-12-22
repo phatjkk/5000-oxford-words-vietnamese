@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/kəmˈpraɪz/"
+    ],
+    "synonyms": [
+        "consist of",
+        "make up",
+        "imply",
+        "add-up-to",
+        "be"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To include; contain.",
+            "vi": "Bao gồm; Lưu trữ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "How many comprise the group?",
+            "vi": "Có bao nhiêu người bao gồm nhóm?"
+        },
+        {
+            "en": "The population is known to comprise a mixture of races.",
+            "vi": "Dân số được biết là bao gồm một hỗn hợp của các chủng tộc."
+        }
+    ],
+    "words_form": [
+        "comprised",
+        "comprises",
+        "comprising"
+    ],
+    "meaning_vi": "bao gồm"
+}

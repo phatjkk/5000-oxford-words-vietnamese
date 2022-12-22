@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/bɪɡ/"
+    ],
+    "synonyms": [
+        "large",
+        "huge",
+        "great",
+        "flamboyantly",
+        "substantial"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In a broad way; showing imagination.",
+            "vi": "Nói một cách rộng rãi; thể hiện trí tưởng tượng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating an industry or other organized, large-scale activity regarded as having distinct political and economic interests.",
+            "vi": "Chỉ định một ngành hoặc hoạt động có tổ chức, quy mô lớn khác được coi là có lợi ích chính trị và kinh tế riêng biệt."
+        },
+        {
+            "pos": "noun",
+            "en": "A biological insulation garment; an air-tight, full-body suit intended to prevent the spread of contaminants.",
+            "vi": "Một loại quần áo cách nhiệt sinh học; một bộ quần áo kín gió, toàn thân nhằm ngăn chặn sự lây lan của các chất gây ô nhiễm."
+        },
+        {
+            "pos": "idiom",
+            "en": "big on  Enthusiastic about; partial to:",
+            "vi": "lớn về Nhiệt tình về; một phần cho:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That would be a big help.",
+            "vi": "Đó sẽ là một trợ giúp lớn."
+        },
+        {
+            "en": "What a big family it was!",
+            "vi": "Đó là một gia đình lớn!"
+        }
+    ],
+    "words_form": [
+        "bigger",
+        "biggest"
+    ],
+    "meaning_vi": "lớn"
+}

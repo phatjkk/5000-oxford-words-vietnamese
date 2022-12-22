@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈhən(t)ɪŋ/"
+    ],
+    "synonyms": [
+        "trapping",
+        "shooting",
+        "seeking",
+        "coursing",
+        "snaring"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of conducting a search for something.",
+            "vi": "Hành động tiến hành tìm kiếm một thứ gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or for hunting.",
+            "vi": "Của hoặc để săn bắn."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of hunt.",
+            "vi": "Hiện tại phân từ đi săn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I enjoyed hunting with my father.",
+            "vi": "Tôi rất thích đi săn với cha tôi."
+        },
+        {
+            "en": "He'd grudgingly gone on the hunting trip, not wanting to leave Claire behind by herself.",
+            "vi": "Anh ta miễn cưỡng đi săn, không muốn để Claire ở lại một mình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "săn bắn"
+}

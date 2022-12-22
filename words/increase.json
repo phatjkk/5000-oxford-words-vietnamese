@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɪnˈkris/"
+    ],
+    "synonyms": [
+        "boost",
+        "broadening",
+        "escalation",
+        "increment",
+        "progress"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To become greater or larger.",
+            "vi": "Để trở nên lớn hơn hoặc lớn hơn."
+        },
+        {
+            "pos": "noun",
+            "en": "An increasing or becoming increased.  Growth, enlargement, etc. (archaic) Multiplication, as of offspring.",
+            "vi": "Ngày càng tăng hoặc trở nên tăng lên. Tăng trưởng, mở rộng, v.v. (cổ xưa) Nhân giống như thế hệ con cái."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the increase  Increasing, especially in frequency of occurrence: Crime is on the increase.",
+            "vi": "ngày càng gia tăng Ngày càng gia tăng, đặc biệt là tần suất xảy ra: Tội phạm ngày càng gia tăng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That would increase the value of the house.",
+            "vi": "Điều đó sẽ làm tăng giá trị của ngôi nhà."
+        },
+        {
+            "en": "Having her there would certainly increase his enjoyment.",
+            "vi": "Có cô ấy ở đó chắc chắn sẽ làm anh ấy thích thú hơn."
+        }
+    ],
+    "words_form": [
+        "increased",
+        "increases",
+        "increasing"
+    ],
+    "meaning_vi": "tăng"
+}

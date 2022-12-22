@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈfraɪtnd/"
+    ],
+    "synonyms": [
+        "scared",
+        "terrified",
+        "afraid",
+        "threatened",
+        "fearful"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Filled with fright; terrified.",
+            "vi": "Đầy sợ hãi; khiếp sợ."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of frighten.",
+            "vi": "Quá khứ đơn và quá khứ phân từ của sự sợ hãi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I've never been so frightened in my life.",
+            "vi": "Tôi chưa bao giờ sợ hãi như vậy trong đời."
+        },
+        {
+            "en": "He was frightened and ready to cry.",
+            "vi": "Anh ấy sợ hãi và sẵn sàng khóc."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sợ hãi"
+}

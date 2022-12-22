@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/əˈkwɪv(ə)lənt/"
+    ],
+    "synonyms": [
+        "equal",
+        "identical",
+        "tantamount",
+        "difference",
+        "equivalent-weight"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(logic) Having equivalence.",
+            "vi": "(logic) Có tính tương đương."
+        },
+        {
+            "pos": "noun",
+            "en": "Something that is essentially equal to another.",
+            "vi": "Một cái gì đó về cơ bản ngang bằng với cái khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To make equivalent to; to equal.",
+            "vi": "Để làm cho tương đương với; bằng nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "To give that terrible order seemed to him equivalent to resigning the command of the army.",
+            "vi": "Để đưa ra mệnh lệnh khủng khiếp đó đối với anh ta dường như tương đương với việc từ chức quyền chỉ huy quân đội."
+        },
+        {
+            "en": "The indicator was connected with a Ruhmkorff coil or other equivalent apparatus, designed to cause a continual succession of sparks to pass between the indicator and a metal plate situated beneath it and having a plane surface parallel to its line of motion.",
+            "vi": "Bộ chỉ thị được kết nối với một cuộn dây Ruhmkorff hoặc thiết bị tương đương khác, được thiết kế để gây ra sự liên tiếp của tia lửa điện truyền qua giữa bộ chỉ thị và một tấm kim loại nằm bên dưới nó và có bề mặt phẳng song song với đường chuyển động của nó."
+        }
+    ],
+    "words_form": [
+        "equivalents"
+    ],
+    "meaning_vi": "tương đương"
+}

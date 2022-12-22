@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/tʃit/"
+    ],
+    "synonyms": [
+        "cheater",
+        "swindler",
+        "bilk",
+        "pettifogger",
+        "stick"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To mislead; fool.",
+            "vi": "Để đánh lạc hướng; lừa gạt."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a cheat is a dishonest person.",
+            "vi": "Định nghĩa của một cheat là một người không trung thực."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I love Cynthia and I don't want to cheat on her.",
+            "vi": "Tôi yêu Cynthia và tôi không muốn lừa dối cô ấy."
+        },
+        {
+            "en": "You're just trying to cheat us.",
+            "vi": "Bạn chỉ đang cố lừa chúng tôi."
+        }
+    ],
+    "words_form": [
+        "cheated",
+        "cheating",
+        "cheats"
+    ],
+    "meaning_vi": "lừa đảo"
+}

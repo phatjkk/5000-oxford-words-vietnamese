@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈdaɪəˌɡræm/"
+    ],
+    "synonyms": [
+        "sketch",
+        "chart",
+        "layout",
+        "design",
+        "picture"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A graph or chart.",
+            "vi": "Một đồ thị hoặc biểu đồ."
+        },
+        {
+            "pos": "verb",
+            "en": "To represent or indicate something using a diagram.",
+            "vi": "Để biểu thị hoặc chỉ ra một cái gì đó bằng cách sử dụng một sơ đồ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "- Diagram of sympodial budding, biserial type, shown in five stages (1-5).",
+            "vi": "- Sơ đồ nảy chồi giao hưởng, kiểu lưỡng tính, thể hiện qua 5 giai đoạn (1-5)."
+        },
+        {
+            "en": "- Diagram illustrating arrangement of parts in flower of Orchis.",
+            "vi": "- Sơ đồ minh họa cách sắp xếp các bộ phận trong hoa Phong lan."
+        }
+    ],
+    "words_form": [
+        "diagramed",
+        "diagraming",
+        "diagrammed",
+        "diagramming",
+        "diagrams"
+    ],
+    "meaning_vi": "Sơ đồ"
+}

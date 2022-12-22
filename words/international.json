@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˌɪn(t)ərˈnæʃ(ə)n(ə)l/"
+    ],
+    "synonyms": [
+        "worldwide",
+        "global",
+        "universal",
+        "worldly",
+        "intercontinental"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "International is defined as something between two or more nations.",
+            "vi": "Quốc tế được định nghĩa là một cái gì đó giữa hai hoặc nhiều quốc gia."
+        },
+        {
+            "pos": "noun",
+            "en": "A person associated with two different countries, as a resident alien.",
+            "vi": "Một người liên kết với hai quốc gia khác nhau, với tư cách là một cư dân nước ngoài."
+        },
+        {
+            "pos": "pronoun",
+            "en": "International Airport, as the shortened form of an airport name.",
+            "vi": "Sân bay quốc tế, là dạng rút gọn của tên sân bay."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I had more than an hour to wait at Philadelphia International Airport.",
+            "vi": "Tôi đã có hơn một giờ để chờ đợi tại Sân bay Quốc tế Philadelphia."
+        },
+        {
+            "en": "French became the language of diplomacy and international affairs.",
+            "vi": "Tiếng Pháp trở thành ngôn ngữ của ngoại giao và các vấn đề quốc tế."
+        }
+    ],
+    "words_form": [
+        "internationals"
+    ],
+    "meaning_vi": "quốc tế"
+}

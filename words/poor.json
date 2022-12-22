@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/pʊr/",
+        "/pɔr/"
+    ],
+    "synonyms": [
+        "destitute",
+        "poverty-stricken",
+        "disadvantaged",
+        "insolvent",
+        "impecunious"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of poor is having little money or belongings, or lacking something.",
+            "vi": "Định nghĩa của nghèo là có ít tiền hoặc đồ đạc, hoặc thiếu một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Poor is defined as people with little to no money or belongings.",
+            "vi": "Người nghèo được định nghĩa là những người có ít hoặc không có tiền bạc hoặc đồ đạc."
+        },
+        {
+            "pos": "idiom",
+            "en": "the poor  poor, or needy, people collectively",
+            "vi": "những người nghèo khó, hoặc thiếu thốn, mọi người nói chung"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The poor kid is feeling deserted.",
+            "vi": "Đứa trẻ tội nghiệp đang cảm thấy hoang vắng."
+        },
+        {
+            "en": "\"I was raised poor,\" Carmen said.",
+            "vi": "Carmen nói: “Tôi lớn lên trong hoàn cảnh nghèo khó."
+        }
+    ],
+    "words_form": [
+        "poorest"
+    ],
+    "meaning_vi": "nghèo nàn"
+}

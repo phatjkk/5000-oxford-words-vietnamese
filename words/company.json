@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈkəmp(ə)ni/"
+    ],
+    "synonyms": [
+        "firm",
+        "corporation",
+        "enterprise",
+        "troop",
+        "fellowship"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To keep company with someone; associate.",
+            "vi": "Để giữ bầu bạn với ai đó; kết hợp."
+        },
+        {
+            "pos": "noun",
+            "en": "A ship's crew and officers.",
+            "vi": "Thuyền viên và sĩ quan của một con tàu."
+        },
+        {
+            "pos": "idiom",
+            "en": "keep company  to associate (with) to go together; associate habitually",
+            "vi": "giữ công ty liên kết (với) để đi cùng nhau; liên kết theo thói quen"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I haven't had any female company in months.",
+            "vi": "Tôi đã không có bất kỳ công ty nữ nào trong nhiều tháng."
+        },
+        {
+            "en": "Go and keep her company for ten minutes.",
+            "vi": "Đi và tiếp tục bầu bạn với cô ấy trong mười phút."
+        }
+    ],
+    "words_form": [
+        "companied",
+        "companies",
+        "companying"
+    ],
+    "meaning_vi": "công ty"
+}

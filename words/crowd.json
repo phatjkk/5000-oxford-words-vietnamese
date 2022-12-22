@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kraʊd/"
+    ],
+    "synonyms": [
+        "crush",
+        "group",
+        "deluge",
+        "drove",
+        "leave"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a crowd is a large number of people or things gathered closely together.",
+            "vi": "Định nghĩa của một đám đông là một số lượng lớn người hoặc vật tập hợp gần nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "Crowd is defined as to push, shove or force too closely together.",
+            "vi": "Đám đông được định nghĩa là đẩy, xô đẩy hoặc ép quá gần nhau."
+        },
+        {
+            "pos": "idiom",
+            "en": "(nautical) crowd (on) sail  To spread a large amount of sail to increase speed.",
+            "vi": "(hải lý) đám đông (trên) buồm Để trải một lượng lớn cánh buồm để tăng tốc độ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The crowd began to cheer.",
+            "vi": "Đám đông bắt đầu hò reo."
+        },
+        {
+            "en": "The crowd had dispersed, so they turned toward the only hotel in town.",
+            "vi": "Đám đông đã giải tán, vì vậy họ quay về phía khách sạn duy nhất trong thị trấn."
+        }
+    ],
+    "words_form": [
+        "crowded",
+        "crowding",
+        "crowds"
+    ],
+    "meaning_vi": "đám đông"
+}

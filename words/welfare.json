@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈwɛlˌfɛr/"
+    ],
+    "synonyms": [
+        "well-being",
+        "health",
+        "prosperity",
+        "help",
+        "good"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The state of being or doing well; condition of health, happiness, and comfort; well-being; prosperity.",
+            "vi": "Tình trạng đang hoặc đang làm tốt; tình trạng sức khỏe, hạnh phúc và thoải mái; phúc lợi; sự phồn vinh."
+        },
+        {
+            "pos": "idiom",
+            "en": "on welfare  Receiving regular assistance from the government or private agencies because of need.",
+            "vi": "về phúc lợi Nhận hỗ trợ thường xuyên từ chính phủ hoặc các cơ quan tư nhân vì nhu cầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The care for his welfare led his father to decide to move to a better neighborhood.",
+            "vi": "Sự chăm lo cho phúc lợi của anh ấy đã khiến cha anh ấy quyết định chuyển đến một khu phố tốt hơn."
+        },
+        {
+            "en": "Consider that the welfare of his soul is at stake.",
+            "vi": "Hãy xem xét rằng phúc lợi của linh hồn anh ta đang bị đe dọa."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "phúc lợi"
+}

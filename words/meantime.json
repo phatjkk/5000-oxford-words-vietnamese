@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈminˌtaɪm/"
+    ],
+    "synonyms": [
+        "interim",
+        "interval",
+        "temporary",
+        "while",
+        "meanwhile"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The time spent waiting for another event; time in between.",
+            "vi": "Thời gian dành cho việc chờ đợi một sự kiện khác; thời gian ở giữa."
+        },
+        {
+            "pos": "adverb",
+            "en": "During a period of intervening time; meanwhile.",
+            "vi": "Trong một khoảng thời gian can thiệp; trong khi đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In the meantime, Thanksgiving was coming up - and then Christmas.",
+            "vi": "Trong khi đó, Lễ Tạ ơn đang đến gần - và sau đó là Lễ Giáng sinh."
+        },
+        {
+            "en": "In the meantime, I'll keep this locked up.",
+            "vi": "Trong thời gian chờ đợi, tôi sẽ khóa điều này."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "trong khi đó"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/noʊt/"
+    ],
+    "synonyms": [
+        "reminder",
+        "bill",
+        "greenback",
+        "comment",
+        "jotting"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Importance; consequence.",
+            "vi": "Tầm quan trọng; hậu quả."
+        },
+        {
+            "pos": "verb",
+            "en": "To observe carefully; notice.",
+            "vi": "Để quan sát kỹ lưỡng; lưu ý."
+        },
+        {
+            "pos": "idiom",
+            "en": "compare notes  to exchange views; confer",
+            "vi": "so sánh các ghi chú để trao đổi quan điểm; trao"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She grabbed the note pad and wrote a brand name and quantity.",
+            "vi": "Cô ấy nắm lấy tập giấy và viết tên thương hiệu và số lượng."
+        },
+        {
+            "en": "Do I detect a note of discord?",
+            "vi": "Tôi có phát hiện thấy một sự bất hòa nào không?"
+        }
+    ],
+    "words_form": [
+        "noted",
+        "notes",
+        "noting"
+    ],
+    "meaning_vi": "chú thích"
+}

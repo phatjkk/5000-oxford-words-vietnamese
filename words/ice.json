@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/aɪs/"
+    ],
+    "synonyms": [
+        "icicle",
+        "glacier",
+        "freeze",
+        "frost",
+        "crystal"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Ice is defined as to freeze or cool, cover with or change into solid water, or is slang for to kill.",
+            "vi": "Nước đá được định nghĩa là đóng băng hoặc lạnh đi, bao phủ hoặc biến đổi thành nước rắn, hoặc là tiếng lóng để giết."
+        },
+        {
+            "pos": "noun",
+            "en": "(slang) Methamphetamine.",
+            "vi": "(tiếng lóng) Methamphetamine."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "In case of emergency.",
+            "vi": "Trong trường hợp khẩn cấp."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) on ice  Assured of attainment or success: With the extra goal the victory was on ice.In reserve or readiness. Away from public notice or activity.",
+            "vi": "(tiếng lóng) trên băng Đảm bảo đạt được hoặc thành công: Với mục tiêu phụ, chiến thắng là trên băng. Dự bị hoặc sẵn sàng. Tránh xa thông báo hoặc hoạt động công khai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His voice was low and ice cold.",
+            "vi": "Giọng anh trầm và lạnh như băng."
+        },
+        {
+            "en": "She stirred the ice cream until it was soft.",
+            "vi": "Cô khuấy kem cho đến khi kem mềm."
+        }
+    ],
+    "words_form": [
+        "iced",
+        "ices",
+        "icing"
+    ],
+    "meaning_vi": "nước đá"
+}

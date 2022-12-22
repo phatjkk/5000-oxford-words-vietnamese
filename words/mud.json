@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/məd/"
+    ],
+    "synonyms": [
+        "dirt",
+        "clay",
+        "filth",
+        "bog",
+        "runnel"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Mud is wet or sticky dirt, or nasty and uncomplimentary remarks about someone.",
+            "vi": "Bùn là chất bẩn ướt hoặc dính, hoặc những nhận xét khó chịu và thiếu công tâm về ai đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To cover or spatter with or as if with mud.",
+            "vi": "Để phủ hoặc bắn tung tóe bằng hoặc như thể bằng bùn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Thunder rumbled again and a cold drop of rain gnawed at the mud on her cheek.",
+            "vi": "Sấm sét lại ầm ầm và một giọt mưa lạnh buốt gặm nhấm lớp bùn trên má cô."
+        },
+        {
+            "en": "His shoes were covered with mud; he had torn his coat on the thorny tree.",
+            "vi": "Giày của anh ta dính đầy bùn; anh ta đã xé áo khoác trên cây gai."
+        }
+    ],
+    "words_form": [
+        "mudded",
+        "mudding",
+        "muds"
+    ],
+    "meaning_vi": "bùn"
+}

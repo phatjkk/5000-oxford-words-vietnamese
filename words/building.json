@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈbɪldɪŋ/"
+    ],
+    "synonyms": [
+        "structure",
+        "outbuilding",
+        "erection",
+        "construction",
+        "framework"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A closed structure with walls and a roof.",
+            "vi": "Một cấu trúc khép kín với những bức tường và một mái nhà."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of build.",
+            "vi": "Trình bày phân từ của bản dựng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I left the building for home.",
+            "vi": "Tôi rời tòa nhà để về nhà."
+        },
+        {
+            "en": "The three-story building looked big enough to cover a city block.",
+            "vi": "Tòa nhà ba tầng trông đủ lớn để bao phủ một khu phố."
+        }
+    ],
+    "words_form": [
+        "buildings"
+    ],
+    "meaning_vi": "tòa nhà"
+}

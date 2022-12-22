@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈdʒɛstʃər/"
+    ],
+    "synonyms": [
+        "signal",
+        "genuflection",
+        "token",
+        "motion",
+        "salaam"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a gesture is an expressive movement of the body, or something that is said or done to show a feeling.",
+            "vi": "Định nghĩa của một cử chỉ là một cử động biểu cảm của cơ thể, hoặc điều gì đó được nói hoặc làm để thể hiện cảm xúc."
+        },
+        {
+            "pos": "verb",
+            "en": "Gesture is defined as moving your body in a way that conveys a feeling or emotion.",
+            "vi": "Cử chỉ được định nghĩa là cử động cơ thể của bạn theo cách truyền đạt cảm giác hoặc cảm xúc."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "((intransitive) Make a gesture): beckon.",
+            "vi": "((intransitive) Làm một cử chỉ): vẫy gọi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That was a nice gesture on someone's part.",
+            "vi": "Đó là một cử chỉ tốt đẹp từ phía ai đó."
+        },
+        {
+            "en": "Dropping off home-cooked meals was a very nice gesture.",
+            "vi": "Bỏ bữa ăn tự nấu là một cử chỉ rất tốt đẹp."
+        }
+    ],
+    "words_form": [
+        "gestured",
+        "gestures",
+        "gesturing"
+    ],
+    "meaning_vi": "cử chỉ"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kru/"
+    ],
+    "synonyms": [
+        "team",
+        "seamen",
+        "aircrew",
+        "horde",
+        "troupe"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a crew is a group of people working together, usually under a leader.",
+            "vi": "Định nghĩa về một phi hành đoàn là một nhóm người làm việc cùng nhau, thường là dưới một người lãnh đạo."
+        },
+        {
+            "pos": "verb",
+            "en": "(UK) Simple past tense and past participle of crow To have made the characteristic sound of a rooster.",
+            "vi": "(Anh) Thì quá khứ đơn và quá khứ phân từ của con quạ Để tạo ra âm thanh đặc trưng của con gà trống."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The crew left the ship because it was under fire.",
+            "vi": "Thủy thủ đoàn rời tàu vì nó đang bị cháy."
+        },
+        {
+            "en": "Will start evacs for our skeleton crew at noon.",
+            "vi": "Sẽ bắt đầu sơ tán cho phi hành đoàn bộ xương của chúng tôi vào buổi trưa."
+        }
+    ],
+    "words_form": [
+        "crewed",
+        "crewing",
+        "crews"
+    ],
+    "meaning_vi": "phi hành đoàn"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈpɛpər/"
+    ],
+    "synonyms": [
+        "fleck",
+        "condiment",
+        "besprinkle",
+        "bombard",
+        "exercise"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Pepper is defined as to sprinkle, or to flavor with the ground peppers.",
+            "vi": "Hạt tiêu được định nghĩa là để rắc, hoặc để tạo hương vị với ớt xay."
+        },
+        {
+            "pos": "noun",
+            "en": "Pepper is a smooth-skinned, soft-stemmed fruit, or a spicy seasoning made from grinding this fruit after it's dried.",
+            "vi": "Hạt tiêu là một loại trái cây có vỏ mềm, vỏ mềm, hoặc một loại gia vị cay được làm từ việc xay trái cây này sau khi nó được sấy khô."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating a family (Piperaceae, order Piperales) of dicotyledonous plants, including cubeb.",
+            "vi": "Chỉ định họ (Piperaceae, bộ Piperales) thực vật hai lá mầm, bao gồm cả lập phương."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Chili pepper lights distracted her.",
+            "vi": "Đèn ớt làm cô mất tập trung."
+        },
+        {
+            "en": "The ships touched at Achin in Sumatra and at Java, returning with full ladings of pepper in 1603.",
+            "vi": "Các con tàu chạm vào Achin ở Sumatra và ở Java, trở về với đầy ắp hạt tiêu vào năm 1603."
+        }
+    ],
+    "words_form": [
+        "peppered",
+        "peppering",
+        "peppers"
+    ],
+    "meaning_vi": "tiêu"
+}

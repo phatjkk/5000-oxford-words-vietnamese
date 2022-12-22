@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈɛrər/"
+    ],
+    "synonyms": [
+        "mistake",
+        "incorrect",
+        "bungle",
+        "misdoing",
+        "mismanagement"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The condition of having incorrect or false knowledge.",
+            "vi": "Điều kiện có kiến ​​thức không chính xác hoặc sai lệch."
+        },
+        {
+            "pos": "verb",
+            "en": "(telecommunications) To show or contain an error or fault.",
+            "vi": "(viễn thông) Để hiển thị hoặc chứa một lỗi hoặc lỗi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Lana had never seen this error message before.",
+            "vi": "Lana chưa bao giờ thấy thông báo lỗi này trước đây."
+        },
+        {
+            "en": "This omission is sometimes believed to be an error.",
+            "vi": "Sự thiếu sót này đôi khi được cho là một lỗi."
+        }
+    ],
+    "words_form": [
+        "errors"
+    ],
+    "meaning_vi": "lỗi"
+}

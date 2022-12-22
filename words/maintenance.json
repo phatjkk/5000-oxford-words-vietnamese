@@ -1,0 +1,32 @@
+{
+    "spelling": [
+        "/ˈmeɪnt(ə)nəns/",
+        "/ˈmeɪn(t)nəns/"
+    ],
+    "synonyms": [
+        "keeping",
+        "resources",
+        "sustaining",
+        "repairs",
+        "board"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of maintaining or the state of being maintained.",
+            "vi": "Hành động duy trì hoặc trạng thái được duy trì."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The most successful feature of Crispis term of office was his strict maintenance of Order and the suppression of Radical and Irredentist agitation.",
+            "vi": "Đặc điểm thành công nhất trong nhiệm kỳ của Crispis là việc ông duy trì nghiêm ngặt Trật tự và ngăn chặn sự kích động của Người theo chủ nghĩa cấp tiến và không tập trung."
+        },
+        {
+            "en": "The house will need scheduled maintenance but will remember when and will ask you for permission.",
+            "vi": "Ngôi nhà sẽ cần được bảo trì theo lịch trình nhưng sẽ ghi nhớ khi nào và sẽ yêu cầu bạn cho phép."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bảo trì"
+}

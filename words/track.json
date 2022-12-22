@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/træk/"
+    ],
+    "synonyms": [
+        "course",
+        "shadow",
+        "path",
+        "pursue",
+        "road"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To follow the tracks of; trail.",
+            "vi": "Để theo dõi các bài hát của; đường mòn."
+        },
+        {
+            "pos": "noun",
+            "en": "A path or circuit laid out for running, horse racing, etc.",
+            "vi": "Một con đường hoặc một mạch được bố trí để chạy, đua ngựa, v.v."
+        },
+        {
+            "pos": "idiom",
+            "en": "in (one's) tracks  Exactly where one is standing: Stopped him right in his tracks.",
+            "vi": "trong (của một người) theo dõi Chính xác nơi một người đang đứng: Đã chặn anh ta ngay trên đường đi của anh ta."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "As they come under one horizon, they shout their warning to get off the track to the other, heard sometimes through the circles of two towns.",
+            "vi": "Khi họ đi đến dưới một chân trời, họ hét lên cảnh báo của họ để đi ra khỏi đường đua, đôi khi được nghe thấy qua các vòng tròn của hai thị trấn."
+        },
+        {
+            "en": "I want to see if I can track them this time.",
+            "vi": "Tôi muốn xem liệu lần này tôi có thể theo dõi chúng không."
+        }
+    ],
+    "words_form": [
+        "tracked",
+        "tracking",
+        "tracks"
+    ],
+    "meaning_vi": "theo dõi"
+}

@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/dəʊˈneɪʃən/"
+    ],
+    "synonyms": [
+        "aid",
+        "allowance",
+        "appropriation",
+        "assistance",
+        "bequest"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A gift or contribution, as to a charitable organization.",
+            "vi": "Một món quà hoặc khoản đóng góp cho một tổ chức từ thiện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It formed part of the donation of the Countess Matilda to the papacy.",
+            "vi": "Nó là một phần của sự hiến tặng của Nữ bá tước Matilda cho Giáo hoàng."
+        },
+        {
+            "en": "But Henry made no endeavour for many years to utilize the papal grant of Ireland, which seems to have been made under the preposterous Donation of Constantine, the forged document which gave the bishop of Rome authority over all islands.",
+            "vi": "Nhưng Henry đã không nỗ lực trong nhiều năm để sử dụng tài trợ của Giáo hoàng của Ireland, dường như được thực hiện dưới sự Hiến tặng phi lý của Constantine, tài liệu giả mạo đã trao cho giám mục Rome quyền trên tất cả các hòn đảo."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "A gift or contribution, as to a charitable organization.",
+            "vi": "Một món quà hoặc khoản đóng góp cho một tổ chức từ thiện."
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/swɪtʃ/"
+    ],
+    "synonyms": [
+        "turnabout",
+        "rearrange",
+        "change",
+        "transfer",
+        "shunt"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a switch is a device used to make or break a connection in a circuit so you an turn power on and off to something, or a change in attitude or policy.",
+            "vi": "Định nghĩa về công tắc là một thiết bị được sử dụng để tạo hoặc ngắt kết nối trong mạch điện để bạn bật và tắt nguồn cho một thứ gì đó hoặc thay đổi thái độ hoặc chính sách."
+        },
+        {
+            "pos": "verb",
+            "en": "To jerk or swing sharply; lash.",
+            "vi": "Để giật hoặc xoay mạnh; dây da roi."
+        },
+        {
+            "pos": "adjective",
+            "en": "(snowboarding) Riding with their opposite foot forward from their natural position.",
+            "vi": "(trượt ván trên tuyết) Đạp xe bằng chân đối diện về phía trước so với vị trí tự nhiên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You'll have to switch schools again.",
+            "vi": "Bạn sẽ phải chuyển trường một lần nữa."
+        },
+        {
+            "en": "I'll switch you back.",
+            "vi": "Tôi sẽ chuyển bạn trở lại."
+        }
+    ],
+    "words_form": [
+        "switched",
+        "switches",
+        "switching"
+    ],
+    "meaning_vi": "công tắc điện"
+}

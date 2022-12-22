@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈkərənsi/"
+    ],
+    "synonyms": [
+        "money",
+        "bread",
+        "dinero",
+        "dough",
+        "lucre"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Common acceptance; general use; prevalence.",
+            "vi": "Sự chấp nhận chung; Sử dụng chung; sự phổ biến."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "As currency is inflated, prices rise.",
+            "vi": "Khi tiền tệ bị thổi phồng, giá cả sẽ tăng lên."
+        },
+        {
+            "en": "Few countries have suffered more from a depreciated currency than Argentina.",
+            "vi": "Ít quốc gia nào phải hứng chịu nhiều hơn từ việc đồng tiền mất giá so với Argentina."
+        }
+    ],
+    "words_form": [
+        "currencies"
+    ],
+    "meaning_vi": "thu"
+}

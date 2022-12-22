@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈkɪlɪŋ/"
+    ],
+    "synonyms": [
+        "slaying",
+        "bonanza",
+        "murder",
+        "decimation",
+        "slaughtering"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or action of causing death, as of a person.",
+            "vi": "Hành động hoặc hành động gây ra cái chết, với tư cách của một người."
+        },
+        {
+            "pos": "adjective",
+            "en": "Killing is defined as causing death or exhaustion.",
+            "vi": "Giết người được định nghĩa là gây ra cái chết hoặc làm kiệt sức."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of kill.",
+            "vi": "Hiện tại phân từ giết chết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The way we're operating is killing us.",
+            "vi": "Cách chúng ta đang vận hành đang giết chết chúng ta."
+        },
+        {
+            "en": "He hadn't thought it as harsh as it was, just like he thought nothing of killing anything in his path, but seeing the look on a normal human's face reminded him he'd been close to losing what humanity he possessed for quite a while.",
+            "vi": "Anh đã không nghĩ điều đó quá khắc nghiệt, giống như anh không nghĩ gì đến việc giết bất cứ thứ gì trên con đường của mình, nhưng nhìn thấy vẻ mặt của một con người bình thường nhắc nhở anh rằng anh đã gần mất đi thứ nhân tính mà anh sở hữu trong một thời gian dài. ."
+        }
+    ],
+    "words_form": [
+        "killings"
+    ],
+    "meaning_vi": "giết chóc"
+}

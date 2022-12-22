@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈpeɪʃənt/"
+    ],
+    "synonyms": [
+        "calm",
+        "easy-going",
+        "gentle",
+        "composed",
+        "tolerant"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of patient is waiting calmly for however long is needed.",
+            "vi": "Định nghĩa về bệnh nhân là bình tĩnh chờ đợi bao lâu là cần thiết."
+        },
+        {
+            "pos": "noun",
+            "en": "Patient is defined as someone under medical care.",
+            "vi": "Bệnh nhân được định nghĩa là người đang được chăm sóc y tế."
+        },
+        {
+            "pos": "idiom",
+            "en": "patient of  capable of bearing (fatigue, thirst, etc.) admitting of or having (a certain meaning)",
+            "vi": "bệnh nhân có khả năng chịu đựng (mệt mỏi, khát nước, v.v.) thừa nhận hoặc có (một ý nghĩa nhất định)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You need to be patient and give him a little space.",
+            "vi": "Bạn cần kiên nhẫn và cho anh ấy một chút không gian."
+        },
+        {
+            "en": "They'd been patient, setting up their ultimate victory over the course of tens of thousands of years.",
+            "vi": "Họ đã kiên nhẫn, lập nên chiến thắng cuối cùng của họ trong suốt hàng chục nghìn năm."
+        }
+    ],
+    "words_form": [
+        "patients"
+    ],
+    "meaning_vi": "bệnh nhân"
+}

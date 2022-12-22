@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/kɪd/"
+    ],
+    "synonyms": [
+        "youngster",
+        "laughter",
+        "nestling",
+        "small-fry",
+        "ride"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To engage in teasing or good-humored fooling.",
+            "vi": "Tham gia vào các trò trêu chọc hoặc đánh lừa hài hước."
+        },
+        {
+            "pos": "noun",
+            "en": "A young goat or, occasionally, antelope.",
+            "vi": "Một con dê con hoặc đôi khi là một con linh dương."
+        },
+        {
+            "pos": "adjective",
+            "en": "Made of kidskin.",
+            "vi": "Làm bằng da trẻ em."
+        },
+        {
+            "pos": "idiom",
+            "en": "no kidding  Used to express surprise or disbelief. Used to express scornful acknowledgment of the obvious.",
+            "vi": "không đùa Được sử dụng để bày tỏ sự ngạc nhiên hoặc không tin tưởng. Được sử dụng để thể hiện sự thừa nhận một cách khinh bỉ đối với điều hiển nhiên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Country kids need a good nurse as much as a city kid, you know.",
+            "vi": "Trẻ em nông thôn cần một y tá giỏi chẳng kém gì trẻ em thành phố, bạn biết đấy."
+        },
+        {
+            "en": "He'd been a good kid, lost, but honorable.",
+            "vi": "Anh ấy là một đứa trẻ ngoan, lạc lối, nhưng đáng kính."
+        }
+    ],
+    "words_form": [
+        "kidded",
+        "kidding",
+        "kids"
+    ],
+    "meaning_vi": "bé"
+}

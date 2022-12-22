@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈbaʊnd(ə)ri/"
+    ],
+    "synonyms": [
+        "hedge",
+        "margin",
+        "wall",
+        "bounds",
+        "center"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a boundary is a line or something else that marks a limit or border.",
+            "vi": "Định nghĩa của ranh giới là một đường hoặc một cái gì đó khác đánh dấu một giới hạn hoặc đường viền."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They remain at the boundary of his kingdom and Corcoran.",
+            "vi": "Họ vẫn ở ranh giới của vương quốc của anh ta và Corcoran."
+        },
+        {
+            "en": "The Nerbudda river formed the boundary between the two empires.",
+            "vi": "Dòng sông Nerbudda hình thành ranh giới giữa hai đế chế."
+        }
+    ],
+    "words_form": [
+        "boundaries"
+    ],
+    "meaning_vi": "ranh giới"
+}

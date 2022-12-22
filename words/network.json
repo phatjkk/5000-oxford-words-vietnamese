@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈnɛtˌwərk/"
+    ],
+    "synonyms": [
+        "interface",
+        "labyrinth",
+        "grillwork",
+        "organization",
+        "meshing"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Network is defined as to exchange contact and career information with other people.",
+            "vi": "Mạng được định nghĩa là để trao đổi thông tin liên lạc và nghề nghiệp với những người khác."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a network is a structure with cords, threads or wires crossing each other.",
+            "vi": "Định nghĩa của một mạng là một cấu trúc với các dây, các sợi hoặc dây bắt chéo nhau."
+        },
+        {
+            "pos": "adjective",
+            "en": "Broadcast over the stations of a network.",
+            "vi": "Truyền qua các trạm của một mạng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If the network doesn't work, there's a radio in your greencar.",
+            "vi": "Nếu mạng không hoạt động, có một đài phát thanh trong xe điện của bạn."
+        },
+        {
+            "en": "A network of party policy embraces and dominates the burghs of Italy, bringing the most distant centres into relation, and by the very division of the country augmenting the sense of nationality.",
+            "vi": "Một mạng lưới các chính sách của đảng bao trùm và thống trị các vùng đất của Ý, đưa các trung tâm xa xôi nhất vào mối quan hệ, và chính sự chia rẽ đất nước làm tăng thêm ý thức về quốc gia."
+        }
+    ],
+    "words_form": [
+        "networking",
+        "networks"
+    ],
+    "meaning_vi": "mạng lưới"
+}

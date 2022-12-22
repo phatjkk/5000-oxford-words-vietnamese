@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/bɛl/"
+    ],
+    "synonyms": [
+        "gong",
+        "alarm",
+        "sound",
+        "blossom",
+        "call"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A hollow metal musical instrument, usually cup-shaped with a flared opening, that emits a metallic tone when struck.",
+            "vi": "Một nhạc cụ bằng kim loại rỗng, thường có hình chiếc cốc với lỗ mở loe ra, phát ra âm sắc kim loại khi đánh."
+        },
+        {
+            "pos": "verb",
+            "en": "To put a bell on.",
+            "vi": "Để đặt chuông."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1847-1922; U.S. inventor of the telephone, born in Scotland.",
+            "vi": "(người) 1847-1922; Nhà phát minh ra điện thoại của Hoa Kỳ, sinh ra ở Scotland."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A Scottish and northern English surname for a bell ringer, bellmaker, or from someone who lived \"at the Bell (inn)\"",
+            "vi": "Họ của người Scotland và miền bắc nước Anh để chỉ người đánh chuông, thợ đánh chuông, hoặc từ một người sống \"tại Chuông (quán trọ)\""
+        },
+        {
+            "pos": "idiom",
+            "en": "bell the cat  To perform a daring act.",
+            "vi": "chuông con mèo Để thực hiện một hành động táo bạo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She rang the bell again.",
+            "vi": "Cô bấm chuông một lần nữa."
+        },
+        {
+            "en": "A single bell sat on the counter.",
+            "vi": "Một chiếc chuông duy nhất đặt trên quầy."
+        }
+    ],
+    "words_form": [
+        "bells"
+    ],
+    "meaning_vi": "chuông"
+}

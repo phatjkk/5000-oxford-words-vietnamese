@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ɡræsp/"
+    ],
+    "synonyms": [
+        "understand",
+        "sense",
+        "comprehend",
+        "get",
+        "conceive"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Grasp is defined as to have a firm hold on something.",
+            "vi": "Grasp được định nghĩa là nắm chắc một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of grasp is a firm hold on something.",
+            "vi": "Định nghĩa của sự nắm bắt là sự nắm giữ chắc chắn về một thứ gì đó."
+        },
+        {
+            "pos": "acronym",
+            "en": "(software, object-oriented design) Acronym of General Responsibility Assignment Software Patterns (Principles).",
+            "vi": "(phần mềm, thiết kế hướng đối tượng) Từ viết tắt của Mẫu phần mềm phân công trách nhiệm chung (Nguyên tắc)."
+        },
+        {
+            "pos": "idiom",
+            "en": "grasp  To search in desperation for a solution to a difficulty.",
+            "vi": "nắm bắt Để tìm kiếm một giải pháp cho một khó khăn trong tuyệt vọng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is important to grasp clearly the distinction between breeds.",
+            "vi": "Điều quan trọng là phải nắm bắt rõ ràng sự phân biệt giữa các giống."
+        },
+        {
+            "en": "If we try to know the soul, we grasp at a phantom.",
+            "vi": "Nếu chúng ta cố gắng biết linh hồn, chúng ta nắm bắt được một bóng ma."
+        }
+    ],
+    "words_form": [
+        "grasped",
+        "grasping",
+        "grasps"
+    ],
+    "meaning_vi": "sự hiểu biết"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/swip/"
+    ],
+    "synonyms": [
+        "territory",
+        "course",
+        "progress",
+        "stroke",
+        "range"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To clear (a path or space) with a broom or brush.",
+            "vi": "Để dọn sạch (một con đường hoặc khoảng trống) bằng chổi hoặc bàn chải."
+        },
+        {
+            "pos": "noun",
+            "en": "A clearing out or removal with a broom or brush.",
+            "vi": "Dọn dẹp hoặc loại bỏ bằng chổi hoặc bàn chải."
+        },
+        {
+            "pos": "idiom",
+            "en": "sweep (someone) off (someone's) feet  To cause someone to be admiring or infatuated.",
+            "vi": "quét (ai đó) ra khỏi chân (ai đó) Để khiến ai đó ngưỡng mộ hoặc say mê."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I dust and sweep but a stern lady looks after the madam whose care is beyond my responsibilities.",
+            "vi": "Tôi quét bụi và quét dọn nhưng một người phụ nữ nghiêm khắc chăm sóc bà chủ mà sự chăm sóc của tôi vượt quá trách nhiệm của tôi."
+        },
+        {
+            "en": "The Ganges here forms a fine sweep of about 4 m.",
+            "vi": "Sông Hằng ở đây tạo thành một dòng quét mịn dài khoảng 4 m."
+        }
+    ],
+    "words_form": [
+        "sweeping",
+        "sweeps",
+        "swept"
+    ],
+    "meaning_vi": "quét"
+}

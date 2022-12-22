@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈvaɪəˌleɪt/"
+    ],
+    "synonyms": [
+        "ravage",
+        "outrage",
+        "interrupt",
+        "invade",
+        "spoil"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To disturb rudely or improperly; interrupt.",
+            "vi": "Làm phiền một cách thô lỗ hoặc không đúng cách; ngắt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Alex wouldn't violate her privacy that way.",
+            "vi": "Alex sẽ không xâm phạm quyền riêng tư của cô ấy theo cách đó."
+        },
+        {
+            "en": "We gave him our assurances we'd not violate his trust though I thought Betsy's suggestion was reasonable.",
+            "vi": "Chúng tôi đã cam kết với anh ấy rằng chúng tôi sẽ không xâm phạm lòng tin của anh ấy mặc dù tôi nghĩ rằng đề nghị của Betsy là hợp lý."
+        }
+    ],
+    "words_form": [
+        "violated",
+        "violates",
+        "violating"
+    ],
+    "meaning_vi": "xâm phạm"
+}

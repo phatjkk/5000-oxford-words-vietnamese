@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/rəˈspɑns/"
+    ],
+    "synonyms": [
+        "acknowledgment",
+        "retroaction",
+        "asking",
+        "answer",
+        "echo"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A reply or an answer.",
+            "vi": "Một câu trả lời hoặc một câu trả lời."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Getting no response from Alex, he shrugged and turned to his desk.",
+            "vi": "Không nhận được phản hồi từ Alex, anh ta nhún vai và quay về bàn làm việc của mình."
+        },
+        {
+            "en": "He yelled a response and blinked his light.",
+            "vi": "Anh ta hét lên một câu trả lời và chớp mắt."
+        }
+    ],
+    "words_form": [
+        "responses"
+    ],
+    "meaning_vi": "phản ứng"
+}

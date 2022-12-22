@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/sɔrd/"
+    ],
+    "synonyms": [
+        "cutlass",
+        "epee",
+        "scimitar",
+        "saber",
+        "brand"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An instrument of death or destruction.",
+            "vi": "Một công cụ của cái chết hoặc sự hủy diệt."
+        },
+        {
+            "pos": "idiom",
+            "en": "at swords' points  Ready for a fight.",
+            "vi": "tại các điểm kiếm Sẵn sàng cho một cuộc chiến."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He placed the sword in a rack with others and exited into the night.",
+            "vi": "Anh ta đặt thanh kiếm vào giá cùng với những người khác và đi vào bóng đêm."
+        },
+        {
+            "en": "He pried the sword from her clamped hand.",
+            "vi": "Anh cạy thanh kiếm khỏi bàn tay bị kẹp của cô."
+        }
+    ],
+    "words_form": [
+        "swords"
+    ],
+    "meaning_vi": "thanh kiếm"
+}

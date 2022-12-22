@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/bæɡ/"
+    ],
+    "synonyms": [
+        "arena",
+        "department",
+        "domain",
+        "catch",
+        "reticule"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Bag means to stick out or to droop.",
+            "vi": "Túi có nghĩa là nhô ra ngoài hoặc rủ xuống."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of bag is a woman who is ugly.",
+            "vi": "Định nghĩa về túi là phụ nữ xấu."
+        },
+        {
+            "pos": "affix",
+            "en": "(slang) A person characterized, usually figuratively, by (a specified negative quality)",
+            "vi": "(tiếng lóng) Một người được đặc trưng, ​​thường theo nghĩa bóng, bởi (một phẩm chất tiêu cực cụ thể)"
+        },
+        {
+            "pos": "idiom",
+            "en": "bag and baggage  With all one's belongings. To a complete degree; entirely.",
+            "vi": "túi và hành lý Với tất cả đồ đạc của một người. Ở một mức độ hoàn chỉnh; toàn bộ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He had a bag in one hand.",
+            "vi": "Anh ta có một cái túi trong một tay."
+        },
+        {
+            "en": "He picked up the bag and smiled.",
+            "vi": "Anh ta cầm chiếc túi lên và mỉm cười."
+        }
+    ],
+    "words_form": [
+        "bagged",
+        "bagging",
+        "bags"
+    ],
+    "meaning_vi": "cái túi"
+}

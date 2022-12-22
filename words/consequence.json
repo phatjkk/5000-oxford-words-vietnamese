@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈkɑnsɪkwəns/"
+    ],
+    "synonyms": [
+        "result",
+        "concernment",
+        "outcome",
+        "payback",
+        "inconsequence"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something that logically or naturally follows from an action or condition.",
+            "vi": "Điều gì đó xảy ra theo logic hoặc tự nhiên từ một hành động hoặc điều kiện."
+        },
+        {
+            "pos": "verb",
+            "en": "To threaten or punish (a child, etc.) with specific consequences for misbehaviour.",
+            "vi": "Đe dọa hoặc trừng phạt (một đứa trẻ, v.v.) với những hậu quả cụ thể đối với hành vi sai trái."
+        },
+        {
+            "pos": "idiom",
+            "en": "in consequence  As a result; consequently.",
+            "vi": "trong hệ quả Kết quả là; hậu quả là."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was a consequence of her sin.",
+            "vi": "Đó là hậu quả của tội lỗi của cô ấy."
+        },
+        {
+            "en": "In consequence her mind is not only vigorous, but it is pure.",
+            "vi": "Kết quả là tâm trí của cô ấy không chỉ mạnh mẽ, mà còn trong sáng."
+        }
+    ],
+    "words_form": [
+        "consequences"
+    ],
+    "meaning_vi": "hậu quả; kết quả"
+}

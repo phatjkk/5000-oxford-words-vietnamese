@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/rəˈlif/"
+    ],
+    "synonyms": [
+        "comfort",
+        "assuagement",
+        "contentment",
+        "comforting",
+        "ease"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Relief is support or aid given to a nation or people in a time of need.",
+            "vi": "Cứu trợ là hỗ trợ hoặc viện trợ được cung cấp cho một quốc gia hoặc người dân trong thời điểm cần thiết."
+        },
+        {
+            "pos": "adjective",
+            "en": "(baseball) Designating a pitcher who replaces another during a game, esp. one who is regularly used in this way.",
+            "vi": "(bóng chày) Chỉ định một vận động viên ném bóng thay thế người khác trong trận đấu, đặc biệt. một người thường xuyên được sử dụng theo cách này."
+        },
+        {
+            "pos": "idiom",
+            "en": "on relief  Receiving public assistance because of need or poverty.",
+            "vi": "về cứu trợ Nhận trợ giúp của cộng đồng vì nhu cầu hoặc nghèo đói."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Relief brought a smile to her lips.",
+            "vi": "Relief nở một nụ cười trên môi."
+        },
+        {
+            "en": "It was a relief to stretch out in a restaurant booth.",
+            "vi": "Thật nhẹ nhõm khi nằm dài trong một gian hàng nhà hàng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "cứu trợ"
+}

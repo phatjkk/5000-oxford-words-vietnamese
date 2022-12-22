@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɪnˈstrəkt/"
+    ],
+    "synonyms": [
+        "educate",
+        "enlighten",
+        "order",
+        "guide",
+        "tell"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To give orders to; direct.",
+            "vi": "Để cung cấp cho các đơn đặt hàng; trực tiếp."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Arranged; furnished; provided.",
+            "vi": "(lỗi thời) Đã sắp xếp; trang bị; cung cấp."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) Instruction.",
+            "vi": "(lỗi thời) Chỉ dẫn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "My sisters will instruct you in the behavior I expect of you.",
+            "vi": "Các chị của tôi sẽ hướng dẫn bạn cách cư xử mà tôi mong đợi ở bạn."
+        },
+        {
+            "en": "I hope Grandma will instruct me on how to make pie using the family recipe so I can share it with my children.",
+            "vi": "Em mong bà nội hướng dẫn cách làm bánh giò theo công thức gia đình để em có thể chia sẻ với các con."
+        }
+    ],
+    "words_form": [
+        "instructed",
+        "instructing",
+        "instructs"
+    ],
+    "meaning_vi": "dạy"
+}

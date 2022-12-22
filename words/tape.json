@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/teɪp/"
+    ],
+    "synonyms": [
+        "strip",
+        "line",
+        "hold together",
+        "rope",
+        "c.d."
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A tape measure.",
+            "vi": "Một thước đo băng."
+        },
+        {
+            "pos": "verb",
+            "en": "To fasten, secure, strengthen, or wrap with a tape.",
+            "vi": "Để buộc chặt, cố định, tăng cường hoặc quấn bằng băng dính."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I have a tape of the entire debate.",
+            "vi": "Tôi có một cuốn băng ghi lại toàn bộ cuộc tranh luận."
+        },
+        {
+            "en": "By the time the tape stopped both Martha and Betsy were in tears.",
+            "vi": "Khi đoạn băng dừng lại, cả Martha và Betsy đều rơi nước mắt."
+        }
+    ],
+    "words_form": [
+        "taped",
+        "tapes",
+        "taping"
+    ],
+    "meaning_vi": "băng"
+}

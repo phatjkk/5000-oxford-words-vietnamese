@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈmɑrʃəl/"
+    ],
+    "synonyms": [
+        "military",
+        "warlike",
+        "soldierly",
+        "combative",
+        "peace"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or suggestive of war.",
+            "vi": "Của, liên quan đến, hoặc gợi ý về chiến tranh."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) (Marcus Valerius Martialis) A.d. 40?-104?; Rom. epigrammatist & poet, born in Spain.",
+            "vi": "(người) (Marcus Valerius Martialis) Quảng cáo 40? -104 ?; Rom. epigrammatist & nhà thơ, sinh ra ở Tây Ban Nha."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A male given name narrowly applied to certain historic persons (but some of its foreign cognates are modern given names).",
+            "vi": "Tên riêng của nam giới chỉ áp dụng cho một số nhân vật lịch sử nhất định (nhưng một số từ ghép ngoại lai của nó là tên riêng hiện đại)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Martial law was proclaimed.",
+            "vi": "Thiết quân luật đã được ban bố."
+        },
+        {
+            "en": "A court martial stripped him of his military rank.",
+            "vi": "Một lệnh của tòa án tước quân hàm của anh ta."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "võ"
+}

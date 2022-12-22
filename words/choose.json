@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/tʃuz/"
+    ],
+    "synonyms": [
+        "opt (for)",
+        "prefer",
+        "cut out",
+        "appoint",
+        "go with"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To select from a number of possible alternatives; decide on and pick out.",
+            "vi": "Để chọn từ một số lựa chọn thay thế có thể có; quyết định và chọn ra."
+        },
+        {
+            "pos": "noun",
+            "en": "(dialectal or obsolete) The power, right, or privilege of choosing; election.",
+            "vi": "(phương ngữ hoặc lỗi thời) Quyền lực, quyền hoặc đặc quyền lựa chọn; cuộc bầu cử."
+        },
+        {
+            "pos": "conjunction",
+            "en": "(mathematics) The binomial coefficient of the previous and following number.",
+            "vi": "(Toán học) Hệ số nhị thức của số trước và số sau."
+        },
+        {
+            "pos": "idiom",
+            "en": "cannot choose but  Can only do; cannot do otherwise: We cannot choose but to observe the rules.",
+            "vi": "không thể chọn nhưng Chỉ có thể làm; không thể làm khác: Chúng ta không thể lựa chọn nhưng phải tuân theo các quy tắc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I had hoped he'd choose your sister.",
+            "vi": "Tôi đã hy vọng anh ấy sẽ chọn em gái của bạn."
+        },
+        {
+            "en": "I mean, if you had to choose between me and your world?",
+            "vi": "Ý tôi là, nếu bạn phải chọn giữa tôi và thế giới của bạn?"
+        }
+    ],
+    "words_form": [
+        "chooses",
+        "choosing",
+        "chose",
+        "chosen"
+    ],
+    "meaning_vi": "chọn"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌdaɪəɡˈnoʊsəs/"
+    ],
+    "synonyms": [
+        "determination",
+        "analysis",
+        "investigation",
+        "examination",
+        "judgment"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or process of discovering or identifying a diseased condition by means of a medical examination, laboratory test, etc.",
+            "vi": "Hành động hoặc quá trình phát hiện hoặc xác định tình trạng bệnh thông qua kiểm tra y tế, xét nghiệm, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Plague was suspected, but Dr Muller, who attended the man and had studied the disease in India, would not admit the diagnosis on clinical grounds, nor was it bacteriologically established until the 19th of October.",
+            "vi": "Bệnh dịch đã được nghi ngờ, nhưng bác sĩ Muller, người đã theo dõi người đàn ông và đã nghiên cứu căn bệnh này ở Ấn Độ, sẽ không thừa nhận chẩn đoán trên cơ sở lâm sàng, cũng như không được xác định về mặt vi khuẩn học cho đến ngày 19 tháng 10."
+        },
+        {
+            "en": "She was better off pulling a random diagnosis out of a hat.",
+            "vi": "Tốt hơn hết là cô nên rút một chẩn đoán ngẫu nhiên ra khỏi một chiếc mũ."
+        }
+    ],
+    "words_form": [
+        "diagnoses"
+    ],
+    "meaning_vi": "sự chẩn đoán"
+}

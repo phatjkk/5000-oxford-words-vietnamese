@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˈfɔrd/"
+    ],
+    "synonyms": [
+        "provide",
+        "yield",
+        "pay-for",
+        "allow",
+        "bear"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To manage to spare or give up.",
+            "vi": "Để quản lý phụ tùng hoặc từ bỏ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Could they afford to buy a van?",
+            "vi": "Họ có đủ khả năng để mua một chiếc xe tải không?"
+        },
+        {
+            "en": "We couldn't afford an apartment right now - even with the two of us.",
+            "vi": "Chúng tôi không đủ tiền mua một căn hộ ngay bây giờ - ngay cả với hai chúng tôi."
+        }
+    ],
+    "words_form": [
+        "affords"
+    ],
+    "meaning_vi": "mua được"
+}

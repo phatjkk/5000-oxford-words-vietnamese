@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈstərb/"
+    ],
+    "synonyms": [
+        "worry",
+        "bother",
+        "trouble",
+        "afflict",
+        "displace"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To break up the quiet or serenity of; agitate (what is quiet or still)",
+            "vi": "Để phá vỡ sự yên tĩnh hoặc thanh bình của; kích động (yên tĩnh hoặc tĩnh lặng)"
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) Disturbance.",
+            "vi": "(lỗi thời) Loạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't mean to disturb you.",
+            "vi": "Tôi không cố ý làm phiền bạn."
+        },
+        {
+            "en": "I didn't want to disturb him.",
+            "vi": "Tôi không muốn làm phiền anh ấy."
+        }
+    ],
+    "words_form": [
+        "disturbed",
+        "disturbing",
+        "disturbs"
+    ],
+    "meaning_vi": "làm phiền"
+}

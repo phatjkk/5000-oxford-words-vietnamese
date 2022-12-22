@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈlɪvər/"
+    ],
+    "synonyms": [
+        "transport",
+        "carry",
+        "surrender",
+        "read",
+        "announce"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To bring or transport to the proper place or recipient; distribute.",
+            "vi": "Để mang hoặc vận chuyển đến nơi hoặc người nhận thích hợp; phân phát."
+        },
+        {
+            "pos": "idiom",
+            "en": "deliver (oneself) of  To pronounce; utter: Before leaving I delivered myself of a few choice comments.",
+            "vi": "giao (bản thân) của Để phát âm; utter: Trước khi rời đi, tôi đã gửi cho mình một vài nhận xét lựa chọn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Not 'til we deliver the Spring waters.",
+            "vi": "Không phải cho đến khi chúng tôi cung cấp nước mùa xuân."
+        },
+        {
+            "en": "He then instructed his manservant to deliver them.",
+            "vi": "Sau đó anh ta chỉ thị cho người hầu cận của mình để giao chúng."
+        }
+    ],
+    "words_form": [
+        "delivered",
+        "delivering",
+        "delivers"
+    ],
+    "meaning_vi": "giao hàng"
+}

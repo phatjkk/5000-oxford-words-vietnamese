@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈruɪn/"
+    ],
+    "synonyms": [
+        "destroy",
+        "wreck",
+        "sink",
+        "despoliation",
+        "bust"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Ruin is defined as to break or destroy something.",
+            "vi": "Ruin được định nghĩa là phá vỡ hoặc phá hủy một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Ruin is the fallen or destroyed remains of something.",
+            "vi": "Ruin là phần còn lại của một cái gì đó đã rơi hoặc bị phá hủy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "First you ruin my tie, now my shoes.",
+            "vi": "Đầu tiên bạn làm hỏng cà vạt của tôi, bây giờ là đôi giày của tôi."
+        },
+        {
+            "en": "Nothing was going to ruin this magnificent day.",
+            "vi": "Không có gì có thể làm hỏng ngày tuyệt vời này."
+        }
+    ],
+    "words_form": [
+        "ruined",
+        "ruining",
+        "ruins"
+    ],
+    "meaning_vi": "hủy hoại"
+}

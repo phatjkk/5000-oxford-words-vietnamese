@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈæləˌkeɪt/"
+    ],
+    "synonyms": [
+        "assign",
+        "designate",
+        "appropriate",
+        "earmark",
+        "money"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To fix the location of; locate.",
+            "vi": "Để sửa chữa vị trí của; định vị."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "How long does it take to allocate an assessor?",
+            "vi": "Mất bao lâu để phân bổ một chuyên gia đánh giá?"
+        },
+        {
+            "en": "In a similar manner, it is possible to allocate the same handset of voting equipment to a student.",
+            "vi": "Theo cách tương tự, có thể phân bổ cùng một thiết bị biểu quyết cho học sinh."
+        }
+    ],
+    "words_form": [
+        "allocated",
+        "allocates",
+        "allocating"
+    ],
+    "meaning_vi": "chỉ định"
+}

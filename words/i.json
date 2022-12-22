@@ -1,0 +1,83 @@
+{
+    "spelling": [
+        "/aɪ/"
+    ],
+    "synonyms": [
+        "myself",
+        "self",
+        "id.",
+        "i",
+        "one"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "I is defined as the person who is speaking or telling the story.",
+            "vi": "Tôi được định nghĩa là người đang nói hoặc kể câu chuyện."
+        },
+        {
+            "pos": "noun",
+            "en": "I is the ninth letter in the English alphabet.",
+            "vi": "Tôi là chữ cái thứ chín trong bảng chữ cái tiếng Anh."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Inside.",
+            "vi": "Bên trong."
+        },
+        {
+            "pos": "letter",
+            "en": "The ninth letter of the English alphabet, called i and written in the Latin script.",
+            "vi": "Chữ cái thứ chín của bảng chữ cái tiếng Anh, được gọi là i và được viết bằng hệ thống chữ Latinh."
+        },
+        {
+            "pos": "numeral",
+            "en": "The ordinal number ninth, derived from this letter of the English alphabet, called i and written in the Latin script.",
+            "vi": "Số thứ tự thứ chín, bắt nguồn từ chữ cái này trong bảng chữ cái tiếng Anh, được gọi là i và được viết bằng hệ thống chữ Latinh."
+        },
+        {
+            "pos": "symbol",
+            "en": "−1, the square root of negative one.",
+            "vi": "−1, căn bậc hai của âm một."
+        },
+        {
+            "pos": "adjective",
+            "en": "Shaped like I or I.",
+            "vi": "Có hình dạng giống như tôi hoặc tôi."
+        },
+        {
+            "pos": "interjection",
+            "en": "Eye dialect spelling of hi.",
+            "vi": "Đánh vần phương ngữ mắt của hi."
+        },
+        {
+            "pos": "suffix",
+            "en": "Used to indicate a plural form of some words of Latin or Italian origin, such as virtuosi or concerti.",
+            "vi": "Được sử dụng để chỉ dạng số nhiều của một số từ có nguồn gốc từ tiếng Latinh hoặc tiếng Ý, chẳng hạn như điệu nghệ hoặc bản concerti."
+        },
+        {
+            "pos": "affix",
+            "en": "Y-",
+            "vi": "Y-"
+        },
+        {
+            "pos": "contraction",
+            "en": "(colloquial, poetic) In.",
+            "vi": "(thông tục, thơ) Trong."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I will lead you to it.",
+            "vi": "Tôi sẽ dẫn bạn đến đó."
+        },
+        {
+            "en": "I'm so glad I have you.",
+            "vi": "Tôi rất vui vì tôi có bạn."
+        }
+    ],
+    "words_form": [
+        "we"
+    ],
+    "meaning_vi": "tôi"
+}

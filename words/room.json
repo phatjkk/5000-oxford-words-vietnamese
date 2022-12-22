@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/rum/",
+        "/rʊm/"
+    ],
+    "synonyms": [
+        "opening",
+        "quarters",
+        "apartment",
+        "salon",
+        "capacity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(obs.) A position or office.",
+            "vi": "(obs.) Một chức vụ hoặc văn phòng."
+        },
+        {
+            "pos": "verb",
+            "en": "To reside, especially as a boarder or tenant.",
+            "vi": "Để cư trú, đặc biệt là với tư cách là người ở trọ hoặc người thuê nhà."
+        },
+        {
+            "pos": "adjective",
+            "en": "(dialectal or obsolete) Wide; spacious; roomy.",
+            "vi": "(phương ngữ hoặc lạc hậu) Rộng; rộng rãi; rộng rãi."
+        },
+        {
+            "pos": "adverb",
+            "en": "(nautical) Off from the wind.",
+            "vi": "(hải lý) Tắt gió."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Sometimes he even did it when there was a room full of people between them.",
+            "vi": "Đôi khi anh ấy thậm chí còn làm điều đó khi có một căn phòng đầy người giữa họ."
+        },
+        {
+            "en": "Alex walked into the room, smiling when he saw what she had done.",
+            "vi": "Alex bước vào phòng, mỉm cười khi thấy những gì cô đã làm."
+        }
+    ],
+    "words_form": [
+        "roomed",
+        "rooming",
+        "rooms"
+    ],
+    "meaning_vi": "phòng"
+}

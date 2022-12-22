@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/θrɛd/"
+    ],
+    "synonyms": [
+        "yarn",
+        "cotton",
+        "run-through",
+        "floss",
+        "fiber"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(slang) Clothes.",
+            "vi": "(tiếng lóng) Quần áo."
+        },
+        {
+            "pos": "verb",
+            "en": "To thread is defined as to string things together or put thread through a needle or into a sewing machine.",
+            "vi": "Để xâu được định nghĩa là xâu các thứ lại với nhau hoặc luồn chỉ qua kim hoặc vào máy may."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He picked at a thread on the couch, his mind obviously lost in deep thought.",
+            "vi": "Anh nhặt một sợi chỉ trên ghế sa lông, đầu óc hiển nhiên chìm trong suy nghĩ miên man."
+        },
+        {
+            "en": "She looked down and plucked at a loose thread on her dress.",
+            "vi": "Cô nhìn xuống và nhổ một sợi chỉ lỏng lẻo trên chiếc váy của mình."
+        }
+    ],
+    "words_form": [
+        "threaded",
+        "threading",
+        "threads"
+    ],
+    "meaning_vi": "sợi"
+}

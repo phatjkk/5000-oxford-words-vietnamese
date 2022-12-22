@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/sneɪk/"
+    ],
+    "synonyms": [
+        "reptile",
+        "serpent",
+        "rattlesnake",
+        "slither",
+        "reptilian"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A treacherous person.",
+            "vi": "Một kẻ bội bạc."
+        },
+        {
+            "pos": "verb",
+            "en": "To move in a sinuous or gliding manner.",
+            "vi": "Để di chuyển theo đường cong hoặc lượn."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(video games) An early computer game, later popular on mobile phones, in which the player attempts to manoeuvre a perpetually growing snake so as to collect food items and avoid colliding with walls or the snake's tail.",
+            "vi": "(trò chơi điện tử) Một trò chơi máy tính thời kỳ đầu, sau này phổ biến trên điện thoại di động, trong đó người chơi cố gắng điều động một con rắn đang lớn vĩnh viễn để thu thập thức ăn và tránh va chạm với tường hoặc đuôi của con rắn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There could be a snake in the daylight.",
+            "vi": "Có thể có một con rắn trong ánh sáng ban ngày."
+        },
+        {
+            "en": "A mouse she could handle – literally, but a snake was something different.",
+            "vi": "Một con chuột mà cô ấy có thể xử lý - theo nghĩa đen, nhưng một con rắn là một cái gì đó khác."
+        }
+    ],
+    "words_form": [
+        "snaked",
+        "snakes",
+        "snaking"
+    ],
+    "meaning_vi": "con rắn"
+}

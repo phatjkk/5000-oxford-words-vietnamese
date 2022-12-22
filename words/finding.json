@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈfaɪndɪŋ/"
+    ],
+    "synonyms": [
+        "descrying",
+        "verdict",
+        "discovery",
+        "gaining",
+        "judgment"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Present participle of find.",
+            "vi": "Trình bày phân từ tìm thấy."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of one who finds; discovery.",
+            "vi": "Hành động của một người tìm thấy; khám phá."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was impossible to help Gabriel without Darkyn finding out.",
+            "vi": "Không thể giúp Gabriel mà không có Darkyn phát hiện ra."
+        },
+        {
+            "en": "They had no trouble in finding Solon.",
+            "vi": "Họ không gặp khó khăn gì trong việc tìm kiếm Solon."
+        }
+    ],
+    "words_form": [
+        "findings"
+    ],
+    "meaning_vi": "phát hiện"
+}

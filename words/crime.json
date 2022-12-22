@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/kraɪm/"
+    ],
+    "synonyms": [
+        "felony",
+        "violation",
+        "outrage",
+        "corruption",
+        "evildoing"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An act committed in violation of law where the consequence of conviction by a court is punishment, especially where the punishment is a serious one such as imprisonment.",
+            "vi": "Một hành vi vi phạm pháp luật mà hậu quả của việc kết án bởi tòa án là sự trừng phạt, đặc biệt là hình phạt nghiêm trọng như phạt tù."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You're not accused of any crime so I'm not harboring any fugitives.",
+            "vi": "Bạn không bị buộc tội bởi bất kỳ tội phạm nào vì vậy tôi không chứa bất kỳ kẻ đào tẩu nào."
+        },
+        {
+            "en": "We won't go anywhere near the crime scene; ever.",
+            "vi": "Chúng tôi sẽ không đi bất cứ đâu gần hiện trường vụ án; bao giờ."
+        }
+    ],
+    "words_form": [
+        "crimes"
+    ],
+    "meaning_vi": "tội phạm"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/læf/"
+    ],
+    "synonyms": [
+        "giggle",
+        "chuckle",
+        "cackle",
+        "snicker",
+        "guffaw"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To affect or influence by laughter.",
+            "vi": "Ảnh hưởng hoặc ảnh hưởng bởi tiếng cười."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or sound of laughing.",
+            "vi": "Hành động hoặc âm thanh cười."
+        },
+        {
+            "pos": "idiom",
+            "en": "laugh all the way to the bank  To take glee in making money, especially from activity that others consider to be unimpressive or unlikely to turn a profit.",
+            "vi": "cười suốt chặng đường đến ngân hàng Để tận hưởng niềm vui trong việc kiếm tiền, đặc biệt là từ hoạt động mà những người khác cho là không ấn tượng hoặc không có khả năng thu được lợi nhuận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Don't laugh at me!",
+            "vi": "Đừng cười tôi!"
+        },
+        {
+            "en": "It felt good to laugh after the events of the past week.",
+            "vi": "Cảm giác thật sảng khoái khi cười sau những sự kiện của tuần qua."
+        }
+    ],
+    "words_form": [
+        "laughed",
+        "laughing",
+        "laughs"
+    ],
+    "meaning_vi": "cười"
+}

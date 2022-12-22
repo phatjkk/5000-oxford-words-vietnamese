@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/wɪnd/"
+    ],
+    "synonyms": [
+        "gust",
+        "zephyr",
+        "blast",
+        "boreas",
+        "northeaster"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Wind can also mean to wrap something around or to turn a handle of a clock so that the clock will work properly.",
+            "vi": "Gió cũng có thể có nghĩa là quấn một vật gì đó xung quanh hoặc xoay tay cầm của đồng hồ để đồng hồ hoạt động bình thường."
+        },
+        {
+            "pos": "noun",
+            "en": "Wind is a breeze or the movement of air.",
+            "vi": "Gió là một làn gió hoặc chuyển động của không khí."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating a musical instrument sounded by blowing air through it, esp. a portable one sounded with the breath, as a flute, oboe, tuba, or trumpet.",
+            "vi": "Chỉ định một nhạc cụ âm thanh bằng cách thổi không khí qua nó, đặc biệt. một loại cầm tay phát ra âm thanh với hơi thở, như sáo, oboe, tuba hoặc kèn."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) River in WC Wyo., flowing southeast into the Bighorn: c. 110 mi (177 km)",
+            "vi": "(địa điểm) Sông ở WC Wyo., chảy về phía đông nam vào Bighorn: c. 110 dặm (177 km)"
+        },
+        {
+            "pos": "idiom",
+            "en": "(nautical) before the wind  In the same direction as the wind.",
+            "vi": "(hải lý) trước gió Cùng hướng với gió."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "After sunset the wind had dropped.",
+            "vi": "Sau khi mặt trời lặn, gió đã buông xuống."
+        },
+        {
+            "en": "A gust of wind flung snow into her face.",
+            "vi": "Một cơn gió tạt tuyết vào mặt cô."
+        }
+    ],
+    "words_form": [
+        "winded",
+        "winding",
+        "winds",
+        "wound"
+    ],
+    "meaning_vi": "gió"
+}

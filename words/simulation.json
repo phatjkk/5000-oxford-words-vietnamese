@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˌsɪmjʊˈleɪʃən/"
+    ],
+    "synonyms": [
+        "reproduction",
+        "clone",
+        "copy",
+        "counterfeit",
+        "duplicate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An imitation; a sham.",
+            "vi": "Hình thức thiết lập thay thế."
+        },
+        {
+            "pos": "",
+            "en": "The mathematical representation of the interaction of real-world objects. See scientific application and simulator.",
+            "vi": "Trạng thái hoặc chất lượng của tình dục."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It offers easy to use analog circuit simulation for the typical circuit designer.",
+            "vi": "Nó cung cấp mô phỏng mạch tương tự dễ sử dụng cho nhà thiết kế mạch điển hình."
+        },
+        {
+            "en": "This IRIS simulation for 24 micron diameter droplets matches the ring size.",
+            "vi": "Mô phỏng IRIS này cho các giọt đường kính 24 micron phù hợp với kích thước vòng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "An imitation; a sham.",
+            "vi": "Hình thức thiết lập thay thế."
+        },
+        {
+            "pos": "",
+            "en": "The mathematical representation of the interaction of real-world objects. See scientific application and simulator.",
+            "vi": "Trạng thái hoặc chất lượng của tình dục."
+        }
+    ]
+}

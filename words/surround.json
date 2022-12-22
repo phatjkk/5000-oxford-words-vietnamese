@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/səˈraʊnd/"
+    ],
+    "synonyms": [
+        "envelope",
+        "border",
+        "close in",
+        "hem-in",
+        "engulf"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(chiefly brit.) Something serving as a border, etc.",
+            "vi": "(chủ yếu là anh.) Một thứ gì đó đóng vai trò như một biên giới, v.v."
+        },
+        {
+            "pos": "verb",
+            "en": "Surround is defined as to enclose or circle around.",
+            "vi": "Xung quanh được định nghĩa là bao quanh hoặc bao quanh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Scattered olive groves surround the place.",
+            "vi": "Những rặng ô liu rải rác bao quanh nơi này."
+        },
+        {
+            "en": "Our work concerns electrostatic forces; force fields that surround us everywhere.",
+            "vi": "Công việc của chúng tôi liên quan đến lực tĩnh điện; trường lực bao quanh chúng ta ở khắp mọi nơi."
+        }
+    ],
+    "words_form": [
+        "surrounded",
+        "surrounding",
+        "surrounds"
+    ],
+    "meaning_vi": "vây quanh"
+}

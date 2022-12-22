@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/bɛlt/"
+    ],
+    "synonyms": [
+        "area",
+        "strait",
+        "locality",
+        "quaff",
+        "engirdle"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(slang) A strong emotional reaction.",
+            "vi": "(tiếng lóng) Một phản ứng cảm xúc mạnh mẽ."
+        },
+        {
+            "pos": "verb",
+            "en": "(slang) To sing in a loud and forceful manner.",
+            "vi": "(tiếng lóng) Để hát một cách to và mạnh mẽ."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "below the belt  Not according to the rules; unfairly.",
+            "vi": "dưới thắt lưng Không theo quy tắc; không công bằng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She tugged on the belt of his robe.",
+            "vi": "Cô giật mạnh đai áo choàng của anh."
+        },
+        {
+            "en": "He nodded, pointing to his belt buckle.",
+            "vi": "Anh gật đầu, chỉ vào khóa thắt lưng của mình."
+        }
+    ],
+    "words_form": [
+        "belted",
+        "belting",
+        "belts"
+    ],
+    "meaning_vi": "thắt lưng"
+}

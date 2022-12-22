@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/bɔs/"
+    ],
+    "synonyms": [
+        "kingpin",
+        "supervisor",
+        "chief",
+        "employee",
+        "owner"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A circular protuberance or knoblike swelling, as on the horns of certain animals.",
+            "vi": "Nổi lên hình tròn hoặc sưng lên như núm, như trên sừng của một số loài động vật nhất định."
+        },
+        {
+            "pos": "verb",
+            "en": "To give orders to, especially in an arrogant or domineering manner.",
+            "vi": "Ra lệnh, đặc biệt là với thái độ kiêu ngạo hoặc độc đoán."
+        },
+        {
+            "pos": "adjective",
+            "en": "First-rate; topnotch.",
+            "vi": "Hạng nhất; topnotch."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I hope your boss doesn't get angry.",
+            "vi": "Tôi hy vọng ông chủ của bạn không tức giận."
+        },
+        {
+            "en": "You're not the boss of me.",
+            "vi": "Bạn không phải là ông chủ của tôi."
+        }
+    ],
+    "words_form": [
+        "bossed",
+        "bosses",
+        "bossing"
+    ],
+    "meaning_vi": "ông/bà chủ"
+}

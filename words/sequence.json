@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈsikwəns/"
+    ],
+    "synonyms": [
+        "rhythm",
+        "categorization",
+        "following",
+        "train",
+        "disposition"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To organize or arrange in a sequence.",
+            "vi": "Để tổ chức hoặc sắp xếp theo một trình tự."
+        },
+        {
+            "pos": "noun",
+            "en": "(film) A succession of scenes constituting a single, uninterrupted episode.",
+            "vi": "(phim) Một chuỗi các cảnh tạo thành một tập duy nhất, không bị gián đoạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "To sequence corn's genome took four years and cost US$30 million.",
+            "vi": "Để giải mã bộ gen của ngô mất 4 năm và tiêu tốn 30 triệu đô la Mỹ."
+        },
+        {
+            "en": "The best Silurian sequence is in New South Wales.",
+            "vi": "Trình tự Silur tốt nhất là ở New South Wales."
+        }
+    ],
+    "words_form": [
+        "sequenced",
+        "sequences",
+        "sequencing"
+    ],
+    "meaning_vi": "trình tự"
+}

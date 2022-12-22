@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/bænd/"
+    ],
+    "synonyms": [
+        "strip",
+        "fillet",
+        "twine",
+        "ribbon",
+        "belt"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A simple ungrooved ring, especially a wedding ring.",
+            "vi": "Một chiếc nhẫn đơn giản không tháo rời, đặc biệt là một chiếc nhẫn cưới."
+        },
+        {
+            "pos": "verb",
+            "en": "To tie, bind, or encircle with or as if with a band.",
+            "vi": "Để buộc, ràng buộc hoặc bao quanh bằng hoặc như thể với một dải."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A live band started playing a waltz and he dropped a hand to her waist.",
+            "vi": "Một ban nhạc sống bắt đầu chơi một điệu valse và anh ấy thả một tay xuống eo cô ấy."
+        },
+        {
+            "en": "The band struck up the newly introduced mazurka.",
+            "vi": "Ban nhạc đánh bài mazurka mới được giới thiệu."
+        }
+    ],
+    "words_form": [
+        "banded",
+        "bands"
+    ],
+    "meaning_vi": "ban nhạc"
+}

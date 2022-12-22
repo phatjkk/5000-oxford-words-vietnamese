@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈɔkʃ(ə)n/"
+    ],
+    "synonyms": [
+        "sell",
+        "offering",
+        "public sale",
+        "sale",
+        "auctions"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A public sale in which property or items of merchandise are sold to the highest bidder.",
+            "vi": "Một cuộc mua bán công khai trong đó tài sản hoặc vật phẩm của hàng hóa được bán cho người trả giá cao nhất."
+        },
+        {
+            "pos": "verb",
+            "en": "Auction is defined as to sell an item to the buyer who will pay the most, instead of for a set price.",
+            "vi": "Đấu giá được định nghĩa là bán một mặt hàng cho người mua sẽ trả nhiều tiền nhất, thay vì cho một mức giá đã định."
+        },
+        {
+            "pos": "idiom",
+            "en": "auction off  to sell at auction",
+            "vi": "bán đấu giá để bán đấu giá"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You've got your big auction on Wednesday.",
+            "vi": "Bạn đã có cuộc đấu giá lớn vào thứ Tư."
+        },
+        {
+            "en": "It was one thing to covertly admire Alex, but quite another to stand here discussing him as though he were high dollar merchandise at a low bid auction... and why was Katie so concerned?",
+            "vi": "Đó là một điều để thầm ngưỡng mộ Alex, nhưng lại là một điều khác khi đứng đây thảo luận về anh ta như thể anh ta là món hàng đô la cao trong một cuộc đấu giá giá thấp ... và tại sao Katie lại quan tâm đến vậy?"
+        }
+    ],
+    "words_form": [
+        "auctioned",
+        "auctioning",
+        "auctions"
+    ],
+    "meaning_vi": "bán đấu giá"
+}

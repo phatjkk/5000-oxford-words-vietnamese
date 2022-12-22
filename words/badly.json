@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈbædli/"
+    ],
+    "synonyms": [
+        "damagingly",
+        "crudely",
+        "wrongly",
+        "imperfectly",
+        "inefficiently"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In a bad manner.",
+            "vi": "Theo cách xấu."
+        },
+        {
+            "pos": "adjective",
+            "en": "(Northern England) Ill, unwell.",
+            "vi": "(Miền Bắc nước Anh) Bị ốm, không khỏe."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Could you tell how badly he was hurt?",
+            "vi": "Bạn có thể cho biết anh ấy bị thương nặng như thế nào không?"
+        },
+        {
+            "en": "We'll see how badly you want to leave.",
+            "vi": "Chúng tôi sẽ xem bạn muốn rời đi tồi tệ như thế nào."
+        }
+    ],
+    "words_form": [
+        "worse",
+        "worst"
+    ],
+    "meaning_vi": "tệ"
+}

@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ˈfɪr/"
+    ],
+    "synonyms": [
+        "dread",
+        "fright",
+        "scare",
+        "terror",
+        "quail"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Fear is defined as to be afraid of someone or something.",
+            "vi": "Sợ hãi được định nghĩa là sợ ai đó hoặc điều gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Extreme reverence or awe, as toward a deity.",
+            "vi": "Sự tôn kính hoặc kính sợ tột độ, như đối với một vị thần."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) Cape on an island off the SE coast of N.C.",
+            "vi": "(địa điểm) Mũi trên một hòn đảo ngoài khơi bờ biển SE của NC"
+        },
+        {
+            "pos": "adjective",
+            "en": "(dialectal) Able; capable; stout; strong; sound.",
+            "vi": "(phương ngữ) Có khả năng; có khả năng; bia đen; mạnh; âm thanh."
+        },
+        {
+            "pos": "idiom",
+            "en": "for fear of  in order to avoid or prevent; lest",
+            "vi": "vì sợ hãi để tránh hoặc ngăn cản; e rằng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "For a long time he wandered in fear from place to place.",
+            "vi": "Trong một thời gian dài, anh ta đi lang thang trong sợ hãi hết nơi này đến nơi khác."
+        },
+        {
+            "en": "Maybe her fear of her father was wrong.",
+            "vi": "Có lẽ nỗi sợ hãi của cô về cha mình là sai."
+        }
+    ],
+    "words_form": [
+        "feared",
+        "fearing",
+        "fears"
+    ],
+    "meaning_vi": "nỗi sợ"
+}

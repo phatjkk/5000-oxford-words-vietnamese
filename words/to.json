@@ -1,0 +1,52 @@
+{
+    "spelling": [
+        "/tu/",
+        "/tə/"
+    ],
+    "synonyms": [
+        "toward",
+        "via",
+        "on",
+        "up to",
+        "back"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "To is defined as the direction to go, towards, or to a specific position, result or degree.",
+            "vi": "To được định nghĩa là hướng đi, hướng tới hoặc đến một vị trí, kết quả hoặc mức độ cụ thể."
+        },
+        {
+            "pos": "adverb",
+            "en": "The definition of to is moving toward the wanted position, or coming into awareness.",
+            "vi": "Định nghĩa của to đang di chuyển đến vị trí mong muốn, hoặc đi vào nhận thức."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Turnover.",
+            "vi": "Doanh số."
+        },
+        {
+            "pos": "affix",
+            "en": "(obs.) Completely, entirely, severely.",
+            "vi": "(obs.) Hoàn toàn, hoàn toàn, nghiêm trọng."
+        },
+        {
+            "pos": "idiom",
+            "en": "to and fro  first in one direction and then in the opposite; back and forth",
+            "vi": "tới và lui trước theo một hướng và sau đó theo chiều ngược lại; qua lại"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You've been to Australia, haven't you?",
+            "vi": "Bạn đã từng đến Úc, phải không?"
+        },
+        {
+            "en": "She shook her head to clear it.",
+            "vi": "Cô lắc đầu để giải tỏa."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "theo hướng, hướng tới, đến, tới"
+}

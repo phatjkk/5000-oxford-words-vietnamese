@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/streɪndʒ/"
+    ],
+    "synonyms": [
+        "foreign",
+        "different",
+        "peculiar",
+        "odd",
+        "alien"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Not accustomed or conditioned.",
+            "vi": "Không quen hoặc có điều kiện."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a strange manner.",
+            "vi": "Theo một cách kỳ lạ."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Howard gave him a strange look.",
+            "vi": "Howard nhìn anh ta một cách kỳ lạ."
+        },
+        {
+            "en": "We're seeing something strange out here.",
+            "vi": "Chúng tôi đang thấy một cái gì đó kỳ lạ ở đây."
+        }
+    ],
+    "words_form": [
+        "stranger",
+        "strangest"
+    ],
+    "meaning_vi": "lạ"
+}

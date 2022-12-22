@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈæŋɡər/"
+    ],
+    "synonyms": [
+        "rage",
+        "wrath",
+        "temper",
+        "fury",
+        "incense"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(obs.) Pain or trouble.",
+            "vi": "(obs.) Đau đớn hoặc rắc rối."
+        },
+        {
+            "pos": "verb",
+            "en": "To make angry; enrage or provoke.",
+            "vi": "Để làm cho tức giận; tức giận hoặc khiêu khích."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I took all my frustration and anger out on you.",
+            "vi": "Tôi đã trút tất cả sự thất vọng và tức giận của tôi lên bạn."
+        },
+        {
+            "en": "Dusty echoed, anger burning through him.",
+            "vi": "Bụi vang vọng, sự tức giận bùng cháy trong anh."
+        }
+    ],
+    "words_form": [
+        "angered",
+        "angers"
+    ],
+    "meaning_vi": "sự phẫn nộ"
+}

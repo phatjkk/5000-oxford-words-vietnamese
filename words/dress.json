@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/drɛs/"
+    ],
+    "synonyms": [
+        "apparel",
+        "enclothe",
+        "shift",
+        "strapless",
+        "put-on"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a dress is a one-piece garment consisting of a top and skirt that is usually worn by a woman.",
+            "vi": "Định nghĩa về trang phục là trang phục một mảnh bao gồm áo và váy thường được mặc bởi phụ nữ."
+        },
+        {
+            "pos": "verb",
+            "en": "To garnish.",
+            "vi": "Để trang trí."
+        },
+        {
+            "pos": "adjective",
+            "en": "Suitable for formal occasions.",
+            "vi": "Thích hợp cho những dịp trang trọng."
+        },
+        {
+            "pos": "idiom",
+            "en": "(nautical) dress ship  To display the ensign, signal flags, and bunting on a ship.",
+            "vi": "Tàu lễ phục (hải lý) Để hiển thị biển hiệu, cờ hiệu và cờ hiệu trên tàu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That dress is really YOU!",
+            "vi": "Chiếc váy đó thực sự là BẠN!"
+        },
+        {
+            "en": "He pushed her against the wall, pulling at her dress again.",
+            "vi": "Anh đẩy cô vào tường, kéo váy của cô một lần nữa."
+        }
+    ],
+    "words_form": [
+        "dressed",
+        "dresses",
+        "dressing"
+    ],
+    "meaning_vi": "Áo đầm"
+}

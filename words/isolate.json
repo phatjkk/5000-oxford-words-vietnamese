@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈaɪsəˌleɪt/"
+    ],
+    "synonyms": [
+        "cut off",
+        "solitary",
+        "quarantine",
+        "divide",
+        "confine"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of isolate is to separate a person from others and put him by himself, or to separate out a problem to deal with separately, or extracting a part from a hole.",
+            "vi": "Định nghĩa của sự cô lập là tách một người ra khỏi những người khác và đặt anh ta một mình, hoặc tách ra một vấn đề để giải quyết một cách riêng biệt, hoặc trích xuất một phần từ một lỗ hổng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Separated from others.",
+            "vi": "Tách biệt với những người khác."
+        },
+        {
+            "pos": "noun",
+            "en": "A person, thing, or group that has been isolated, as by geographic, ecologic, or social barriers.",
+            "vi": "Một người, sự vật hoặc nhóm đã bị cô lập, do các rào cản địa lý, sinh thái hoặc xã hội."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "All she did was isolate the children and Alex.",
+            "vi": "Tất cả những gì cô ấy làm là cách ly bọn trẻ và Alex."
+        },
+        {
+            "en": "Dean tried to isolate the sound, looking frantically in all downward directions, trying to see a trace, a telltale puff of smoke in the gathering dusk.",
+            "vi": "Dean cố gắng cách ly âm thanh, điên cuồng nhìn theo mọi hướng nhìn xuống, cố gắng nhìn thấy một dấu vết, một làn khói mù mịt trong buổi hoàng hôn tụ tập."
+        }
+    ],
+    "words_form": [
+        "isolated",
+        "isolates",
+        "isolating"
+    ],
+    "meaning_vi": "cô lập"
+}

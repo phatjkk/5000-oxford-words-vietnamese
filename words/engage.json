@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ɪnˈɡeɪdʒ/",
+        "/ɛnˈɡeɪdʒ/"
+    ],
+    "synonyms": [
+        "partake",
+        "employ",
+        "involve",
+        "occupy",
+        "captivate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Engage is defined as to get someone interested in something or to have a conversation or discussion with someone.",
+            "vi": "Tương tác được định nghĩa là để khiến ai đó quan tâm đến điều gì đó hoặc trò chuyện hoặc thảo luận với ai đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Actively committed, as to a political cause.",
+            "vi": "Chủ động cam kết, vì một sự nghiệp chính trị."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He may not engage in any business.",
+            "vi": "Anh ta không được tham gia vào bất kỳ công việc kinh doanh nào."
+        },
+        {
+            "en": "Another class of subjects was now to engage his attention.",
+            "vi": "Một lớp đối tượng khác bây giờ đang thu hút sự chú ý của anh ta."
+        }
+    ],
+    "words_form": [
+        "engaged",
+        "engages",
+        "engaging"
+    ],
+    "meaning_vi": "tham gia; thuê"
+}

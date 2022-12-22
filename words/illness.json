@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈɪlnəs/"
+    ],
+    "synonyms": [
+        "sickness",
+        "ill-health",
+        "weakness",
+        "relapse",
+        "valetudinarianism"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Illness is defined as a sickness or disease, or to a period of sickness and disease.",
+            "vi": "Bệnh tật được định nghĩa là một bệnh tật hoặc bệnh tật, hoặc đến một thời kỳ ốm đau và bệnh tật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is serious illness in her family.",
+            "vi": "Gia đình cô ấy có bệnh hiểm nghèo."
+        },
+        {
+            "en": "How has his whole illness gone?",
+            "vi": "Toàn bộ bệnh của anh ấy đã khỏi như thế nào?"
+        }
+    ],
+    "words_form": [
+        "illnesses"
+    ],
+    "meaning_vi": "bệnh tật"
+}

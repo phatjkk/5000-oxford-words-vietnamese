@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/wɔr/"
+    ],
+    "synonyms": [
+        "fighting",
+        "battle",
+        "contest",
+        "bellicose",
+        "contend"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "War is an armed conflict within a country or between countries.",
+            "vi": "Chiến tranh là một cuộc xung đột vũ trang trong một quốc gia hoặc giữa các quốc gia."
+        },
+        {
+            "pos": "verb",
+            "en": "To be in a state of hostility or rivalry; contend.",
+            "vi": "Ở trong trạng thái thù địch hoặc ganh đua; tranh giành."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, used in, or resulting from war.",
+            "vi": "Của, được sử dụng trong, hoặc do chiến tranh."
+        },
+        {
+            "pos": "prefix",
+            "en": "Relating to gaining access to network resources, such as Wi-Fi access, by locating and exploiting unprotected access addresses.",
+            "vi": "Liên quan đến việc giành quyền truy cập vào tài nguyên mạng, chẳng hạn như truy cập Wi-Fi, bằng cách định vị và khai thác các địa chỉ truy cập không được bảo vệ."
+        },
+        {
+            "pos": "idiom",
+            "en": "at war  In an active state of conflict or contention.",
+            "vi": "tại chiến tranh Trong trạng thái xung đột hoặc tranh chấp đang diễn ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The war is on.",
+            "vi": "Cuộc chiến đang diễn ra."
+        },
+        {
+            "en": "He had a feeling the war was just starting to get interesting.",
+            "vi": "Anh có cảm giác cuộc chiến mới bắt đầu trở nên thú vị."
+        }
+    ],
+    "words_form": [
+        "warred",
+        "warring",
+        "wars"
+    ],
+    "meaning_vi": "chiến tranh"
+}

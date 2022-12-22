@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/kəmˈpoʊnənt/"
+    ],
+    "synonyms": [
+        "element",
+        "basic",
+        "composing",
+        "segment",
+        "unit"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of component means one part of a whole thing.",
+            "vi": "Định nghĩa về thành phần có nghĩa là một phần của toàn bộ sự vật."
+        },
+        {
+            "pos": "adjective",
+            "en": "Made up of smaller complete units in combination; as a component stereo.",
+            "vi": "Được tạo thành từ các đơn vị hoàn chỉnh nhỏ hơn kết hợp với nhau; như một âm thanh nổi thành phần."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The funnel varies greatly in size and number of its component cells.",
+            "vi": "Phễu thay đổi rất nhiều về kích thước và số lượng ô thành phần của nó."
+        },
+        {
+            "en": "Certainly the labor component of assembling the Mercedes could fall to nearly zero.",
+            "vi": "Chắc chắn thành phần lao động lắp ráp chiếc Mercedes có thể giảm xuống gần bằng không."
+        }
+    ],
+    "words_form": [
+        "components"
+    ],
+    "meaning_vi": "thành phần"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/treɪn/"
+    ],
+    "synonyms": [
+        "school",
+        "subway",
+        "string",
+        "train",
+        "freight-train"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Train means to guide, coach or instruct.",
+            "vi": "Tàu có nghĩa là để hướng dẫn, huấn luyện hoặc chỉ dẫn."
+        },
+        {
+            "pos": "noun",
+            "en": "A series of connected railroad cars pulled or pushed by one or more locomotives.",
+            "vi": "Một loạt các toa xe lửa được kết nối với nhau được kéo hoặc đẩy bởi một hoặc nhiều đầu máy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"I know you train with them,\" he stated.",
+            "vi": "\"Tôi biết bạn tập luyện với họ,\" anh nói."
+        },
+        {
+            "en": "I was sent to train him, and I will complete my mission.",
+            "vi": "Tôi được cử đi huấn luyện anh ấy, và tôi sẽ hoàn thành nhiệm vụ của mình."
+        }
+    ],
+    "words_form": [
+        "trained",
+        "training",
+        "trains"
+    ],
+    "meaning_vi": "tàu hỏa/xe lửa"
+}

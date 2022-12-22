@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈteɪbəl/"
+    ],
+    "synonyms": [
+        "counter",
+        "desk",
+        "pulpit",
+        "lectern",
+        "postpone"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To table is defined as to put something on hold.",
+            "vi": "To table được định nghĩa là để giữ một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a table is a piece of furniture with a flat top and legs or people who are sitting together at a restaurant to eat a meal together.",
+            "vi": "Định nghĩa bàn là một món đồ nội thất có mặt trên và chân phẳng hoặc những người đang ngồi cùng nhau trong một nhà hàng để ăn một bữa ăn cùng nhau."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, for, or on a table.",
+            "vi": "Của, cho, hoặc trên bàn."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the table  Up for discussion: Her new offer is on the table.Put aside for consideration at a later date.",
+            "vi": "trên bàn Lên để thảo luận: Đề nghị mới của cô ấy đang ở trên bàn. Hãy để sang một bên để xem xét vào một ngày sau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was sitting at a table across and down from them.",
+            "vi": "Anh ta đang ngồi ở một chiếc bàn đối diện và đi xuống đối diện với họ."
+        },
+        {
+            "en": "One day they were sitting at the table working on coloring books when Alex came home early.",
+            "vi": "Một ngày nọ, họ đang ngồi trên bàn làm việc với những cuốn sách tô màu thì Alex về nhà sớm."
+        }
+    ],
+    "words_form": [
+        "tabled",
+        "tables",
+        "tabling"
+    ],
+    "meaning_vi": "cái bàn"
+}

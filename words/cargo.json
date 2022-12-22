@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈkɑrɡoʊ/"
+    ],
+    "synonyms": [
+        "shipload",
+        "freight",
+        "baggage",
+        "shipment",
+        "lading"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of cargo means items that are carried in a ship, train, truck, plane, etc.",
+            "vi": "Định nghĩa về hàng hóa có nghĩa là các mặt hàng được vận chuyển trên tàu, xe lửa, xe tải, máy bay, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Cargo can be transferred direct from the ship into railway trucks.",
+            "vi": "Hàng hóa có thể được chuyển thẳng từ tàu vào xe tải đường sắt."
+        },
+        {
+            "en": "He tucked it and the vault into his cargo pocket.",
+            "vi": "Anh ta nhét nó và kho tiền vào túi hàng hóa của mình."
+        }
+    ],
+    "words_form": [
+        "cargoes",
+        "cargos"
+    ],
+    "meaning_vi": "hàng hóa"
+}

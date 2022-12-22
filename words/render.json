@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈrɛndər/"
+    ],
+    "synonyms": [
+        "deliver",
+        "draw",
+        "delineate",
+        "transliterate",
+        "transpose"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Render is defined as to give something to someone.",
+            "vi": "Render được định nghĩa là để đưa một thứ gì đó cho ai đó."
+        },
+        {
+            "pos": "noun",
+            "en": "A payment in kind, services, or cash from a tenant to a feudal lord.",
+            "vi": "Một khoản thanh toán bằng hiện vật, dịch vụ hoặc tiền mặt từ người thuê cho lãnh chúa phong kiến."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It'll render him near-invincible for several days.",
+            "vi": "Nó sẽ khiến anh ta gần như bất khả chiến bại trong vài ngày."
+        },
+        {
+            "en": "The cell-walls of plants render the entry of solid material into the organism impossible.",
+            "vi": "Thành tế bào của thực vật làm cho việc xâm nhập của vật chất rắn vào cơ thể là không thể."
+        }
+    ],
+    "words_form": [
+        "rendered",
+        "rendering",
+        "renders"
+    ],
+    "meaning_vi": "kết xuất"
+}

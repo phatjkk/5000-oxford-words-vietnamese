@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ɪnˈfɛkʃ(ə)n/"
+    ],
+    "synonyms": [
+        "germs",
+        "epidemic",
+        "disease",
+        "contamination",
+        "pathological"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of infection is the process of bacteria or viruses invading the body or making someone ill or diseased.",
+            "vi": "Định nghĩa về nhiễm trùng là quá trình vi khuẩn hoặc vi rút xâm nhập vào cơ thể hoặc làm cho ai đó bị ốm hoặc bị bệnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The x-rays were conclusive and indicated a bad infection in the lower lobe of one lung.",
+            "vi": "Kết quả chụp X-quang cho thấy có tình trạng nhiễm trùng nặng ở thùy dưới của một bên phổi."
+        },
+        {
+            "en": "They did another x-ray this morning and the infection has spread to the other lung.",
+            "vi": "Họ đã chụp X-quang lần nữa vào sáng nay và nhiễm trùng đã lan sang phổi còn lại."
+        }
+    ],
+    "words_form": [
+        "infections"
+    ],
+    "meaning_vi": "nhiễm trùng"
+}

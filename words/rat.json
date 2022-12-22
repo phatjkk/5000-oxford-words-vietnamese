@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ræt/"
+    ],
+    "synonyms": [
+        "mouse",
+        "rodent",
+        "tergiversate",
+        "apostatize",
+        "pest"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Rat is defined as to tease hair, or to hunt for rats, or is slang for betray.",
+            "vi": "Rat được định nghĩa là để trêu chọc tóc, hoặc săn bắt chuột, hoặc là tiếng lóng để chỉ sự phản bội."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a rat is a rodent with a lengthy tail, or is slang for a sneaky person.",
+            "vi": "Định nghĩa chuột là một loài gặm nhấm có đuôi dài, hay là tiếng lóng để chỉ người lén lút."
+        },
+        {
+            "pos": "idiom",
+            "en": "smell a rat  to suspect a trick, plot, etc.",
+            "vi": "ngửi mùi chuột để nghi ngờ có thủ đoạn, âm mưu, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Rat did kill baby pigeons.",
+            "vi": "Chuột đã giết bồ câu con."
+        },
+        {
+            "en": "You've got more than one rat to worry about.",
+            "vi": "Bạn có nhiều hơn một con chuột phải lo lắng."
+        }
+    ],
+    "words_form": [
+        "rats",
+        "ratted",
+        "ratting"
+    ],
+    "meaning_vi": "chuột"
+}

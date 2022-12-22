@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/əˈlɛktrək(ə)l/"
+    ],
+    "synonyms": [
+        "battery powered",
+        "mechanical",
+        "electronics",
+        "appliance",
+        "switchgear"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Electrical is defined as something related to electricity, which is energy resulting from charged particles.",
+            "vi": "Điện được định nghĩa là một cái gì đó liên quan đến điện, là năng lượng sinh ra từ các hạt mang điện."
+        },
+        {
+            "pos": "noun",
+            "en": "An electrical engineer.",
+            "vi": "Một kỹ sư điện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We're in the middle of an electrical storm.",
+            "vi": "Chúng ta đang ở giữa một cơn bão điện."
+        },
+        {
+            "en": "Covers needed to be put on the electrical outlets and the windows still held their tags.",
+            "vi": "Các tấm che cần phải được đặt trên các ổ cắm điện và các cửa sổ vẫn được giữ nguyên thẻ của chúng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "điện"
+}

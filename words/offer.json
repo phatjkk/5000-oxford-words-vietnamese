@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈɔfər/",
+        "/ˈɑfər/"
+    ],
+    "synonyms": [
+        "overture",
+        "try",
+        "effort",
+        "proposal",
+        "feeler"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Offer is to put forth or suggest for consideration, acceptance or rejection.",
+            "vi": "Đề nghị là đưa ra hoặc đề xuất để xem xét, chấp nhận hoặc từ chối."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of an offer is an act of putting something forth for consideration, acceptance or rejection or something suggested or proposed.",
+            "vi": "Định nghĩa của một đề nghị là một hành động đưa ra một cái gì đó để xem xét, chấp nhận hoặc từ chối hoặc một cái gì đó được đề xuất hoặc đề xuất."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "And yet, his offer was generous.",
+            "vi": "Tuy nhiên, lời đề nghị của anh ấy rất hào phóng."
+        },
+        {
+            "en": "This will likely not ever be perfect, but any insight it can offer us is a gain.",
+            "vi": "Điều này có thể sẽ không bao giờ hoàn hảo, nhưng bất kỳ cái nhìn sâu sắc nào mà nó có thể cung cấp cho chúng ta đều là một lợi ích."
+        }
+    ],
+    "words_form": [
+        "offered",
+        "offering",
+        "offers"
+    ],
+    "meaning_vi": "phục vụ"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/bɪl/"
+    ],
+    "synonyms": [
+        "invoice",
+        "dollar-bill",
+        "dollar",
+        "buck",
+        "document"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To enter on a statement of costs or on a particularized list.",
+            "vi": "Để nhập vào một bảng kê khai chi phí hoặc trên một danh sách cụ thể."
+        },
+        {
+            "pos": "noun",
+            "en": "A billhook.",
+            "vi": "A billhook."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(UK, slang) A nickname for the British constabulary. Often called \"The Bill\" or \"Old Bill\"",
+            "vi": "(Anh, tiếng lóng) Một biệt hiệu của cảnh sát viên Anh. Thường được gọi là \"The Bill\" hoặc \"Old Bill\""
+        },
+        {
+            "pos": "idiom",
+            "en": "bill and coo  To kiss or caress and murmur endearments.",
+            "vi": "hóa đơn và thủ thỉ Để hôn hoặc vuốt ve và thì thầm những lời yêu thương."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I paid the electric and water bill this week.",
+            "vi": "Tôi đã thanh toán tiền điện và nước trong tuần này."
+        },
+        {
+            "en": "He called for his bill and paid it.",
+            "vi": "Anh ta gọi cho hóa đơn của mình và thanh toán nó."
+        }
+    ],
+    "words_form": [
+        "billed",
+        "billing",
+        "bills"
+    ],
+    "meaning_vi": "hóa đơn"
+}

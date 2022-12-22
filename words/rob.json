@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/rɑb/"
+    ],
+    "synonyms": [
+        "cop",
+        "fleece",
+        "burglarize",
+        "despoil",
+        "pluck"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To engage in or commit robbery.",
+            "vi": "Tham gia hoặc thực hiện hành vi trộm cướp."
+        },
+        {
+            "pos": "noun",
+            "en": "The inspissated juice of ripe fruit, obtained by evaporation of the juice over a fire until it reaches a syrupy consistency. It is sometimes mixed with honey or sugar.",
+            "vi": "Nước trái cây chín đã được kiểm tra, thu được bằng cách làm bay hơi nước trái cây trên ngọn lửa cho đến khi nó đạt được độ sệt như xi-rô. Nó đôi khi được trộn với mật ong hoặc đường."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A diminutive of the male given name Robert.",
+            "vi": "Một chi tiết nhỏ của người đàn ông được đặt tên Robert."
+        },
+        {
+            "pos": "idiom",
+            "en": "rob Peter to pay Paul  To incur a debt in order to pay off another debt.",
+            "vi": "cướp của Peter để trả Paul Để gánh một khoản nợ để trả một món nợ khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Rob rode up beside her.",
+            "vi": "Rob đi đến bên cạnh cô ấy."
+        },
+        {
+            "en": "\"Go ahead,\" Rob said to Aaron.",
+            "vi": "\"Tiếp tục đi,\" Rob nói với Aaron."
+        }
+    ],
+    "words_form": [
+        "robbed",
+        "robbing",
+        "robs"
+    ],
+    "meaning_vi": "cướp"
+}

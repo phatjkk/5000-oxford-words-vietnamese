@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/traɪ/"
+    ],
+    "synonyms": [
+        "attempt",
+        "strive",
+        "tackle",
+        "assay",
+        "foray"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make an effort to do or accomplish (something); attempt.",
+            "vi": "Để nỗ lực thực hiện hoặc hoàn thành (điều gì đó); nỗ lực."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a try is an attempt or effort.",
+            "vi": "Định nghĩa của một thử là một nỗ lực hoặc nỗ lực."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Fine, excellent.",
+            "vi": "(lỗi thời) Tốt, tuyệt vời."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Tyr.",
+            "vi": "Tyr."
+        },
+        {
+            "pos": "initialism",
+            "en": "Initialism of Turkish lira.",
+            "vi": "Chủ nghĩa ban đầu của đồng lira Thổ Nhĩ Kỳ."
+        },
+        {
+            "pos": "idiom",
+            "en": "try (one's) hand  To attempt to do something for the first time: I tried my hand at skiing.",
+            "vi": "thử tay (của một người) Để cố gắng làm điều gì đó lần đầu tiên: Tôi đã thử sức với môn trượt tuyết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Try to stay out of the woods.",
+            "vi": "Cố gắng tránh xa rừng."
+        },
+        {
+            "en": "Why don't you try calling your family again?",
+            "vi": "Tại sao bạn không thử gọi lại cho gia đình mình?"
+        }
+    ],
+    "words_form": [
+        "tried",
+        "tries",
+        "trying"
+    ],
+    "meaning_vi": "thử"
+}

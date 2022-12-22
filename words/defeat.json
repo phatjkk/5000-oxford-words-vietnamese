@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈfit/"
+    ],
+    "synonyms": [
+        "stalemate",
+        "subduing",
+        "disappointment",
+        "crushing",
+        "no-go"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To defeat is defined as to beat someone at something or to prevent something from happening.",
+            "vi": "Đánh bại được định nghĩa là đánh bại ai đó tại một thứ gì đó hoặc để ngăn chặn điều gì đó xảy ra."
+        },
+        {
+            "pos": "noun",
+            "en": "Defeat is defined as the state of being beaten or having lost.",
+            "vi": "Thất bại được định nghĩa là trạng thái bị đánh hoặc bị thua."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Taran can defeat him.",
+            "vi": "Taran có thể đánh bại anh ta."
+        },
+        {
+            "en": "He shook his head in defeat and opened the door for her, bowing deeply.",
+            "vi": "Anh lắc đầu chịu thua và mở cửa cho cô, cúi đầu thật sâu."
+        }
+    ],
+    "words_form": [
+        "defeated",
+        "defeating",
+        "defeats"
+    ],
+    "meaning_vi": "đánh bại"
+}

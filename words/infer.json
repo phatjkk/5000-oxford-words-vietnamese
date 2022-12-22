@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ɪnˈfər/"
+    ],
+    "synonyms": [
+        "induce",
+        "conclude",
+        "gather",
+        "arrive at",
+        "indicate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To conclude from evidence or by reasoning.",
+            "vi": "Để kết luận từ bằng chứng hoặc bằng lập luận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You can infer the meaning of the word from the context of the rest of the sentence.",
+            "vi": "Bạn có thể suy ra nghĩa của từ từ ngữ cảnh của phần còn lại của câu."
+        },
+        {
+            "en": "He will infer conclusions from secondary data.",
+            "vi": "Anh ta sẽ suy ra kết luận từ dữ liệu thứ cấp."
+        }
+    ],
+    "words_form": [
+        "inferred",
+        "inferring",
+        "infers"
+    ],
+    "meaning_vi": "suy luận"
+}

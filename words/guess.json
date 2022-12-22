@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ɡɛs/"
+    ],
+    "synonyms": [
+        "surmise",
+        "hypothesize",
+        "speculation",
+        "belief",
+        "shot-in-the-dark"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To suppose; think.",
+            "vi": "Giả sử; nghĩ."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a guess is an act of predicting, estimating or assuming.",
+            "vi": "Định nghĩa của một phỏng đoán là một hành động dự đoán, ước tính hoặc giả định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I guess that's a good question.",
+            "vi": "Tôi đoán đó là một câu hỏi hay."
+        },
+        {
+            "en": "I guess I'm not a good investigator.",
+            "vi": "Tôi đoán tôi không phải là một nhà điều tra giỏi."
+        }
+    ],
+    "words_form": [
+        "guesses"
+    ],
+    "meaning_vi": "đoán"
+}

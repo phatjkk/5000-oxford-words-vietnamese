@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ɪnˈsɛn(t)ɪv/"
+    ],
+    "synonyms": [
+        "motivation",
+        "encouragement",
+        "impetus",
+        "reward",
+        "ground"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of incentive is something that makes someone want to do something or work harder.",
+            "vi": "Định nghĩa về sự khuyến khích là điều gì đó khiến ai đó muốn làm điều gì đó hoặc làm việc chăm chỉ hơn."
+        },
+        {
+            "pos": "noun",
+            "en": "Incentive is defined as something that encourages someone to do something or work harder.",
+            "vi": "Ưu đãi được định nghĩa là thứ gì đó khuyến khích ai đó làm điều gì đó hoặc làm việc chăm chỉ hơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maybe that's the incentive he needs.",
+            "vi": "Có lẽ đó là động lực mà anh ấy cần."
+        },
+        {
+            "en": "Martha's pending due date was an incentive to Betsy.",
+            "vi": "Ngày đến hạn giải quyết của Martha là một động lực cho Betsy."
+        }
+    ],
+    "words_form": [
+        "incentives"
+    ],
+    "meaning_vi": "ưu đãi"
+}

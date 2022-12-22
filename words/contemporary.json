@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/kənˈtɛmpəˌrɛri/"
+    ],
+    "synonyms": [
+        "modern",
+        "contemporaneous",
+        "current",
+        "present-day",
+        "coincident"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something existing at the same time.",
+            "vi": "Một cái gì đó tồn tại cùng một lúc."
+        },
+        {
+            "pos": "adjective",
+            "en": "Current; modern.",
+            "vi": "Hiện hành; hiện đại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Contemporary artists were selected.",
+            "vi": "Các nghệ sĩ đương đại đã được chọn."
+        },
+        {
+            "en": "There was a reading of contemporary poetry.",
+            "vi": "Có một buổi đọc thơ đương đại."
+        }
+    ],
+    "words_form": [
+        "contemporaries"
+    ],
+    "meaning_vi": "đồng thời"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/əˈpoʊzd/"
+    ],
+    "synonyms": [
+        "disputed",
+        "against-the-grain",
+        "reluctant",
+        "counteracted",
+        "unwilling"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Acting in opposition; opposing.",
+            "vi": "Hành động đối lập; chống đối."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of oppose.",
+            "vi": "Quá khứ đơn và quá khứ phân từ đối lập."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He strongly opposed the League of Nations.",
+            "vi": "Ông phản đối mạnh mẽ Hội Quốc Liên."
+        },
+        {
+            "en": "I'm not opposed to technology, I simply enjoy the work.",
+            "vi": "Tôi không phản đối công nghệ, tôi chỉ đơn giản là thích công việc."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "phản đối"
+}

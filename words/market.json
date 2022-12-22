@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈmɑrkət/"
+    ],
+    "synonyms": [
+        "bazaar",
+        "mart",
+        "stall",
+        "run",
+        "fair"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a market is a place where you go to buy things or a demand for a particular item.",
+            "vi": "Định nghĩa về thị trường là nơi bạn đến để mua những thứ hoặc nhu cầu về một mặt hàng cụ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "To deal in a market; buy or sell.",
+            "vi": "Để giao dịch trong một thị trường; mua hoặc bán."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the market  Interested in buying: We are in the market for a used car.",
+            "vi": "trên thị trường Quan tâm đến việc mua: Chúng tôi đang tham gia thị trường cho một chiếc ô tô đã qua sử dụng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The market is only two blocks away.",
+            "vi": "Chợ chỉ cách đó hai dãy nhà."
+        },
+        {
+            "en": "I'll go to the market now.",
+            "vi": "Tôi sẽ đi chợ ngay bây giờ."
+        }
+    ],
+    "words_form": [
+        "marketed",
+        "marketing",
+        "markets"
+    ],
+    "meaning_vi": "thị trường; chợ"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈkəbərd/"
+    ],
+    "synonyms": [
+        "closet",
+        "cabinet",
+        "locker",
+        "pantry",
+        "press"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A closet or cabinet with shelves for holding cups, plates, food, and the like.",
+            "vi": "Một tủ quần áo hoặc tủ có kệ để đựng cốc, đĩa, thực phẩm và những thứ tương tự."
+        },
+        {
+            "pos": "verb",
+            "en": "To collect, as into a cupboard; to hoard.",
+            "vi": "Để thu thập, như vào một cái tủ; để tích trữ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He took a mug from the cupboard and poured himself a cup of coffee.",
+            "vi": "Anh lấy một chiếc cốc trong tủ và rót cho mình một tách cà phê."
+        },
+        {
+            "en": "She turned to get another from the cupboard.",
+            "vi": "Cô quay lại lấy một cái khác trong tủ."
+        }
+    ],
+    "words_form": [
+        "cupboards"
+    ],
+    "meaning_vi": "cái tủ"
+}

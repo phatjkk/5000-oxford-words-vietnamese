@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/feɪθ/"
+    ],
+    "synonyms": [
+        "hope",
+        "belief",
+        "trust",
+        "certitude",
+        "dependence"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Complete trust, confidence, or reliance.",
+            "vi": "Hoàn toàn tin tưởng, tự tin hoặc dựa dẫm."
+        },
+        {
+            "pos": "interjection",
+            "en": "(archaic) Indeed; in faith.",
+            "vi": "(cổ xưa) Thật vậy; về Đức tin."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A city in South Dakota.",
+            "vi": "Một thành phố ở Nam Dakota."
+        },
+        {
+            "pos": "idiom",
+            "en": "in faith  Indeed; truly.",
+            "vi": "trong đức tin Thật vậy; thực sự."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Don't lose faith in yourself.",
+            "vi": "Đừng đánh mất niềm tin vào bản thân."
+        },
+        {
+            "en": "Don't you have any faith in me at all?",
+            "vi": "Bạn không có bất kỳ niềm tin vào tôi chút nào?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đức tin"
+}

@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈklæsəˌfaɪ/"
+    ],
+    "synonyms": [
+        "arrange",
+        "label",
+        "categorize",
+        "range",
+        "order"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To arrange or organize according to class or category.",
+            "vi": "Để sắp xếp hoặc tổ chức theo lớp hoặc thể loại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The natives are officially described as Bosniaks, but classify themselves according to religion.",
+            "vi": "Người bản xứ được mô tả chính thức là Bosniaks, nhưng phân loại họ theo tôn giáo."
+        },
+        {
+            "en": "He is difficult to classify.",
+            "vi": "Anh ấy rất khó phân loại."
+        }
+    ],
+    "words_form": [
+        "classified",
+        "classifies",
+        "classifying"
+    ],
+    "meaning_vi": "phân loại"
+}

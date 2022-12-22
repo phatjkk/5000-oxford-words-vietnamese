@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/reɪndʒ/"
+    ],
+    "synonyms": [
+        "area",
+        "expanse",
+        "grassland",
+        "limit",
+        "scale"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One of a series of double-faced bookcases in a library stack room.",
+            "vi": "Một trong một loạt các tủ sách hai mặt trong một phòng xếp chồng của thư viện."
+        },
+        {
+            "pos": "verb",
+            "en": "Range is defined as to set or place in order or position.",
+            "vi": "Phạm vi được định nghĩa là để đặt hoặc sắp xếp theo thứ tự hoặc vị trí."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of a range, or open grazing place.",
+            "vi": "Trong một phạm vi, hoặc nơi chăn thả thông thoáng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Get yourself to the range and learn to shoot.",
+            "vi": "Đưa mình vào tầm bắn và học cách bắn."
+        },
+        {
+            "en": "The trio was out of camera range a few steps later.",
+            "vi": "Bộ ba đã ra khỏi tầm máy quay vài bước sau đó."
+        }
+    ],
+    "words_form": [
+        "ranged",
+        "ranges",
+        "ranging"
+    ],
+    "meaning_vi": "phạm vi"
+}

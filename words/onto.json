@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈɑnˌtu/"
+    ],
+    "synonyms": [
+        "upon",
+        "over",
+        "toward",
+        "above",
+        "against"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "Onto is defined as to or upon.",
+            "vi": "Onto được định nghĩa là đến hoặc khi."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or being a function such that every element of the codomain is the value that corresponds to an element in the domain.",
+            "vi": "Trong đó, liên quan đến hoặc là một hàm sao cho mọi phần tử của miền đồng là giá trị tương ứng với một phần tử trong miền."
+        },
+        {
+            "pos": "prefix",
+            "en": "Existence; being.",
+            "vi": "Sự tồn tại; hiện tại."
+        },
+        {
+            "pos": "affix",
+            "en": "Being, existence.",
+            "vi": "Hiện hữu, tồn tại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She climbed onto the vehicle and settled on the soft cushion.",
+            "vi": "Cô leo lên xe và yên vị trên tấm đệm êm ái."
+        },
+        {
+            "en": "He rolled onto his side.",
+            "vi": "Anh ta lăn lộn nằm nghiêng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "trên"
+}

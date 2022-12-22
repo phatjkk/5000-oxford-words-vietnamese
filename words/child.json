@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/tʃaɪld/"
+    ],
+    "synonyms": [
+        "kid",
+        "girl",
+        "moppet",
+        "tot",
+        "newborn"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person under the age of majority. See also age.",
+            "vi": "Một người dưới tuổi thành niên. Xem thêm tuổi."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1825-96; U.S. scholar and collector of Eng. & Scot. ballads.",
+            "vi": "(người) 1825-96; Học giả Hoa Kỳ và nhà sưu tập Eng. & Scot. những bản ballad."
+        },
+        {
+            "pos": "idiom",
+            "en": "with child  Pregnant.",
+            "vi": "với đứa trẻ mang thai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This child has a wonderful gift.",
+            "vi": "Đứa trẻ này có một món quà tuyệt vời."
+        },
+        {
+            "en": "She was an only child who had been very welcome.",
+            "vi": "Cô ấy là một đứa trẻ duy nhất đã được chào đón rất nhiều."
+        }
+    ],
+    "words_form": [
+        "children"
+    ],
+    "meaning_vi": "trẻ em"
+}

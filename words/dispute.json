@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dɪˈspjut/"
+    ],
+    "synonyms": [
+        "disagreement",
+        "debate",
+        "argument",
+        "fight",
+        "quarrel"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a dispute is a disagreement among people.",
+            "vi": "Định nghĩa về tranh chấp là sự bất đồng giữa mọi người."
+        },
+        {
+            "pos": "verb",
+            "en": "To dispute is defined as to question the truth of something or to fight for the lead.",
+            "vi": "Tranh chấp được định nghĩa là nghi vấn sự thật của điều gì đó hoặc tranh giành vị trí dẫn đầu."
+        },
+        {
+            "pos": "idiom",
+            "en": "beyond dispute  not open to dispute or question; settled indisputably",
+            "vi": "ngoài tranh chấp không mở để tranh chấp hoặc câu hỏi; giải quyết không thể chối cãi"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I hate to dispute you, but I'm not miserable.",
+            "vi": "Tôi ghét tranh chấp với bạn, nhưng tôi không khốn khổ."
+        },
+        {
+            "en": "In case of dispute the judges dealt first with the contract.",
+            "vi": "Trong trường hợp có tranh chấp, các thẩm phán xử lý hợp đồng trước."
+        }
+    ],
+    "words_form": [
+        "disputed",
+        "disputes",
+        "disputing"
+    ],
+    "meaning_vi": "tranh chấp"
+}

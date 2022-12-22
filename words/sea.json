@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/si/"
+    ],
+    "synonyms": [
+        "marine",
+        "oceanic",
+        "pelagic",
+        "nautical",
+        "maritime"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A large body of salt water wholly or partly enclosed by land.",
+            "vi": "Một vùng nước mặn lớn được bao bọc toàn bộ hoặc một phần bởi đất liền."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, connected with, or for use at sea.",
+            "vi": "Của, được kết nối với, hoặc để sử dụng trên biển."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Southeast Asia.",
+            "vi": "Đông Nam Á."
+        },
+        {
+            "pos": "idiom",
+            "en": "at sea  On the sea, especially on a sea voyage. In a state of confusion or perplexity; at a loss.",
+            "vi": "trên biển Trên biển, đặc biệt là trong một chuyến đi biển. Trong trạng thái bối rối hoặc bối rối; thua lỗ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The sea was rough.",
+            "vi": "Biển động."
+        },
+        {
+            "en": "\"I guess the sea breeze is good for the libido,\" she continued.",
+            "vi": "“Tôi đoán gió biển rất tốt cho ham muốn tình dục,” cô tiếp tục."
+        }
+    ],
+    "words_form": [
+        "seas"
+    ],
+    "meaning_vi": "biển cả"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˌvæljəˈweɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "assessment",
+        "estimation",
+        "appraisal",
+        "appraisement",
+        "value"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The process of evaluating something or an instance of this.",
+            "vi": "Quá trình đánh giá một cái gì đó hoặc một ví dụ của điều này."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "When symptoms continue even after treatment or to rule out the presence of other illnesses with similar symptoms, the diagnostic evaluation may include blood tests, a hydrogen breath test, or an x ray of the bowel, called a barium enema.",
+            "vi": "Khi các triệu chứng vẫn tiếp tục ngay cả sau khi điều trị hoặc để loại trừ sự hiện diện của các bệnh khác với các triệu chứng tương tự, việc đánh giá chẩn đoán có thể bao gồm xét nghiệm máu, xét nghiệm hơi thở hydro hoặc chụp X-quang ruột, được gọi là thuốc xổ bari."
+        },
+        {
+            "en": "The evaluation of the area of the curve had made Roberval famous in France, but Descartes considered that the value of his investigation had been grossly exaggerated; he declared the problem to be of an elementary nature and submitted a short and simple solution.",
+            "vi": "Việc đánh giá diện tích của đường cong đã khiến Roberval nổi tiếng ở Pháp, nhưng Descartes cho rằng giá trị của cuộc điều tra của ông đã bị phóng đại quá mức; ông tuyên bố vấn đề có tính chất sơ đẳng và đưa ra một giải pháp ngắn gọn và đơn giản."
+        }
+    ],
+    "words_form": [
+        "evaluations"
+    ],
+    "meaning_vi": "thẩm định"
+}

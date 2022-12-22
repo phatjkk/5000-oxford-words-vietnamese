@@ -1,0 +1,64 @@
+{
+    "spelling": [
+        "/naɪs/"
+    ],
+    "synonyms": [
+        "delightful",
+        "friendly",
+        "pleasant",
+        "helpful",
+        "pleasing"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Pleasing and agreeable in nature.",
+            "vi": "Bản chất dễ chịu và dễ chịu."
+        },
+        {
+            "pos": "adverb",
+            "en": "Well, pleasingly, attractively, etc.",
+            "vi": "Chà, đẹp mắt, hấp dẫn, v.v."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) Seaport & resort in SE France.",
+            "vi": "(địa điểm) Cảng biển & khu nghỉ mát ở Đông Nam Pháp."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to signify a job well done.",
+            "vi": "Được sử dụng để biểu thị một công việc được hoàn thành tốt."
+        },
+        {
+            "pos": "verb",
+            "en": "(computing, Unix) To run a process with a specified (usually lower) priority.",
+            "vi": "(điện toán, Unix) Để chạy một quy trình có mức độ ưu tiên được chỉ định (thường thấp hơn)."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A city in southeast France on the coast of the Mediterranean Sea, capital of the department of Alpes-Maritimes.",
+            "vi": "Một thành phố ở đông nam nước Pháp trên bờ biển Địa Trung Hải, thủ phủ của bộ phận Alpes-Maritimes."
+        },
+        {
+            "pos": "idiom",
+            "en": "make nice  to try to be friendly or cooperative",
+            "vi": "làm tốt để cố gắng trở nên thân thiện hoặc hợp tác"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's nice to have that special respect.",
+            "vi": "Thật tuyệt khi có được sự tôn trọng đặc biệt đó."
+        },
+        {
+            "en": "It's nice to hear you laugh.",
+            "vi": "Thật vui khi nghe bạn cười."
+        }
+    ],
+    "words_form": [
+        "nicer",
+        "nicest"
+    ],
+    "meaning_vi": "đẹp"
+}

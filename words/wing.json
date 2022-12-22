@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/wɪŋ/"
+    ],
+    "synonyms": [
+        "annex",
+        "appendage",
+        "pinion",
+        "airfoil",
+        "faction"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To strike or wound in a wing or an appendage.",
+            "vi": "Để tấn công hoặc làm bị thương ở cánh hoặc phần phụ."
+        },
+        {
+            "pos": "noun",
+            "en": "In art, mythology, etc., either of a pair of winglike structures associated with or attributed to gods, angels, demons, dragons, etc., or used as a symbol of speed or the like.",
+            "vi": "Trong nghệ thuật, thần thoại, v.v., một cặp cấu trúc giống như đôi cánh được liên kết hoặc gán cho các vị thần, thiên thần, ác quỷ, rồng, v.v., hoặc được sử dụng như một biểu tượng của tốc độ hoặc tương tự."
+        },
+        {
+            "pos": "idiom",
+            "en": "give wing to  To provide the impetus for or enable (something): A mentor who gave wing to my career.To free from constraints or allow to operate freely: A poet who gave wing to her imagination.",
+            "vi": "cho cánh để cung cấp động lực cho hoặc cho phép (một cái gì đó): Một người cố vấn đã chắp cánh cho sự nghiệp của tôi. Để không bị ràng buộc hoặc cho phép hoạt động tự do: Một nhà thơ đã chắp cánh cho trí tưởng tượng của cô ấy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It contained a sofa, two wing chairs, a queen size bed, a fully stocked wet bar, kitchenette, bathroom, wide screen TV, books, and magazines.",
+            "vi": "Nó có một chiếc ghế sofa, hai chiếc ghế ở cánh, một chiếc giường cỡ Queen, một quầy wet bar đầy ắp đồ, bếp nhỏ, phòng tắm, TV màn hình rộng, sách và tạp chí."
+        },
+        {
+            "en": "\"That was sweet of you to take Donnie under your wing,\" she said.",
+            "vi": "\"Thật tuyệt khi bạn có được Donnie dưới sự bảo vệ của mình,\" cô nói."
+        }
+    ],
+    "words_form": [
+        "winging",
+        "wings"
+    ],
+    "meaning_vi": "canh"
+}

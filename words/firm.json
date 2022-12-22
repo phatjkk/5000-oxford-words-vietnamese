@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/fərm/"
+    ],
+    "synonyms": [
+        "immovable",
+        "fixed",
+        "adamant",
+        "impermeable",
+        "allegiant"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A firm is defined as a business with two or more persons.",
+            "vi": "Một công ty được định nghĩa là một doanh nghiệp có từ hai người trở lên."
+        },
+        {
+            "pos": "adjective",
+            "en": "Marked by or indicating the tone and resiliency of healthy tissue.",
+            "vi": "Đánh dấu bằng hoặc cho biết giai điệu và khả năng phục hồi của mô khỏe mạnh."
+        },
+        {
+            "pos": "verb",
+            "en": "To make or become firm, or solid, steady, stable, definite, etc.",
+            "vi": "Để làm cho hoặc trở nên chắc chắn, hoặc vững chắc, ổn định, ổn định, dứt khoát, v.v."
+        },
+        {
+            "pos": "adverb",
+            "en": "Without wavering; resolutely.",
+            "vi": "Không dao động; kiên quyết."
+        },
+        {
+            "pos": "idiom",
+            "en": "stand firm  to be or remain steadfast in conviction despite attack, efforts to persuade, etc.",
+            "vi": "đứng vững để được hoặc vẫn kiên định với niềm tin bất chấp sự tấn công, nỗ lực thuyết phục, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The horse had stopped short, and stood firm as a rock.",
+            "vi": "Con ngựa đã dừng lại và đứng vững như một tảng đá."
+        },
+        {
+            "en": "He lifted her and placed her on a firm bed.",
+            "vi": "Anh nâng cô lên và đặt cô trên một chiếc giường chắc chắn."
+        }
+    ],
+    "words_form": [
+        "firmed",
+        "firmest",
+        "firming",
+        "firms"
+    ],
+    "meaning_vi": "chắc chắn"
+}

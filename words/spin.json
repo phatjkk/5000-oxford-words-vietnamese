@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/spɪn/"
+    ],
+    "synonyms": [
+        "rotate",
+        "revolve",
+        "whirl",
+        "ride",
+        "twirl"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Spin means to make turn around in a circle over and over again.",
+            "vi": "Spin có nghĩa là thực hiện quay đi quay lại trong một vòng tròn."
+        },
+        {
+            "pos": "noun",
+            "en": "A spinning or rotating movement.",
+            "vi": "Chuyển động quay tròn hoặc xoay tròn."
+        },
+        {
+            "pos": "adjective",
+            "en": "(cricket) Describing a spin bowler, or his style of bowling.",
+            "vi": "(cricket) Mô tả một vận động viên ném bowling hoặc phong cách chơi bowling của anh ta."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) spin (one's) wheels  To expend effort with no result.",
+            "vi": "(không chính thức) quay bánh xe (của một người) Để tiêu hao nỗ lực mà không có kết quả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Everything around her started to spin and then went black.",
+            "vi": "Mọi thứ xung quanh cô bắt đầu quay cuồng và sau đó trở nên đen kịt."
+        },
+        {
+            "en": "It was found that projectiles fired from a rifled gun deviated laterally from the line of Sights for fire owing to the axial spin of the projectile, and that if the r i fled spin were right-handed, as in the British service, the deviation was to the right.",
+            "vi": "Người ta phát hiện ra rằng các đường đạn bắn ra từ một khẩu súng trường đã lệch sang một bên so với đường ngắm bắn do chuyển động quay theo trục của đường đạn, và nếu vòng quay của súng bắn theo hướng thuận tay phải, như trong dịch vụ của Anh, thì độ lệch đó là bên phải."
+        }
+    ],
+    "words_form": [
+        "spinning",
+        "spins",
+        "spun"
+    ],
+    "meaning_vi": "quay"
+}

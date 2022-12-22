@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈhaɪdrədʒən/"
+    ],
+    "synonyms": [
+        "proton",
+        "nitrogen",
+        "ion",
+        "electron",
+        "molecule"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of hydrogen is a gaseous element that has no color or odor and is flammable.",
+            "vi": "Định nghĩa về hydro là một nguyên tố khí không có màu hoặc mùi và dễ cháy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The gas contains a certain amount of hydrogen and oxides of carbon, also traces of nitrogen.",
+            "vi": "Khí chứa một lượng hydro và oxit cacbon nhất định, cũng có thể là nitơ."
+        },
+        {
+            "en": "Dalton believed that the molecules of the elementary gases consisted each of one atom; his diagram for hydrogen gas makes the point clear.",
+            "vi": "Dalton tin rằng các phân tử của khí cơ bản bao gồm mỗi một nguyên tử; sơ đồ của ông cho khí hydro làm cho điểm rõ ràng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hydro"
+}

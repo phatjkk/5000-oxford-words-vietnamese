@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈtriv/"
+    ],
+    "synonyms": [
+        "get",
+        "recover",
+        "rescue",
+        "recoup",
+        "fetch"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Retrieve is defined as to find and bring or to bring back or restore, whether physically or mentally.",
+            "vi": "Truy xuất được định nghĩa là tìm và mang lại hoặc mang về hoặc khôi phục lại, cho dù về thể chất hay tinh thần."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a retrieve is a return of a ball that is difficult to get to in tennis.",
+            "vi": "Định nghĩa về một cú trả bóng là một cú trả bóng khó lấy được trong quần vợt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She dashed off to her room to retrieve it.",
+            "vi": "Cô chạy về phòng để lấy nó."
+        },
+        {
+            "en": "He eyed her warily and then leaned over to retrieve the bale.",
+            "vi": "Anh nhìn cô đầy cảnh giác và sau đó nghiêng người để lấy lại kiện hàng."
+        }
+    ],
+    "words_form": [
+        "retrieved",
+        "retrieves",
+        "retrieving"
+    ],
+    "meaning_vi": "lấy lại"
+}

@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/juzd/"
+    ],
+    "synonyms": [
+        "utilized",
+        "applied",
+        "adopted",
+        "practiced",
+        "suited"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "That has been used.",
+            "vi": "Điều đó đã được sử dụng."
+        },
+        {
+            "pos": "verb",
+            "en": "Use.",
+            "vi": "Sử dụng."
+        },
+        {
+            "pos": "idiom",
+            "en": "be (or get) used to  to be (or become) familiar with or accustomed to To get used to the rainy weather.",
+            "vi": "được (hoặc trở nên) quen với (hoặc trở nên) quen thuộc với hoặc quen với Để quen với thời tiết mưa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He used to be a pretty good mechanic.",
+            "vi": "Anh ấy từng là một thợ cơ khí khá giỏi."
+        },
+        {
+            "en": "He is selling a used vehicle that is five years old.",
+            "vi": "Anh ta đang bán một chiếc xe cũ đã được năm năm tuổi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đã sử dụng"
+}

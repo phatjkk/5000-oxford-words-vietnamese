@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈhɛlmət/"
+    ],
+    "synonyms": [
+        "crest",
+        "headgear",
+        "hard-hat",
+        "hat",
+        "headpiece"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A piece of armor, usually made of metal, designed to protect the head.",
+            "vi": "Một miếng áo giáp, thường làm bằng kim loại, được thiết kế để bảo vệ đầu."
+        },
+        {
+            "pos": "verb",
+            "en": "To provide with or put on a helmet.",
+            "vi": "Cung cấp hoặc đội mũ bảo hiểm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The other rider doffed her helmet, spilling waves of blond hair.",
+            "vi": "Người cưỡi ngựa kia hất mũ bảo hiểm xuống, làm đổ những làn tóc vàng."
+        },
+        {
+            "en": "The helmet was cracked down the entire length of the left side.",
+            "vi": "Mũ bảo hiểm bị nứt toàn bộ chiều dài bên trái."
+        }
+    ],
+    "words_form": [
+        "helmets"
+    ],
+    "meaning_vi": "mũ bảo hiểm"
+}

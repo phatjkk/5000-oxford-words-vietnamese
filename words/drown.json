@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/draʊn/"
+    ],
+    "synonyms": [
+        "submerge",
+        "drench",
+        "immerse",
+        "plunge",
+        "suffocate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To kill by suffocation in water or other liquid.",
+            "vi": "Để giết chết do ngạt thở trong nước hoặc chất lỏng khác."
+        },
+        {
+            "pos": "idiom",
+            "en": "drown (one's) sorrow  To try to forget one's troubles by drinking alcohol.",
+            "vi": "chết đuối (của một người) nỗi buồn Để cố gắng quên đi những rắc rối của một người bằng cách uống rượu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Unless you want to go up and see if we can drown them out.",
+            "vi": "Trừ khi bạn muốn đi lên và xem liệu chúng ta có thể át được chúng hay không."
+        },
+        {
+            "en": "A child can drown in literally inches of water.",
+            "vi": "Một đứa trẻ có thể bị chết đuối trong nước theo đúng nghĩa đen."
+        }
+    ],
+    "words_form": [
+        "drowned",
+        "drowning",
+        "drowns"
+    ],
+    "meaning_vi": "chết đuối"
+}

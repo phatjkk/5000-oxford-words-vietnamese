@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/baɪˈɑɡrəfi/"
+    ],
+    "synonyms": [
+        "life-history",
+        "memoir",
+        "experiences",
+        "autobiography",
+        "history"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of biography is a story written about someone's life.",
+            "vi": "Định nghĩa của biography là một câu chuyện viết về cuộc đời của một ai đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To write a biography of.",
+            "vi": "Để viết một tiểu sử của."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A biography was published by Le Laboureur, Histoire du mareschal de Guebriant, in 1656.",
+            "vi": "Một tiểu sử đã được xuất bản bởi Le Laboureur, Histoire du mareschal de Guebriant, vào năm 1656."
+        },
+        {
+            "en": "There is no good modern biography of Maecenas.",
+            "vi": "Không có tiểu sử hiện đại hay về Maecenas."
+        }
+    ],
+    "words_form": [
+        "biographies"
+    ],
+    "meaning_vi": "tiểu sử"
+}

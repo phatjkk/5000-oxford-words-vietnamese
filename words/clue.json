@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/klu/"
+    ],
+    "synonyms": [
+        "evidence",
+        "sign",
+        "tip-off",
+        "clew",
+        "hide"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To indicate by or as by a clue.",
+            "vi": "Để chỉ ra bằng hoặc bằng một manh mối."
+        },
+        {
+            "pos": "noun",
+            "en": "(now rare) A strand of yarn etc. as used to guide one through a labyrinth; something which points the way, a guide.",
+            "vi": "(nay hiếm) Một sợi sợi, v.v ... được sử dụng để dẫn người ta qua mê cung; một cái gì đó chỉ đường, một hướng dẫn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You have no clue, girl.",
+            "vi": "Bạn không có manh mối, cô gái."
+        },
+        {
+            "en": "Howie doesn't have a clue so I thought I'd help him out.",
+            "vi": "Howie không có manh mối nên tôi nghĩ mình sẽ giúp anh ta."
+        }
+    ],
+    "words_form": [
+        "clued",
+        "clueing",
+        "clues",
+        "cluing"
+    ],
+    "meaning_vi": "đầu mối"
+}

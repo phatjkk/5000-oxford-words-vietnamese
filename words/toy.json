@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tɔɪ/"
+    ],
+    "synonyms": [
+        "knickknack",
+        "doll",
+        "miniature",
+        "yoyo",
+        "small"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Toy is defined as something to play with, or something small.",
+            "vi": "Đồ chơi được định nghĩa là một thứ gì đó để chơi cùng, hoặc một thứ gì đó nhỏ."
+        },
+        {
+            "pos": "verb",
+            "en": "To amuse oneself idly; trifle.",
+            "vi": "Để tự vui vẻ một cách vu vơ; chuyện vặt vãnh."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating a breed of dog of a kind smaller than a miniature, kept typically as a lap dog.",
+            "vi": "Chỉ định một giống chó nhỏ hơn loại chó nhỏ, thường được nuôi làm chó cảnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Alfonso put down his toy and looked uncertain.",
+            "vi": "Alfonso đặt món đồ chơi của mình xuống và tỏ vẻ không chắc chắn."
+        },
+        {
+            "en": "They are pleased as a kid with a new toy just to get our tips.",
+            "vi": "Chúng hài lòng như một đứa trẻ với một món đồ chơi mới chỉ để nhận được những lời khuyên của chúng tôi."
+        }
+    ],
+    "words_form": [
+        "toyed",
+        "toying",
+        "toys"
+    ],
+    "meaning_vi": "Đồ chơi"
+}

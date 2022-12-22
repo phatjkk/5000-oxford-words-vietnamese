@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/heɪ/"
+    ],
+    "synonyms": [
+        "greetings",
+        "hi",
+        "howdy",
+        "welcome",
+        "bonjour"
+    ],
+    "meaning": [
+        {
+            "pos": "interjection",
+            "en": "Used to express greeting.",
+            "vi": "Dùng để thể hiện lời chào."
+        },
+        {
+            "pos": "noun",
+            "en": "(country dancing) A choreographic figure in which the dancers weave between one another.",
+            "vi": "(múa đồng quê) Một hình vũ đạo trong đó các vũ công đan xen vào nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Hey, fella... you awake?",
+            "vi": "Này, anh bạn ... anh tỉnh rồi à?"
+        },
+        {
+            "en": "Hey. Where are you going?",
+            "vi": "Này. Bạn đi đâu?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "interjection",
+            "en": "Used to express greeting.",
+            "vi": "Dùng để thể hiện lời chào."
+        },
+        {
+            "pos": "noun",
+            "en": "(country dancing) A choreographic figure in which the dancers weave between one another.",
+            "vi": "(múa đồng quê) Một hình vũ đạo trong đó các vũ công đan xen vào nhau."
+        }
+    ]
+}

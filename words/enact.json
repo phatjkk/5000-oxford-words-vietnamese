@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ɛnˈækt/",
+        "/ɪnˈækt/"
+    ],
+    "synonyms": [
+        "dictate",
+        "pass",
+        "vote-in",
+        "impersonate",
+        "ratify"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make into law.",
+            "vi": "Để làm thành luật."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) Purpose; determination.",
+            "vi": "(lỗi thời) Mục đích; sự quyết tâm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maine was the first state in the Union to enact a law for prohibiting the sale of intoxicating liquors.",
+            "vi": "Maine là bang đầu tiên trong Liên minh ban hành luật cấm bán các loại rượu gây say."
+        },
+        {
+            "en": "Until 1902 the legislature was the sole law-making body in the state, but on the 2nd of June of this year the voters adopted a constitutional amendment which declared that \"the people reserve to themselves power to propose laws and amendments to the constitution, and to enact or reject the same at the polls, independent of the legislative assembly, and also reserve power at their own option to approve or reject at the polls any act of the legislative assembly.\"",
+            "vi": "Cho đến năm 1902, cơ quan lập pháp là cơ quan xây dựng luật duy nhất trong tiểu bang, nhưng vào ngày 2 tháng 6 năm nay, các cử tri đã thông qua một bản sửa đổi hiến pháp tuyên bố rằng \"người dân dành cho mình quyền đề xuất luật và sửa đổi hiến pháp, và ban hành hoặc bác bỏ điều tương tự tại các cuộc bỏ phiếu, độc lập với quốc hội lập pháp, và cũng có quyền lực theo lựa chọn của riêng họ để phê chuẩn hoặc bác bỏ tại các cuộc bỏ phiếu bất kỳ hành động nào của quốc hội lập pháp. \""
+        }
+    ],
+    "words_form": [
+        "enacted",
+        "enacting",
+        "enacts"
+    ],
+    "meaning_vi": "Ban hành"
+}

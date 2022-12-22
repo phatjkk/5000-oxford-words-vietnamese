@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ɪnˈvɛn(t)ʃ(ə)n/"
+    ],
+    "synonyms": [
+        "creation",
+        "inventiveness",
+        "imagination",
+        "creativity",
+        "fiction"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or process of inventing.",
+            "vi": "Hành động hoặc quá trình phát minh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The invention of the damper-pedal in the pianoforte epitomizes the difference between polyphony and symphonic art, for it is the earliest device by which sounds are produced and prolonged in a way contrary to the spirit of \"real\" part-writing.",
+            "vi": "Việc phát minh ra bàn đạp điều tiết trong loại đàn piano biểu thị sự khác biệt giữa nghệ thuật đa âm sắc và nghệ thuật giao hưởng, vì nó là thiết bị sớm nhất mà âm thanh được tạo ra và kéo dài theo cách trái ngược với tinh thần của việc viết một phần \"thực\"."
+        },
+        {
+            "en": "The invention of the railroad was a milestone in the history of transportation.",
+            "vi": "Việc phát minh ra đường sắt là một cột mốc quan trọng trong lịch sử giao thông vận tải."
+        }
+    ],
+    "words_form": [
+        "inventions"
+    ],
+    "meaning_vi": "sự phát minh"
+}

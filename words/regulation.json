@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌrɛɡ(j)əˈleɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "standardization",
+        "codification",
+        "prescript",
+        "statutory",
+        "command"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Usual; normal; ordinary; regular.",
+            "vi": "Bình thường; thông thường; bình thường; thường xuyên."
+        },
+        {
+            "pos": "noun",
+            "en": "A rule, ordinance, or law by which conduct, etc. is regulated; specif., one of a body of rules or laws governing an industry, institution, or type of business.",
+            "vi": "Một quy tắc, pháp lệnh hoặc luật mà hành vi, v.v. được quy định; specif., một trong số các quy tắc hoặc luật điều chỉnh một ngành, tổ chức hoặc loại hình kinh doanh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "More pressing even than that question was the regulation of local government.",
+            "vi": "Bức xúc hơn cả câu hỏi đó là quy định của chính quyền địa phương."
+        },
+        {
+            "en": "If a soldier, he should be dressed in regulation uniform like the others.",
+            "vi": "Nếu là quân nhân, anh ta nên mặc quân phục theo quy định như những người khác."
+        }
+    ],
+    "words_form": [
+        "regulations"
+    ],
+    "meaning_vi": "quy định"
+}

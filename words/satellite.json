@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈsædlˌaɪt/"
+    ],
+    "synonyms": [
+        "planetoid",
+        "partisan",
+        "moon",
+        "follower",
+        "space-station"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a satellite is a natural body revolving around a planet, a branch of a larger company, country, etc. that is located way from the main part or a device used to orbit in space.",
+            "vi": "Định nghĩa vệ tinh là một vật thể tự nhiên xoay quanh một hành tinh, một chi nhánh của một công ty lớn hơn, quốc gia, v.v. nằm cách bộ phận chính hoặc một thiết bị được sử dụng để quay quanh không gian."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or being a satellite.",
+            "vi": "Của, liên quan đến, hoặc là một vệ tinh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "More data will come online, from satellite images to sensor readings.",
+            "vi": "Nhiều dữ liệu sẽ được đưa lên mạng, từ hình ảnh vệ tinh đến các chỉ số cảm biến."
+        },
+        {
+            "en": "The mountainous configuration of the moon's surface was there first described, and the so-called \"phosphorescence\" of the dark portion of our satellite attributed to its true cause--namely, illumination by sunlight reflected from the earth.",
+            "vi": "Cấu hình miền núi của bề mặt mặt trăng lần đầu tiên được mô tả ở đó, và cái gọi là \"sự phát quang\" của phần tối trên vệ tinh của chúng ta là do nguyên nhân thực sự của nó - cụ thể là sự chiếu sáng bởi ánh sáng mặt trời phản chiếu từ trái đất."
+        }
+    ],
+    "words_form": [
+        "satellites"
+    ],
+    "meaning_vi": "vệ tinh"
+}

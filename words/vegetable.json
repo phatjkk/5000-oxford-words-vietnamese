@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈvɛdʒtəb(ə)l/",
+        "/ˈvədʒədəb(ə)l/"
+    ],
+    "synonyms": [
+        "green",
+        "inactive",
+        "flourishing",
+        "herb",
+        "legume"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a vegetable is a person that is no longer able to mentally function.",
+            "vi": "Định nghĩa về rau là người không còn khả năng hoạt động trí óc."
+        },
+        {
+            "pos": "adjective",
+            "en": "Vegetable means anything having to do with plants.",
+            "vi": "Rau có nghĩa là bất cứ thứ gì liên quan đến thực vật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Today, I have a vegetable garden in my backyard.",
+            "vi": "Hôm nay, tôi có một vườn rau ở sân sau của tôi."
+        },
+        {
+            "en": "This regulation of turgor is as characteristic of vegetable protoplasm as contraction is of muscle.",
+            "vi": "Sự điều hòa này là đặc trưng của nguyên sinh chất thực vật cũng như sự co bóp của cơ."
+        }
+    ],
+    "words_form": [
+        "vegetables"
+    ],
+    "meaning_vi": "rau"
+}

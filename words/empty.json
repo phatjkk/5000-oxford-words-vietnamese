@@ -1,0 +1,52 @@
+{
+    "spelling": [
+        "/ˈɛm(p)ti/"
+    ],
+    "synonyms": [
+        "unfilled",
+        "lacking",
+        "exhausted",
+        "hollow",
+        "void"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of empty is having or containing nothing, or having no worth, meaning or value.",
+            "vi": "Định nghĩa của rỗng là không có hoặc không chứa gì, hoặc không có giá trị, ý nghĩa hoặc giá trị."
+        },
+        {
+            "pos": "verb",
+            "en": "Empty is defined as to remove all of something.",
+            "vi": "Rỗng được định nghĩa là để loại bỏ tất cả một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "An empty container.",
+            "vi": "Một thùng rỗng."
+        },
+        {
+            "pos": "idiom",
+            "en": "empty of  lacking; without; devoid of",
+            "vi": "trống không của thiếu; không có; không có"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "My house was not empty though I was gone.",
+            "vi": "Căn nhà của tôi không còn trống dù tôi đã ra đi."
+        },
+        {
+            "en": "It was an empty vodka bottle.",
+            "vi": "Đó là một chai vodka rỗng."
+        }
+    ],
+    "words_form": [
+        "emptied",
+        "emptier",
+        "empties",
+        "emptiest",
+        "emptying"
+    ],
+    "meaning_vi": "vắng, trống vắng, rỗng, trống không"
+}

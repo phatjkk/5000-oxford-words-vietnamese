@@ -1,0 +1,65 @@
+{
+    "spelling": [
+        "/ɛnd/"
+    ],
+    "synonyms": [
+        "finale",
+        "conclusion",
+        "arrangement",
+        "swan-song",
+        "epilogue"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something toward which one strives; a goal.",
+            "vi": "Một cái gì đó hướng tới mà một trong những phấn đấu; mục tiêu."
+        },
+        {
+            "pos": "verb",
+            "en": "To come to a finish; cease.",
+            "vi": "Để đi đến kết thúc; ngưng."
+        },
+        {
+            "pos": "adjective",
+            "en": "At the end; final.",
+            "vi": "Cuối cùng; cuối cùng."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Endorse.",
+            "vi": "Chứng thực."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Den, den, DNE, NDE, NED, Ned, ned.",
+            "vi": "Den, den, DNE, NDE, NED, Ned, ned."
+        },
+        {
+            "pos": "suffix",
+            "en": "A suffix forming nouns denoting patients or recipients of actions, such as addend, subtrahend, and dividend.",
+            "vi": "Hậu tố tạo thành danh từ biểu thị bệnh nhân hoặc người nhận hành động, chẳng hạn như addend, subtrahend và cổ tức."
+        },
+        {
+            "pos": "idiom",
+            "en": "at the end of (one's) rope  Out of energy or patience; exhausted or exasperated.",
+            "vi": "ở cuối sợi dây của (một người) Hết năng lượng hoặc sự kiên nhẫn; kiệt sức hoặc bực tức."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In the end, there was no choice.",
+            "vi": "Cuối cùng, không có sự lựa chọn."
+        },
+        {
+            "en": "Carmen thought that might be the end of the conflict.",
+            "vi": "Carmen nghĩ rằng đó có thể là dấu chấm hết cho cuộc xung đột."
+        }
+    ],
+    "words_form": [
+        "ended",
+        "ending",
+        "ends"
+    ],
+    "meaning_vi": "kết thúc"
+}

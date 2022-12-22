@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/væn/"
+    ],
+    "synonyms": [
+        "caravan",
+        "avant-garde",
+        "trailer",
+        "wagon",
+        "vanguard"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a van is a closed truck that carries people, animals or things.",
+            "vi": "Định nghĩa của một chiếc xe tải là một chiếc xe tải kín để chở người, động vật hoặc đồ vật."
+        },
+        {
+            "pos": "verb",
+            "en": "To transport by van.",
+            "vi": "Để vận chuyển bằng xe van."
+        },
+        {
+            "pos": "preposition",
+            "en": "Of or from.",
+            "vi": "Của hoặc từ."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) Salt lake in E Turkey: c. 1,450 sq mi (3,755 sq km)",
+            "vi": "(địa điểm) Hồ muối ở E Thổ Nhĩ Kỳ: c. 1.450 sq mi (3.755 sq km)"
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Abbreviation of Vancouver.",
+            "vi": "Viết tắt của Vancouver."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The van was in a road side pull off.",
+            "vi": "Chiếc xe đang ở bên đường."
+        },
+        {
+            "en": "The three of us were outside and secure in my new van without further incident.",
+            "vi": "Ba chúng tôi đã ở bên ngoài và an toàn trong chiếc xe tải mới của tôi mà không xảy ra sự cố gì thêm."
+        }
+    ],
+    "words_form": [
+        "vanned",
+        "vanning",
+        "vans"
+    ],
+    "meaning_vi": "xe van"
+}

@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈmeɪnli/"
+    ],
+    "synonyms": [
+        "chiefly",
+        "largely",
+        "essentially",
+        "principally",
+        "primarily"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "For the most part; chiefly.",
+            "vi": "Phần lớn; chủ yếu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He seemed mainly angry.",
+            "vi": "Anh ấy dường như chủ yếu là tức giận."
+        },
+        {
+            "en": "It is inhabited mainly by Uzbegs.",
+            "vi": "Nó là nơi sinh sống chủ yếu của người Uzbekistan."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chủ yếu"
+}

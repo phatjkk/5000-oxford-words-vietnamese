@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/bædʒ/"
+    ],
+    "synonyms": [
+        "laurels",
+        "sign",
+        "marker",
+        "kudos",
+        "sigil"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a badge is a distinct mark, identifying signal or mark of allegiance.",
+            "vi": "Định nghĩa của một huy hiệu là một dấu hiệu riêng biệt, tín hiệu nhận biết hoặc dấu hiệu của lòng trung thành."
+        },
+        {
+            "pos": "verb",
+            "en": "To mark or provide with a badge.",
+            "vi": "Để đánh dấu hoặc cung cấp bằng một huy hiệu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He showed his badge, inches from the man's face.",
+            "vi": "Anh ta đưa ra huy hiệu của mình, cách mặt người đàn ông vài inch."
+        },
+        {
+            "en": "Dean showed his badge and after determining Fred was unhurt, returned to the bar.",
+            "vi": "Dean trưng ra huy hiệu của mình và sau khi xác định Fred không bị thương, quay trở lại quán bar."
+        }
+    ],
+    "words_form": [
+        "badged",
+        "badges",
+        "badging"
+    ],
+    "meaning_vi": "huy hiệu"
+}

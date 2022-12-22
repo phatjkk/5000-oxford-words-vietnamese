@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/raɪz/"
+    ],
+    "synonyms": [
+        "surmount",
+        "soaring",
+        "growth",
+        "heightening",
+        "doubling"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To move from a lower to a higher position; ascend.",
+            "vi": "Để chuyển từ vị trí thấp hơn lên vị trí cao hơn; lên."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of rising; an ascent.",
+            "vi": "Hành động vươn lên; một sự đi lên."
+        },
+        {
+            "pos": "idiom",
+            "en": "get a rise out of  to draw a desired response from by teasing or provoking",
+            "vi": "vươn lên để thu hút phản ứng mong muốn bằng cách trêu chọc hoặc khiêu khích"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She started to rise from her chair.",
+            "vi": "Cô ấy bắt đầu đứng dậy khỏi ghế."
+        },
+        {
+            "en": "Lisa started to rise from her chair, but Giddon was faster.",
+            "vi": "Lisa bắt đầu đứng dậy khỏi ghế, nhưng Giddon nhanh hơn."
+        }
+    ],
+    "words_form": [
+        "risen",
+        "rises",
+        "rising",
+        "rose"
+    ],
+    "meaning_vi": "tăng lên"
+}

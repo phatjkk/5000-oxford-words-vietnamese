@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ɡrup/"
+    ],
+    "synonyms": [
+        "society",
+        "consortium",
+        "bundle",
+        "bunch",
+        "crowd"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of group is to collect two or more people or things together.",
+            "vi": "Định nghĩa của nhóm là tập hợp hai hoặc nhiều người hoặc nhiều thứ cùng nhau."
+        },
+        {
+            "pos": "noun",
+            "en": "An assemblage of persons or objects gathered or located together; an aggregation.",
+            "vi": "Một tập hợp những người hoặc đồ vật được tập hợp hoặc nằm cùng nhau; một tập hợp."
+        },
+        {
+            "pos": "adjective",
+            "en": "Group is defined as something related to a collection or a number of people or things.",
+            "vi": "Nhóm được định nghĩa là một cái gì đó liên quan đến một bộ sưu tập hoặc một số người hoặc sự vật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He stopped, watching a group of freight wagons.",
+            "vi": "Anh dừng lại, quan sát một đoàn xe chở hàng."
+        },
+        {
+            "en": "The group of prisoners had melted away most of all.",
+            "vi": "Nhóm tù nhân đã tan rã gần hết."
+        }
+    ],
+    "words_form": [
+        "grouped",
+        "groups"
+    ],
+    "meaning_vi": "nhóm"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɡɑrd/"
+    ],
+    "synonyms": [
+        "care",
+        "watchman",
+        "curator",
+        "warder",
+        "patrolman"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A device or attachment that prevents injury, damage, or loss, especially:  An attachment or covering put on a machine to protect the operator or a part of the machine. A device on a foil, sword, or knife that protects the hand. A padded covering worn to protect a body part from injury. A shin guard.A small chain or band attached to a watch or bracelet to prevent loss. A ring worn to prevent a more valuable ring from sliding off the finger.",
+            "vi": "Một thiết bị hoặc phần đính kèm ngăn ngừa thương tích, hư hỏng hoặc mất mát, đặc biệt: Phần đính kèm hoặc lớp bọc được đặt trên máy để bảo vệ người vận hành hoặc một bộ phận của máy. Một thiết bị trên giấy bạc, kiếm hoặc dao để bảo vệ bàn tay. Một lớp phủ đệm được mặc để bảo vệ một bộ phận cơ thể khỏi bị thương. Một bộ bảo vệ ống chân: Một sợi dây chuyền hoặc dải nhỏ được gắn vào đồng hồ hoặc vòng tay để tránh bị mất. Một chiếc nhẫn được đeo để ngăn chiếc nhẫn có giá trị hơn bị trượt khỏi ngón tay."
+        },
+        {
+            "pos": "verb",
+            "en": "To serve as a guard.",
+            "vi": "Để phục vụ như một người bảo vệ."
+        },
+        {
+            "pos": "idiom",
+            "en": "off (one's) guard  Not alert; unprepared.",
+            "vi": "mất cảnh giác (của một người) Không cảnh giác; không chuẩn bị."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I heard you were a guard at Cañon City.",
+            "vi": "Tôi nghe nói bạn là lính canh ở thành phố Cañon."
+        },
+        {
+            "en": "\"Alright. Take up guard here,\" he said, moving away.",
+            "vi": "\"Được rồi. Hãy đề phòng ở đây,\" anh nói, quay đi."
+        }
+    ],
+    "words_form": [
+        "guarded",
+        "guarding",
+        "guards"
+    ],
+    "meaning_vi": "bảo vệ"
+}

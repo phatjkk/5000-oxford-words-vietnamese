@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈɪndəˌkeɪdər/"
+    ],
+    "synonyms": [
+        "notice",
+        "index",
+        "symbol",
+        "pointer",
+        "index number"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Any of various statistical values that together provide an indication of the condition or direction of the economy.",
+            "vi": "Bất kỳ giá trị thống kê nào trong số các giá trị thống kê khác nhau cùng cung cấp chỉ báo về tình trạng hoặc hướng đi của nền kinh tế."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A taxonomic genus within the family Indicatoridae.",
+            "vi": "Một chi phân loại trong họ Indicatoridae."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The crane is associated with her as an indicator of the weather.",
+            "vi": "Con hạc được liên kết với cô ấy như một chỉ báo của thời tiết."
+        },
+        {
+            "en": "Indicator diagram corresponding to 1 lb.",
+            "vi": "Sơ đồ chỉ thị tương ứng với 1 lb."
+        }
+    ],
+    "words_form": [
+        "indicators"
+    ],
+    "meaning_vi": "chỉ số"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/bræn(t)ʃ/"
+    ],
+    "synonyms": [
+        "tributary",
+        "office",
+        "outpost",
+        "station",
+        "chapter"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a branch is a part of a plant stem or a part of something which is larger and more complex.",
+            "vi": "Định nghĩa về một nhánh là một phần của thân cây hoặc một phần của cái gì đó lớn hơn và phức tạp hơn."
+        },
+        {
+            "pos": "verb",
+            "en": "To put forth a branch or branches; spread by dividing.",
+            "vi": "Để đưa ra một nhánh hoặc các nhánh; lây lan bằng cách phân chia."
+        },
+        {
+            "pos": "idiom",
+            "en": "branch off  to separate into branches; fork to go off in another direction; diverge",
+            "vi": "phân cành để tách thành cành; ngã ba để đi theo hướng khác; phân ra"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I've been studying culinary arts for a few years and recently decided to branch out on my own.",
+            "vi": "Tôi đã học nghệ thuật ẩm thực được vài năm và gần đây đã quyết định mở ngành của riêng mình."
+        },
+        {
+            "en": "It's the closest city with a World Wide branch to Parkside.",
+            "vi": "Đây là thành phố gần nhất có chi nhánh World Wide cho Parkside."
+        }
+    ],
+    "words_form": [
+        "branched",
+        "branches",
+        "branching"
+    ],
+    "meaning_vi": "chi nhánh"
+}

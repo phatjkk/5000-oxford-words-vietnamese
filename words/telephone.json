@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈtɛləˌfoʊn/"
+    ],
+    "synonyms": [
+        "words",
+        "switchboard",
+        "buzz",
+        "mouthpiece",
+        "party line"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Telephone means to call someone or make a phone call.",
+            "vi": "Điện thoại có nghĩa là để gọi cho ai đó hoặc thực hiện một cuộc điện thoại."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a telephone is a system used to send speech or data over distances using a device called a telephone that functions as the transmitter and receiver.",
+            "vi": "Định nghĩa về điện thoại là một hệ thống được sử dụng để gửi lời nói hoặc dữ liệu trong khoảng cách sử dụng một thiết bị được gọi là điện thoại có chức năng như máy phát và máy thu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The voice on the telephone became urgent.",
+            "vi": "Giọng nói trên điện thoại trở nên gấp gáp."
+        },
+        {
+            "en": "A ringing telephone interrupted us.",
+            "vi": "Một cuộc điện thoại đổ chuông làm gián đoạn chúng tôi."
+        }
+    ],
+    "words_form": [
+        "telephoned",
+        "telephones",
+        "telephoning"
+    ],
+    "meaning_vi": "điện thoại"
+}

@@ -1,0 +1,65 @@
+{
+    "spelling": [
+        "/lænd/"
+    ],
+    "synonyms": [
+        "clay",
+        "touch down",
+        "sand",
+        "debark",
+        "close"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The solid ground of the earth.",
+            "vi": "Nền đất vững chắc của trái đất."
+        },
+        {
+            "pos": "verb",
+            "en": "Land is defined as to bring something back to earth or to shore, or to achieve something or get something.",
+            "vi": "Đất được định nghĩa là mang một thứ gì đó trở lại trái đất hoặc lên bờ, hoặc để đạt được điều gì đó hoặc đạt được điều gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Residing or growing on land.",
+            "vi": "Cư trú hoặc phát triển trên cạn."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1909-91; U.S. physicist, inventor, & industrialist.",
+            "vi": "(người) 1909-91; Nhà vật lý, nhà phát minh và nhà công nghiệp Hoa Kỳ."
+        },
+        {
+            "pos": "affix",
+            "en": "A kind or quality of land.",
+            "vi": "Một loại hoặc chất lượng đất."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "land on  to scold or criticize severely",
+            "vi": "tiếp đất để mắng mỏ hoặc chỉ trích nặng nề"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They filled the land with terror.",
+            "vi": "Họ kinh hoàng lấp đầy đất."
+        },
+        {
+            "en": "I don't know anything about that land up there.",
+            "vi": "Tôi không biết gì về vùng đất trên đó."
+        }
+    ],
+    "words_form": [
+        "landed",
+        "landing",
+        "lands"
+    ],
+    "meaning_vi": "đất đai"
+}

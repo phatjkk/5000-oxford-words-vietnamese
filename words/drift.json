@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/drɪft/"
+    ],
+    "synonyms": [
+        "course",
+        "scope",
+        "tone",
+        "bent",
+        "tenor"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To vary from or oscillate randomly about a fixed setting, position, or mode of operation.",
+            "vi": "Thay đổi hoặc dao động ngẫu nhiên về một cài đặt, vị trí hoặc phương thức hoạt động cố định."
+        },
+        {
+            "pos": "noun",
+            "en": "A being driven or carried along, as by a current of air or water or by circumstances.",
+            "vi": "Đang được thúc đẩy hoặc mang theo, như dòng không khí hoặc nước hoặc hoàn cảnh."
+        },
+        {
+            "pos": "idiom",
+            "en": "drift apart  to gradually lose interest in or affection for each other",
+            "vi": "xa nhau để dần dần không còn hứng thú hay tình cảm với nhau"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She couldn't let this moment drift by.",
+            "vi": "Cô không thể để giây phút này trôi qua."
+        },
+        {
+            "en": "I hope we never drift apart that way again.",
+            "vi": "Tôi hy vọng chúng ta sẽ không bao giờ rời xa nhau theo cách đó nữa."
+        }
+    ],
+    "words_form": [
+        "drifted",
+        "drifting",
+        "drifts"
+    ],
+    "meaning_vi": "trôi dạt"
+}

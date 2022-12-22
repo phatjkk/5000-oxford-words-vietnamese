@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈɑrdək(ə)l/"
+    ],
+    "synonyms": [
+        "report",
+        "item",
+        "substance",
+        "commodity",
+        "chapter"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A particular section or item of a series in a written document, as in a contract, constitution, or treaty.",
+            "vi": "Một phần hoặc mục cụ thể của một loạt trong một tài liệu văn bản, như trong hợp đồng, hiến pháp hoặc hiệp ước."
+        },
+        {
+            "pos": "verb",
+            "en": "To bind by articles set forth in a contract, such as one of apprenticeship.",
+            "vi": "Để ràng buộc bởi các điều khoản quy định trong hợp đồng, chẳng hạn như một trong những học việc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The newspaper included a photo with the article about the wreck.",
+            "vi": "Tờ báo đã đăng kèm một bức ảnh với bài báo về xác tàu."
+        },
+        {
+            "en": "Dean recalled reading the same article in his copy.",
+            "vi": "Dean nhớ lại đã đọc cùng một bài báo trong bản sao của mình."
+        }
+    ],
+    "words_form": [
+        "articled",
+        "articles",
+        "articling"
+    ],
+    "meaning_vi": "bài báo"
+}

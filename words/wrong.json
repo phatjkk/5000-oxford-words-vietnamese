@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/rɔŋ/"
+    ],
+    "synonyms": [
+        "incorrect",
+        "misconstrued",
+        "false",
+        "immoral",
+        "erroneous"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Wrong describes something that is unlawful, improper, immoral or incorrect.",
+            "vi": "Sai mô tả điều gì đó bất hợp pháp, không đúng, trái đạo đức hoặc không chính xác."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a wrong is something that is not correct, legal or moral.",
+            "vi": "Định nghĩa về cái sai là cái gì đó không đúng, không hợp pháp hay đạo đức."
+        },
+        {
+            "pos": "verb",
+            "en": "To wrong is to act improperly towards someone or to improperly accuse someone of something bad.",
+            "vi": "Sai là hành động không đúng đối với ai đó hoặc buộc tội ai đó về điều gì đó xấu."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a wrong manner; mistakenly or erroneously.",
+            "vi": "Một cách sai lầm; nhầm lẫn hoặc nhầm lẫn."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) do (someone) wrong  To be unfaithful or disloyal.",
+            "vi": "(không chính thức) làm (ai đó) sai Không trung thành hoặc không trung thành."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Sometimes I make a mistake and do the wrong thing.",
+            "vi": "Đôi khi tôi mắc sai lầm và làm điều sai trái."
+        },
+        {
+            "en": "I can neither punish him if he does wrong nor reward him if he does right.",
+            "vi": "Tôi không thể trừng phạt anh ta nếu anh ta làm sai và thưởng cho anh ta nếu anh ta làm đúng."
+        }
+    ],
+    "words_form": [
+        "wronged",
+        "wrongs"
+    ],
+    "meaning_vi": "sai rồi"
+}

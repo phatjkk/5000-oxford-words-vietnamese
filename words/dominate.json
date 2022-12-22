@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈdɑməˌneɪt/"
+    ],
+    "synonyms": [
+        "control",
+        "occupy",
+        "intimidate",
+        "boss",
+        "follow"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To rule or control by superior power or influence.",
+            "vi": "Để cai trị hoặc kiểm soát bởi quyền lực hoặc ảnh hưởng cấp trên."
+        },
+        {
+            "pos": "noun",
+            "en": "(tennis) A powerful underarm volley shot.",
+            "vi": "(quần vợt) Một cú vô lê dưới cánh tay mạnh mẽ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Alex didn't dominate her.",
+            "vi": "Alex không thống trị cô ấy."
+        },
+        {
+            "en": "Different ideals dominate the party in the different states.",
+            "vi": "Các lý tưởng khác nhau thống trị đảng ở các bang khác nhau."
+        }
+    ],
+    "words_form": [
+        "dominated",
+        "dominates",
+        "dominating"
+    ],
+    "meaning_vi": "thống trị"
+}

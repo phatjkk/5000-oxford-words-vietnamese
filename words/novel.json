@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈnɑvəl/"
+    ],
+    "synonyms": [
+        "book",
+        "story",
+        "unique",
+        "new",
+        "best-seller"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of novel is something new or different.",
+            "vi": "Định nghĩa về tiểu thuyết là một cái gì đó mới hoặc khác."
+        },
+        {
+            "pos": "noun",
+            "en": "Novel is defined as a fictional book.",
+            "vi": "Tiểu thuyết được định nghĩa là một cuốn sách hư cấu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Sounds like a dime novel, doesn't it?",
+            "vi": "Nghe giống như một cuốn tiểu thuyết, phải không?"
+        },
+        {
+            "en": "Her first independent novel, Indiana, was written.",
+            "vi": "Cuốn tiểu thuyết độc lập đầu tiên của cô, Indiana, được viết."
+        }
+    ],
+    "words_form": [
+        "novels"
+    ],
+    "meaning_vi": "cuốn tiểu thuyết"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɪnˈklud/"
+    ],
+    "synonyms": [
+        "comprise",
+        "hold",
+        "eliminate",
+        "include",
+        "consist of"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To have as part of a whole; contain; comprise.",
+            "vi": "Để có như một phần của tổng thể; Lưu trữ; bao gồm."
+        },
+        {
+            "pos": "noun",
+            "en": "(computing) A piece of source code or other content that is dynamically retrieved for inclusion in another item.",
+            "vi": "(máy tính) Một đoạn mã nguồn hoặc nội dung khác được truy xuất động để đưa vào một mục khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His gaze shifted to include Carmen.",
+            "vi": "Ánh mắt anh chuyển sang bao gồm Carmen."
+        },
+        {
+            "en": "His published works include numerous sermons and addresses.",
+            "vi": "Các tác phẩm đã xuất bản của ông bao gồm nhiều bài giảng và địa chỉ."
+        }
+    ],
+    "words_form": [
+        "included",
+        "includes",
+        "including"
+    ],
+    "meaning_vi": "bao gồm"
+}

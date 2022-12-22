@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/weɪst/"
+    ],
+    "synonyms": [
+        "garbage",
+        "dreary",
+        "throw away",
+        "ruin",
+        "wilderness"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Waste is defined as to destroy, wear away or use up.",
+            "vi": "Chất thải được định nghĩa là để tiêu hủy, làm hao mòn hoặc sử dụng hết."
+        },
+        {
+            "pos": "noun",
+            "en": "Waste is matter excreted from the body, or unwanted or discarded matter.",
+            "vi": "Chất thải là chất thải ra khỏi cơ thể, hoặc chất không mong muốn hoặc bị loại bỏ."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of waste is a wild or uninhabited place.",
+            "vi": "Định nghĩa về chất thải là một nơi hoang dã hoặc không có người ở."
+        },
+        {
+            "pos": "idiom",
+            "en": "waste (one's) breath  To gain or accomplish nothing by speaking.",
+            "vi": "lãng phí hơi thở (của một người) Để đạt được hoặc không đạt được gì bằng cách nói."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Gabe didn't waste time.",
+            "vi": "Gabe không lãng phí thời gian."
+        },
+        {
+            "en": "The reactor area, the storage and logistical areas, and the hazardous waste areas appeared untouched.",
+            "vi": "Khu vực lò phản ứng, kho chứa, khu hậu cần và khu chất thải nguy hại còn nguyên vẻ hoang sơ."
+        }
+    ],
+    "words_form": [
+        "wasted",
+        "wastes",
+        "wasting"
+    ],
+    "meaning_vi": "chất thải"
+}

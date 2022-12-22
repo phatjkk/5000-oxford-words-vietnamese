@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈliɡəl/"
+    ],
+    "synonyms": [
+        "statutory",
+        "official",
+        "licit",
+        "justified",
+        "constitutional"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of legal is something connected to law or a government’s system of rules.",
+            "vi": "Định nghĩa của pháp luật là một cái gì đó liên quan đến luật pháp hoặc hệ thống các quy tắc của chính phủ."
+        },
+        {
+            "pos": "noun",
+            "en": "A legal notice, especially an advertisement.",
+            "vi": "Một thông báo pháp lý, đặc biệt là một quảng cáo."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A town in Alberta, Canada.",
+            "vi": "Một thị trấn ở Alberta, Canada."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Even though she had made most of the payments on the land, he still had legal claim.",
+            "vi": "Mặc dù bà đã thực hiện hầu hết các khoản thanh toán trên đất, ông vẫn có quyền yêu cầu hợp pháp."
+        },
+        {
+            "en": "I don't like messing with the legal system.",
+            "vi": "Tôi không thích gây rối với hệ thống luật pháp."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hợp pháp; pháp lý"
+}

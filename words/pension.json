@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈpɛnʃən/"
+    ],
+    "synonyms": [
+        "premium",
+        "payment",
+        "subvention",
+        "allowance",
+        "subsidy"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a pension is a regular payment made by an employer or the government, typically to provide retirees with income.",
+            "vi": "Định nghĩa về lương hưu là một khoản thanh toán thường xuyên do người sử dụng lao động hoặc chính phủ thực hiện, thường để cung cấp thu nhập cho người về hưu."
+        },
+        {
+            "pos": "verb",
+            "en": "To grant a pension to.",
+            "vi": "Để cấp một khoản lương hưu cho."
+        },
+        {
+            "pos": "idiom",
+            "en": "pension off  to dismiss from service, with a pension",
+            "vi": "nghỉ hưu để sa thải khỏi công việc, với một khoản lương hưu"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We had full medical insurance and a pension program.",
+            "vi": "Chúng tôi đã có bảo hiểm y tế đầy đủ và một chương trình lương hưu."
+        },
+        {
+            "en": "Twelve hundred francs' pension for life.",
+            "vi": "Mười hai trăm franc tiền trợ cấp cho cuộc sống."
+        }
+    ],
+    "words_form": [
+        "pensions"
+    ],
+    "meaning_vi": "lương hưu"
+}

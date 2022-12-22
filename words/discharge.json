@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dɪsˈtʃɑrdʒ/"
+    ],
+    "synonyms": [
+        "can",
+        "explosion",
+        "delegation",
+        "empty",
+        "take off"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To comply with the terms of (a debt or promise, for example).",
+            "vi": "Để tuân thủ các điều khoản của (một khoản nợ hoặc lời hứa chẳng hạn)."
+        },
+        {
+            "pos": "noun",
+            "en": "A substance or material that is released, emitted, or excreted, especially from the body.",
+            "vi": "Một chất hoặc vật liệu được thải ra, thải ra hoặc đào thải ra ngoài, đặc biệt là ra khỏi cơ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Feeling better than she had in months, she nagged the doctor to discharge her from the hospital.",
+            "vi": "Cảm thấy khỏe hơn cả tháng, cô nài nỉ bác sĩ cho xuất viện."
+        },
+        {
+            "en": "The discharge is not infrequently accompanied by a sizzling sound.",
+            "vi": "Sự phóng điện không thường xuyên kèm theo âm thanh xèo xèo."
+        }
+    ],
+    "words_form": [
+        "discharged",
+        "discharges",
+        "discharging"
+    ],
+    "meaning_vi": "phóng điện"
+}

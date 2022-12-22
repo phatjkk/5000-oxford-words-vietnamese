@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/maɪt/"
+    ],
+    "synonyms": [
+        "may",
+        "ability",
+        "strength",
+        "invincible",
+        "potent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Might means a great deal of strength.",
+            "vi": "Có thể có nghĩa là rất nhiều sức mạnh."
+        },
+        {
+            "pos": "verb",
+            "en": "Might is defined as to express doubt or a lower possibility.",
+            "vi": "Có thể được định nghĩa là thể hiện sự nghi ngờ hoặc một khả năng thấp hơn."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete, chiefly before 1900) Mighty; powerful; possible.",
+            "vi": "(lỗi thời, chủ yếu là trước năm 1900) Mighty; quyền lực; khả thi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It might have done damage inside.",
+            "vi": "Nó có thể đã gây ra thiệt hại bên trong."
+        },
+        {
+            "en": "If you could see a way it might be possible, then it must be possible.",
+            "vi": "Nếu bạn có thể thấy một cách có thể, thì nó phải có thể."
+        }
+    ],
+    "words_form": [
+        "may"
+    ],
+    "meaning_vi": "có thể"
+}

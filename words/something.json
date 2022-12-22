@@ -1,0 +1,68 @@
+{
+    "spelling": [
+        "/ˈsəmˌθɪŋ/"
+    ],
+    "synonyms": [
+        "existent",
+        "event",
+        "entity",
+        "object",
+        "existence"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Something is defined as a thing that is not entirely known, or an incredible person, place or thing.",
+            "vi": "Một cái gì đó được định nghĩa là một thứ không hoàn toàn được biết đến, hoặc một người, một địa điểm hay một sự vật đáng kinh ngạc."
+        },
+        {
+            "pos": "adverb",
+            "en": "Something means a little.",
+            "vi": "Một cái gì đó có nghĩa là một chút."
+        },
+        {
+            "pos": "noun",
+            "en": "One who falls into a specified age range. Often used in combination.",
+            "vi": "Một người thuộc độ tuổi cụ thể. Thường được sử dụng kết hợp."
+        },
+        {
+            "pos": "affix",
+            "en": "Of a quantity one to nine more than (a specified multiple of ten)",
+            "vi": "Số lượng nhiều hơn từ một đến chín (bội số cụ thể của mười)"
+        },
+        {
+            "pos": "verb",
+            "en": "Applied to an action whose name is forgotten by, unknown or unimportant to the user, e.g. from words of a song.",
+            "vi": "Được áp dụng cho một hành động mà người dùng quên tên, không xác định hoặc không quan trọng, ví dụ như lời của một bài hát."
+        },
+        {
+            "pos": "suffix",
+            "en": "Indicating approximation, as in a range of numbers.",
+            "vi": "Cho biết giá trị gần đúng, như trong một dải số."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or being a member of a specified age range. Often used in combination.",
+            "vi": "Của, liên quan đến hoặc là thành viên của một độ tuổi cụ thể. Thường được sử dụng kết hợp."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) something else  One that is very special or quite remarkable: Her new film is something else.",
+            "vi": "(không chính thức) một cái gì đó khác Một cái rất đặc biệt hoặc khá đáng chú ý: Bộ phim mới của cô ấy là một cái gì đó khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was certainly something in it.",
+            "vi": "Chắc chắn có một cái gì đó trong đó."
+        },
+        {
+            "en": "\"I have something to tell you,\" he said.",
+            "vi": "\"Tôi có một vài điều muốn nói với bạn,\" anh nói."
+        }
+    ],
+    "words_form": [
+        "somethings"
+    ],
+    "meaning_vi": "một cái gì đó"
+}

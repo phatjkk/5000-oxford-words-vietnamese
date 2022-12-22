@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈpædərn/"
+    ],
+    "synonyms": [
+        "design",
+        "original",
+        "decoration",
+        "characteristic",
+        "precedent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a pattern is someone or something used as a model to make a copy, a design, or an expected action.",
+            "vi": "Định nghĩa của một mẫu là một người nào đó hoặc một cái gì đó được sử dụng làm mẫu để tạo ra một bản sao, một thiết kế hoặc một hành động được mong đợi."
+        },
+        {
+            "pos": "verb",
+            "en": "Pattern is defined as making a copy based on a model.",
+            "vi": "Mẫu được định nghĩa là tạo một bản sao dựa trên một mẫu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She stared at a flower pattern on the wall.",
+            "vi": "Cô nhìn chằm chằm vào một hình bông hoa trên tường."
+        },
+        {
+            "en": "The woman he married would have to pattern her life to the fickle fate of politics.",
+            "vi": "Người phụ nữ mà anh ta kết hôn sẽ phải định hình cuộc đời mình theo số phận hay thay đổi của chính trị."
+        }
+    ],
+    "words_form": [
+        "patterned",
+        "patterning",
+        "patterns"
+    ],
+    "meaning_vi": "mô hình"
+}

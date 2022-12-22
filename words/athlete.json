@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈæθˌlit/"
+    ],
+    "synonyms": [
+        "player",
+        "competitor",
+        "sportsman",
+        "champion",
+        "swimmer"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One possessing the requisite strength, agility, and endurance for success in sports.",
+            "vi": "Một người sở hữu sức mạnh cần thiết, nhanh nhẹn và bền bỉ để thành công trong thể thao."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The athlete took medication so that he would not wheeze.",
+            "vi": "Vận động viên đã uống thuốc để không bị khò khè."
+        },
+        {
+            "en": "In spite of being a mediocre athlete at best, Dean had thrived on sports.",
+            "vi": "Mặc dù là một vận động viên tầm thường, Dean đã phát triển mạnh về thể thao."
+        }
+    ],
+    "words_form": [
+        "athletes"
+    ],
+    "meaning_vi": "vận động viên"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈhaɪˌweɪ/"
+    ],
+    "synonyms": [
+        "roadway",
+        "motorway",
+        "right of way",
+        "roads",
+        "parkway"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A main public road, especially one connecting towns and cities.",
+            "vi": "Một con đường công cộng chính, đặc biệt là một con đường kết nối các thị trấn và thành phố."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What highway was the drop on?",
+            "vi": "Rớt trên đường cao tốc nào?"
+        },
+        {
+            "en": "Our motel was at least five or six miles up the coast highway through town.",
+            "vi": "Nhà nghỉ của chúng tôi cách xa lộ ven biển qua thị trấn ít nhất năm hoặc sáu dặm."
+        }
+    ],
+    "words_form": [
+        "highways"
+    ],
+    "meaning_vi": "đường cao tốc"
+}

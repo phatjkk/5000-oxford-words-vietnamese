@@ -1,0 +1,59 @@
+{
+    "spelling": [
+        "/ænd/",
+        "/(ə)n/"
+    ],
+    "synonyms": [
+        "also",
+        "plus",
+        "furthermore",
+        "including",
+        "together with"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "Together with or along with; in addition to; as well as. Used to connect words, phrases, or clauses that have the same grammatical function in a construction.",
+            "vi": "Cùng với hoặc cùng với; ngoài; cũng như. Dùng để nối các từ, cụm từ hoặc mệnh đề có cùng chức năng ngữ pháp trong một cấu trúc."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Andante.",
+            "vi": "Andante."
+        },
+        {
+            "pos": "suffix",
+            "en": "(no longer productive) A noun suffix, usually denoting agency, similar to -er.",
+            "vi": "(không còn năng suất) Một hậu tố danh từ, thường biểu thị cơ quan, tương tự như -er."
+        },
+        {
+            "pos": "noun",
+            "en": "An addition or stipulation.",
+            "vi": "Một bổ sung hoặc quy định."
+        },
+        {
+            "pos": "prefix",
+            "en": "(no longer productive) A prefix of Old English origin meaning \"against\", \"back\", \"in return\", \"away\", represented in Modern English by a-, an-, on-, and in altered form by the reverse-action prefix un- (i.e. unbuckle). Also as the initial letter d in dread (< Old English ondrǣdan).",
+            "vi": "(không còn hiệu quả) Một tiền tố có nguồn gốc từ tiếng Anh cổ có nghĩa là \"chống lại\", \"quay lại\", \"đổi lại\", \"đi\", được trình bày trong tiếng Anh Hiện đại bằng a-, an-, on- và ở dạng thay đổi bằng cách ngược lại tiền tố -action un- (tức là unbuckle). Cũng như chữ cái đầu tiên d trong khiếp (<Tiếng Anh cổ ondrǣdan)."
+        },
+        {
+            "pos": "idiom",
+            "en": "and so forth  And other unspecified things of the same class: Bought groceries, went to the bank, picked up the dry cleaning, and so forth.Further in the same manner.",
+            "vi": "vân vân Và những thứ không xác định khác cùng loại: Mua hàng tạp hóa, đến ngân hàng, mua đồ giặt hấp, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The boy laughed cheerfully and jumped out.",
+            "vi": "Cậu bé cười sảng khoái và nhảy ra ngoài."
+        },
+        {
+            "en": "He laughed at that, and his laugh was merry and frank.",
+            "vi": "Anh ấy cười vào điều đó, và tiếng cười của anh ấy rất vui vẻ và thẳng thắn."
+        }
+    ],
+    "words_form": [
+        "ands"
+    ],
+    "meaning_vi": "và"
+}

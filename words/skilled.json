@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/skɪld/"
+    ],
+    "synonyms": [
+        "skillful",
+        "expert",
+        "crackerjack",
+        "proficient",
+        "competent"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of skilled is someone with a talent or ability.",
+            "vi": "Định nghĩa về kỹ năng là người có tài năng hoặc khả năng."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of skill.",
+            "vi": "Quá khứ đơn và quá khứ phân từ của kỹ năng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm an analyst and skilled technician.",
+            "vi": "Tôi là một nhà phân tích và kỹ thuật viên lành nghề."
+        },
+        {
+            "en": "You are very skilled at avoidance, you know.",
+            "vi": "Bạn rất giỏi trong việc tránh né, bạn biết đấy."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "lành nghề"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈkərənt/"
+    ],
+    "synonyms": [
+        "flow",
+        "recent",
+        "existing",
+        "tide",
+        "rapid"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Current is defined as the movement of water in a specific direction.",
+            "vi": "Dòng điện được định nghĩa là chuyển động của nước theo một hướng xác định."
+        },
+        {
+            "pos": "adjective",
+            "en": "Existing or occurring at the moment.",
+            "vi": "Hiện có hoặc đang xảy ra tại thời điểm này."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The current balance owed was over four hundred dollars.",
+            "vi": "Số dư hiện tại còn nợ là hơn bốn trăm đô la."
+        },
+        {
+            "en": "This is the current battle situation.",
+            "vi": "Đây là tình hình chiến đấu hiện tại."
+        }
+    ],
+    "words_form": [
+        "currents"
+    ],
+    "meaning_vi": "hiện hành"
+}

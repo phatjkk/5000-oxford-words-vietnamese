@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈtɛstəˌfaɪ/"
+    ],
+    "synonyms": [
+        "indicate",
+        "witness",
+        "allegation",
+        "evidence",
+        "depone"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To testify means to serve as a witness in court, or to declare the truth of something.",
+            "vi": "Làm chứng có nghĩa là làm nhân chứng trước tòa, hoặc tuyên bố sự thật của điều gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He agreed to come back and testify if CBI needed him, when they pinned his accident on you.",
+            "vi": "Anh ta đồng ý quay lại và làm chứng nếu CBI cần anh ta, khi họ ghim tai nạn của anh ta vào bạn."
+        },
+        {
+            "en": "The king's position was now so strong that foreign states began to testify their respect.",
+            "vi": "Vị thế của nhà vua bây giờ đã mạnh đến mức các nước ngoài bắt đầu chứng thực sự tôn trọng của họ."
+        }
+    ],
+    "words_form": [
+        "testified",
+        "testifies",
+        "testifying"
+    ],
+    "meaning_vi": "làm chứng"
+}

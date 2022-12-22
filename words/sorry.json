@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈsɑri/",
+        "/ˈsɔri/"
+    ],
+    "synonyms": [
+        "sorrowful",
+        "apologetic",
+        "regretful",
+        "grieved",
+        "remorseful"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of sorry is a feeling of sorrow or regret.",
+            "vi": "Định nghĩa của xin lỗi là một cảm giác đau buồn hoặc hối tiếc."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of saying sorry; an apology.",
+            "vi": "Hành động nói lời xin lỗi; một lời xin lỗi."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used as a request for someone to repeat something not heard or understood clearly.",
+            "vi": "Được sử dụng như một yêu cầu ai đó lặp lại điều gì đó mà bạn chưa nghe hoặc chưa hiểu rõ ràng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I am very sorry for them.",
+            "vi": "Tôi rất tiếc cho họ."
+        },
+        {
+            "en": "I actually felt a little sorry for her.",
+            "vi": "Tôi thực sự cảm thấy hơi tiếc cho cô ấy."
+        }
+    ],
+    "words_form": [
+        "sorrier",
+        "sorriest"
+    ],
+    "meaning_vi": "lấy làm tiếc"
+}

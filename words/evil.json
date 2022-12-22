@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/ˈivəl/"
+    ],
+    "synonyms": [
+        "diabolical",
+        "sinister",
+        "wicked",
+        "malevolent",
+        "foul"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Evil is defined as the quality of being morally bad or something that causes harm or misfortune.",
+            "vi": "Điều ác được định nghĩa là phẩm chất của sự tồi tệ về mặt đạo đức hoặc điều gì đó gây ra tổn hại hoặc bất hạnh."
+        },
+        {
+            "pos": "adjective",
+            "en": "Causing ruin, injury, or pain; harmful.",
+            "vi": "Gây hủy hoại, thương tích hoặc đau đớn; có hại."
+        },
+        {
+            "pos": "adverb",
+            "en": "In an evil manner.",
+            "vi": "Theo một cách độc ác."
+        },
+        {
+            "pos": "idiom",
+            "en": "(epithet) the Evil One  the Devil; Satan",
+            "vi": "(epithet) Ác quỷ Một trong những Ác quỷ; Satan"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is no evil here.",
+            "vi": "Không có cái ác nào ở đây cả."
+        },
+        {
+            "en": "Fire can be good or evil, depending on where it comes from.",
+            "vi": "Lửa có thể tốt hoặc xấu, tùy thuộc vào nơi nó đến."
+        }
+    ],
+    "words_form": [
+        "evilest",
+        "evils"
+    ],
+    "meaning_vi": "tà ác"
+}

@@ -1,0 +1,59 @@
+{
+    "spelling": [
+        "/bæθ/"
+    ],
+    "synonyms": [
+        "soak",
+        "ablution",
+        "bathroom",
+        "bathhouse",
+        "tub"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a bath is a container filled with water, or the washing of something in water or other liquid, or the room designed for the bathing.",
+            "vi": "Định nghĩa về bồn tắm là một vật chứa đầy nước, hoặc rửa một thứ gì đó trong nước hoặc chất lỏng khác, hoặc căn phòng được thiết kế để tắm."
+        },
+        {
+            "pos": "verb",
+            "en": "Bathe.",
+            "vi": "Tắm rửa."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) City in SW England: health resort known for its hot springs.",
+            "vi": "(địa điểm) Thành phố ở SW Anh Quốc: khu nghỉ dưỡng sức khỏe nổi tiếng với các suối nước nóng."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Baht.",
+            "vi": "Baht."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A city in Somerset, England, famous for its baths fed by a hot spring.",
+            "vi": "Một thành phố ở Somerset, Anh, nổi tiếng với những bồn tắm được cung cấp bởi suối nước nóng."
+        },
+        {
+            "pos": "idiom",
+            "en": "take a bath  to suffer a heavy financial loss",
+            "vi": "đi tắm để bị lỗ nặng về tài chính"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The warm bubble bath was relaxing.",
+            "vi": "Bồn tắm bong bóng ấm áp thật thư giãn."
+        },
+        {
+            "en": "Take a nice warm bath and relax for a while.",
+            "vi": "Tắm nước ấm và thư giãn một lúc."
+        }
+    ],
+    "words_form": [
+        "bathing",
+        "baths"
+    ],
+    "meaning_vi": "tắm"
+}

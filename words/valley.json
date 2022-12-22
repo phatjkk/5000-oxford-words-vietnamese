@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈvæli/"
+    ],
+    "synonyms": [
+        "canyon",
+        "gully",
+        "dale",
+        "chasm",
+        "ravine"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An elongated lowland between ranges of mountains, hills, or other uplands, often having a river or stream running along the bottom.",
+            "vi": "Một vùng đất thấp kéo dài giữa các dãy núi, đồi hoặc các vùng cao khác, thường có sông hoặc suối chảy dọc ở phía dưới."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The San Fernando Valley in southern California.",
+            "vi": "Thung lũng San Fernando ở miền nam California."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She followed him across the valley and up a steep slope.",
+            "vi": "Cô theo anh băng qua thung lũng và lên một con dốc cao."
+        },
+        {
+            "en": "It's the only way to get out of the Valley of Voe.",
+            "vi": "Đó là cách duy nhất để ra khỏi Thung lũng Voe."
+        }
+    ],
+    "words_form": [
+        "valleys"
+    ],
+    "meaning_vi": "thung lũng"
+}

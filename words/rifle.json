@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈraɪfəl/"
+    ],
+    "synonyms": [
+        "pistol",
+        "pillage",
+        "plunder",
+        "ransack",
+        "ravage"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To search (an area or container, for example) thoroughly, especially using the hands with the intent to steal or remove something.",
+            "vi": "Để tìm kiếm kỹ lưỡng (một khu vực hoặc thùng chứa), đặc biệt là sử dụng tay với ý định lấy cắp hoặc loại bỏ thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Troops armed with rifles.",
+            "vi": "Quân đội trang bị súng trường."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She threw the rifle to her shoulder and took aim.",
+            "vi": "Cô ném khẩu súng trường lên vai và ngắm bắn."
+        },
+        {
+            "en": "A rifle cracked, piercing the silence with deadly import.",
+            "vi": "Một khẩu súng trường nổ tung, xuyên qua sự im lặng với sự nhập khẩu chết người."
+        }
+    ],
+    "words_form": [
+        "rifled",
+        "rifles",
+        "rifling"
+    ],
+    "meaning_vi": "súng trường"
+}

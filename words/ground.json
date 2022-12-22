@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/ɡraʊnd/"
+    ],
+    "synonyms": [
+        "floor",
+        "bring down",
+        "spot",
+        "terrain",
+        "train"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of ground is base or beginning.",
+            "vi": "Định nghĩa của mặt đất là cơ sở hoặc bắt đầu."
+        },
+        {
+            "pos": "noun",
+            "en": "Ground is defined as the surface of or soil from the earth.",
+            "vi": "Mặt đất được định nghĩa là bề mặt của hoặc đất từ ​​trái đất."
+        },
+        {
+            "pos": "verb",
+            "en": "Ground means to cut up into small particles or to prevent an aircraft or pilot from flying.",
+            "vi": "Mặt đất có nghĩa là cắt thành các hạt nhỏ hoặc để ngăn máy bay hoặc phi công bay."
+        },
+        {
+            "pos": "idiom",
+            "en": "drive  To belabor (an issue or a subject).",
+            "vi": "drive To belabor (một vấn đề hoặc một chủ đề)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Jule lay on the ground a short distance away.",
+            "vi": "Jule nằm trên mặt đất cách đó không xa."
+        },
+        {
+            "en": "\"I can't even see the ground,\" she said.",
+            "vi": "\"Tôi thậm chí không thể nhìn thấy mặt đất,\" cô nói."
+        }
+    ],
+    "words_form": [
+        "grounded",
+        "grounds"
+    ],
+    "meaning_vi": "mặt đất"
+}

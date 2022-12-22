@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/tu/"
+    ],
+    "synonyms": [
+        "as-well",
+        "also",
+        "further",
+        "furthermore",
+        "additionally"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "More than enough; excessively.",
+            "vi": "Quá đủ; một cách thái quá."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She had to move a few things to make room, but that wasn't too hard.",
+            "vi": "Cô phải di chuyển một vài thứ để có chỗ, nhưng điều đó không quá khó."
+        },
+        {
+            "en": "I'm too warm in this one.",
+            "vi": "Tôi quá ấm áp trong cái này."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "quá"
+}

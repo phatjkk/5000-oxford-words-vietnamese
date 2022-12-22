@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/blɑk/"
+    ],
+    "synonyms": [
+        "piece",
+        "tree",
+        "chunk",
+        "hoist",
+        "square"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A length of railroad track controlled by signals.",
+            "vi": "Chiều dài đường ray được điều khiển bằng tín hiệu."
+        },
+        {
+            "pos": "adjective",
+            "en": "Set out like or involving a city block.",
+            "vi": "Đặt ra như hoặc liên quan đến một khối thành phố."
+        },
+        {
+            "pos": "verb",
+            "en": "To block means to prevent something from happening or to make forward movement impossible.",
+            "vi": "Chặn có nghĩa là ngăn điều gì đó xảy ra hoặc không thể làm cho chuyển động về phía trước."
+        },
+        {
+            "pos": "idiom",
+            "en": "go on the block  To be offered for sale.",
+            "vi": "đi trên khối Để được chào bán."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It fled like a wounded animal and it was impossible to block its path.",
+            "vi": "Nó chạy trốn như một con thú bị thương và không thể nào chặn được đường đi của nó."
+        },
+        {
+            "en": "Yes. I'm sorry so many buildings are gone but that one block is enough.",
+            "vi": "Đúng. Tôi xin lỗi vì nhiều tòa nhà đã biến mất nhưng chỉ cần một khối là đủ."
+        }
+    ],
+    "words_form": [
+        "blocked",
+        "blocking",
+        "blocks"
+    ],
+    "meaning_vi": "khối"
+}

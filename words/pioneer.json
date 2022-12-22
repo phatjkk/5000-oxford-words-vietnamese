@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˌpaɪəˈnɪr/"
+    ],
+    "synonyms": [
+        "invent",
+        "pathfinder",
+        "colonist",
+        "pioneering",
+        "discover"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a pioneer is the first person or people to do something, such as explore new territory, test a theory or create a product.",
+            "vi": "Định nghĩa về người tiên phong là người đầu tiên hoặc những người làm điều gì đó, chẳng hạn như khám phá lãnh thổ mới, thử nghiệm một lý thuyết hoặc tạo ra một sản phẩm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Leading the way; trailblazing.",
+            "vi": "Dẫn đường; đi trước."
+        },
+        {
+            "pos": "verb",
+            "en": "To be a pioneer.",
+            "vi": "Để trở thành người tiên phong."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was the pioneer of British canoeing.",
+            "vi": "Ông là người tiên phong cho môn thể thao ca nô của Anh."
+        },
+        {
+            "en": "Atlanta owes its origin to the development of pioneer railroads of Georgia.",
+            "vi": "Atlanta có nguồn gốc từ sự phát triển của các tuyến đường sắt tiên phong của Georgia."
+        }
+    ],
+    "words_form": [
+        "pioneered",
+        "pioneering",
+        "pioneers"
+    ],
+    "meaning_vi": "tiên phong"
+}

@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/si/"
+    ],
+    "synonyms": [
+        "observe",
+        "view",
+        "examine",
+        "descry",
+        "gaze"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To have foresight.",
+            "vi": "Để có tầm nhìn xa."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) A cathedra.",
+            "vi": "(lỗi thời) Một khối chóp."
+        },
+        {
+            "pos": "interjection",
+            "en": "Look; behold.",
+            "vi": "Nhìn; hãy chứng kiến."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) see red  To be extremely angry.",
+            "vi": "(thân mật) thấy màu đỏ Để vô cùng tức giận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I see what you mean.",
+            "vi": "Tôi hiểu ý bạn là gì."
+        },
+        {
+            "en": "Maybe he should see a doctor.",
+            "vi": "Có lẽ anh ta nên đi khám bác sĩ."
+        }
+    ],
+    "words_form": [
+        "saw",
+        "seeing",
+        "seen",
+        "sees"
+    ],
+    "meaning_vi": "thấy"
+}

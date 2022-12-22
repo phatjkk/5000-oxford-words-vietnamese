@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌspɛkjəˈleɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "consideration",
+        "thinking",
+        "meditation",
+        "guess",
+        "thoughts"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Speculation is the act of formulating an opinion or theory without fully researching or investigating.",
+            "vi": "Suy đoán là hành vi hình thành một quan điểm hoặc lý thuyết mà không nghiên cứu hoặc điều tra đầy đủ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This sort of speculation is going to intensify.",
+            "vi": "Loại suy đoán này sẽ ngày càng gia tăng."
+        },
+        {
+            "en": "Speculation and suspicion had done enough harm already.",
+            "vi": "Suy đoán và nghi ngờ đã gây hại đủ lớn rồi."
+        }
+    ],
+    "words_form": [
+        "speculations"
+    ],
+    "meaning_vi": "đầu cơ"
+}

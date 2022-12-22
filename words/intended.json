@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ɪnˈtɛndəd/"
+    ],
+    "synonyms": [
+        "planned",
+        "expected",
+        "attempted",
+        "aimed",
+        "reserved"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of intended is something that has been planned, or is in the future.",
+            "vi": "Định nghĩa của dự định là một cái gì đó đã được lên kế hoạch, hoặc là trong tương lai."
+        },
+        {
+            "pos": "noun",
+            "en": "A person whom one intends to marry; a fiancé or fiancée.",
+            "vi": "Một người mà một người dự định kết hôn; hôn phu hoặc hôn thê."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of intend.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ của dự định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They were wrong, and she intended to prove it.",
+            "vi": "Họ đã sai, và cô ấy định chứng minh điều đó."
+        },
+        {
+            "en": "He intended to take her as his mate, Rhyn.",
+            "vi": "Anh định lấy cô làm bạn đời của mình, Rhyn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "dự định"
+}

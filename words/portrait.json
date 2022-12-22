@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈpɔrtrət/",
+        "/ˈpɔrˌtreɪt/"
+    ],
+    "synonyms": [
+        "picture",
+        "image",
+        "painting",
+        "photograph",
+        "similitude"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Portrait is defined as the orientation of a page, where the longest side goes from top to bottom.",
+            "vi": "Dọc được định nghĩa là hướng của một trang, trong đó cạnh dài nhất đi từ trên xuống dưới."
+        },
+        {
+            "pos": "noun",
+            "en": "The orientation of a page such that the longer side runs from top to bottom.",
+            "vi": "Hướng của trang sao cho cạnh dài hơn chạy từ trên xuống dưới."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To portray; to draw.",
+            "vi": "(lỗi thời) Để miêu tả; vẽ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Please step into the portrait gallery.",
+            "vi": "Vui lòng bước vào thư viện chân dung."
+        },
+        {
+            "en": "I sold nearly everything and even contracted four portrait commissions.",
+            "vi": "Tôi đã bán gần như tất cả mọi thứ và thậm chí ký hợp đồng hoa hồng bốn bức chân dung."
+        }
+    ],
+    "words_form": [
+        "portraits"
+    ],
+    "meaning_vi": "chân dung"
+}

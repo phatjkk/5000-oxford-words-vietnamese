@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/mɪθ/"
+    ],
+    "synonyms": [
+        "fictitious",
+        "mythos",
+        "fable",
+        "tale",
+        "folk-tale"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person or thing existing only in imagination, or whose actual existence is not verifiable.",
+            "vi": "Một người hoặc một sự vật chỉ tồn tại trong trí tưởng tượng, hoặc sự tồn tại thực sự không thể kiểm chứng được."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Mythology.",
+            "vi": "Thần thoại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "At last the myth stopped being repeated.",
+            "vi": "Cuối cùng thì huyền thoại đã ngừng được lặp lại."
+        },
+        {
+            "en": "The name, however, is so obscured by myth and fable as scarcely to belong to history.",
+            "vi": "Tuy nhiên, cái tên này đã bị che khuất bởi huyền thoại và truyền thuyết và hiếm khi thuộc về lịch sử."
+        }
+    ],
+    "words_form": [
+        "myths"
+    ],
+    "meaning_vi": "huyền thoại"
+}

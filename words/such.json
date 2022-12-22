@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/sətʃ/"
+    ],
+    "synonyms": [
+        "so",
+        "this",
+        "that",
+        "matter-of-fact",
+        "define"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of such is the same or as already mentioned.",
+            "vi": "Định nghĩa của như vậy là giống nhau hoặc như đã được đề cập."
+        },
+        {
+            "pos": "adverb",
+            "en": "Very; especially.",
+            "vi": "Hết sức; đặc biệt."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Similar things or people; the like.",
+            "vi": "Những thứ tương tự hoặc những người; như thế."
+        },
+        {
+            "pos": "determiner",
+            "en": "(demonstrative) Like this, that, these, those; used to make a comparison with something implied by context.",
+            "vi": "(minh họa) Như thế này, cái kia, những cái này, những cái kia; được sử dụng để so sánh với một cái gì đó được ngụ ý theo ngữ cảnh."
+        },
+        {
+            "pos": "idiom",
+            "en": "such as  For example: Rodents such as field mice and voles.",
+            "vi": "chẳng hạn như Ví dụ: Động vật gặm nhấm như chuột đồng và chuột đồng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I never saw such small pigs before.",
+            "vi": "Tôi chưa bao giờ nhìn thấy những con lợn nhỏ như vậy trước đây."
+        },
+        {
+            "en": "Why is everyone in such a hurry?",
+            "vi": "Tại sao mọi người đều vội vàng như vậy?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "như là"
+}

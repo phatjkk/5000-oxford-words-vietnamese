@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/pərˈsɛn(t)ɪdʒ/"
+    ],
+    "synonyms": [
+        "proportion",
+        "per-cent",
+        "portion",
+        "ratio",
+        "rate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Percentage is a measure of a portion in relation to a whole, often expressed in relation to how many of something there are per 100.",
+            "vi": "Tỷ lệ phần trăm là thước đo của một phần trong mối quan hệ với tổng thể, thường được biểu thị liên quan đến số lượng một cái gì đó có trên 100."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Amazon even tells you what percentage of people buys each one.",
+            "vi": "Amazon thậm chí còn cho bạn biết tỷ lệ người mua mỗi thứ."
+        },
+        {
+            "en": "It has been thought that it refers to the fact that ants form a large percentage of the prey of the insect, the suffix \"lion\" merely suggesting destroyer or eater.",
+            "vi": "Người ta cho rằng nó đề cập đến thực tế là kiến ​​tạo thành một tỷ lệ lớn con mồi của côn trùng, hậu tố \"sư tử\" chỉ đơn thuần gợi ý kẻ hủy diệt hoặc kẻ ăn thịt."
+        }
+    ],
+    "words_form": [
+        "percentages"
+    ],
+    "meaning_vi": "tỷ lệ phần trăm"
+}

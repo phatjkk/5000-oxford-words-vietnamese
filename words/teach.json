@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/titʃ/"
+    ],
+    "synonyms": [
+        "edify",
+        "guide",
+        "show",
+        "educate",
+        "enlighten"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To condition to a certain action or frame of mind.",
+            "vi": "Để điều kiện cho một hành động hoặc khung tâm trí nhất định."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(slang) Nickname for a teacher.",
+            "vi": "(tiếng lóng) Biệt hiệu của một giáo viên."
+        },
+        {
+            "pos": "noun",
+            "en": "A teacher.",
+            "vi": "Một giáo viên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You teach them to respect people.",
+            "vi": "Bạn dạy họ tôn trọng mọi người."
+        },
+        {
+            "en": "Now you can teach me.",
+            "vi": "Bây giờ bạn có thể dạy tôi."
+        }
+    ],
+    "words_form": [
+        "taught",
+        "teaches",
+        "teaching"
+    ],
+    "meaning_vi": "dạy"
+}

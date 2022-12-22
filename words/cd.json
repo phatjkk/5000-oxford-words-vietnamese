@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˌsiˈdi/"
+    ],
+    "synonyms": [
+        "cadmium",
+        "four-hundred",
+        "compact disc",
+        "certificate of deposit",
+        "candle"
+    ],
+    "meaning": [
+        {
+            "pos": "abbreviation",
+            "en": "Civil defense.",
+            "vi": "Phòng thủ dân sự."
+        },
+        {
+            "pos": "symbol",
+            "en": "Cadmium.",
+            "vi": "Cadmium."
+        },
+        {
+            "pos": "noun",
+            "en": "The compact-disc format.",
+            "vi": "Định dạng đĩa compact."
+        },
+        {
+            "pos": "numeral",
+            "en": "A Roman numeral representing four hundred (400).",
+            "vi": "Một chữ số La Mã đại diện cho bốn trăm (400)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If these lines be turned through a right angle in the same sense, they take up positions such as CC, DID, where C, D are on JC, JD, respectively, and CD is parallel to CD.",
+            "vi": "Nếu các đường thẳng này quay qua một góc vuông theo cùng nghĩa thì chúng chiếm các vị trí như CC, DID, trong đó C, D lần lượt nằm trên JC, JD và CD song song với CD."
+        },
+        {
+            "en": "My car has a CD player.",
+            "vi": "Xe tôi có đầu đĩa CD."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đĩa com-pắc ( compact  disc )"
+}

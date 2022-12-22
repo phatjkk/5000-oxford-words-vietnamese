@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈmænɪdʒ/"
+    ],
+    "synonyms": [
+        "maintain",
+        "carry on",
+        "administer",
+        "care for",
+        "deal with"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Manage is defined as to succeed despite difficulties or to control, influence or take charge.",
+            "vi": "Quản lý được định nghĩa là thành công bất chấp khó khăn hoặc kiểm soát, ảnh hưởng hoặc phụ trách."
+        },
+        {
+            "pos": "noun",
+            "en": "Manège.",
+            "vi": "Manège."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "How did he manage to keep everything in such good condition?",
+            "vi": "Làm thế nào anh ấy xoay sở để giữ cho mọi thứ trong tình trạng tốt như vậy?"
+        },
+        {
+            "en": "Jonny, I can't manage this guy.",
+            "vi": "Jonny, tôi không thể quản lý anh chàng này."
+        }
+    ],
+    "words_form": [
+        "managed",
+        "manages",
+        "managing"
+    ],
+    "meaning_vi": "quản lý"
+}

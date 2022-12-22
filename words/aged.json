@@ -1,0 +1,77 @@
+{
+    "spelling": [
+        "/eɪʤd/"
+    ],
+    "synonyms": [
+        "elderly",
+        "ancient",
+        "antediluvian",
+        "antiquated",
+        "antique"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Characteristic of old age.",
+            "vi": "Đặc trưng của tuổi già."
+        },
+        {
+            "pos": "noun",
+            "en": "Elderly people considered as a group. Used with the.",
+            "vi": "Người cao tuổi được coi là một nhóm. Được sử dụng với."
+        },
+        {
+            "pos": "preposition",
+            "en": "Having the age of.",
+            "vi": "Có tuổi của."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of age.",
+            "vi": "Quá khứ đơn và quá khứ phân từ của tuổi."
+        },
+        {
+            "pos": "idiom",
+            "en": "the aged  old people collectively",
+            "vi": "tập thể người già"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The prince had aged very much that year.",
+            "vi": "Năm đó hoàng tử đã già đi rất nhiều."
+        },
+        {
+            "en": "He died at Les Andelys on the 8th of December 1709, aged eighty-four.",
+            "vi": "Ông qua đời tại Les Andelys vào ngày 8 tháng 12 năm 1709, thọ tám mươi tư."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "adjective",
+            "en": "Characteristic of old age.",
+            "vi": "Đặc trưng của tuổi già."
+        },
+        {
+            "pos": "noun",
+            "en": "Elderly people considered as a group. Used with the.",
+            "vi": "Người cao tuổi được coi là một nhóm. Được sử dụng với."
+        },
+        {
+            "pos": "preposition",
+            "en": "Having the age of.",
+            "vi": "Có tuổi của."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of age.",
+            "vi": "Quá khứ đơn và quá khứ phân từ của tuổi."
+        },
+        {
+            "pos": "idiom",
+            "en": "the aged  old people collectively",
+            "vi": "tập thể người già"
+        }
+    ]
+}

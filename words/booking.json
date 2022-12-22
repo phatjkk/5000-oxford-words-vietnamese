@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈbʊkɪŋ/"
+    ],
+    "synonyms": [
+        "reserving",
+        "engagement",
+        "gig",
+        "performing-arts",
+        "reservation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or process of writing something down in a book or books, e.g. in accounting.",
+            "vi": "Hành động hoặc quá trình viết một cái gì đó vào một cuốn sách hoặc các sổ sách, ví dụ như trong kế toán."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of book.",
+            "vi": "Trình bày phân từ của cuốn sách."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I think our booking agent had a momentary blip.",
+            "vi": "Tôi nghĩ rằng đại lý đặt vé của chúng tôi đã có một khoảnh khắc ngắn ngủi."
+        },
+        {
+            "en": "If you are booking less than 8 weeks before the departure date then we will ask you for payment of the holiday in full.",
+            "vi": "Nếu bạn đặt phòng ít hơn 8 tuần trước ngày khởi hành thì chúng tôi sẽ yêu cầu bạn thanh toán đầy đủ cho kỳ nghỉ."
+        }
+    ],
+    "words_form": [
+        "bookings"
+    ],
+    "meaning_vi": "đặt trước"
+}

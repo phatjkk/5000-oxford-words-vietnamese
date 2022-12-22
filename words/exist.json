@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ɪɡˈzɪst/"
+    ],
+    "synonyms": [
+        "breathe",
+        "live",
+        "survive",
+        "be",
+        "continue"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To live at a minimal level; subsist.",
+            "vi": "Sống ở mức tối thiểu; tồn tại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Good and evil exist in all of us,\" she said, not sure what to say.",
+            "vi": "\"Thiện và ác tồn tại trong tất cả chúng ta,\" cô nói, không biết phải nói gì."
+        },
+        {
+            "en": "Electrostatic fields come from a voltage gradient and can exist when charge carriers are stationary.",
+            "vi": "Trường tĩnh điện xuất phát từ một gradien điện áp và có thể tồn tại khi các hạt mang điện tích đứng yên."
+        }
+    ],
+    "words_form": [
+        "existed",
+        "exists"
+    ],
+    "meaning_vi": "hiện hữu"
+}

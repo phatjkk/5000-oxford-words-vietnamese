@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/stɑrv/"
+    ],
+    "synonyms": [
+        "crave",
+        "perish",
+        "undernourish",
+        "kill",
+        "famish"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(informal) To be hungry.",
+            "vi": "(không chính thức) Để được đói."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She'd just have to starve to death.",
+            "vi": "Cô ấy sẽ phải chết đói."
+        },
+        {
+            "en": "She'd starve in a day.",
+            "vi": "Cô ấy sẽ chết đói trong một ngày."
+        }
+    ],
+    "words_form": [
+        "starved",
+        "starves",
+        "starving"
+    ],
+    "meaning_vi": "chết đói"
+}

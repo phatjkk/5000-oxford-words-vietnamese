@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈtræfɪk/"
+    ],
+    "synonyms": [
+        "passage",
+        "transportation",
+        "travel",
+        "roadwork",
+        "business"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Traffic is defined as vehicles or people in the vehicles, a delay that involves transportation or movement through a designated location.",
+            "vi": "Giao thông được định nghĩa là các phương tiện hoặc người trên xe, sự chậm trễ liên quan đến việc vận chuyển hoặc di chuyển qua một địa điểm được chỉ định."
+        },
+        {
+            "pos": "verb",
+            "en": "To carry on trade or other dealings.",
+            "vi": "Để thực hiện thương mại hoặc các giao dịch khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or having to do with traffic.",
+            "vi": "Của hoặc phải làm với lưu lượng truy cập."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In town doing traffic control, I guess.",
+            "vi": "Tôi đoán trong thị trấn đang kiểm soát giao thông."
+        },
+        {
+            "en": "The traffic was the pits.",
+            "vi": "Giao thông là những cái hố."
+        }
+    ],
+    "words_form": [
+        "trafficked",
+        "trafficking",
+        "traffics"
+    ],
+    "meaning_vi": "giao thông"
+}

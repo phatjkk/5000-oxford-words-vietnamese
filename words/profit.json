@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈprɑfət/"
+    ],
+    "synonyms": [
+        "accumulation",
+        "interest",
+        "value",
+        "sinecure",
+        "avail"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Financial gain from a transaction or from a period of investment or business activity, usually calculated as income in excess of costs or as the final value of an asset in excess of its initial value.",
+            "vi": "Thu nhập tài chính từ một giao dịch hoặc từ một giai đoạn đầu tư hoặc hoạt động kinh doanh, thường được tính là thu nhập vượt quá chi phí hoặc giá trị cuối cùng của tài sản vượt quá giá trị ban đầu của nó."
+        },
+        {
+            "pos": "verb",
+            "en": "To make a gain or profit.",
+            "vi": "Để tạo ra lợi nhuận hoặc lợi nhuận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I turned a good profit on that piece of real estate.",
+            "vi": "Tôi đã kiếm được lợi nhuận tốt từ mảnh bất động sản đó."
+        },
+        {
+            "en": "Land for farming purposes is expensive, and wages are high, leaving small profit, unless it happens that a man, with his family to assist him, works his own land.",
+            "vi": "Đất đai cho mục đích canh tác đắt, tiền công cao, để lại lợi nhuận nhỏ, trừ khi xảy ra trường hợp một người đàn ông, với gia đình giúp đỡ anh ta, làm việc trên đất của mình."
+        }
+    ],
+    "words_form": [
+        "profited",
+        "profiting",
+        "profits"
+    ],
+    "meaning_vi": "lợi nhuận"
+}

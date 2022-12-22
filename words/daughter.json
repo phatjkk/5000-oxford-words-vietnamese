@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈdɔdər/",
+        "/ˈdɑdər/"
+    ],
+    "synonyms": [
+        "girl",
+        "child",
+        "female child",
+        "sibling",
+        "son"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A woman considered as if in a relationship of child to parent.",
+            "vi": "Một người phụ nữ được coi là trong mối quan hệ của con cái với cha mẹ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Possessing the characteristics of a daughter; having the relationship of a daughter.",
+            "vi": "Sở hữu những đặc điểm của con gái; có quan hệ của một đứa con gái."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A daughter, I suppose?",
+            "vi": "Tôi cho là một đứa con gái?"
+        },
+        {
+            "en": "Giddon and his daughter were already seated.",
+            "vi": "Giddon và con gái đã ngồi sẵn."
+        }
+    ],
+    "words_form": [
+        "daughters"
+    ],
+    "meaning_vi": "con gái"
+}

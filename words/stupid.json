@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈst(j)upəd/"
+    ],
+    "synonyms": [
+        "hebetudinous",
+        "brainless",
+        "boneheaded",
+        "daft",
+        "idiotic"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A stupid or foolish person.",
+            "vi": "Một người ngốc nghếch hay khờ khạo."
+        },
+        {
+            "pos": "adjective",
+            "en": "Lacking normal intelligence or understanding; slow-witted; dull.",
+            "vi": "Thiếu trí thông minh hoặc hiểu biết bình thường; chậm chạp; đần độn."
+        },
+        {
+            "pos": "adverb",
+            "en": "(slang, dated) Extremely.",
+            "vi": "(tiếng lóng, ngày tháng) Cực kỳ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I did a stupid thing last night.",
+            "vi": "Tôi đã làm một điều ngu ngốc đêm qua."
+        },
+        {
+            "en": "It was a stupid question, of course.",
+            "vi": "Tất nhiên, đó là một câu hỏi ngu ngốc."
+        }
+    ],
+    "words_form": [
+        "stupidest"
+    ],
+    "meaning_vi": "ngốc nghếch"
+}

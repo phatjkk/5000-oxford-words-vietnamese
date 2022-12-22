@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈ(h)wɛðər/"
+    ],
+    "synonyms": [
+        "either",
+        "if",
+        "doubt",
+        "whatever",
+        "because"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "Either.",
+            "vi": "Một trong hai."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Which.",
+            "vi": "Cái mà."
+        },
+        {
+            "pos": "idiom",
+            "en": "whether or no  Regardless of circumstances.",
+            "vi": "có hoặc không Bất kể hoàn cảnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Whether we want to admit it or not, we all wish everyone would like us.",
+            "vi": "Dù có muốn thừa nhận hay không, chúng tôi đều mong muốn mọi người cũng như chúng tôi."
+        },
+        {
+            "en": "He needs you right now, whether he knows it or not.",
+            "vi": "Anh ấy cần bạn ngay bây giờ, cho dù anh ấy có biết hay không."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "liệu"
+}

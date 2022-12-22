@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/skəl/"
+    ],
+    "synonyms": [
+        "cranium",
+        "vertex",
+        "skullcap",
+        "brain",
+        "mind"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The skull is the set of bones of the head including the jaw, or an image of the bones of the head.",
+            "vi": "Hộp sọ là tập hợp các xương của đầu bao gồm cả hàm, hoặc hình ảnh của các xương của đầu."
+        },
+        {
+            "pos": "verb",
+            "en": "To hit on the head.",
+            "vi": "Đánh vào đầu."
+        },
+        {
+            "pos": "idiom",
+            "en": "out of one's skull  insane; crazy",
+            "vi": "ra khỏi hộp sọ của một người mất trí; điên"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She repeated that the skull was crushed.",
+            "vi": "Cô nhắc lại rằng hộp sọ đã bị nghiền nát."
+        },
+        {
+            "en": "- End view of skull of a Chicken fo three weeks old, X 8 diameters.",
+            "vi": "- Hình chiếu cuối hộp sọ của Gà ba tuần tuổi, đường kính X 8."
+        }
+    ],
+    "words_form": [
+        "skulls"
+    ],
+    "meaning_vi": "hộp sọ"
+}

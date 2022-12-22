@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/rəˈmeɪndər/"
+    ],
+    "synonyms": [
+        "leftovers",
+        "residuum",
+        "balance",
+        "remnant",
+        "residue"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something left over after other parts have been taken away.",
+            "vi": "Một cái gì đó còn sót lại sau khi các bộ phận khác đã được lấy đi."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of remainder is leftover.",
+            "vi": "Định nghĩa của phần còn lại là phần còn lại."
+        },
+        {
+            "pos": "verb",
+            "en": "To sell or dispose of as a remainder.",
+            "vi": "Bán hoặc thanh lý phần còn lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The remainder of the trip passed in silence.",
+            "vi": "Phần còn lại của chuyến đi trôi qua trong im lặng."
+        },
+        {
+            "en": "In 1727 he bought Betchworth Castle, near Dorking, where he passed the remainder of his life.",
+            "vi": "Năm 1727, ông mua Lâu đài Betchworth, gần Dorking, nơi ông đã vượt qua phần còn lại của cuộc đời mình."
+        }
+    ],
+    "words_form": [
+        "remainders"
+    ],
+    "meaning_vi": "phần còn lại"
+}

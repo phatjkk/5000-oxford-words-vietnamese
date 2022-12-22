@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/kəmˈpæʃən/"
+    ],
+    "synonyms": [
+        "sympathy",
+        "empathy",
+        "kindness",
+        "grace",
+        "pity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Sorrow for the sufferings or trouble of another or others, accompanied by an urge to help; deep sympathy; pity.",
+            "vi": "Đau buồn vì những đau khổ hoặc khó khăn của người khác hoặc những người khác, kèm theo sự thôi thúc giúp đỡ; sự cảm thông sâu sắc; lòng thương hại."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To pity.",
+            "vi": "(lỗi thời) Đáng tiếc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was compassion in her sparkling gaze despite the gentle humor in her voice.",
+            "vi": "Ánh mắt lấp lánh của cô ấy hiện lên lòng trắc ẩn mặc dù giọng nói của cô ấy có chút hài hước nhẹ nhàng."
+        },
+        {
+            "en": "\"Kindness and compassion aren't weaknesses,\" she countered.",
+            "vi": "“Lòng tốt và lòng trắc ẩn không phải là điểm yếu,” cô phản bác."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thương hại"
+}

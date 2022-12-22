@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/sik/"
+    ],
+    "synonyms": [
+        "investigate",
+        "search",
+        "aspire",
+        "fish for",
+        "ask"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To try; attempt.",
+            "vi": "Thử; nỗ lực."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You seek to betray me as your predecessor did.",
+            "vi": "Bạn tìm cách phản bội tôi như người tiền nhiệm của bạn đã làm."
+        },
+        {
+            "en": "What do you seek from us?",
+            "vi": "Bạn tìm kiếm gì ở chúng tôi?"
+        }
+    ],
+    "words_form": [
+        "seeking",
+        "seeks",
+        "sought"
+    ],
+    "meaning_vi": "tìm kiếm"
+}

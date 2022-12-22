@@ -1,0 +1,67 @@
+{
+    "spelling": [
+        "/ɑː/"
+    ],
+    "synonyms": [
+        "ahem",
+        "alas",
+        "amen",
+        "boo",
+        "er"
+    ],
+    "meaning": [
+        {
+            "pos": "abbreviation",
+            "en": "Ampere-hour.",
+            "vi": "Ampe-giờ."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express various emotions, such as satisfaction, surprise, delight, dislike, or pain.",
+            "vi": "Được sử dụng để thể hiện các cảm xúc khác nhau, chẳng hạn như hài lòng, ngạc nhiên, thích thú, không thích hoặc đau đớn."
+        },
+        {
+            "pos": "",
+            "en": "See ampere-hour.",
+            "vi": "Xem ampe-giờ."
+        },
+        {
+            "pos": "symbol",
+            "en": "(metrology) Symbol for the attohenry, an SI unit of electrical inductance equal to 10−18 henrys.",
+            "vi": "(đo lường) Ký hiệu cho bộ suy giảm, một đơn vị SI của độ tự cảm điện bằng 10−18 henrys."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Ah, that is good.",
+            "vi": "Ah, điều đó thật tốt."
+        },
+        {
+            "en": "Ah! it is very dreadful...",
+            "vi": "Ah! nó rất kinh khủng ..."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "abbreviation",
+            "en": "Ampere-hour.",
+            "vi": "Ampe-giờ."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express various emotions, such as satisfaction, surprise, delight, dislike, or pain.",
+            "vi": "Được sử dụng để thể hiện các cảm xúc khác nhau, chẳng hạn như hài lòng, ngạc nhiên, thích thú, không thích hoặc đau đớn."
+        },
+        {
+            "pos": "",
+            "en": "See ampere-hour.",
+            "vi": "Xem ampe-giờ."
+        },
+        {
+            "pos": "symbol",
+            "en": "(metrology) Symbol for the attohenry, an SI unit of electrical inductance equal to 10−18 henrys.",
+            "vi": "(đo lường) Ký hiệu cho bộ suy giảm, một đơn vị SI của độ tự cảm điện bằng 10−18 henrys."
+        }
+    ]
+}

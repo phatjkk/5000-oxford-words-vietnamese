@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/brɛθ/"
+    ],
+    "synonyms": [
+        "breath",
+        "wind",
+        "exhalation",
+        "emanation",
+        "spirit"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of breath is the inhalation and exhalation of air into or out of the lungs.",
+            "vi": "Định nghĩa về hơi thở là sự hít vào và thở ra của không khí vào hoặc ra khỏi phổi."
+        },
+        {
+            "pos": "idiom",
+            "en": "in one  At or almost at the same time.",
+            "vi": "trong một cùng một lúc hoặc gần như cùng một lúc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His breath smelled of liquor.",
+            "vi": "Hơi thở anh nồng nặc mùi rượu."
+        },
+        {
+            "en": "Taking a deep breath, Carmen started down the stairs.",
+            "vi": "Hít một hơi thật sâu, Carmen bắt đầu đi xuống cầu thang."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hơi thở"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kɑrv/"
+    ],
+    "synonyms": [
+        "engrave",
+        "sculpture",
+        "etch",
+        "cut",
+        "dissect"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To carve statues or designs.",
+            "vi": "Để chạm khắc các bức tượng hoặc thiết kế."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) A carucate.",
+            "vi": "(lỗi thời) Một carucate."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Well… I suppose you don't have to carve all of them.",
+            "vi": "Chà… tôi cho rằng bạn không cần phải khắc tất cả chúng."
+        },
+        {
+            "en": "I could've let them carve you up.",
+            "vi": "Tôi có thể để họ khắc bạn lên."
+        }
+    ],
+    "words_form": [
+        "carved",
+        "carves",
+        "carving"
+    ],
+    "meaning_vi": "khắc chạm"
+}

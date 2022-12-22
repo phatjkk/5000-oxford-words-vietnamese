@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/wɪl/",
+        "/wəl/"
+    ],
+    "synonyms": [
+        "strong",
+        "mind",
+        "preference",
+        "wish",
+        "order"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Used to express possibility.",
+            "vi": "Dùng để diễn đạt khả năng."
+        },
+        {
+            "pos": "noun",
+            "en": "Desire, intent, choice, as in, “she exercised her own free will.”",
+            "vi": "Mong muốn, ý định, sự lựa chọn, như ở chỗ, \"cô ấy đã thực hiện ý chí tự do của mình.\""
+        },
+        {
+            "pos": "pronoun",
+            "en": "A diminutive of the male given name William. Also used as a formal given name.",
+            "vi": "Một chi tiết nhỏ của người đàn ông được đặt tên William. Cũng được sử dụng như một tên chính thức."
+        },
+        {
+            "pos": "idiom",
+            "en": "at will  Just as or when one wishes.",
+            "vi": "tùy ý Chỉ như hoặc khi người ta muốn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If the people of Boston must fight for their liberty, we will help them.",
+            "vi": "Nếu người dân Boston phải đấu tranh cho quyền tự do của họ, chúng tôi sẽ giúp họ."
+        },
+        {
+            "en": "If you panic, she will be frightened.",
+            "vi": "Nếu bạn hoảng sợ, cô ấy sẽ sợ hãi."
+        }
+    ],
+    "words_form": [
+        "wills",
+        "wo",
+        "would"
+    ],
+    "meaning_vi": "sẽ"
+}

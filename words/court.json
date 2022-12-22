@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/kɔrt/"
+    ],
+    "synonyms": [
+        "courtroom",
+        "assizes",
+        "staff",
+        "train",
+        "square"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Court is defined as an uncovered area partially or completely surrounded by structures.",
+            "vi": "Tòa án được định nghĩa là một khu vực không có mái che được bao quanh một phần hoặc hoàn toàn bởi các công trình kiến ​​trúc."
+        },
+        {
+            "pos": "verb",
+            "en": "Court means to pay attention to someone to get something or to seek someone for marriage or dating.",
+            "vi": "Tòa án có nghĩa là chú ý đến ai đó để có được thứ gì đó hoặc tìm kiếm một người nào đó để kết hôn hoặc hẹn hò."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or fit for a court.",
+            "vi": "Của hoặc phù hợp cho một tòa án."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(US) An abbreviated term of respect for any court (\"the Court\").",
+            "vi": "(Hoa Kỳ) Một thuật ngữ viết tắt của sự tôn trọng đối với bất kỳ tòa án nào (\"Tòa án\")."
+        },
+        {
+            "pos": "idiom",
+            "en": "pay court to  To flatter with solicitous overtures in an attempt to obtain something or clear away antagonism. To seek someone's love; woo.",
+            "vi": "trả tiền cho tòa án Để tâng bốc bằng những lời công khai hấp dẫn nhằm cố gắng đạt được thứ gì đó hoặc xóa bỏ sự đối kháng. Để tìm kiếm tình yêu của ai đó; gâu gâu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"The ball is in your court,\" I said.",
+            "vi": "\"Quả bóng đang ở trong sân của bạn,\" tôi nói."
+        },
+        {
+            "en": "You'll have to report to court tomorrow morning.",
+            "vi": "Bạn sẽ phải trình báo với tòa án vào sáng mai."
+        }
+    ],
+    "words_form": [
+        "courted",
+        "courting",
+        "courts"
+    ],
+    "meaning_vi": "tòa án"
+}

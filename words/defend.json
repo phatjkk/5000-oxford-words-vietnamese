@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/dəˈfɛnd/"
+    ],
+    "synonyms": [
+        "protect",
+        "guard",
+        "prosecute",
+        "preserve",
+        "resist"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Defend is defined as to stand up for, protect or guard.",
+            "vi": "Defend được định nghĩa là đứng ra bênh vực, bảo vệ hoặc bảo vệ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't have to defend myself against Alex.",
+            "vi": "Tôi không cần phải tự vệ trước Alex."
+        },
+        {
+            "en": "I can defend you against anything that attacks us.",
+            "vi": "Tôi có thể bảo vệ bạn trước bất cứ điều gì tấn công chúng tôi."
+        }
+    ],
+    "words_form": [
+        "defended",
+        "defending",
+        "defends"
+    ],
+    "meaning_vi": "phòng thủ"
+}

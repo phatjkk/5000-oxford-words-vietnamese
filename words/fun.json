@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/fən/"
+    ],
+    "synonyms": [
+        "enjoyable",
+        "amusing",
+        "enjoyment",
+        "merry",
+        "amusement"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of fun is something that brings pleasure, joy or playfulness.",
+            "vi": "Định nghĩa về niềm vui là một cái gì đó mang lại niềm vui, niềm vui hoặc sự vui tươi."
+        },
+        {
+            "pos": "verb",
+            "en": "To speak or act facetiously; joke or fool.",
+            "vi": "Nói hoặc hành động một cách trực diện; đùa hay ngu."
+        },
+        {
+            "pos": "adjective",
+            "en": "(informal) Intended for, or giving, pleasure or amusement.",
+            "vi": "(không chính thức) Dành cho, hoặc cho, niềm vui hoặc sự giải trí."
+        },
+        {
+            "pos": "idiom",
+            "en": "for  As a joke; playfully.",
+            "vi": "cho Như một trò đùa; tinh nghịch."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We had fun together.",
+            "vi": "Chúng tôi đã vui vẻ cùng nhau."
+        },
+        {
+            "en": "Don't make fun of dreams.",
+            "vi": "Đừng đùa cợt với những giấc mơ."
+        }
+    ],
+    "words_form": [
+        "funned",
+        "funning",
+        "funs"
+    ],
+    "meaning_vi": "vui vẻ"
+}

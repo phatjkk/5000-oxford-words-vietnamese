@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dæns/"
+    ],
+    "synonyms": [
+        "swing",
+        "dancing",
+        "hoedown",
+        "shuffle",
+        "prance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a dance is a group of rhythmic movements and steps set to music or a social gathering where people participate in rhythmic movements and steps set to music.",
+            "vi": "Định nghĩa về khiêu vũ là một nhóm các chuyển động nhịp nhàng và các bước được thiết lập theo nhạc hoặc một cuộc tụ họp xã hội nơi mọi người tham gia vào các chuyển động nhịp nhàng và các bước được thiết lập theo nhạc."
+        },
+        {
+            "pos": "verb",
+            "en": "To perform the steps to.",
+            "vi": "Để thực hiện các bước tới."
+        },
+        {
+            "pos": "idiom",
+            "en": "dance attendance on  To attend to or try to please (someone) with eagerness or obsequiousness.",
+            "vi": "nhảy tham dự vào Để tham dự hoặc cố gắng làm hài lòng (ai đó) với sự háo hức hoặc khúm núm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "How about going to a dance tonight?",
+            "vi": "Tối nay đi khiêu vũ thì sao?"
+        },
+        {
+            "en": "I'm even weady to dance the pas de chale.",
+            "vi": "Tôi thậm chí đã sẵn sàng để nhảy pas de chale."
+        }
+    ],
+    "words_form": [
+        "danced",
+        "dances",
+        "dancing"
+    ],
+    "meaning_vi": "khiêu vũ, nhảy múa"
+}

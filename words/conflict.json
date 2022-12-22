@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈkɑnˌflɪkt/"
+    ],
+    "synonyms": [
+        "battle",
+        "disagreement",
+        "fight",
+        "dispute",
+        "struggle"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Conflict means to clash with someone or something.",
+            "vi": "Xung đột có nghĩa là xung đột với ai đó hoặc điều gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "(psychology) An emotional or mental disturbance resulting from the opposition or simultaneous functioning of mutually exclusive impulses, desires, or tendencies.",
+            "vi": "(tâm lý học) Rối loạn cảm xúc hoặc tinh thần do sự chống đối hoặc hoạt động đồng thời của các xung lực, mong muốn hoặc khuynh hướng loại trừ lẫn nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You can't avoid conflict all the time.",
+            "vi": "Bạn không thể tránh xung đột mọi lúc."
+        },
+        {
+            "en": "There was a conflict of loyalties.",
+            "vi": "Đã xảy ra xung đột về lòng trung thành."
+        }
+    ],
+    "words_form": [
+        "conflicted",
+        "conflicts"
+    ],
+    "meaning_vi": "xung đột"
+}

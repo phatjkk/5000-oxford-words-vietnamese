@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tʃɑrdʒ/"
+    ],
+    "synonyms": [
+        "indict",
+        "debit",
+        "entry",
+        "rush",
+        "mission"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person or thing entrusted to someone's care.",
+            "vi": "Một người hoặc vật được giao phó cho sự chăm sóc của ai đó."
+        },
+        {
+            "pos": "verb",
+            "en": "The definition of an example of charge is when you accuse someone formally of something, especially in criminal proceedings.",
+            "vi": "Định nghĩa về một ví dụ buộc tội là khi bạn buộc tội ai đó một cách chính thức về điều gì đó, đặc biệt là trong thủ tục tố tụng hình sự."
+        },
+        {
+            "pos": "idiom",
+            "en": "in charge  In a position of leadership or supervision: The security agent in charge at the airport.Under arrest.",
+            "vi": "phụ trách Ở vị trí lãnh đạo hoặc giám sát: Nhân viên an ninh phụ trách tại sân bay."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I will be in charge of your initiation.",
+            "vi": "Tôi sẽ phụ trách phần khởi xướng của bạn."
+        },
+        {
+            "en": "Before she could object, Kiki took charge again.",
+            "vi": "Trước khi cô ấy có thể phản đối, Kiki lại tiếp tục tấn công."
+        }
+    ],
+    "words_form": [
+        "charged",
+        "charges",
+        "charging"
+    ],
+    "meaning_vi": "sạc điện"
+}

@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/biˈkəz/"
+    ],
+    "synonyms": [
+        "since",
+        "due-to",
+        "as",
+        "therefore",
+        "for"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "For the reason or cause that; on account of the fact that; since.",
+            "vi": "Vì lý do hoặc nguyên nhân đó; trên thực tế là; từ."
+        },
+        {
+            "pos": "adverb",
+            "en": "On account (of), for sake (of).",
+            "vi": "Trên tài khoản (của), vì lợi ích (của)."
+        },
+        {
+            "pos": "idiom",
+            "en": "because of  by reason of; on account of",
+            "vi": "bởi vì bởi vì lý do của; trên tài khoản của"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I think he felt included because he was helping as much as we were.",
+            "vi": "Tôi nghĩ anh ấy cảm thấy được bao gồm vì anh ấy đã giúp đỡ chúng tôi rất nhiều."
+        },
+        {
+            "en": "They were angry because their plans had been discovered.",
+            "vi": "Họ tức giận vì kế hoạch của họ đã bị phát hiện."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bởi vì"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/(h)ərb/"
+    ],
+    "synonyms": [
+        "spearmint",
+        "tansy",
+        "dittany",
+        "boneset",
+        "borage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A plant whose stem does not produce woody, persistent tissue and generally dies back at the end of each growing season.",
+            "vi": "Cây có thân không tạo ra mô gỗ, dai dẳng và thường chết trở lại vào cuối mỗi mùa sinh trưởng."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A diminutive of the male given name Herbert.",
+            "vi": "Một chi tiết nhỏ của người đàn ông được đặt tên Herbert."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "After a quick supper, she grabbed the herb book and stepped outside.",
+            "vi": "Sau bữa ăn tối nhanh chóng, cô cầm lấy cuốn sách thảo mộc và bước ra ngoài."
+        },
+        {
+            "en": "A tea can be made from the dried leaves, also a medicinal herb.",
+            "vi": "Trà có thể được làm từ lá khô, cũng là một loại thảo mộc."
+        }
+    ],
+    "words_form": [
+        "herbs"
+    ],
+    "meaning_vi": "thảo mộc"
+}

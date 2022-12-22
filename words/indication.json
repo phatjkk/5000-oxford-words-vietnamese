@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌɪndəˈkeɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "show",
+        "symptom",
+        "sign",
+        "implication",
+        "symbol"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of indicating.",
+            "vi": "Hành động biểu thị."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She displays no indication of homesickness.",
+            "vi": "Cô ấy không có biểu hiện gì của nỗi nhớ nhà."
+        },
+        {
+            "en": "They showed no indication of giving them any privacy.",
+            "vi": "Họ không có dấu hiệu cho thấy họ có bất kỳ quyền riêng tư nào."
+        }
+    ],
+    "words_form": [
+        "indications"
+    ],
+    "meaning_vi": "chỉ định"
+}

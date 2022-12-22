@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/hit/"
+    ],
+    "synonyms": [
+        "solar-energy",
+        "fire",
+        "inflame",
+        "warmth",
+        "burn"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of heat is a form of energy that causes a difference in temperature, or the perception of warmth.",
+            "vi": "Định nghĩa về nhiệt là một dạng năng lượng gây ra sự khác biệt về nhiệt độ, hoặc nhận thức về độ ấm."
+        },
+        {
+            "pos": "verb",
+            "en": "Heat is defined as to add warmth to something.",
+            "vi": "Nhiệt được định nghĩa là để thêm hơi ấm vào một thứ gì đó."
+        },
+        {
+            "pos": "initialism",
+            "en": "(military) High Explosive Anti-Tank — antitank munition using a high explosive shaped charge to breach armour.",
+            "vi": "(quân sự) Đạn chống tăng - đạn chống tăng có chất nổ cao sử dụng chất nổ có hình dạng cao để chọc thủng áo giáp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The evening heat was stifling.",
+            "vi": "Cái nóng buổi tối thật ngột ngạt."
+        },
+        {
+            "en": "Carmen stopped at the corner, uncomfortable with the heat of the exchange, yet unwilling to interrupt.",
+            "vi": "Carmen dừng lại ở một góc, không thoải mái với sức nóng của cuộc trao đổi, nhưng không muốn làm gián đoạn."
+        }
+    ],
+    "words_form": [
+        "heated",
+        "heating",
+        "heats"
+    ],
+    "meaning_vi": "nhiệt"
+}

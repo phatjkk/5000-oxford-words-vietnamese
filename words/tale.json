@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/teɪl/"
+    ],
+    "synonyms": [
+        "story",
+        "tarradiddle",
+        "anecdote",
+        "fiction",
+        "fairy-tale"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Tale means a lie.",
+            "vi": "Tale có nghĩa là một lời nói dối."
+        },
+        {
+            "pos": "verb",
+            "en": "(dialectal, chiefly Scotland) To reckon; consider (someone) to have something.",
+            "vi": "(phương ngữ, chủ yếu là Scotland) Để tính toán; coi (ai đó) có cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is a tale of ambition and then of guilt.",
+            "vi": "Đó là một câu chuyện về tham vọng và sau đó là tội lỗi."
+        },
+        {
+            "en": "When he finished his tale, she shook her head.",
+            "vi": "Khi anh kết thúc câu chuyện của mình, cô lắc đầu."
+        }
+    ],
+    "words_form": [
+        "tales"
+    ],
+    "meaning_vi": "câu chuyện"
+}

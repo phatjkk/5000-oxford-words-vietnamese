@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈkɑnˌkrit/",
+        "/ˌkɑnˈkrit/"
+    ],
+    "synonyms": [
+        "pavement",
+        "cement",
+        "solid",
+        "accurate",
+        "consolidated"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of concrete is something real.",
+            "vi": "Định nghĩa về bê tông là một cái gì đó có thật."
+        },
+        {
+            "pos": "noun",
+            "en": "Concrete is defined as a mixture of cement sand, gravel and water which dries hard and strong and is used as a material for building.",
+            "vi": "Bê tông được định nghĩa là hỗn hợp của xi măng cát, sỏi và nước, khô cứng và bền và được sử dụng làm vật liệu xây dựng."
+        },
+        {
+            "pos": "verb",
+            "en": "The definition of concrete means to make something into a solid mass.",
+            "vi": "Định nghĩa của bê tông có nghĩa là làm cho một cái gì đó thành một khối rắn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I need concrete evidence before I'm a believer and I don't see that on the horizon.",
+            "vi": "Tôi cần bằng chứng cụ thể trước khi là một người tin tưởng và tôi không thấy điều đó trên đường chân trời."
+        },
+        {
+            "en": "The walls were solid concrete and windowless.",
+            "vi": "Các bức tường là bê tông kiên cố và không có cửa sổ."
+        }
+    ],
+    "words_form": [
+        "concreted",
+        "concretes",
+        "concreting"
+    ],
+    "meaning_vi": "bê tông"
+}

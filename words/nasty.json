@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈnæsti/"
+    ],
+    "synonyms": [
+        "ugly",
+        "harmful",
+        "immoral",
+        "immodest",
+        "dirty"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(informal) An offensive, objectionable, or very unpleasant person or thing.",
+            "vi": "(không chính thức) Một người hoặc vật xúc phạm, bị phản đối hoặc rất khó chịu."
+        },
+        {
+            "pos": "adjective",
+            "en": "Very dangerous, troublesome, grievous, etc.",
+            "vi": "Rất nguy hiểm, rắc rối, đau buồn, v.v."
+        },
+        {
+            "pos": "suffix",
+            "en": "Nastic response or change.",
+            "vi": "Phản ứng cứng nhắc hoặc thay đổi."
+        },
+        {
+            "pos": "affix",
+            "en": "A condition of plant growth by a (specified) means or in a (specified) direction.",
+            "vi": "Điều kiện phát triển của thực vật theo một phương tiện (xác định) hoặc theo một hướng (xác định)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I wonder if that nasty dog is in need of a walk.",
+            "vi": "Tôi tự hỏi liệu con chó khó chịu đó có cần đi dạo không."
+        },
+        {
+            "en": "He was a cruel and nasty man.",
+            "vi": "Anh ta là một người đàn ông độc ác và khó chịu."
+        }
+    ],
+    "words_form": [
+        "nastier",
+        "nasties",
+        "nastiest"
+    ],
+    "meaning_vi": "nghiêm trọng; bẩn thỉu"
+}

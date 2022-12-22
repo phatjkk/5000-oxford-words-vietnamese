@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/əˈkjuːzd/"
+    ],
+    "synonyms": [
+        "arraigned",
+        "implicated",
+        "incriminated",
+        "indicted",
+        "charged with"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person who is blamed for a wrongdoing.",
+            "vi": "Truy xuất nguồn gốc của các hành động được thực hiện trên hệ thống đến một thực thể hệ thống cụ thể (người dùng, quy trình, thiết bị). Ví dụ, việc sử dụng nhận dạng và xác thực người dùng duy nhất hỗ trợ trách nhiệm giải trình; việc sử dụng ID người dùng và mật khẩu được chia sẻ phá hủy trách nhiệm giải trình."
+        },
+        {
+            "pos": "verb",
+            "en": "The definition of accused means to have charged someone with a wrongdoing.",
+            "vi": "Định nghĩa về trách nhiệm giải trình là nhận hoặc được giao trách nhiệm về một việc gì đó mà bạn đã làm hoặc một việc gì đó bạn phải làm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Accused is defined as charged with a wrongdoing.",
+            "vi": "Quá trình phát triển thành một số lượng lớn hoặc đống."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His voice was calm, but his eyes accused her.",
+            "vi": "Giọng anh điềm tĩnh, nhưng ánh mắt anh buộc tội cô."
+        },
+        {
+            "en": "Had Mary accused him as well?",
+            "vi": "Mary có buộc tội anh ta không?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "A person who is blamed for a wrongdoing.",
+            "vi": "Truy xuất nguồn gốc của các hành động được thực hiện trên hệ thống đến một thực thể hệ thống cụ thể (người dùng, quy trình, thiết bị). Ví dụ, việc sử dụng nhận dạng và xác thực người dùng duy nhất hỗ trợ trách nhiệm giải trình; việc sử dụng ID người dùng và mật khẩu được chia sẻ phá hủy trách nhiệm giải trình."
+        },
+        {
+            "pos": "verb",
+            "en": "The definition of accused means to have charged someone with a wrongdoing.",
+            "vi": "Định nghĩa về trách nhiệm giải trình là nhận hoặc được giao trách nhiệm về một việc gì đó mà bạn đã làm hoặc một việc gì đó bạn phải làm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Accused is defined as charged with a wrongdoing.",
+            "vi": "Quá trình phát triển thành một số lượng lớn hoặc đống."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/tɛkst/"
+    ],
+    "synonyms": [
+        "syllabus",
+        "passage",
+        "handbook",
+        "quotation",
+        "book"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Text is defined as to send a text message, often by cell phone.",
+            "vi": "Văn bản được định nghĩa là gửi một tin nhắn văn bản, thường là bằng điện thoại di động."
+        },
+        {
+            "pos": "noun",
+            "en": "Text are the words in a written work.",
+            "vi": "Văn bản là những từ trong một tác phẩm viết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll text you my address.",
+            "vi": "Tôi sẽ nhắn tin cho bạn địa chỉ của tôi."
+        },
+        {
+            "en": "He pulled out his phone to text Damian.",
+            "vi": "Anh rút điện thoại ra để nhắn tin cho Damian."
+        }
+    ],
+    "words_form": [
+        "texted",
+        "texts"
+    ],
+    "meaning_vi": "nhắn tin"
+}

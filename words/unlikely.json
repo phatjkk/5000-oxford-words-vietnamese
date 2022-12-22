@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˌənˈlaɪkli/"
+    ],
+    "synonyms": [
+        "unbelievable",
+        "probably",
+        "unpromising",
+        "dubiety",
+        "untoward"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of unlikely is something that is probably not going to happen or that has a very slim chance of occurring.",
+            "vi": "Định nghĩa về điều khó xảy ra là điều gì đó có thể sẽ không xảy ra hoặc có khả năng xảy ra rất mong manh."
+        },
+        {
+            "pos": "noun",
+            "en": "Something or somebody considered unlikely.",
+            "vi": "Một cái gì đó hoặc ai đó được coi là không thể."
+        },
+        {
+            "pos": "adverb",
+            "en": "Improbably.",
+            "vi": "Không thể tránh khỏi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was an unlikely spot for water.",
+            "vi": "Đó là một nơi khó có nước."
+        },
+        {
+            "en": "She doesn't understand how unlikely that is.",
+            "vi": "Cô ấy không hiểu điều đó khó xảy ra như thế nào."
+        }
+    ],
+    "words_form": [
+        "unlikeliest"
+    ],
+    "meaning_vi": "không có khả năng"
+}

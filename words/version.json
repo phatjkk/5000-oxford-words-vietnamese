@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈvərʒən/"
+    ],
+    "synonyms": [
+        "edition",
+        "rendition",
+        "report",
+        "redaction",
+        "account"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A description or account from one point of view, especially as opposed to another.",
+            "vi": "Mô tả hoặc tài khoản từ một quan điểm, đặc biệt là trái ngược với một quan điểm khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To assign a unique number or name to distinct versions of (a file or program, for example).",
+            "vi": "Để gán một số hoặc tên duy nhất cho các phiên bản riêng biệt của (ví dụ: một tệp hoặc chương trình)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "One human is nothing to him in his version of the big picture, Sasha continued.",
+            "vi": "Một con người không là gì đối với anh ta trong phiên bản bức tranh lớn của anh ta, Sasha tiếp tục."
+        },
+        {
+            "en": "It's their version of a cat!",
+            "vi": "Đó là phiên bản của họ về một con mèo!"
+        }
+    ],
+    "words_form": [
+        "versions"
+    ],
+    "meaning_vi": "phiên bản"
+}

@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/sɪlk/"
+    ],
+    "synonyms": [
+        "fabric",
+        "taffeta",
+        "fiber",
+        "thread",
+        "tulle"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Silk is a soft thread-like fiber spun by silkworms.",
+            "vi": "Tơ tằm là một loại sợi mềm như sợi chỉ do tằm kéo thành sợi."
+        },
+        {
+            "pos": "verb",
+            "en": "To develop silk. Used of corn.",
+            "vi": "Để phát triển tơ lụa. Được sử dụng của ngô."
+        },
+        {
+            "pos": "adjective",
+            "en": "Composed of or similar to the fiber or the fabric silk.",
+            "vi": "Được cấu tạo từ hoặc tương tự với sợi hoặc tơ vải."
+        },
+        {
+            "pos": "idiom",
+            "en": "hit the silk  to parachute from an aircraft",
+            "vi": "đánh lụa để nhảy dù từ máy bay"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She wore silk pajamas and a woolen sweater.",
+            "vi": "Cô mặc bộ đồ ngủ bằng lụa và áo len len."
+        },
+        {
+            "en": "Made of material softer than silk, the black dress she wore pooled at the top of her feet.",
+            "vi": "Được làm bằng chất liệu mềm hơn lụa, chiếc váy đen cô mặc dài đến tận chân."
+        }
+    ],
+    "words_form": [
+        "silks"
+    ],
+    "meaning_vi": "lụa"
+}

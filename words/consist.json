@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kənˈsɪst/"
+    ],
+    "synonyms": [
+        "comprise",
+        "lie",
+        "inhere",
+        "exist",
+        "reside"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To consist is defined as to be made up of.",
+            "vi": "Để bao gồm được định nghĩa là được tạo thành từ."
+        },
+        {
+            "pos": "noun",
+            "en": "(rail transport) A lineup or sequence of railroad carriages or cars, with or without a locomotive, that form a unit.",
+            "vi": "(vận tải đường sắt) Một đội hình hoặc chuỗi các toa tàu hoặc toa xe, có hoặc không có đầu máy, tạo thành một đơn vị."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"What does bringing someone in consist of?\" she asked.",
+            "vi": "\"Đưa ai đó vào bao gồm những gì?\" cô ấy hỏi."
+        },
+        {
+            "en": "The exports consist principally of sugar, cotton, and rum (aguardiente).",
+            "vi": "Các mặt hàng xuất khẩu chủ yếu bao gồm đường, bông và rượu rum (aguardiente)."
+        }
+    ],
+    "words_form": [
+        "consisted",
+        "consisting",
+        "consists"
+    ],
+    "meaning_vi": "bao gồm"
+}

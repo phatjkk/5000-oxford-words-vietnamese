@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ʃeɪm/"
+    ],
+    "synonyms": [
+        "stigma",
+        "embarrassment",
+        "disgraceful",
+        "shameful",
+        "humiliation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A painful emotion caused by the belief that one is, or is perceived by others to be, inferior or unworthy of affection or respect because of one's actions, thoughts, circumstances, or experiences.",
+            "vi": "Một cảm xúc đau đớn gây ra bởi niềm tin rằng một người hoặc bị người khác cho là thấp kém hoặc không xứng đáng với tình cảm hoặc sự tôn trọng do hành động, suy nghĩ, hoàn cảnh hoặc kinh nghiệm của một người."
+        },
+        {
+            "pos": "verb",
+            "en": "To cause to feel shame; make ashamed.",
+            "vi": "Gây ra cảm giác xấu hổ; làm cho xấu hổ."
+        },
+        {
+            "pos": "interjection",
+            "en": "A cry of admonition for the subject of a speech, often used reduplicated, especially in political debates.",
+            "vi": "Một lời khuyên nhủ cho chủ đề của một bài phát biểu, thường được sử dụng lặp lại, đặc biệt là trong các cuộc tranh luận chính trị."
+        },
+        {
+            "pos": "idiom",
+            "en": "put to shame  To cause to feel shame. To outdo thoroughly; surpass: Your kindness has put the rest of us to shame.",
+            "vi": "đưa đến sự xấu hổ Để gây ra cảm giác xấu hổ. Vượt lên triệt để; vượt qua: Lòng tốt của bạn đã khiến phần còn lại của chúng tôi phải xấu hổ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There's no shame in being poor.",
+            "vi": "Không có gì xấu hổ khi nghèo."
+        },
+        {
+            "en": "The man's face was red with shame this time.",
+            "vi": "Lần này mặt người đàn ông đỏ bừng vì xấu hổ."
+        }
+    ],
+    "words_form": [
+        "shamed",
+        "shames",
+        "shaming"
+    ],
+    "meaning_vi": "xấu hổ"
+}

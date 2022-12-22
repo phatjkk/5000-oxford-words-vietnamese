@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/floʊ/"
+    ],
+    "synonyms": [
+        "current",
+        "ripple",
+        "wind",
+        "run",
+        "move"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To hang loosely and gracefully.",
+            "vi": "Để treo một cách lỏng lẻo và duyên dáng."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or manner of flowing.",
+            "vi": "Hành động hoặc cách thức của dòng chảy."
+        },
+        {
+            "pos": "idiom",
+            "en": "go with the flow  to conform to or accept, rather than resist, a trend, condition, development, etc.",
+            "vi": "đi theo dòng chảy để tuân theo hoặc chấp nhận, thay vì chống lại một xu hướng, điều kiện, sự phát triển, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Quint felt the warmth flow into his face.",
+            "vi": "Quint cảm thấy hơi ấm phả vào mặt mình."
+        },
+        {
+            "en": "Tears continued to flow as her attention shifted back to Matthew.",
+            "vi": "Nước mắt vẫn tiếp tục chảy khi sự chú ý của cô chuyển sang Matthew."
+        }
+    ],
+    "words_form": [
+        "flowed",
+        "flowing",
+        "flows"
+    ],
+    "meaning_vi": "lưu lượng"
+}

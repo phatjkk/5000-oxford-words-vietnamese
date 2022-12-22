@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈbɛn(t)ʃmɑrk/"
+    ],
+    "synonyms": [
+        "standard",
+        "mark",
+        "touchstone",
+        "baseline",
+        "model"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A standard by which something can be measured or judged.",
+            "vi": "Một tiêu chuẩn mà cái gì đó có thể được đo lường hoặc đánh giá."
+        },
+        {
+            "pos": "verb",
+            "en": "To measure the performance of (an item) relative to another similar item in an impartial scientific manner.",
+            "vi": "Để đo lường hiệu suất của (một mặt hàng) so với một mặt hàng tương tự khác một cách khoa học khách quan."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Toy horse and rider sets are almost a benchmark of childhood.",
+            "vi": "Bộ đồ chơi ngựa và người cưỡi ngựa gần như là một chuẩn mực của tuổi thơ."
+        },
+        {
+            "en": "This elaborates the themes set out in Benjamin's previous benchmark book.",
+            "vi": "Điều này trình bày chi tiết các chủ đề được đặt ra trong cuốn sách điểm chuẩn trước đây của Benjamin."
+        }
+    ],
+    "words_form": [
+        "benchmarked",
+        "benchmarking",
+        "benchmarks"
+    ],
+    "meaning_vi": "điểm chuẩn"
+}

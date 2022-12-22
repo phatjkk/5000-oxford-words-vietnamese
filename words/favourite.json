@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˈfeɪvərɪt/"
+    ],
+    "synonyms": [
+        "beloved",
+        "cherished",
+        "favored",
+        "main",
+        "popular"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(in the plural) A short curl dangling over the temples, fashionable in the reign of Charles II.",
+            "vi": "(ở số nhiều) Một lọn tóc ngắn lủng lẳng trên các ngôi đền, là mốt thời trang dưới triều đại của Charles II."
+        },
+        {
+            "pos": "adjective",
+            "en": "(UK, Canada, Australia, Ireland, New Zealand, Malta, South Africa) Preferred or liked above all others (unless qualified.)",
+            "vi": "(Vương quốc Anh, Canada, Úc, Ireland, New Zealand, Malta, Nam Phi) Được ưu tiên hoặc hơn tất cả những người khác (trừ khi đủ điều kiện.)"
+        },
+        {
+            "pos": "verb",
+            "en": "Alternative form of favour.",
+            "vi": "Hình thức ưu đãi thay thế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "At first his favourite subject was classics.",
+            "vi": "Lúc đầu, môn học yêu thích của anh ấy là kinh điển."
+        },
+        {
+            "en": "My favourite poet has written some lines about England which I love very much.",
+            "vi": "Nhà thơ yêu thích của tôi đã viết vài dòng về nước Anh mà tôi rất yêu thích."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "(in the plural) A short curl dangling over the temples, fashionable in the reign of Charles II.",
+            "vi": "(ở số nhiều) Một lọn tóc ngắn lủng lẳng trên các ngôi đền, là mốt thời trang dưới triều đại của Charles II."
+        },
+        {
+            "pos": "adjective",
+            "en": "(UK, Canada, Australia, Ireland, New Zealand, Malta, South Africa) Preferred or liked above all others (unless qualified.)",
+            "vi": "(Vương quốc Anh, Canada, Úc, Ireland, New Zealand, Malta, Nam Phi) Được ưu tiên hoặc hơn tất cả những người khác (trừ khi đủ điều kiện.)"
+        },
+        {
+            "pos": "verb",
+            "en": "Alternative form of favour.",
+            "vi": "Hình thức ưu đãi thay thế."
+        }
+    ]
+}

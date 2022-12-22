@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/prəˈtɛktɪv/"
+    ],
+    "synonyms": [
+        "shielding",
+        "guarding",
+        "injurious",
+        "prophylactic",
+        "attacking"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something that protects.",
+            "vi": "Một cái gì đó bảo vệ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Adapted or intended to afford protection.",
+            "vi": "Thích ứng hoặc dự định để đủ khả năng bảo vệ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He's really protective of the people he cares about.",
+            "vi": "Anh ấy thực sự bảo vệ những người anh ấy quan tâm."
+        },
+        {
+            "en": "He's very protective of his family.",
+            "vi": "Anh ấy rất bảo vệ gia đình của mình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bảo vệ"
+}

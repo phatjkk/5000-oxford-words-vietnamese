@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/kəp/"
+    ],
+    "synonyms": [
+        "container",
+        "vessel",
+        "chalice",
+        "can",
+        "bowl"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The chalice or the wine used in the celebration of the Eucharist.",
+            "vi": "Chén hoặc rượu dùng trong cử hành Thánh Thể."
+        },
+        {
+            "pos": "verb",
+            "en": "To shape like a cup.",
+            "vi": "Để tạo hình giống như một chiếc cốc."
+        },
+        {
+            "pos": "initialism",
+            "en": "Cuban peso.",
+            "vi": "Đồng peso của Cuba."
+        },
+        {
+            "pos": "idiom",
+            "en": "cup of tea  Something that one excels in or enjoys: Opera is not my cup of tea.A matter to be reckoned or dealt with: Recreational sport is relaxing. Professional sport is another cup of tea altogether.",
+            "vi": "tách trà Thứ gì đó mà một người vượt trội hoặc thích thú: Opera không phải là tách trà của tôi. Thể thao chuyên nghiệp hoàn toàn là một tách trà."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Was the cup left here?",
+            "vi": "Cái cốc đã để lại ở đây à?"
+        },
+        {
+            "en": "He took the cup from her hand.",
+            "vi": "Anh nhận lấy chiếc cốc từ tay cô."
+        }
+    ],
+    "words_form": [
+        "cupped",
+        "cupping",
+        "cups"
+    ],
+    "meaning_vi": "tách"
+}

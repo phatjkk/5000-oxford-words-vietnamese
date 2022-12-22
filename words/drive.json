@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/draɪv/"
+    ],
+    "synonyms": [
+        "ride",
+        "run",
+        "trip",
+        "compel",
+        "road"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To work or try hard, as to reach a goal.",
+            "vi": "Để làm việc hoặc cố gắng chăm chỉ, để đạt được một mục tiêu."
+        },
+        {
+            "pos": "noun",
+            "en": "A strong organized effort to accomplish a purpose.",
+            "vi": "Một nỗ lực có tổ chức mạnh mẽ để hoàn thành một mục đích."
+        },
+        {
+            "pos": "idiom",
+            "en": "drive at  to aim at to mean; intend",
+            "vi": "lái vào để nhắm đến có nghĩa là; có ý định"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Are you sure you can drive alright?",
+            "vi": "Bạn có chắc là bạn có thể lái xe ổn không?"
+        },
+        {
+            "en": "I think Alex makes a concentrated effort to drive his father crazy.",
+            "vi": "Tôi nghĩ Alex cố gắng tập trung để khiến cha anh ấy phát điên."
+        }
+    ],
+    "words_form": [
+        "driven",
+        "drives",
+        "driving",
+        "drove"
+    ],
+    "meaning_vi": "lái xe"
+}

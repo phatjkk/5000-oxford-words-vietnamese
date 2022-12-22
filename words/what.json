@@ -1,0 +1,67 @@
+{
+    "spelling": [
+        "/(h)wət/",
+        "/(h)wɑt/"
+    ],
+    "synonyms": [
+        "whatever",
+        "something",
+        "whichever",
+        "anything",
+        "everything"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In some manner or degree; in part; partly; usually followed by with.",
+            "vi": "Trong một số cách thức hoặc mức độ; một phần; từng phần; thường được theo sau bởi với."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of what is which one or as many as.",
+            "vi": "Định nghĩa về cái nào là cái nào hoặc cái nào nhiều."
+        },
+        {
+            "pos": "interjection",
+            "en": "(UK, colloquial, dated) Is that not true?",
+            "vi": "(Vương quốc Anh, thông tục, ghi ngày tháng) Điều đó không đúng?"
+        },
+        {
+            "pos": "pronoun",
+            "en": "Anything that.",
+            "vi": "Bất cứ điều gì."
+        },
+        {
+            "pos": "conjunction",
+            "en": "That.",
+            "vi": "Điều đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The true or basic quality of something.",
+            "vi": "Chất lượng thực sự hoặc cơ bản của một cái gì đó."
+        },
+        {
+            "pos": "determiner",
+            "en": "How much; how great (used in an exclamation).",
+            "vi": "Bao nhiêu; tuyệt vời như thế nào (được sử dụng trong câu cảm thán)."
+        },
+        {
+            "pos": "idiom",
+            "en": "or what  Used as an intensive at the end of a question: Is he crazy, or what? Are you a genius, or what?.",
+            "vi": "hoặc cái gì Được sử dụng như một câu chuyên sâu ở cuối câu hỏi: Anh ta có bị điên không, hay cái gì? Bạn có phải là thiên tài không?"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What time is it?",
+            "vi": "Mấy giờ rồi?"
+        },
+        {
+            "en": "What is an earthquake?",
+            "vi": "Động đất là gì?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "Cái gì"
+}

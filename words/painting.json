@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈpeɪn(t)ɪŋ/"
+    ],
+    "synonyms": [
+        "water color",
+        "covering",
+        "seascape",
+        "art",
+        "likeness"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or occupation of covering surfaces with paint.",
+            "vi": "Hành động hoặc chiếm đóng các bề mặt bằng sơn."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of paint.",
+            "vi": "Trình bày phân từ của sơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't want you to see the painting until it was done.",
+            "vi": "Tôi không muốn bạn nhìn thấy bức tranh cho đến khi nó được hoàn thành."
+        },
+        {
+            "en": "Evelyn's gaze fell to the painting again.",
+            "vi": "Ánh mắt của Evelyn lại rơi vào bức tranh."
+        }
+    ],
+    "words_form": [
+        "paintings"
+    ],
+    "meaning_vi": "bức tranh"
+}

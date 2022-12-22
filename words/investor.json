@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/ɪnˈvɛstə/"
+    ],
+    "synonyms": [
+        "banker",
+        "lender",
+        "shareholder",
+        "stockholder",
+        "venture capitalist"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person who invests money in order to make a profit.",
+            "vi": "Một người đầu tư tiền để kiếm lợi nhuận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Roger said he'd heard it was some investor from out west.",
+            "vi": "Roger nói rằng anh ấy đã nghe nói đó là một nhà đầu tư nào đó từ phía tây."
+        },
+        {
+            "en": "The investor did not incur any capital gains liability.",
+            "vi": "Nhà đầu tư không phải chịu bất kỳ trách nhiệm tăng vốn nào."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "A person who invests money in order to make a profit.",
+            "vi": "Một người đầu tư tiền để kiếm lợi nhuận."
+        }
+    ]
+}

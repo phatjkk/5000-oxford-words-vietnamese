@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈfɪltər/"
+    ],
+    "synonyms": [
+        "penetrate",
+        "strain",
+        "mix",
+        "seep",
+        "distill"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a filter is something that separates solids from liquids, or eliminates impurities, or allows only certain things to pass through.",
+            "vi": "Định nghĩa của bộ lọc là một cái gì đó tách chất rắn khỏi chất lỏng, hoặc loại bỏ tạp chất, hoặc chỉ cho phép một số thứ đi qua."
+        },
+        {
+            "pos": "verb",
+            "en": "To remove by passing through a filter.",
+            "vi": "Để loại bỏ bằng cách đi qua một bộ lọc."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(order theory): ultrafilter.",
+            "vi": "(lý thuyết thứ tự): siêu lọc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her words escaped before she thought to filter them.",
+            "vi": "Lời nói của cô đã thoát ra trước khi cô nghĩ phải lọc chúng."
+        },
+        {
+            "en": "It is washed by ejecting a jet of water, ammonia or other prescribed liquid on to the side of the filter paper until the paper is nearly full.",
+            "vi": "Nó được rửa bằng cách phun một tia nước, amoniac hoặc chất lỏng được chỉ định khác lên mặt của giấy lọc cho đến khi giấy gần đầy."
+        }
+    ],
+    "words_form": [
+        "filtered",
+        "filtering",
+        "filters"
+    ],
+    "meaning_vi": "lọc"
+}

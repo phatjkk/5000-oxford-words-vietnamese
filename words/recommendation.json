@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌrɛkəmənˈdeɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "advice",
+        "condemnation",
+        "endorsement",
+        "commendation",
+        "suggestion"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of recommending, or calling attention to, a person or thing as suited to some purpose.",
+            "vi": "Hành động giới thiệu hoặc kêu gọi sự chú ý đến một người hoặc vật phù hợp với mục đích nào đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He even offered to mind Bumpus for a few days after I requested a recommendation for a kennel.",
+            "vi": "Anh ấy thậm chí còn đề nghị quan tâm đến Bumpus trong vài ngày sau khi tôi yêu cầu một lời giới thiệu cho một chiếc cũi."
+        },
+        {
+            "en": "Defoe says he received no pension, but his subsequent fidelity was at all events indirectly rewarded; moreover, Harley's moderation in a time of the extremest party-insanity was no little recommendation to Defoe.",
+            "vi": "Defoe nói rằng anh ta không nhận được lương hưu, nhưng lòng chung thủy sau đó của anh ta đã được khen thưởng gián tiếp ở tất cả các sự kiện; Hơn nữa, sự tiết chế của Harley trong thời điểm điên cuồng nhất của đảng không phải là một khuyến nghị nhỏ đối với Defoe."
+        }
+    ],
+    "words_form": [
+        "recommendations"
+    ],
+    "meaning_vi": "sự giới thiệu; sự tiến cử"
+}

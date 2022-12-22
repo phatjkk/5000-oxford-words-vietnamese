@@ -1,0 +1,32 @@
+{
+    "spelling": [
+        "/ˌɛkəˈnɑmɪk/",
+        "/ˌikəˈnɑmɪk/"
+    ],
+    "synonyms": [
+        "industrial",
+        "business",
+        "financial",
+        "budgetary",
+        "commercial"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of economic is something related to the management of income, expenses, money or wealth.",
+            "vi": "Định nghĩa của kinh tế là một cái gì đó liên quan đến việc quản lý thu nhập, chi phí, tiền bạc hoặc của cải."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They have no economic advantage in going to war.",
+            "vi": "Họ không có lợi thế kinh tế khi tham chiến."
+        },
+        {
+            "en": "But three years later a new economic development began.",
+            "vi": "Nhưng ba năm sau, một nền kinh tế mới bắt đầu phát triển."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thuộc kinh tế"
+}

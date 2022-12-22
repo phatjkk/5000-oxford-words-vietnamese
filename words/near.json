@@ -1,0 +1,61 @@
+{
+    "spelling": [
+        "/ˈnɪr/"
+    ],
+    "synonyms": [
+        "adjacent",
+        "far",
+        "close at hand",
+        "nigh",
+        "bordering"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of near is close in distance, time or relationship.",
+            "vi": "Định nghĩa của gần là gần trong khoảng cách, thời gian hoặc mối quan hệ."
+        },
+        {
+            "pos": "adverb",
+            "en": "To, at, or within a short distance or interval in space or time.",
+            "vi": "Tới, tại, hoặc trong một khoảng cách hoặc khoảng thời gian ngắn trong không gian hoặc thời gian."
+        },
+        {
+            "pos": "verb",
+            "en": "To come or draw near (to); approach.",
+            "vi": "To come or draw near (to); cách tiếp cận."
+        },
+        {
+            "pos": "noun",
+            "en": "The left side of a horse or of a team of horses pulling a carriage etc.",
+            "vi": "Bên trái của một con ngựa hoặc của một đội ngựa kéo xe, v.v."
+        },
+        {
+            "pos": "preposition",
+            "en": "Close to, in close proximity to.",
+            "vi": "Gần với, gần với."
+        },
+        {
+            "pos": "idiom",
+            "en": "near at hand  very close in time or space",
+            "vi": "gần trong tầm tay rất gần trong thời gian hoặc không gian"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She drew near to him and stopped.",
+            "vi": "Cô đến gần anh và dừng lại."
+        },
+        {
+            "en": "There are bears near by.",
+            "vi": "Có gấu ở gần."
+        }
+    ],
+    "words_form": [
+        "neared",
+        "nearest",
+        "nearing",
+        "nears"
+    ],
+    "meaning_vi": "gần"
+}

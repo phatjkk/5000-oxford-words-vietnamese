@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈɡloʊbəl/"
+    ],
+    "synonyms": [
+        "individual",
+        "inclusive",
+        "universal",
+        "local",
+        "national"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of global is relating to the whole world, entirely or comprehensive.",
+            "vi": "Định nghĩa về toàn cầu liên quan đến toàn bộ thế giới, toàn bộ hoặc toàn diện."
+        },
+        {
+            "pos": "noun",
+            "en": "(computing) A globally scoped identifier.",
+            "vi": "(máy tính) Một số nhận dạng phạm vi toàn cầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "All this will happen eventually, I believe, even if global hunger policy were not to change one iota.",
+            "vi": "Tất cả những điều này cuối cùng sẽ xảy ra, tôi tin rằng, ngay cả khi chính sách về nạn đói toàn cầu không làm thay đổi một iota."
+        },
+        {
+            "en": "Satellite imagery gives a global perspective on the ozone hole.",
+            "vi": "Hình ảnh vệ tinh cung cấp viễn cảnh toàn cầu về lỗ thủng tầng ôzôn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "toàn cầu"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈmæsəkər/"
+    ],
+    "synonyms": [
+        "slaughter",
+        "murder",
+        "carnage",
+        "annihilate",
+        "bloodbath"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or an instance of killing a large number of humans indiscriminately and cruelly.",
+            "vi": "Hành động hoặc một ví dụ về việc giết một số lượng lớn con người một cách bừa bãi và tàn nhẫn."
+        },
+        {
+            "pos": "verb",
+            "en": "To kill indiscriminately and wantonly; slaughter.",
+            "vi": "Giết người bừa bãi và tùy ý; sự tàn sát."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Memories of the massacre made bile rise and her chest clench.",
+            "vi": "Những ký ức về vụ thảm sát khiến cô dâng trào và lồng ngực cô quặn lại."
+        },
+        {
+            "en": "The full details of the siege and massacre will be found under Indian Mutiny, and here it will suffice to refer to the local memorials of that evil time.",
+            "vi": "Chi tiết đầy đủ về cuộc vây hãm và thảm sát sẽ được tìm thấy trong Indian Mutiny, và ở đây chỉ cần tham khảo các đài tưởng niệm địa phương về thời gian ác độc đó là đủ."
+        }
+    ],
+    "words_form": [
+        "massacred",
+        "massacres",
+        "massacring"
+    ],
+    "meaning_vi": "tàn sát"
+}

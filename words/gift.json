@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ɡɪft/"
+    ],
+    "synonyms": [
+        "present",
+        "largesse",
+        "grant",
+        "souvenir",
+        "keepsake"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a gift is a present or something given freely.",
+            "vi": "Định nghĩa về một món quà là một món quà hoặc một thứ gì đó được tặng một cách tự do."
+        },
+        {
+            "pos": "verb",
+            "en": "To gift is defined as to give something without the hopes of getting anything in returning.",
+            "vi": "Tặng quà được định nghĩa là tặng một thứ gì đó mà không hy vọng nhận lại được gì."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Gamete intrafallopian transfer.",
+            "vi": "Chuyển giao tử trong cơ thể."
+        },
+        {
+            "pos": "idiom",
+            "en": "look a gift horse in the mouth  to be critical of a gift or favor",
+            "vi": "nhìn một con ngựa quà trong miệng để chỉ trích một món quà hoặc một ân huệ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I had one gift which especially pleased me.",
+            "vi": "Tôi đã có một món quà đặc biệt làm tôi hài lòng."
+        },
+        {
+            "en": "Send the beautiful gift to him.",
+            "vi": "Gửi món quà tuyệt đẹp cho anh ấy."
+        }
+    ],
+    "words_form": [
+        "gifted",
+        "gifting",
+        "gifts"
+    ],
+    "meaning_vi": "món quà"
+}

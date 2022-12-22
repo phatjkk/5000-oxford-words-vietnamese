@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈmidɪŋ/"
+    ],
+    "synonyms": [
+        "conference",
+        "convergence",
+        "separation",
+        "rendezvous",
+        "abutment"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a meeting is a gathering or coming together.",
+            "vi": "Định nghĩa của một cuộc họp là một cuộc tụ họp hoặc đến với nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of meet.",
+            "vi": "Hiện tại phân từ cuộc họp."
+        },
+        {
+            "pos": "idiom",
+            "en": "meeting of the minds  Agreement; concord.",
+            "vi": "meeting of the mind Thỏa thuận; hòa hợp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I hope your meeting goes well.",
+            "vi": "Tôi hy vọng cuộc họp của bạn diễn ra tốt đẹp."
+        },
+        {
+            "en": "We've got a meeting at two and it's almost one-thirty now.",
+            "vi": "Chúng tôi có một cuộc họp lúc hai giờ và bây giờ là gần một giờ rưỡi."
+        }
+    ],
+    "words_form": [
+        "meetings"
+    ],
+    "meaning_vi": "cuộc họp"
+}

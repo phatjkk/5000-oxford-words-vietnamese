@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌɪləˈstreɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "drawing",
+        "etching",
+        "case",
+        "painting",
+        "model"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A picture or image that is used to decorate or clarify a text.",
+            "vi": "Hình ảnh hoặc hình ảnh được sử dụng để trang trí hoặc làm rõ văn bản."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In illustration of this fact a simple experiment may be mentioned.",
+            "vi": "Để minh họa cho thực tế này, một thí nghiệm đơn giản có thể được đề cập."
+        },
+        {
+            "en": "In 1792 Shaw began the Museum Leverianum in illustration of this collection, which was finally dispersed by sale, and what is known to remain of it found its way to Vienna.",
+            "vi": "Năm 1792 Shaw bắt đầu xây dựng Bảo tàng Leverianum để minh họa cho bộ sưu tập này, cuối cùng bộ sưu tập này đã được phân tán bằng cách bán, và những gì còn lại của nó đã được chuyển đến Vienna."
+        }
+    ],
+    "words_form": [
+        "illustrations"
+    ],
+    "meaning_vi": "hình minh họa"
+}

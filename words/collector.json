@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/kəˈlɛktər/"
+    ],
+    "synonyms": [
+        "gatherer",
+        "accumulator",
+        "connoisseur",
+        "antiquary",
+        "fancier"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person employed to collect taxes, duties, or other payments.",
+            "vi": "Một người được thuê để thu thuế, nghĩa vụ hoặc các khoản thanh toán khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It cannot be said that any one form of collector is superior all round.",
+            "vi": "Không thể nói rằng bất kỳ một hình thức sưu tập nào là vượt trội hơn tất cả."
+        },
+        {
+            "en": "When a water jet serves as collector, the pressure under which it issues should be practically constant.",
+            "vi": "Khi một tia nước đóng vai trò là bộ thu, áp suất mà nó tạo ra trên thực tế phải không đổi."
+        }
+    ],
+    "words_form": [
+        "collectors"
+    ],
+    "meaning_vi": "người sưu tầm"
+}

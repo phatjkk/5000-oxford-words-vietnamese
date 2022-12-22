@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/dəˈprɛst/"
+    ],
+    "synonyms": [
+        "somber",
+        "dejected",
+        "heavy-hearted",
+        "pessimistic",
+        "hollow"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Suffering from psychological depression.",
+            "vi": "Bị suy nhược tâm lý."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of depress.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ trầm cảm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His face was depressed and gloomy.",
+            "vi": "Gương mặt anh tiều tụy, u ám."
+        },
+        {
+            "en": "It left her depressed, when she wanted to be happy the last few months of her life.",
+            "vi": "Nó khiến cô chán nản, khi cô muốn được hạnh phúc trong những tháng cuối đời."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bị trầm cảm, phiền muộn"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kəmˈpaɪl/"
+    ],
+    "synonyms": [
+        "collate",
+        "consolidate",
+        "amass",
+        "recapitulate",
+        "concentrate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of compile means to gather a number of things together into one.",
+            "vi": "Định nghĩa của biên dịch có nghĩa là tập hợp một số thứ lại với nhau thành một."
+        },
+        {
+            "pos": "noun",
+            "en": "(computing) An act of compiling code.",
+            "vi": "(máy tính) Một hành động biên dịch mã."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "While in France Paulus was requested by Charlemagne to compile a collection of homilies.",
+            "vi": "Khi ở Pháp, Paulus đã được Charlemagne yêu cầu biên soạn một bộ sưu tập các homilies."
+        },
+        {
+            "en": "Much more memorable, however, was a library formed by Iyeyasus grandson the feudal chief of Mito (1662I 700), who not only collected a vast quantity of books hitherto scattered among Shinto and Buddhist monasteries and private houses, but also employed a number of scholars to compile a history unprecedented in magnitude, the Dai-Nihon-shi.",
+            "vi": "Tuy nhiên, đáng nhớ hơn nhiều là một thư viện được thành lập bởi Iyeyasus cháu trai của vua Mito (1662I 700), người không chỉ thu thập một lượng lớn sách cho đến nay nằm rải rác trong các tu viện và nhà riêng của Thần đạo và Phật giáo, mà còn thuê một số học giả. để biên soạn một lịch sử vĩ đại chưa từng có, Dai-Nihon-shi."
+        }
+    ],
+    "words_form": [
+        "compiled",
+        "compiles",
+        "compiling"
+    ],
+    "meaning_vi": "biên dịch"
+}

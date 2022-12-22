@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˈhəʊmlɪs/"
+    ],
+    "synonyms": [
+        "destitute",
+        "displaced",
+        "dispossessed",
+        "derelict",
+        "down-and-out"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having no home or haven.",
+            "vi": "Không có nhà hoặc nơi ẩn náu."
+        },
+        {
+            "pos": "noun",
+            "en": "People without homes considered as a group. Often used with the.",
+            "vi": "Những người không có nhà được coi là một nhóm. Thường được sử dụng với."
+        },
+        {
+            "pos": "idiom",
+            "en": "the homeless  those typically poor or sometimes mentally ill people who are unable to maintain a place to live and therefore often may sleep in the streets, parks, etc.",
+            "vi": "những người vô gia cư, những người thường nghèo hoặc đôi khi bị bệnh tâm thần, những người không thể duy trì nơi ở và do đó thường có thể ngủ trên đường phố, công viên, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She was a homeless girl – kind of put me in mind of you.",
+            "vi": "Cô ấy là một cô gái vô gia cư - khiến tôi nhớ đến cô."
+        },
+        {
+            "en": "Father took her when she was homeless after losing her own father.",
+            "vi": "Cha đã lấy cô khi cô vô gia cư sau khi mất cha ruột của mình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "adjective",
+            "en": "Having no home or haven.",
+            "vi": "Không có nhà hoặc nơi ẩn náu."
+        },
+        {
+            "pos": "noun",
+            "en": "People without homes considered as a group. Often used with the.",
+            "vi": "Những người không có nhà được coi là một nhóm. Thường được sử dụng với."
+        },
+        {
+            "pos": "idiom",
+            "en": "the homeless  those typically poor or sometimes mentally ill people who are unable to maintain a place to live and therefore often may sleep in the streets, parks, etc.",
+            "vi": "những người vô gia cư, những người thường nghèo hoặc đôi khi bị bệnh tâm thần, những người không thể duy trì nơi ở và do đó thường có thể ngủ trên đường phố, công viên, v.v."
+        }
+    ]
+}

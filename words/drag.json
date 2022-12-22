@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/dræɡ/"
+    ],
+    "synonyms": [
+        "transport",
+        "grapnel",
+        "pull",
+        "brake",
+        "shoe"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a drag is a person or thing that is being slow, pulled, moved or resistant.",
+            "vi": "Định nghĩa của một lực cản là một người hoặc vật đang bị chậm lại, bị kéo, di chuyển hoặc chống lại."
+        },
+        {
+            "pos": "verb",
+            "en": "(baseball) To hit (a bunt) while taking the first steps toward first base.",
+            "vi": "(bóng chày) Để đánh (một quả bóng) trong khi bước những bước đầu tiên về phía cơ sở đầu tiên."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or being a person wearing clothing characteristic of the opposite sex.",
+            "vi": "Của, liên quan đến, hoặc là một người mặc quần áo đặc trưng của người khác giới."
+        },
+        {
+            "pos": "idiom",
+            "en": "drag (one's) feet  To act or work with intentional slowness; delay.",
+            "vi": "lê (một) chân Để hành động hoặc làm việc với sự chậm chạp có chủ đích; trì hoãn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I won't drag you into it.",
+            "vi": "Tôi sẽ không kéo bạn vào đó."
+        },
+        {
+            "en": "You can come with me quietly, or I can drag you out of here.",
+            "vi": "Bạn có thể đến với tôi một cách lặng lẽ, hoặc tôi có thể kéo bạn ra khỏi đây."
+        }
+    ],
+    "words_form": [
+        "dragged",
+        "dragging",
+        "drags"
+    ],
+    "meaning_vi": "kéo"
+}

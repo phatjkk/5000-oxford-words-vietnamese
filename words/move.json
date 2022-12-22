@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/muv/"
+    ],
+    "synonyms": [
+        "induce",
+        "shift",
+        "migrate",
+        "movement",
+        "transit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make a formal motion in parliamentary procedure.",
+            "vi": "Để thực hiện một chuyển động chính thức trong thủ tục quốc hội."
+        },
+        {
+            "pos": "noun",
+            "en": "An action taken to achieve an objective; a maneuver.",
+            "vi": "Một hành động được thực hiện để đạt được một mục tiêu; một sự điều động."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) get a move on  To get started; get going.",
+            "vi": "(không chính thức) bắt đầu để bắt đầu; bắt đầu đi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I just want to move on.",
+            "vi": "Tôi chỉ muốn tiếp tục."
+        },
+        {
+            "en": "You can move in with me.",
+            "vi": "Bạn có thể chuyển đến ở với tôi."
+        }
+    ],
+    "words_form": [
+        "moved",
+        "moves",
+        "moving"
+    ],
+    "meaning_vi": "di chuyển"
+}

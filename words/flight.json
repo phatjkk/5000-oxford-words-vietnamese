@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/flaɪt/"
+    ],
+    "synonyms": [
+        "soaring",
+        "gliding",
+        "flying",
+        "inspiration",
+        "cruising"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Flight is defined as the act of flying or leaving.",
+            "vi": "Chuyến bay được định nghĩa là hành động bay đi hoặc rời đi."
+        },
+        {
+            "pos": "verb",
+            "en": "To migrate or fly in flocks.",
+            "vi": "Di cư hoặc bay theo đàn."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Fast, swift.",
+            "vi": "(lỗi thời) Nhanh chóng, nhanh chóng."
+        },
+        {
+            "pos": "idiom",
+            "en": "take flight  to take wing, take off, etc.; become airborne and fly",
+            "vi": "cất cánh, cất cánh, v.v ...; trở nên trên không và bay"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A blowing snow storm delayed our flight north.",
+            "vi": "Một cơn bão tuyết đang thổi đã làm trì hoãn chuyến bay của chúng tôi về phía bắc."
+        },
+        {
+            "en": "Owing to the rapidity of the French flight and the Russian pursuit and the consequent exhaustion of the horses, the chief means of approximately ascertaining the enemy's position--by cavalry scouting-- was not available.",
+            "vi": "Do sự nhanh chóng của chuyến bay của Pháp và sự truy đuổi của Nga và hậu quả là sự kiệt sức của những con ngựa, phương tiện chủ yếu để xác định gần đúng vị trí của kẻ thù - bằng cách trinh sát kỵ binh - không có sẵn."
+        }
+    ],
+    "words_form": [
+        "flights"
+    ],
+    "meaning_vi": "chuyến bay"
+}

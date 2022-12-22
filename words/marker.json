@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈmɑrkər/"
+    ],
+    "synonyms": [
+        "guide",
+        "seal",
+        "ticket",
+        "marking",
+        "label"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One that marks or serves as a mark, as:  A bookmark. A tombstone. A milestone.",
+            "vi": "Một đánh dấu hoặc phục vụ như một dấu hiệu, như: Dấu trang. Một bia mộ. Một cột mốc quan trọng."
+        },
+        {
+            "pos": "verb",
+            "en": "To mark or write on (something) using a marker.",
+            "vi": "Để đánh dấu hoặc viết lên (cái gì đó) bằng bút dạ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I took back the marker of my family and buried it at their obelisk.",
+            "vi": "Tôi đã lấy lại dấu ấn của gia đình mình và chôn nó tại tháp mộ của họ."
+        },
+        {
+            "en": "At the fourth mile marker, she paused.",
+            "vi": "Tại điểm đánh dấu dặm thứ tư, cô ấy dừng lại."
+        }
+    ],
+    "words_form": [
+        "markers"
+    ],
+    "meaning_vi": "đánh dấu"
+}

@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/θroʊ/"
+    ],
+    "synonyms": [
+        "toss",
+        "fling",
+        "pitch",
+        "fire",
+        "grab"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a throw is an act of something being propelled or hurled through the air.",
+            "vi": "Định nghĩa ném là một hành động của một cái gì đó được đẩy hoặc ném trong không khí."
+        },
+        {
+            "pos": "verb",
+            "en": "To put on or off hastily or carelessly.",
+            "vi": "Mặc vào hoặc tắt một cách vội vàng hoặc bất cẩn."
+        },
+        {
+            "pos": "idiom",
+            "en": "throw cold water on  To express misgivings about or disapproval of; discourage.",
+            "vi": "dội nước lạnh vào Để bày tỏ sự nghi ngờ về hoặc không tán thành; không khuyến khích."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I thought you were going to throw that picture away.",
+            "vi": "Tôi đã nghĩ rằng bạn sẽ ném bức ảnh đó đi."
+        },
+        {
+            "en": "Throw on some chips and make a blaze.",
+            "vi": "Ném vào một số chip và tạo ra một ngọn lửa."
+        }
+    ],
+    "words_form": [
+        "threw",
+        "throwing",
+        "thrown",
+        "throws"
+    ],
+    "meaning_vi": "ném"
+}

@@ -1,0 +1,52 @@
+{
+    "spelling": [
+        "/wɪð/",
+        "/wɪθ/"
+    ],
+    "synonyms": [
+        "including",
+        "accompanying",
+        "hand-in-glove",
+        "cheek-by-jowl",
+        "upon"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "In the membership or employment of.",
+            "vi": "Trong tư cách thành viên hoặc việc làm của."
+        },
+        {
+            "pos": "adverb",
+            "en": "As company; along.",
+            "vi": "Với tư cách là công ty; dọc theo."
+        },
+        {
+            "pos": "affix",
+            "en": "Away, back.",
+            "vi": "Đi đi, quay lại."
+        },
+        {
+            "pos": "noun",
+            "en": "Alternative form of withe.",
+            "vi": "Hình thức thay thế của withe."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) in with  In league or association with: He is in with the wrong crowd.",
+            "vi": "(không chính thức) in with Trong liên minh hoặc liên kết với: Anh ta ở cùng với đám đông sai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"How long will you be with us?\" he asked.",
+            "vi": "\"Bạn sẽ ở với chúng tôi bao lâu?\" anh ấy hỏi."
+        },
+        {
+            "en": "She came to the airport with him.",
+            "vi": "Cô đến sân bay cùng anh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "với"
+}

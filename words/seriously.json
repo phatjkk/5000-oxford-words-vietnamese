@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈsɪriəsli/"
+    ],
+    "synonyms": [
+        "dangerously",
+        "precariously",
+        "perilously",
+        "grievously",
+        "menacingly"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "(slang) To a great degree; very.",
+            "vi": "(tiếng lóng) Ở một mức độ lớn; hết sức."
+        },
+        {
+            "pos": "interjection",
+            "en": "(informal) Indeed; really.",
+            "vi": "(không chính thức) Thật vậy; có thật không."
+        },
+        {
+            "pos": "idiom",
+            "en": "take seriously  to regard or treat as important, serious, challenging, etc.",
+            "vi": "coi trọng hoặc coi là quan trọng, nghiêm túc, thách thức, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You can't seriously think I'm a suspect.",
+            "vi": "Bạn không thể nghiêm túc nghĩ rằng tôi là một kẻ tình nghi."
+        },
+        {
+            "en": "You seriously want me to go?",
+            "vi": "Bạn thực sự muốn tôi đi?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nghiêm trọng"
+}

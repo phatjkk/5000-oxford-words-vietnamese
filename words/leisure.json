@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈliʒər/",
+        "/ˈlɛʒər/"
+    ],
+    "synonyms": [
+        "free-time",
+        "spare-time",
+        "relaxation",
+        "freedom",
+        "leisure time"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Leisure is defined as freedom from work, school or other responsibilities and tasks.",
+            "vi": "Giải trí được định nghĩa là sự tự do khỏi công việc, trường học hoặc các trách nhiệm và nhiệm vụ khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Wealthy, with much leisure for recreation.",
+            "vi": "Giàu có, có nhiều thời gian để giải trí."
+        },
+        {
+            "pos": "idiom",
+            "en": "at (one's) leisure  When one has free time; at one's convenience: I'll return the call at my leisure.",
+            "vi": "lúc rảnh rỗi (một người) Khi một người có thời gian rảnh rỗi; lúc nào thuận tiện: Tôi sẽ gọi lại lúc rảnh rỗi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What an abundance of leisure he must have!",
+            "vi": "Anh ta phải có một sự thư thái dồi dào!"
+        },
+        {
+            "en": "His leisure time was given up to natural history, and especially to mineralogy and botany.",
+            "vi": "Thời gian rảnh rỗi của ông được dành cho lịch sử tự nhiên, và đặc biệt là khoáng vật học và thực vật học."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "giải trí"
+}

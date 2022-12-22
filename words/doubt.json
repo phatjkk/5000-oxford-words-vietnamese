@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/daʊt/"
+    ],
+    "synonyms": [
+        "question",
+        "skepticism",
+        "misgiving",
+        "dubiety",
+        "ambivalence"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To regard as unlikely.",
+            "vi": "Coi như không."
+        },
+        {
+            "pos": "noun",
+            "en": "The condition of being unsettled or unresolved.",
+            "vi": "Tình trạng tồn đọng hoặc chưa được giải quyết."
+        },
+        {
+            "pos": "idiom",
+            "en": "beyond  Without question; certainly; definitely.",
+            "vi": "vượt ra ngoài mà không có câu hỏi; chắc chắn; chắc chắn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I doubt if she'll go to you.",
+            "vi": "Tôi nghi ngờ nếu cô ấy sẽ đến với bạn."
+        },
+        {
+            "en": "I doubt that... but you never know.",
+            "vi": "Tôi nghi ngờ điều đó ... nhưng bạn không bao giờ biết."
+        }
+    ],
+    "words_form": [
+        "doubted",
+        "doubts"
+    ],
+    "meaning_vi": "nghi ngờ"
+}

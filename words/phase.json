@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/feɪz/"
+    ],
+    "synonyms": [
+        "form",
+        "appearance",
+        "state",
+        "perspective",
+        "stage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A temporary manner, attitude, or pattern of behavior.",
+            "vi": "Một cách thức, thái độ hoặc khuôn mẫu hành vi tạm thời."
+        },
+        {
+            "pos": "verb",
+            "en": "To phase is to do something gradually over a period of time.",
+            "vi": "Giai đoạn là làm một việc gì đó dần dần trong một khoảng thời gian."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(obsolete) Passover.",
+            "vi": "(lỗi thời) Lễ Vượt qua."
+        },
+        {
+            "pos": "idiom",
+            "en": "in phase  In a correlated or synchronized way.",
+            "vi": "trong giai đoạn Theo một cách tương quan hoặc đồng bộ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her life was about to enter its next phase of the nightmare.",
+            "vi": "Cuộc đời cô sắp bước vào giai đoạn tiếp theo của cơn ác mộng."
+        },
+        {
+            "en": "Okay, next phase completed.",
+            "vi": "Được rồi, giai đoạn tiếp theo đã hoàn thành."
+        }
+    ],
+    "words_form": [
+        "phased",
+        "phases",
+        "phasing"
+    ],
+    "meaning_vi": "giai đoạn"
+}

@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/ˌɛkəˈnɑmɪks/",
+        "/ˌikəˈnɑmɪks/"
+    ],
+    "synonyms": [
+        "business",
+        "loan",
+        "keynesianism",
+        "economism",
+        "political-economy"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The social science that deals with the production, distribution, and consumption of goods and services and with the theory and management of economies or economic systems.",
+            "vi": "Khoa học xã hội liên quan đến sản xuất, phân phối và tiêu thụ hàng hóa và dịch vụ, với lý thuyết và quản lý nền kinh tế hoặc hệ thống kinh tế."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "Economic factors.",
+            "vi": "Những yếu tố kinh tế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "As my economics professors insisted, cost is determined by scarcity and demand.",
+            "vi": "Như các giáo sư kinh tế của tôi đã nhấn mạnh, chi phí được xác định bởi sự khan hiếm và nhu cầu."
+        },
+        {
+            "en": "In modern economics \"fertility\" has no very definite meaning.",
+            "vi": "Trong kinh tế học hiện đại, \"khả năng sinh sản\" không có ý nghĩa rõ ràng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "kinh tế học"
+}

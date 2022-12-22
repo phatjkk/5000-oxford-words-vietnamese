@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/hæŋ/"
+    ],
+    "synonyms": [
+        "drape",
+        "dangle",
+        "attach",
+        "hook-up",
+        "hang-up"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To fasten from above with no support from below; suspend.",
+            "vi": "Để buộc chặt từ bên trên mà không có sự hỗ trợ từ bên dưới; đình chỉ."
+        },
+        {
+            "pos": "noun",
+            "en": "The way in which something hangs.",
+            "vi": "Cách mà một thứ gì đó bị treo."
+        },
+        {
+            "pos": "idiom",
+            "en": "give  To be concerned or anxious: I don't give a hang what you do.",
+            "vi": "đưa ra Để được quan tâm hoặc lo lắng: Tôi không cung cấp cho bạn những gì bạn làm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "All he can do is hang up.",
+            "vi": "Tất cả những gì anh ta có thể làm là dập máy."
+        },
+        {
+            "en": "If you don't like the weather, hang around until this afternoon.",
+            "vi": "Nếu bạn không thích thời tiết, hãy lượn lờ cho đến chiều nay."
+        }
+    ],
+    "words_form": [
+        "hanged",
+        "hanging",
+        "hangs",
+        "hung"
+    ],
+    "meaning_vi": "treo"
+}

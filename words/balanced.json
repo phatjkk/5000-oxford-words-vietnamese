@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˈbælənst/"
+    ],
+    "synonyms": [
+        "equitable",
+        "fair",
+        "counterbalanced",
+        "evened",
+        "offset"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of balance.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ cân bằng."
+        },
+        {
+            "pos": "",
+            "en": "Referring to electrical symmetry. A balanced line or balanced medium such as twisted pair, in which both twisted pair conductors serve for signal transmission and reception. Each conductor carries a similar electrical signal with identical direct and return current paths.At any given point in the cable, the signals are equal in voltage to ground but opposite in polarity, which has the effect of reducing radiated energy and, therefore, reducing attenuation. See also unbalanced  and UTP.",
+            "vi": "Đề cập đến đối xứng điện. Một đường dây cân bằng hoặc phương tiện cân bằng như dây xoắn đôi, trong đó cả hai dây dẫn xoắn đôi đều phục vụ cho việc truyền và nhận tín hiệu. Mỗi dây dẫn mang một tín hiệu điện tương tự với các đường dẫn dòng điện một chiều và trở lại giống hệt nhau. . Xem thêm không cân bằng và UTP."
+        },
+        {
+            "pos": "adjective",
+            "en": "Containing elements in appropriate proportion.",
+            "vi": "Chứa các nguyên tố theo tỷ lệ thích hợp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She wobbled and balanced herself against the wall.",
+            "vi": "Cô loạng choạng và giữ thăng bằng dựa vào tường."
+        },
+        {
+            "en": "The compass needle is a little steel magnet balanced upon a pivot; one end of the needle, which always bears a distinguishing mark, points approximately, but not in general exactly, to the north,' the vertical plane through the direction of the needle being termed the magnetic meridian.",
+            "vi": "Kim la bàn là một nam châm thép nhỏ được cân bằng trên một trục quay; một đầu của kim, luôn mang dấu hiệu phân biệt, hướng gần đúng, nhưng không chính xác về phía bắc, 'mặt phẳng thẳng đứng qua hướng của kim được gọi là kinh tuyến từ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of balance.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ cân bằng."
+        },
+        {
+            "pos": "",
+            "en": "Referring to electrical symmetry. A balanced line or balanced medium such as twisted pair, in which both twisted pair conductors serve for signal transmission and reception. Each conductor carries a similar electrical signal with identical direct and return current paths.At any given point in the cable, the signals are equal in voltage to ground but opposite in polarity, which has the effect of reducing radiated energy and, therefore, reducing attenuation. See also unbalanced  and UTP.",
+            "vi": "Đề cập đến đối xứng điện. Một đường dây cân bằng hoặc phương tiện cân bằng như dây xoắn đôi, trong đó cả hai dây dẫn xoắn đôi đều phục vụ cho việc truyền và nhận tín hiệu. Mỗi dây dẫn mang một tín hiệu điện tương tự với các đường dẫn dòng điện một chiều và trở lại giống hệt nhau. . Xem thêm không cân bằng và UTP."
+        },
+        {
+            "pos": "adjective",
+            "en": "Containing elements in appropriate proportion.",
+            "vi": "Chứa các nguyên tố theo tỷ lệ thích hợp."
+        }
+    ]
+}

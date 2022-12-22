@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ʃɑt/"
+    ],
+    "synonyms": [
+        "attacked",
+        "whirl",
+        "injured",
+        "reach",
+        "distance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(sports) The act of launching a ball or similar object toward a goal.",
+            "vi": "(thể thao) Hành động tung bóng hoặc vật tương tự về phía khung thành."
+        },
+        {
+            "pos": "verb",
+            "en": "To load or weight with shot.",
+            "vi": "Để tải hoặc cân bằng cú đánh."
+        },
+        {
+            "pos": "adjective",
+            "en": "Variegated, streaked, flecked, etc. with another color or substance.",
+            "vi": "Loang lổ, sọc, loang lổ, v.v. với màu sắc hoặc chất khác."
+        },
+        {
+            "pos": "interjection",
+            "en": "(colloquial, South Africa) Thank you.",
+            "vi": "(thông tục, Nam Phi) Cảm ơn bạn."
+        },
+        {
+            "pos": "idiom",
+            "en": "like a shot  Very quickly.",
+            "vi": "như một phát súng Rất nhanh chóng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She'd shot two men with it.",
+            "vi": "Cô ấy đã bắn hai người đàn ông bằng nó."
+        },
+        {
+            "en": "His brows shot up.",
+            "vi": "Lông mày anh ta nhướng lên."
+        }
+    ],
+    "words_form": [
+        "shots",
+        "shotted",
+        "shotting"
+    ],
+    "meaning_vi": "bắn"
+}

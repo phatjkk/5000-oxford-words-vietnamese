@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈstrəɡəl/"
+    ],
+    "synonyms": [
+        "strive",
+        "battle",
+        "strife",
+        "attempt",
+        "grapple"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To exert muscular energy, as against a material force or mass.",
+            "vi": "Để tạo ra năng lượng cơ bắp, như chống lại một lực hoặc khối lượng vật chất."
+        },
+        {
+            "pos": "noun",
+            "en": "Great effort or a series of efforts; violent exertion.",
+            "vi": "Nỗ lực lớn hoặc một loạt các nỗ lực; gắng sức bạo lực."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Every struggle is a victory.",
+            "vi": "Mọi cuộc đấu tranh đều là một thắng lợi."
+        },
+        {
+            "en": "In spite of the continual struggle for custody, he had felt more welcome at the Medena home than he had with his step-father's family.",
+            "vi": "Bất chấp cuộc đấu tranh giành quyền nuôi con liên tục, anh cảm thấy được chào đón ở nhà Medena nhiều hơn ở gia đình cha dượng của mình."
+        }
+    ],
+    "words_form": [
+        "struggled",
+        "struggles",
+        "struggling"
+    ],
+    "meaning_vi": "đấu tranh"
+}

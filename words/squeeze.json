@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/skwiz/"
+    ],
+    "synonyms": [
+        "restraint",
+        "force",
+        "compress",
+        "extract",
+        "press"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To squeeze is defined as to compress or put pressure on something particularly to make room or get something out.",
+            "vi": "Ép chặt được định nghĩa là nén hoặc tạo áp lực lên một thứ gì đó đặc biệt để tạo khoảng trống hoặc lấy thứ gì đó ra ngoài."
+        },
+        {
+            "pos": "noun",
+            "en": "An amount squeezed out.",
+            "vi": "Một lượng vắt kiệt."
+        },
+        {
+            "pos": "idiom",
+            "en": "squeeze through  to succeed, survive, get through, etc. by a narrow margin or with difficulty",
+            "vi": "vượt qua để thành công, tồn tại, vượt qua, v.v. bằng một biên độ hẹp hoặc khó khăn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She smiled and reached out to squeeze his arm.",
+            "vi": "Cô mỉm cười vươn tay siết chặt cánh tay anh."
+        },
+        {
+            "en": "With a squeeze of her arm, he left her.",
+            "vi": "Với một cái siết chặt cánh tay của cô, anh rời bỏ cô."
+        }
+    ],
+    "words_form": [
+        "squeezed",
+        "squeezes",
+        "squeezing"
+    ],
+    "meaning_vi": "bóp"
+}

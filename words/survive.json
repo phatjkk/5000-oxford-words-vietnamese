@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/sərˈvaɪv/"
+    ],
+    "synonyms": [
+        "endure",
+        "persevere",
+        "succumb",
+        "live-on",
+        "withstand"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To remain alive or in existence.",
+            "vi": "Để tồn tại hoặc tồn tại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "None of us are gonna survive this!",
+            "vi": "Không ai trong chúng ta sẽ sống sót sau chuyện này!"
+        },
+        {
+            "en": "She definitely didn't know how to survive in the forest.",
+            "vi": "Cô ấy chắc chắn không biết làm thế nào để sống sót trong rừng."
+        }
+    ],
+    "words_form": [
+        "survived",
+        "survives",
+        "surviving"
+    ],
+    "meaning_vi": "tồn tại"
+}

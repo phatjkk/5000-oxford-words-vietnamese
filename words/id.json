@@ -1,0 +1,65 @@
+{
+    "spelling": [
+        "/ɪd/"
+    ],
+    "synonyms": [
+        "id.",
+        "idaho",
+        "identifier",
+        "psyche",
+        "character"
+    ],
+    "meaning": [
+        {
+            "pos": "contraction",
+            "en": "I'd is defined as I had or I would.",
+            "vi": "Tôi được định nghĩa là tôi đã có hoặc tôi sẽ làm."
+        },
+        {
+            "pos": "noun",
+            "en": "(psychoanalysis) That part of the psyche which is regarded as the reservoir of the instinctual drives and the source of psychic energy: it is dominated by the pleasure principle and irrational wishing, and its impulses are controlled through the development of the ego and superego.",
+            "vi": "(phân tâm học) Phần tâm lý được coi là nơi chứa các động lực bản năng và nguồn năng lượng tâm linh: nó bị chi phối bởi nguyên tắc khoái cảm và ước muốn phi lý, và các xung lực của nó được kiểm soát thông qua sự phát triển của bản ngã và siêu phàm."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Identification.",
+            "vi": "Nhận biết."
+        },
+        {
+            "pos": "verb",
+            "en": "To check the identification of, especially in order to verify legal age; card.",
+            "vi": "Để kiểm tra việc nhận dạng, đặc biệt là để xác minh tuổi hợp pháp; Thẻ."
+        },
+        {
+            "pos": "suffix",
+            "en": "Body; particle.",
+            "vi": "Cơ thể người; hạt."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or for identification.",
+            "vi": "Của hoặc để nhận dạng."
+        },
+        {
+            "pos": "affix",
+            "en": "A thing belonging to or connected with.  (astron.) A meteor that seems to radiate from a (specified) constellation. Leonid.(biol.) A particle or body. energid.(med.) An allergic reaction of the skin to (specified) bacteria, fungi, etc. in the body.",
+            "vi": "Một thứ thuộc về hoặc được kết nối với. (astron.) Một sao băng dường như tỏa ra từ một chòm sao (được chỉ định). Leonid. (Biol.) Một hạt hoặc cơ thể. Energygid. (med.) Một phản ứng dị ứng của da với (cụ thể) vi khuẩn, nấm, v.v. trong cơ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Can you ID this guy?",
+            "vi": "Bạn có thể xác định anh chàng này?"
+        },
+        {
+            "en": "I left my ID at the Peak and disabled my government implant.",
+            "vi": "Tôi đã để lại giấy tờ tùy thân của mình tại Peak và vô hiệu hóa thiết bị cấy ghép của chính phủ."
+        }
+    ],
+    "words_form": [
+        "ided",
+        "iding",
+        "ids"
+    ],
+    "meaning_vi": "(sinh vật học) ít (đơn vị chất giống)"
+}

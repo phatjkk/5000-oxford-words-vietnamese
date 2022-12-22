@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈaʊ(ə)r/"
+    ],
+    "synonyms": [
+        "minute",
+        "rush-hour",
+        "breviary",
+        "term",
+        "hr"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One of the 24 equal parts of a day.",
+            "vi": "Một trong 24 phần bằng nhau của một ngày."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Singular: h., hr.",
+            "vi": "Số ít: h., Hr."
+        },
+        {
+            "pos": "idiom",
+            "en": "long hours  A longer than usual or customary period of time for a given activity: Worked long hours to finish the project on time.",
+            "vi": "nhiều giờ Một khoảng thời gian dài hơn bình thường hoặc theo thông lệ cho một hoạt động nhất định: Đã làm việc nhiều giờ để hoàn thành dự án đúng hạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We just got back about an hour ago.",
+            "vi": "Chúng tôi vừa mới quay lại cách đây khoảng một giờ."
+        },
+        {
+            "en": "We haven't even been out for an hour yet.",
+            "vi": "Chúng tôi thậm chí còn chưa ra ngoài trong một giờ."
+        }
+    ],
+    "words_form": [
+        "hours"
+    ],
+    "meaning_vi": "giờ"
+}

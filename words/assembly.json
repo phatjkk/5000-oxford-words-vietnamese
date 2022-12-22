@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/əˈsɛmbli/"
+    ],
+    "synonyms": [
+        "meeting",
+        "assembling",
+        "auditorium",
+        "session",
+        "modeling"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "In government, an assembly is defined as a specific group of legislators.",
+            "vi": "Trong chính phủ, hội đồng được định nghĩa là một nhóm các nhà lập pháp cụ thể."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(US) The lower legislative body of each of a number of states of the United States, (\"the Assembly\").",
+            "vi": "(Hoa Kỳ) Cơ quan lập pháp cấp dưới của mỗi tiểu bang của Hoa Kỳ, (\"Hội đồng\")."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a low-level computer language that uses words, abbreviations, etc. that are translated into machine language.",
+            "vi": "Chỉ định hoặc ngôn ngữ máy tính cấp thấp sử dụng các từ, chữ viết tắt, v.v. được dịch sang ngôn ngữ máy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The temper of this assembly was, however, wholly different.",
+            "vi": "Tuy nhiên, tính khí của cuộc họp này hoàn toàn khác."
+        },
+        {
+            "en": "In 1801 a \"plan of union\" proposed by the General Association (Congregational) of Connecticut was accepted by the General Assembly, and the work of home missions in the western section of the country was prosecuted jointly.",
+            "vi": "Năm 1801, một \"kế hoạch liên hiệp\" do Tổng Hiệp hội (Congregational) Connecticut đề xuất đã được Đại hội đồng chấp nhận, và công việc của các cơ quan truyền giáo tại gia ở khu vực phía tây của đất nước đã được khởi tố cùng nhau."
+        }
+    ],
+    "words_form": [
+        "assemblies"
+    ],
+    "meaning_vi": "hội, tổ hợp"
+}

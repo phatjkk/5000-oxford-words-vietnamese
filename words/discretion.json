@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/dəˈskrɛʃ(ə)n/"
+    ],
+    "synonyms": [
+        "thoughtfulness",
+        "sound judgment",
+        "forethought",
+        "foresight",
+        "wisdom"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Discretion is defined as the right of someone to make choices or the quality of someone who is careful about what they do or say.",
+            "vi": "Quyền quyết định được định nghĩa là quyền của một người được đưa ra lựa chọn hoặc phẩm chất của một người cẩn thận về những gì họ làm hoặc nói."
+        },
+        {
+            "pos": "idiom",
+            "en": "at one's discretion  as one wishes",
+            "vi": "theo quyết định của một người như một mong muốn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The boss, at his/her discretion, may rotate the crew.",
+            "vi": "Ông chủ, theo quyết định của mình, có thể luân chuyển phi hành đoàn."
+        },
+        {
+            "en": "It will be at the discretion of the moderators.",
+            "vi": "Nó sẽ do người điều hành quyết định."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tùy ý"
+}

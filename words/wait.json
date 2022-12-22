@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/weɪt/"
+    ],
+    "synonyms": [
+        "stay-put",
+        "pray for",
+        "tarry",
+        "expect",
+        "linger"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(informal) To delay (a meal or an event); postpone.",
+            "vi": "(không chính thức) Để trì hoãn (một bữa ăn hoặc một sự kiện); hoãn."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or fact of waiting.",
+            "vi": "Hành động hoặc sự thật của việc chờ đợi."
+        },
+        {
+            "pos": "idiom",
+            "en": "cannot wait  to anticipate eagerly",
+            "vi": "không thể chờ đợi để mong đợi một cách háo hức"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can hardly wait for the fun to begin!",
+            "vi": "Tôi khó có thể chờ đợi niềm vui bắt đầu!"
+        },
+        {
+            "en": "You can't wait a moment!",
+            "vi": "Bạn không thể chờ đợi một chút!"
+        }
+    ],
+    "words_form": [
+        "waited",
+        "waiting",
+        "waits"
+    ],
+    "meaning_vi": "chờ đợi"
+}

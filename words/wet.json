@@ -1,0 +1,67 @@
+{
+    "spelling": [
+        "/wɛt/"
+    ],
+    "synonyms": [
+        "dank",
+        "foggy",
+        "humid",
+        "misty",
+        "muggy"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Not yet dry or firm.",
+            "vi": "Chưa khô hoặc cứng."
+        },
+        {
+            "pos": "noun",
+            "en": "Wet means a liquid.",
+            "vi": "Ướt nghĩa là chất lỏng."
+        },
+        {
+            "pos": "verb",
+            "en": "Wet is defined as to make something moist.",
+            "vi": "Ướt được định nghĩa là làm cho một thứ gì đó ẩm ướt."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) all wet  Entirely mistaken.",
+            "vi": "(tiếng lóng) đều ướt Hoàn toàn nhầm lẫn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He wet his pants.",
+            "vi": "Anh làm ướt quần."
+        },
+        {
+            "en": "You'd better go in and get out of those wet clothes.",
+            "vi": "Tốt hơn hết bạn nên vào trong và cởi quần áo ướt đó ra."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "adjective",
+            "en": "Not yet dry or firm.",
+            "vi": "Chưa khô hoặc cứng."
+        },
+        {
+            "pos": "noun",
+            "en": "Wet means a liquid.",
+            "vi": "Ướt nghĩa là chất lỏng."
+        },
+        {
+            "pos": "verb",
+            "en": "Wet is defined as to make something moist.",
+            "vi": "Ướt được định nghĩa là làm cho một thứ gì đó ẩm ướt."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) all wet  Entirely mistaken.",
+            "vi": "(tiếng lóng) đều ướt Hoàn toàn nhầm lẫn."
+        }
+    ]
+}

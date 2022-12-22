@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/kənˈteɪnər/"
+    ],
+    "synonyms": [
+        "tank",
+        "bowl",
+        "case",
+        "jug",
+        "crock"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A large reusable receptacle that can accommodate smaller cartons or cases in a single shipment, designed for efficient handling of cargo.",
+            "vi": "Một ngăn chứa lớn có thể tái sử dụng có thể chứa các thùng hoặc hộp nhỏ hơn trong một chuyến hàng, được thiết kế để xếp dỡ hàng hóa hiệu quả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was a small metal container no larger than a matchbox.",
+            "vi": "Đó là một cái hộp nhỏ bằng kim loại không lớn hơn bao diêm."
+        },
+        {
+            "en": "The clothing was obviously quite old and now that it was out of its container, reeked of dampness and dirt.",
+            "vi": "Bộ quần áo rõ ràng đã khá cũ và giờ nó đã không còn trong hộp đựng, bám đầy hơi ẩm và bụi bẩn."
+        }
+    ],
+    "words_form": [
+        "containers"
+    ],
+    "meaning_vi": "thùng đựng hàng"
+}

@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/fərˈbɪd/"
+    ],
+    "synonyms": [
+        "ban",
+        "prohibit",
+        "debar",
+        "obstruct",
+        "withhold"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To forbid is defined as to order that something not occur, or to prevent something from occurring.",
+            "vi": "Cấm được định nghĩa là ra lệnh cho điều gì đó không xảy ra, hoặc ngăn chặn điều gì đó xảy ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There are ancient laws that forbid it.",
+            "vi": "Có những luật cổ cấm điều đó."
+        },
+        {
+            "en": "How can you forbid or restrict its use in any way?",
+            "vi": "Làm thế nào bạn có thể cấm hoặc hạn chế việc sử dụng nó theo bất kỳ cách nào?"
+        }
+    ],
+    "words_form": [
+        "forbad",
+        "forbade",
+        "forbidden",
+        "forbidding",
+        "forbids"
+    ],
+    "meaning_vi": "ngăn cấm"
+}

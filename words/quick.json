@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/kwɪk/"
+    ],
+    "synonyms": [
+        "fast",
+        "hurried",
+        "speedy",
+        "swift",
+        "instantaneous"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Moving or functioning rapidly and energetically; speedy.",
+            "vi": "Di chuyển hoặc hoạt động nhanh chóng và mạnh mẽ; nhanh chóng."
+        },
+        {
+            "pos": "noun",
+            "en": "The most personal and sensitive aspect of the emotions.",
+            "vi": "Khía cạnh cá nhân và nhạy cảm nhất của cảm xúc."
+        },
+        {
+            "pos": "adverb",
+            "en": "Quickly; rapidly.",
+            "vi": "Mau; liên tục."
+        },
+        {
+            "pos": "verb",
+            "en": "(archaic) To animate; invigorate.",
+            "vi": "(cổ xưa) Để tạo hoạt ảnh; tiếp thêm sinh lực."
+        },
+        {
+            "pos": "idiom",
+            "en": "the quick  those who are alive; the living",
+            "vi": "nhanh chóng những người còn sống; cuộc sống"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She took a quick step back.",
+            "vi": "Cô lùi lại một bước nhanh chóng."
+        },
+        {
+            "en": "He soon learned all that his teacher could teach; for he was bright and quick, and had a good memory.",
+            "vi": "Anh sớm học được tất cả những gì mà thầy mình có thể dạy; vì anh ấy sáng sủa, nhanh nhẹn và có trí nhớ tốt."
+        }
+    ],
+    "words_form": [
+        "quicker",
+        "quickest"
+    ],
+    "meaning_vi": "nhanh chóng"
+}

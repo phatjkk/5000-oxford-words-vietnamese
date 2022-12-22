@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/hoʊl/"
+    ],
+    "synonyms": [
+        "all",
+        "full",
+        "hurt",
+        "mature",
+        "unbroken"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of whole is something that is complete or the entire amount.",
+            "vi": "Định nghĩa của toàn bộ là một cái gì đó được hoàn thành hoặc toàn bộ số tiền."
+        },
+        {
+            "pos": "noun",
+            "en": "An entity or system made up of interrelated parts.",
+            "vi": "Một thực thể hoặc hệ thống được tạo thành từ các bộ phận có liên quan với nhau."
+        },
+        {
+            "pos": "adverb",
+            "en": "Entirely; wholly.",
+            "vi": "Toàn bộ; hoàn toàn."
+        },
+        {
+            "pos": "idiom",
+            "en": "as a whole  All parts or aspects considered; altogether: Disliked the acting but enjoyed the play as a whole.",
+            "vi": "nói chung Tất cả các bộ phận hoặc khía cạnh được xem xét; nói chung: Không thích diễn xuất nhưng rất thích vở kịch nói chung."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I wish the whole world were like that!",
+            "vi": "Tôi ước gì cả thế giới đều như vậy!"
+        },
+        {
+            "en": "You'd have to know the whole story.",
+            "vi": "Bạn phải biết toàn bộ câu chuyện."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "toàn bộ"
+}

@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ˈɛdət/"
+    ],
+    "synonyms": [
+        "redact",
+        "delete",
+        "expunge",
+        "select",
+        "check"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Edit is defined as to prepare something for publication or final copy by removing errors and extra words.",
+            "vi": "Chỉnh sửa được định nghĩa là để chuẩn bị một cái gì đó để xuất bản hoặc bản sao cuối cùng bằng cách loại bỏ các lỗi và các từ thừa."
+        },
+        {
+            "pos": "noun",
+            "en": "An act or instance of editing.",
+            "vi": "Một hành động hoặc trường hợp chỉnh sửa."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Edited (by)",
+            "vi": "Sửa bởi)"
+        },
+        {
+            "pos": "adjective",
+            "en": "Abbreviation of edited.",
+            "vi": "Viết tắt của đã chỉnh sửa."
+        },
+        {
+            "pos": "idiom",
+            "en": "edit out  to delete in editing",
+            "vi": "chỉnh sửa để xóa trong chỉnh sửa"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Green, however, continued to edit it in the Calhoun interest until 1835, and gave vigorous support to that leader's nullification views.",
+            "vi": "Green, tuy nhiên, tiếp tục chỉnh sửa nó vì lợi ích của Calhoun cho đến năm 1835, và ủng hộ mạnh mẽ quan điểm vô hiệu hóa của nhà lãnh đạo đó."
+        },
+        {
+            "en": "You have to login to edit pages.",
+            "vi": "Bạn phải đăng nhập để chỉnh sửa trang."
+        }
+    ],
+    "words_form": [
+        "edited",
+        "editing",
+        "edits"
+    ],
+    "meaning_vi": "chỉnh sửa"
+}

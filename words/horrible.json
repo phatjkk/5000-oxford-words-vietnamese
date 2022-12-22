@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈhɔrəb(ə)l/"
+    ],
+    "synonyms": [
+        "hideous",
+        "dreadful",
+        "obnoxious",
+        "horrendous",
+        "repulsive"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Very unpleasant; disagreeable.",
+            "vi": "Rất khó chịu; không đồng ý."
+        },
+        {
+            "pos": "noun",
+            "en": "A thing that causes horror; a terrifying thing, particularly a prospective bad consequence asserted as likely to result from an act.",
+            "vi": "Một thứ gây kinh hoàng; một điều đáng sợ, đặc biệt là một hậu quả xấu có thể xảy ra trong tương lai được khẳng định có thể là kết quả của một hành động."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was turning out to be a horrible day.",
+            "vi": "Đó là một ngày kinh khủng."
+        },
+        {
+            "en": "He left the sentence hanging, as if it were too horrible to put into words.",
+            "vi": "Anh ta bỏ lửng câu nói, như thể nó quá khủng khiếp để diễn tả thành lời."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "kinh khủng"
+}

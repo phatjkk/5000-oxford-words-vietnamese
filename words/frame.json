@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/freɪm/"
+    ],
+    "synonyms": [
+        "confine",
+        "shutter",
+        "structure",
+        "truss",
+        "girdle"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A frame is defined as the outside border that holds something in place on all sides.",
+            "vi": "Khung được định nghĩa là đường viền bên ngoài giữ một cái gì đó cố định ở tất cả các bên."
+        },
+        {
+            "pos": "verb",
+            "en": "To frame means to put together, form, shape or compose.",
+            "vi": "Để đóng khung có nghĩa là tập hợp lại với nhau, hình thành, định hình hoặc bố cục."
+        },
+        {
+            "pos": "adjective",
+            "en": "Having a wooden framework, usually covered with boards.",
+            "vi": "Có khung bằng gỗ, thường được che bằng ván."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The time frame on this is all wrong.",
+            "vi": "Khung thời gian trên này đều sai."
+        },
+        {
+            "en": "He walked around to the driver's side, ducking his head as he folded his long frame into the car.",
+            "vi": "Anh ta đi vòng về phía người lái xe, cúi đầu khi xếp chiếc khung dài của mình vào trong xe."
+        }
+    ],
+    "words_form": [
+        "framed",
+        "frames",
+        "framing"
+    ],
+    "meaning_vi": "khung"
+}

@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈɪnstəntli/"
+    ],
+    "synonyms": [
+        "directly",
+        "immediately",
+        "instantaneously",
+        "right away",
+        "forthwith"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "At once.",
+            "vi": "Một lần."
+        },
+        {
+            "pos": "conjunction",
+            "en": "As soon as.",
+            "vi": "Càng sớm càng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She was instantly thirsty.",
+            "vi": "Cô ấy ngay lập tức thấy khát."
+        },
+        {
+            "en": "Instantly she knew that wasn't true.",
+            "vi": "Ngay lập tức cô biết điều đó không đúng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "adverb",
+            "en": "At once.",
+            "vi": "Một lần."
+        },
+        {
+            "pos": "conjunction",
+            "en": "As soon as.",
+            "vi": "Càng sớm càng."
+        }
+    ]
+}

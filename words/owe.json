@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/oʊ/"
+    ],
+    "synonyms": [
+        "belong",
+        "pay",
+        "settle",
+        "resolve",
+        "lend"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(archaic) To have as a possession; own.",
+            "vi": "(cổ xưa) Để có như một vật sở hữu; riêng."
+        },
+        {
+            "pos": "idiom",
+            "en": "owe it to oneself  to be right in doing something, because it is to one's advantage",
+            "vi": "nợ chính bản thân mình là đúng khi làm điều gì đó, bởi vì đó là lợi ích của một người"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I think you owe me an explanation.",
+            "vi": "Tôi nghĩ bạn nợ tôi một lời giải thích."
+        },
+        {
+            "en": "I owe you an apology.",
+            "vi": "Tôi nợ bạn một lời xin lỗi."
+        }
+    ],
+    "words_form": [
+        "owed",
+        "owes",
+        "owing"
+    ],
+    "meaning_vi": "nợ"
+}

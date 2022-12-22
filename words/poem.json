@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈpoʊəm/",
+        "/poʊm/"
+    ],
+    "synonyms": [
+        "poetry",
+        "ode",
+        "epilogue",
+        "jingle",
+        "rhyme"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A verbal composition designed to convey experiences, ideas, or emotions in a vivid and imaginative way, characterized by the use of language chosen for its sound and suggestive power and by the use of literary techniques such as meter, metaphor, and rhyme.",
+            "vi": "Một sáng tác bằng lời nói được thiết kế để truyền đạt kinh nghiệm, ý tưởng hoặc cảm xúc một cách sống động và giàu trí tưởng tượng, được đặc trưng bởi việc sử dụng ngôn ngữ được lựa chọn để có âm thanh và sức gợi hình cũng như sử dụng các kỹ thuật văn học như mét, ẩn dụ và vần."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Have you read the beautiful poem, \"Waiting\"?",
+            "vi": "Bạn đã đọc bài thơ hay, \"Chờ đợi\" chưa?"
+        },
+        {
+            "en": "The poem is dedicated to James IV., not without some lesson in commendation of virtue and honour.",
+            "vi": "Bài thơ dành tặng cho James IV."
+        }
+    ],
+    "words_form": [
+        "poems"
+    ],
+    "meaning_vi": "bài thơ"
+}

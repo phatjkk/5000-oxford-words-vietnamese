@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌkɑmpəˈzɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "distribution",
+        "creation",
+        "form",
+        "arrangement",
+        "penning"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(linguistics) The formation of compounds from separate words.",
+            "vi": "(ngôn ngữ học) Sự hình thành các hợp chất từ ​​riêng biệt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We cannot determine the chemical composition of soil simply by touching it.",
+            "vi": "Chúng ta không thể xác định thành phần hóa học của đất chỉ bằng cách chạm vào nó."
+        },
+        {
+            "en": "Its composition is somewhat complex.",
+            "vi": "Thành phần của nó hơi phức tạp."
+        }
+    ],
+    "words_form": [
+        "compositions"
+    ],
+    "meaning_vi": "thành phần"
+}

@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/ˈeɪbəl/"
+    ],
+    "synonyms": [
+        "capable",
+        "masterful",
+        "nimble",
+        "skillful",
+        "conversant with"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(usage problem) Susceptible to action or treatment.",
+            "vi": "(vấn đề sử dụng) Dễ bị hành động hoặc điều trị."
+        },
+        {
+            "pos": "suffix",
+            "en": "Susceptible, capable, or worthy of a specified action.",
+            "vi": "Dễ thấy, có khả năng hoặc xứng đáng với một hành động cụ thể."
+        },
+        {
+            "pos": "affix",
+            "en": "Capable of being ____ed.",
+            "vi": "Có khả năng được ____ed."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To give power to; to reinforce; to confirm. [Attested from around (1350 to 1470) until the mid 17th century.]",
+            "vi": "(lỗi thời) Để trao quyền lực cho; tăng cường; xác nhận. [Được kiểm chứng từ khoảng (1350 đến 1470) cho đến giữa thế kỷ 17.]"
+        },
+        {
+            "pos": "noun",
+            "en": "A word that is used in place of the letter \"A\" during communication.",
+            "vi": "Một từ được sử dụng thay cho chữ \"A\" trong quá trình giao tiếp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His father was never able to get custody of him as a child.",
+            "vi": "Cha anh không bao giờ có thể giành được quyền nuôi anh khi còn nhỏ."
+        },
+        {
+            "en": "When will you be able to take me to get my car?",
+            "vi": "Khi nào bạn có thể đưa tôi đến lấy xe?"
+        }
+    ],
+    "words_form": [
+        "abler",
+        "ablest"
+    ],
+    "meaning_vi": "có năng lực, có tài"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈmaʊnt/"
+    ],
+    "synonyms": [
+        "volume",
+        "sum of money",
+        "product",
+        "magnitude",
+        "capacity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A number; a sum.",
+            "vi": "Một số; một khoản tiền."
+        },
+        {
+            "pos": "verb",
+            "en": "(intransitive, followed by to) To total or evaluate.",
+            "vi": "(intransitive, theo sau là) Để tổng số hoặc đánh giá."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It makes a certain amount of sense.",
+            "vi": "Nó có ý nghĩa nhất định."
+        },
+        {
+            "en": "Unfortunately, life gets in the way a fair amount of the time.",
+            "vi": "Thật không may, cuộc sống cản trở một khoảng thời gian hợp lý."
+        }
+    ],
+    "words_form": [
+        "amounted",
+        "amounting",
+        "amounts"
+    ],
+    "meaning_vi": "số tiền"
+}

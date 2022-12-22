@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈneɪtʃər/"
+    ],
+    "synonyms": [
+        "essence",
+        "macrocosm",
+        "cosmos",
+        "scenery",
+        "vivification"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The essential character of a thing; quality or qualities that make something what it is; essence.",
+            "vi": "Đặc tính cốt yếu của một sự vật; phẩm chất hoặc những phẩm chất tạo nên cái gì đó như thế nào; Bản chất."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The sum of natural forces reified and considered as a sentient being, will, or principle.",
+            "vi": "Tổng hợp các lực lượng tự nhiên được biến đổi và được coi là một sinh vật có tri giác, ý chí hoặc nguyên tắc."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To endow with natural qualities.",
+            "vi": "(lỗi thời) Được trời phú cho những phẩm chất tự nhiên."
+        },
+        {
+            "pos": "idiom",
+            "en": "by nature  naturally; inherently",
+            "vi": "tự nhiên tự nhiên; vốn dĩ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This is your nature, you just don't know it yet.",
+            "vi": "Đây là bản chất của bạn, chỉ là bạn chưa biết thôi."
+        },
+        {
+            "en": "It was in his nature, and it was something that wasn't going to change.",
+            "vi": "Đó là bản chất của anh ấy, và nó là thứ sẽ không thay đổi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thiên nhiên"
+}

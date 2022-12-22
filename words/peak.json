@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pik/"
+    ],
+    "synonyms": [
+        "tor",
+        "hill",
+        "apex",
+        "supernal",
+        "summit"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a peak is the highest point of something.",
+            "vi": "Định nghĩa của một đỉnh là điểm cao nhất của một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To achieve a maximum of development, value, or intensity.",
+            "vi": "Để đạt được mức phát triển, giá trị hoặc cường độ tối đa."
+        },
+        {
+            "pos": "adjective",
+            "en": "Approaching or constituting the maximum.",
+            "vi": "Tiếp cận hoặc tạo thành mức tối đa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The peak was flattened.",
+            "vi": "Đỉnh núi đã bị san phẳng."
+        },
+        {
+            "en": "Nature was at her peak, blending the wild blooms with various shades of green.",
+            "vi": "Thiên nhiên đang ở đỉnh cao, pha trộn giữa những bông hoa dại với nhiều sắc thái xanh khác nhau."
+        }
+    ],
+    "words_form": [
+        "peaked",
+        "peaking",
+        "peaks"
+    ],
+    "meaning_vi": "cao điểm"
+}

@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/dəˈstrɪbjut/"
+    ],
+    "synonyms": [
+        "allocate",
+        "divide",
+        "gather",
+        "dole out",
+        "parcel out"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To separate into categories; classify.",
+            "vi": "Để tách thành các loại; phân loại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "With information, we will distribute better.",
+            "vi": "Có thông tin, chúng tôi sẽ phân phối tốt hơn."
+        },
+        {
+            "en": "Hence if we distribute electricity.",
+            "vi": "Do đó nếu chúng ta phân phối điện."
+        }
+    ],
+    "words_form": [
+        "distributed",
+        "distributes",
+        "distributing"
+    ],
+    "meaning_vi": "phân phát"
+}

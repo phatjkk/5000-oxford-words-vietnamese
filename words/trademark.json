@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈtreɪdˌmɑrk/"
+    ],
+    "synonyms": [
+        "brand",
+        "logotype",
+        "symbol",
+        "label",
+        "logo"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Each type of trademark has their own identifying symbol so that others can see what type of trademark a company or product has. For example:  An unregistered trademark is typically identified by the appearance of a small uppercase T side by side with an uppercase M. A service mark is identified by the small appearance of an uppercase S side by side with an uppercase M. Registered trademarks are represented by an uppercase R encased in a circle, similar to a copyright symbol. Example: Name of Trademark®",
+            "vi": "Mỗi loại nhãn hiệu đều có ký hiệu nhận dạng riêng để người khác có thể biết được loại nhãn hiệu mà công ty hoặc sản phẩm có. Ví dụ: Một nhãn hiệu chưa đăng ký thường được xác định bằng sự xuất hiện của chữ hoa T nhỏ cạnh nhau với chữ hoa M. Một nhãn hiệu dịch vụ được xác định bằng sự xuất hiện nhỏ của chữ hoa S cạnh nhau với chữ hoa M. bởi một chữ hoa R được bao bọc trong một vòng tròn, tương tự như một ký hiệu bản quyền. Ví dụ: Tên của Trademark®"
+        },
+        {
+            "pos": "verb",
+            "en": "To label (a product) with proprietary identification.",
+            "vi": "Để dán nhãn (một sản phẩm) với nhận dạng độc quyền."
+        },
+        {
+            "pos": "adjective",
+            "en": "(informal) Of or being a distinctive, identifying feature or characteristic.",
+            "vi": "(không chính thức) Của hoặc là một đặc điểm hoặc đặc điểm nhận dạng, đặc biệt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Sad eyes are his trademark.",
+            "vi": "Đôi mắt buồn là thương hiệu của anh ấy."
+        },
+        {
+            "en": "The pattern was somewhat recognizable then, but when the company decided to utilize the pattern on outer layers of clothing and accessories in the 1960s, the check pattern became Burberry's trademark.",
+            "vi": "Khi đó, họa tiết này có phần dễ nhận biết, nhưng khi công ty quyết định sử dụng họa tiết này trên các lớp quần áo và phụ kiện bên ngoài vào những năm 1960, họa tiết séc đã trở thành thương hiệu của Burberry."
+        }
+    ],
+    "words_form": [
+        "trademarked",
+        "trademarks"
+    ],
+    "meaning_vi": "nhãn hiệu"
+}

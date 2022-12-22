@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈfɑrmɪŋ/"
+    ],
+    "synonyms": [
+        "agriculture",
+        "agrarian",
+        "agricultural",
+        "renting",
+        "pastoral"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of farming is for agricultural purposes.",
+            "vi": "Định nghĩa của canh tác là dành cho các mục đích nông nghiệp."
+        },
+        {
+            "pos": "noun",
+            "en": "Farming is defined as the business of raising livestock and/or plants.",
+            "vi": "Trồng trọt được định nghĩa là hoạt động kinh doanh chăn nuôi và / hoặc cây trồng."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of farm.",
+            "vi": "Hiện tại phân từ của trang trại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The conversation drifted from farming to the weather.",
+            "vi": "Cuộc trò chuyện trôi dạt từ công việc nông nghiệp sang thời tiết."
+        },
+        {
+            "en": "The farming industry is not, however, on a satisfactory basis.",
+            "vi": "Tuy nhiên, ngành nông nghiệp không đạt được yêu cầu."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nông nghiệp"
+}

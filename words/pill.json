@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/pɪl/"
+    ],
+    "synonyms": [
+        "medicine",
+        "pellet",
+        "tablet",
+        "capsule",
+        "tab"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a pill is a small tablet of medication.",
+            "vi": "Định nghĩa của một viên thuốc là một viên thuốc nhỏ."
+        },
+        {
+            "pos": "verb",
+            "en": "Pill is defined as to give small tablets of medicine to someone or to make the tablets.",
+            "vi": "Thuốc viên được định nghĩa là đưa những viên thuốc nhỏ cho ai đó hoặc để tạo viên thuốc."
+        },
+        {
+            "pos": "idiom",
+            "en": "the pill  any contraceptive drug for women, taken in the form of a pill",
+            "vi": "viên thuốc bất kỳ loại thuốc tránh thai nào dành cho phụ nữ, được dùng dưới dạng viên thuốc"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Besides, I think I was on the pill by then.",
+            "vi": "Hơn nữa, tôi nghĩ lúc đó tôi đã uống thuốc."
+        },
+        {
+            "en": "I guess I can be a pill sometimes, but I really do appreciate your concern.",
+            "vi": "Tôi đoán đôi khi tôi có thể là một viên thuốc, nhưng tôi thực sự đánh giá cao sự quan tâm của bạn."
+        }
+    ],
+    "words_form": [
+        "pills"
+    ],
+    "meaning_vi": "viên thuốc"
+}

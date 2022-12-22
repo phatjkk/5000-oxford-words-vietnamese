@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rəˈtrit/"
+    ],
+    "synonyms": [
+        "haven",
+        "escape",
+        "reverse",
+        "withdrawal",
+        "seclusion"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Retreat is the act of giving up and withdrawing or a time away in a quiet and secluded place where you can relax.",
+            "vi": "Nhập thất là hành động từ bỏ và rút lui hoặc một khoảng thời gian ở một nơi yên tĩnh và vắng vẻ, nơi bạn có thể thư giãn."
+        },
+        {
+            "pos": "verb",
+            "en": "To retreat is to withdraw or back away, especially from a dangerous or unpleasant situation or from a military engagement.",
+            "vi": "Rút lui là rút lui hoặc lùi bước, đặc biệt là khỏi một tình huống nguy hiểm hoặc khó chịu hoặc từ một cuộc giao tranh quân sự."
+        },
+        {
+            "pos": "idiom",
+            "en": "beat a retreat  to signal for retreat by beating a drum to retreat in a hurry",
+            "vi": "đánh dấu rút lui để báo hiệu rút lui bằng cách đánh trống để rút lui một cách vội vàng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The army must retreat and the order to do so must be given.",
+            "vi": "Quân đội phải rút lui và lệnh phải được đưa ra."
+        },
+        {
+            "en": "At least it would be a retreat from all this.",
+            "vi": "Ít nhất nó sẽ là một cuộc rút lui khỏi tất cả những điều này."
+        }
+    ],
+    "words_form": [
+        "retreated",
+        "retreating",
+        "retreats"
+    ],
+    "meaning_vi": "rút lui"
+}

@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/hɪr/"
+    ],
+    "synonyms": [
+        "hither",
+        "hera",
+        "on-hand",
+        "on-board",
+        "there"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "At or in this place.",
+            "vi": "Tại hoặc tại nơi này."
+        },
+        {
+            "pos": "adjective",
+            "en": "Used especially for emphasis after the demonstrative pronoun this or these, or after a noun modified by the demonstrative adjective this or these:",
+            "vi": "Được sử dụng đặc biệt để nhấn mạnh sau đại từ chứng minh this hoặc these, hoặc sau một danh từ được sửa đổi bởi tính từ chứng minh this hoặc these:"
+        },
+        {
+            "pos": "noun",
+            "en": "The present time or state.",
+            "vi": "Hiện tại hoặc trạng thái."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express indignation, remonstrance, etc., esp. when repeated.",
+            "vi": "Được sử dụng để bày tỏ sự phẫn nộ, bất mãn, v.v., đặc biệt. khi được lặp lại."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) be out of here  To leave; depart.",
+            "vi": "(tiếng lóng) ra khỏi đây Để rời đi; khởi hành."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She didn't come here to talk to me.",
+            "vi": "Cô ấy không đến đây để nói chuyện với tôi."
+        },
+        {
+            "en": "We can stop right here if you want, Carmen.",
+            "vi": "Chúng tôi có thể dừng ngay tại đây nếu bạn muốn, Carmen."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "Đây."
+}

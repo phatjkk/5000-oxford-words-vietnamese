@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/hɛd/"
+    ],
+    "synonyms": [
+        "noggin",
+        "coconut",
+        "crown",
+        "pate",
+        "skull"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Head is the part of the body that comes out of your neck and that contains the eyes, nose, mouth and brains.",
+            "vi": "Đầu là phần cơ thể nhô ra khỏi cổ và chứa mắt, mũi, miệng và não."
+        },
+        {
+            "pos": "verb",
+            "en": "To head means to take the lead or be in charge of.",
+            "vi": "Để đứng đầu có nghĩa là đi đầu hoặc phụ trách."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of head is the person who is in charge.",
+            "vi": "Định nghĩa về người đứng đầu là người chịu trách nhiệm chính."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) (born Edith Claire Posener) 1897-1981; U.S. film costume designer.",
+            "vi": "(người) (sinh ra là Edith Claire Posener) 1897-1981; Nhà thiết kế trang phục phim của Mỹ."
+        },
+        {
+            "pos": "affix",
+            "en": "-hood.",
+            "vi": "-mui xe."
+        },
+        {
+            "pos": "idiom",
+            "en": "have a big  To be overly self-confident or conceited.",
+            "vi": "có lớn Để quá tự tin hoặc tự phụ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She leaned her head on his shoulder.",
+            "vi": "Cô tựa đầu vào vai anh."
+        },
+        {
+            "en": "He shook his head and rolled his eyes.",
+            "vi": "Anh lắc đầu và đảo mắt."
+        }
+    ],
+    "words_form": [
+        "headed",
+        "heading",
+        "heads"
+    ],
+    "meaning_vi": "đầu"
+}

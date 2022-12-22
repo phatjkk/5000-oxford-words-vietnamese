@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˌɪn(t)əˈrəpt/"
+    ],
+    "synonyms": [
+        "hinder",
+        "disrupt",
+        "interfere",
+        "intervene",
+        "discontinue"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Interrupt is defined as to stop or cause something to stop for a period of time.",
+            "vi": "Ngắt được định nghĩa là để dừng lại hoặc làm cho một cái gì đó dừng lại trong một khoảng thời gian."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of an interrupt is a computer signal that tells the computer to stop running the current program so that a new one can be started or a circuit that carries such a signal.",
+            "vi": "Định nghĩa của ngắt là một tín hiệu máy tính cho biết máy tính ngừng chạy chương trình hiện tại để một chương trình mới có thể được khởi động hoặc một mạch mang tín hiệu như vậy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't want to interrupt your reunion.",
+            "vi": "Tôi không muốn làm gián đoạn cuộc hội ngộ của bạn."
+        },
+        {
+            "en": "Sure. I'm sorry to interrupt you.",
+            "vi": "Chắc chắn. Tôi xin lỗi vì đã làm gián đoạn bạn."
+        }
+    ],
+    "words_form": [
+        "interrupted",
+        "interrupting",
+        "interrupts"
+    ],
+    "meaning_vi": "làm gián đoạn"
+}

@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈnɑnˌsɛns/",
+        "/ˈnɑnsəns/"
+    ],
+    "synonyms": [
+        "senselessness",
+        "balderdash",
+        "garbage",
+        "trash",
+        "bunk"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Subject matter, behavior, or language that is foolish or absurd.",
+            "vi": "Chủ đề, hành vi hoặc ngôn ngữ ngu xuẩn hoặc vô lý."
+        },
+        {
+            "pos": "adjective",
+            "en": "(genetics) Of or relating to a mutation in a structural gene that changes a nucleotide triplet into a stop codon, thus prematurely terminating the polypeptide chain during protein synthesis.",
+            "vi": "(di truyền) Có hoặc liên quan đến đột biến trong gen cấu trúc làm thay đổi bộ ba nucleotit thành codon dừng, do đó kết thúc sớm chuỗi polypeptit trong quá trình tổng hợp protein."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express disagreement or exasperation.",
+            "vi": "Dùng để bày tỏ sự không đồng tình hoặc bực tức."
+        },
+        {
+            "pos": "verb",
+            "en": "To make nonsense of.",
+            "vi": "Để làm cho vô nghĩa của."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't want to hear any more of this nonsense about magic.",
+            "vi": "Tôi không muốn nghe thêm những điều vô nghĩa về phép thuật này nữa."
+        },
+        {
+            "en": "I thought that was TV nonsense until a few minutes later the phone rang and damned if he hadn't done just that!",
+            "vi": "Tôi đã nghĩ đó là điều vô nghĩa trên TV cho đến khi vài phút sau, điện thoại đổ chuông và chết tiệt nếu anh ta không làm như vậy!"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "vô lý"
+}

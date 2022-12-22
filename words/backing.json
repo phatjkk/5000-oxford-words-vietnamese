@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˈbækɪŋ/"
+    ],
+    "synonyms": [
+        "advocacy",
+        "aid",
+        "assistance",
+        "encouragement",
+        "endorsement"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something forming a back.",
+            "vi": "Một cộng đồng chưa hợp nhất ở Tây Virginia."
+        },
+        {
+            "pos": "adjective",
+            "en": "(music) That which provides support for the main performer.",
+            "vi": "Bối cảnh hoặc cài đặt, kể từ một sự kiện."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of back.",
+            "vi": "Để làm phông nền cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm not backing out.",
+            "vi": "Tôi không lùi bước."
+        },
+        {
+            "en": "Two blocks away, the patrol car struck a van backing out from its diagonal parking space in front of the toy store.",
+            "vi": "Cách đó hai dãy nhà, chiếc xe tuần tra đã tông vào một chiếc xe tải đang lùi từ chỗ đậu xe theo đường chéo trước cửa hàng đồ chơi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "Something forming a back.",
+            "vi": "Một cộng đồng chưa hợp nhất ở Tây Virginia."
+        },
+        {
+            "pos": "adjective",
+            "en": "(music) That which provides support for the main performer.",
+            "vi": "Bối cảnh hoặc cài đặt, kể từ một sự kiện."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of back.",
+            "vi": "Để làm phông nền cho."
+        }
+    ]
+}

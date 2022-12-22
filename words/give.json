@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ɡɪv/"
+    ],
+    "synonyms": [
+        "bestow",
+        "present",
+        "convey",
+        "consign",
+        "bequeath"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To place in the hands of; pass.",
+            "vi": "Để đặt trong tay của; đi qua."
+        },
+        {
+            "pos": "noun",
+            "en": "Capacity or inclination to yield under pressure.",
+            "vi": "Công suất hoặc độ nghiêng để nhường dưới áp lực."
+        },
+        {
+            "pos": "idiom",
+            "en": "give a good account of (oneself)  To behave or perform creditably.",
+            "vi": "cung cấp cho một tài khoản tốt của (bản thân) để cư xử hoặc thực hiện một cách đáng tin cậy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Give me some information.",
+            "vi": "Cho tôi một số thông tin."
+        },
+        {
+            "en": "He knew only of those things that give joy and health and peace.",
+            "vi": "Anh chỉ biết những điều mang lại niềm vui, sức khỏe và bình an."
+        }
+    ],
+    "words_form": [
+        "gave",
+        "given",
+        "gives",
+        "giving"
+    ],
+    "meaning_vi": "đưa cho"
+}

@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/drɔ/"
+    ],
+    "synonyms": [
+        "illustrate",
+        "attract",
+        "draw out",
+        "trace",
+        "portray"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make a likeness with lines on a surface; sketch.",
+            "vi": "Để tạo sự giống với các đường trên bề mặt; bản phác thảo."
+        },
+        {
+            "pos": "noun",
+            "en": "A contest ending without either side winning.",
+            "vi": "Một cuộc thi kết thúc mà không có bên nào chiến thắng."
+        },
+        {
+            "pos": "idiom",
+            "en": "draw a blank  To fail to find or remember something.",
+            "vi": "vẽ một khoảng trống Để không tìm thấy hoặc không nhớ một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Isn't it strange how babies can draw people together?",
+            "vi": "Không lạ sao em bé có thể kéo mọi người lại với nhau?"
+        },
+        {
+            "en": "Luck of the draw, I guess.",
+            "vi": "Tôi đoán là may mắn của trận hòa."
+        }
+    ],
+    "words_form": [
+        "drawing",
+        "drawn",
+        "draws",
+        "drew"
+    ],
+    "meaning_vi": "vẽ tranh"
+}

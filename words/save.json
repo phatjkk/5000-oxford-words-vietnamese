@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/seɪv/"
+    ],
+    "synonyms": [
+        "save",
+        "protect",
+        "condemn",
+        "defend",
+        "extricate"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "Save means unless or except.",
+            "vi": "Lưu có nghĩa là trừ khi hoặc ngoại trừ."
+        },
+        {
+            "pos": "verb",
+            "en": "Save is defined as to rescue, keep in good condition, store up money or goods or prevent from losing or being hurt.",
+            "vi": "Tiết kiệm được định nghĩa là để cứu hộ, giữ trong tình trạng tốt, cất giữ tiền bạc, hàng hóa hoặc tránh bị mất hoặc bị tổn thương."
+        },
+        {
+            "pos": "noun",
+            "en": "(sports) An action that keeps an opponent from scoring or winning.",
+            "vi": "(thể thao) Một hành động ngăn cản đối phương ghi bàn hoặc giành chiến thắng."
+        },
+        {
+            "pos": "preposition",
+            "en": "With the exception of; except.",
+            "vi": "Ngoại trừ; ngoại trừ."
+        },
+        {
+            "pos": "idiom",
+            "en": "save (one's) breath  To refrain from a futile appeal or effort: Save your breath; you can't dissuade them.",
+            "vi": "cứu (một) hơi thở Để kiềm chế lời kêu gọi hoặc nỗ lực vô ích: Tiết kiệm hơi thở của bạn; bạn không thể khuyên can họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You have a chance to save yourself.",
+            "vi": "Bạn có một cơ hội để cứu chính mình."
+        },
+        {
+            "en": "He did save your life, you know.",
+            "vi": "Anh ấy đã cứu mạng bạn, bạn biết đấy."
+        }
+    ],
+    "words_form": [
+        "saved",
+        "saves",
+        "saving"
+    ],
+    "meaning_vi": "lưu"
+}

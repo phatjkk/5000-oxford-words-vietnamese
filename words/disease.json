@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈziz/"
+    ],
+    "synonyms": [
+        "affliction",
+        "fever",
+        "epidemic",
+        "sickness",
+        "illness"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a disease is an illness or sickness with specific, well-defined symptoms that affects a person, plant or animal.",
+            "vi": "Định nghĩa về bệnh là một bệnh tật hoặc bệnh tật với các triệu chứng cụ thể, được xác định rõ, ảnh hưởng đến người, thực vật hoặc động vật."
+        },
+        {
+            "pos": "verb",
+            "en": "To cause disease in; infect or derange.",
+            "vi": "Để gây bệnh trong; lây nhiễm hoặc phá vỡ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Given all this, do you really believe this disease still has a chance?",
+            "vi": "Trước tất cả những điều này, bạn có thực sự tin rằng căn bệnh này vẫn còn cơ hội?"
+        },
+        {
+            "en": "Now the disease is eradicated.",
+            "vi": "Bây giờ bệnh đã được diệt trừ."
+        }
+    ],
+    "words_form": [
+        "diseased",
+        "diseases",
+        "diseasing"
+    ],
+    "meaning_vi": "dịch bệnh"
+}

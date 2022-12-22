@@ -1,0 +1,80 @@
+{
+    "spelling": [
+        "/laɪk/"
+    ],
+    "synonyms": [
+        "similar",
+        "admire",
+        "cherish",
+        "enjoy",
+        "parallel"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(scots) To be pleased.",
+            "vi": "(scots) Để được hài lòng."
+        },
+        {
+            "pos": "noun",
+            "en": "Something that is liked; a preference.",
+            "vi": "Một cái gì đó được thích; một sở thích."
+        },
+        {
+            "pos": "preposition",
+            "en": "Inclined or disposed to.",
+            "vi": "Nghiêng hoặc xử lý."
+        },
+        {
+            "pos": "adverb",
+            "en": "(nonstandard) Used to provide emphasis or to focus attention on something.",
+            "vi": "(không chuẩn) Được sử dụng để nhấn mạnh hoặc tập trung sự chú ý vào điều gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Possessing the same or almost the same characteristics; similar.",
+            "vi": "Sở hữu các đặc điểm giống nhau hoặc gần giống nhau; tương tự."
+        },
+        {
+            "pos": "conjunction",
+            "en": "In the same way that; as.",
+            "vi": "Theo cùng một cách mà; như."
+        },
+        {
+            "pos": "suffix",
+            "en": "Resembling or characteristic of.",
+            "vi": "Giống hoặc đặc điểm của."
+        },
+        {
+            "pos": "interjection",
+            "en": "(informal) Inserted into spoken sentences before or after a word, phrase, or clause, apparently without meaning or syntactic function, but possibly for emphasis.",
+            "vi": "(không chính thức) Được chèn vào các câu nói trước hoặc sau một từ, cụm từ hoặc mệnh đề, dường như không có nghĩa hoặc chức năng cú pháp, nhưng có thể để nhấn mạnh."
+        },
+        {
+            "pos": "affix",
+            "en": "Like, characteristic of, suitable for.",
+            "vi": "Thích, đặc điểm của, phù hợp với."
+        },
+        {
+            "pos": "idiom",
+            "en": "like it or not  No matter how one might feel: Like it or not, we have to get up early tomorrow.",
+            "vi": "thích hay không Bất kể người ta có thể cảm thấy thế nào: Dù muốn hay không, chúng ta phải dậy sớm vào ngày mai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The people did not like this.",
+            "vi": "Mọi người không thích điều này."
+        },
+        {
+            "en": "I can't imagine what he was thinking to hide a thing like that from you.",
+            "vi": "Tôi không thể tưởng tượng được anh ta đang nghĩ gì để giấu bạn một chuyện như vậy."
+        }
+    ],
+    "words_form": [
+        "liked",
+        "likes",
+        "liking"
+    ],
+    "meaning_vi": "giống như"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/trit/"
+    ],
+    "synonyms": [
+        "indulge",
+        "morsel",
+        "tidbit",
+        "good",
+        "gift"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a treat is something pleasant that is unexpected or that is offered as a surprise or a reward.",
+            "vi": "Định nghĩa về đãi ngộ là một thứ gì đó thú vị bất ngờ hoặc được cung cấp như một bất ngờ hoặc một phần thưởng."
+        },
+        {
+            "pos": "verb",
+            "en": "To engage in negotiations, as to reach a settlement or agree on terms.",
+            "vi": "Tham gia vào các cuộc đàm phán, để đạt được một dàn xếp hoặc đồng ý về các điều khoản."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Don't treat me that way, Alex.",
+            "vi": "Đừng đối xử với tôi như vậy, Alex."
+        },
+        {
+            "en": "Treat them with respect and take care of them.",
+            "vi": "Đối xử với họ bằng sự tôn trọng và chăm sóc họ."
+        }
+    ],
+    "words_form": [
+        "treated",
+        "treating",
+        "treats"
+    ],
+    "meaning_vi": "đãi"
+}

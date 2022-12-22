@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/pul/"
+    ],
+    "synonyms": [
+        "lake",
+        "pond",
+        "provisions",
+        "lag",
+        "cooperative"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A deep or still place in a stream.",
+            "vi": "Một nơi sâu hoặc tĩnh lặng trong một con suối."
+        },
+        {
+            "pos": "verb",
+            "en": "To form pools or a pool.",
+            "vi": "Để tạo thành các hồ bơi hoặc một hồ bơi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We've got a pool going in the office.",
+            "vi": "Chúng tôi có một hồ bơi trong văn phòng."
+        },
+        {
+            "en": "Most of the time I'm at the pool or resting in the air conditioned house.",
+            "vi": "Phần lớn thời gian tôi ở hồ bơi hoặc nghỉ ngơi trong ngôi nhà có máy lạnh."
+        }
+    ],
+    "words_form": [
+        "pooled",
+        "pooling",
+        "pools"
+    ],
+    "meaning_vi": "hồ bơi"
+}

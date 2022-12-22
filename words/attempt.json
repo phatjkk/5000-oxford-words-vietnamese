@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/əˈtɛm(p)t/"
+    ],
+    "synonyms": [
+        "effort",
+        "struggle",
+        "aim",
+        "try",
+        "assay"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An effort or a try.",
+            "vi": "Một nỗ lực hoặc một cố gắng."
+        },
+        {
+            "pos": "verb",
+            "en": "Attempt is defined as to make an effort to do something.",
+            "vi": "Nỗ lực được định nghĩa là nỗ lực để làm điều gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "attempt the life of  to try to kill",
+            "vi": "cố gắng cuộc sống của để cố gắng giết người"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This would be the only attempt they would make.",
+            "vi": "Đây sẽ là nỗ lực duy nhất mà họ thực hiện."
+        },
+        {
+            "en": "I smiled in an attempt to calm her down.",
+            "vi": "Tôi mỉm cười để cố gắng làm cô ấy bình tĩnh lại."
+        }
+    ],
+    "words_form": [
+        "attempted",
+        "attempting",
+        "attempts"
+    ],
+    "meaning_vi": "cố gắng"
+}

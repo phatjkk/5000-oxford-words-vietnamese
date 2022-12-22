@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈtʃæmpiən/"
+    ],
+    "synonyms": [
+        "brag",
+        "winner",
+        "protector",
+        "superior",
+        "unbeaten"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(obsolete) To defy or challenge.",
+            "vi": "(lỗi thời) Để thách thức hoặc thách thức."
+        },
+        {
+            "pos": "adjective",
+            "en": "Superior to all others.",
+            "vi": "Vượt trội hơn tất cả những người khác."
+        },
+        {
+            "pos": "noun",
+            "en": "A valiant fighter.",
+            "vi": "Một chiến binh dũng cảm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was Queen Catherine's confessor and her only champion and advocate.",
+            "vi": "Ông là người xưng tội của Nữ hoàng Catherine và là nhà vô địch và biện hộ duy nhất của bà."
+        },
+        {
+            "en": "They in return gladly accepted a champion who lent them the prestige and influence of the church.",
+            "vi": "Đổi lại, họ vui vẻ chấp nhận một nhà vô địch đã cho họ mượn uy tín và ảnh hưởng của nhà thờ."
+        }
+    ],
+    "words_form": [
+        "championed",
+        "championing",
+        "champions"
+    ],
+    "meaning_vi": "quán quân; nhà vô địch"
+}

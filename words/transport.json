@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/træn(t)sˈpɔrt/"
+    ],
+    "synonyms": [
+        "idle",
+        "expatriate",
+        "carrier",
+        "carry",
+        "disenchant"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A ship, airplane, train, etc. used to transport soldiers, freight, etc.",
+            "vi": "Tàu thủy, máy bay, xe lửa, v.v. dùng để chở binh lính, vận chuyển hàng hóa, v.v."
+        },
+        {
+            "pos": "verb",
+            "en": "To transport is defined as to take someone to another place in their mind with a strong emotion.",
+            "vi": "Vận chuyển được định nghĩa là đưa ai đó đến một nơi khác trong tâm trí họ với một cảm xúc mạnh mẽ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "How are we going to transport thirty pumpkins?",
+            "vi": "Chúng ta sẽ vận chuyển ba mươi quả bí ngô như thế nào?"
+        },
+        {
+            "en": "They need trucks to transport their goods and roads to drive the trucks on.",
+            "vi": "Họ cần những chiếc xe tải để vận chuyển hàng hóa và những con đường để cho những chiếc xe tải đi tiếp."
+        }
+    ],
+    "words_form": [
+        "transported",
+        "transporting",
+        "transports"
+    ],
+    "meaning_vi": "vận tải"
+}

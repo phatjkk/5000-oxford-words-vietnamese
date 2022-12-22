@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈstɔr/"
+    ],
+    "synonyms": [
+        "rebuild",
+        "renovate",
+        "reinstate",
+        "make restitution",
+        "revamp"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To restore is defined as to bring or put back to a former condition or to give back.",
+            "vi": "Khôi phục được định nghĩa là đưa hoặc đặt lại tình trạng cũ hoặc trả lại."
+        },
+        {
+            "pos": "noun",
+            "en": "(computing) The act of recovering data or a system from a backup.",
+            "vi": "(máy tính) Hành động khôi phục dữ liệu hoặc hệ thống từ bản sao lưu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He desires to end your misfortunes and restore you to your homes and families.",
+            "vi": "Anh ấy mong muốn chấm dứt những bất hạnh của bạn và phục hồi bạn về nhà cửa và gia đình của bạn."
+        },
+        {
+            "en": "He helped to restore Charles II.",
+            "vi": "Ông đã giúp khôi phục lại Charles II."
+        }
+    ],
+    "words_form": [
+        "restored",
+        "restores",
+        "restoring"
+    ],
+    "meaning_vi": "khôi phục"
+}

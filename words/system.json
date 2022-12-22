@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈsɪstəm/"
+    ],
+    "synonyms": [
+        "strategy",
+        "rule",
+        "order",
+        "entity",
+        "scheme"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a system is a set of rules, an arrangement of things, or a group of related things that work toward a common goal.",
+            "vi": "Định nghĩa của một hệ thống là một tập hợp các quy tắc, một sự sắp xếp của mọi thứ hoặc một nhóm những thứ có liên quan với nhau để hướng tới một mục tiêu chung."
+        },
+        {
+            "pos": "idiom",
+            "en": "get something out of one's system  to free oneself as from an emotional attachment to or obsession with something",
+            "vi": "lấy thứ gì đó ra khỏi hệ thống của một người để giải phóng bản thân khỏi sự ràng buộc về tình cảm hoặc ám ảnh về điều gì đó"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The whole distribution system broke down.",
+            "vi": "Toàn bộ hệ thống phân phối đã đổ vỡ."
+        },
+        {
+            "en": "The security system didn't recognize her thumbprint.",
+            "vi": "Hệ thống an ninh không nhận dạng được dấu vân tay của cô ấy."
+        }
+    ],
+    "words_form": [
+        "systems"
+    ],
+    "meaning_vi": "hệ thống"
+}

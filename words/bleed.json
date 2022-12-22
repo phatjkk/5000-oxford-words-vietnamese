@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/blid/"
+    ],
+    "synonyms": [
+        "hemorrhage",
+        "spurt",
+        "extort",
+        "impoverish",
+        "strong-arm"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To emit or lose blood.",
+            "vi": "Để phát ra hoặc mất máu."
+        },
+        {
+            "pos": "noun",
+            "en": "The part of a printed picture, design, etc. that overruns the margin to be trimmed.",
+            "vi": "Phần của ảnh in, thiết kế, v.v. vượt quá lề cần cắt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You would bleed her dry the first night.",
+            "vi": "Bạn sẽ làm cô ấy chảy máu trong đêm đầu tiên."
+        },
+        {
+            "en": "She'd bleed out in this cave.",
+            "vi": "Cô ấy đã chảy máu trong hang động này."
+        }
+    ],
+    "words_form": [
+        "bled",
+        "bleeding",
+        "bleeds"
+    ],
+    "meaning_vi": "chảy máu"
+}

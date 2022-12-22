@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/blæk/"
+    ],
+    "synonyms": [
+        "onyx",
+        "ebony",
+        "desolate",
+        "immoral",
+        "darken"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Black is defined as the color that has no light.",
+            "vi": "Màu đen được định nghĩa là màu không có ánh sáng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Wearing black clothing.",
+            "vi": "Mặc quần áo màu đen."
+        },
+        {
+            "pos": "verb",
+            "en": "To make black; blacken.",
+            "vi": "Để làm cho màu đen; bôi đen."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1886-1971; associate justice, U.S. Supreme Court (1937-71)",
+            "vi": "(người) 1886-1971; liên kết tư pháp, Tòa án tối cao Hoa Kỳ (1937-71)"
+        },
+        {
+            "pos": "idiom",
+            "en": "black out  to cover (writing, printing, etc.) with black pencil marks or paint to cause a blackout in to lose consciousness; faint to lose all memory of an event or fact",
+            "vi": "bôi đen để che (viết, in, v.v.) bằng các vết bút chì hoặc sơn màu đen để gây mất ý thức trong tình trạng mất điện; ngất xỉu để mất tất cả ký ức về một sự kiện hoặc sự kiện"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's just a black snake.",
+            "vi": "Nó chỉ là một con rắn đen."
+        },
+        {
+            "en": "A black cloud seemed to cover the earth.",
+            "vi": "Một đám mây đen dường như bao phủ trái đất."
+        }
+    ],
+    "words_form": [
+        "blacked",
+        "blackest",
+        "blacking",
+        "blacks"
+    ],
+    "meaning_vi": "màu đen"
+}

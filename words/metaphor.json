@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈmɛdəˌfɔr/",
+        "/ˈmɛdəˌfər/"
+    ],
+    "synonyms": [
+        "simile",
+        "figure-of-speech",
+        "drift",
+        "metaphorical",
+        "analogy"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a metaphor is a word or phrase used to compare two unlike objects, ideas, thoughts or feelings to provide a clearer description.",
+            "vi": "Định nghĩa của phép ẩn dụ là một từ hoặc cụm từ được sử dụng để so sánh hai đối tượng, ý tưởng, suy nghĩ hoặc cảm giác không giống nhau để cung cấp một mô tả rõ ràng hơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I discuss various special cases of this conceptual metaphor in my speech.",
+            "vi": "Tôi thảo luận các trường hợp đặc biệt khác nhau của phép ẩn dụ khái niệm này trong bài phát biểu của mình."
+        },
+        {
+            "en": "The song used sunshine as a metaphor for joy.",
+            "vi": "Bài hát đã sử dụng nắng như một ẩn dụ cho niềm vui."
+        }
+    ],
+    "words_form": [
+        "metaphors"
+    ],
+    "meaning_vi": "ẩn dụ"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/baɪ/"
+    ],
+    "synonyms": [
+        "purchase",
+        "procure",
+        "bargain",
+        "value",
+        "pay-for"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To acquire in exchange for money or its equivalent; purchase.",
+            "vi": "Để đổi lấy tiền hoặc số tiền tương đương; mua."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of buying; a purchase.",
+            "vi": "Hành động mua; mua hàng."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) buy it  To be killed.",
+            "vi": "(tiếng lóng) mua nó Để bị giết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I decided to buy it.",
+            "vi": "Tôi quyết định mua nó."
+        },
+        {
+            "en": "Most people buy Apple TV, but a few buy the Roku XDS Streaming Player.",
+            "vi": "Hầu hết mọi người mua Apple TV, nhưng một số ít mua Trình phát trực tuyến Roku XDS."
+        }
+    ],
+    "words_form": [
+        "bought",
+        "buying",
+        "buys"
+    ],
+    "meaning_vi": "mua"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/treɪs/"
+    ],
+    "synonyms": [
+        "evidence",
+        "trail",
+        "outline",
+        "vestige",
+        "track"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Trace means to follow along a route, to a copy something by following along or to find something or someone.",
+            "vi": "Theo dõi có nghĩa là đi theo một lộ trình, sao chép một cái gì đó bằng cách đi theo hoặc để tìm một cái gì đó hoặc ai đó."
+        },
+        {
+            "pos": "noun",
+            "en": "One of two side straps or chains connecting a harnessed draft animal to a vehicle or whiffletree.",
+            "vi": "Một trong hai dây đai hoặc dây xích bên hông kết nối động vật kéo dây buộc vào phương tiện hoặc dây quấn."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of trace is happening in very small amounts.",
+            "vi": "Việc xác định dấu vết đang diễn ra với số lượng rất nhỏ."
+        },
+        {
+            "pos": "idiom",
+            "en": "kick over the traces  To act in a way that contravenes social expectations or propriety:",
+            "vi": "đạp qua các dấu vết Để hành động theo cách trái ngược với mong đợi của xã hội hoặc sự đúng đắn:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They can trace it!",
+            "vi": "Họ có thể theo dõi nó!"
+        },
+        {
+            "en": "I used my charge card and he'll trace us here.",
+            "vi": "Tôi đã sử dụng thẻ tính phí của mình và anh ấy sẽ theo dõi chúng tôi ở đây."
+        }
+    ],
+    "words_form": [
+        "traced",
+        "traces",
+        "tracing"
+    ],
+    "meaning_vi": "dấu vết"
+}

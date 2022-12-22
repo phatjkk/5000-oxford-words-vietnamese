@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɪkˈspɛkt/"
+    ],
+    "synonyms": [
+        "foresee",
+        "guess",
+        "envision",
+        "suspect",
+        "assume"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To look for as likely to occur or appear; look forward to; anticipate.",
+            "vi": "Để tìm kiếm khả năng xảy ra hoặc xuất hiện; trông mong; đoán trước."
+        },
+        {
+            "pos": "idiom",
+            "en": "be expecting  to be pregnant",
+            "vi": "mong có thai"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't expect you so soon.",
+            "vi": "Tôi không mong đợi bạn sớm như vậy."
+        },
+        {
+            "en": "I expect nothing less from you.",
+            "vi": "Tôi không mong đợi gì ít hơn từ bạn."
+        }
+    ],
+    "words_form": [
+        "expected",
+        "expecting",
+        "expects"
+    ],
+    "meaning_vi": "chờ đợi"
+}

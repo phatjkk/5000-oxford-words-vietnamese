@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈrɛrli/"
+    ],
+    "synonyms": [
+        "seldom",
+        "hardly",
+        "unusually",
+        "often",
+        "exceptionally"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Infrequently; seldom.",
+            "vi": "Không thường xuyen; hiếm khi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She rarely left the house and lived in the library.",
+            "vi": "Cô hiếm khi ra khỏi nhà và sống trong thư viện."
+        },
+        {
+            "en": "He was rarely there anyway.",
+            "vi": "Dù sao thì anh ấy cũng hiếm khi ở đó."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hiếm"
+}

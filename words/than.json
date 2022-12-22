@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ðæn/",
+        "/ðən/"
+    ],
+    "synonyms": [
+        "whereas"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "When: used esp. following an inverted construction introduced by scarcely, hardly, barely, etc.",
+            "vi": "When: đã sử dụng esp. theo một cấu trúc đảo ngược được giới thiệu bởi hiếm hoi, hầu như không, v.v."
+        },
+        {
+            "pos": "preposition",
+            "en": "Than means in comparison.",
+            "vi": "Than có nghĩa là so sánh."
+        },
+        {
+            "pos": "adverb",
+            "en": "(now chiefly dialectal) At that time; then.",
+            "vi": "(bây giờ chủ yếu là phương ngữ) Tại thời điểm đó; sau đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He thinks you are better than us.",
+            "vi": "Anh ấy nghĩ bạn giỏi hơn chúng tôi."
+        },
+        {
+            "en": "He has lived more than eighty years.",
+            "vi": "Anh ấy đã sống hơn tám mươi năm."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hơn"
+}

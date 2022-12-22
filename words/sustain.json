@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/səˈsteɪn/"
+    ],
+    "synonyms": [
+        "support",
+        "convey",
+        "hold up",
+        "maintain",
+        "bear"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Sustain is defined as to support something or to endure a trial or hardship.",
+            "vi": "Sustain được định nghĩa là để hỗ trợ một cái gì đó hoặc chịu đựng thử thách hoặc khó khăn."
+        },
+        {
+            "pos": "noun",
+            "en": "A capacity of a musical instrument to continue the resounding of a note or tone.",
+            "vi": "Công suất của một nhạc cụ để tiếp tục vang lên của một nốt nhạc hoặc một giai điệu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She sighed, no longer able to sustain her hope.",
+            "vi": "Cô thở dài, không còn có thể nuôi hy vọng nữa."
+        },
+        {
+            "en": "We don't have the people or supplies to sustain ourselves on the regular army side.",
+            "vi": "Chúng tôi không có người hoặc nguồn cung cấp để duy trì bản thân trong phe quân đội chính quy."
+        }
+    ],
+    "words_form": [
+        "sustained",
+        "sustaining",
+        "sustains"
+    ],
+    "meaning_vi": "duy trì"
+}

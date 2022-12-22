@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/faʊnd/"
+    ],
+    "synonyms": [
+        "located",
+        "discovered",
+        "unearthed",
+        "detected",
+        "spotted"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To found is defined as to establish or organize something.",
+            "vi": "To found được định nghĩa là thiết lập hoặc tổ chức một cái gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of found is a person or thing that is no longer lost.",
+            "vi": "Định nghĩa của tìm thấy là một người hoặc một vật không còn bị mất."
+        },
+        {
+            "pos": "noun",
+            "en": "Food and lodging, board.",
+            "vi": "Thức ăn và chỗ ở, bảng."
+        },
+        {
+            "pos": "idiom",
+            "en": "and found  with room and board in addition to wages",
+            "vi": "và được tìm thấy với tiền ăn ở ngoài tiền lương"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We just found out.",
+            "vi": "Chúng tôi vừa tìm ra."
+        },
+        {
+            "en": "She found him in the living room reading the newspaper.",
+            "vi": "Cô thấy anh đang đọc báo trong phòng khách."
+        }
+    ],
+    "words_form": [
+        "founded",
+        "founding",
+        "founds"
+    ],
+    "meaning_vi": "tìm"
+}

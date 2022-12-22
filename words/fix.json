@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/fɪks/"
+    ],
+    "synonyms": [
+        "prepare",
+        "arrange",
+        "repay",
+        "bind",
+        "help"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To fix is defined as to repair, attach or secure.",
+            "vi": "Để sửa chữa được định nghĩa là sửa chữa, đính kèm hoặc bảo mật."
+        },
+        {
+            "pos": "noun",
+            "en": "The position, as of a ship or aircraft, determined by visual observations with the aid of equipment.",
+            "vi": "Vị trí của một con tàu hoặc máy bay, được xác định bằng quan sát bằng mắt với sự hỗ trợ của thiết bị."
+        },
+        {
+            "pos": "suffix",
+            "en": "(grammar) Forming nouns denoting a morpheme used in word formation joined to a word in the specified way (e.g.: infix = \"attached within\", circumfix = \"attached around\").",
+            "vi": "(ngữ pháp) Tạo thành danh từ biểu thị một hình cầu được sử dụng trong việc tạo từ nối với một từ theo cách xác định (ví dụ: infix = \"đính kèm bên trong\", dấu ngoặc kép = \"đính kèm xung quanh\")."
+        },
+        {
+            "pos": "idiom",
+            "en": "fix (someone's) wagon  To get revenge on another.",
+            "vi": "sửa chữa (của ai đó) toa xe Để trả thù người khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Daddy wants to fix your foot.",
+            "vi": "Bố muốn sửa chân cho con."
+        },
+        {
+            "en": "On week days, I get up about 6:00 in the morning and fix breakfast.",
+            "vi": "Vào các ngày trong tuần, tôi dậy khoảng 6 giờ sáng và chuẩn bị bữa sáng."
+        }
+    ],
+    "words_form": [
+        "fixed",
+        "fixes",
+        "fixing"
+    ],
+    "meaning_vi": "sửa chữa"
+}

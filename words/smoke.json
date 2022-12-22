@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/smoʊk/"
+    ],
+    "synonyms": [
+        "smolder",
+        "heater",
+        "burn",
+        "haze",
+        "green-goddess"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Smoke is defined as to use cigarettes, a cigar or a pipe, or to stain or cook with the residue from something burning.",
+            "vi": "Khói thuốc được định nghĩa là sử dụng thuốc lá điếu, xì gà hoặc tẩu thuốc, hoặc để làm ố hoặc nấu với cặn từ thứ gì đó đang cháy."
+        },
+        {
+            "pos": "noun",
+            "en": "Smoke is a cloud from something burning, or slang for a time period during which cigarettes or tobacco are used.",
+            "vi": "Khói là một đám mây từ thứ gì đó đang cháy, hoặc tiếng lóng trong một khoảng thời gian mà thuốc lá hoặc thuốc lá được sử dụng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of the colour known as smoke.",
+            "vi": "Có màu được gọi là khói."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(UK, slang, with \"the\") London.",
+            "vi": "(Vương quốc Anh, tiếng lóng, với \"the\") London."
+        },
+        {
+            "pos": "idiom",
+            "en": "smoke and mirrors  Something that deceives or distorts the truth: Your explanation is nothing but smoke and mirrors.",
+            "vi": "khói và gương Một thứ gì đó đánh lừa hoặc bóp méo sự thật: Lời giải thích của bạn không gì khác ngoài khói và gương."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Dark memories lingered like smoke after a fire.",
+            "vi": "Ký ức đen tối mịt mờ như khói sau trận hỏa hoạn."
+        },
+        {
+            "en": "She hadn't seen him smoke since.",
+            "vi": "Cô đã không nhìn thấy anh ta hút thuốc kể từ đó."
+        }
+    ],
+    "words_form": [
+        "smoked",
+        "smokes",
+        "smoking"
+    ],
+    "meaning_vi": "hút thuốc lá"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈwɪtnəs/"
+    ],
+    "synonyms": [
+        "onlooker",
+        "observer",
+        "eyewitness",
+        "vouch-for",
+        "deposition"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To witness is defined as to observe an event taking place or to give evidence.",
+            "vi": "Nhân chứng được định nghĩa là quan sát một sự kiện đang diễn ra hoặc đưa ra bằng chứng."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a witness is a person who has seen an event or who testifies about what he has seen.",
+            "vi": "Định nghĩa về nhân chứng là một người đã nhìn thấy một sự kiện hoặc người làm chứng về những gì anh ta đã thấy."
+        },
+        {
+            "pos": "idiom",
+            "en": "bear witness  to be or give evidence; testify",
+            "vi": "làm chứng để được hoặc đưa ra bằng chứng; làm chứng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Did you get to witness the birth?",
+            "vi": "Bạn có được chứng kiến ​​sự ra đời không?"
+        },
+        {
+            "en": "No one is forcing you to witness that stuff!",
+            "vi": "Không ai bắt bạn phải chứng kiến ​​những điều đó!"
+        }
+    ],
+    "words_form": [
+        "witnessed",
+        "witnesses",
+        "witnessing"
+    ],
+    "meaning_vi": "nhân chứng"
+}

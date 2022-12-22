@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/dəˈstrɔɪ/"
+    ],
+    "synonyms": [
+        "demolish",
+        "impair",
+        "exterminate",
+        "crush",
+        "nullify"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be destructive; cause destruction.",
+            "vi": "Để phá hoại; gây ra sự phá hủy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Rhyn wanted to destroy the letter.",
+            "vi": "Rhyn muốn phá hủy bức thư."
+        },
+        {
+            "en": "We know it is easier to destroy than to create.",
+            "vi": "Chúng tôi biết nó dễ phá hủy hơn là tạo ra."
+        }
+    ],
+    "words_form": [
+        "destroyed",
+        "destroying",
+        "destroys"
+    ],
+    "meaning_vi": "hủy hoại"
+}

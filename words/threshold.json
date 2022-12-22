@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈθrɛʃˌ(h)oʊld/"
+    ],
+    "synonyms": [
+        "level",
+        "brink",
+        "vestibule",
+        "sill",
+        "opening"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The entrance or beginning point of something.",
+            "vi": "Lối vào hoặc điểm bắt đầu của một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You know when you cross that threshold, there's no going back.",
+            "vi": "Bạn biết rằng khi bạn vượt qua ngưỡng đó, sẽ không thể quay trở lại."
+        },
+        {
+            "en": "He stopped at the threshold and asked in Russian whether Drubetskoy lived there.",
+            "vi": "Anh ta dừng lại ở ngưỡng cửa và hỏi bằng tiếng Nga rằng liệu Drubetskoy có sống ở đó không."
+        }
+    ],
+    "words_form": [
+        "thresholds"
+    ],
+    "meaning_vi": "ngưỡng"
+}

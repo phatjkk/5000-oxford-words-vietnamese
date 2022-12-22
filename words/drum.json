@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/drəm/"
+    ],
+    "synonyms": [
+        "conga",
+        "tabla",
+        "tabor",
+        "snare-drum",
+        "bongo"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To thump or tap rhythmically or continually.",
+            "vi": "Để đập hoặc gõ nhịp nhàng hoặc liên tục."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a drum is a round metal or hollow wooden instrument with a flexible material stretched over it that is played by hitting with sticks or hands.",
+            "vi": "Định nghĩa của trống là một nhạc cụ bằng kim loại hoặc rỗng hình tròn với một vật liệu dẻo được kéo căng trên nó, được chơi bằng cách đánh bằng gậy hoặc tay."
+        },
+        {
+            "pos": "idiom",
+            "en": "beat the drum for  to seek to arouse interest in or enthusiasm for",
+            "vi": "đánh trống để tìm cách khơi dậy sự quan tâm hoặc sự nhiệt tình đối với"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But the roll of the drums did not make the looting soldiers run in the direction of the drum as formerly, but made them, on the contrary, run farther away.",
+            "vi": "Nhưng tiếng trống cuộn không làm cho binh lính cướp bóc chạy về hướng trống như trước đây, mà ngược lại, chúng chạy xa hơn."
+        },
+        {
+            "en": "The drum of hooves jerked her attention back to the barn.",
+            "vi": "Tiếng vó ngựa dồn sự chú ý của cô trở lại chuồng."
+        }
+    ],
+    "words_form": [
+        "drummed",
+        "drumming",
+        "drums"
+    ],
+    "meaning_vi": "trống"
+}

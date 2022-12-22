@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/waɪlst/"
+    ],
+    "synonyms": [
+        "although",
+        "at the same time",
+        "during",
+        "during the time",
+        "in the time"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "While.",
+            "vi": "Mức độ bảo mật trong hệ điều hành hoặc phần mềm hệ thống khác hoặc thành phần phần mềm ứng dụng. Trước khi Internet trở thành xu hướng phổ biến và khiến mọi tổ chức trên thế giới tiếp xúc với mọi kẻ tấn công trên hành tinh, các lỗ hổng chắc chắn đã tồn tại, nhưng không thường xuyên bị khai thác. . Việc thiết kế phần mềm để chống lại các cuộc tấn công cũng giống như xây dựng một ngôi nhà mà mỗi inch vuông đều được kiên cố bằng thép và các cảm biến phát hiện sự xâm nhập. Việc vá một hệ điều hành hiện có được viết bởi hàng trăm lập trình viên không quan tâm đến vấn đề này khi họ viết mã là một công việc khó khăn. Các công ty bảo mật duy trì cơ sở dữ liệu về các lỗ hổng dựa trên số phiên bản của phần mềm. Nếu được khai thác, mỗi lỗ hổng có thể làm tổn hại đến hệ thống hoặc mạng. Để tìm kiếm các lỗ hổng và sự phơi bày trong Cơ sở dữ liệu Quốc gia về Lỗ hổng bảo mật (NVD), hãy truy cập http://web.nvd.nist.gov/view/vuln/search?cid=1. Xem máy quét bảo mật mạng và tiết lộ lỗ hổng bảo mật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She didn't want to talk whilst I was there, figuring maybe the line was tapped or something.",
+            "vi": "Cô ấy không muốn nói chuyện khi tôi ở đó, vì nghĩ rằng có thể đường dây đã bị nghe trộm hoặc gì đó."
+        },
+        {
+            "en": "The mushroom is a semi-deliquescent fungus which rapidly falls into putridity in decay, whilst the champignon dries up into a leathery substance in the sun, but speedily revives and takes its original form again after the first shower.",
+            "vi": "Nấm là một loại nấm bán mê, nhanh chóng rơi vào trạng thái thối rữa, trong khi nấm champignon khô lại thành chất như da dưới ánh nắng mặt trời, nhưng nhanh chóng hồi sinh và trở lại hình dạng ban đầu sau trận mưa đầu tiên."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "conjunction",
+            "en": "While.",
+            "vi": "Mức độ bảo mật trong hệ điều hành hoặc phần mềm hệ thống khác hoặc thành phần phần mềm ứng dụng. Trước khi Internet trở thành xu hướng phổ biến và khiến mọi tổ chức trên thế giới tiếp xúc với mọi kẻ tấn công trên hành tinh, các lỗ hổng chắc chắn đã tồn tại, nhưng không thường xuyên bị khai thác. . Việc thiết kế phần mềm để chống lại các cuộc tấn công cũng giống như xây dựng một ngôi nhà mà mỗi inch vuông đều được kiên cố bằng thép và các cảm biến phát hiện sự xâm nhập. Việc vá một hệ điều hành hiện có được viết bởi hàng trăm lập trình viên không quan tâm đến vấn đề này khi họ viết mã là một công việc khó khăn. Các công ty bảo mật duy trì cơ sở dữ liệu về các lỗ hổng dựa trên số phiên bản của phần mềm. Nếu được khai thác, mỗi lỗ hổng có thể làm tổn hại đến hệ thống hoặc mạng. Để tìm kiếm các lỗ hổng và sự phơi bày trong Cơ sở dữ liệu Quốc gia về Lỗ hổng bảo mật (NVD), hãy truy cập http://web.nvd.nist.gov/view/vuln/search?cid=1. Xem máy quét bảo mật mạng và tiết lộ lỗ hổng bảo mật."
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɪmˈpɔrt/"
+    ],
+    "synonyms": [
+        "purpose",
+        "denote",
+        "convey",
+        "export",
+        "imply"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of import is to introduce or bring goods from one country to be sold in another.",
+            "vi": "Định nghĩa của nhập khẩu là giới thiệu hoặc mang hàng hóa từ một quốc gia để bán ở một quốc gia khác."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or occupation of importing goods or materials.",
+            "vi": "Hành động hoặc nghề nhập khẩu hàng hoá hoặc nguyên vật liệu."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or for importing or imports.",
+            "vi": "Của hoặc để nhập khẩu hoặc nhập khẩu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He worked well whatever the import of his work.",
+            "vi": "Anh ấy đã làm việc tốt bất cứ điều gì nhập khẩu công việc của mình."
+        },
+        {
+            "en": "Since 1895, however, the heavy import corn duty has caused a slight rise in the income from corn lands.",
+            "vi": "Tuy nhiên, kể từ năm 1895, thuế nhập khẩu ngô cao đã khiến thu nhập từ đất trồng ngô tăng nhẹ."
+        }
+    ],
+    "words_form": [
+        "imported",
+        "importing",
+        "imports"
+    ],
+    "meaning_vi": "nhập khẩu"
+}

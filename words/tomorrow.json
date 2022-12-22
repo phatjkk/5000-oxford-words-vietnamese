@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/təˈmɔroʊ/"
+    ],
+    "synonyms": [
+        "day",
+        "one-day",
+        "tonight",
+        "today",
+        "yesterday"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "On or during the day after today.",
+            "vi": "Vào hoặc trong ngày sau hôm nay."
+        },
+        {
+            "pos": "noun",
+            "en": "Some time in the indefinite future.",
+            "vi": "Một thời gian nào đó trong tương lai vô định."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of tomorrow.",
+            "vi": "Ngày mai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Tomorrow is Christmas morning.",
+            "vi": "Ngày mai là buổi sáng lễ Giáng sinh."
+        },
+        {
+            "en": "This is what I want you to do tomorrow morning.",
+            "vi": "Đây là những gì tôi muốn bạn làm vào sáng mai."
+        }
+    ],
+    "words_form": [
+        "tomorrows"
+    ],
+    "meaning_vi": "ngày mai"
+}

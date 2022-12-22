@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kənˈfrənt/"
+    ],
+    "synonyms": [
+        "face",
+        "resist",
+        "threaten",
+        "repel",
+        "beard"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To come face to face with, especially with defiance or hostility.",
+            "vi": "Đối mặt, đặc biệt là với sự thách thức hoặc thù địch."
+        },
+        {
+            "pos": "adjective",
+            "en": "(heraldry, of two animals) Face-to-face; facing each other; fornenst.",
+            "vi": "(huy hiệu, của hai con vật) Mặt đối mặt; đôi mặt vơi nhau; fornenst."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You need to confront what is before you.",
+            "vi": "Bạn cần phải đương đầu với những gì trước mắt."
+        },
+        {
+            "en": "He didn't confront her, but he startled her.",
+            "vi": "Anh không đối đầu với cô, nhưng anh khiến cô giật mình."
+        }
+    ],
+    "words_form": [
+        "confronted",
+        "confronting",
+        "confronts"
+    ],
+    "meaning_vi": "đối đầu"
+}

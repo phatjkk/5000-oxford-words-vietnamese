@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/fɛr/"
+    ],
+    "synonyms": [
+        "charge",
+        "expense",
+        "passage",
+        "rate",
+        "buyer"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Food and drink; diet.",
+            "vi": "Đồ ăn thức uống; ăn kiêng."
+        },
+        {
+            "pos": "verb",
+            "en": "To get along.",
+            "vi": "Để hòa hợp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Clothes don't fare very well through the transformation.",
+            "vi": "Quần áo không ổn lắm trong quá trình biến đổi."
+        },
+        {
+            "en": "\"How do you fare, nishani?\" he asked.",
+            "vi": "\"Bạn giá vé như thế nào, nishani?\" anh ấy hỏi."
+        }
+    ],
+    "words_form": [
+        "fared",
+        "fares",
+        "faring"
+    ],
+    "meaning_vi": "giá vé"
+}

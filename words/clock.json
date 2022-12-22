@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/klɑk/"
+    ],
+    "synonyms": [
+        "timepiece",
+        "timekeeper",
+        "alarm",
+        "digital",
+        "watch"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Clock means to measure speed or time.",
+            "vi": "Đồng hồ có nghĩa là để đo tốc độ hoặc thời gian."
+        },
+        {
+            "pos": "noun",
+            "en": "A measuring or recording device suggestive of a clock, as a taximeter.",
+            "vi": "Một thiết bị đo lường hoặc ghi hình gợi ý đến một chiếc đồng hồ, như một máy đo phân loại."
+        },
+        {
+            "pos": "idiom",
+            "en": "around  Throughout the entire 24 hours of the day; continuously.",
+            "vi": "xung quanh Trong suốt 24 giờ trong ngày; liên tục."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "An old clock is an antique.",
+            "vi": "Đồng hồ cổ là đồ cổ."
+        },
+        {
+            "en": "The clock kept on ticking.",
+            "vi": "Đồng hồ tiếp tục tích tắc."
+        }
+    ],
+    "words_form": [
+        "clocked",
+        "clocking",
+        "clocks"
+    ],
+    "meaning_vi": "đồng hồ"
+}

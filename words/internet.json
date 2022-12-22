@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈɪn(t)ərˌnɛt/"
+    ],
+    "synonyms": [
+        "network",
+        "intranet",
+        "web",
+        "wap",
+        "online"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Internet is defined as a connected group of computer networks allowing for electronic communication. The networks.",
+            "vi": "Internet được định nghĩa là một nhóm mạng máy tính được kết nối cho phép giao tiếp điện tử. Các mạng."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The specific internet consisting of a global network of computers that communicate using Internet Protocol (IP) and that use Border Gateway Protocol (BGP) to identify the best paths to route those communications.",
+            "vi": "Internet cụ thể bao gồm một mạng toàn cầu gồm các máy tính giao tiếp bằng Giao thức Internet (IP) và sử dụng Giao thức Cổng biên giới (BGP) để xác định các đường dẫn tốt nhất để định tuyến các liên lạc đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The Internet has allowed for the creation of thousands of new ways to give, both time and money.",
+            "vi": "Internet đã cho phép tạo ra hàng ngàn cách mới để cung cấp, cả thời gian và tiền bạc."
+        },
+        {
+            "en": "I recognized him from his silly Internet chatting.",
+            "vi": "Tôi nhận ra anh ấy từ cuộc trò chuyện ngớ ngẩn trên Internet của anh ấy."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "Internet"
+}

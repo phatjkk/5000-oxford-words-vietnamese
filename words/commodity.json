@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/kəˈmɑdədi/"
+    ],
+    "synonyms": [
+        "goods",
+        "assets",
+        "products",
+        "materials",
+        "lot"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A product or service that is indistinguishable from ones manufactured or provided by competing companies and that therefore sells primarily on the basis of price rather than quality or style.",
+            "vi": "Một sản phẩm hoặc dịch vụ không thể phân biệt được với những sản phẩm hoặc dịch vụ được sản xuất hoặc cung cấp bởi các công ty cạnh tranh và do đó bán chủ yếu dựa trên giá cả hơn là chất lượng hoặc kiểu dáng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "By far the most important commodity is petroleum, fully one-half of the total value.",
+            "vi": "Cho đến nay, mặt hàng quan trọng nhất là xăng dầu, chiếm gần một nửa tổng giá trị."
+        },
+        {
+            "en": "Information was obviously a free commodity in this area.",
+            "vi": "Thông tin rõ ràng là một mặt hàng miễn phí trong lĩnh vực này."
+        }
+    ],
+    "words_form": [
+        "commodities"
+    ],
+    "meaning_vi": "hàng hóa"
+}

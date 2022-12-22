@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/kəˈmɪtmənt/"
+    ],
+    "synonyms": [
+        "responsibility",
+        "loyalty",
+        "promise",
+        "involvement",
+        "denial"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A committing or being committed.",
+            "vi": "Một cam kết hoặc được cam kết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm simply not ready to face that kind of commitment yet.",
+            "vi": "Tôi chỉ đơn giản là chưa sẵn sàng đối mặt với loại cam kết đó."
+        },
+        {
+            "en": "It wasn't commitment he was afraid of.",
+            "vi": "Nó không phải là cam kết mà anh ấy sợ."
+        }
+    ],
+    "words_form": [
+        "commitments"
+    ],
+    "meaning_vi": "cam kết"
+}

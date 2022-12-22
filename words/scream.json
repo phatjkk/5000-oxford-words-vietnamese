@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/skrim/"
+    ],
+    "synonyms": [
+        "screak",
+        "shriek",
+        "cry",
+        "yell",
+        "blare"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a scream is a loud and high-pitched cry, or a something or someone who is very funny.",
+            "vi": "Định nghĩa của một tiếng hét là một tiếng kêu to và the thé, hoặc một cái gì đó hoặc một người nào đó rất buồn cười."
+        },
+        {
+            "pos": "verb",
+            "en": "To have a startling effect; leave a vivid impression.",
+            "vi": "Để có một hiệu ứng đáng ngạc nhiên; để lại ấn tượng sống động."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She tried to scream, but no sound came out.",
+            "vi": "Cô cố gắng hét lên, nhưng không có âm thanh nào phát ra."
+        },
+        {
+            "en": "It was the scream of a soul dying.",
+            "vi": "Đó là tiếng hét của một linh hồn sắp chết."
+        }
+    ],
+    "words_form": [
+        "screamed",
+        "screaming",
+        "screams"
+    ],
+    "meaning_vi": "hét lên"
+}

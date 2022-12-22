@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/kənˈfjuzd/"
+    ],
+    "synonyms": [
+        "bewildered",
+        "puzzled",
+        "perplexed",
+        "jumbled",
+        "higgledy-piggledy"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Being unable to think with clarity or act with understanding and intelligence.",
+            "vi": "Không thể suy nghĩ rõ ràng hoặc hành động với sự hiểu biết và thông minh."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of confuse.",
+            "vi": "Quá khứ đơn và quá khứ phân từ của sự nhầm lẫn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "For a moment he looked confused, and then turned away.",
+            "vi": "Trông anh ấy bối rối trong một lúc, và sau đó quay đi."
+        },
+        {
+            "en": "Sarah seemed confused as well.",
+            "vi": "Sarah cũng có vẻ bối rối."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bối rối"
+}

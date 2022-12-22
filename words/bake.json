@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/beɪk/"
+    ],
+    "synonyms": [
+        "insolate",
+        "roast",
+        "broil",
+        "burn",
+        "warm"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of bake is the act of cooking food or hardening something through the use of heat.",
+            "vi": "Định nghĩa của baking là hành động làm chín thực phẩm hoặc làm cứng một thứ gì đó thông qua việc sử dụng nhiệt."
+        },
+        {
+            "pos": "verb",
+            "en": "To cook (food) with dry heat, especially in an oven.",
+            "vi": "Để nấu (thực phẩm) bằng nhiệt khô, đặc biệt là trong lò nướng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Alex would likely be home for lunch and she wanted to bake a chicken.",
+            "vi": "Alex có thể sẽ về nhà để ăn trưa và cô ấy muốn nướng một con gà."
+        },
+        {
+            "en": "It was too late to heat up the oven and bake the chicken, so she cut it up and fried it.",
+            "vi": "Đã quá muộn để làm nóng lò nướng và nướng gà, vì vậy cô ấy cắt nó ra và chiên."
+        }
+    ],
+    "words_form": [
+        "baked",
+        "bakes",
+        "baking"
+    ],
+    "meaning_vi": "nướng"
+}

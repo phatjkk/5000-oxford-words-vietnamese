@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/kræft/"
+    ],
+    "synonyms": [
+        "job",
+        "ability",
+        "command",
+        "art",
+        "spacecraft"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The members of a skilled trade.",
+            "vi": "Các thành viên của một thương mại lành nghề."
+        },
+        {
+            "pos": "verb",
+            "en": "To make with skill, artistry, or precision.",
+            "vi": "Để thực hiện với kỹ năng, tính nghệ thuật hoặc độ chính xác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, for, or having to do with a craft)",
+            "vi": "Của, vì, hoặc phải làm với một nghề thủ công)"
+        },
+        {
+            "pos": "affix",
+            "en": "The work, skill, or practice of.",
+            "vi": "Công việc, kỹ năng hoặc thực hành của."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The craft door opened, and a figure strode out.",
+            "vi": "Cánh cửa thủ công mở ra, và một bóng người sải bước ra ngoài."
+        },
+        {
+            "en": "Kiera had bathed in the bathroom in the back of the craft, but it was too small to have a clothing unit.",
+            "vi": "Kiera đã tắm trong phòng tắm ở phía sau xưởng chế tạo, nhưng nó quá nhỏ để có một bộ quần áo."
+        }
+    ],
+    "words_form": [
+        "crafted",
+        "crafting",
+        "crafts"
+    ],
+    "meaning_vi": "thủ công"
+}

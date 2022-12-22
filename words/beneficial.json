@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌbɛnəˈfɪʃ(ə)l/"
+    ],
+    "synonyms": [
+        "propitious",
+        "toward",
+        "remunerative",
+        "advantageous",
+        "valuable"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(law) Involving the receipt of funds, property, or other benefits, as from an insurance policy or trust.",
+            "vi": "(luật) Liên quan đến việc nhận tiền, tài sản hoặc các lợi ích khác, từ hợp đồng bảo hiểm hoặc quỹ tín thác."
+        },
+        {
+            "pos": "noun",
+            "en": "Organisms that are beneficial to a human endeavor, especially insects that are predators of pests.",
+            "vi": "Các sinh vật có lợi cho nỗ lực của con người, đặc biệt là côn trùng là kẻ thù của loài gây hại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Rolling the land is beneficial to young crops.",
+            "vi": "Lăn đất có lợi cho cây non."
+        },
+        {
+            "en": "The ladybugs were beneficial insects, eating the pesky aphids.",
+            "vi": "Bọ rùa là côn trùng có ích, ăn những con rệp gây hại."
+        }
+    ],
+    "words_form": [
+        "beneficial"
+    ],
+    "meaning_vi": "có lợi"
+}

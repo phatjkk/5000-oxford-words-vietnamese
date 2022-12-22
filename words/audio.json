@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ˈɔdioʊ/"
+    ],
+    "synonyms": [
+        "audio-frequency",
+        "sound",
+        "audio video",
+        "video",
+        "playback"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of or relating to recorded, transmitted, or reproduced sound.",
+            "vi": "Của hoặc liên quan đến âm thanh được ghi lại, truyền đi hoặc tái tạo."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of audio refers to the functions of a television set that are related to sound.",
+            "vi": "Định nghĩa về âm thanh đề cập đến các chức năng của máy thu hình có liên quan đến âm thanh."
+        },
+        {
+            "pos": "prefix",
+            "en": "Hearing.",
+            "vi": "Thính giác."
+        },
+        {
+            "pos": "affix",
+            "en": "Hearing or sound.",
+            "vi": "Thính giác hoặc âm thanh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Unwilling to face him, she turned on the audio portion.",
+            "vi": "Không muốn đối mặt với anh ta, cô bật phần âm thanh."
+        },
+        {
+            "en": "Fred had recently discovered the library rent­ed audio tapes of mystery stories.",
+            "vi": "Fred gần đây đã phát hiện ra thư viện cho thuê băng ghi âm của những câu chuyện bí ẩn."
+        }
+    ],
+    "words_form": [
+        "audios"
+    ],
+    "meaning_vi": "âm thanh"
+}

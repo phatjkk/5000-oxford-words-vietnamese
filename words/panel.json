@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈpænl/"
+    ],
+    "synonyms": [
+        "hanging",
+        "committee",
+        "board",
+        "council",
+        "tribunal"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A flat, usually rectangular piece forming a raised, recessed, or framed part of the surface in which it is set.",
+            "vi": "Một miếng phẳng, thường là hình chữ nhật tạo thành một phần nhô lên, lõm xuống hoặc đóng khung của bề mặt mà nó được đặt."
+        },
+        {
+            "pos": "verb",
+            "en": "To separate into panels.",
+            "vi": "Để tách thành các tấm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He sighed but tactfully closed the panel on his side.",
+            "vi": "Anh thở dài nhưng khéo léo đóng bảng điều khiển về phía mình."
+        },
+        {
+            "en": "The control panel opened.",
+            "vi": "Bảng điều khiển đã mở."
+        }
+    ],
+    "words_form": [
+        "paneled",
+        "paneling",
+        "panelled",
+        "panelling",
+        "panels"
+    ],
+    "meaning_vi": "bảng điều khiển"
+}

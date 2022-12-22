@@ -1,0 +1,52 @@
+{
+    "spelling": [
+        "/ˈdərdi/"
+    ],
+    "synonyms": [
+        "nasty",
+        "filthy",
+        "heavy",
+        "ugly",
+        "messy"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of dirty is something soiled, unclean or impure.",
+            "vi": "Định nghĩa của dơ bẩn là thứ gì đó bẩn thỉu, ô uế hoặc không tinh khiết."
+        },
+        {
+            "pos": "verb",
+            "en": "To dirty is to cause something to become unclean or impure.",
+            "vi": "Làm bẩn là làm cho một cái gì đó trở nên ô uế hoặc không tinh khiết."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a dirty manner.",
+            "vi": "Một cách bẩn thỉu."
+        },
+        {
+            "pos": "idiom",
+            "en": "a dirty shame  a very unfortunate circumstance",
+            "vi": "một sự xấu hổ bẩn thỉu một hoàn cảnh rất đáng tiếc"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Don't talk dirty, Ben.",
+            "vi": "Đừng nói bậy, Ben."
+        },
+        {
+            "en": "I've always been a dirty old man.",
+            "vi": "Tôi luôn là một ông già bẩn thỉu."
+        }
+    ],
+    "words_form": [
+        "dirtied",
+        "dirtier",
+        "dirties",
+        "dirtiest",
+        "dirtying"
+    ],
+    "meaning_vi": "dơ bẩn"
+}

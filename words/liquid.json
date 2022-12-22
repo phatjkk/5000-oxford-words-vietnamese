@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈlɪkwɪd/"
+    ],
+    "synonyms": [
+        "fluid",
+        "sappy",
+        "melted",
+        "liquefied",
+        "liquid state"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having a flowing quality without harshness or abrupt breaks.",
+            "vi": "Có chất lượng chảy mà không bị khắc nghiệt hoặc đứt gãy đột ngột."
+        },
+        {
+            "pos": "noun",
+            "en": "Liquid is defined as a substance that is neither a solid nor a gas.",
+            "vi": "Chất lỏng được định nghĩa là một chất không phải là chất rắn cũng không phải là chất khí."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was a tall glass of clear liquid in her hand.",
+            "vi": "Trên tay cô ấy có một ly nước trong vắt cao."
+        },
+        {
+            "en": "He sipped the hot liquid and winced.",
+            "vi": "Anh nhấp ngụm chất lỏng nóng hổi và nhăn mặt."
+        }
+    ],
+    "words_form": [
+        "liquids"
+    ],
+    "meaning_vi": "chất lỏng"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/laɪn/"
+    ],
+    "synonyms": [
+        "queue",
+        "file",
+        "length",
+        "rank",
+        "row"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(mathematics) A geometric figure formed by a point moving along a fixed direction and the reverse direction.",
+            "vi": "(Toán học) Một hình hình học được tạo thành bởi một điểm chuyển động dọc theo một hướng cố định và hướng ngược lại."
+        },
+        {
+            "pos": "verb",
+            "en": "To mark, incise, or cover with a line or lines.",
+            "vi": "Để đánh dấu, bổ sung hoặc che phủ bằng một đường kẻ hoặc các đường kẻ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or having to do with the managing of departments, operations, etc. which are involved directly in producing income, as in production or sales as distinguished from those involved in routine internal functions.",
+            "vi": "Liên quan đến hoặc liên quan đến việc quản lý các bộ phận, hoạt động, v.v. liên quan trực tiếp đến việc tạo ra thu nhập, cũng như trong sản xuất hoặc bán hàng, được phân biệt với những người liên quan đến các chức năng nội bộ thông thường."
+        },
+        {
+            "pos": "idiom",
+            "en": "all along the line  In every place. At every stage or moment.",
+            "vi": "Tất cả dọc theo dòng Ở mọi nơi. Ở mọi giai đoạn hoặc thời điểm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That sends you down another line of thought.",
+            "vi": "Điều đó đưa bạn xuống một dòng suy nghĩ khác."
+        },
+        {
+            "en": "The line had never been used.",
+            "vi": "Dòng chưa bao giờ được sử dụng."
+        }
+    ],
+    "words_form": [
+        "lined",
+        "lines",
+        "lining"
+    ],
+    "meaning_vi": "Đường thẳng"
+}

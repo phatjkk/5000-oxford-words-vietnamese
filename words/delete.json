@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈlit/"
+    ],
+    "synonyms": [
+        "remove",
+        "omit",
+        "x",
+        "erase",
+        "purge"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To delete is defined as to remove or cancel something.",
+            "vi": "Để xóa được định nghĩa là loại bỏ hoặc hủy bỏ một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Alternative spelling of Delete.",
+            "vi": "Cách viết khác của Delete."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Did you just delete all your events today?\" she asked.",
+            "vi": "\"Bạn vừa xóa tất cả các sự kiện của mình ngày hôm nay?\" cô ấy hỏi."
+        },
+        {
+            "en": "\"Don't delete it,\" he told her.",
+            "vi": "“Đừng xóa nó,” anh nói với cô."
+        }
+    ],
+    "words_form": [
+        "deleted",
+        "deletes",
+        "deleting"
+    ],
+    "meaning_vi": "xóa"
+}

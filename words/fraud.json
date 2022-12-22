@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/frɔd/"
+    ],
+    "synonyms": [
+        "deception",
+        "pretender",
+        "sham",
+        "fraudulent",
+        "dissimulation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person who deceives or who is not what he or she pretends to be; impostor; cheat.",
+            "vi": "Một người lừa dối hoặc không phải như những gì anh ta hoặc cô ta giả vờ; kẻ giả mạo; gian lận."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To defraud.",
+            "vi": "(lỗi thời) Để lừa đảo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"I'll bet he's a fraud,\" I said.",
+            "vi": "\"Tôi cá rằng anh ta là một kẻ lừa đảo,\" tôi nói."
+        },
+        {
+            "en": "Lucian's own close investigations into Alexander's methods of fraud led to a serious attempt on his life.",
+            "vi": "Các cuộc điều tra chặt chẽ của Lucian về các phương pháp lừa đảo của Alexander đã dẫn đến một nỗ lực nghiêm trọng đối với cuộc sống của anh ta."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "gian lận"
+}

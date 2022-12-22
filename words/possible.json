@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈpɑsəb(ə)l/"
+    ],
+    "synonyms": [
+        "attainable",
+        "feasible",
+        "probable",
+        "potential",
+        "realistic"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "That can be in the future; that may or may not happen.",
+            "vi": "Đó có thể là trong tương lai; điều đó có thể xảy ra hoặc không."
+        },
+        {
+            "pos": "noun",
+            "en": "A possible one.",
+            "vi": "Một khả thi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I have only three possible answers.",
+            "vi": "Tôi chỉ có ba câu trả lời khả thi."
+        },
+        {
+            "en": "It was possible after all - but was it moral?",
+            "vi": "Rốt cuộc thì điều đó có thể xảy ra - nhưng nó có đạo đức không?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khả thi"
+}

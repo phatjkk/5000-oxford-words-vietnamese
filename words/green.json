@@ -1,0 +1,61 @@
+{
+    "spelling": [
+        "/ɡrin/"
+    ],
+    "synonyms": [
+        "emerald",
+        "verdure",
+        "lush",
+        "leafy",
+        "fresh"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something green in color.",
+            "vi": "Một cái gì đó màu xanh lá cây."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of the color green.",
+            "vi": "Của màu xanh lá cây."
+        },
+        {
+            "pos": "verb",
+            "en": "To become green.",
+            "vi": "Để trở nên xanh."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) (pseud. of Henry Vincent Yorke) 1905-73; Eng. novelist.",
+            "vi": "(người) (bút danh của Henry Vincent Yorke) 1905-73; Anh tiểu thuyết gia."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A common English surname​.",
+            "vi": "Một họ tiếng Anh phổ biến."
+        },
+        {
+            "pos": "idiom",
+            "en": "green around  Pale or sickly in appearance.",
+            "vi": "màu xanh lá cây xung quanh Xanh xao hoặc có vẻ ngoài ốm yếu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A large green book caught her attention.",
+            "vi": "Một cuốn sách lớn màu xanh lá cây thu hút sự chú ý của cô."
+        },
+        {
+            "en": "Are you sure his name is Green; not Greely?",
+            "vi": "Bạn có chắc tên anh ta là Green; không Greely?"
+        }
+    ],
+    "words_form": [
+        "greened",
+        "greenest",
+        "greening",
+        "greens"
+    ],
+    "meaning_vi": "màu xanh lá"
+}

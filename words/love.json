@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ləv/"
+    ],
+    "synonyms": [
+        "affection",
+        "adoration",
+        "adore",
+        "amor",
+        "attachment"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of love is a feeling of deep affection, passion or strong liking for a person or thing.",
+            "vi": "Định nghĩa của tình yêu là cảm giác của tình cảm sâu sắc, đam mê hoặc thích mạnh mẽ đối với một người hoặc sự vật."
+        },
+        {
+            "pos": "verb",
+            "en": "To feel love or sexual love for another.",
+            "vi": "Để cảm thấy tình yêu hoặc tình yêu dành cho người khác."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Vole.",
+            "vi": "Bỏ phiếu."
+        },
+        {
+            "pos": "pronoun",
+            "en": "An unincorporated community in Kentucky.",
+            "vi": "Một cộng đồng chưa hợp nhất ở Kentucky."
+        },
+        {
+            "pos": "idiom",
+            "en": "for love  Out of compassion; with no thought for a reward: She volunteers at the hospital for love.",
+            "vi": "vì tình yêu Từ bi; không cần suy nghĩ về một phần thưởng: Cô ấy tình nguyện tại bệnh viện vì tình yêu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I love you so much.",
+            "vi": "Anh yêu em rất nhiều."
+        },
+        {
+            "en": "We love our parents, siblings and friends.",
+            "vi": "Chúng tôi yêu cha mẹ, anh chị em và bạn bè của chúng tôi."
+        }
+    ],
+    "words_form": [
+        "loved",
+        "loves",
+        "loving"
+    ],
+    "meaning_vi": "tình yêu"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɪksˈtʃeɪndʒ/"
+    ],
+    "synonyms": [
+        "transfer",
+        "barter",
+        "swapping",
+        "change",
+        "trade-off"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To exchange is defined as to give something and receive something in turn.",
+            "vi": "Trao đổi được định nghĩa là trao một thứ gì đó và nhận lại thứ gì đó lần lượt."
+        },
+        {
+            "pos": "noun",
+            "en": "One that is exchanged.",
+            "vi": "Một cái được trao đổi."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to a reciprocal arrangement between a local and a foreign institution or group.",
+            "vi": "Của hoặc liên quan đến một thỏa thuận có đi có lại giữa một tổ chức hoặc nhóm địa phương và nước ngoài."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The exchange student was growling at her.",
+            "vi": "Sinh viên trao đổi đang gầm gừ với cô ấy."
+        },
+        {
+            "en": "No, nothing could explain the exchange she witnessed.",
+            "vi": "Không, không gì có thể giải thích được cuộc trao đổi mà cô đã chứng kiến."
+        }
+    ],
+    "words_form": [
+        "exchanged",
+        "exchanges",
+        "exchanging"
+    ],
+    "meaning_vi": "trao đổi, giao dịch"
+}

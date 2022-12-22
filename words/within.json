@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/wəˈðɪn/",
+        "/wəˈθɪn/"
+    ],
+    "synonyms": [
+        "throughout",
+        "during",
+        "in",
+        "inside",
+        "internal"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "In the inner part or parts of; inside.",
+            "vi": "Ở phần bên trong hoặc các bộ phận của; bên trong."
+        },
+        {
+            "pos": "adverb",
+            "en": "Within is defined as inside, indoors or not beyond a certain limit.",
+            "vi": "Trong được định nghĩa là bên trong, trong nhà hoặc không vượt quá một giới hạn nhất định."
+        },
+        {
+            "pos": "noun",
+            "en": "An inner position, place, or area.",
+            "vi": "Vị trí, địa điểm hoặc khu vực bên trong."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Within seconds, she was drenched.",
+            "vi": "Trong vài giây, cô ấy đã ướt đẫm."
+        },
+        {
+            "en": "She was holding it within her.",
+            "vi": "Cô ấy đang giữ nó trong mình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "trong"
+}

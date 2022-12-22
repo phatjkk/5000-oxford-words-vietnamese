@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ɪnˈdɔrsmənt/",
+        "/ɛnˈdɔrsmənt/"
+    ],
+    "synonyms": [
+        "approval",
+        "ratification",
+        "signature",
+        "allowance",
+        "allow"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The signature on a check, contract, instrument, or other document endorsing it.",
+            "vi": "Chữ ký trên séc, hợp đồng, công cụ hoặc tài liệu khác chứng thực nó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In 4 Ezra, too, we find no real endorsement of such a doctrine.",
+            "vi": "Trong 4 Ezra cũng vậy, chúng tôi không tìm thấy sự chứng thực thực sự nào đối với một học thuyết như vậy."
+        },
+        {
+            "en": "Does this constitute an endorsement?",
+            "vi": "Điều này có cấu thành sự chứng thực không?"
+        }
+    ],
+    "words_form": [
+        "endorsements"
+    ],
+    "meaning_vi": "chứng thực"
+}

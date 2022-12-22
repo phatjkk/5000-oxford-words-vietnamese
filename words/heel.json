@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/hil/"
+    ],
+    "synonyms": [
+        "base",
+        "rascal",
+        "hock",
+        "spur",
+        "trickster"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a heel is the part of the foot on the opposite end from the toes, under the ankle, or the part of a shoe that supports the heel.",
+            "vi": "Định nghĩa về gót chân là phần của bàn chân ở đầu đối diện với các ngón chân, dưới mắt cá chân, hoặc phần của giày hỗ trợ gót chân."
+        },
+        {
+            "pos": "verb",
+            "en": "To arm (a gamecock) with gaffs.",
+            "vi": "Để vũ trang (một con gà chọi) với những cú húc."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used in commanding a dog to follow at one's heels.",
+            "vi": "Được sử dụng để chỉ huy một con chó theo sau gót chân của một người."
+        },
+        {
+            "pos": "idiom",
+            "en": "down at the heel  With the heel worn down. Used of shoes. Shabby or poor in appearance.",
+            "vi": "xuống ở gót chân Với gót chân đã mòn. Được sử dụng của giày. Ngoại hình tồi tàn hoặc kém sắc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She turned on her heel and walked.",
+            "vi": "Cô quay gót bước đi."
+        },
+        {
+            "en": "The man smashed his heel onto her already wounded arm.",
+            "vi": "Người đàn ông đập gót chân vào cánh tay đã bị thương của cô."
+        }
+    ],
+    "words_form": [
+        "heeled",
+        "heels"
+    ],
+    "meaning_vi": "gót chân"
+}

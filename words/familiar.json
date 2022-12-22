@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/fəˈmɪljər/"
+    ],
+    "synonyms": [
+        "well-known",
+        "accustomed",
+        "everyday",
+        "matter-of-fact",
+        "common"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having fair knowledge; acquainted.",
+            "vi": "Có kiến ​​thức công bằng; hiểu biết."
+        },
+        {
+            "pos": "noun",
+            "en": "A person who frequents a place.",
+            "vi": "Một người thường xuyên lui tới một nơi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The name wasn't familiar to me.",
+            "vi": "Cái tên không quen thuộc với tôi."
+        },
+        {
+            "en": "The familiar voice was carried on the wind.",
+            "vi": "Giọng nói quen thuộc được đưa theo gió."
+        }
+    ],
+    "words_form": [
+        "familiars"
+    ],
+    "meaning_vi": "quen thuộc"
+}

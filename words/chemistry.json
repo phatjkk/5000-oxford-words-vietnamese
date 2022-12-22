@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈkɛməstri/"
+    ],
+    "synonyms": [
+        "biogeochemistry",
+        "alchemy",
+        "geochemistry",
+        "biochemistry",
+        "physics"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of chemistry is a branch of science that deals with the form and properties of matter and substances or the interaction between individuals.",
+            "vi": "Định nghĩa của hóa học là một nhánh của khoa học liên quan đến hình thức và tính chất của vật chất và các chất hoặc sự tương tác giữa các cá nhân."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I think it's something about my body chemistry that they don't like.",
+            "vi": "Tôi nghĩ rằng đó là điều gì đó về hóa học cơ thể của tôi mà họ không thích."
+        },
+        {
+            "en": "The transformations of these two forms are discussed in Chemistry: Physical.",
+            "vi": "Sự biến đổi của hai dạng này được thảo luận trong Hóa học: Vật lý."
+        }
+    ],
+    "words_form": [
+        "chemistries"
+    ],
+    "meaning_vi": "hóa học"
+}

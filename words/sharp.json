@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/ʃɑrp/"
+    ],
+    "synonyms": [
+        "acute",
+        "knifelike",
+        "thorny",
+        "peaked",
+        "edged"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In a sharp manner.",
+            "vi": "Một cách sắc sảo."
+        },
+        {
+            "pos": "adjective",
+            "en": "Having a thin edge or a fine point suitable for or capable of cutting or piercing.",
+            "vi": "Có một cạnh mỏng hoặc một điểm nhỏ thích hợp hoặc có khả năng cắt hoặc xuyên."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a sharp is something with a pointed end.",
+            "vi": "Định nghĩa của một sắc nét là một cái gì đó có một đầu nhọn."
+        },
+        {
+            "pos": "verb",
+            "en": "To raise in pitch by a semitone.",
+            "vi": "Để nâng cao độ bằng một nửa cung."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The wound opened again and the salt he threw into it drew a sharp response from her.",
+            "vi": "Vết thương lại mở ra và muối anh ném vào đó đã khiến cô phản ứng gay gắt."
+        },
+        {
+            "en": "Somewhere up ahead was a sharp turn.",
+            "vi": "Ở đâu đó phía trước là một khúc cua gấp."
+        }
+    ],
+    "words_form": [
+        "sharpest",
+        "sharps"
+    ],
+    "meaning_vi": "thăng"
+}

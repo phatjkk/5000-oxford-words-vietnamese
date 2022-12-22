@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/prəˈpɔrʃ(ə)n/"
+    ],
+    "synonyms": [
+        "relationship",
+        "proportionate",
+        "disproportion",
+        "size",
+        "symmetry"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Proportion is defined as a numerical relationship that compares things or people.",
+            "vi": "Tỷ lệ được định nghĩa là một mối quan hệ bằng số so sánh các sự vật hoặc con người."
+        },
+        {
+            "pos": "verb",
+            "en": "To adjust so that proper relations between parts are attained.",
+            "vi": "Để điều chỉnh sao cho đạt được mối quan hệ thích hợp giữa các bộ phận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "After that, it diminishes roughly in proportion to the delay.",
+            "vi": "Sau đó, nó giảm dần tương ứng với độ trễ."
+        },
+        {
+            "en": "The net gain in the 1906 class is not far short of 5o,00o, and the proportion of the new contingent to the old is practically 5:4.",
+            "vi": "Lợi nhuận ròng của lớp 1906 không chênh lệch nhiều là 5o, 00o, và tỷ lệ của đội ngũ mới so với lớp cũ trên thực tế là 5: 4."
+        }
+    ],
+    "words_form": [
+        "proportions"
+    ],
+    "meaning_vi": "tỷ lệ"
+}

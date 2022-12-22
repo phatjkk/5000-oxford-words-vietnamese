@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈprɛz(ə)nt/"
+    ],
+    "synonyms": [
+        "donation",
+        "existing",
+        "immediate",
+        "make-known",
+        "at-hand"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Present is current time or is happening right now.",
+            "vi": "Hiện tại là thời điểm hiện tại hoặc đang xảy ra ngay bây giờ."
+        },
+        {
+            "pos": "verb",
+            "en": "Present is defined as to formally introduce or honor someone.",
+            "vi": "Hiện tại được định nghĩa là để chính thức giới thiệu hoặc tôn vinh một người nào đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Existing or happening now; current.",
+            "vi": "Hiện tại hoặc đang xảy ra ngay bây giờ; hiện hành."
+        },
+        {
+            "pos": "idiom",
+            "en": "at present  At the present time; right now.",
+            "vi": "hiện tại Tại thời điểm hiện tại; ngay lập tức."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Let him present his side.",
+            "vi": "Hãy để anh ấy hiện diện bên mình."
+        },
+        {
+            "en": "The present is better than the past.",
+            "vi": "Hiện tại tốt hơn quá khứ."
+        }
+    ],
+    "words_form": [
+        "presented",
+        "presenting",
+        "presents"
+    ],
+    "meaning_vi": "Có mặt."
+}

@@ -1,0 +1,65 @@
+{
+    "spelling": [
+        "/ɡreɪt/"
+    ],
+    "synonyms": [
+        "magnificent",
+        "excellent",
+        "grand",
+        "glorious",
+        "august"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of great is very much above the ordinary quality or size.",
+            "vi": "Định nghĩa về sự tuyệt vời nằm trên rất nhiều so với chất lượng hoặc kích thước thông thường."
+        },
+        {
+            "pos": "noun",
+            "en": "One that is great.",
+            "vi": "Một điều đó là tuyệt vời."
+        },
+        {
+            "pos": "adverb",
+            "en": "Very well.",
+            "vi": "Rất tốt."
+        },
+        {
+            "pos": "affix",
+            "en": "Older (or younger) by one generation.",
+            "vi": "Lớn hơn (hoặc trẻ hơn) bởi một thế hệ."
+        },
+        {
+            "pos": "interjection",
+            "en": "Expression of gladness and content about something.",
+            "vi": "Biểu hiện của sự vui mừng và hài lòng về một cái gì đó."
+        },
+        {
+            "pos": "prefix",
+            "en": "With familial designations, used to denote a removal of one generation.",
+            "vi": "Với các chỉ định gia đình, được sử dụng để biểu thị việc loại bỏ một thế hệ."
+        },
+        {
+            "pos": "idiom",
+            "en": "great on  enthusiastic about",
+            "vi": "tuyệt vời về sự nhiệt tình về"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You're doing a great job.",
+            "vi": "Bạn đang làm một công việc tuyệt vời."
+        },
+        {
+            "en": "It's great and I love it.",
+            "vi": "Nó thật tuyệt và tôi yêu nó."
+        }
+    ],
+    "words_form": [
+        "greater",
+        "greatest",
+        "greats"
+    ],
+    "meaning_vi": "tuyệt vời"
+}

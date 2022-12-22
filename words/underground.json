@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/ˈəndərˌɡraʊnd/"
+    ],
+    "synonyms": [
+        "secret",
+        "hidden",
+        "subversive",
+        "buried",
+        "metro"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To situate under the ground.",
+            "vi": "Để ngồi dưới đất."
+        },
+        {
+            "pos": "adjective",
+            "en": "Situated, occurring, or operating below the surface of the earth.",
+            "vi": "Ở, xảy ra hoặc hoạt động bên dưới bề mặt trái đất."
+        },
+        {
+            "pos": "noun",
+            "en": "A clandestine, often nationalist, organization fostering or planning hostile activities against, or the overthrow of, a government in power, such as an occupying military government.",
+            "vi": "Một tổ chức bí mật, thường là chủ nghĩa dân tộc, nuôi dưỡng hoặc lên kế hoạch cho các hoạt động thù địch chống lại hoặc lật đổ chính phủ cầm quyền, chẳng hạn như chính phủ quân sự đang chiếm đóng."
+        },
+        {
+            "pos": "adverb",
+            "en": "Below the surface of the earth.",
+            "vi": "Dưới bề mặt trái đất."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(UK) The London Underground.",
+            "vi": "(Anh) Tàu điện ngầm London."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He breathed deeply, not realizing how musty the underground world was until he breathed fresh air.",
+            "vi": "Anh hít thở sâu, không nhận ra thế giới ngầm ẩm mốc như thế nào cho đến khi anh hít thở không khí trong lành."
+        },
+        {
+            "en": "Take her underground, if you must.",
+            "vi": "Đưa cô ấy đi dưới lòng đất, nếu bạn phải."
+        }
+    ],
+    "words_form": [
+        "undergrounds"
+    ],
+    "meaning_vi": "ngầm"
+}

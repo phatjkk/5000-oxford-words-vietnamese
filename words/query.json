@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈkwɪri/"
+    ],
+    "synonyms": [
+        "ask",
+        "interrogate",
+        "inquiry",
+        "question",
+        "examine"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To put a question to (a person).",
+            "vi": "Để đặt một câu hỏi cho (một người)."
+        },
+        {
+            "pos": "noun",
+            "en": "A question mark (?) placed after a question or used to question the accuracy of written or printed matter.",
+            "vi": "Dấu chấm hỏi (?) Được đặt sau một câu hỏi hoặc được sử dụng để đặt câu hỏi về tính chính xác của tài liệu viết hoặc in."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Surely the Indians would guess that their query would eventually assemble.",
+            "vi": "Chắc chắn người da đỏ sẽ đoán rằng truy vấn của họ cuối cùng sẽ được lắp ráp."
+        },
+        {
+            "en": "She smiles instead of answering my query.",
+            "vi": "Cô ấy mỉm cười thay vì trả lời câu hỏi của tôi."
+        }
+    ],
+    "words_form": [
+        "queried",
+        "queries",
+        "querying"
+    ],
+    "meaning_vi": "truy vấn"
+}

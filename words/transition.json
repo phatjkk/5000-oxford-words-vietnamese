@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/trænˈzɪʃ(ə)n/",
+        "/trænˈsɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "passage",
+        "change",
+        "passing",
+        "constancy",
+        "alteration"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Transition means to change from one thing to another.",
+            "vi": "Chuyển tiếp có nghĩa là thay đổi từ thứ này sang thứ khác."
+        },
+        {
+            "pos": "noun",
+            "en": "A period during childbirth that precedes the expulsive phase of labor, characterized by strong uterine contractions and nearly complete cervical dilation.",
+            "vi": "Giai đoạn trong quá trình sinh nở diễn ra trước giai đoạn chuyển dạ, được đặc trưng bởi các cơn co thắt tử cung mạnh và cổ tử cung giãn nở gần như hoàn toàn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "When did this transition happen?",
+            "vi": "Sự chuyển đổi này xảy ra khi nào?"
+        },
+        {
+            "en": "You were forced into a transition without being prepared for it.",
+            "vi": "Bạn đã bị buộc phải chuyển đổi mà không được chuẩn bị cho nó."
+        }
+    ],
+    "words_form": [
+        "transitioned",
+        "transitioning",
+        "transitions"
+    ],
+    "meaning_vi": "quá độ"
+}

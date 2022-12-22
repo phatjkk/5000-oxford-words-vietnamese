@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/tɪl/"
+    ],
+    "synonyms": [
+        "farm",
+        "until",
+        "tray",
+        "box",
+        "cultivate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Till is defined as to prepare land for crops to be planted by plowing and fertilizing.",
+            "vi": "Xới đất được định nghĩa là chuẩn bị đất cho cây trồng bằng cách cày bừa và bón phân."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a till is a drawer or tray that a retailer would use to store his money.",
+            "vi": "Định nghĩa của một đến là một ngăn kéo hoặc khay mà một nhà bán lẻ sẽ sử dụng để lưu trữ tiền của mình."
+        },
+        {
+            "pos": "preposition",
+            "en": "Till means until.",
+            "vi": "Till có nghĩa là cho đến khi."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Until.",
+            "vi": "Cho đến khi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I shall not be at peace till you promise me this.",
+            "vi": "Tôi sẽ không được bình yên cho đến khi bạn hứa với tôi điều này."
+        },
+        {
+            "en": "It will not see me till it comes very near.",
+            "vi": "Nó sẽ không nhìn thấy tôi cho đến khi nó đến rất gần."
+        }
+    ],
+    "words_form": [
+        "tilled",
+        "tilling",
+        "tills"
+    ],
+    "meaning_vi": "cho đến"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/kəˈnɛktəd/"
+    ],
+    "synonyms": [
+        "united",
+        "coupled",
+        "associated",
+        "applicable",
+        "pertinent"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Logically or intelligibly ordered or presented; coherent.",
+            "vi": "Được sắp xếp hoặc trình bày một cách hợp lý hoặc dễ hiểu; mạch lạc."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of connect.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ của kết nối."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Yeah, I've telephoned him but we haven't connected yet.",
+            "vi": "Vâng, tôi đã gọi cho anh ấy nhưng chúng tôi vẫn chưa kết nối."
+        },
+        {
+            "en": "I explained how an Agent connected my call to the Delaware murder of Marcia Stonehurst.",
+            "vi": "Tôi đã giải thích cách một Đặc vụ kết nối cuộc gọi của tôi với vụ giết Marcia Stonehurst ở Delaware."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đã kết nối"
+}

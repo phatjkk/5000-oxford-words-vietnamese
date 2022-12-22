@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/kəmˈpɛrəsən/"
+    ],
+    "synonyms": [
+        "analogy",
+        "resemblance",
+        "observation",
+        "weighing",
+        "simile"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a comparison is the act of finding out the differences and similarities between two or more people or things.",
+            "vi": "Định nghĩa của so sánh là hành động tìm ra sự khác biệt và giống nhau giữa hai hoặc nhiều người hoặc sự vật."
+        },
+        {
+            "pos": "idiom",
+            "en": "by comparison  when compared (to something already mentioned) After a frigid January, February felt downright balmy by comparison.",
+            "vi": "bằng cách so sánh khi so sánh (với một cái gì đó đã được đề cập) Sau tháng Giêng lạnh giá, tháng Hai cảm thấy rất dễ chịu khi so sánh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I tell this story to make a comparison between modern times and the past.",
+            "vi": "Tôi kể câu chuyện này để so sánh giữa thời hiện đại và quá khứ."
+        },
+        {
+            "en": "But the rich man--not to make any invidious comparison--is always sold to the institution which makes him rich.",
+            "vi": "Nhưng người giàu - không để xảy ra bất kỳ sự so sánh ngầm nào - luôn bị bán cho tổ chức làm cho anh ta trở nên giàu có."
+        }
+    ],
+    "words_form": [
+        "comparisons"
+    ],
+    "meaning_vi": "sự so sánh"
+}

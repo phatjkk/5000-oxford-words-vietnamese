@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˌɔːriɛnˈteɪʃən/"
+    ],
+    "synonyms": [
+        "direction",
+        "location",
+        "acclimatization",
+        "adaptation",
+        "assimilation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person's fundamental feelings about or responses to something.",
+            "vi": "Liên quan đến, hoặc bắt nguồn từ hoạt động của một thiết bị, hệ thống, quy trình, v.v."
+        },
+        {
+            "pos": "",
+            "en": "In typography, the direction of print across a page. See portrait and orientation agnostic.",
+            "vi": "Được thiết kế để hỗ trợ thị giác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It stood to the east of the latter, and had a different orientation, viz.",
+            "vi": "Nó đứng ở phía đông của cái sau, và có một hướng khác, viz."
+        },
+        {
+            "en": "This result is inconsistent with the aether remaining at rest, unless we assume that the dimensions of the moving system depend, though to an extent so small as to be not otherwise detectable, on its orientation with regard to the aether that is streaming through it.",
+            "vi": "Kết quả này không phù hợp với aether còn lại ở trạng thái nghỉ, trừ khi chúng ta giả định rằng các kích thước của hệ thống chuyển động phụ thuộc, mặc dù ở một mức độ nhỏ đến mức không thể phát hiện được, vào hướng của nó liên quan đến ather đang truyền qua nó."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "A person's fundamental feelings about or responses to something.",
+            "vi": "Liên quan đến, hoặc bắt nguồn từ hoạt động của một thiết bị, hệ thống, quy trình, v.v."
+        },
+        {
+            "pos": "",
+            "en": "In typography, the direction of print across a page. See portrait and orientation agnostic.",
+            "vi": "Được thiết kế để hỗ trợ thị giác."
+        }
+    ]
+}

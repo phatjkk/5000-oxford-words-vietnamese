@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈpraɪvɪt/"
+    ],
+    "synonyms": [
+        "personal",
+        "retired",
+        "removed",
+        "privy",
+        "separate"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "For an individual person.",
+            "vi": "Đối với một cá nhân."
+        },
+        {
+            "pos": "noun",
+            "en": "Private parts. Often used with the.",
+            "vi": "Những phần riêng tư. Thường được sử dụng với."
+        },
+        {
+            "pos": "idiom",
+            "en": "go private  To take a publicly owned company into private ownership, as by a leveraged buyout.",
+            "vi": "chuyển sang chế độ tư nhân Để đưa một công ty thuộc sở hữu công thành quyền sở hữu tư nhân, như bằng một giao dịch mua có đòn bẩy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm trying to have a private conversation here.",
+            "vi": "Tôi đang cố nói chuyện riêng ở đây."
+        },
+        {
+            "en": "I should have shown it to you in private - prepared you for it.",
+            "vi": "Lẽ ra, tôi nên cho bạn xem nó một cách riêng tư - hãy chuẩn bị cho bạn."
+        }
+    ],
+    "words_form": [
+        "privates"
+    ],
+    "meaning_vi": "riêng tư"
+}

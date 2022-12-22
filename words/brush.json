@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/brəʃ/"
+    ],
+    "synonyms": [
+        "dingle",
+        "insult",
+        "groom",
+        "shrubbery",
+        "grove"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A sliding connection completing a circuit between a fixed and a moving conductor.",
+            "vi": "Một kết nối trượt hoàn thành một mạch giữa một dây dẫn cố định và một dây dẫn chuyển động."
+        },
+        {
+            "pos": "verb",
+            "en": "To make sweeping strokes with the hand.",
+            "vi": "Để thực hiện các nét quét bằng tay."
+        },
+        {
+            "pos": "idiom",
+            "en": "brush aside  to sweep out of the way to dismiss from consideration",
+            "vi": "gạt sang một bên để quét ra khỏi con đường để loại bỏ khỏi sự cân nhắc"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Something moved in the brush not far away and she froze.",
+            "vi": "Một cái gì đó di chuyển trong bàn chải cách đó không xa và cô ấy đứng hình."
+        },
+        {
+            "en": "She stayed in the brush beside the trail, as she had done in her dream.",
+            "vi": "Cô ấy ở trong cây bút lông bên cạnh con đường mòn, như cô ấy đã làm trong giấc mơ của mình."
+        }
+    ],
+    "words_form": [
+        "brushed",
+        "brushes",
+        "brushing"
+    ],
+    "meaning_vi": "chải"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈɪmpləmənt/"
+    ],
+    "synonyms": [
+        "carry out",
+        "execute",
+        "instrument",
+        "tool",
+        "utensil"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To supply with implements.",
+            "vi": "Cung cấp nông cụ."
+        },
+        {
+            "pos": "noun",
+            "en": "An article used to outfit or equip someone.",
+            "vi": "Một bài báo được sử dụng để trang bị hoặc trang bị cho ai đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He used a special implement which he inserted at the lower end of the incision.",
+            "vi": "Anh ta sử dụng một dụng cụ đặc biệt mà anh ta đưa vào ở đầu dưới của vết mổ."
+        },
+        {
+            "en": "We plan to implement a policy allowing students to choose a humane alternative.",
+            "vi": "Chúng tôi có kế hoạch thực hiện một chính sách cho phép học sinh lựa chọn một giải pháp thay thế nhân đạo."
+        }
+    ],
+    "words_form": [
+        "implemented",
+        "implementing",
+        "implements"
+    ],
+    "meaning_vi": "triển khai thực hiện"
+}

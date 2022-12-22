@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈhɑstl/",
+        "/ˈhɑˌstaɪl/"
+    ],
+    "synonyms": [
+        "unfriendly",
+        "vicious",
+        "aggressive",
+        "mean",
+        "incongruous"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of hostile is defined as aggressive, angry or unfriendly.",
+            "vi": "Định nghĩa về thù địch được định nghĩa là hung hăng, tức giận hoặc không thân thiện."
+        },
+        {
+            "pos": "noun",
+            "en": "An enemy in warfare.",
+            "vi": "Một kẻ thù trong chiến tranh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Dulce wasn't friendly, but she wasn't hostile either.",
+            "vi": "Dulce không thân thiện, nhưng cô ấy cũng không thù địch."
+        },
+        {
+            "en": "His hostile gaze met hers.",
+            "vi": "Ánh mắt thù địch của anh bắt gặp ánh mắt của cô."
+        }
+    ],
+    "words_form": [
+        "hostiles"
+    ],
+    "meaning_vi": "thù địch"
+}

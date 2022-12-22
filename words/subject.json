@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈsəbdʒɛkt/"
+    ],
+    "synonyms": [
+        "obedient",
+        "governed",
+        "subservient",
+        "material",
+        "matter"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Subject is defined as to make someone or something experience something.",
+            "vi": "Chủ đề được định nghĩa là làm cho ai đó hoặc điều gì đó trải nghiệm điều gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "A subject is someone or something that is under the authority of another or others.",
+            "vi": "Chủ thể là một người nào đó hoặc một cái gì đó nằm dưới quyền của người khác hoặc những người khác."
+        },
+        {
+            "pos": "noun",
+            "en": "Subject means something or someone that is a topic of a discussion, writing, art piece or area of study.",
+            "vi": "Chủ đề có nghĩa là một cái gì đó hoặc một người nào đó là chủ đề của một cuộc thảo luận, bài viết, tác phẩm nghệ thuật hoặc lĩnh vực nghiên cứu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She forced the subject from her mind.",
+            "vi": "Cô đã buộc chủ đề này khỏi tâm trí của mình."
+        },
+        {
+            "en": "That was the end of the conversation and neither of them brought the subject up again that night.",
+            "vi": "Đó là kết thúc của cuộc trò chuyện và không ai trong số họ nhắc lại chủ đề vào đêm hôm đó."
+        }
+    ],
+    "words_form": [
+        "subjected",
+        "subjecting",
+        "subjects"
+    ],
+    "meaning_vi": "môn học"
+}

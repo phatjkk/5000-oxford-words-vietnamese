@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kənˈtroʊl/"
+    ],
+    "synonyms": [
+        "command",
+        "guide",
+        "manage",
+        "rule",
+        "regulate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of control is power to direct, or an accepted comparison model in an experiment, or a device used for regulation.",
+            "vi": "Định nghĩa của kiểm soát là quyền lực để chỉ đạo, hoặc một mô hình so sánh được chấp nhận trong một thử nghiệm, hoặc một thiết bị được sử dụng để điều chỉnh."
+        },
+        {
+            "pos": "verb",
+            "en": "To exercise authoritative or dominating influence over; direct.",
+            "vi": "Thực hiện ảnh hưởng có thẩm quyền hoặc chi phối; trực tiếp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can't control it yet.",
+            "vi": "Tôi chưa thể kiểm soát nó."
+        },
+        {
+            "en": "I have to learn to control myself.",
+            "vi": "Tôi phải học cách kiểm soát bản thân."
+        }
+    ],
+    "words_form": [
+        "controlled",
+        "controlling",
+        "controls"
+    ],
+    "meaning_vi": "kiểm soát"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/fɔrdʒ/"
+    ],
+    "synonyms": [
+        "counterfeit",
+        "imitate",
+        "bloomery",
+        "frame",
+        "smithy"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make (something false) or imitate (something genuine) for purposes of deception or fraud; esp., to counterfeit (a check, signature, etc.)",
+            "vi": "Để làm ra (một cái gì đó sai) hoặc bắt chước (một cái gì đó thật) cho các mục đích lừa dối hoặc gian lận; đặc biệt, để làm giả (séc, chữ ký, v.v.)"
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a forge is a furnace or workshop where metals are heated.",
+            "vi": "Định nghĩa của lò rèn là một lò hoặc xưởng, nơi kim loại được nung nóng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Thomas Bunyan had a forge and workshop at Elstow.",
+            "vi": "Thomas Bunyan đã có một xưởng rèn và xưởng tại Elstow."
+        },
+        {
+            "en": "English local tradition placed Wayland Smith's forge in a cave close to the White Horse in Berkshire.",
+            "vi": "Truyền thống địa phương của Anh đã đặt lò rèn của Wayland Smith trong một hang động gần White Horse ở Berkshire."
+        }
+    ],
+    "words_form": [
+        "forged",
+        "forges",
+        "forging"
+    ],
+    "meaning_vi": "làm giả"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/bərθ/"
+    ],
+    "synonyms": [
+        "blessed-event",
+        "have",
+        "parturition",
+        "death",
+        "blood"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of birth is related biologically.",
+            "vi": "Định nghĩa về sự ra đời có liên quan về mặt sinh học."
+        },
+        {
+            "pos": "noun",
+            "en": "The beginning of anything.",
+            "vi": "Sự khởi đầu của bất cứ điều gì."
+        },
+        {
+            "pos": "verb",
+            "en": "To give birth (to)",
+            "vi": "Để sinh (để)"
+        },
+        {
+            "pos": "idiom",
+            "en": "give birth  to bring forth offspring",
+            "vi": "sinh con đẻ cái"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He even had a birth certificate for me.",
+            "vi": "Anh ấy thậm chí đã có một giấy khai sinh cho tôi."
+        },
+        {
+            "en": "A year later they started a family with the birth of their first daughter.",
+            "vi": "Một năm sau, họ thành lập một gia đình với sự ra đời của cô con gái đầu lòng."
+        }
+    ],
+    "words_form": [
+        "birthed",
+        "birthing",
+        "births"
+    ],
+    "meaning_vi": "sinh"
+}

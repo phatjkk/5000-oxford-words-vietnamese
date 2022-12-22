@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/dɪˈtɛktɪv/"
+    ],
+    "synonyms": [
+        "agent",
+        "informer",
+        "police officer",
+        "private eye",
+        "private investigator"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person, usually a member of a police force, who investigates crimes and obtains evidence or information.",
+            "vi": "Một người, thường là thành viên của lực lượng cảnh sát, người điều tra tội phạm và thu thập bằng chứng hoặc thông tin."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of detective is something related to investigating a crime or is used for detecting or finding something.",
+            "vi": "Định nghĩa của thám tử là một cái gì đó liên quan đến điều tra tội phạm hoặc được sử dụng để phát hiện hoặc tìm ra thứ gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Detective Jackson's voice surprised me.",
+            "vi": "Giọng của thám tử Jackson làm tôi ngạc nhiên."
+        },
+        {
+            "en": "The police detective helped us by perjuring himself.",
+            "vi": "Thám tử cảnh sát đã giúp chúng tôi bằng cách khai man chính mình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "A person, usually a member of a police force, who investigates crimes and obtains evidence or information.",
+            "vi": "Một người, thường là thành viên của lực lượng cảnh sát, người điều tra tội phạm và thu thập bằng chứng hoặc thông tin."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of detective is something related to investigating a crime or is used for detecting or finding something.",
+            "vi": "Định nghĩa của thám tử là một cái gì đó liên quan đến điều tra tội phạm hoặc được sử dụng để phát hiện hoặc tìm ra thứ gì đó."
+        }
+    ]
+}

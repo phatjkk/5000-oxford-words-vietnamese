@@ -1,0 +1,67 @@
+{
+    "spelling": [
+        "/waʊ/"
+    ],
+    "synonyms": [
+        "charm",
+        "entertain",
+        "cheer",
+        "kill",
+        "slay"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An outstanding success.",
+            "vi": "Một thành công vượt trội."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express wonder, amazement, or great pleasure.",
+            "vi": "Được sử dụng để thể hiện sự ngạc nhiên, ngạc nhiên hoặc vui sướng tột độ."
+        },
+        {
+            "pos": "verb",
+            "en": "To have a strong, usually pleasurable effect on.",
+            "vi": "Để có một hiệu ứng mạnh mẽ, thường dễ chịu trên."
+        },
+        {
+            "pos": "",
+            "en": "(1) See Windows on Windows.",
+            "vi": "(1) Xem Windows trên Windows."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Wow, don't you look nice.",
+            "vi": "Chà, trông bạn có đẹp không."
+        },
+        {
+            "en": "Wow, that's gotta be a record for you.",
+            "vi": "Ồ, đó phải là một kỷ lục đối với bạn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "An outstanding success.",
+            "vi": "Một thành công vượt trội."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express wonder, amazement, or great pleasure.",
+            "vi": "Được sử dụng để thể hiện sự ngạc nhiên, ngạc nhiên hoặc vui sướng tột độ."
+        },
+        {
+            "pos": "verb",
+            "en": "To have a strong, usually pleasurable effect on.",
+            "vi": "Để có một hiệu ứng mạnh mẽ, thường dễ chịu trên."
+        },
+        {
+            "pos": "",
+            "en": "(1) See Windows on Windows.",
+            "vi": "(1) Xem Windows trên Windows."
+        }
+    ]
+}

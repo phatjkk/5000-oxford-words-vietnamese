@@ -1,0 +1,52 @@
+{
+    "spelling": [
+        "/ˈniðər/",
+        "/ˈnaɪðər/"
+    ],
+    "synonyms": [
+        "not",
+        "none",
+        "not-at-all",
+        "nothing",
+        "nor"
+    ],
+    "meaning": [
+        {
+            "pos": "determiner",
+            "en": "Not one of two; not either.",
+            "vi": "Không phải một trong hai; cũng không."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Not either; not in either case. Used with the correlative conjunction nor .",
+            "vi": "Cũng không; không phải trong cả hai trường hợp. Được sử dụng với kết hợp tương quan nor."
+        },
+        {
+            "pos": "adverb",
+            "en": "Similarly not; also not.",
+            "vi": "Tương tự không; cũng không."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Not either one.",
+            "vi": "Không phải một trong hai."
+        },
+        {
+            "pos": "adjective",
+            "en": "Not one or the other; not either.",
+            "vi": "Không phải cái này hay cái khác; cũng không."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Neither of them had a clue what was on her mind.",
+            "vi": "Cả hai đều không có manh mối gì trong đầu cô."
+        },
+        {
+            "en": "Neither of the children seemed concerned about the flight, though.",
+            "vi": "Tuy nhiên, cả hai đứa trẻ đều không có vẻ lo lắng về chuyến bay."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "không"
+}

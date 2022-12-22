@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˌənˈtɪl/"
+    ],
+    "synonyms": [
+        "till",
+        "once",
+        "up to",
+        "after",
+        "since"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "Up to the time of.",
+            "vi": "Tính đến thời điểm."
+        },
+        {
+            "pos": "conjunction",
+            "en": "The definition of until is up to the time of, or before.",
+            "vi": "Định nghĩa của cho đến thời điểm của hoặc trước đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We went to bed and slept until morning.",
+            "vi": "Chúng tôi lên giường và ngủ một giấc đến sáng."
+        },
+        {
+            "en": "At least wait until the doctor sees her.",
+            "vi": "Ít nhất hãy đợi cho đến khi bác sĩ khám cho cô ấy."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "cho đến"
+}

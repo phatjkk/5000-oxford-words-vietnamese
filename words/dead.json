@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/dɛd/"
+    ],
+    "synonyms": [
+        "late",
+        "perished",
+        "lifeless",
+        "no more",
+        "deceased"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having lost life; no longer alive.",
+            "vi": "Mất mạng; Không còn sống nữa."
+        },
+        {
+            "pos": "noun",
+            "en": "People who have died.",
+            "vi": "Những người đã chết."
+        },
+        {
+            "pos": "adverb",
+            "en": "Absolutely; altogether.",
+            "vi": "Chắc chắn rồi; hoàn toàn."
+        },
+        {
+            "pos": "verb",
+            "en": "(archaic) Formerly, \"be dead\" was used instead of \"have died\" as the perfect tense of \"die\".",
+            "vi": "(cổ xưa) Trước đây, \"be dead\" được sử dụng thay cho \"have dead\" như là một thì hoàn hảo của \"die\"."
+        },
+        {
+            "pos": "idiom",
+            "en": "dead and buried  No longer in use or under consideration: All past animosities are dead and buried now.",
+            "vi": "chết và chôn Không còn sử dụng hoặc đang được xem xét: Tất cả những thù hận trong quá khứ đều đã chết và được chôn cất ngay bây giờ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The battery in the lantern might be dead or the fall might have broken it.",
+            "vi": "Pin trong đèn lồng có thể đã hết hoặc do rơi có thể đã làm hỏng pin."
+        },
+        {
+            "en": "A living dog is better than a dead lion.",
+            "vi": "Một con chó sống tốt hơn một con sư tử chết."
+        }
+    ],
+    "words_form": [
+        "deadest"
+    ],
+    "meaning_vi": "hết pin"
+}

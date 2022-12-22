@@ -1,0 +1,59 @@
+{
+    "spelling": [
+        "/bɑnd/"
+    ],
+    "synonyms": [
+        "relationship",
+        "link",
+        "obligation",
+        "security",
+        "bind"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A duty, promise, or other obligation by which one is bound.",
+            "vi": "Một nghĩa vụ, lời hứa hoặc nghĩa vụ khác mà một người bị ràng buộc."
+        },
+        {
+            "pos": "verb",
+            "en": "Bond means to bind or connect.",
+            "vi": "Bond có nghĩa là ràng buộc hoặc kết nối."
+        },
+        {
+            "pos": "adjective",
+            "en": "In serfdom or slavery.",
+            "vi": "Trong chế độ nông nô hoặc chế độ nô lệ."
+        },
+        {
+            "pos": "proper name",
+            "en": "See James Bond.",
+            "vi": "Xem James Bond."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "bottled in bond  stored in bonded warehouses for a stated length of time before being bottled, as some whiskey",
+            "vi": "đóng chai trong trái phiếu được lưu trữ trong kho ngoại quan trong một khoảng thời gian nhất định trước khi được đóng chai, như một số loại rượu whisky"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The bond between mates is strong.",
+            "vi": "Mối liên kết giữa bạn tình rất bền chặt."
+        },
+        {
+            "en": "The bond creates more than dependency; it gives you a helluva lot of influence over him.",
+            "vi": "Mối liên kết tạo ra nhiều thứ hơn là sự phụ thuộc; nó mang lại cho bạn rất nhiều ảnh hưởng đối với anh ấy."
+        }
+    ],
+    "words_form": [
+        "bonded",
+        "bonds"
+    ],
+    "meaning_vi": "liên kết"
+}

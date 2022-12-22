@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈleɪər/"
+    ],
+    "synonyms": [
+        "substratum",
+        "stripe",
+        "substrate",
+        "layers",
+        "bed"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Layer is defined as to create levels.",
+            "vi": "Lớp được định nghĩa là để tạo các cấp."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a layer is a single thickness or coat, or a hen that lays eggs.",
+            "vi": "Định nghĩa của lớp là độ dày hoặc lớp lông đơn lẻ, hoặc một con gà mái đẻ trứng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The sun had melted a thin layer of water over the ice in the water trough.",
+            "vi": "Mặt trời đã làm tan một lớp nước mỏng trên lớp băng trong máng nước."
+        },
+        {
+            "en": "Although a thick layer of clouds hid the sun, the air wasn't any cooler.",
+            "vi": "Mặc dù một lớp mây dày che khuất mặt trời, nhưng không khí vẫn không mát mẻ hơn chút nào."
+        }
+    ],
+    "words_form": [
+        "layered",
+        "layering",
+        "layers"
+    ],
+    "meaning_vi": "lớp"
+}

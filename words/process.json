@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/ˈprɑˌsɛs/",
+        "/ˈproʊˌsɛs/"
+    ],
+    "synonyms": [
+        "task",
+        "rule",
+        "cognitive operation",
+        "treat",
+        "usage"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To straighten (hair) by a chemical process; conk.",
+            "vi": "Để làm thẳng (tóc) bằng một quá trình hóa học; lừa đảo."
+        },
+        {
+            "pos": "noun",
+            "en": "A series of operations performed in the making or treatment of a product.",
+            "vi": "Một loạt các hoạt động được thực hiện trong quá trình sản xuất hoặc xử lý sản phẩm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Prepared or converted by a special process.",
+            "vi": "Chuẩn bị hoặc chuyển đổi bởi một quy trình đặc biệt."
+        },
+        {
+            "pos": "idiom",
+            "en": "in (the) process of  in or during the course of",
+            "vi": "trong (quá trình) trong hoặc trong quá trình"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "My God, I can't even process that!",
+            "vi": "Chúa ơi, tôi thậm chí không thể xử lý điều đó!"
+        },
+        {
+            "en": "The process causes physical difficulty and effort.",
+            "vi": "Quá trình này gây ra khó khăn về thể chất và nỗ lực."
+        }
+    ],
+    "words_form": [
+        "processed",
+        "processes",
+        "processing"
+    ],
+    "meaning_vi": "quy trình"
+}

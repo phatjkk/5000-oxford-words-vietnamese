@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˌɛndʒəˈnɪr/"
+    ],
+    "synonyms": [
+        "builder",
+        "surveyor",
+        "designer",
+        "stoker",
+        "finagle"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an engineer is a person who uses science, math and creativity to solve technical problems.",
+            "vi": "Định nghĩa kỹ sư là người sử dụng khoa học, toán học và sự sáng tạo để giải quyết các vấn đề kỹ thuật."
+        },
+        {
+            "pos": "verb",
+            "en": "To engineer is defined as to create, plan, build or design a solution or a process.",
+            "vi": "Kỹ sư được định nghĩa là tạo, lập kế hoạch, xây dựng hoặc thiết kế một giải pháp hoặc một quy trình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was then fortified by the engineer.",
+            "vi": "Sau đó nó đã được gia cố bởi kỹ sư."
+        },
+        {
+            "en": "He entered the army as an engineer, and attained the rank of captain.",
+            "vi": "Ông nhập ngũ với tư cách là một kỹ sư, và đạt được cấp bậc đại úy."
+        }
+    ],
+    "words_form": [
+        "engineered",
+        "engineers"
+    ],
+    "meaning_vi": "kỹ sư"
+}

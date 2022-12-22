@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈpɑsəbli/"
+    ],
+    "synonyms": [
+        "perhaps",
+        "by-chance",
+        "likely",
+        "probably",
+        "maybe"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Perhaps.",
+            "vi": "Có lẽ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I couldn't possibly do it.",
+            "vi": "Tôi không thể làm điều đó."
+        },
+        {
+            "en": "How could she possibly win in the next five?",
+            "vi": "Làm sao cô ấy có thể thắng trong năm trận tiếp theo?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "có khả năng"
+}

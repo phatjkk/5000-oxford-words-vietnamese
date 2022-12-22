@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/sit/"
+    ],
+    "synonyms": [
+        "bench",
+        "pew",
+        "bleacher",
+        "chair",
+        "place"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Seat is to help someone sit down, or to accommodate.",
+            "vi": "Chỗ ngồi là để giúp ai đó ngồi xuống, hoặc để chứa."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a seat is a reserved space, something used for sitting, the part of your body that you sit on, or an organizational position.",
+            "vi": "Định nghĩa về chỗ ngồi là một không gian dành riêng, một thứ được sử dụng để ngồi, phần cơ thể bạn ngồi hoặc một vị trí tổ chức."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) by the seat of (one's) pants  In a manner based on intuition and experience rather than method: He ran the business by the seat of his pants.Without the use of instruments: An inexperienced pilot who had to fly the aircraft by the seat of her pants.",
+            "vi": "(không chính thức) bằng cách ngồi của (một người) theo cách dựa trên trực giác và kinh nghiệm hơn là phương pháp: Anh ta điều hành công việc bằng cách ngồi trên ghế của mình mà không cần sử dụng công cụ: Một phi công thiếu kinh nghiệm đã lái máy bay bằng chỗ ngồi của quần cô ấy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The princess, picking up her dress, was taking her seat in the dark carriage, her husband was adjusting his saber; Prince Hippolyte, under pretense of helping, was in everyone's way.",
+            "vi": "Công chúa, đang chọn chiếc váy của mình, đang ngồi trong cỗ xe tối, chồng cô đang chỉnh lại thanh kiếm của mình; Hoàng tử Hippolyte, giả vờ giúp đỡ, đã cản đường mọi người."
+        },
+        {
+            "en": "Put this on the seat and this to the right.",
+            "vi": "Đặt cái này trên ghế và cái này ở bên phải."
+        }
+    ],
+    "words_form": [
+        "seated",
+        "seating",
+        "seats"
+    ],
+    "meaning_vi": "chỗ ngồi"
+}

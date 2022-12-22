@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈbɔrdər/"
+    ],
+    "synonyms": [
+        "margin",
+        "boundary",
+        "edge",
+        "skirt",
+        "periphery"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A part that forms the outer edge of something.",
+            "vi": "Một phần tạo thành cạnh bên ngoài của một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To be almost like another in character.",
+            "vi": "Gần giống như một nhân vật khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, forming, or near a border.",
+            "vi": "Trong số, đang hình thành hoặc gần biên giới."
+        },
+        {
+            "pos": "idiom",
+            "en": "border on  to be next to or adjoining to be like; almost be His grief borders on madness.",
+            "vi": "biên giới để được bên cạnh hoặc tiếp giáp để được như thế nào; gần như là biên giới đau buồn của Ngài trên sự điên rồ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Brockville is just over the border from Maryland and Washington.",
+            "vi": "Brockville chỉ cách Maryland và Washington qua biên giới."
+        },
+        {
+            "en": "You're at the border of a restricted area, by the way.",
+            "vi": "Nhân tiện, bạn đang ở biên giới của một khu vực hạn chế."
+        }
+    ],
+    "words_form": [
+        "bordered",
+        "bordering",
+        "borders"
+    ],
+    "meaning_vi": "biên giới"
+}

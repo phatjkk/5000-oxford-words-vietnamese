@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/sɑk/"
+    ],
+    "synonyms": [
+        "knock",
+        "strike",
+        "beat",
+        "stocking",
+        "pop"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A short stocking reaching a point between the ankle and the knee.",
+            "vi": "Tất ngắn dài đến điểm giữa mắt cá chân và đầu gối."
+        },
+        {
+            "pos": "verb",
+            "en": "To hit or strike with force, esp. with the fist.",
+            "vi": "Để đánh hoặc tấn công bằng vũ lực, đặc biệt. bằng nắm tay."
+        },
+        {
+            "pos": "adverb",
+            "en": "Directly; squarely.",
+            "vi": "Trực tiếp; vuông vắn."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) sock it to (someone)  To deliver a forceful comment, reprimand, or physical blow to someone else.",
+            "vi": "(tiếng lóng) sock it to (ai đó) Để đưa ra lời nhận xét mạnh mẽ, khiển trách hoặc đòn mạnh vào người khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Just put a sock on the doorknob or something so I don't bother you.",
+            "vi": "Chỉ cần đặt một chiếc tất trên tay nắm cửa hoặc thứ gì đó để tôi không làm phiền bạn."
+        },
+        {
+            "en": "Say you decide to sort out your sock drawer.",
+            "vi": "Giả sử bạn quyết định sắp xếp ngăn kéo tất của mình."
+        }
+    ],
+    "words_form": [
+        "socked",
+        "socking",
+        "socks",
+        "sox"
+    ],
+    "meaning_vi": "bít tất"
+}

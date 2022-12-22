@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈkraʊdəd/"
+    ],
+    "synonyms": [
+        "congested",
+        "filled",
+        "cluttered",
+        "cramped",
+        "full"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Filled to such an extent as to be detrimental to the inhabitants.",
+            "vi": "Bị lấp đầy đến mức gây bất lợi cho cư dân."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of crowd.",
+            "vi": "Quá khứ đơn và quá khứ phân từ đám đông."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The men crowded together round the campfires.",
+            "vi": "Những người đàn ông chen chúc nhau quanh đống lửa trại."
+        },
+        {
+            "en": "Must be crowded here today.",
+            "vi": "Hôm nay chắc ở đây đông lắm."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đông người"
+}

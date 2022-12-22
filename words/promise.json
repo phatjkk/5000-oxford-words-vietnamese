@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈprɑməs/"
+    ],
+    "synonyms": [
+        "covenant",
+        "assurance",
+        "swearing",
+        "oath",
+        "avowal"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a promise is a statement given by someone that he will do as he said, or it can refer to a person's potential.",
+            "vi": "Định nghĩa về một lời hứa là một lời tuyên bố của một người nào đó rằng anh ta sẽ làm như những gì anh ta đã nói, hoặc nó có thể ám chỉ tiềm năng của một người."
+        },
+        {
+            "pos": "verb",
+            "en": "To make a declaration assuring that something will or will not be done.",
+            "vi": "Để thực hiện một tuyên bố đảm bảo rằng một cái gì đó sẽ hoặc sẽ không được thực hiện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "When I make a promise, I keep it.",
+            "vi": "Khi tôi thực hiện một lời hứa, tôi giữ nó."
+        },
+        {
+            "en": "I promise not to harm you.",
+            "vi": "Tôi hứa sẽ không làm hại bạn."
+        }
+    ],
+    "words_form": [
+        "promised",
+        "promises",
+        "promising"
+    ],
+    "meaning_vi": "hứa"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/sid/"
+    ],
+    "synonyms": [
+        "grain",
+        "lineage",
+        "germ",
+        "strew",
+        "ovule"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a seed is a structure that contains the embryo of a plant.",
+            "vi": "Định nghĩa hạt giống là một cấu trúc có chứa phôi của cây."
+        },
+        {
+            "pos": "verb",
+            "en": "To sow seed.",
+            "vi": "Để gieo hạt giống."
+        },
+        {
+            "pos": "adjective",
+            "en": "Set aside for planting a new crop.",
+            "vi": "Dành ra để trồng một vụ mới."
+        },
+        {
+            "pos": "idiom",
+            "en": "go  To pass into the seed-bearing stage. To become weak or devitalized; deteriorate: The old neighborhood has gone to seed.",
+            "vi": "chuyển sang giai đoạn mang hạt. Trở nên yếu ớt hoặc mất sức sống; xấu đi: Khu phố cũ đã xuống giống."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "For the sowing of seed see Sowing.",
+            "vi": "Về phần gieo hạt, xem phần Gieo."
+        },
+        {
+            "en": "Farmers need to have supplies of seed, fertilizer, tractors, and fuel.",
+            "vi": "Nông dân cần có nguồn cung cấp giống, phân bón, máy kéo và nhiên liệu."
+        }
+    ],
+    "words_form": [
+        "seeded",
+        "seeding",
+        "seeds"
+    ],
+    "meaning_vi": "hạt giống"
+}

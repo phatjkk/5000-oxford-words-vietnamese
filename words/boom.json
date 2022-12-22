@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/bum/"
+    ],
+    "synonyms": [
+        "blast",
+        "thunder",
+        "go",
+        "thrive",
+        "sounds"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make a deep, hollow, resonant sound.",
+            "vi": "Để tạo ra âm thanh sâu, rỗng, vang."
+        },
+        {
+            "pos": "noun",
+            "en": "Swift, vigorous growth or development.",
+            "vi": "Nhanh chóng, tăng trưởng hoặc phát triển mạnh mẽ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, characteristic of, or resulting from a boom in business, etc.",
+            "vi": "Đặc điểm của, hoặc kết quả từ sự bùng nổ kinh doanh, v.v."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to suggest the sound of an explosion.",
+            "vi": "Dùng để gợi ý âm thanh của một vụ nổ."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A botanical plant name author abbreviation for botanist Boudewijn Karel Boom (1903-1980).",
+            "vi": "Tên viết tắt của tác giả thực vật thực vật của nhà thực vật học Boudewijn Karel Boom (1903-1980)."
+        },
+        {
+            "pos": "idiom",
+            "en": "drop  To act suddenly and forcefully to repress a practice or reprimand an offender; crack down.",
+            "vi": "bỏ rơi Hành động đột ngột và mạnh mẽ để trấn áp một thực hành hoặc khiển trách một người vi phạm; bẻ khóa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Each boom of thunder was loud enough to rattle the window panes.",
+            "vi": "Từng tiếng sấm nổ đủ lớn để làm rung các ô cửa sổ."
+        },
+        {
+            "en": "She heard another boom, then a third.",
+            "vi": "Cô nghe thấy một tiếng nổ khác, sau đó là một phần ba."
+        }
+    ],
+    "words_form": [
+        "boomed",
+        "booming",
+        "booms"
+    ],
+    "meaning_vi": "bùng nổ"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/mɔl/"
+    ],
+    "synonyms": [
+        "shopping-center",
+        "malls",
+        "court",
+        "walk",
+        "plaza"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A large, often enclosed shopping complex containing various stores, businesses, and restaurants usually accessible by common passageways.",
+            "vi": "Một khu phức hợp mua sắm lớn, thường được bao bọc với nhiều cửa hàng, doanh nghiệp và nhà hàng khác nhau thường có lối đi chung."
+        },
+        {
+            "pos": "verb",
+            "en": "To beat with a mall, or mallet; to beat with something heavy; to bruise.",
+            "vi": "Để đánh bại với một trung tâm mua sắm, hoặc vồ; để đánh bại với một cái gì đó nặng; làm thâm tín."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The cinema out in the shopping mall has a 9:40 show.",
+            "vi": "Rạp chiếu phim trong trung tâm mua sắm có một suất chiếu 9:40."
+        },
+        {
+            "en": "The mall; where's the mall from here?",
+            "vi": "Khu mua sắm; trung tâm mua sắm từ đây ở đâu?"
+        }
+    ],
+    "words_form": [
+        "malls"
+    ],
+    "meaning_vi": "trung tâm mua sắm"
+}

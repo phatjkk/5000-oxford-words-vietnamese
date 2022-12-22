@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/bɪn/"
+    ],
+    "synonyms": [
+        "box",
+        "silo",
+        "storeroom",
+        "mow",
+        "bunker"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A container or enclosed space for storage.",
+            "vi": "Một thùng chứa hoặc không gian kín để lưu trữ."
+        },
+        {
+            "pos": "verb",
+            "en": "To place or store in a bin.",
+            "vi": "Để đặt hoặc lưu trữ trong thùng."
+        },
+        {
+            "pos": "affix",
+            "en": "Bi-",
+            "vi": "Bi-"
+        },
+        {
+            "pos": "contraction",
+            "en": "(text messaging) Contraction of being.",
+            "vi": "(tin nhắn văn bản) Sự co lại của hiện hữu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Two tumuli were dug in the necropolis of Bin Tepe without result.",
+            "vi": "Hai khối u được đào ở nghĩa địa Bin Tepe mà không có kết quả."
+        },
+        {
+            "en": "Nizam-uddin Abu Mahommed Ilyas bin Yusuf, Persian poet, was born 535 A.H.",
+            "vi": "Nizam-uddin Abu Mahommed Ilyas bin Yusuf, nhà thơ Ba Tư, sinh năm 535 AH"
+        }
+    ],
+    "words_form": [
+        "binned",
+        "binning",
+        "bins"
+    ],
+    "meaning_vi": "thùng"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈpræktəs/"
+    ],
+    "synonyms": [
+        "training",
+        "practice",
+        "train",
+        "habit",
+        "drill"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To do or perform habitually or customarily; make a habit of.",
+            "vi": "Để làm hoặc thực hiện theo thói quen hoặc thông lệ; tạo thói quen."
+        },
+        {
+            "pos": "noun",
+            "en": "Practice is defined as to use an idea or actually put it into place. It also refers to the act of continually doing something in order to get better at it.",
+            "vi": "Thực hành được định nghĩa là sử dụng một ý tưởng hoặc thực sự đưa nó vào vị trí. Nó cũng đề cập đến hành động liên tục làm điều gì đó để trở nên tốt hơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Everything gets better with practice, Carmen.",
+            "vi": "Mọi thứ trở nên tốt hơn khi luyện tập, Carmen."
+        },
+        {
+            "en": "His father joined him and handed him his wooden practice sword.",
+            "vi": "Cha của anh đã tham gia và trao cho anh thanh kiếm luyện tập bằng gỗ của mình."
+        }
+    ],
+    "words_form": [
+        "practiced",
+        "practices",
+        "practicing"
+    ],
+    "meaning_vi": "thực hành"
+}

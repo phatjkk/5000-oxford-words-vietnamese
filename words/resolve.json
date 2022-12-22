@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈzɑlv/"
+    ],
+    "synonyms": [
+        "decide",
+        "solve",
+        "determine",
+        "answer",
+        "fix"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of resolve is to solve, or settle something, or to make a commitment to do something.",
+            "vi": "Định nghĩa của quyết tâm là giải quyết, hoặc giải quyết một cái gì đó, hoặc cam kết thực hiện một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Firmness of purpose; resolution.",
+            "vi": "Sự vững chắc của mục đích; nghị quyết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In spite of her resolve, she responded.",
+            "vi": "Bất chấp quyết tâm của cô ấy, cô ấy đã đáp trả."
+        },
+        {
+            "en": "I had hoped that you would resolve your problem, but it seems to have no end.",
+            "vi": "Tôi đã hy vọng rằng bạn sẽ giải quyết được vấn đề của mình, nhưng nó dường như không có hồi kết."
+        }
+    ],
+    "words_form": [
+        "resolved",
+        "resolves",
+        "resolving"
+    ],
+    "meaning_vi": "tìm ra giải pháp"
+}

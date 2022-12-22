@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈprɛv(ə)ləns/"
+    ],
+    "synonyms": [
+        "customariness",
+        "predominance",
+        "incidence",
+        "usual",
+        "ubiquity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The condition of being prevalent.",
+            "vi": "Tình trạng phổ biến."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The prevalence of sunlight led to a restriction of the windows and exaggeration of wall space.",
+            "vi": "Sự phổ biến của ánh sáng mặt trời dẫn đến việc hạn chế các cửa sổ và phóng đại không gian tường."
+        },
+        {
+            "en": "In this way we must explain the great prevalence of the Latin language.",
+            "vi": "Bằng cách này, chúng ta phải giải thích sự phổ biến rộng rãi của ngôn ngữ Latinh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tỷ lệ lưu hành"
+}

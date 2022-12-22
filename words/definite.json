@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈdɛf(ə)nət/"
+    ],
+    "synonyms": [
+        "precise",
+        "correct",
+        "positive",
+        "accurate",
+        "exact"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of definite is something that has limits, is clear in meaning, absolutely true and positive.",
+            "vi": "Định nghĩa của nghĩa là cái gì đó có giới hạn, rõ ràng về nghĩa, hoàn toàn đúng và tích cực."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) Anything that is defined or determined.",
+            "vi": "(lỗi thời) Bất cứ thứ gì được xác định hoặc xác định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That woman has a definite problem.",
+            "vi": "Người phụ nữ đó có một vấn đề nhất định."
+        },
+        {
+            "en": "The matter is in my hands and is clear and definite in my head.",
+            "vi": "Vấn đề nằm trong tay tôi và rõ ràng và dứt khoát trong đầu tôi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "xác định"
+}

@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˈsɛtʌp/"
+    ],
+    "synonyms": [
+        "all together",
+        "analytical",
+        "businesslike",
+        "by the book",
+        "by the numbers"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To ready something for use.",
+            "vi": "Để xuất hiện; rõ ràng."
+        },
+        {
+            "pos": "adjective",
+            "en": "In a position to function; ready.",
+            "vi": "Được trao quyền hoặc có xu hướng lựa chọn."
+        },
+        {
+            "pos": "noun",
+            "en": "Alternative form of setup.",
+            "vi": "Tỷ lệ các cá thể trong quần thể sẽ được xác định chính xác khi thực hiện xét nghiệm được thiết kế để phát hiện sự hiện diện của một căn bệnh cụ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We will set up our plan to capture him.",
+            "vi": "Chúng tôi sẽ thiết lập kế hoạch của chúng tôi để bắt anh ta."
+        },
+        {
+            "en": "It'll take me a minute to set up.",
+            "vi": "Tôi sẽ mất một phút để thiết lập."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "verb",
+            "en": "To ready something for use.",
+            "vi": "Để xuất hiện; rõ ràng."
+        },
+        {
+            "pos": "adjective",
+            "en": "In a position to function; ready.",
+            "vi": "Được trao quyền hoặc có xu hướng lựa chọn."
+        },
+        {
+            "pos": "noun",
+            "en": "Alternative form of setup.",
+            "vi": "Tỷ lệ các cá thể trong quần thể sẽ được xác định chính xác khi thực hiện xét nghiệm được thiết kế để phát hiện sự hiện diện của một căn bệnh cụ thể."
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɪnˈkaʊn(t)ər/",
+        "/ɛnˈkaʊn(t)ər/"
+    ],
+    "synonyms": [
+        "face",
+        "battle",
+        "collision",
+        "rendezvous",
+        "confront"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Encounter is defined as to meet, especially unexpectedly.",
+            "vi": "Encounter được định nghĩa là để gặp gỡ, đặc biệt là bất ngờ."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of an encounter is a meeting, often an unexpected one.",
+            "vi": "Định nghĩa của một cuộc gặp gỡ là một cuộc gặp gỡ, thường là một cuộc gặp gỡ bất ngờ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a small group that meets for a kind of therapy in personal interrelationship, involving a release of inhibitions, an open exchange of intimate feelings, etc.",
+            "vi": "Chỉ định hoặc một nhóm nhỏ gặp gỡ cho một loại liệu pháp trong mối quan hệ cá nhân với nhau, liên quan đến việc giải phóng ức chế, trao đổi cởi mở về cảm xúc thân mật, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The encounter had frightened him more than he would admit.",
+            "vi": "Cuộc gặp gỡ đã khiến anh sợ hãi nhiều hơn những gì anh sẽ thừa nhận."
+        },
+        {
+            "en": "The count remembered the wolf he had let slip and his encounter with Daniel.",
+            "vi": "Bá tước nhớ ra con sói mà anh ta đã để tuột mất và cuộc chạm trán của anh ta với Daniel."
+        }
+    ],
+    "words_form": [
+        "encountered",
+        "encounters"
+    ],
+    "meaning_vi": "gặp gỡ"
+}

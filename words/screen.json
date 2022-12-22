@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/skrin/"
+    ],
+    "synonyms": [
+        "wide screen",
+        "shadow",
+        "bowdlerize",
+        "window",
+        "cloak"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Screen is defined as to show, examine or separate.",
+            "vi": "Màn hình được định nghĩa là để hiển thị, kiểm tra hoặc tách biệt."
+        },
+        {
+            "pos": "noun",
+            "en": "A coarse sieve used for sifting out fine particles, as of sand, gravel, or coal.",
+            "vi": "Một sàng thô được sử dụng để sàng các hạt mịn, như cát, sỏi hoặc than."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She unhooked the screen and pushed it out.",
+            "vi": "Cô ấy mở màn hình và đẩy nó ra."
+        },
+        {
+            "en": "She looked from the computer screen to the phone with the flashing red light.",
+            "vi": "Cô nhìn từ màn hình máy tính sang điện thoại có đèn đỏ nhấp nháy."
+        }
+    ],
+    "words_form": [
+        "screened",
+        "screening",
+        "screens"
+    ],
+    "meaning_vi": "màn hình"
+}

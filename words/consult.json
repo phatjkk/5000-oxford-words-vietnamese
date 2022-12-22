@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kənˈsəlt/"
+    ],
+    "synonyms": [
+        "deliberate",
+        "ask",
+        "parley",
+        "discuss",
+        "call-in"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To work or serve as a consultant.",
+            "vi": "Để làm việc hoặc phục vụ như một nhà tư vấn."
+        },
+        {
+            "pos": "noun",
+            "en": "A consultation, especially one involving physicians.",
+            "vi": "Một cuộc tư vấn, đặc biệt là một cuộc tư vấn liên quan đến các bác sĩ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Consult the literature of history and colonial reform given below.",
+            "vi": "Tham khảo tài liệu về lịch sử và cải cách thuộc địa dưới đây."
+        },
+        {
+            "en": "Alex couldn't be expected to handle everything and she couldn't be expected to consult him on everything.",
+            "vi": "Alex không thể được mong đợi để giải quyết mọi thứ và cô không thể mong đợi để hỏi ý kiến ​​anh ta về mọi thứ."
+        }
+    ],
+    "words_form": [
+        "consulted",
+        "consulting",
+        "consults"
+    ],
+    "meaning_vi": "tham khảo ý kiến"
+}

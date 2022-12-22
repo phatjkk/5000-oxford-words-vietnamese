@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pis/"
+    ],
+    "synonyms": [
+        "composition",
+        "slice",
+        "division",
+        "exposition",
+        "paragraph"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a piece is a part of a whole.",
+            "vi": "Định nghĩa của một mảnh là một phần của một tổng thể."
+        },
+        {
+            "pos": "verb",
+            "en": "To add a piece or pieces to, as in repairing or enlarging.",
+            "vi": "Để thêm một hoặc nhiều mảnh vào, như trong sửa chữa hoặc phóng to."
+        },
+        {
+            "pos": "idiom",
+            "en": "a piece of (one's) mind  Frank and severe criticism; censure.",
+            "vi": "một phần tâm trí của (một người) Frank và những lời chỉ trích gay gắt; sự chỉ trích."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Now cut me a piece of that pie.",
+            "vi": "Bây giờ cắt cho tôi một miếng bánh đó."
+        },
+        {
+            "en": "He turned his attention to the fire and tucked another piece of bark into the bright coals.",
+            "vi": "Anh ta hướng sự chú ý vào ngọn lửa và nhét một mẩu vỏ cây khác vào than sáng."
+        }
+    ],
+    "words_form": [
+        "pieced",
+        "pieces",
+        "piecing"
+    ],
+    "meaning_vi": "mảnh"
+}

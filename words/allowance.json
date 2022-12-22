@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/əˈlaʊəns/"
+    ],
+    "synonyms": [
+        "quantity",
+        "fee",
+        "recompense",
+        "agree",
+        "quota"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A reduction in the price of something in consideration of a large order or of turning in a used article, etc.",
+            "vi": "Giảm giá của một thứ gì đó khi xem xét một đơn đặt hàng lớn hoặc chuyển sang một mặt hàng đã qua sử dụng, v.v."
+        },
+        {
+            "pos": "verb",
+            "en": "To put on an allowance or a ration.",
+            "vi": "Để đưa vào một khoản phụ cấp hoặc một khẩu phần ăn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating a horse race in which the weight each horse must carry is set by a formula tied to the horse's past performance and earnings.",
+            "vi": "Chỉ định một cuộc đua ngựa trong đó trọng lượng mà mỗi con ngựa phải mang được thiết lập bởi một công thức gắn liền với thành tích và thu nhập trước đây của con ngựa."
+        },
+        {
+            "pos": "idiom",
+            "en": "make allowance  To take into consideration when planning something. To make excuses for or treat with leniency.",
+            "vi": "làm cho phụ cấp Để xem xét khi lập kế hoạch một cái gì đó. Để bào chữa hoặc đối xử với sự khoan hồng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We agreed on an allowance figure and she began working in earnest.",
+            "vi": "Chúng tôi đã đồng ý về một con số phụ cấp và cô ấy bắt đầu làm việc một cách nghiêm túc."
+        },
+        {
+            "en": "In June 1720 he went up to Christ Church, Oxford, with an annual allowance of £40 as a Charterhouse scholar.",
+            "vi": "Vào tháng 6 năm 1720, ông đến Nhà thờ Christ, Oxford, với khoản trợ cấp hàng năm là £ 40 với tư cách là một học giả của Charterhouse."
+        }
+    ],
+    "words_form": [
+        "allowanced",
+        "allowances",
+        "allowancing"
+    ],
+    "meaning_vi": "phụ cấp"
+}

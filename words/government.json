@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈɡəvər(n)mənt/"
+    ],
+    "synonyms": [
+        "administration",
+        "authority",
+        "direction",
+        "house",
+        "rule"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of government is the exercise of control or authority over a group of people.",
+            "vi": "Định nghĩa của chính phủ là việc thực hiện quyền kiểm soát hoặc quyền hạn đối với một nhóm người."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to government.",
+            "vi": "Của hoặc liên quan đến chính phủ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We have no control over what the government does.",
+            "vi": "Chúng tôi không kiểm soát được những gì chính phủ làm."
+        },
+        {
+            "en": "Government is a great achievement of civilization.",
+            "vi": "Chính phủ là một thành tựu vĩ đại của nền văn minh."
+        }
+    ],
+    "words_form": [
+        "governments"
+    ],
+    "meaning_vi": "chính quyền"
+}

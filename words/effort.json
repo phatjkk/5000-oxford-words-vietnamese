@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈɛfərt/"
+    ],
+    "synonyms": [
+        "endeavor",
+        "exertion",
+        "stab",
+        "strain",
+        "spurt"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The using of energy to get something done; exertion of strength or mental power.",
+            "vi": "Việc sử dụng năng lượng để hoàn thành một việc gì đó; gắng sức hoặc trí lực."
+        },
+        {
+            "pos": "verb",
+            "en": "(uncommon) To make an effort.",
+            "vi": "(không phổ biến) Để thực hiện một nỗ lực."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I admire the effort and sacrifice you put into it.",
+            "vi": "Tôi ngưỡng mộ nỗ lực và sự hy sinh mà bạn bỏ ra."
+        },
+        {
+            "en": "Some people just put more effort into distinguishing right from wrong than others.",
+            "vi": "Một số người chỉ nỗ lực phân biệt đúng sai hơn những người khác."
+        }
+    ],
+    "words_form": [
+        "efforts"
+    ],
+    "meaning_vi": "cố gắng"
+}

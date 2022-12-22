@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈsaɪn/"
+    ],
+    "synonyms": [
+        "select",
+        "draft",
+        "hand over",
+        "commit",
+        "commission"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An assignee.",
+            "vi": "Một người được chuyển nhượng."
+        },
+        {
+            "pos": "verb",
+            "en": "To ascribe; attribute.",
+            "vi": "Đăng ký; thuộc tính."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Fine. I'll assign him something to do,\" Damian said.",
+            "vi": "\"Được thôi. Tôi sẽ giao việc cho anh ấy làm,\" Damian nói."
+        },
+        {
+            "en": "We'll assign her a Guardian and bring her in.",
+            "vi": "Chúng tôi sẽ chỉ định cho cô ấy một Người giám hộ và đưa cô ấy vào."
+        }
+    ],
+    "words_form": [
+        "assigned",
+        "assigning",
+        "assigns"
+    ],
+    "meaning_vi": "chỉ định"
+}

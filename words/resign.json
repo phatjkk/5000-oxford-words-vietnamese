@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/rəˈzaɪn/"
+    ],
+    "synonyms": [
+        "surrender",
+        "give up",
+        "capitulate",
+        "stand-down",
+        "abdicate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To resign is to give up power, to voluntarily quit a job or come to terms with something as unavoidable.",
+            "vi": "Từ chức là từ bỏ quyền lực, tự nguyện bỏ việc hoặc chấp nhận một điều gì đó là không thể tránh khỏi."
+        },
+        {
+            "pos": "idiom",
+            "en": "resign oneself (to)  to submit or become reconciled (to); accept (something) passively",
+            "vi": "từ chức bản thân (để) phục tùng hoặc trở nên hòa giải (để); chấp nhận (cái gì đó) một cách thụ động"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Shall we forever resign the pleasure of construction to the carpenter?",
+            "vi": "Liệu chúng ta có thể từ bỏ niềm vui xây dựng cho người thợ mộc mãi mãi không?"
+        },
+        {
+            "en": "I am in no hurry to resign my office and be planted, you may be sure.",
+            "vi": "Tôi không vội từ chức văn phòng của tôi và được trồng, bạn có thể chắc chắn."
+        }
+    ],
+    "words_form": [
+        "resigned",
+        "resigns"
+    ],
+    "meaning_vi": "từ chức"
+}

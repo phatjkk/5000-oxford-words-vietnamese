@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈdɪf(ə)rəns/"
+    ],
+    "synonyms": [
+        "contrast",
+        "antithesis",
+        "deviation",
+        "discrepancy",
+        "dissimilarity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Difference is defined as the features that make one thing distinct from another or the condition of when a change is made.",
+            "vi": "Sự khác biệt được định nghĩa là các đặc điểm làm cho một thứ khác biệt với một thứ khác hoặc là điều kiện của thời điểm thay đổi được thực hiện."
+        },
+        {
+            "pos": "verb",
+            "en": "(rare) To distinguish as or make different.",
+            "vi": "(hiếm) Để phân biệt là hoặc tạo sự khác biệt."
+        },
+        {
+            "pos": "idiom",
+            "en": "(it's the) same difference  there is no difference",
+            "vi": "(nó giống nhau) sự khác biệt không có sự khác biệt"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was so tall there was a vast difference in their height.",
+            "vi": "Anh ấy cao đến nỗi có một sự khác biệt rất lớn về chiều cao của họ."
+        },
+        {
+            "en": "But imagine the difference if the world had ten billion healthy, well-educated people!",
+            "vi": "Nhưng hãy tưởng tượng sự khác biệt nếu thế giới có mười tỷ người khỏe mạnh, được giáo dục tốt!"
+        }
+    ],
+    "words_form": [
+        "differenced",
+        "differences",
+        "differencing"
+    ],
+    "meaning_vi": "sự khác biệt"
+}

@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ɡʊdˈbaɪ/"
+    ],
+    "synonyms": [
+        "farewell",
+        "bye-bye",
+        "godspeed",
+        "cheerio",
+        "arrivederci"
+    ],
+    "meaning": [
+        {
+            "pos": "interjection",
+            "en": "Goodbye is defined as a way to express that you are leaving.",
+            "vi": "Tạm biệt được định nghĩa là một cách để thể hiện rằng bạn sẽ rời đi."
+        },
+        {
+            "pos": "noun",
+            "en": "An utterance of goodbye, the wishing of farewell to someone.",
+            "vi": "Một lời chào tạm biệt, mong muốn chia tay một ai đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I will never say goodbye to her.",
+            "vi": "Tôi sẽ không bao giờ nói lời chia tay với cô ấy."
+        },
+        {
+            "en": "His father visited for a few more minutes before saying goodbye and leaving.",
+            "vi": "Cha anh đến thăm thêm vài phút trước khi từ biệt và rời đi."
+        }
+    ],
+    "words_form": [
+        "goodby",
+        "good-bye",
+        "goodbyes",
+        "good-byes",
+        "good-bys"
+    ],
+    "meaning_vi": "Tạm biệt"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈɛkˌspərt/"
+    ],
+    "synonyms": [
+        "skillful",
+        "inexpert",
+        "unskilled",
+        "master",
+        "crack"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person with a high degree of skill in or knowledge of a certain subject.",
+            "vi": "Một người có trình độ cao về kỹ năng hoặc kiến ​​thức về một chủ đề nhất định."
+        },
+        {
+            "pos": "adjective",
+            "en": "Characteristic of an expert.",
+            "vi": "Đặc điểm của một chuyên gia."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm going to be an expert if this keeps up.",
+            "vi": "Tôi sẽ trở thành một chuyên gia nếu cứ tiếp tục như vậy."
+        },
+        {
+            "en": "His father was no doubt an expert, while Dean's ability was somewhere in between.",
+            "vi": "Cha anh không nghi ngờ gì là một chuyên gia, trong khi khả năng của Dean nằm ở đâu đó."
+        }
+    ],
+    "words_form": [
+        "experts"
+    ],
+    "meaning_vi": "chuyên gia"
+}

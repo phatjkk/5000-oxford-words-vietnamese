@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈstɔrt/"
+    ],
+    "synonyms": [
+        "deform",
+        "disfigure",
+        "collapse",
+        "contort",
+        "twist"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To twist out of a proper or natural relation of parts; misshape.",
+            "vi": "Xoay khỏi mối quan hệ thích hợp hoặc tự nhiên của các bộ phận; hình dạng sai lệch."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Distorted; misshapen.",
+            "vi": "(lỗi thời) Bị bóp méo; hình dạng sai lệch."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The bard will exaggerate or distort his story.",
+            "vi": "Bard sẽ phóng đại hoặc bóp méo câu chuyện của mình."
+        },
+        {
+            "en": "He protests against its use for controversial pamphlets which distort the truth.",
+            "vi": "Ông phản đối việc sử dụng nó cho các cuốn sách nhỏ gây tranh cãi bóp méo sự thật."
+        }
+    ],
+    "words_form": [
+        "distorted",
+        "distorting",
+        "distorts"
+    ],
+    "meaning_vi": "xuyên tạc"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/pəˈtɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "request",
+        "law",
+        "prayer",
+        "appeal",
+        "ask"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A solemn, earnest supplication or request to a superior or deity or to a person or group in authority; prayer or entreaty.",
+            "vi": "Một lời khẩn cầu hoặc yêu cầu trang trọng, nghiêm túc đối với cấp trên hoặc thần linh hoặc đối với một người hoặc một nhóm người có thẩm quyền; lời cầu nguyện hoặc lời khẩn cầu."
+        },
+        {
+            "pos": "verb",
+            "en": "To make a petition.",
+            "vi": "Để thực hiện một kiến ​​nghị."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The plea was included in a petition to the first parliament of Charles II.",
+            "vi": "Lời cầu xin được đưa vào một bản kiến ​​nghị gửi đến quốc hội đầu tiên của Charles II."
+        },
+        {
+            "en": "This petition, of course, was rejected.",
+            "vi": "Đơn thỉnh cầu này, tất nhiên, đã bị từ chối."
+        }
+    ],
+    "words_form": [
+        "petitioned",
+        "petitioning",
+        "petitions"
+    ],
+    "meaning_vi": "kiến nghị"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/dʒæm/"
+    ],
+    "synonyms": [
+        "jelly",
+        "spread",
+        "sweet",
+        "difficulty",
+        "throng"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To cause (moving parts, for example) to lock into an unworkable position.",
+            "vi": "Để khiến (các bộ phận chuyển động chẳng hạn) bị khóa vào vị trí không thể thao tác được."
+        },
+        {
+            "pos": "noun",
+            "en": "Jam is defined as being in an intense or difficult situation, or is a preserve made from whole fruit and sugar.",
+            "vi": "Mứt được định nghĩa là đang ở trong tình trạng căng thẳng hoặc khó khăn, hoặc là một món bảo quản được làm từ toàn bộ trái cây và đường."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "(place) Jamaica.",
+            "vi": "(địa điểm) Jamaica."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(biblical) Abbreviation of James.",
+            "vi": "(Kinh thánh) Viết tắt của James."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He hesitated and spread some jam on his toast.",
+            "vi": "Anh do dự và phết một ít mứt lên bánh mì nướng."
+        },
+        {
+            "en": "In an effort to release the log jam, Dean gave his stepfather a hand with the moving.",
+            "vi": "Trong một nỗ lực để giải phóng khúc gỗ, Dean đã giúp cha dượng của mình một tay di chuyển."
+        }
+    ],
+    "words_form": [
+        "jammed",
+        "jamming",
+        "jams"
+    ],
+    "meaning_vi": "mứt"
+}

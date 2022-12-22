@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈfəŋ(k)ʃ(ə)n(ə)l/"
+    ],
+    "synonyms": [
+        "useful",
+        "working",
+        "useable",
+        "structural",
+        "utilitarian"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of functional is something that is useful for its intended purpose.",
+            "vi": "Định nghĩa của chức năng là một cái gì đó hữu ích cho mục đích dự định của nó."
+        },
+        {
+            "pos": "noun",
+            "en": "A linear function on vectors whose values are scalars.",
+            "vi": "Một hàm tuyến tính trên vectơ có giá trị là vô hướng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The first step consists in the functional treatment of equations.",
+            "vi": "Bước đầu tiên bao gồm xử lý hàm của các phương trình."
+        },
+        {
+            "en": "For me everything is functional, but you have style.",
+            "vi": "Đối với tôi mọi thứ đều có chức năng, nhưng bạn có phong cách."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chức năng"
+}

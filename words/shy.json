@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/ʃaɪ/"
+    ],
+    "synonyms": [
+        "bashful",
+        "timid",
+        "humble",
+        "timorous",
+        "diffident"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Not at ease with other people; extremely self-conscious; bashful.",
+            "vi": "Không thoải mái với người khác; vô cùng tự giác; bồng bột."
+        },
+        {
+            "pos": "verb",
+            "en": "Shy is defined as refraining from doing something, often out of fear or nervousness.",
+            "vi": "Nhút nhát được định nghĩa là không kiềm chế làm điều gì đó, thường vì sợ hãi hoặc lo lắng."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) An attempt; a try.",
+            "vi": "(không chính thức) Một nỗ lực; một sự cố gắng."
+        },
+        {
+            "pos": "idiom",
+            "en": "fight shy of  to keep from; avoid; evade",
+            "vi": "chống lại sự nhút nhát để tránh xa; tránh xa; trốn tránh"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You weren't so shy the other night.",
+            "vi": "Bạn đã không nhút nhát như vậy vào đêm hôm trước."
+        },
+        {
+            "en": "She asked with a shy smile.",
+            "vi": "Cô hỏi với một nụ cười ngượng ngùng."
+        }
+    ],
+    "words_form": [
+        "shied",
+        "shier",
+        "shies",
+        "shiest",
+        "shyer",
+        "shyest",
+        "shying"
+    ],
+    "meaning_vi": "mắc cỡ, nhút nhát, rụt rè"
+}

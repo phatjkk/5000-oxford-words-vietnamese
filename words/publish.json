@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈpəblɪʃ/"
+    ],
+    "synonyms": [
+        "get off",
+        "reissue",
+        "knowledge",
+        "words",
+        "distribute"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To bring to the public attention; announce.",
+            "vi": "Để thu hút sự chú ý của công chúng; thông báo."
+        },
+        {
+            "pos": "noun",
+            "en": "To make generally known to the public; to make known to people who might or would have not known without the person’s having so acted.",
+            "vi": "Để công chúng biết đến; để làm cho những người có thể biết hoặc sẽ không biết nếu người đó không có hành động như vậy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He wondered what she would think if she knew he had never tried to publish a single piece of music.",
+            "vi": "Anh tự hỏi cô sẽ nghĩ gì nếu biết anh chưa bao giờ cố gắng xuất bản một bản nhạc nào."
+        },
+        {
+            "en": "Then that person might choose to publish those results and others could verify them.",
+            "vi": "Sau đó, người đó có thể chọn xuất bản những kết quả đó và những người khác có thể xác minh chúng."
+        }
+    ],
+    "words_form": [
+        "published",
+        "publishes"
+    ],
+    "meaning_vi": "công bố"
+}

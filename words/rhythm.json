@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈrɪðəm/"
+    ],
+    "synonyms": [
+        "accent",
+        "swing",
+        "melody",
+        "flow",
+        "cadence"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Rhythm is a recurring movement of sound or speech.",
+            "vi": "Nhịp điệu là một chuyển động lặp đi lặp lại của âm thanh hoặc lời nói."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He said little else, and her breathing soon fell into rhythm with his.",
+            "vi": "Anh nói một chút nữa, và hơi thở của cô nhanh chóng hòa nhịp với anh."
+        },
+        {
+            "en": "Without a word, she slipped into his arms and fell into the rhythm of his step.",
+            "vi": "Không nói một lời, cô ngã vào vòng tay anh và hòa vào nhịp bước của anh."
+        }
+    ],
+    "words_form": [
+        "rhythms"
+    ],
+    "meaning_vi": "nhịp"
+}

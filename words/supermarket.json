@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈsupərˌmɑrkət/"
+    ],
+    "synonyms": [
+        "fast-food",
+        "hypermarket",
+        "convenience-store",
+        "grocery",
+        "superstore"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A large self-service retail market that sells food and household goods.",
+            "vi": "Một chợ bán lẻ tự phục vụ lớn bán thực phẩm và đồ gia dụng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You went to a supermarket to buy a toothbrush.",
+            "vi": "Bạn đã đến siêu thị để mua bàn chải đánh răng."
+        },
+        {
+            "en": "I found them in a cardboard box in a supermarket car park.",
+            "vi": "Tôi tìm thấy chúng trong một hộp các tông ở bãi đậu xe siêu thị."
+        }
+    ],
+    "words_form": [
+        "supermarkets"
+    ],
+    "meaning_vi": "siêu thị"
+}

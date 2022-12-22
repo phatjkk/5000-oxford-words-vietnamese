@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈbriðɪŋ/"
+    ],
+    "synonyms": [
+        "respiring",
+        "inspiring",
+        "inhaling",
+        "living",
+        "alive"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "That breathes; living; alive.",
+            "vi": "Đó thở; cuộc sống; còn sống."
+        },
+        {
+            "pos": "noun",
+            "en": "A pause for rest.",
+            "vi": "Tạm dừng để nghỉ ngơi."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of breathe.",
+            "vi": "Hiện tại phân từ của thở."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was breathing hard.",
+            "vi": "Anh đang thở dốc."
+        },
+        {
+            "en": "Their breathing synced, and she stilled.",
+            "vi": "Hơi thở của họ đồng bộ, và cô ấy vẫn nằm im."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thở"
+}

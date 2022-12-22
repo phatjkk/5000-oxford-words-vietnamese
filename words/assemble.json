@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈsɛmbəl/"
+    ],
+    "synonyms": [
+        "gather",
+        "assemblage",
+        "separate",
+        "convene",
+        "disperse"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To assemble is defined as to put something together.",
+            "vi": "Để lắp ráp được định nghĩa là để đặt một cái gì đó lại với nhau."
+        },
+        {
+            "pos": "noun",
+            "en": "A jump in ballet in which the feet meet together in midair and then land together on the floor.",
+            "vi": "Một động tác nhảy ba lê trong đó hai bàn chân gặp nhau trong không trung và sau đó cùng đáp xuống sàn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The building block set took over four hours to assemble.",
+            "vi": "Khối xây dựng mất hơn bốn giờ để lắp ráp."
+        },
+        {
+            "en": "The club decided to assemble a plan for meeting during the school year.",
+            "vi": "Câu lạc bộ quyết định tập hợp kế hoạch họp mặt trong năm học."
+        }
+    ],
+    "words_form": [
+        "assembled",
+        "assembles",
+        "assembling"
+    ],
+    "meaning_vi": "tập hợp"
+}

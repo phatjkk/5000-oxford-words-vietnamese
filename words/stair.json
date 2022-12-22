@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/stɛr/"
+    ],
+    "synonyms": [
+        "step",
+        "staircase",
+        "stairway",
+        "stairs",
+        "stairwell"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A series or flight of steps; a staircase.",
+            "vi": "Một loạt hoặc các bước; một cầu thang."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She tripped over a stair and landed hard.",
+            "vi": "Cô ấy vấp phải cầu thang và tiếp đất khó khăn."
+        },
+        {
+            "en": "She bent and wiped it on the cement stair, not at all certain it was enough to tip him off.",
+            "vi": "Cô cúi xuống và lau nó trên cầu thang xi măng, không hề chắc chắn rằng nó đã đủ để làm anh ta chùn bước."
+        }
+    ],
+    "words_form": [
+        "stairs"
+    ],
+    "meaning_vi": "cầu thang"
+}

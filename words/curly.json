@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈkərli/"
+    ],
+    "synonyms": [
+        "curled",
+        "crisp",
+        "frizzy",
+        "spiraling",
+        "wavy"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having curls.",
+            "vi": "Có lọn tóc."
+        },
+        {
+            "pos": "noun",
+            "en": "A person or animal with curly hair.",
+            "vi": "Một người hoặc động vật có mái tóc xoăn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Curly pine is fairly abundant.",
+            "vi": "Thông xoăn khá nhiều."
+        },
+        {
+            "en": "Her dark, curly hair was matted with blood, her features pale.",
+            "vi": "Mái tóc xoăn sẫm màu của cô ấy nhuốm đầy máu, nét mặt nhợt nhạt."
+        }
+    ],
+    "words_form": [
+        "curlier",
+        "curliest"
+    ],
+    "meaning_vi": "xoăn"
+}

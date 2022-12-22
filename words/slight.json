@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/slaɪt/"
+    ],
+    "synonyms": [
+        "slender",
+        "insignificant",
+        "dainty",
+        "trivia",
+        "minor"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Small in size, degree, or amount.",
+            "vi": "Kích thước, mức độ hoặc số lượng nhỏ."
+        },
+        {
+            "pos": "noun",
+            "en": "A deliberate discourtesy; a snub.",
+            "vi": "Một sự lãng mạn có chủ ý; một nụ cười."
+        },
+        {
+            "pos": "verb",
+            "en": "To treat (someone) with discourteous reserve or inattention.",
+            "vi": "Đối xử với (ai đó) bằng sự dè dặt hoặc thiếu chú ý."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "After a slight hesitation the door burst open with a cracking blow.",
+            "vi": "Sau một chút do dự, cánh cửa bật mở với một tiếng rắc rắc."
+        },
+        {
+            "en": "\"Hi,\" she said with a slight smile.",
+            "vi": "“Xin chào,” cô ấy nói với một nụ cười nhẹ."
+        }
+    ],
+    "words_form": [
+        "slighted",
+        "slightest",
+        "slighting",
+        "slights"
+    ],
+    "meaning_vi": "nhẹ"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/tæɡ/"
+    ],
+    "synonyms": [
+        "mark",
+        "ticket",
+        "remains",
+        "leavings",
+        "refuse"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To tag is to attach someone’s name to a photograph on the social networking site, Facebook.",
+            "vi": "Gắn thẻ là gắn tên của ai đó vào một bức ảnh trên trang mạng xã hội Facebook."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a tag is a small piece of fabric, paper or other material to give information about something.",
+            "vi": "Định nghĩa của thẻ là một mảnh vải nhỏ, giấy hoặc vật liệu khác để cung cấp thông tin về một cái gì đó."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "The Adjutant General.",
+            "vi": "Vị tướng phụ tá."
+        },
+        {
+            "pos": "idiom",
+            "en": "tag up  to return to the base and touch it before taking another lead or running",
+            "vi": "gắn thẻ để quay lại cơ sở và chạm vào nó trước khi dẫn đầu hoặc chạy"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm gonna put a tag in it.",
+            "vi": "Tôi sẽ gắn một thẻ vào đó."
+        },
+        {
+            "en": "They were home but still playing love tag at night.",
+            "vi": "Họ đã về nhà nhưng vẫn chơi trò đánh dấu tình yêu vào ban đêm."
+        }
+    ],
+    "words_form": [
+        "tagged",
+        "tagging",
+        "tags"
+    ],
+    "meaning_vi": "nhãn"
+}

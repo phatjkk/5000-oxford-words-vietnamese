@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/ˈɛkstrə/"
+    ],
+    "synonyms": [
+        "additional",
+        "increased",
+        "another",
+        "fresh",
+        "reserve"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A performer hired to play a minor part, as in a crowd scene in a film.",
+            "vi": "Một người biểu diễn được thuê để đóng một vai nhỏ, như trong một cảnh đám đông trong phim."
+        },
+        {
+            "pos": "adverb",
+            "en": "To an exceptional extent or degree; unusually.",
+            "vi": "Ở một mức độ hoặc mức độ đặc biệt; bất thường."
+        },
+        {
+            "pos": "adjective",
+            "en": "Beyond what is due, usual, expected, or necessary; extraneous; additional; supernumerary.",
+            "vi": "Vượt quá những gì đến hạn, thông thường, dự kiến ​​hoặc cần thiết; không liên quan; thêm vào; dư."
+        },
+        {
+            "pos": "prefix",
+            "en": "Outside; beyond.",
+            "vi": "Ngoài; vượt ra ngoài."
+        },
+        {
+            "pos": "affix",
+            "en": "Outside, outside the scope or region of, beyond, besides.",
+            "vi": "Bên ngoài, bên ngoài phạm vi hoặc khu vực của, xa hơn, bên cạnh đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We have an extra room.",
+            "vi": "Chúng tôi có thêm một phòng."
+        },
+        {
+            "en": "I didn't have enough time to plan for the extra we need.",
+            "vi": "Tôi không có đủ thời gian để lập kế hoạch cho những thứ chúng tôi cần."
+        }
+    ],
+    "words_form": [
+        "extras"
+    ],
+    "meaning_vi": "phụ"
+}

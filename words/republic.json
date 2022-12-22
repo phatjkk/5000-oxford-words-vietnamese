@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/rəˈpəblɪk/"
+    ],
+    "synonyms": [
+        "democracy",
+        "nation",
+        "government",
+        "state",
+        "self-government"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a republic is a form of government where citizens have the power and choose representatives to represent them.",
+            "vi": "Định nghĩa về một nền cộng hòa là một hình thức chính phủ mà công dân có quyền lực và lựa chọn những người đại diện để đại diện cho họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The United States is a republic, as even the Pledge of Allegiance says.",
+            "vi": "Hoa Kỳ là một nước cộng hòa, như Tuyên ngôn Trung thành đã nói."
+        },
+        {
+            "en": "Our republic has prospered because it fiercely protected life, liberty, and property, and must continue to do so.",
+            "vi": "Nước cộng hòa của chúng ta đã thịnh vượng vì nó bảo vệ cuộc sống, quyền tự do và tài sản một cách quyết liệt, và phải tiếp tục làm như vậy."
+        }
+    ],
+    "words_form": [
+        "republics"
+    ],
+    "meaning_vi": "cộng hòa"
+}

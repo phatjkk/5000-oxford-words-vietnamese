@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˌəpˈstɛrz/"
+    ],
+    "synonyms": [
+        "upper",
+        "attic",
+        "floor",
+        "on a higher floor",
+        "downstairs"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Up the stairs.",
+            "vi": "Lên cầu thang."
+        },
+        {
+            "pos": "adjective",
+            "en": "Situated on an upper floor.",
+            "vi": "Nằm ở tầng trên."
+        },
+        {
+            "pos": "noun",
+            "en": "An upper floor or floors.",
+            "vi": "Một tầng trên hoặc các tầng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The upstairs bedroom would become an office.",
+            "vi": "Phòng ngủ trên lầu sẽ trở thành một văn phòng."
+        },
+        {
+            "en": "They walked upstairs hand in hand.",
+            "vi": "Họ tay trong tay bước lên lầu."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tầng trên"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈdɛri/"
+    ],
+    "synonyms": [
+        "milk",
+        "cow barn",
+        "farm",
+        "cooperative",
+        "creamery"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A place where milk and cream are stored and processed.",
+            "vi": "Nơi lưu trữ và chế biến sữa và kem."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of dairy is something referring to milk, cream, butter or cheese.",
+            "vi": "Định nghĩa của từ sữa là một cái gì đó đề cập đến sữa, kem, bơ hoặc pho mát."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The dairy gave her purpose... hope.",
+            "vi": "Sữa đã mang lại cho cô ấy mục đích ... hy vọng."
+        },
+        {
+            "en": "If the dairy didn't prove profitable, she would have to go back to Wal-Mart.",
+            "vi": "Nếu hãng sữa không có lãi, cô ấy sẽ phải quay lại Wal-Mart."
+        }
+    ],
+    "words_form": [
+        "dairies"
+    ],
+    "meaning_vi": "sữa"
+}

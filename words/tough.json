@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/təf/"
+    ],
+    "synonyms": [
+        "difficult",
+        "hard",
+        "sturdy",
+        "wiry",
+        "inedible"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Able to withstand great strain without tearing or breaking; strong and resilient.",
+            "vi": "Có khả năng chịu lực căng lớn mà không bị rách hoặc vỡ; mạnh mẽ và kiên cường."
+        },
+        {
+            "pos": "noun",
+            "en": "A violent or rowdy person; a hoodlum or thug.",
+            "vi": "Một người bạo lực hoặc ồn ào; một kẻ lưu manh hoặc côn đồ."
+        },
+        {
+            "pos": "interjection",
+            "en": "(slang) Used to indicate lack of sympathy.",
+            "vi": "(tiếng lóng) Dùng để chỉ sự thiếu thiện cảm."
+        },
+        {
+            "pos": "verb",
+            "en": "To endure.",
+            "vi": "Để tăng sức chịu đựng."
+        },
+        {
+            "pos": "idiom",
+            "en": "that's tough  Used to indicate recalcitrance or noncompliance with a complaint or demand.",
+            "vi": "đó là khó khăn Được sử dụng để biểu thị sự không khoan dung hoặc không tuân thủ một lời phàn nàn hoặc yêu cầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This was a tough day.",
+            "vi": "Đây là một ngày khó khăn."
+        },
+        {
+            "en": "It'll make things tough, but it's only a few months.",
+            "vi": "Nó sẽ khiến mọi thứ trở nên khó khăn, nhưng chỉ trong vài tháng."
+        }
+    ],
+    "words_form": [
+        "toughed",
+        "tougher",
+        "toughest",
+        "toughs"
+    ],
+    "meaning_vi": "khó khăn"
+}

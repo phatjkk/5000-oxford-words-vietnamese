@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ki/"
+    ],
+    "synonyms": [
+        "important",
+        "pivotal",
+        "fulcrum",
+        "solution",
+        "passkey"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A low offshore island or reef, especially in the Gulf of Mexico; a cay.",
+            "vi": "Một hòn đảo hoặc rạn san hô thấp ngoài khơi, đặc biệt là ở Vịnh Mexico; một cây cay."
+        },
+        {
+            "pos": "verb",
+            "en": "(architecture) To furnish (an arch) with a keystone.",
+            "vi": "(kiến trúc) Để cung cấp (một vòm) với một tấm đá chìa khóa."
+        },
+        {
+            "pos": "adjective",
+            "en": "Controlling; essential; important.",
+            "vi": "Kiểm soát; thiết yếu; quan trọng."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1779-1843; U.S. lawyer: wrote “The Star-Spangled Banner”",
+            "vi": "(người) 1779-1843; Luật sư Hoa Kỳ: đã viết “The Star-Spangled Banner”"
+        },
+        {
+            "pos": "idiom",
+            "en": "in key  In consonance with other factors.",
+            "vi": "trong chính Sự phối hợp với các yếu tố khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He has a key to the mine gate.",
+            "vi": "Anh ta có chìa khóa vào cổng mỏ."
+        },
+        {
+            "en": "I took the key from the office and made a copy.",
+            "vi": "Tôi lấy chìa khóa từ văn phòng và sao lại."
+        }
+    ],
+    "words_form": [
+        "keyed",
+        "keying",
+        "keys"
+    ],
+    "meaning_vi": "Key"
+}

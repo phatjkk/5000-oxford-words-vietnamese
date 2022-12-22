@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/wik/"
+    ],
+    "synonyms": [
+        "delicate",
+        "strong",
+        "feeble",
+        "palsied",
+        "caitiff"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of weak is lacking in strength.",
+            "vi": "Định nghĩa của yếu là thiếu sức mạnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She was too weak to move.",
+            "vi": "Cô ấy quá yếu để di chuyển."
+        },
+        {
+            "en": "It was all she could do to remain upright on tingling weak legs.",
+            "vi": "Đó là tất cả những gì cô có thể làm để đứng thẳng trên đôi chân yếu ớt."
+        }
+    ],
+    "words_form": [
+        "weaker",
+        "weakest"
+    ],
+    "meaning_vi": "yếu"
+}

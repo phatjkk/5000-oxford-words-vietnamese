@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/wi/"
+    ],
+    "synonyms": [
+        "everybody",
+        "us",
+        "everyone",
+        "they",
+        "nobody"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Used to refer to people in general, including the speaker or writer.",
+            "vi": "Được sử dụng để chỉ những người nói chung, bao gồm cả người nói hoặc người viết."
+        },
+        {
+            "pos": "determiner",
+            "en": "The speakers/writers, or the speaker/writer and at least one other person.",
+            "vi": "Người nói / người viết, hoặc người nói / người viết và ít nhất một người khác."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Wednesday.",
+            "vi": "Thứ Tư."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What time are we going to leave tomorrow?",
+            "vi": "Mấy giờ chúng ta đi ngày mai?"
+        },
+        {
+            "en": "We have some cold days, but mostly it is warm.",
+            "vi": "Chúng tôi có một số ngày lạnh, nhưng chủ yếu là trời ấm."
+        }
+    ],
+    "words_form": [
+        "i"
+    ],
+    "meaning_vi": "chúng tôi"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/(t)suˈnɑmi/"
+    ],
+    "synonyms": [
+        "tidal-wave",
+        "earthquake",
+        "hurricane",
+        "disaster",
+        "floods"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a tsunami is a large sea wave caused by an earthquake, landslide or other disturbance under the ocean.",
+            "vi": "Định nghĩa sóng thần là một đợt sóng biển lớn do động đất, lở đất hoặc các xáo trộn khác dưới đại dương gây ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We moved to adjacent land with a higher elevation in case there was a tsunami after the earthquake.",
+            "vi": "Chúng tôi chuyển đến vùng đất liền kề có độ cao cao hơn để đề phòng có sóng thần sau trận động đất."
+        },
+        {
+            "en": "The humanitarian crisis of the tsunami is not yet over.",
+            "vi": "Cuộc khủng hoảng nhân đạo về sóng thần vẫn chưa kết thúc."
+        }
+    ],
+    "words_form": [
+        "tsunamis"
+    ],
+    "meaning_vi": "sóng thần"
+}

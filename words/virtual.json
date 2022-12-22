@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈvərtʃ(u)əl/"
+    ],
+    "synonyms": [
+        "real",
+        "in-effect",
+        "show",
+        "implicit",
+        "practical"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Being such practically or in effect, although not in actual fact or name.",
+            "vi": "Thực tế hoặc có hiệu lực như vậy, mặc dù không phải trên thực tế hoặc tên gọi."
+        },
+        {
+            "pos": "noun",
+            "en": "(computing) In C++, a virtual member function of a class.",
+            "vi": "(điện toán) Trong C ++, một hàm thành viên ảo của một lớp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In fact, it was a virtual revelation.",
+            "vi": "Trên thực tế, đó là một tiết lộ ảo."
+        },
+        {
+            "en": "She had been a virtual prisoner in the cabin since she had seen the snake on the porch.",
+            "vi": "Cô đã là một tù nhân ảo trong căn nhà gỗ kể từ khi cô nhìn thấy con rắn ở hiên nhà."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ảo"
+}

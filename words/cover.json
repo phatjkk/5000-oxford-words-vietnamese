@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈkəvər/"
+    ],
+    "synonyms": [
+        "covering",
+        "cap",
+        "veil",
+        "overspread",
+        "side"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One who substitutes for another.",
+            "vi": "Người thay thế cho người khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To keep from harm or injury by shielding; protect by screening.",
+            "vi": "Để tránh bị tổn thương hoặc bị thương bằng cách che chắn; bảo vệ bằng cách sàng lọc."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or pertaining to the front cover of a book or magazine.",
+            "vi": "Liên quan đến hoặc liên quan đến trang bìa trước của một cuốn sách hoặc tạp chí."
+        },
+        {
+            "pos": "idiom",
+            "en": "cover (one's) ass  To take measures to avoid being held responsible if something goes wrong.",
+            "vi": "che đậy (một người) ass Để thực hiện các biện pháp để tránh phải chịu trách nhiệm nếu xảy ra sự cố."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She crossed her arms, forcing herself not to cover her neck as four sets of eyes landed there.",
+            "vi": "Cô khoanh tay, cố gắng không che cổ khi bốn cặp mắt đổ bộ vào đó."
+        },
+        {
+            "en": "Cora coughed to cover up her laugh.",
+            "vi": "Cora ho để che đi tiếng cười của mình."
+        }
+    ],
+    "words_form": [
+        "covered",
+        "covering",
+        "covers"
+    ],
+    "meaning_vi": "bìa"
+}

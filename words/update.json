@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˌəpˈdeɪt/",
+        "/ˈəpˌdeɪt/"
+    ],
+    "synonyms": [
+        "renew",
+        "new",
+        "refresh",
+        "revise",
+        "antique"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To inform (someone) with the latest information.",
+            "vi": "Để thông báo cho (ai đó) những thông tin mới nhất."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of an update is a report with new information, or a new statement or status on a social networking site.",
+            "vi": "Định nghĩa của cập nhật là một báo cáo với thông tin mới, hoặc một tuyên bố hoặc trạng thái mới trên một trang mạng xã hội."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll update your address list virtually over the next few years.",
+            "vi": "Tôi sẽ cập nhật danh sách địa chỉ của bạn hầu như trong vài năm tới."
+        },
+        {
+            "en": "\"Update on the tears,\" he directed.",
+            "vi": "\"Cập nhật những giọt nước mắt,\" anh chỉ đạo."
+        }
+    ],
+    "words_form": [
+        "updated",
+        "updates",
+        "updating"
+    ],
+    "meaning_vi": "cập nhật"
+}

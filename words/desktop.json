@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ˈdɛsktɒp/"
+    ],
+    "synonyms": [
+        "PC",
+        "home computer",
+        "work station"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(computers) The area of a display screen where images, windows, icons and other graphical items appear.",
+            "vi": "Cài đặt, thiết lập, thử nghiệm và chạy. Thuật ngữ quân sự này, có nghĩa là bố trí quân đội và thiết bị trên thực địa, được sử dụng rộng rãi với máy tính thay thế cho từ \"thực hiện\". Ví dụ: \"Triển khai phần mềm XYZ\" giống như nói \"Triển khai phần mềm XYZ\". Để \"triển khai\" một cái gì đó là \"cài đặt và chạy.\""
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a piece of equipment, as a microcomputer, designed to be used on a desk or table.",
+            "vi": "Một sự sắp xếp hoặc phân loại mọi thứ."
+        },
+        {
+            "pos": "",
+            "en": "(1) Synonymous with desktop computer. For example, the phrase \"the IT department supports 150 desktops\" means it is responsible for maintaining 150 user computers. In such cases, laptop computers may be counted as desktop computers.",
+            "vi": "Một người hoặc một điều đáng mơ ước."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You can share your desktop and have whiteboard sessions on your computer.",
+            "vi": "Bạn có thể chia sẻ máy tính để bàn và có các phiên bảng trắng trên máy tính của mình."
+        },
+        {
+            "en": "You can get trusted, practical advice on your desktop.",
+            "vi": "Bạn có thể nhận được lời khuyên thiết thực, đáng tin cậy trên máy tính để bàn của mình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "(computers) The area of a display screen where images, windows, icons and other graphical items appear.",
+            "vi": "Cài đặt, thiết lập, thử nghiệm và chạy. Thuật ngữ quân sự này, có nghĩa là bố trí quân đội và thiết bị trên thực địa, được sử dụng rộng rãi với máy tính thay thế cho từ \"thực hiện\". Ví dụ: \"Triển khai phần mềm XYZ\" giống như nói \"Triển khai phần mềm XYZ\". Để \"triển khai\" một cái gì đó là \"cài đặt và chạy.\""
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a piece of equipment, as a microcomputer, designed to be used on a desk or table.",
+            "vi": "Một sự sắp xếp hoặc phân loại mọi thứ."
+        },
+        {
+            "pos": "",
+            "en": "(1) Synonymous with desktop computer. For example, the phrase \"the IT department supports 150 desktops\" means it is responsible for maintaining 150 user computers. In such cases, laptop computers may be counted as desktop computers.",
+            "vi": "Một người hoặc một điều đáng mơ ước."
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈklaɪənt/"
+    ],
+    "synonyms": [
+        "customer",
+        "patient",
+        "patron",
+        "client state",
+        "purchaser"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a client means a customer or a person who uses services.",
+            "vi": "Định nghĩa về khách hàng có nghĩa là khách hàng hoặc một người sử dụng dịch vụ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I've been looking at his client files and calling some of them.",
+            "vi": "Tôi đã xem xét hồ sơ khách hàng của anh ấy và gọi cho một số người trong số họ."
+        },
+        {
+            "en": "Meeting with a client, he'll be back soon.",
+            "vi": "Gặp khách hàng, anh ấy sẽ quay lại sớm."
+        }
+    ],
+    "words_form": [
+        "clients"
+    ],
+    "meaning_vi": "khách hàng"
+}

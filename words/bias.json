@@ -1,0 +1,63 @@
+{
+    "spelling": [
+        "/ˈbaɪəs/"
+    ],
+    "synonyms": [
+        "influence",
+        "proneness",
+        "one-sided",
+        "prejudice",
+        "biased"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Bias is a tendency to mentally lean in a certain direction.",
+            "vi": "Thiên vị là xu hướng tinh thần nghiêng về một hướng nhất định."
+        },
+        {
+            "pos": "verb",
+            "en": "To apply a small voltage to (a grid).",
+            "vi": "Để áp dụng một điện áp nhỏ cho (lưới điện)."
+        },
+        {
+            "pos": "adjective",
+            "en": "Inclined to one side; swelled on one side.",
+            "vi": "Nghiêng về một bên; sưng ở một bên."
+        },
+        {
+            "pos": "pronoun",
+            "en": "One of the Seven Sages of Greece from Priene living in the 6th century BC.",
+            "vi": "Một trong bảy nhà hiền triết của Hy Lạp từ Priene sống vào thế kỷ thứ 6 trước Công nguyên."
+        },
+        {
+            "pos": "adverb",
+            "en": "(obs.) Awry.",
+            "vi": "(tối thiểu.) Ồ."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the bias  diagonally; obliquely; specif., cut or sewn diagonally across the weave",
+            "vi": "theo đường chéo; gián tiếp; specif., cắt hoặc may theo đường chéo trên vải dệt"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His natural bias was to respect things as they were.",
+            "vi": "Thành kiến ​​tự nhiên của anh ấy là tôn trọng mọi thứ như chúng vốn có."
+        },
+        {
+            "en": "The townspeople show a bias in favour of French habits and fashions.",
+            "vi": "Người dân thị trấn tỏ ra thiên vị về thói quen và thời trang của người Pháp."
+        }
+    ],
+    "words_form": [
+        "biased",
+        "biases",
+        "biasing",
+        "biassed",
+        "biasses",
+        "biassing"
+    ],
+    "meaning_vi": "thiên vị"
+}

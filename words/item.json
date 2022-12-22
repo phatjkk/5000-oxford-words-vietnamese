@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈaɪdəm/"
+    ],
+    "synonyms": [
+        "piece",
+        "part",
+        "detail",
+        "technicality",
+        "aspect"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an item is an article, unit, a bit of news, or is slang for a piece of gossip.",
+            "vi": "Định nghĩa của một mục là một bài báo, đơn vị, một chút tin tức, hoặc là tiếng lóng để chỉ một mẩu chuyện phiếm."
+        },
+        {
+            "pos": "adverb",
+            "en": "Also; likewise. Used to introduce each article in an enumeration or list.",
+            "vi": "Cũng; tương tự như vậy. Được sử dụng để giới thiệu từng bài báo trong một bảng liệt kê hoặc danh sách."
+        },
+        {
+            "pos": "verb",
+            "en": "Itemize.",
+            "vi": "Lặp lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If prices for an item fall, this is a net good.",
+            "vi": "Nếu giá của một mặt hàng giảm, đây là một lợi nhuận ròng."
+        },
+        {
+            "en": "The most important item remains the contents.",
+            "vi": "Mục quan trọng nhất vẫn là nội dung."
+        }
+    ],
+    "words_form": [
+        "items"
+    ],
+    "meaning_vi": "mục"
+}

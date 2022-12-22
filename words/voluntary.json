@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈvɑlənˌtɛri/"
+    ],
+    "synonyms": [
+        "spontaneous",
+        "intentional",
+        "elected",
+        "wished",
+        "freely"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of voluntary is done by free choice.",
+            "vi": "Định nghĩa về sự tự nguyện được thực hiện bởi sự lựa chọn tự do."
+        },
+        {
+            "pos": "noun",
+            "en": "A volunteer.",
+            "vi": "Một tình nguyện viên."
+        },
+        {
+            "pos": "adverb",
+            "en": "(obsolete) Voluntarily.",
+            "vi": "(lỗi thời) Một cách tự nguyện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She'd been trying for years to have his voluntary service revoked.",
+            "vi": "Cô đã cố gắng trong nhiều năm để anh ta bị thu hồi dịch vụ tự nguyện."
+        },
+        {
+            "en": "The cult was supported mainly by voluntary contribution.",
+            "vi": "Giáo phái này được hỗ trợ chủ yếu bởi sự đóng góp tự nguyện."
+        }
+    ],
+    "words_form": [
+        "voluntaries"
+    ],
+    "meaning_vi": "tự nguyện"
+}

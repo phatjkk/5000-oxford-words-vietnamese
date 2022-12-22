@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/əˈbɪlədi/"
+    ],
+    "synonyms": [
+        "talent",
+        "intelligence",
+        "aptitude",
+        "capacity",
+        "ingenuity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Ability means a special talent or skill.",
+            "vi": "Khả năng có nghĩa là một tài năng hoặc kỹ năng đặc biệt."
+        },
+        {
+            "pos": "suffix",
+            "en": "Forms a noun from a verb; ability, inclination or suitability for a specified function or condition.",
+            "vi": "Tạo thành một danh từ động từ; khả năng, độ nghiêng hoặc sự phù hợp đối với một chức năng hoặc điều kiện cụ thể."
+        },
+        {
+            "pos": "affix",
+            "en": "A (specified) ability, capacity, or tendency.",
+            "vi": "Khả năng, năng lực hoặc khuynh hướng (được chỉ định)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Freedom from that ugly feeling gave her the ability to speak of it lightly for the first time.",
+            "vi": "Sự tự do khỏi cảm giác xấu xí đó cho cô khả năng lần đầu tiên nói về nó một cách nhẹ nhàng."
+        },
+        {
+            "en": "I can only applaud this man's ability to deduce.",
+            "vi": "Tôi chỉ có thể tán thưởng khả năng suy luận của người đàn ông này."
+        }
+    ],
+    "words_form": [
+        "abilities"
+    ],
+    "meaning_vi": "khả năng, năng lực"
+}

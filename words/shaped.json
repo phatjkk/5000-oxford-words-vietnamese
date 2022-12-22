@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ʃeɪpt/"
+    ],
+    "synonyms": [
+        "formed",
+        "determined",
+        "outlined",
+        "made",
+        "fashioned"
+    ],
+    "meaning": [
+        {
+            "pos": "suffix",
+            "en": "Having a shape similar to what is denoted by the word to which this combining form is attached.",
+            "vi": "Có hình dạng tương tự như những gì được biểu thị bằng từ mà biểu mẫu kết hợp này được gắn vào."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of shape.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ có hình dạng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Having been given a shape, especially a curved shape.",
+            "vi": "Đã được tạo hình, đặc biệt là hình cong."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her eyes were almond shaped and clear amber.",
+            "vi": "Đôi mắt của cô ấy có hình quả hạnh và màu hổ phách trong suốt."
+        },
+        {
+            "en": "Then the beautiful woman, with soft almond shaped eyes waved her hand at the box.",
+            "vi": "Sau đó, người phụ nữ xinh đẹp với đôi mắt hình quả hạnh mềm mại vẫy tay với chiếc hộp."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hình"
+}

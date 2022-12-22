@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈsəmˌtaɪmz/"
+    ],
+    "synonyms": [
+        "occasionally",
+        "at-times",
+        "seldom",
+        "betimes",
+        "intermittently"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "(obsolete) At some previous time; formerly.",
+            "vi": "(lỗi thời) Tại một số thời điểm trước đó; trước kia."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of sometimes is something that occurs once in a while.",
+            "vi": "Định nghĩa của đôi khi là một cái gì đó xuất hiện một lần trong một thời gian."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Sometimes we go out to eat.",
+            "vi": "Thỉnh thoảng chúng tôi đi ăn."
+        },
+        {
+            "en": "Sometimes we have to accept change, if we want to move forward.",
+            "vi": "Đôi khi chúng ta phải chấp nhận sự thay đổi, nếu chúng ta muốn tiến về phía trước."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thỉnh thoảng"
+}

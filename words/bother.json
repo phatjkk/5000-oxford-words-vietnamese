@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈbɑðər/"
+    ],
+    "synonyms": [
+        "molest",
+        "fuss",
+        "hinder",
+        "nuisance",
+        "vexation"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To give discomfort or pain to.",
+            "vi": "Để gây khó chịu hoặc đau đớn cho."
+        },
+        {
+            "pos": "noun",
+            "en": "A cause or state of disturbance.",
+            "vi": "Một nguyên nhân hoặc trạng thái xáo trộn."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express annoyance or mild irritation.",
+            "vi": "Được sử dụng để thể hiện sự khó chịu hoặc kích ứng nhẹ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't even bother to ask.",
+            "vi": "Tôi thậm chí không thèm hỏi."
+        },
+        {
+            "en": "Look, I'm sorry to bother you with my troubles.",
+            "vi": "Nghe này, tôi xin lỗi vì đã làm phiền bạn với những rắc rối của tôi."
+        }
+    ],
+    "words_form": [
+        "bothered",
+        "bothering",
+        "bothers"
+    ],
+    "meaning_vi": "làm phiền"
+}

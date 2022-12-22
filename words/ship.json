@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ʃɪp/"
+    ],
+    "synonyms": [
+        "vessel",
+        "dispatch",
+        "steerage",
+        "transport",
+        "embark"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To ship is defined as to transport or send something.",
+            "vi": "To ship được định nghĩa là vận chuyển hoặc gửi một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The crew of one of these vessels.",
+            "vi": "Thủy thủ đoàn của một trong những con tàu này."
+        },
+        {
+            "pos": "affix",
+            "en": "The quality, condition, or state of being.",
+            "vi": "Chất lượng, tình trạng hoặc trạng thái hiện hữu."
+        },
+        {
+            "pos": "suffix",
+            "en": "Appended to a noun to form a new noun denoting a property or state of being.",
+            "vi": "Được thêm vào một danh từ để tạo thành một danh từ mới biểu thị một thuộc tính hoặc trạng thái của thực thể."
+        },
+        {
+            "pos": "idiom",
+            "en": "tight ship  A well-managed and efficient business, household, or organization: We run a tight ship.",
+            "vi": "con tàu chặt chẽ Một doanh nghiệp, hộ gia đình hoặc tổ chức được quản lý tốt và hiệu quả: Chúng tôi điều hành một con tàu chặt chẽ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That ship is sinking fast, isn't it?",
+            "vi": "Con tàu đó đang chìm nhanh, phải không?"
+        },
+        {
+            "en": "He told me he got on a ship in Galveston and sailed for three years.",
+            "vi": "Anh ta nói với tôi rằng anh ta đã lên một con tàu ở Galveston và đi thuyền trong ba năm."
+        }
+    ],
+    "words_form": [
+        "shipped",
+        "shipping",
+        "ships"
+    ],
+    "meaning_vi": "Tàu thủy"
+}

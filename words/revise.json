@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈvaɪz/"
+    ],
+    "synonyms": [
+        "edit",
+        "reconsider",
+        "rewrite",
+        "review",
+        "rework"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To revise is to reconsider or change something.",
+            "vi": "Sửa đổi là xem xét lại hoặc thay đổi điều gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) An act or product of revising; a revision.",
+            "vi": "(không chính thức) Một hành động hoặc sản phẩm của việc sửa đổi; một bản sửa đổi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The same year a convention, whose duty was to revise the constitution, met.",
+            "vi": "Cùng năm, một đại hội, có nhiệm vụ sửa đổi hiến pháp, đã nhóm họp."
+        },
+        {
+            "en": "A constitutional convention to revise or amend the constitution may be called in the same manner.",
+            "vi": "Công ước sửa đổi hoặc sửa đổi hiến pháp có thể được gọi theo cách tương tự."
+        }
+    ],
+    "words_form": [
+        "revised",
+        "revises",
+        "revising"
+    ],
+    "meaning_vi": "xem lại"
+}

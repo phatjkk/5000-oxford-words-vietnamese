@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/hɔl/"
+    ],
+    "synonyms": [
+        "meeting-place",
+        "assembly",
+        "stateroom",
+        "gymnasium",
+        "dining-hall"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A corridor or passageway in a building.",
+            "vi": "Hành lang hoặc lối đi trong tòa nhà."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1863-1914; U.S. chemist: discovered electrolytic process for reducing aluminum from bauxite.",
+            "vi": "(người) 1863-1914; Nhà hóa học Hoa Kỳ: đã phát hiện ra quá trình điện phân để khử nhôm từ bôxít."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A British and Scandinavian topographic surname​ for someone who lived in or near a hall.",
+            "vi": "Họ địa hình của Anh và Scandinavia cho những người sống trong hoặc gần hội trường."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "As she was walking down the hall, she heard her name mentioned.",
+            "vi": "Khi đang đi xuống hành lang, cô nghe thấy tên mình được nhắc đến."
+        },
+        {
+            "en": "They ducked into the hall, and she pulled away.",
+            "vi": "Họ chui vào hội trường, và cô ấy chạy đi."
+        }
+    ],
+    "words_form": [
+        "halls"
+    ],
+    "meaning_vi": "đại sảnh"
+}

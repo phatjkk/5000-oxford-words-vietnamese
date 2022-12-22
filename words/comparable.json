@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈkɑmp(ə)rəb(ə)l/"
+    ],
+    "synonyms": [
+        "similar",
+        "tantamount",
+        "equivalent",
+        "analogous",
+        "unworthy"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of comparable is two or more people or things that are similar to each other.",
+            "vi": "Định nghĩa của so sánh là hai hoặc nhiều người hoặc sự vật tương tự với nhau."
+        },
+        {
+            "pos": "noun",
+            "en": "Something suitable for comparison.",
+            "vi": "Một cái gì đó thích hợp để so sánh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The climate is comparable to that of north Italy.",
+            "vi": "Khí hậu có thể so sánh với miền bắc nước Ý."
+        },
+        {
+            "en": "Thus the disposition of the endoderm-cavities is roughly comparable to the gastrovascular system of a medusa.",
+            "vi": "Do đó, sự bố trí của các khoang nội bì gần như có thể so sánh với hệ thống mạch máu dạ dày của một medusa."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "so sánh"
+}

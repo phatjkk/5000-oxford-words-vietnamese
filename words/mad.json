@@ -1,0 +1,62 @@
+{
+    "spelling": [
+        "/mæd/"
+    ],
+    "synonyms": [
+        "angry",
+        "bananas",
+        "crazy",
+        "nuts",
+        "cracked"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Angry; resentful.",
+            "vi": "Tức giận; phẫn uất."
+        },
+        {
+            "pos": "verb",
+            "en": "To make or become mad; madden.",
+            "vi": "Làm cho hoặc trở nên điên cuồng; chết mê chết mệt."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Mutually assured destruction.",
+            "vi": "Đảm bảo lẫn nhau tiêu diệt."
+        },
+        {
+            "pos": "adverb",
+            "en": "Extremely; very.",
+            "vi": "Cực kì; hết sức."
+        },
+        {
+            "pos": "noun",
+            "en": "An angry or sullen mood or fit.",
+            "vi": "Một tâm trạng tức giận hoặc ủ rũ hoặc phù hợp."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) like mad  Wildly; impetuously: Drove like mad.To an intense degree or great extent: Worked like mad; snowing like mad.",
+            "vi": "(không chính thức) như điên Wildly; hấp tấp: Làm như điên. Ở mức độ dữ dội hoặc mức độ lớn: Làm việc như điên; tuyết rơi như điên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her dreams, however mad, were never wrong.",
+            "vi": "Những giấc mơ của cô ấy, dù điên rồ đến đâu, cũng không bao giờ sai."
+        },
+        {
+            "en": "I was just mad at you.",
+            "vi": "Tôi chỉ đang giận bạn."
+        }
+    ],
+    "words_form": [
+        "madded",
+        "madder",
+        "maddest",
+        "madding",
+        "mads"
+    ],
+    "meaning_vi": "điên"
+}

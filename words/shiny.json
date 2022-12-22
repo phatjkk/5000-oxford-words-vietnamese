@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈʃaɪni/"
+    ],
+    "synonyms": [
+        "lustrous",
+        "gleaming",
+        "glistening",
+        "sparkling",
+        "bright"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Full of, or reflecting, light; bright; shining.",
+            "vi": "Đầy đủ, hoặc phản chiếu, ánh sáng; sáng; sáng."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) Anything shiny; a trinket.",
+            "vi": "(không chính thức) Bất cứ thứ gì sáng bóng; một món đồ nữ trang."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was dark, shiny, thick and long.",
+            "vi": "Nó sẫm màu, sáng bóng, dày và dài."
+        },
+        {
+            "en": "Finally her efforts resulted in something shiny coming out.",
+            "vi": "Cuối cùng những nỗ lực của cô ấy đã dẫn đến một thứ sáng bóng xuất hiện."
+        }
+    ],
+    "words_form": [
+        "shinier",
+        "shiniest"
+    ],
+    "meaning_vi": "sáng bóng"
+}

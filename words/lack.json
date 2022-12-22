@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/læk/"
+    ],
+    "synonyms": [
+        "scarcity",
+        "need",
+        "absence",
+        "dearth",
+        "shortage"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be without or in need of.",
+            "vi": "Không có hoặc cần."
+        },
+        {
+            "pos": "noun",
+            "en": "A particular deficiency or absence.",
+            "vi": "Một sự thiếu hụt hoặc vắng mặt cụ thể."
+        },
+        {
+            "pos": "affix",
+            "en": "Lacking.",
+            "vi": "Thiếu xót."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The lack of security is unsettling.",
+            "vi": "Việc thiếu an ninh là điều đáng lo ngại."
+        },
+        {
+            "en": "All I lack is a playmate to call my own.",
+            "vi": "Tất cả những gì tôi thiếu là một người bạn chơi để gọi cho riêng mình."
+        }
+    ],
+    "words_form": [
+        "lacked",
+        "lacking",
+        "lacks"
+    ],
+    "meaning_vi": "thiếu sót"
+}

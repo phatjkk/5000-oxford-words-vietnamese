@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/kriˈeɪdɪv/"
+    ],
+    "synonyms": [
+        "inventive",
+        "artistic",
+        "original",
+        "imaginative",
+        "innovative"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having the ability or power to create.",
+            "vi": "Có khả năng hoặc sức mạnh để tạo ra."
+        },
+        {
+            "pos": "noun",
+            "en": "One who displays productive originality.",
+            "vi": "Một người thể hiện sự độc đáo hiệu quả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was not a great original thinker; he lacked the creative faculty and the creative impulse.",
+            "vi": "Ông không phải là một nhà tư tưởng nguyên thủy vĩ đại; anh ta thiếu khoa sáng tạo và sự thôi thúc sáng tạo."
+        },
+        {
+            "en": "Polycarp had no creative genius.",
+            "vi": "Polycarp không có thiên tài sáng tạo."
+        }
+    ],
+    "words_form": [
+        "creatives"
+    ],
+    "meaning_vi": "sáng tạo"
+}

@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/ˈækʃ(ə)n/"
+    ],
+    "synonyms": [
+        "operation",
+        "movement",
+        "activity",
+        "agency",
+        "response"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an action is something that is done or performed.",
+            "vi": "Định nghĩa của một hành động là một cái gì đó được thực hiện hoặc thực hiện."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a type of film characterized by a fast-paced plot, a series of suspenseful confrontations, violent fight and chase scenes, etc.",
+            "vi": "Chỉ định hoặc thuộc loại phim đặc trưng bởi cốt truyện nhịp độ nhanh, hàng loạt cuộc đối đầu hồi hộp, cảnh đánh nhau và rượt đuổi bạo lực, v.v."
+        },
+        {
+            "pos": "interjection",
+            "en": "Demanding or signifying the start of something, usually an act or scene of a theatric performance.",
+            "vi": "Yêu cầu hoặc biểu thị sự bắt đầu của một điều gì đó, thường là một hành động hoặc cảnh của một buổi biểu diễn sân khấu."
+        },
+        {
+            "pos": "verb",
+            "en": "(management) To act on a request etc, in order to put it into effect.",
+            "vi": "(quản lý) Thực hiện theo một yêu cầu, v.v. để yêu cầu đó có hiệu lực."
+        },
+        {
+            "pos": "idiom",
+            "en": "bring action  to start a lawsuit",
+            "vi": "khởi kiện"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This book is a call to action, not complacency.",
+            "vi": "Cuốn sách này là một lời kêu gọi hành động, không phải là sự tự mãn."
+        },
+        {
+            "en": "She turned away, embarrassed by the rush of excitement the action had triggered.",
+            "vi": "Cô quay đi, xấu hổ vì sự phấn khích tột độ mà hành động đã gây ra."
+        }
+    ],
+    "words_form": [
+        "actions"
+    ],
+    "meaning_vi": "hành động, hành vi, tác động"
+}

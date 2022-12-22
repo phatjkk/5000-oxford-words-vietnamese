@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/dəˈstrɛs/"
+    ],
+    "synonyms": [
+        "pain",
+        "worry",
+        "anxiety",
+        "disquiet",
+        "vexation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of distress is suffering or pain, or a state of being in trouble.",
+            "vi": "Định nghĩa của đau khổ là đau khổ hoặc đau đớn, hoặc trạng thái gặp khó khăn."
+        },
+        {
+            "pos": "verb",
+            "en": "To exhaust or weaken with strain of any sort.",
+            "vi": "Làm kiệt quệ hoặc suy yếu do căng thẳng dưới bất kỳ hình thức nào."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her distress was rising with their tension.",
+            "vi": "Sự lo lắng của cô ngày càng tăng lên cùng với sự căng thẳng của họ."
+        },
+        {
+            "en": "Sensing similar distress in the man before her, she sat down.",
+            "vi": "Cảm nhận được sự đau khổ tương tự ở người đàn ông trước mặt, cô ngồi xuống."
+        }
+    ],
+    "words_form": [
+        "distressed",
+        "distresses"
+    ],
+    "meaning_vi": "phiền muộn"
+}

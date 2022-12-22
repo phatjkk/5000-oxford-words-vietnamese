@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/koʊˈɔrdəˌneɪt/"
+    ],
+    "synonyms": [
+        "organize",
+        "correspondent",
+        "synchronize",
+        "agree",
+        "correlative"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To coordinate is to arrange for things to all come together or to work with someone else to establish a common aim.",
+            "vi": "Phối hợp là sắp xếp để mọi thứ hòa hợp với nhau hoặc làm việc với người khác để thiết lập một mục tiêu chung."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a coordinate is something that complements another item such as in style or color.",
+            "vi": "Định nghĩa của một tọa độ là một cái gì đó bổ sung cho một mục khác chẳng hạn như về kiểu dáng hoặc màu sắc."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of the same order or importance; equal in rank.",
+            "vi": "Có cùng thứ tự hoặc tầm quan trọng; ngang nhau về thứ hạng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Princess birthday parties are easy to plan and coordinate.",
+            "vi": "Tiệc sinh nhật công chúa rất dễ lên kế hoạch và phối hợp."
+        },
+        {
+            "en": "Coordinate a plan to evac the humans from the hotels.",
+            "vi": "Phối hợp một kế hoạch để sơ tán con người khỏi các khách sạn."
+        }
+    ],
+    "words_form": [
+        "coordinated",
+        "coordinates",
+        "coordinating"
+    ],
+    "meaning_vi": "danh từ: tọa độ"
+}

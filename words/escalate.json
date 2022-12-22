@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈɛskəˌleɪt/"
+    ],
+    "synonyms": [
+        "intensify",
+        "grow",
+        "increase",
+        "magnify",
+        "amplify"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To increase in intensity, extent, or amount.",
+            "vi": "Để tăng cường độ, mức độ hoặc số lượng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It took one week for a localized event to escalate to world war.",
+            "vi": "Phải mất một tuần để một sự kiện địa phương có thể leo thang thành chiến tranh thế giới."
+        },
+        {
+            "en": "Such an attack could escalate into a widespread conflict, although I doubt it.",
+            "vi": "Một cuộc tấn công như vậy có thể leo thang thành một cuộc xung đột lan rộng, mặc dù tôi nghi ngờ điều đó."
+        }
+    ],
+    "words_form": [
+        "escalated",
+        "escalates",
+        "escalating"
+    ],
+    "meaning_vi": "leo thang"
+}

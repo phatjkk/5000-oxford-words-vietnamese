@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/laʊd/"
+    ],
+    "synonyms": [
+        "deafening",
+        "booming",
+        "fulminating",
+        "blaring",
+        "roaring"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of loud is having a high volume or intensity.",
+            "vi": "Định nghĩa của âm thanh lớn là có âm lượng hoặc cường độ lớn."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a loud manner.",
+            "vi": "Một cách ồn ào."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "out loud  with the normal voice; not silently; aloud",
+            "vi": "thành tiếng với giọng nói bình thường; không âm thầm; lớn tiếng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Boys, we're getting a little loud here.",
+            "vi": "Các chàng trai, chúng ta đang có một chút ồn ào ở đây."
+        },
+        {
+            "en": "I'm right by where Billy Langstrom went over the side and I can read you loud and clear.",
+            "vi": "Tôi đang ở ngay nơi Billy Langstrom đi qua và tôi có thể đọc to và rõ ràng cho bạn."
+        }
+    ],
+    "words_form": [
+        "louder",
+        "loudest"
+    ],
+    "meaning_vi": "to tiếng"
+}

@@ -1,0 +1,74 @@
+{
+    "spelling": [
+        "/aʊt/"
+    ],
+    "synonyms": [
+        "out-of",
+        "missing",
+        "out-and-out",
+        "show",
+        "unconcealed"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of out is something beyond the set limit or boundary.",
+            "vi": "Định nghĩa của out là một cái gì đó vượt quá giới hạn hoặc ranh giới đã định."
+        },
+        {
+            "pos": "adverb",
+            "en": "Away from the center or middle.",
+            "vi": "Xa trung tâm hoặc giữa."
+        },
+        {
+            "pos": "verb",
+            "en": "(now chiefly dial.) To put out.",
+            "vi": "(bây giờ chủ yếu quay số.) để đưa ra."
+        },
+        {
+            "pos": "interjection",
+            "en": "Get out; go away; begone.",
+            "vi": "Ra khỏi; biến đi; cầu xin."
+        },
+        {
+            "pos": "preposition",
+            "en": "Forth from; through.",
+            "vi": "Forth từ; xuyên qua."
+        },
+        {
+            "pos": "noun",
+            "en": "One that is out, especially one who is out of power.",
+            "vi": "Một trong số đó là ra, đặc biệt là một trong những người bị mất điện."
+        },
+        {
+            "pos": "prefix",
+            "en": "In a way that surpasses, exceeds, or goes beyond.",
+            "vi": "Theo một cách nào đó vượt qua, vượt quá hoặc vượt xa hơn."
+        },
+        {
+            "pos": "affix",
+            "en": "Situated at or coming from a point away, outside, external.",
+            "vi": "Nằm tại hoặc đến từ một điểm cách xa, bên ngoài, bên ngoài."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) on the outs  Not on friendly terms; disagreeing.",
+            "vi": "(không chính thức) ngay từ đầu Không phải trên các điều khoản thân thiện; không đồng ý."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Carmen held out a hand.",
+            "vi": "Carmen chìa tay ra."
+        },
+        {
+            "en": "It's the only way to get out of the Valley of Voe.",
+            "vi": "Đó là cách duy nhất để ra khỏi Thung lũng Voe."
+        }
+    ],
+    "words_form": [
+        "outed",
+        "outs"
+    ],
+    "meaning_vi": "ngoài"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kənˈsərv/"
+    ],
+    "synonyms": [
+        "save",
+        "preserve",
+        "keep",
+        "use",
+        "protect"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A jam made of fruits stewed in sugar.",
+            "vi": "Một loại mứt làm từ trái cây hầm với đường."
+        },
+        {
+            "pos": "verb",
+            "en": "To keep from being damaged, lost, or wasted; save.",
+            "vi": "Để tránh bị hư hỏng, mất mát hoặc lãng phí; cứu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The Code did not merely embody contemporary custom or conserve ancient law.",
+            "vi": "Bộ luật không chỉ đơn thuần thể hiện phong tục đương đại hoặc bảo tồn luật pháp cổ đại."
+        },
+        {
+            "en": "There are many simple ways to conserve water and help the environment.",
+            "vi": "Có nhiều cách đơn giản để tiết kiệm nước và bảo vệ môi trường."
+        }
+    ],
+    "words_form": [
+        "conserved",
+        "conserves",
+        "conserving"
+    ],
+    "meaning_vi": "bảo tồn"
+}

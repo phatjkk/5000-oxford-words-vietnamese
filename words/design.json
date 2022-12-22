@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dəˈzaɪn/"
+    ],
+    "synonyms": [
+        "create",
+        "designing",
+        "sketch",
+        "decoration",
+        "draft"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a design is a plan or something created, often in art or fashion.",
+            "vi": "Định nghĩa của một thiết kế là một kế hoạch hoặc một cái gì đó được tạo ra, thường là trong nghệ thuật hoặc thời trang."
+        },
+        {
+            "pos": "verb",
+            "en": "To make or execute plans.",
+            "vi": "Để lập hoặc thực hiện các kế hoạch."
+        },
+        {
+            "pos": "idiom",
+            "en": "by design  deliberately; purposely",
+            "vi": "do cố ý thiết kế; cố ý"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Sonya sat in the drawing room at the round table, copying a design for embroidery.",
+            "vi": "Sonya ngồi trong phòng vẽ bên chiếc bàn tròn, sao chép một bản thiết kế để thêu."
+        },
+        {
+            "en": "It's a Lou Rankin design, Fred answered.",
+            "vi": "Đó là một thiết kế của Lou Rankin, Fred trả lời."
+        }
+    ],
+    "words_form": [
+        "designed",
+        "designing",
+        "designs"
+    ],
+    "meaning_vi": "thiết kế"
+}

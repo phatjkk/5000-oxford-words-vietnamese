@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/traɪb/"
+    ],
+    "synonyms": [
+        "clan",
+        "kindred",
+        "family",
+        "folk",
+        "kith-and-kin"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a tribe is a group of people, or a community with similar values or interests, a group with a common ancestor, or a common leader.",
+            "vi": "Định nghĩa về bộ lạc là một nhóm người, hoặc một cộng đồng có các giá trị hoặc lợi ích tương tự, một nhóm có chung tổ tiên hoặc một thủ lĩnh chung."
+        },
+        {
+            "pos": "verb",
+            "en": "To distribute into tribes or classes; to categorize.",
+            "vi": "Để phân phối thành các bộ lạc hoặc giai cấp; để phân loại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The affairs of a tribe were ruled by a council of men past middle age.",
+            "vi": "Công việc của một bộ lạc được cai trị bởi một hội đồng đàn ông ở độ tuổi trung niên."
+        },
+        {
+            "en": "A tribe living on the banks of the Nile between Wadi Halfa and Assuan are called Barabra.",
+            "vi": "Một bộ tộc sống trên bờ sông Nile giữa Wadi Halfa và Assuan được gọi là Barabra."
+        }
+    ],
+    "words_form": [
+        "tribes"
+    ],
+    "meaning_vi": "bộ lạc"
+}

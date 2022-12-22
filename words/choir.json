@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈkwaɪ(ə)r/"
+    ],
+    "synonyms": [
+        "consort",
+        "chorus",
+        "choral",
+        "chorister",
+        "orchestra"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The part of a church they occupy, as a chancel or choir loft.",
+            "vi": "Một phần của nhà thờ mà họ chiếm giữ, như một nhà thờ hoặc gác xép của dàn hợp xướng."
+        },
+        {
+            "pos": "verb",
+            "en": "(old poet.) To sing in chorus.",
+            "vi": "(nhà thơ cũ.) để hát trong điệp khúc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Its church has a choir dating from the fifth century.",
+            "vi": "Nhà thờ của nó có một dàn hợp xướng có từ thế kỷ thứ năm."
+        },
+        {
+            "en": "He's singing like the choir lead at a church revival.",
+            "vi": "Anh ấy đang hát như người dẫn đầu dàn hợp xướng trong một buổi phục hưng nhà thờ."
+        }
+    ],
+    "words_form": [
+        "choirs"
+    ],
+    "meaning_vi": "ca đoàn (nhà thờ)"
+}

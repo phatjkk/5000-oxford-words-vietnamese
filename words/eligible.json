@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈɛlədʒəb(ə)l/"
+    ],
+    "synonyms": [
+        "ability",
+        "satisfactory",
+        "seemly",
+        "ineligible",
+        "marriageable"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An eligible person.",
+            "vi": "Một người đủ tư cách."
+        },
+        {
+            "pos": "adjective",
+            "en": "Suitable; meeting the conditions; worthy of being chosen.",
+            "vi": "Phù hợp; đáp ứng các điều kiện; xứng đáng được chọn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "All electors are eligible to the assembly.",
+            "vi": "Tất cả các đại cử tri đều đủ điều kiện tham gia đại hội."
+        },
+        {
+            "en": "He was eligible for re-election after the lapse of a fortnight.",
+            "vi": "Ông đã đủ điều kiện để tái tranh cử sau khi hết hai tuần."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đủ điều kiện"
+}

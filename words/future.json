@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈfjutʃər/"
+    ],
+    "synonyms": [
+        "prospective",
+        "anticipated",
+        "forthcoming",
+        "inevitable",
+        "tomorrow"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The future is defined as a time that is after the present, which has not yet occurred.",
+            "vi": "Tương lai được định nghĩa là thời điểm sau hiện tại, chưa xảy ra."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of future is something that is going to happen.",
+            "vi": "Định nghĩa về tương lai là một cái gì đó sẽ xảy ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What a future that will be!",
+            "vi": "Điều đó sẽ là một tương lai!"
+        },
+        {
+            "en": "Her life was on a new course now, and the future looked brighter than it ever had.",
+            "vi": "Cuộc sống của cô hiện đang ở một hướng đi mới, và tương lai có vẻ tươi sáng hơn bao giờ hết."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tương lai"
+}

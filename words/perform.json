@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/pərˈfɔrm/"
+    ],
+    "synonyms": [
+        "carry on",
+        "carry out",
+        "complete",
+        "act",
+        "conduct"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To present a dramatic or musical work or other entertainment before an audience.",
+            "vi": "Để trình bày một tác phẩm kịch hoặc âm nhạc hoặc giải trí khác trước khán giả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The doctor said he wouldn't be able to perform at first.",
+            "vi": "Bác sĩ cho biết ban đầu anh ấy sẽ không thể thực hiện được."
+        },
+        {
+            "en": "Robots can perform thousands of operations flawlessly every minute.",
+            "vi": "Robot có thể thực hiện hàng nghìn thao tác hoàn hảo mỗi phút."
+        }
+    ],
+    "words_form": [
+        "performed",
+        "performing",
+        "performs"
+    ],
+    "meaning_vi": "thực hiện"
+}

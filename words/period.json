@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ˈpɪriəd/"
+    ],
+    "synonyms": [
+        "era",
+        "full-stop",
+        "periodical",
+        "recurrent",
+        "rhythmical"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An interval of time characterized by the occurrence of a certain condition, event, or phenomenon.",
+            "vi": "Khoảng thời gian được đặc trưng bởi sự xuất hiện của một điều kiện, sự kiện hoặc hiện tượng nhất định."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, belonging to, or representing a certain historical age or time.",
+            "vi": "Thuộc về, hoặc đại diện cho một thời đại hoặc thời gian lịch sử nhất định."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to emphasize finality, as when expressing a decision or an opinion.",
+            "vi": "Được sử dụng để nhấn mạnh tính cuối cùng, như khi thể hiện một quyết định hoặc một ý kiến."
+        },
+        {
+            "pos": "verb",
+            "en": "To put an end to.",
+            "vi": "Để chấm dứt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They covered a period of twenty years.",
+            "vi": "Chúng được bảo hiểm trong khoảng thời gian hai mươi năm."
+        },
+        {
+            "en": "Yet it was a short period of time for so much to have happened to them.",
+            "vi": "Tuy nhiên, đó là một khoảng thời gian ngắn cho rất nhiều điều đã xảy ra với họ."
+        }
+    ],
+    "words_form": [
+        "periods"
+    ],
+    "meaning_vi": "một khoảng thời gian"
+}

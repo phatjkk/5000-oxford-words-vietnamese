@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˌɪn(t)ərˈækt/"
+    ],
+    "synonyms": [
+        "associate",
+        "communicate",
+        "cooperate",
+        "coordinate",
+        "mix"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To act on each other.",
+            "vi": "Để hành động lẫn nhau."
+        },
+        {
+            "pos": "noun",
+            "en": "A short act or piece between others, as in a play; an interlude; hence, intermediate employment or time.",
+            "vi": "Một hành động hoặc đoạn ngắn giữa những người khác, như trong một vở kịch; một sự xen vào; do đó, việc làm trung gian hoặc thời gian."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't interact with people much.",
+            "vi": "Tôi không tiếp xúc với mọi người nhiều."
+        },
+        {
+            "en": "All the salts are explosive and readily interact with the alkyl iodides.",
+            "vi": "Tất cả các muối đều dễ nổ và dễ dàng tương tác với các alkyl iodua."
+        }
+    ],
+    "words_form": [
+        "interacted",
+        "interacting",
+        "interacts"
+    ],
+    "meaning_vi": "tương tác"
+}

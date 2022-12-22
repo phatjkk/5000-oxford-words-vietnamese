@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˌɡɛrənˈti/"
+    ],
+    "synonyms": [
+        "declare",
+        "ensure",
+        "affirm",
+        "evince",
+        "evidence"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a guarantee is a promise that something will happen.",
+            "vi": "Định nghĩa của một bảo đảm là một lời hứa rằng điều gì đó sẽ xảy ra."
+        },
+        {
+            "pos": "verb",
+            "en": "To assume responsibility for the quality or performance of.",
+            "vi": "Chịu trách nhiệm về chất lượng hoặc hiệu suất của."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was no guarantee Gabriel wanted her, but she'd have a chance.",
+            "vi": "Không có gì đảm bảo rằng Gabriel muốn cô ấy, nhưng cô ấy sẽ có cơ hội."
+        },
+        {
+            "en": "Just because things went well last month it doesn't guarantee they will go well this month.",
+            "vi": "Chỉ vì mọi thứ diễn ra tốt đẹp vào tháng trước nên không đảm bảo chúng sẽ suôn sẻ trong tháng này."
+        }
+    ],
+    "words_form": [
+        "guaranteed",
+        "guaranteeing",
+        "guarantees"
+    ],
+    "meaning_vi": "bảo hành"
+}

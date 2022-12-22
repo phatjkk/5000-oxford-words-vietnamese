@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/wik/"
+    ],
+    "synonyms": [
+        "weekly",
+        "month",
+        "one-week",
+        "days",
+        "weeks"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A period of seven days, esp. one beginning with Sunday and ending with Saturday.",
+            "vi": "Khoảng thời gian bảy ngày, đặc biệt. một bắt đầu bằng Chủ nhật và kết thúc bằng Thứ bảy."
+        },
+        {
+            "pos": "idiom",
+            "en": "Sunday (or Monday or Tuesday, etc.) week  a week, counting backward or forward, from Sunday (or Monday, Tuesday, etc.)",
+            "vi": "Chủ Nhật (hoặc Thứ Hai hoặc Thứ Ba, v.v.) một tuần, tính lùi hoặc tiến, từ Chủ Nhật (hoặc Thứ Hai, Thứ Ba, v.v.)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Last week I visited a beautiful art store.",
+            "vi": "Tuần trước tôi đã đến thăm một cửa hàng nghệ thuật tuyệt đẹp."
+        },
+        {
+            "en": "Would they be snowed in for a week now?",
+            "vi": "Liệu họ có bị tuyết rơi trong một tuần nay không?"
+        }
+    ],
+    "words_form": [
+        "weeks"
+    ],
+    "meaning_vi": "tuần"
+}

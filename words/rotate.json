@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈroʊˌteɪt/"
+    ],
+    "synonyms": [
+        "revolve",
+        "twist",
+        "turn",
+        "exchange",
+        "change"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having the parts spreading out like a wheel; wheel-shaped.",
+            "vi": "Có các bộ phận lan rộng ra như một bánh xe; hình bánh xe."
+        },
+        {
+            "pos": "verb",
+            "en": "To rotate is to turn something around a central point, or to take turns.",
+            "vi": "Xoay là xoay một vật gì đó xung quanh điểm trung tâm hoặc thay phiên nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They rotate on steel shafts 21 in.",
+            "vi": "Chúng quay trên trục thép 21 in."
+        },
+        {
+            "en": "We rotate every twelve months or so, Han explained.",
+            "vi": "Han giải thích rằng chúng tôi luân phiên nhau mười hai tháng một lần."
+        }
+    ],
+    "words_form": [
+        "rotated",
+        "rotates",
+        "rotating"
+    ],
+    "meaning_vi": "quay"
+}

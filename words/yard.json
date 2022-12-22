@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/jɑrd/"
+    ],
+    "synonyms": [
+        "court",
+        "garden",
+        "courtyard",
+        "barnyard",
+        "curtilage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Yard is defined as a measurement of length that equals 3 feet or 36 inches.",
+            "vi": "Sân được định nghĩa là một phép đo chiều dài bằng 3 feet hoặc 36 inch."
+        },
+        {
+            "pos": "verb",
+            "en": "To enclose, collect, or put into a yard.",
+            "vi": "Để bao bọc, thu thập hoặc đưa vào bãi."
+        },
+        {
+            "pos": "idiom",
+            "en": "the whole nine yards  everything, or the limit",
+            "vi": "toàn bộ chín thước mọi thứ, hoặc giới hạn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Len pulled the truck into the yard and stopped.",
+            "vi": "Len cho xe tải vào bãi rồi dừng lại."
+        },
+        {
+            "en": "Last evening I went out in the yard and spoke to the moon.",
+            "vi": "Tối qua tôi đã ra ngoài sân và nói chuyện với mặt trăng."
+        }
+    ],
+    "words_form": [
+        "yards"
+    ],
+    "meaning_vi": "sân, vườn"
+}

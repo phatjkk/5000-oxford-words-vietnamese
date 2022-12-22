@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ɪf/"
+    ],
+    "synonyms": [
+        "provided that",
+        "provided",
+        "granting",
+        "suppositive",
+        "whether"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "If is defined as in the event, or on the condition, that something happens.",
+            "vi": "Nếu được định nghĩa là trong sự kiện hoặc trong điều kiện, thì điều gì đó sẽ xảy ra."
+        },
+        {
+            "pos": "noun",
+            "en": "A possibility, condition, or stipulation.",
+            "vi": "Một khả năng, điều kiện hoặc quy định."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Intermediate frequency.",
+            "vi": "Tần số trung gian."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll take care of the others if you want to watch the kids.",
+            "vi": "Tôi sẽ chăm sóc những người khác nếu bạn muốn xem bọn trẻ."
+        },
+        {
+            "en": "\"I do not want money,\" returned the braided man, \"for I could not spend it in this deserted place if I had it.",
+            "vi": "“Tôi không muốn tiền,” người đàn ông thắt bím trả lại, “vì tôi không thể tiêu nó ở nơi hoang vắng này nếu tôi có nó."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "(dùng với thời hiện tại và hiện tại hoàn thành cho những tình huống rất có thể dự đoán được) nếu"
+}

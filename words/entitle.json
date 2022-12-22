@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɪnˈtaɪdl/",
+        "/ɛnˈtaɪdl/"
+    ],
+    "synonyms": [
+        "style",
+        "call",
+        "label",
+        "empower",
+        "qualify"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To give a name or title to.",
+            "vi": "Để đặt tên hoặc chức danh cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Its purity of style and the fact that it was long a standard work entitle it to a mention here.",
+            "vi": "Sự thuần khiết về phong cách của nó và thực tế là nó đã trở thành một tác phẩm tiêu chuẩn từ lâu cho phép nó được đề cập ở đây."
+        },
+        {
+            "en": "His brilliant researches in the theory of numbers entitle him to rank as the founder of the modern theory.",
+            "vi": "Những nghiên cứu xuất sắc của ông về lý thuyết các con số đã giúp ông được xếp hạng là người sáng lập ra lý thuyết hiện đại."
+        }
+    ],
+    "words_form": [
+        "entitled",
+        "entitles",
+        "entitling"
+    ],
+    "meaning_vi": "phụ đề"
+}

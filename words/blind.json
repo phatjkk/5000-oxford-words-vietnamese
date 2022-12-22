@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/blaɪnd/"
+    ],
+    "synonyms": [
+        "hidden",
+        "dim-sighted",
+        "blocked",
+        "unplanned",
+        "concealed"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something intended to conceal the true nature, especially of an activity; a subterfuge.",
+            "vi": "Một cái gì đó nhằm che giấu bản chất thực sự, đặc biệt là của một hoạt động; một bãi ngầm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Disregarding evidence, sound logic, etc.",
+            "vi": "Bỏ qua bằng chứng, logic âm thanh, v.v."
+        },
+        {
+            "pos": "verb",
+            "en": "To make sightless.",
+            "vi": "Để làm cho không nhìn thấy."
+        },
+        {
+            "pos": "adverb",
+            "en": "Blindly; specif., so as to be blind, insensible, etc.",
+            "vi": "Một cách mù quáng; specif., để trở nên mù quáng, không thể hiểu được, v.v."
+        },
+        {
+            "pos": "idiom",
+            "en": "the blind  people who are blind",
+            "vi": "những người mù bị mù"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I was blind to her other side.",
+            "vi": "Tôi mù quáng với mặt khác của cô ấy."
+        },
+        {
+            "en": "How had he ever turned a blind eye to her?",
+            "vi": "Làm sao anh lại làm ngơ trước cô?"
+        }
+    ],
+    "words_form": [
+        "blinded",
+        "blindest",
+        "blinds"
+    ],
+    "meaning_vi": "(bị) mù; bị khiếm thị"
+}

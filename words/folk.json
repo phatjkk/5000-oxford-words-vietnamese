@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/foʊk/"
+    ],
+    "synonyms": [
+        "people",
+        "society",
+        "folks",
+        "common people",
+        "folkies"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Folk means people in general, or a specific group of people.",
+            "vi": "Dân gian có nghĩa là những người nói chung, hoặc một nhóm người cụ thể."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, occurring in, or originating among the common people.",
+            "vi": "Của, xảy ra trong, hoặc bắt nguồn từ những người bình thường."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "People in general; persons.",
+            "vi": "Con người nói chung; những người."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) just folks  Down-to-earth, open-hearted.",
+            "vi": "(không chính thức) chỉ những người chân chất, cởi mở."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "These mountaineering folk talked a different language.",
+            "vi": "Những người leo núi này nói một ngôn ngữ khác nhau."
+        },
+        {
+            "en": "The folk songs are the truest and most interesting national literature.",
+            "vi": "Ca dao là một nền văn học dân tộc chân thực nhất và hay nhất."
+        }
+    ],
+    "words_form": [
+        "folks"
+    ],
+    "meaning_vi": "dân gian"
+}

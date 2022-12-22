@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/dəˈrɛkʃ(ə)n/",
+        "/daɪˈrɛkʃ(ə)n/"
+    ],
+    "synonyms": [
+        "objective",
+        "way",
+        "route",
+        "orientation",
+        "course"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The action of directing; pointing (something) or looking towards.",
+            "vi": "Hành động chỉ đạo; trỏ (cái gì đó) hoặc nhìn về phía."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She faced the direction from which she'd come.",
+            "vi": "Cô ấy đối mặt với hướng mà cô ấy sẽ đến."
+        },
+        {
+            "en": "Isn't this the direction technology inevitably is heading?",
+            "vi": "Đây không phải là định hướng mà công nghệ chắc chắn đang hướng tới sao?"
+        }
+    ],
+    "words_form": [
+        "directions"
+    ],
+    "meaning_vi": "phương hướng"
+}

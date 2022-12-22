@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈnɛroʊ/"
+    ],
+    "synonyms": [
+        "tight",
+        "wide",
+        "slim",
+        "broad",
+        "extensive"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To decrease or limit in width.",
+            "vi": "Để giảm hoặc giới hạn chiều rộng."
+        },
+        {
+            "pos": "noun",
+            "en": "A narrow passage, as between two bodies of water; strait.",
+            "vi": "Một lối đi hẹp, như giữa hai vùng nước; eo biển."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of narrow is someone who is limited in some way or something that is small in width as compared to its length.",
+            "vi": "Định nghĩa của hẹp là người bị giới hạn về một mặt nào đó hoặc một cái gì đó có chiều rộng nhỏ so với chiều dài của nó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He pointed to a set of narrow stairs.",
+            "vi": "Anh chỉ vào một dãy cầu thang hẹp."
+        },
+        {
+            "en": "Her dark hair was pulled back severely from a narrow face.",
+            "vi": "Mái tóc đen của cô được vén ra sau một cách nghiêm túc trên khuôn mặt hẹp."
+        }
+    ],
+    "words_form": [
+        "narrowed",
+        "narrowest",
+        "narrowing",
+        "narrows"
+    ],
+    "meaning_vi": "hẹp"
+}

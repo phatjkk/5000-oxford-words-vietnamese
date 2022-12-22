@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/əˈpil/"
+    ],
+    "synonyms": [
+        "request",
+        "suit",
+        "interest",
+        "proposal",
+        "claim"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make an earnest or urgent request, as for help.",
+            "vi": "Để thực hiện một yêu cầu nghiêm túc hoặc khẩn cấp, như để được giúp đỡ."
+        },
+        {
+            "pos": "noun",
+            "en": "A call upon some authority or person for a decision, opinion, etc.",
+            "vi": "Lời kêu gọi một cơ quan hoặc người có thẩm quyền về một quyết định, ý kiến, v.v."
+        },
+        {
+            "pos": "idiom",
+            "en": "on appeal  In the process of being appealed; while being appealed.",
+            "vi": "về kháng cáo Trong quá trình bị kháng cáo; trong khi bị kháng cáo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "No appeal of yours will work in his favor.",
+            "vi": "Không có lời kêu gọi nào của bạn sẽ có lợi cho anh ta."
+        },
+        {
+            "en": "There is an appeal hearing which you can go to.",
+            "vi": "Có một phiên điều trần kháng cáo mà bạn có thể tham dự."
+        }
+    ],
+    "words_form": [
+        "appealed",
+        "appealing",
+        "appeals"
+    ],
+    "meaning_vi": "(danh từ) sức hấp dẫn; sự kháng cáo"
+}

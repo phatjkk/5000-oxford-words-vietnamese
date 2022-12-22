@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/seɪm/"
+    ],
+    "synonyms": [
+        "similarly",
+        "same",
+        "alike",
+        "identical",
+        "invariant"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Being the one previously mentioned or indicated; aforesaid.",
+            "vi": "Là người đã được đề cập hoặc chỉ định trước đó; đã nói ở trên."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Someone or something identical with another.",
+            "vi": "Người nào đó hoặc cái gì đó giống hệt với người khác."
+        },
+        {
+            "pos": "adverb",
+            "en": "In the same way.",
+            "vi": "Theo cách tương tự."
+        },
+        {
+            "pos": "idiom",
+            "en": "all  Notwithstanding; nevertheless.",
+            "vi": "tất cả. Tuy nhiên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was the same man, she was sure of it.",
+            "vi": "Đó là cùng một người đàn ông, cô chắc chắn về điều đó."
+        },
+        {
+            "en": "Was it wishful thinking, or did she see the same love in his eyes?",
+            "vi": "Đó là mơ tưởng, hay cô nhìn thấy tình yêu tương tự trong mắt anh?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "cùng"
+}

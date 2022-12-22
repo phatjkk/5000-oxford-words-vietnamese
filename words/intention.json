@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ɪnˈtɛn(t)ʃ(ə)n/"
+    ],
+    "synonyms": [
+        "purpose",
+        "aim",
+        "impulsion",
+        "intent",
+        "end"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of intention is a determination or plan to do a specific thing.",
+            "vi": "Định nghĩa của ý định là một quyết tâm hoặc kế hoạch để làm một việc cụ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She had no intention of staying here.",
+            "vi": "Cô không có ý định ở lại đây."
+        },
+        {
+            "en": "I have no intention of doing so.",
+            "vi": "Tôi không có ý định làm như vậy."
+        }
+    ],
+    "words_form": [
+        "intentions"
+    ],
+    "meaning_vi": "ý định"
+}

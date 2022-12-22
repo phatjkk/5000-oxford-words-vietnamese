@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈrɑkət/"
+    ],
+    "synonyms": [
+        "missile",
+        "spacecraft",
+        "projectile",
+        "firecracker",
+        "shoot up"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Rocket is arugula, an edible leafy green with a slightly spicy flavor.",
+            "vi": "Rocket là arugula, một loại lá xanh có thể ăn được với hương vị hơi cay."
+        },
+        {
+            "pos": "verb",
+            "en": "To propel with or as with sudden force.",
+            "vi": "Để đẩy bằng hoặc bằng lực đột ngột."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The rocket had exploded as it landed on the floor, leaving a gaping hole.",
+            "vi": "Tên lửa đã nổ tung khi hạ cánh xuống sàn, để lại một lỗ hổng."
+        },
+        {
+            "en": "Doesn't seem like rocket science.",
+            "vi": "Có vẻ như không phải là khoa học tên lửa."
+        }
+    ],
+    "words_form": [
+        "rocketed",
+        "rocketing",
+        "rockets"
+    ],
+    "meaning_vi": "tên lửa"
+}

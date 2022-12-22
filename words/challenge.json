@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈtʃæləndʒ/"
+    ],
+    "synonyms": [
+        "test",
+        "call into question",
+        "invite",
+        "dispute",
+        "summon"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a challenge is an act of rebellion against someone or something.",
+            "vi": "Định nghĩa của một thách thức là một hành động nổi loạn chống lại một ai đó hoặc một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To object to (a vote) as not valid, or to (a prospective voter) as not qualified to vote.",
+            "vi": "Để phản đối (một phiếu bầu) là không hợp lệ, hoặc phản đối (một cử tri tiềm năng) là không đủ tiêu chuẩn để bỏ phiếu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I like a challenge once in a while.",
+            "vi": "Tôi thích một lần thử thách."
+        },
+        {
+            "en": "We had no right to challenge his choices in spite of our lives being tied to his as tightly as a water-logged knot.",
+            "vi": "Chúng tôi không có quyền thách thức sự lựa chọn của anh ấy mặc dù mạng sống của chúng tôi bị ràng buộc bởi anh ấy chặt như nút thắt trên mặt nước."
+        }
+    ],
+    "words_form": [
+        "challenged",
+        "challenges",
+        "challenging"
+    ],
+    "meaning_vi": "thách thức"
+}

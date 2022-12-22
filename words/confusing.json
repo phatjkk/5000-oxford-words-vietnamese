@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/kənˈfjuzɪŋ/"
+    ],
+    "synonyms": [
+        "puzzling",
+        "baffling",
+        "discomposing",
+        "bewildering",
+        "disconcerting"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Present participle of confuse.",
+            "vi": "Hiện tại phân từ của sự nhầm lẫn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Difficult to understand; not clear as lacking order, chaotic etc.",
+            "vi": "Khó để hiểu; không rõ ràng như thiếu trật tự, hỗn loạn v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The words sounded confusing, even to her.",
+            "vi": "Những lời này nghe có vẻ khó hiểu, ngay cả với cô ấy."
+        },
+        {
+            "en": "Catharsis can be a confusing emotional experience for some people.",
+            "vi": "Catharsis có thể là một trải nghiệm cảm xúc khó hiểu đối với một số người."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "gây nhầm lẫn"
+}

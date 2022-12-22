@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɡlæns/"
+    ],
+    "synonyms": [
+        "glimpse",
+        "look",
+        "shimmer",
+        "gaze",
+        "peek"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a glance is a quick look.",
+            "vi": "Định nghĩa của một cái nhìn nhanh là một cái nhìn nhanh chóng."
+        },
+        {
+            "pos": "verb",
+            "en": "Glance is defined as to look at quickly.",
+            "vi": "Lift được định nghĩa là để nhìn một cách nhanh chóng."
+        },
+        {
+            "pos": "idiom",
+            "en": "at first glance  On initial consideration: At first glance the plan seemed unworkable.",
+            "vi": "Thoạt nhìn Khi xem xét ban đầu: Thoạt nhìn, kế hoạch có vẻ không khả thi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "One glance at the picture and his neck turned red.",
+            "vi": "Nhìn lướt qua bức tranh và cổ anh đỏ bừng."
+        },
+        {
+            "en": "You see at a glance that she is blind.",
+            "vi": "Bạn chỉ cần nhìn thoáng qua là cô ấy đã bị mù."
+        }
+    ],
+    "words_form": [
+        "glanced",
+        "glances",
+        "glancing"
+    ],
+    "meaning_vi": "liếc"
+}

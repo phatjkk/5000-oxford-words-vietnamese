@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/prəˈpɛr/"
+    ],
+    "synonyms": [
+        "get-ready",
+        "arrange",
+        "serve",
+        "adapt",
+        "ready"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make ready beforehand for a specific purpose, as for an event or occasion.",
+            "vi": "Để chuẩn bị trước cho một mục đích cụ thể, như cho một sự kiện hoặc dịp."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) Preparation.",
+            "vi": "(lỗi thời) Chuẩn bị."
+        },
+        {
+            "pos": "idiom",
+            "en": "be prepared  To be willing (to do something): I am not prepared to defend him when I know he was wrong.",
+            "vi": "chuẩn bị sẵn sàng (làm điều gì đó): Tôi không chuẩn bị để bảo vệ anh ta khi tôi biết anh ta đã sai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We have two days to prepare ourselves.",
+            "vi": "Chúng tôi có hai ngày để chuẩn bị cho bản thân."
+        },
+        {
+            "en": "Agreed. Jake, prepare yourself.",
+            "vi": "Đã đồng ý. Jake, chuẩn bị tinh thần."
+        }
+    ],
+    "words_form": [
+        "prepared",
+        "prepares",
+        "preparing"
+    ],
+    "meaning_vi": "chuẩn bị"
+}

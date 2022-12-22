@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/brɪŋ/"
+    ],
+    "synonyms": [
+        "transport",
+        "bring around",
+        "fetch",
+        "carry",
+        "convey"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be sold for.",
+            "vi": "Để được bán cho."
+        },
+        {
+            "pos": "interjection",
+            "en": "The sound of a telephone ringing.",
+            "vi": "Tiếng chuông điện thoại."
+        },
+        {
+            "pos": "idiom",
+            "en": "bring down the house  To win overwhelming approval from an audience.",
+            "vi": "hạ bệ nhà Để giành được sự tán thưởng áp đảo của khán giả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Bring my car around.",
+            "vi": "Mang xe của tôi đi khắp nơi."
+        },
+        {
+            "en": "Tell them to bring me a bottle.",
+            "vi": "Bảo họ mang cho tôi một chai."
+        }
+    ],
+    "words_form": [
+        "bringing",
+        "brings",
+        "brought"
+    ],
+    "meaning_vi": "mang đến"
+}

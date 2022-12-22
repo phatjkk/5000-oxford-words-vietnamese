@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈbɑdi/"
+    ],
+    "synonyms": [
+        "density",
+        "carcass",
+        "dust",
+        "form",
+        "guts"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The majority of a number of people or things.",
+            "vi": "Đa số của một số người hoặc sự vật."
+        },
+        {
+            "pos": "verb",
+            "en": "To furnish with a body.",
+            "vi": "Để trang bị cho một cơ thể."
+        },
+        {
+            "pos": "idiom",
+            "en": "(sports) take the body  To play in a rough physical way, dealing out many body checks, as in hockey.",
+            "vi": "(thể thao) kiểm tra cơ thể Chơi một cách thô bạo, thực hiện nhiều cuộc kiểm tra cơ thể, như trong môn khúc côn cầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Every muscle in her body was sore.",
+            "vi": "Mọi cơ trên người cô đều đau nhức."
+        },
+        {
+            "en": "Only the machines kept his body working.",
+            "vi": "Chỉ có máy móc mới giữ cho cơ thể anh hoạt động."
+        }
+    ],
+    "words_form": [
+        "bodied",
+        "bodies",
+        "bodying"
+    ],
+    "meaning_vi": "thân, mình"
+}

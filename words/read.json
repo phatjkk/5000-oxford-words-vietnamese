@@ -1,0 +1,64 @@
+{
+    "spelling": [
+        "/rid/"
+    ],
+    "synonyms": [
+        "recite",
+        "get",
+        "scan",
+        "study",
+        "browse"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of read is to use eyes or fingers to figure out what letters or other symbols mean.",
+            "vi": "Định nghĩa của đọc là sử dụng mắt hoặc ngón tay để tìm ra chữ cái hoặc các ký hiệu khác có nghĩa là gì."
+        },
+        {
+            "pos": "noun",
+            "en": "Something for reading.",
+            "vi": "Một cái gì đó để đọc."
+        },
+        {
+            "pos": "adjective",
+            "en": "Informed by reading; learned.",
+            "vi": "Thông báo bằng cách đọc; đã học."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1893-1968; Eng. art & literary critic.",
+            "vi": "(người) 1893-1968; Anh nghệ thuật & phê bình văn học."
+        },
+        {
+            "pos": "anagrams",
+            "en": "DARE, dare, dear, 'eard, rade.",
+            "vi": "DARE, dám, thân yêu, 'nghe, đua."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname, a less common spelling variant of Reid.",
+            "vi": "Họ, một biến thể chính tả ít phổ biến hơn của Reid."
+        },
+        {
+            "pos": "idiom",
+            "en": "read a lecture  To issue a reprimand: My parents read me a lecture because I had neglected my chores.",
+            "vi": "đọc một bài giảng Để đưa ra lời khiển trách: Cha mẹ tôi đã đọc cho tôi một bài giảng vì tôi đã bỏ bê việc nhà của mình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Read books that are true.",
+            "vi": "Đọc những cuốn sách mà là sự thật."
+        },
+        {
+            "en": "He lifted the paper and started to read again.",
+            "vi": "Anh nhấc tờ giấy lên và bắt đầu đọc lại."
+        }
+    ],
+    "words_form": [
+        "reading",
+        "reads"
+    ],
+    "meaning_vi": "đọc"
+}

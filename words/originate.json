@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/əˈrɪdʒəˌneɪt/"
+    ],
+    "synonyms": [
+        "emanate",
+        "start",
+        "dawn",
+        "introduce",
+        "found"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To originate is to start something or cause something to start.",
+            "vi": "Bắt nguồn là bắt đầu một cái gì đó hoặc gây ra một cái gì đó để bắt đầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In France the Jesuits joined, if they did not originate, the league against Henry of Navarre.",
+            "vi": "Ở Pháp, các tu sĩ Dòng Tên tham gia, nếu họ không có nguồn gốc, liên minh chống lại Henry của Navarre."
+        },
+        {
+            "en": "Bills may originate in either house.",
+            "vi": "Hối phiếu có thể bắt nguồn từ một trong hai nhà."
+        }
+    ],
+    "words_form": [
+        "originated",
+        "originates",
+        "originating"
+    ],
+    "meaning_vi": "nguồn gốc"
+}

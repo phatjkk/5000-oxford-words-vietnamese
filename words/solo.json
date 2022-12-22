@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/ˈsoʊloʊ/"
+    ],
+    "synonyms": [
+        "aria",
+        "singly",
+        "monologue",
+        "single",
+        "solely"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Solo is defined as to fly alone, sing alone or do something alone.",
+            "vi": "Solo được định nghĩa là bay một mình, hát một mình hoặc làm việc gì đó một mình."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of solo is alone or done by just one person.",
+            "vi": "Định nghĩa về solo là một mình hoặc chỉ do một người thực hiện."
+        },
+        {
+            "pos": "adverb",
+            "en": "Solo is defined as something done alone without accompaniment.",
+            "vi": "Solo được định nghĩa là một cái gì đó được thực hiện một mình mà không có nhạc đệm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Made or done by a single individual.",
+            "vi": "Được thực hiện hoặc thực hiện bởi một cá nhân duy nhất."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her first solo swing was surprisingly successful.",
+            "vi": "Cú đánh solo đầu tiên của cô đã thành công một cách đáng ngạc nhiên."
+        },
+        {
+            "en": "I guess we have to trust him, but I wish he'd stop going solo and confide in us.",
+            "vi": "Tôi đoán chúng tôi phải tin tưởng anh ấy, nhưng tôi ước anh ấy ngừng hoạt động solo và tâm sự với chúng tôi."
+        }
+    ],
+    "words_form": [
+        "soli",
+        "soloed",
+        "soloing",
+        "solos"
+    ],
+    "meaning_vi": "độc tấu"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈkəpəl/"
+    ],
+    "synonyms": [
+        "mates",
+        "couplet",
+        "duad",
+        "several",
+        "make-love"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Couple means to link together or to pair up.",
+            "vi": "Cặp đôi có nghĩa là liên kết với nhau hoặc kết đôi."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a couple is two items of a similar kind or two people in a romantic relationship.",
+            "vi": "Định nghĩa về một cặp đôi là hai món đồ giống nhau hoặc hai người trong một mối quan hệ lãng mạn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Two or few.",
+            "vi": "Hai hoặc vài."
+        },
+        {
+            "pos": "determiner",
+            "en": "(informal) A small number of.",
+            "vi": "(không chính thức) Một số lượng nhỏ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I have a couple of polo shirts, but no light shirts.",
+            "vi": "Tôi có một vài chiếc áo sơ mi polo, nhưng không có áo sơ mi sáng màu."
+        },
+        {
+            "en": "Finally he took down a couple of cups and poured them some coffee.",
+            "vi": "Cuối cùng anh ta lấy xuống một vài chiếc cốc và rót cà phê cho chúng."
+        }
+    ],
+    "words_form": [
+        "coupled",
+        "couples",
+        "coupling"
+    ],
+    "meaning_vi": "cặp đôi"
+}

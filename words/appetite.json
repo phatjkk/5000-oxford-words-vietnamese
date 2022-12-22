@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈæpəˌtaɪt/"
+    ],
+    "synonyms": [
+        "hunger",
+        "taste",
+        "hankering",
+        "thirst",
+        "distaste"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Appetite is defined as a passion for something.",
+            "vi": "Sự thèm ăn được định nghĩa là niềm đam mê đối với một thứ gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She returned to her room to clean herself up, cursing peanut butter for ruining her appetite as she went.",
+            "vi": "Cô trở về phòng để dọn dẹp, chửi bới bơ đậu phộng vì đã làm hỏng sự thèm ăn của cô khi cô đi."
+        },
+        {
+            "en": "Lana lowered the soup, her appetite gone.",
+            "vi": "Lana hạ súp xuống, cảm giác thèm ăn không còn nữa."
+        }
+    ],
+    "words_form": [
+        "appetites"
+    ],
+    "meaning_vi": "thèm ăn"
+}

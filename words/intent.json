@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ɪnˈtɛnt/"
+    ],
+    "synonyms": [
+        "purpose",
+        "meaning",
+        "significance",
+        "calculated",
+        "designed"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of intent is being focused on something.",
+            "vi": "Định nghĩa về ý định đang được tập trung vào một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Intent is defined as something you plan or mean to do.",
+            "vi": "Ý định được định nghĩa là một cái gì đó bạn lên kế hoạch hoặc có ý định làm."
+        },
+        {
+            "pos": "idiom",
+            "en": "for  In every practical sense; practically: To all intents and purposes the case is closed.",
+            "vi": "cho Theo mọi nghĩa thực tế; thực tế: Đối với tất cả các ý định và mục đích, trường hợp đã được đóng lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It wasn't my intent to hide anything from you.",
+            "vi": "Tôi không có ý định che giấu bất cứ điều gì với bạn."
+        },
+        {
+            "en": "She glanced up and met his intent gaze.",
+            "vi": "Cô nhìn lên và bắt gặp ánh mắt đầy ẩn ý của anh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ý định"
+}

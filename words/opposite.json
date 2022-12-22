@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ˈɑpəzət/"
+    ],
+    "synonyms": [
+        "contrary",
+        "inverse",
+        "opposition",
+        "antipodean",
+        "reverse"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One that is opposite or contrary to another.",
+            "vi": "Một cái đối lập hoặc trái ngược với cái khác."
+        },
+        {
+            "pos": "adverb",
+            "en": "On opposing sides or in an opposite position.",
+            "vi": "Ở các mặt đối lập hoặc ở một vị trí đối lập."
+        },
+        {
+            "pos": "adjective",
+            "en": "Being the other of two complementary or mutually exclusive things.",
+            "vi": "Là cái khác của hai thứ bổ sung hoặc loại trừ lẫn nhau."
+        },
+        {
+            "pos": "preposition",
+            "en": "In a complementary role to.",
+            "vi": "Trong một vai trò bổ sung cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Without another word, he turned the horse and kicked it into a trot in the opposite direction.",
+            "vi": "Không nói thêm lời nào, anh ta quay ngựa và đạp nó chạy nước kiệu về hướng ngược lại."
+        },
+        {
+            "en": "They rode up the opposite hill.",
+            "vi": "Họ cưỡi lên ngọn đồi đối diện."
+        }
+    ],
+    "words_form": [
+        "opposites"
+    ],
+    "meaning_vi": "đối lập"
+}

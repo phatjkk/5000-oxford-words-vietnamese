@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈsərtn/"
+    ],
+    "synonyms": [
+        "sure",
+        "positive",
+        "assured",
+        "self-confident",
+        "undoubting"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Sure (to happen, etc.); inevitable.",
+            "vi": "Chắc chắn (sắp xảy ra, v.v.); không thể tránh khỏi."
+        },
+        {
+            "pos": "pronoun",
+            "en": "An indefinite but limited number; some.",
+            "vi": "Một số lượng không xác định nhưng có hạn; một vài."
+        },
+        {
+            "pos": "determiner",
+            "en": "Having been determined but unspecified. The quality of some particular subject or object which is known by the speaker to have been specifically singled out among similar entities of its class.",
+            "vi": "Đã được xác định nhưng không xác định. Chất lượng của một chủ đề hoặc đối tượng cụ thể nào đó mà người nói biết là đã được phân biệt cụ thể giữa các thực thể tương tự trong lớp của nó."
+        },
+        {
+            "pos": "idiom",
+            "en": "for certain  Without doubt; definitely.",
+            "vi": "chắc chắn Không nghi ngờ gì; chắc chắn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I feel certain of it.",
+            "vi": "Tôi cảm thấy chắc chắn về nó."
+        },
+        {
+            "en": "I'm certain he doesn't realize it, but he does put himself first.",
+            "vi": "Tôi chắc chắn anh ấy không nhận ra điều đó, nhưng anh ấy đặt bản thân lên trên hết."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nhất định"
+}

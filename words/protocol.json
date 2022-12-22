@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈproʊdəˌkɔl/",
+        "/ˈproʊdəˌkɑl/"
+    ],
+    "synonyms": [
+        "formality",
+        "procedure",
+        "decorum",
+        "guideline",
+        "code"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Protocol is defined as the rules and customs of a group or a standard procedure.",
+            "vi": "Giao thức được định nghĩa là các quy tắc và tập quán của một nhóm hoặc một thủ tục tiêu chuẩn."
+        },
+        {
+            "pos": "verb",
+            "en": "To draw up a protocol.",
+            "vi": "Để tạo ra một giao thức."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "On the 16th of November a protocol of the London conference placed the Morea, with the neighbouring islands and the Cyclades, under the guarantee of the powers; and on the 22nd of March 1829 another protocol extended the frontier thus guaranteed to the line Arta-Volo and included the island of Euboea.",
+            "vi": "Vào ngày 16 tháng 11, một nghị định thư của hội nghị London đã đặt Morea, cùng với các đảo lân cận và Cyclades, dưới sự bảo đảm của các cường quốc; và vào ngày 22 tháng 3 năm 1829 một giao thức khác đã mở rộng biên giới do đó đảm bảo cho tuyến Arta-Volo và bao gồm cả đảo Euboea."
+        },
+        {
+            "en": "Austria and Prussia accepted the protocol, but it was not signed by tho diet.",
+            "vi": "Áo và Phổ chấp nhận nghị định thư, nhưng nó không được ký bởi tho diet."
+        }
+    ],
+    "words_form": [
+        "protocoled",
+        "protocoling",
+        "protocolled",
+        "protocolling",
+        "protocols"
+    ],
+    "meaning_vi": "giao thức"
+}

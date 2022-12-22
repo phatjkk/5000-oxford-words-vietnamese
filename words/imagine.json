@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ɪˈmædʒən/"
+    ],
+    "synonyms": [
+        "envision",
+        "picture",
+        "visualize",
+        "formulate",
+        "fancy"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To imagine is defined as to make a guess at or make a mental image of something.",
+            "vi": "Tưởng tượng được định nghĩa là phỏng đoán hoặc hình dung về một thứ gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Can you imagine that?",
+            "vi": "Bạn có thể tưởng tượng được điều đó không?"
+        },
+        {
+            "en": "I can only imagine how difficult this is for you.",
+            "vi": "Tôi chỉ có thể tưởng tượng điều này khó khăn như thế nào đối với bạn."
+        }
+    ],
+    "words_form": [
+        "imagined",
+        "imagines",
+        "imagining"
+    ],
+    "meaning_vi": "tưởng tượng"
+}

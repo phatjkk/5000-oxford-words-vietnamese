@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/məˈsteɪk/"
+    ],
+    "synonyms": [
+        "error",
+        "underestimate",
+        "muddle",
+        "confusion",
+        "misconstrue"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a mistake is an error or misunderstanding.",
+            "vi": "Định nghĩa của một sai lầm là một lỗi hoặc sự hiểu lầm."
+        },
+        {
+            "pos": "verb",
+            "en": "Mistake is defined as to misinterpret or to confuse someone with another person.",
+            "vi": "Sai lầm được định nghĩa là hiểu sai hoặc nhầm lẫn ai đó với người khác."
+        },
+        {
+            "pos": "idiom",
+            "en": "and no mistake  certainly",
+            "vi": "và chắc chắn không có sai lầm"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I won't make the mistake I made with you before.",
+            "vi": "Tôi sẽ không phạm phải sai lầm mà tôi đã gây ra với bạn trước đây."
+        },
+        {
+            "en": "I made a really bad mistake and I don't know what to do.",
+            "vi": "Tôi đã phạm một sai lầm thực sự tồi tệ và tôi không biết phải làm gì."
+        }
+    ],
+    "words_form": [
+        "mistaken",
+        "mistakes",
+        "mistaking",
+        "mistook"
+    ],
+    "meaning_vi": "sai lầm"
+}

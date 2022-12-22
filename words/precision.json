@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/prəˈsɪʒən/"
+    ],
+    "synonyms": [
+        "accuracy",
+        "accurateness",
+        "prudery",
+        "correctness",
+        "care"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of precision is something made with exact measurements.",
+            "vi": "Định nghĩa về độ chính xác là thứ được tạo ra với các phép đo chính xác."
+        },
+        {
+            "pos": "noun",
+            "en": "The state or quality of being precise; exactness.",
+            "vi": "Trạng thái hoặc chất lượng chính xác; độ chính xác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He made a precision cut through the meat.",
+            "vi": "Anh ta thực hiện một đường cắt chính xác xuyên qua miếng thịt."
+        },
+        {
+            "en": "These excerpts, however, have been so pieced together, that it is often impossible to separate them with precision, and to distinguish accurately between earlier and later elements.",
+            "vi": "Tuy nhiên, những đoạn trích này đã được ghép lại với nhau, đến mức thường không thể phân tách chúng một cách chính xác và phân biệt chính xác giữa các phần tử trước và sau."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "độ chính xác"
+}

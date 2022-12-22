@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/θərd/"
+    ],
+    "synonyms": [
+        "3rd",
+        "thirdly",
+        "tertiary",
+        "three",
+        "tierce"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(baseball) Third base.",
+            "vi": "(bóng chày) Căn cứ thứ ba."
+        },
+        {
+            "pos": "adjective",
+            "en": "Preceded by two others in a series; 3d or 3rd.",
+            "vi": "Trước hai người khác trong một loạt; 3d hoặc thứ 3."
+        },
+        {
+            "pos": "adverb",
+            "en": "In the third place, rank, group, etc.",
+            "vi": "Ở vị trí thứ ba, thứ hạng, nhóm, v.v."
+        },
+        {
+            "pos": "verb",
+            "en": "To agree with a proposition or statement after it has already been seconded.",
+            "vi": "Đồng ý với một mệnh đề hoặc tuyên bố sau khi nó đã được biệt phái."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Your room is the third on the left.",
+            "vi": "Phòng của bạn là phòng thứ ba bên trái."
+        },
+        {
+            "en": "A third of the time, we're sleeping!",
+            "vi": "Một phần ba thời gian, chúng ta đang ngủ!"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thứ ba"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/vaʊ/"
+    ],
+    "synonyms": [
+        "promise",
+        "affiance",
+        "vouch",
+        "engagement",
+        "pledge"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a vow is a formal promise, usually of love and devotion.",
+            "vi": "Định nghĩa của lời thề là một lời hứa chính thức, thường là tình yêu và sự tận tâm."
+        },
+        {
+            "pos": "verb",
+            "en": "To promise solemnly; pledge.",
+            "vi": "Để hứa long trọng; lời hứa."
+        },
+        {
+            "pos": "idiom",
+            "en": "take vows  to make the vows required for formal entrance into a religious order or community",
+            "vi": "tuyên thệ để thực hiện những lời thề cần thiết để được chính thức gia nhập một dòng tu hoặc cộng đồng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Yet in spite of this your vow was binding.",
+            "vi": "Tuy nhiên, bất chấp điều này lời thề của bạn đã ràng buộc."
+        },
+        {
+            "en": "That night she made a vow to herself.",
+            "vi": "Đêm đó cô đã thề nguyện với chính mình."
+        }
+    ],
+    "words_form": [
+        "vowed",
+        "vowing",
+        "vows"
+    ],
+    "meaning_vi": "thề"
+}

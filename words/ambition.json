@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/æmˈbɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "goal",
+        "zeal",
+        "plan",
+        "passion",
+        "craving"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of ambition is motivation or a strong urge to achieve something.",
+            "vi": "Định nghĩa về tham vọng là động lực hoặc sự thôi thúc mạnh mẽ để đạt được điều gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To seek after ambitiously or eagerly; to covet.",
+            "vi": "Để tìm kiếm theo tham vọng hoặc háo hức; Để thèm muốn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "My ambition is far different than yours.",
+            "vi": "Tham vọng của tôi khác xa so với của bạn."
+        },
+        {
+            "en": "It is a tale of ambition and then of guilt.",
+            "vi": "Đó là một câu chuyện về tham vọng và sau đó là tội lỗi."
+        }
+    ],
+    "words_form": [
+        "ambitions"
+    ],
+    "meaning_vi": "tham vọng"
+}

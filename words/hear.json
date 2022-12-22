@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/hɪr/"
+    ],
+    "synonyms": [
+        "hearken",
+        "make out",
+        "hark",
+        "take-in",
+        "catch"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To perceive (sound) by the ear.",
+            "vi": "Cảm nhận (âm thanh) bằng tai."
+        },
+        {
+            "pos": "idiom",
+            "en": "hear, hear  Used to express approval.",
+            "vi": "nghe, nghe Được sử dụng để bày tỏ sự tán thành."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I wish you could hear yourself talking.",
+            "vi": "Tôi ước bạn có thể nghe thấy chính mình nói chuyện."
+        },
+        {
+            "en": "Just hear me out.",
+            "vi": "Chỉ cần nghe tôi nói."
+        }
+    ],
+    "words_form": [
+        "heard",
+        "hearing",
+        "hears"
+    ],
+    "meaning_vi": "nghe"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/sɔrs/"
+    ],
+    "synonyms": [
+        "origin",
+        "connect",
+        "spring",
+        "parent",
+        "provenance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of source is where someone or something came from.",
+            "vi": "Định nghĩa về nguồn là nơi ai đó hoặc thứ gì đó đến từ."
+        },
+        {
+            "pos": "verb",
+            "en": "To obtain (materials or parts) from another business, country, or locale for manufacture.",
+            "vi": "Để lấy (vật liệu hoặc bộ phận) từ một doanh nghiệp, quốc gia hoặc địa phương khác để sản xuất."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or constituting a source.",
+            "vi": "Của hoặc cấu thành một nguồn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "So far, she seemed to be his best source of information, anyway.",
+            "vi": "Cho đến nay, cô ấy dường như là nguồn thông tin tốt nhất của anh ấy."
+        },
+        {
+            "en": "Only I must know the source of your power first.",
+            "vi": "Chỉ tôi mới phải biết nguồn sức mạnh của bạn trước."
+        }
+    ],
+    "words_form": [
+        "sourced",
+        "sources",
+        "sourcing"
+    ],
+    "meaning_vi": "nguồn"
+}

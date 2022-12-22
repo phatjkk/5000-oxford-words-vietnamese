@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/beɪl/"
+    ],
+    "synonyms": [
+        "bond",
+        "surety",
+        "drain",
+        "security",
+        "bucket"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Bail is removing water from something.",
+            "vi": "Bail là loại bỏ nước từ một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The bail amount is often related to both the particular crime in question and to the perceived risk that the accused will flee before trial.",
+            "vi": "Số tiền bảo lãnh thường liên quan đến cả tội phạm cụ thể được đề cập và nguy cơ bị cáo sẽ bỏ trốn trước khi xét xử."
+        },
+        {
+            "pos": "idiom",
+            "en": "jump  To fail to appear in court and so forfeit one's bail.",
+            "vi": "nhảy Không ra hầu tòa và vì vậy bị mất tiền bảo lãnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was released on bail on the 1st of December.",
+            "vi": "Anh ta được tại ngoại vào ngày 1 tháng 12."
+        },
+        {
+            "en": "And now she wants you to bail her out?",
+            "vi": "Và bây giờ cô ấy muốn bạn bảo lãnh cô ấy ra ngoài?"
+        }
+    ],
+    "words_form": [
+        "bailed",
+        "bailing",
+        "bails"
+    ],
+    "meaning_vi": "bảo lãnh"
+}

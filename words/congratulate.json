@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/kənˈɡrætʃəˌleɪt/",
+        "/kənˈɡrædʒəˌleɪt/"
+    ],
+    "synonyms": [
+        "compliment",
+        "laud",
+        "plume",
+        "praise",
+        "pride"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To express to (a person) one's pleasure at good fortune or success; felicitate.",
+            "vi": "Để bày tỏ với (một người) niềm vui của một người trước sự may mắn hoặc thành công; an ủi."
+        },
+        {
+            "pos": "idiom",
+            "en": "congratulate oneself  to take pride (in one's accomplishment, etc.)",
+            "vi": "chúc mừng bản thân để tự hào (về thành tích của một người, v.v.)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I have the honor to congratulate you.",
+            "vi": "Tôi có vinh dự được chúc mừng bạn."
+        },
+        {
+            "en": "\"I hope I may now congratulate Your Majesty on a victory?\" said he.",
+            "vi": "\"Tôi hy vọng bây giờ tôi có thể chúc mừng chiến thắng của Bệ hạ?\" cho biết anh ấy."
+        }
+    ],
+    "words_form": [
+        "congratulated",
+        "congratulates",
+        "congratulating"
+    ],
+    "meaning_vi": "chúc mừng em"
+}

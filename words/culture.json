@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈkəltʃər/"
+    ],
+    "synonyms": [
+        "value-system",
+        "education",
+        "refinement",
+        "chaos",
+        "barbarism"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of culture means a particular set of customs, morals, codes and traditions from a specific time and place.",
+            "vi": "Định nghĩa văn hóa có nghĩa là một tập hợp các phong tục, đạo đức, quy tắc và truyền thống cụ thể từ một thời gian và địa điểm cụ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "To culture is defined as to cultivate or grow.",
+            "vi": "Văn hóa được định nghĩa là để trau dồi hoặc phát triển."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If only she understood our culture better.",
+            "vi": "Giá như cô ấy hiểu văn hóa của chúng tôi hơn."
+        },
+        {
+            "en": "How long would it take her to adapt to this culture?",
+            "vi": "Cô ấy sẽ mất bao lâu để thích nghi với nền văn hóa này?"
+        }
+    ],
+    "words_form": [
+        "cultured",
+        "cultures",
+        "culturing"
+    ],
+    "meaning_vi": "văn hóa"
+}

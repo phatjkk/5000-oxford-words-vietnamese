@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/trɪp/"
+    ],
+    "synonyms": [
+        "journey",
+        "excursion",
+        "tackle",
+        "voyage",
+        "tour"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A going from one place to another; a journey.",
+            "vi": "A đi từ nơi này đến nơi khác; một cuộc hành trình."
+        },
+        {
+            "pos": "verb",
+            "en": "To make a mistake.",
+            "vi": "Để mắc lỗi."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of any of several high-strength, highly ductile steel alloys containing chromium, molybdenum, nickel, and carbon.",
+            "vi": "Chỉ định hoặc bất kỳ hợp kim thép nào có độ bền cao, độ dẻo cao có chứa crom, molypden, niken và cacbon."
+        },
+        {
+            "pos": "idiom",
+            "en": "trip the light fantastic  To dance.",
+            "vi": "chuyến đi ánh sáng tuyệt vời Để khiêu vũ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Outside of this being her first trip in an airplane, the rest of the flight was uneventful.",
+            "vi": "Ngoài đây là chuyến đi đầu tiên của cô trên máy bay, phần còn lại của chuyến bay là không bình thường."
+        },
+        {
+            "en": "It's only a four hour trip, maybe.",
+            "vi": "Có lẽ đó chỉ là một chuyến đi bốn giờ."
+        }
+    ],
+    "words_form": [
+        "tripped",
+        "tripping",
+        "trips"
+    ],
+    "meaning_vi": "chuyến đi"
+}

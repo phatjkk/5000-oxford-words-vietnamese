@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/ˈseɪvɪŋ/"
+    ],
+    "synonyms": [
+        "save",
+        "careful",
+        "preserving",
+        "rescue",
+        "preservation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A reduction in expenditure or cost.",
+            "vi": "Giảm chi tiêu hoặc chi phí."
+        },
+        {
+            "pos": "preposition",
+            "en": "With the exception of.",
+            "vi": "Ngoại trừ."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of saving is something that rescues or is a good value.",
+            "vi": "Định nghĩa của tiết kiệm là một cái gì đó giải cứu hoặc là một giá trị tốt."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Except; save.",
+            "vi": "Ngoại trừ; cứu."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of save.",
+            "vi": "Trình bày phân từ lưu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I've been saving my money to buy a house.",
+            "vi": "Tôi đã tiết kiệm tiền của mình để mua một ngôi nhà."
+        },
+        {
+            "en": "He lost a round with her in the immortal world, when she manipulated him into saving her life and those of her sisters-in-law.",
+            "vi": "Anh đã thua một vòng với cô trong thế giới bất tử, khi cô thao túng anh để cứu mạng cô và những người chị dâu của cô."
+        }
+    ],
+    "words_form": [
+        "savings"
+    ],
+    "meaning_vi": "tiết kiệm"
+}

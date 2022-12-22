@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈsɪŋɡəl/"
+    ],
+    "synonyms": [
+        "companionless",
+        "sole",
+        "unattached",
+        "original",
+        "isolated"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One that is separate and individual.",
+            "vi": "Một cái riêng biệt và riêng lẻ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Not divided; unbroken.",
+            "vi": "Không phân chia; không gián đoạn."
+        },
+        {
+            "pos": "verb",
+            "en": "(baseball) To advance (a runner) by hitting a single.",
+            "vi": "(bóng chày) Để tiến (một người chạy) bằng cách đánh một quả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A single image can end a war.",
+            "vi": "Một hình ảnh duy nhất có thể kết thúc một cuộc chiến."
+        },
+        {
+            "en": "Could he then merge two souls together into a single body?",
+            "vi": "Liệu anh ta có thể hợp nhất hai linh hồn lại với nhau thành một cơ thể?"
+        }
+    ],
+    "words_form": [
+        "singled",
+        "singles",
+        "singling"
+    ],
+    "meaning_vi": "độc thân"
+}

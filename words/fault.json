@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/fɔlt/"
+    ],
+    "synonyms": [
+        "wrong",
+        "failing",
+        "dilapidated",
+        "flaw",
+        "accountability"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Fault is defined as to blame or to commit a mistake.",
+            "vi": "Lỗi được định nghĩa là đổ lỗi hoặc phạm lỗi."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a fault is a weakness in the rock strata that can shift and create an earthquake.",
+            "vi": "Định nghĩa của đứt gãy là một điểm yếu trong các tầng đá có thể dịch chuyển và tạo ra động đất."
+        },
+        {
+            "pos": "idiom",
+            "en": "at fault  Deserving of blame; guilty: Admitted to being at fault.Confused and puzzled.",
+            "vi": "có lỗi Đáng trách; có lỗi: Thừa nhận là có lỗi, phân vân và phân vân."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Don't dare to say it was her fault.",
+            "vi": "Không dám nói đó là lỗi của cô ấy."
+        },
+        {
+            "en": "It's all your fault, you know.",
+            "vi": "Tất cả là lỗi của bạn, bạn biết đấy."
+        }
+    ],
+    "words_form": [
+        "faulted",
+        "faults"
+    ],
+    "meaning_vi": "lỗi"
+}

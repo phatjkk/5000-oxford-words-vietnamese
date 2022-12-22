@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈθəroʊ/"
+    ],
+    "synonyms": [
+        "consummate",
+        "precise",
+        "meticulous",
+        "total",
+        "exact"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of thorough is something being done completely, missing no details.",
+            "vi": "Định nghĩa của kỹ lưỡng là một cái gì đó được thực hiện hoàn toàn, không thiếu chi tiết."
+        },
+        {
+            "pos": "preposition",
+            "en": "(obsolete) Through. [9th-19th c.]",
+            "vi": "(lỗi thời) Thông qua. [9-19 c.]"
+        },
+        {
+            "pos": "noun",
+            "en": "(UK, dialect) A furrow between two ridges, to drain off the surface water.",
+            "vi": "(Anh, phương ngữ) Một rãnh giữa hai rặng núi, để thoát nước trên bề mặt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He also gained a thorough acquaintance with the French language.",
+            "vi": "Anh ấy cũng đã làm quen được với ngôn ngữ Pháp."
+        },
+        {
+            "en": "I'm just trying to be thorough.",
+            "vi": "Tôi chỉ đang cố gắng để được thấu đáo."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "kỹ lưỡng"
+}

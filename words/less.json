@@ -1,0 +1,71 @@
+{
+    "spelling": [
+        "/lɛs/"
+    ],
+    "synonyms": [
+        "shortened",
+        "beneath",
+        "lower",
+        "limited",
+        "minor"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "Less is defined as minus.",
+            "vi": "Ít hơn được định nghĩa là trừ."
+        },
+        {
+            "pos": "adverb",
+            "en": "Less is defined as to a smaller degree or amount.",
+            "vi": "Ít hơn được định nghĩa ở mức độ hoặc số lượng nhỏ hơn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Lower in importance, esteem, or rank.",
+            "vi": "Tầm quan trọng, sự quý trọng hoặc thứ hạng thấp hơn."
+        },
+        {
+            "pos": "affix",
+            "en": "Without; lacking.",
+            "vi": "Không có; thiếu xót."
+        },
+        {
+            "pos": "noun",
+            "en": "A smaller amount.",
+            "vi": "Một số lượng nhỏ hơn."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To make less; to lessen.",
+            "vi": "(lỗi thời) Để làm cho ít hơn; để giảm bớt."
+        },
+        {
+            "pos": "conjunction",
+            "en": "(obsolete) Unless.",
+            "vi": "(lỗi thời) Trừ khi."
+        },
+        {
+            "pos": "suffix",
+            "en": "Lacking (something); without (something).",
+            "vi": "Thiếu (cái gì đó); không có (cái gì đó)."
+        },
+        {
+            "pos": "idiom",
+            "en": "less than  Not at all: He had a less than favorable view of the matter.",
+            "vi": "ít hơn Không hề: Anh ấy có cái nhìn không mấy thuận lợi về vấn đề."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Go find a less annoying way to earn some money.",
+            "vi": "Đi tìm một cách ít phiền phức hơn để kiếm một số tiền."
+        },
+        {
+            "en": "Now the world has one less fool!",
+            "vi": "Bây giờ thế giới có một kẻ ngốc ít hơn!"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ít hơn"
+}

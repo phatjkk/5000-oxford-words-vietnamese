@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/moʊˈmɛn(t)əm/",
+        "/məˈmɛn(t)əm/"
+    ],
+    "synonyms": [
+        "motion",
+        "force",
+        "energy",
+        "velocity",
+        "impetus"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(physics) A quantity used to measure the motion of a body, equal to the product of the body's mass and its velocity.",
+            "vi": "(vật lý) Một đại lượng dùng để đo chuyển động của một vật, bằng tích của khối lượng và vận tốc của vật đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Using her momentum, he swung her over his head.",
+            "vi": "Lấy đà của cô, anh vung cô qua đầu mình."
+        },
+        {
+            "en": "Her body continued its momentum down the hill and she fell, twisting so that she wouldn't fall on the kid.",
+            "vi": "Cơ thể cô tiếp tục đà xuống đồi và cô ngã, xoay người để không ngã vào đứa trẻ."
+        }
+    ],
+    "words_form": [
+        "momenta",
+        "momentums"
+    ],
+    "meaning_vi": "đà"
+}

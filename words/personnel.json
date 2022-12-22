@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˌpərsəˈnɛl/"
+    ],
+    "synonyms": [
+        "workers",
+        "help",
+        "faculty",
+        "employees",
+        "corps"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Personnel are the people who are working for a specific company or on a specific project.",
+            "vi": "Nhân sự là những người đang làm việc cho một công ty cụ thể hoặc trong một dự án cụ thể."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to the division within a business or other enterprise whose functions include hiring and training employees, and administering their benefits.",
+            "vi": "Của hoặc liên quan đến bộ phận trong một doanh nghiệp hoặc doanh nghiệp khác có chức năng bao gồm tuyển dụng và đào tạo nhân viên cũng như quản lý lợi ích của họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He also asked for and received Byrne's department personnel file.",
+            "vi": "Anh ta cũng yêu cầu và nhận được hồ sơ nhân sự bộ phận của Byrne."
+        },
+        {
+            "en": "The personnel consisted of 198 officers and 965 men.",
+            "vi": "Nhân sự bao gồm 198 sĩ quan và 965 nam giới."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nhân viên"
+}

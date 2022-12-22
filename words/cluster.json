@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈkləstər/"
+    ],
+    "synonyms": [
+        "group",
+        "bunch",
+        "constellate",
+        "agglomerated",
+        "collection"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a cluster is a group of people or things gathered or growing together.",
+            "vi": "Định nghĩa của một cụm là một nhóm người hoặc sự vật được tập hợp hoặc phát triển cùng nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "Cluster means to grow or gather.",
+            "vi": "Cụm có nghĩa là phát triển hoặc tập hợp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He quickly pulled a 20-dollar bill from his wallet and shoved ahead of a cluster of cus­tomers lined up at the cashier and thrust the money at the woman.",
+            "vi": "Anh ta nhanh chóng rút tờ 20 đô la từ trong ví của mình và đẩy trước một đám khách hàng đang xếp hàng ở quầy thu ngân và ném tiền về phía người phụ nữ."
+        },
+        {
+            "en": "The scene was defined by a cluster of police cars and fire engines bathed in rotating lights.",
+            "vi": "Hiện trường được xác định là một cụm xe cảnh sát và xe chữa cháy ngập trong ánh đèn quay."
+        }
+    ],
+    "words_form": [
+        "clustered",
+        "clusters"
+    ],
+    "meaning_vi": "cụm"
+}

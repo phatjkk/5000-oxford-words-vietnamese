@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈvɛri/"
+    ],
+    "synonyms": [
+        "change",
+        "swerve",
+        "range",
+        "dissent",
+        "stay"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To undergo or show change.",
+            "vi": "Để trải qua hoặc thể hiện sự thay đổi."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) Alteration; change.",
+            "vi": "(lỗi thời) Thay đổi; thay đổi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The seams vary in thickness.",
+            "vi": "Các đường nối có độ dày khác nhau."
+        },
+        {
+            "en": "Opinions vary widely; no one really knows.",
+            "vi": "Các ý kiến ​​rất khác nhau; không ai thực sự biết."
+        }
+    ],
+    "words_form": [
+        "varied",
+        "varies",
+        "varying"
+    ],
+    "meaning_vi": "khác nhau"
+}

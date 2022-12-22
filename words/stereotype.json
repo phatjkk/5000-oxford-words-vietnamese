@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈstɛriəˌtaɪp/"
+    ],
+    "synonyms": [
+        "standardize",
+        "categorize",
+        "convention",
+        "define",
+        "pigeon-hole"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a stereotype is a well-known idea or image of a person or idea that is held by a number of people.",
+            "vi": "Định nghĩa khuôn mẫu là một ý tưởng hoặc hình ảnh nổi tiếng về một người hoặc một ý tưởng được nhiều người nắm giữ."
+        },
+        {
+            "pos": "verb",
+            "en": "To characterize by a stereotype.",
+            "vi": "Để mô tả đặc điểm của một khuôn mẫu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I try not to immediately stereotype and judge people based on their outward appearances.",
+            "vi": "Tôi cố gắng không ngay lập tức rập khuôn và đánh giá mọi người dựa trên hình dáng bên ngoài của họ."
+        },
+        {
+            "en": "Sid was quiet and thoughtful and did not conform to the typical stereotype for a teenage athlete.",
+            "vi": "Sid trầm lặng, trầm ngâm và không tuân theo khuôn mẫu điển hình của một vận động viên tuổi teen."
+        }
+    ],
+    "words_form": [
+        "stereotyped",
+        "stereotypes",
+        "stereotyping"
+    ],
+    "meaning_vi": "khuôn mẫu"
+}

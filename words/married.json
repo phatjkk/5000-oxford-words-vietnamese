@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈmɛrid/"
+    ],
+    "synonyms": [
+        "connubial",
+        "given",
+        "hitched",
+        "spousal",
+        "single"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A married person.",
+            "vi": "Một người đã có gia đình."
+        },
+        {
+            "pos": "adjective",
+            "en": "Living together as spouses; joined in wedlock.",
+            "vi": "Chung sống như vợ chồng; đã tham gia vào giá thú."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of marry.",
+            "vi": "Quá khứ đơn và quá khứ phân từ kết hôn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He married and decided to stay there.",
+            "vi": "Anh lấy vợ và quyết định ở vậy."
+        },
+        {
+            "en": "\"Yes. Uncle Bill Hugson married your Uncle Henry's wife's sister; so we must be second cousins,\" said the boy, in an amused tone.",
+            "vi": "\"Đúng vậy. Chú Bill Hugson đã kết hôn với em gái của vợ chú Henry của chú; vì vậy chúng ta phải là anh em họ thứ hai,\" cậu bé nói với giọng thích thú."
+        }
+    ],
+    "words_form": [
+        "marrieds"
+    ],
+    "meaning_vi": "cưới nhau"
+}

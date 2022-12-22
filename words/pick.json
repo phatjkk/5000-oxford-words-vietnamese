@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pɪk/"
+    ],
+    "synonyms": [
+        "choice",
+        "choose",
+        "select",
+        "pick out",
+        "glean"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To steal the contents of.",
+            "vi": "Để ăn cắp nội dung của."
+        },
+        {
+            "pos": "noun",
+            "en": "Pick is the act of choosing or what is chosen.",
+            "vi": "Pick là hành động lựa chọn hoặc những gì được chọn."
+        },
+        {
+            "pos": "idiom",
+            "en": "pick and choose  To select with great care.",
+            "vi": "chọn và chọn Để chọn một cách cẩn thận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You'd better call one of the girls to pick you up.",
+            "vi": "Tốt hơn bạn nên gọi một trong những cô gái đến đón bạn."
+        },
+        {
+            "en": "No. I only wanted to pick up a few pictures and pay some bills.",
+            "vi": "Không. Tôi chỉ muốn chọn một vài bức tranh và thanh toán một số hóa đơn."
+        }
+    ],
+    "words_form": [
+        "picked",
+        "picking",
+        "picks"
+    ],
+    "meaning_vi": "chọn"
+}

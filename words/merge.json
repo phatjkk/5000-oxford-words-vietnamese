@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/mərdʒ/"
+    ],
+    "synonyms": [
+        "mix",
+        "fuse",
+        "join",
+        "coalesce",
+        "amalgamate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To join together; unite; combine.",
+            "vi": "Để tham gia cùng nhau; đoàn kết lại; phối hợp."
+        },
+        {
+            "pos": "noun",
+            "en": "A joining together of two flows.",
+            "vi": "Sự kết hợp với nhau của hai dòng chảy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Or you can merge it with mine, I don't care.",
+            "vi": "Hoặc bạn có thể hợp nhất nó với của tôi, tôi không quan tâm."
+        },
+        {
+            "en": "Megan had so many ideas – ideas that could easily merge with his.",
+            "vi": "Megan có rất nhiều ý tưởng - những ý tưởng có thể dễ dàng hợp nhất với của anh ấy."
+        }
+    ],
+    "words_form": [
+        "merged",
+        "merges",
+        "merging"
+    ],
+    "meaning_vi": "hợp nhất"
+}

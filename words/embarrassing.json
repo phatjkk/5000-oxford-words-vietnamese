@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/əmˈbɛrəsɪŋ/"
+    ],
+    "synonyms": [
+        "awkward",
+        "disturbing",
+        "mortifying",
+        "humiliating",
+        "shameful"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of embarrassing is something that causes a feeling of humiliation or that is awkward and hard to deal with.",
+            "vi": "Định nghĩa của xấu hổ là điều gì đó gây ra cảm giác bẽ mặt hoặc khó xử và khó giải quyết."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of embarrass.",
+            "vi": "Hiện tại phân từ của sự xấu hổ."
+        },
+        {
+            "pos": "noun",
+            "en": "The action of the verb to embarrass.",
+            "vi": "Hành động của động từ làm xấu hổ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This is embarrassing, but I really need the money for gro­ceries.",
+            "vi": "Điều này thật đáng xấu hổ, nhưng tôi thực sự cần tiền để mua hàng tạp hóa."
+        },
+        {
+            "en": "I suppose it's getting a little embarrassing now.",
+            "vi": "Tôi cho rằng nó đang trở nên hơi xấu hổ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "lúng túng"
+}

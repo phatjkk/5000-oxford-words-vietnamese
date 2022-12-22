@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈhaɪ(ə)r/"
+    ],
+    "synonyms": [
+        "rent",
+        "obtain",
+        "employ",
+        "contract",
+        "hired hand"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Hire is defined as to employ, or to get services for payment.",
+            "vi": "Thuê được định nghĩa là để tuyển dụng, hoặc nhận các dịch vụ để thanh toán."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) One who is hired.",
+            "vi": "(không chính thức) Một người được thuê."
+        },
+        {
+            "pos": "idiom",
+            "en": "for hire  available for work or use in return for payment",
+            "vi": "cho thuê có sẵn cho công việc hoặc sử dụng để đổi lại thanh toán"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He had to hire someone for the job.",
+            "vi": "Anh ta phải thuê một người nào đó cho công việc này."
+        },
+        {
+            "en": "I could hire a man with the same attitude.",
+            "vi": "Tôi có thể thuê một người đàn ông có cùng thái độ."
+        }
+    ],
+    "words_form": [
+        "hired",
+        "hires",
+        "hiring"
+    ],
+    "meaning_vi": "cho thuê"
+}

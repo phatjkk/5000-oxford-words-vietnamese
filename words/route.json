@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/rut/",
+        "/raʊt/"
+    ],
+    "synonyms": [
+        "path",
+        "direction",
+        "course",
+        "highway",
+        "drive"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a route is a path for travel.",
+            "vi": "Định nghĩa của một tuyến đường là một con đường để đi du lịch."
+        },
+        {
+            "pos": "verb",
+            "en": "To fix the order of procedure of (a series of operations, etc.)",
+            "vi": "Để sửa thứ tự thủ tục của (một loạt các thao tác, v.v.)"
+        },
+        {
+            "pos": "idiom",
+            "en": "go the route  to pitch an entire game",
+            "vi": "đi theo lộ trình để giới thiệu toàn bộ trò chơi"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If she saw an escape route, she was gone.",
+            "vi": "Nếu cô ấy nhìn thấy một lối thoát, cô ấy đã biến mất."
+        },
+        {
+            "en": "There was no real way to know which route she might've taken.",
+            "vi": "Không có cách nào thực sự để biết cô ấy có thể đã đi theo con đường nào."
+        }
+    ],
+    "words_form": [
+        "routed",
+        "routes",
+        "routing"
+    ],
+    "meaning_vi": "tuyến đường"
+}

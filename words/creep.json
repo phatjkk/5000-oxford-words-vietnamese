@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/krip/"
+    ],
+    "synonyms": [
+        "sneak",
+        "grovel",
+        "crawl",
+        "lurk",
+        "slither"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of creeping; a creeping motion or progress.",
+            "vi": "Hành động leo trèo; một chuyển động hoặc tiến trình leo thang."
+        },
+        {
+            "pos": "verb",
+            "en": "To have a tingling sensation, made by or as if by things moving stealthily.",
+            "vi": "Có cảm giác ngứa ran, được tạo ra bởi hoặc như thể bởi những thứ di chuyển lén lút."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(derogatory) The Committee to Re-elect the President, which raised money for Richard Nixon's campaign for 1972 reelection.",
+            "vi": "(xúc phạm) Ủy ban Bầu cử lại Tổng thống, tổ chức quyên góp tiền cho chiến dịch tái tranh cử năm 1972 của Richard Nixon."
+        },
+        {
+            "pos": "idiom",
+            "en": "creep out  to make frightened or disgusted",
+            "vi": "leo ra ngoài để làm cho sợ hãi hoặc ghê tởm"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll be as quiet as a kitten in slippers as I creep up to the bedroom.",
+            "vi": "Tôi sẽ yên lặng như một con mèo con đi dép lê khi tôi đi vào phòng ngủ."
+        },
+        {
+            "en": "Instead, he watched red creep up Dan's face.",
+            "vi": "Thay vào đó, anh nhìn thấy màu đỏ đang len lỏi trên khuôn mặt của Dan."
+        }
+    ],
+    "words_form": [
+        "creeping",
+        "creeps",
+        "crept"
+    ],
+    "meaning_vi": "leo"
+}

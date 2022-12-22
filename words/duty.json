@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈd(j)udi/"
+    ],
+    "synonyms": [
+        "responsibility",
+        "task",
+        "job",
+        "commitment",
+        "good faith"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a duty is something that is required by one's religion, job, position or the laws.",
+            "vi": "Định nghĩa về nghĩa vụ là một cái gì đó được yêu cầu bởi tôn giáo, công việc, chức vụ hoặc luật pháp của một người."
+        },
+        {
+            "pos": "idiom",
+            "en": "duty bound  Obliged: You are duty bound to help your little sister and brother.",
+            "vi": "bổn phận ràng buộc Nghĩa vụ: Bạn có bổn phận phải giúp đỡ em gái và em trai của mình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The sheriff has a duty to investigate.",
+            "vi": "Cảnh sát trưởng có nhiệm vụ điều tra."
+        },
+        {
+            "en": "I'm off duty, you know.",
+            "vi": "Tôi đang làm nhiệm vụ, bạn biết đấy."
+        }
+    ],
+    "words_form": [
+        "duties"
+    ],
+    "meaning_vi": "nhiệm vụ"
+}

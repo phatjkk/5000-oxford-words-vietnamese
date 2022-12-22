@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/lɔ/"
+    ],
+    "synonyms": [
+        "axiom",
+        "decisions",
+        "tenet",
+        "constitution",
+        "statute"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of law is a set of conduct rules established by an authority, custom or agreement.",
+            "vi": "Định nghĩa của luật là một tập hợp các quy tắc ứng xử được thiết lập bởi một cơ quan có thẩm quyền, tập quán hoặc thỏa thuận."
+        },
+        {
+            "pos": "verb",
+            "en": "(informal, dial.) To take legal action (against)",
+            "vi": "(không chính thức, quay số.) Để thực hiện hành động pháp lý (chống lại)"
+        },
+        {
+            "pos": "interjection",
+            "en": "(dated) An exclamation of mild surprise; lawks.",
+            "vi": "(ghi ngày tháng) Một câu cảm thán về sự ngạc nhiên nhẹ; bãi cỏ."
+        },
+        {
+            "pos": "idiom",
+            "en": "a law unto (oneself)  A totally independent operator: An executive who is a law unto herself.",
+            "vi": "a law u to (chính mình) Người điều hành hoàn toàn độc lập: Người điều hành là luật đối với chính mình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In contrast, courts of law apply the law to everyone.",
+            "vi": "Ngược lại, các tòa án áp dụng luật cho tất cả mọi người."
+        },
+        {
+            "en": "I know the law very well, mates!",
+            "vi": "Tôi biết luật rất rõ, bạn tình!"
+        }
+    ],
+    "words_form": [
+        "laws"
+    ],
+    "meaning_vi": "luật"
+}

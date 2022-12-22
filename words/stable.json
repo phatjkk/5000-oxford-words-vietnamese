@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈsteɪbəl/"
+    ],
+    "synonyms": [
+        "fast",
+        "coop",
+        "sure",
+        "stationary",
+        "inconstant"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To live in a stable.",
+            "vi": "Sống trong chuồng."
+        },
+        {
+            "pos": "adjective",
+            "en": "(physics) Having no known mode of decay; indefinitely long-lived. Used of atomic particles.",
+            "vi": "(vật lý) Không có phương thức phân rã nào được biết đến; tồn tại lâu dài vô thời hạn. Được sử dụng của các hạt nguyên tử."
+        },
+        {
+            "pos": "noun",
+            "en": "A group, as of athletes or entertainers, under common management.",
+            "vi": "Một nhóm, với tư cách là vận động viên hoặc nghệ sĩ giải trí, dưới sự quản lý chung."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I think a few days cleaning in the stable would pay for it.",
+            "vi": "Tôi nghĩ rằng một vài ngày dọn dẹp trong chuồng sẽ trả tiền cho nó."
+        },
+        {
+            "en": "I'll go stable the horse.",
+            "vi": "Tôi sẽ đi ổn định con ngựa."
+        }
+    ],
+    "words_form": [
+        "stabled",
+        "stabler",
+        "stables",
+        "stablest",
+        "stabling"
+    ],
+    "meaning_vi": "ổn định"
+}

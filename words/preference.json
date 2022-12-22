@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈprɛf(ə)rəns/"
+    ],
+    "synonyms": [
+        "choice",
+        "like",
+        "wish",
+        "advancement",
+        "prejudice"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Preference is liking one thing or one person better than others.",
+            "vi": "Sở thích là thích một thứ hoặc một người tốt hơn những người khác."
+        },
+        {
+            "pos": "verb",
+            "en": "(US) To give preferential treatment to; to give a preference to.",
+            "vi": "(Hoa Kỳ) Đối xử ưu đãi đối với; để đưa ra một ưu tiên cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Their dates had been modest, but was that by preference, or because he had limited funding?",
+            "vi": "Thời gian hẹn hò của họ khá khiêm tốn, nhưng đó là do sở thích, hay vì anh ấy có kinh phí hạn chế?"
+        },
+        {
+            "en": "The chef can spice your entree to your preference from mild to vary spicy.",
+            "vi": "Đầu bếp có thể thêm gia vị tùy theo sở thích của bạn từ cay nhẹ đến cay khác nhau."
+        }
+    ],
+    "words_form": [
+        "preferences"
+    ],
+    "meaning_vi": "sở thích"
+}

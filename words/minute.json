@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈmɪnɪt/"
+    ],
+    "synonyms": [
+        "tiny",
+        "diminutive",
+        "wee",
+        "puny",
+        "fine"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Minute is defined as to record the actions in a meeting or to time the exact number of minutes used to do something.",
+            "vi": "Minute được định nghĩa là để ghi lại các hành động trong một cuộc họp hoặc để tính thời gian số phút chính xác được sử dụng để làm một việc gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of minute is very small or of little importance.",
+            "vi": "Định nghĩa về phút là rất nhỏ hoặc ít quan trọng."
+        },
+        {
+            "pos": "noun",
+            "en": "A minute is 60 seconds or a short amount of time.",
+            "vi": "Một phút là 60 giây hoặc một khoảng thời gian ngắn."
+        },
+        {
+            "pos": "idiom",
+            "en": "the minute (that)  just as soon as",
+            "vi": "phút (đó) ngay khi"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "For a minute there, I thought I was getting forgetful.",
+            "vi": "Trong một phút ở đó, tôi nghĩ rằng tôi đã trở nên quên mất."
+        },
+        {
+            "en": "I need a minute to cool down.",
+            "vi": "Tôi cần một phút để hạ nhiệt."
+        }
+    ],
+    "words_form": [
+        "minuted",
+        "minutes",
+        "minuting"
+    ],
+    "meaning_vi": "phút"
+}

@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈɡræfɪk/"
+    ],
+    "synonyms": [
+        "lifelike",
+        "sketched",
+        "picturesque",
+        "graphics",
+        "definite"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A diagram or image used for illustration, as in a lecture.",
+            "vi": "Một sơ đồ hoặc hình ảnh được sử dụng để minh họa, như trong một bài giảng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to graphics.",
+            "vi": "Của hoặc liên quan đến đồ họa."
+        },
+        {
+            "pos": "affix",
+            "en": "Of or relating to a (specified) method or process for recording or describing.",
+            "vi": "Về hoặc liên quan đến một phương pháp hoặc quy trình (được chỉ định) để ghi lại hoặc mô tả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A graphic account of this is given in Livingstone's travels.",
+            "vi": "Một tài liệu đồ họa về điều này được đưa ra trong các chuyến du lịch của Livingstone."
+        },
+        {
+            "en": "Another consequence of the doctrine of valency was that it permitted the graphic representation of the molecule.",
+            "vi": "Một hệ quả khác của học thuyết về giá trị là nó cho phép biểu diễn bằng hình ảnh của phân tử."
+        }
+    ],
+    "words_form": [
+        "graphical",
+        "graphics"
+    ],
+    "meaning_vi": "đồ họa"
+}

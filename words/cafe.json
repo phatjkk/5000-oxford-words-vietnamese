@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/kæˈfeɪ/",
+        "/kəˈfeɪ/"
+    ],
+    "synonyms": [
+        "cafeteria",
+        "cabaret",
+        "coffeehouse",
+        "diner",
+        "nightclub"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A restaurant serving coffee and other beverages along with baked goods or light meals.",
+            "vi": "Một nhà hàng phục vụ cà phê và đồ uống khác cùng với bánh nướng hoặc các bữa ăn nhẹ."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Corporate Average Fuel Economy.",
+            "vi": "Tiết kiệm nhiên liệu trung bình của doanh nghiệp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He hopped into the car, directing her to the small Cafe a few miles down the road.",
+            "vi": "Anh nhảy lên xe, hướng cô đến quán Cafe nhỏ cách đó vài dặm."
+        },
+        {
+            "en": "The Fred O'Connor Cyber Cafe was unplugged from electronic connection to the world at large, as the old gentleman was taking his sweet time moving his belongings downstairs.",
+            "vi": "Quán cà phê Fred O'Connor Cyber ​​Cafe đã bị ngắt kết nối điện tử với thế giới nói chung, khi một quý ông lớn tuổi đang dành thời gian ngọt ngào để chuyển đồ đạc của mình xuống tầng dưới."
+        }
+    ],
+    "words_form": [
+        "cafes"
+    ],
+    "meaning_vi": "quán cà phê"
+}

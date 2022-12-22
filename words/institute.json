@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈɪnstəˌt(j)ut/"
+    ],
+    "synonyms": [
+        "initiate",
+        "found",
+        "edict",
+        "rite",
+        "set to"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an institute is an organization or school.",
+            "vi": "Định nghĩa của viện là một tổ chức hoặc trường học."
+        },
+        {
+            "pos": "verb",
+            "en": "To institute is defined as to start, establish or set up.",
+            "vi": "To Institute được định nghĩa là bắt đầu, thiết lập hoặc thiết lập."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Established; organized; founded.",
+            "vi": "(lỗi thời) Được thành lập; được tổ chức; thành lập."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The institute had 55 instructors and 650 students in 1910.",
+            "vi": "Học viện có 55 giảng viên và 650 sinh viên vào năm 1910."
+        },
+        {
+            "en": "The town possesses a literary and scientific institute (1850).",
+            "vi": "Thị trấn sở hữu một viện văn học và khoa học (1850)."
+        }
+    ],
+    "words_form": [
+        "instituted",
+        "institutes",
+        "instituting"
+    ],
+    "meaning_vi": "học viện"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/klæʃ/"
+    ],
+    "synonyms": [
+        "crash",
+        "controversy",
+        "faction",
+        "fight",
+        "impact"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To clash is to disagree or be in conflict.",
+            "vi": "Xung đột là không đồng ý hoặc xung đột."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a clash is a loud metallic bang, or a sharp disagreement.",
+            "vi": "Định nghĩa của một cuộc đụng độ là một tiếng nổ lớn bằng kim loại, hoặc một sự bất đồng gay gắt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A clash with Parma occurred to aggravate his troubles.",
+            "vi": "Một cuộc đụng độ với Parma đã xảy ra để làm trầm trọng thêm những rắc rối của anh ta."
+        },
+        {
+            "en": "The natives appeared again the next spring, and a clash occurred.",
+            "vi": "Những người bản xứ lại xuất hiện vào mùa xuân năm sau, và một cuộc đụng độ đã xảy ra."
+        }
+    ],
+    "words_form": [
+        "clashed",
+        "clashes",
+        "clashing"
+    ],
+    "meaning_vi": "sự xung đột"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/draʊt/"
+    ],
+    "synonyms": [
+        "dryness",
+        "shortage",
+        "aridity",
+        "lack",
+        "famine"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Drought is defined as a long period of time when there is no rain.",
+            "vi": "Hạn hán được định nghĩa là một khoảng thời gian dài không có mưa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Heat and drought had continued for more than three weeks.",
+            "vi": "Nắng nóng và hạn hán đã tiếp tục trong hơn ba tuần."
+        },
+        {
+            "en": "The drought is severe; rain falls rarely and in small quantities.",
+            "vi": "Hạn hán nghiêm trọng; mưa rơi hiếm khi và số lượng ít."
+        }
+    ],
+    "words_form": [
+        "droughts"
+    ],
+    "meaning_vi": "hạn hán"
+}

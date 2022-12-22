@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/pəˈlis/"
+    ],
+    "synonyms": [
+        "cop",
+        "police-force",
+        "policemen",
+        "military-police",
+        "peace officer"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Police is defined as members of law enforcement, or people vested with the power to make or enforce rules in a certain area or on a certain topic.",
+            "vi": "Cảnh sát được định nghĩa là thành viên của cơ quan thực thi pháp luật, hoặc những người được trao quyền đưa ra hoặc thực thi các quy tắc trong một lĩnh vực nhất định hoặc về một chủ đề nhất định."
+        },
+        {
+            "pos": "verb",
+            "en": "Police means to enforce the rules, or to enforce law and order.",
+            "vi": "Cảnh sát có nghĩa là thực thi các quy tắc, hoặc thực thi luật pháp và trật tự."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Let the police check him out!",
+            "vi": "Hãy để cảnh sát kiểm tra anh ta!"
+        },
+        {
+            "en": "We have a police force and a court system to apply the laws equally to all.",
+            "vi": "Chúng tôi có lực lượng cảnh sát và hệ thống tòa án để áp dụng luật bình đẳng cho tất cả mọi người."
+        }
+    ],
+    "words_form": [
+        "policed",
+        "polices",
+        "policing"
+    ],
+    "meaning_vi": "cảnh sát"
+}

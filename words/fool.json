@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ful/"
+    ],
+    "synonyms": [
+        "idiot",
+        "blockhead",
+        "wiseacre",
+        "lamebrain",
+        "laughingstock"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One who is deficient in judgment, sense, or understanding.",
+            "vi": "Một người thiếu khả năng phán đoán, cảm nhận hoặc hiểu biết."
+        },
+        {
+            "pos": "verb",
+            "en": "To deceive or trick; dupe.",
+            "vi": "Để lừa dối hoặc bịp bợm; dupe."
+        },
+        {
+            "pos": "adjective",
+            "en": "Foolish; stupid.",
+            "vi": "Khờ dại; dốt nát."
+        },
+        {
+            "pos": "idiom",
+            "en": "play  To act in an irresponsible or foolish manner. To behave in a playful or comical manner.",
+            "vi": "chơi Để hành động một cách vô trách nhiệm hoặc dại dột. Cư xử một cách vui tươi hoặc hài hước."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You're a bigger fool than I thought.",
+            "vi": "Bạn là một kẻ ngốc lớn hơn tôi nghĩ."
+        },
+        {
+            "en": "You made a fool out of me in front of everyone.",
+            "vi": "Anh đã làm tôi ngu ngốc trước mặt mọi người."
+        }
+    ],
+    "words_form": [
+        "fooled",
+        "fooling",
+        "fools"
+    ],
+    "meaning_vi": "ngu xuẩn"
+}

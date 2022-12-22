@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɡən/"
+    ],
+    "synonyms": [
+        "piece",
+        "ordnance",
+        "revolver",
+        "equalizer",
+        "firearm"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a gun is a weapon with a metal tube that fires bullets or other explosives, or a device with a tube that shoots objects at a target.",
+            "vi": "Định nghĩa về súng là một vũ khí có ống kim loại bắn đạn hoặc chất nổ khác, hoặc một thiết bị có ống bắn các vật thể vào mục tiêu."
+        },
+        {
+            "pos": "verb",
+            "en": "To open the throttle of (an engine) so as to accelerate.",
+            "vi": "Để mở bướm ga của (động cơ) để tăng tốc."
+        },
+        {
+            "pos": "idiom",
+            "en": "go great guns  To proceed or perform with great speed, skill, or success.",
+            "vi": "đi những khẩu súng tuyệt vời Để tiến hành hoặc thực hiện với tốc độ, kỹ năng tuyệt vời hoặc thành công."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I never shot a gun in my life.",
+            "vi": "Tôi chưa bao giờ bắn súng trong đời."
+        },
+        {
+            "en": "He raised his gun and fired at the great beast.",
+            "vi": "Anh ta giơ súng lên và bắn vào con thú lớn."
+        }
+    ],
+    "words_form": [
+        "gunned",
+        "gunning",
+        "guns"
+    ],
+    "meaning_vi": "súng"
+}

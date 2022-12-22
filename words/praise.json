@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/preɪz/"
+    ],
+    "synonyms": [
+        "praise",
+        "cheering",
+        "commend",
+        "compliment",
+        "acclaim"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To express a feeling of veneration or gratitude to (a deity); worship or glorify.",
+            "vi": "Để bày tỏ cảm giác tôn kính hoặc biết ơn đối với (một vị thần); tôn thờ hoặc tôn vinh."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of praise is communication about someone's good work or qualities.",
+            "vi": "Định nghĩa của khen ngợi là sự truyền đạt về công việc hoặc phẩm chất tốt của một người nào đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "praise be!  an exclamation of surprise, joy, etc.",
+            "vi": "Khen ngợi! một câu cảm thán về sự ngạc nhiên, vui sướng, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Pete was conservative with his praise, so she felt honored.",
+            "vi": "Pete tỏ ra dè dặt với những lời khen ngợi của anh, vì vậy cô cảm thấy rất vinh dự."
+        },
+        {
+            "en": "This praise won Jim completely.",
+            "vi": "Lời khen ngợi này đã chiến thắng Jim hoàn toàn."
+        }
+    ],
+    "words_form": [
+        "praised",
+        "praises",
+        "praising"
+    ],
+    "meaning_vi": "khen ngợi"
+}

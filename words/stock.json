@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/stɑk/"
+    ],
+    "synonyms": [
+        "stalk",
+        "stockpile",
+        "store",
+        "trite",
+        "common"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Stock means a share in the ownership of a company.",
+            "vi": "Cổ phiếu có nghĩa là một cổ phần trong quyền sở hữu của một công ty."
+        },
+        {
+            "pos": "verb",
+            "en": "To provide (a rifle, for example) with a stock.",
+            "vi": "Để cung cấp (ví dụ: một khẩu súng trường) cùng với một kho."
+        },
+        {
+            "pos": "suffix",
+            "en": "Forming the names of theme-based festivals or concerts.",
+            "vi": "Hình thành tên của các lễ hội hoặc buổi hòa nhạc theo chủ đề."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of stock is something that is in normal supply or common.",
+            "vi": "Định nghĩa về cổ phiếu là thứ có nguồn cung bình thường hoặc thông dụng."
+        },
+        {
+            "pos": "idiom",
+            "en": "in stock  Available for sale or use; on hand.",
+            "vi": "trong kho Có sẵn để bán hoặc sử dụng; trên tay."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Guess we should start stock piling bottles.",
+            "vi": "Đoán là chúng ta nên bắt đầu chất đống chai lọ."
+        },
+        {
+            "en": "\"Better stock up on Merlot,\" Martha said on a slow morning.",
+            "vi": "Martha nói vào một buổi sáng chậm chạp."
+        }
+    ],
+    "words_form": [
+        "stocked",
+        "stocking",
+        "stocks"
+    ],
+    "meaning_vi": "hàng dự trữ"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˈdɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "version",
+        "format",
+        "impression",
+        "reprint",
+        "publication"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One that closely resembles an original; a version.",
+            "vi": "Một cái gần giống với một bản gốc; một phiên bản."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Grubb's duplex micrometer is described in the 9th edition of the Encyclopaedia Britannica.",
+            "vi": "Panme đo hai mặt của Grubb được mô tả trong ấn bản thứ 9 của Bách khoa toàn thư Britannica."
+        },
+        {
+            "en": "An edition of his Latin lyrics appeared at Regensburg in 1884.",
+            "vi": "Một ấn bản của lời bài hát tiếng Latinh của ông đã xuất hiện tại Regensburg vào năm 1884."
+        }
+    ],
+    "words_form": [
+        "editions"
+    ],
+    "meaning_vi": "bản"
+}

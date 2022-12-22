@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ʃɑk/"
+    ],
+    "synonyms": [
+        "please",
+        "humor",
+        "clash",
+        "startle",
+        "comfort"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(archaic) To come together violently; collide.",
+            "vi": "(cổ xưa) Đến với nhau một cách dữ dội; va chạm."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a shock is a sudden powerful disturbance, shake or blow.",
+            "vi": "Định nghĩa của một cú sốc là một sự xáo trộn, rung lắc hoặc thổi mạnh đột ngột."
+        },
+        {
+            "pos": "adjective",
+            "en": "(informal) Of or characterized by content that is intentionally shocking, offensive, vulgar, etc.",
+            "vi": "(không chính thức) Có hoặc được đặc trưng bởi nội dung cố ý gây sốc, xúc phạm, thô tục, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Does that shock you?",
+            "vi": "Điều đó có gây sốc cho bạn không?"
+        },
+        {
+            "en": "His shock wore off, replaced by anger.",
+            "vi": "Sự bàng hoàng của anh ấy biến mất, thay vào đó là sự tức giận."
+        }
+    ],
+    "words_form": [
+        "shocked",
+        "shocks"
+    ],
+    "meaning_vi": "sốc"
+}

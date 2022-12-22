@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈɑrɡjəmənt/"
+    ],
+    "synonyms": [
+        "debate",
+        "conflict",
+        "squabble",
+        "quarrel",
+        "ground"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(logic) The minor premise in a syllogism.",
+            "vi": "(logic) Tiền đề thứ yếu trong thuyết âm tiết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They'll get no argument from me.",
+            "vi": "Họ sẽ không tranh luận từ tôi."
+        },
+        {
+            "en": "His words stung, and any further argument died on her lips as she realized how serious he was.",
+            "vi": "Lời nói của anh ta cay cay, và bất kỳ cuộc tranh cãi nào nữa tắt lịm trên môi cô khi cô nhận ra anh ta nghiêm túc như thế nào."
+        }
+    ],
+    "words_form": [
+        "arguments"
+    ],
+    "meaning_vi": "tranh luận"
+}

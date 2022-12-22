@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rul/"
+    ],
+    "synonyms": [
+        "command",
+        "politics",
+        "government",
+        "govern",
+        "ironclad"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Rule is defined as to have influence or authority over others.",
+            "vi": "Quy tắc được định nghĩa là có ảnh hưởng hoặc quyền hạn đối với người khác."
+        },
+        {
+            "pos": "noun",
+            "en": "Something that usually or normally happens or obtains; customary course of events.",
+            "vi": "Điều gì đó thường xảy ra hoặc bình thường xảy ra hoặc đạt được; diễn biến thông lệ của các sự kiện."
+        },
+        {
+            "pos": "idiom",
+            "en": "as a rule  In general; for the most part: As a rule, we take the bus.",
+            "vi": "như một quy luật Nói chung; phần lớn: Theo quy định, chúng tôi đi xe buýt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But I didn't make that rule up.",
+            "vi": "Nhưng tôi đã không đưa ra quy tắc đó."
+        },
+        {
+            "en": "I always make it a rule to speak out.",
+            "vi": "Tôi luôn coi nó là một quy tắc để nói ra."
+        }
+    ],
+    "words_form": [
+        "ruled",
+        "rules",
+        "ruling"
+    ],
+    "meaning_vi": "quy tắc"
+}

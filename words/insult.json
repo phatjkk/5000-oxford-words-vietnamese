@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɪnˈsəlt/"
+    ],
+    "synonyms": [
+        "snub",
+        "affront",
+        "insolence",
+        "mockery",
+        "vilification"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an insult is a rude or offending remark.",
+            "vi": "Định nghĩa của một sự xúc phạm là một nhận xét thô lỗ hoặc xúc phạm."
+        },
+        {
+            "pos": "verb",
+            "en": "To behave arrogantly.",
+            "vi": "Cư xử kiêu ngạo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Don't insult them by refusing their hospitality.",
+            "vi": "Đừng xúc phạm họ bằng cách từ chối sự hiếu khách của họ."
+        },
+        {
+            "en": "I don't mean to insult them.",
+            "vi": "Tôi không có ý xúc phạm họ."
+        }
+    ],
+    "words_form": [
+        "insulted",
+        "insulting",
+        "insults"
+    ],
+    "meaning_vi": "xúc phạm"
+}

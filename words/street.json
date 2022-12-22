@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/strit/"
+    ],
+    "synonyms": [
+        "road",
+        "path",
+        "lane",
+        "avenue",
+        "highway"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of street is something on or close to the road, something acceptable in general public or a person or thing that relates to city life.",
+            "vi": "Định nghĩa về đường phố là một cái gì đó trên hoặc gần đường, một cái gì đó được công chúng chấp nhận hoặc một người hoặc một thứ liên quan đến cuộc sống thành phố."
+        },
+        {
+            "pos": "noun",
+            "en": "The common public viewed as a repository of public attitudes and understanding.",
+            "vi": "Công chúng được xem như một kho lưu trữ thái độ và hiểu biết của công chúng."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "on  Without a job; idle. Without a home; homeless. Out of prison; at liberty.",
+            "vi": "về Không có việc làm; nhàn rỗi. Không có nhà; Vô gia cư. Ra tù; một cách tự do."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He walked up the street to the next block.",
+            "vi": "Anh ta đi bộ lên phố để đến dãy nhà tiếp theo."
+        },
+        {
+            "en": "Lots of the folks on the street had poor teeth and most of their clothes were practically rags.",
+            "vi": "Rất nhiều người trên đường phố có hàm răng kém và hầu hết quần áo của họ thực tế là rách rưới."
+        }
+    ],
+    "words_form": [
+        "streets"
+    ],
+    "meaning_vi": "con phố, đường"
+}

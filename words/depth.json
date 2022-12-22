@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/dɛpθ/"
+    ],
+    "synonyms": [
+        "deepness",
+        "profundity",
+        "chasm",
+        "measure",
+        "extent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A deep part or place.",
+            "vi": "Một phần hoặc một nơi sâu."
+        },
+        {
+            "pos": "idiom",
+            "en": "in depth  in a thorough and comprehensive way Analysis in depth.",
+            "vi": "chiều sâu một cách thấu đáo và toàn diện Phân tích theo chiều sâu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He understood the depth of her fear.",
+            "vi": "Anh hiểu sâu sắc nỗi sợ hãi của cô."
+        },
+        {
+            "en": "It was difficult to describe the depth of her feelings.",
+            "vi": "Thật khó để mô tả chiều sâu của cảm xúc của cô ấy."
+        }
+    ],
+    "words_form": [
+        "depths"
+    ],
+    "meaning_vi": "độ sâu"
+}

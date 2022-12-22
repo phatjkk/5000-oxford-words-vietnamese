@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/mɪks/"
+    ],
+    "synonyms": [
+        "blend",
+        "homogenize",
+        "intermix",
+        "whisk",
+        "alloy"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To become involved.",
+            "vi": "Để trở nên tham gia."
+        },
+        {
+            "pos": "noun",
+            "en": "An animal resulting from interbreeding, especially a dog or cat of mixed breed.",
+            "vi": "Động vật do lai tạo, đặc biệt là chó hoặc mèo thuộc giống lai."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) mix it up  To fight.",
+            "vi": "(tiếng lóng) trộn nó lên Để chiến đấu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't mix the two.",
+            "vi": "Tôi không kết hợp cả hai."
+        },
+        {
+            "en": "Even the scent of the room was a dark mix of oak and amber.",
+            "vi": "Ngay cả mùi hương của căn phòng cũng là sự pha trộn tối của gỗ sồi và hổ phách."
+        }
+    ],
+    "words_form": [
+        "mixed",
+        "mixes",
+        "mixing"
+    ],
+    "meaning_vi": "trộn"
+}

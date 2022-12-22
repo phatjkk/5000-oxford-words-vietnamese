@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈdʒɛndər/"
+    ],
+    "synonyms": [
+        "sex",
+        "female",
+        "male",
+        "kind",
+        "identity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Gender is defined as the socially constructed roles and behaviors that a society typically associates with males and females.",
+            "vi": "Giới được định nghĩa là các vai trò và hành vi được xây dựng về mặt xã hội mà một xã hội thường gắn với nam và nữ."
+        },
+        {
+            "pos": "verb",
+            "en": "(sociology) To assign a gender to; to perceive as having a gender, or having been authored etc. by someone of that gender.",
+            "vi": "(xã hội học) Để chỉ định một giới tính cho; nhận thức là có một giới tính hoặc đã được tác giả bởi một người nào đó thuộc giới tính đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Did you know that the female gender had a guardian?",
+            "vi": "Bạn có biết rằng giới tính nữ đã có người giám hộ?"
+        },
+        {
+            "en": "The female protestor launched into a tirade about the injustices of gender discrimination.",
+            "vi": "Người biểu tình nữ đã đưa ra một bài châm biếm về sự bất công của phân biệt giới tính."
+        }
+    ],
+    "words_form": [
+        "genders"
+    ],
+    "meaning_vi": "giới tính"
+}

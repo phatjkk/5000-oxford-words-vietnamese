@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈstrək(t)ʃər/"
+    ],
+    "synonyms": [
+        "fabrication",
+        "construction",
+        "building",
+        "house",
+        "formation"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Structure means to purposefully arrange something in a specific way.",
+            "vi": "Cấu trúc có nghĩa là sắp xếp một cách có chủ đích một cái gì đó theo một cách cụ thể."
+        },
+        {
+            "pos": "noun",
+            "en": "The arrangement or interrelation of all the parts of a whole; manner of organization or construction.",
+            "vi": "Sự sắp xếp hoặc tương quan của tất cả các bộ phận của một tổng thể; cách thức tổ chức hoặc xây dựng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A small door in the stone structure opened.",
+            "vi": "Một cánh cửa nhỏ trong cấu trúc bằng đá mở ra."
+        },
+        {
+            "en": "He formalized the structure of medical inquiry as an independent science.",
+            "vi": "Ông chính thức hóa cấu trúc của điều tra y tế như một môn khoa học độc lập."
+        }
+    ],
+    "words_form": [
+        "structured",
+        "structures",
+        "structuring"
+    ],
+    "meaning_vi": "kết cấu"
+}

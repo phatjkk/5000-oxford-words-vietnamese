@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/speɪs/"
+    ],
+    "synonyms": [
+        "interplanetary",
+        "interstellar",
+        "spacial",
+        "place",
+        "room"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a space is an empty, blank or available area.",
+            "vi": "Định nghĩa của một không gian là một vùng trống, trống hoặc có sẵn."
+        },
+        {
+            "pos": "verb",
+            "en": "To separate or keep apart.",
+            "vi": "Để tách biệt hoặc tách rời nhau."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or pertaining to space, esp. to outer space.",
+            "vi": "Về hoặc liên quan đến không gian, đặc biệt. ra không gian bên ngoài."
+        },
+        {
+            "pos": "idiom",
+            "en": "space out  to insert more space between letters, words, or lines so as to extend to the required length to be or seem to be in a daze, distracted, inattentive, etc.",
+            "vi": "khoảng trống để chèn thêm khoảng cách giữa các chữ cái, từ hoặc dòng để kéo dài đến độ dài cần thiết hoặc có vẻ như đang lơ mơ, mất tập trung, không chú ý, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't see a space ship!",
+            "vi": "Tôi không nhìn thấy một con tàu không gian!"
+        },
+        {
+            "en": "An empty space of some seven hundred yards was all that separated them.",
+            "vi": "Một khoảng trống khoảng bảy trăm thước là tất cả những gì ngăn cách họ."
+        }
+    ],
+    "words_form": [
+        "spaced",
+        "spaces",
+        "spacing"
+    ],
+    "meaning_vi": "không gian"
+}

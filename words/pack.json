@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/pæk/"
+    ],
+    "synonyms": [
+        "package",
+        "box",
+        "packet",
+        "bundle",
+        "backpack"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Pack is defined as to put things together for storage or for moving from one place to another.",
+            "vi": "Đóng gói được định nghĩa là tập hợp mọi thứ lại với nhau để cất giữ hoặc để di chuyển từ nơi này sang nơi khác."
+        },
+        {
+            "pos": "noun",
+            "en": "A small package containing a standard number of identical or similar items.",
+            "vi": "Một gói nhỏ chứa một số lượng tiêu chuẩn các mặt hàng giống nhau hoặc tương tự."
+        },
+        {
+            "pos": "adjective",
+            "en": "Formed in a pack or packs.",
+            "vi": "Được tạo thành trong một gói hoặc nhiều gói."
+        },
+        {
+            "pos": "affix",
+            "en": "A package of (a specified number of) cans or bottles, as of beer.",
+            "vi": "Một gói (một số lượng cụ thể của) lon hoặc chai, kể từ bia."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) pack it in  To cease work or activity: Let's pack it in for the day.",
+            "vi": "(không chính thức) gói nó trong Để ngừng công việc hoặc hoạt động: Hãy đóng gói nó trong ngày."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Later she helped him pack his things in the car.",
+            "vi": "Sau đó cô giúp anh thu dọn đồ đạc lên xe."
+        },
+        {
+            "en": "Pierre, pack your things.",
+            "vi": "Pierre, đóng gói đồ đạc của anh."
+        }
+    ],
+    "words_form": [
+        "packed",
+        "packing",
+        "packs"
+    ],
+    "meaning_vi": "gói"
+}

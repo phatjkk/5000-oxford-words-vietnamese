@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/əˈlərt/"
+    ],
+    "synonyms": [
+        "alarm",
+        "warn",
+        "warning",
+        "sharp",
+        "wary"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Alert is defined as being awake and functioning at an energetic level.",
+            "vi": "Cảnh báo được định nghĩa là đang thức và hoạt động ở mức năng lượng."
+        },
+        {
+            "pos": "noun",
+            "en": "Alert means a public method of warning people, either to give them vital information or to report danger.",
+            "vi": "Cảnh báo có nghĩa là một phương pháp công khai để cảnh báo mọi người, cung cấp cho họ thông tin quan trọng hoặc báo cáo nguy hiểm."
+        },
+        {
+            "pos": "verb",
+            "en": "The definition of alert is to take action and warn people to be aware of something that has happened in the past, is presently occurring, or will happen in the future.",
+            "vi": "Định nghĩa của cảnh báo là thực hiện hành động và cảnh báo mọi người nhận thức được điều gì đó đã xảy ra trong quá khứ, hiện đang xảy ra hoặc sẽ xảy ra trong tương lai."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the alert  Watchful and prepared for danger, emergency, or opportunity: Bird watchers on the alert for a rare species.",
+            "vi": "Cảnh giác và chuẩn bị cho nguy hiểm, tình huống khẩn cấp hoặc cơ hội: Những người theo dõi chim cảnh báo về một loài quý hiếm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "How did you alert them?",
+            "vi": "Bạn đã cảnh báo họ như thế nào?"
+        },
+        {
+            "en": "He's always been so alert and in control.",
+            "vi": "Anh ấy luôn rất tỉnh táo và kiểm soát."
+        }
+    ],
+    "words_form": [
+        "alerted",
+        "alerting",
+        "alerts"
+    ],
+    "meaning_vi": "cảnh báo"
+}

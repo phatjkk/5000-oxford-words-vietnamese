@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌtræn(t)ˈspɛrənsi/"
+    ],
+    "synonyms": [
+        "transparence",
+        "clearness",
+        "clarity",
+        "foil",
+        "opacity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Transparency is the condition of being see-through.",
+            "vi": "Tính minh bạch là điều kiện để có thể nhìn xuyên qua."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In shallow seas the transparency is always reduced in rough weather.",
+            "vi": "Ở những vùng biển nông, độ trong suốt luôn bị giảm khi thời tiết khắc nghiệt."
+        },
+        {
+            "en": "If the aether were itself constituted of discrete molecules, on the model of material bodies, such transparency would not be conceivable.",
+            "vi": "Nếu bản thân các aether được tạo thành từ các phân tử rời rạc, trên mô hình của các cơ thể vật chất, thì độ trong suốt như vậy sẽ không thể hình dung được."
+        }
+    ],
+    "words_form": [
+        "transparencies"
+    ],
+    "meaning_vi": "minh bạch"
+}

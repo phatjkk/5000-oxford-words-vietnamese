@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈʃɔrdɪdʒ/"
+    ],
+    "synonyms": [
+        "inadequacy",
+        "insufficiency",
+        "deficit",
+        "deficiency",
+        "scarceness"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Not enough, not sufficient.",
+            "vi": "Không đủ, không đủ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was no shortage of rocks on the mountain.",
+            "vi": "Trên núi không thiếu đá."
+        },
+        {
+            "en": "There was shortage in equipment of every kind.",
+            "vi": "Thiếu thốn mọi loại thiết bị."
+        }
+    ],
+    "words_form": [
+        "shortages"
+    ],
+    "meaning_vi": "sự thiếu"
+}

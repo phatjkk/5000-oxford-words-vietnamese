@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/ʃoʊ/"
+    ],
+    "synonyms": [
+        "display",
+        "exhibit",
+        "dispense",
+        "determine",
+        "explicate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Show is defined as to bring into view, teach, or display.",
+            "vi": "Show được định nghĩa là để đưa vào xem, dạy hoặc hiển thị."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a show is a demonstration, display, or performance.",
+            "vi": "Định nghĩa của một buổi biểu diễn là một cuộc trình diễn, trưng bày hoặc trình diễn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Show describes something related to a performance.",
+            "vi": "Chương trình mô tả một cái gì đó liên quan đến một buổi biểu diễn."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) get the show on the road  To get started.",
+            "vi": "(tiếng lóng) nhận được chương trình trên đường Để bắt đầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll show you where you can sleep.",
+            "vi": "Tôi sẽ chỉ cho bạn nơi bạn có thể ngủ."
+        },
+        {
+            "en": "You'll have to show me these beautiful flowers.",
+            "vi": "Bạn sẽ phải cho tôi xem những bông hoa xinh đẹp này."
+        }
+    ],
+    "words_form": [
+        "showed",
+        "showing",
+        "shown",
+        "shows"
+    ],
+    "meaning_vi": "chỉ"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/kræʃ/"
+    ],
+    "synonyms": [
+        "accident",
+        "wreck",
+        "collision",
+        "overturn",
+        "topple"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Crash means to violently smash or break or to make a loud and sudden noise.",
+            "vi": "Crash có nghĩa là đập hoặc làm vỡ một cách thô bạo hoặc gây ra tiếng động lớn và đột ngột."
+        },
+        {
+            "pos": "noun",
+            "en": "A sudden loud noise, as of an object breaking.",
+            "vi": "Một tiếng động lớn đột ngột, như một vật thể bị vỡ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or characterized by an intensive effort to produce or accomplish.",
+            "vi": "Của hoặc được đặc trưng bởi nỗ lực chuyên sâu để sản xuất hoặc hoàn thành."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) crash and burn  To fail utterly.",
+            "vi": "(tiếng lóng) sụp đổ và đốt cháy Để thất bại hoàn toàn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A crash came from the hallway.",
+            "vi": "Một tiếng va chạm phát ra từ hành lang."
+        },
+        {
+            "en": "There was another terrible crash and something huge collapsed.",
+            "vi": "Có một vụ tai nạn khủng khiếp khác và một cái gì đó khổng lồ sụp đổ."
+        }
+    ],
+    "words_form": [
+        "crashed",
+        "crashes",
+        "crashing"
+    ],
+    "meaning_vi": "bị hỏng chương trình; tai nạn"
+}

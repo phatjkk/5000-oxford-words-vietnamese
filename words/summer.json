@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈsəmər/"
+    ],
+    "synonyms": [
+        "summery",
+        "vacation",
+        "hot",
+        "summertime",
+        "live"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Summer is the warm season of the year.",
+            "vi": "Mùa hè là mùa ấm áp trong năm."
+        },
+        {
+            "pos": "verb",
+            "en": "To pass the summer.",
+            "vi": "Để qua mùa hè."
+        },
+        {
+            "pos": "adjective",
+            "en": "Relating to or occurring in summer.",
+            "vi": "Liên quan đến hoặc xảy ra vào mùa hè."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A female given name of modern usage, for a girl born in summer.",
+            "vi": "Một tên nữ được sử dụng hiện đại, cho một cô gái sinh ra vào mùa hè."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was warm and sweet, like a summer rain.",
+            "vi": "Nó ấm áp và ngọt ngào, giống như một cơn mưa mùa hạ."
+        },
+        {
+            "en": "Living in that house and using the pool would be like a summer vacation, not a job.",
+            "vi": "Sống trong ngôi nhà đó và sử dụng hồ bơi sẽ giống như một kỳ nghỉ hè, không phải là một công việc."
+        }
+    ],
+    "words_form": [
+        "summered",
+        "summering",
+        "summers"
+    ],
+    "meaning_vi": "mùa hè"
+}

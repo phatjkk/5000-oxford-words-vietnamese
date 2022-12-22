@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/pɛt/"
+    ],
+    "synonyms": [
+        "cuddle",
+        "apple of one's eye",
+        "favorite",
+        "rabbit",
+        "pets"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a pet is a companion animal that you take care of and that keeps you company, like a dog or a cat.",
+            "vi": "Định nghĩa về thú cưng là một loài động vật đồng hành mà bạn chăm sóc và giúp bạn luôn đồng hành, chẳng hạn như một con chó hoặc một con mèo."
+        },
+        {
+            "pos": "verb",
+            "en": "To stroke or fondle amorously.",
+            "vi": "Để vuốt ve hoặc vuốt ve một cách đa tình."
+        },
+        {
+            "pos": "adjective",
+            "en": "Kept as a pet.",
+            "vi": "Giữ như một con vật cưng."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Positron emission tomography.",
+            "vi": "Chụp cắt lớp phát xạ positron."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He's a regular pet now.",
+            "vi": "Bây giờ anh ấy là một con vật cưng bình thường."
+        },
+        {
+            "en": "She kneeled down to pet the cat.",
+            "vi": "Cô quỳ xuống để cưng nựng con mèo."
+        }
+    ],
+    "words_form": [
+        "pets",
+        "petted",
+        "petting"
+    ],
+    "meaning_vi": "vật nuôi"
+}

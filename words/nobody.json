@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈnoʊˌbɑdi/",
+        "/ˈnoʊˌbədi/"
+    ],
+    "synonyms": [
+        "no one",
+        "absence",
+        "somebody",
+        "vip",
+        "zero"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person of no importance or influence.",
+            "vi": "Một người không có tầm quan trọng hoặc tầm ảnh hưởng."
+        },
+        {
+            "pos": "pronoun",
+            "en": "No person; not anyone.",
+            "vi": "Không có người; không phải bất cứ ai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maybe it was nobody at all.",
+            "vi": "Có lẽ đó không phải là ai cả."
+        },
+        {
+            "en": "Nobody could answer these questions.",
+            "vi": "Không ai có thể trả lời những câu hỏi này."
+        }
+    ],
+    "words_form": [
+        "nobodies",
+        "nobody"
+    ],
+    "meaning_vi": "không ai"
+}

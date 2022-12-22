@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈmɛn(t)ʃ(ə)n/"
+    ],
+    "synonyms": [
+        "specify",
+        "notice",
+        "state",
+        "advert",
+        "name"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To speak or write about, especially briefly or incidentally.",
+            "vi": "Để nói hoặc viết về, đặc biệt là ngắn gọn hoặc ngẫu nhiên."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of mention is a brief statement.",
+            "vi": "Định nghĩa của đề cập là một tuyên bố ngắn gọn."
+        },
+        {
+            "pos": "idiom",
+            "en": "not to mention  In addition to; as well as.",
+            "vi": "chưa kể Ngoài ra; cũng như."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He didn't even mention her family.",
+            "vi": "Anh thậm chí còn không đề cập đến gia đình cô."
+        },
+        {
+            "en": "There was no point alarming Connie about her situation, so she didn't mention the conversation with Giddon that had inspired the letter.",
+            "vi": "Không có gì đáng lo ngại cho Connie về tình hình của mình, vì vậy cô ấy không đề cập đến cuộc trò chuyện với Giddon đã truyền cảm hứng cho bức thư."
+        }
+    ],
+    "words_form": [
+        "mentioned",
+        "mentions"
+    ],
+    "meaning_vi": "đề cập"
+}

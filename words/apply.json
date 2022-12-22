@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈplaɪ/"
+    ],
+    "synonyms": [
+        "utilize",
+        "implement",
+        "appeal",
+        "affix",
+        "practice"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Apply means that something that is relevant or applicable to something else.",
+            "vi": "Áp dụng có nghĩa là một cái gì đó có liên quan hoặc có thể áp dụng cho một cái gì đó khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Alternative spelling of appley.",
+            "vi": "Cách viết khác của appley."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Different laws apply in different jurisdictions.",
+            "vi": "Các luật khác nhau được áp dụng ở các khu vực pháp lý khác nhau."
+        },
+        {
+            "en": "When confronted with any thorny societal problem, I apply the same basic thought process I used on the five topics of this book.",
+            "vi": "Khi đối mặt với bất kỳ vấn đề xã hội hóc búa nào, tôi áp dụng cùng một quy trình suy nghĩ cơ bản mà tôi đã sử dụng cho năm chủ đề của cuốn sách này."
+        }
+    ],
+    "words_form": [
+        "applied",
+        "applies",
+        "applying"
+    ],
+    "meaning_vi": "áp dụng"
+}

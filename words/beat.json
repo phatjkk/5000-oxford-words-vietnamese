@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/bit/"
+    ],
+    "synonyms": [
+        "weary",
+        "rhythm",
+        "punch",
+        "hit",
+        "pulsation"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To beat is to win, or to arrive first for something.",
+            "vi": "Đánh bại là giành chiến thắng, hoặc về đích đầu tiên cho một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "A member of the Beat Generation.",
+            "vi": "Một thành viên của Thế hệ Beat."
+        },
+        {
+            "pos": "adjective",
+            "en": "(informal) Worn-out; fatigued.",
+            "vi": "(không chính thức) Mòn; mệt mỏi."
+        },
+        {
+            "pos": "idiom",
+            "en": "beat all  To be impressive or amazing. Often used in negative conditional constructions: If that doesn't beat all!.",
+            "vi": "đánh bại tất cả Để trở nên ấn tượng hoặc tuyệt vời. Thường được sử dụng trong cấu trúc điều kiện phủ định: Nếu điều đó không đánh bại tất cả !."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her father beat them both.",
+            "vi": "Cha cô đã đánh cả hai."
+        },
+        {
+            "en": "The best way to beat the cold was to work up some heat.",
+            "vi": "Cách tốt nhất để đánh bại cái lạnh là tăng cường một chút nhiệt."
+        }
+    ],
+    "words_form": [
+        "beaten",
+        "beating",
+        "beats"
+    ],
+    "meaning_vi": "tiết tấu"
+}

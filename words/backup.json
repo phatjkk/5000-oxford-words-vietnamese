@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˈbækʌp/"
+    ],
+    "synonyms": [
+        "substitute",
+        "accompaniment",
+        "alternate",
+        "alternative",
+        "auxiliary"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(bowling) A ball that follows a path opposite to that of a hook.",
+            "vi": "Một cái gì đó hình thành một trở lại."
+        },
+        {
+            "pos": "adjective",
+            "en": "Extra; standby.",
+            "vi": "(âm nhạc) Cung cấp hỗ trợ cho người biểu diễn chính."
+        },
+        {
+            "pos": "",
+            "en": "(1) A duplicate copy of data or of an entire storage drive on a separate storage medium. \"Backup\" is the noun; \"back up\" is the verb. See backup software, backup types, backup storage, copy data, backup and restore, disaster recovery and LAN-free backup.",
+            "vi": "Hiện tại phân từ trở lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Always good to have a backup plan.",
+            "vi": "Luôn luôn tốt để có một kế hoạch dự phòng."
+        },
+        {
+            "en": "Should you store a backup off-site in case the building is severely damaged?",
+            "vi": "Bạn có nên lưu trữ một bản sao lưu dự phòng trong trường hợp tòa nhà bị hư hại nghiêm trọng không?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "(bowling) A ball that follows a path opposite to that of a hook.",
+            "vi": "Một cái gì đó hình thành một trở lại."
+        },
+        {
+            "pos": "adjective",
+            "en": "Extra; standby.",
+            "vi": "(âm nhạc) Cung cấp hỗ trợ cho người biểu diễn chính."
+        },
+        {
+            "pos": "",
+            "en": "(1) A duplicate copy of data or of an entire storage drive on a separate storage medium. \"Backup\" is the noun; \"back up\" is the verb. See backup software, backup types, backup storage, copy data, backup and restore, disaster recovery and LAN-free backup.",
+            "vi": "Hiện tại phân từ trở lại."
+        }
+    ]
+}

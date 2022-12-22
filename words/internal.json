@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɪnˈtərnl/"
+    ],
+    "synonyms": [
+        "internalize",
+        "abdominal",
+        "inside",
+        "inward",
+        "innate"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Located, acting, or effective within the body.",
+            "vi": "Định vị, hoạt động hoặc hiệu quả trong cơ thể."
+        },
+        {
+            "pos": "noun",
+            "en": "Innards; entrails.",
+            "vi": "Innards; đường ray."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Sofia found the internal bleeding.",
+            "vi": "Sofia phát hiện ra máu trong."
+        },
+        {
+            "en": "She turned to the door, ignoring the internal voice that begged her to spend the night at his home.",
+            "vi": "Cô quay ra cửa, bỏ ngoài tai tiếng nội van xin cô qua đêm tại nhà anh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nội bộ"
+}

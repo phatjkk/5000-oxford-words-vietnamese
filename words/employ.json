@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əmˈplɔɪ/"
+    ],
+    "synonyms": [
+        "take on",
+        "exercise",
+        "lay off",
+        "engage",
+        "manipulate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of employ is the state of having a job.",
+            "vi": "Định nghĩa về việc làm là trạng thái có một công việc."
+        },
+        {
+            "pos": "verb",
+            "en": "Employ is defined as to give someone work for pay, or to put someone or something to use.",
+            "vi": "Người sử dụng lao động được định nghĩa là cung cấp cho một người nào đó công việc được trả lương, hoặc để một người nào đó hoặc một cái gì đó sử dụng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Where high speed lowering is not required it is usual to employ a reversing motor and keep it always in gear.",
+            "vi": "Trong trường hợp không yêu cầu hạ tốc độ cao, thông thường sử dụng động cơ đảo chiều và giữ cho nó luôn ở số."
+        },
+        {
+            "en": "Another version makes him employ one Manole or Manoli as architect.",
+            "vi": "Một phiên bản khác khiến anh ta thuê một Manole hoặc Manoli làm kiến ​​trúc sư."
+        }
+    ],
+    "words_form": [
+        "employed",
+        "employing",
+        "employs"
+    ],
+    "meaning_vi": "thuê"
+}

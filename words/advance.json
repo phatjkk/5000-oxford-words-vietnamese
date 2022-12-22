@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ədˈvæns/"
+    ],
+    "synonyms": [
+        "progression",
+        "overture",
+        "motion",
+        "approach",
+        "advancement"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To raise in amount or rate; increase.",
+            "vi": "Để tăng số lượng hoặc tỷ lệ; tăng."
+        },
+        {
+            "pos": "noun",
+            "en": "Monies paid before any consideration is received in exchange.",
+            "vi": "Tiền được thanh toán trước khi nhận được bất kỳ sự cân nhắc nào để đổi lấy."
+        },
+        {
+            "pos": "adjective",
+            "en": "Advance means in front.",
+            "vi": "Advance có nghĩa là ở phía trước."
+        },
+        {
+            "pos": "idiom",
+            "en": "in advance  Ahead of time; beforehand.",
+            "vi": "trước Trước thời hạn; Tới trước."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Consider it an advance until you get the package.",
+            "vi": "Hãy coi đó là một khoản tạm ứng cho đến khi bạn nhận được gói hàng."
+        },
+        {
+            "en": "I gave you advance warning.",
+            "vi": "Tôi đã cảnh báo trước cho bạn."
+        }
+    ],
+    "words_form": [
+        "advanced",
+        "advances",
+        "advancing"
+    ],
+    "meaning_vi": "trước"
+}

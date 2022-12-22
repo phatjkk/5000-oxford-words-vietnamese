@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/hɑrm/"
+    ],
+    "synonyms": [
+        "hurt",
+        "misfortune",
+        "bad",
+        "prejudicial",
+        "better"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Harm is defined as an injury or something wrong.",
+            "vi": "Tác hại được định nghĩa là một chấn thương hoặc một cái gì đó sai trái."
+        },
+        {
+            "pos": "verb",
+            "en": "The definition of harm is to hurt or damage something.",
+            "vi": "Định nghĩa về tác hại là làm tổn thương hoặc làm hỏng một thứ gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I promise not to harm you.",
+            "vi": "Tôi hứa sẽ không làm hại bạn."
+        },
+        {
+            "en": "Thankfully, the boy was located before any major harm was done.",
+            "vi": "Rất may, cậu bé đã được định vị trước khi bất kỳ tổn hại lớn nào xảy ra."
+        }
+    ],
+    "words_form": [
+        "harmed",
+        "harming",
+        "harms"
+    ],
+    "meaning_vi": "làm hại"
+}

@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/tɛr/"
+    ],
+    "synonyms": [
+        "droplet",
+        "slit",
+        "teardrop",
+        "discharge",
+        "shoot"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a tear is the result of something being pulled or ripped apart.",
+            "vi": "Định nghĩa của một vết rách là kết quả của một cái gì đó bị kéo hoặc xé toạc ra."
+        },
+        {
+            "pos": "verb",
+            "en": "To separate forcefully; wrench.",
+            "vi": "Để tách biệt một cách cưỡng bức; cờ lê."
+        },
+        {
+            "pos": "idiom",
+            "en": "tear (one's) hair  To be greatly upset or distressed.",
+            "vi": "xé tóc (của một người) Rất buồn hoặc đau khổ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A tear slipped down her cheek.",
+            "vi": "Một giọt nước mắt trượt dài trên má cô."
+        },
+        {
+            "en": "Her voice broke and a tear slid down her face.",
+            "vi": "Giọng cô ấy vỡ ra và một giọt nước mắt trượt dài trên khuôn mặt cô ấy."
+        }
+    ],
+    "words_form": [
+        "tearing",
+        "tears",
+        "tore",
+        "torn"
+    ],
+    "meaning_vi": "nước mắt"
+}

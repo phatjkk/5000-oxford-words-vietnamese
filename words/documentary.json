@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌdɑkjəˈmɛnt(ə)ri/"
+    ],
+    "synonyms": [
+        "objective",
+        "docudrama",
+        "documentary film",
+        "infotainment",
+        "epigraphic"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A documentary is defined as a film or television program that is educational and tells a true story.",
+            "vi": "Phim tài liệu được định nghĩa là một bộ phim hoặc chương trình truyền hình mang tính giáo dục và kể một câu chuyện có thật."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of documentary is a film or television program that shows a story or situation truthfully.",
+            "vi": "Định nghĩa của phim tài liệu là một bộ phim hoặc chương trình truyền hình thể hiện một câu chuyện hoặc tình huống một cách trung thực."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is documentary evidence of a castle at Nantwich in the 13th century.",
+            "vi": "Có bằng chứng tư liệu về một lâu đài ở Nantwich vào thế kỷ 13."
+        },
+        {
+            "en": "Marie Jeanne, in fact, took great care of the child's person, and there is documentary evidence to prove that he had air and food.",
+            "vi": "Marie Jeanne, trên thực tế, đã rất chăm sóc con người của đứa trẻ, và có bằng chứng tài liệu chứng minh rằng nó có không khí và thức ăn."
+        }
+    ],
+    "words_form": [
+        "documentaries"
+    ],
+    "meaning_vi": "phim tài liệu"
+}

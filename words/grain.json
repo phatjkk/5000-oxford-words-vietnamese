@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɡreɪn/"
+    ],
+    "synonyms": [
+        "seed",
+        "speck",
+        "dab",
+        "maize",
+        "cereals"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The pattern produced, as in stone, by the arrangement of particulate constituents.",
+            "vi": "Hoa văn được tạo ra, như trong đá, bởi sự sắp xếp của các thành phần hạt."
+        },
+        {
+            "pos": "verb",
+            "en": "To give a granular or rough texture to.",
+            "vi": "Để cung cấp một kết cấu dạng hạt hoặc thô cho."
+        },
+        {
+            "pos": "idiom",
+            "en": "against the grain  Contrary to custom, one's inclination, or good sense.",
+            "vi": "chống lại ngũ cốc Trái với phong tục, khuynh hướng của một người, hoặc ý thức tốt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Then she used wild and long grain rice instead of stuffing.",
+            "vi": "Sau đó, cô ấy sử dụng gạo hoang dã và hạt dài thay vì nhồi."
+        },
+        {
+            "en": "He always eats the grain I leave for him.",
+            "vi": "Anh ấy luôn ăn hạt mà tôi để lại cho anh ấy."
+        }
+    ],
+    "words_form": [
+        "grained",
+        "graining",
+        "grains"
+    ],
+    "meaning_vi": "hạt"
+}

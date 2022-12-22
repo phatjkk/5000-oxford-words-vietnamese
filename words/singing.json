@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈsɪŋɪŋ/"
+    ],
+    "synonyms": [
+        "humming",
+        "whistling",
+        "chanting",
+        "music",
+        "musical"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of using the voice to produce musical sounds; vocalizing.",
+            "vi": "Hành động sử dụng giọng nói để tạo ra âm thanh âm nhạc; xưng hô."
+        },
+        {
+            "pos": "adjective",
+            "en": "(music) Smooth and flowing.",
+            "vi": "(âm nhạc) Mượt mà và trôi chảy."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of sing.",
+            "vi": "Hiện tại phân từ ca hát."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We'll leave the singing to you.",
+            "vi": "Chúng tôi sẽ để lại tiếng hát cho bạn."
+        },
+        {
+            "en": "My heart is singing for joy this morning.",
+            "vi": "Trái tim tôi đang hát vì niềm vui sáng nay."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ca hát"
+}

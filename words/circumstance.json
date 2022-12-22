@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈsərkəmˌstæns/",
+        "/ˈsərkəmstəns/"
+    ],
+    "synonyms": [
+        "situation",
+        "condition",
+        "state",
+        "cause",
+        "contingency"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Conditions surrounding and affecting a person, esp. financial conditions.",
+            "vi": "Điều kiện xung quanh và ảnh hưởng đến một người, đặc biệt. điều kiện tài chính."
+        },
+        {
+            "pos": "verb",
+            "en": "To place in a particular situation, especially with regard to money or other resources.",
+            "vi": "Đặt trong một tình huống cụ thể, đặc biệt là liên quan đến tiền bạc hoặc các nguồn lực khác."
+        },
+        {
+            "pos": "idiom",
+            "en": "under no circumstances  In no case; never.",
+            "vi": "trong mọi trường hợp Không có trường hợp nào; không bao giờ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Every circumstance now conspired to effect his fall.",
+            "vi": "Mọi tình huống bây giờ đều âm mưu ảnh hưởng đến sự sa ngã của anh ta."
+        },
+        {
+            "en": "To throw that away because of an accident of circumstance would be a tragedy.",
+            "vi": "Vứt bỏ điều đó vì một tình huống ngẫu nhiên sẽ là một bi kịch."
+        }
+    ],
+    "words_form": [
+        "circumstanced",
+        "circumstances",
+        "circumstancing"
+    ],
+    "meaning_vi": "hoàn cảnh"
+}

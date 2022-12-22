@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/ˈɪntrəstəd/",
+        "/ˈɪn(t)ərəstəd/"
+    ],
+    "synonyms": [
+        "stimulated",
+        "intrigued",
+        "attracted",
+        "fascinated",
+        "engaged"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Influenced by personal interest; biased or prejudiced.",
+            "vi": "Bị ảnh hưởng bởi lợi ích cá nhân; thiên vị hoặc thành kiến."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of interest.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ quan tâm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I truly believe he may be interested in doing the same to you.",
+            "vi": "Tôi thực sự tin rằng anh ấy có thể quan tâm đến việc làm như vậy với bạn."
+        },
+        {
+            "en": "Are you as interested in photography as we are?",
+            "vi": "Bạn có quan tâm đến nhiếp ảnh như chúng tôi không?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "quan tâm"
+}

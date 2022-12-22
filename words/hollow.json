@@ -1,0 +1,61 @@
+{
+    "spelling": [
+        "/ˈhɑloʊ/"
+    ],
+    "synonyms": [
+        "empty",
+        "unfilled",
+        "vacant",
+        "void",
+        "high"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Hollow means an empty space.",
+            "vi": "Hollow có nghĩa là một không gian trống rỗng."
+        },
+        {
+            "pos": "verb",
+            "en": "Hollow is defined as to create an empty space within something.",
+            "vi": "Hollow được định nghĩa là tạo ra một không gian trống bên trong một cái gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of hollow is having a space inside or being shaped like a bowl.",
+            "vi": "Định nghĩa của rỗng là có một không gian bên trong hoặc có hình dạng giống như một cái bát."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a hollow manner.",
+            "vi": "Nói một cách rỗng tuếch."
+        },
+        {
+            "pos": "interjection",
+            "en": "Alternative form of hollo.",
+            "vi": "Hình thức thay thế của hollo."
+        },
+        {
+            "pos": "idiom",
+            "en": "beat (all) hollow  to defeat thoroughly or surpass by far",
+            "vi": "đánh bại (tất cả) rỗng để đánh bại triệt để hoặc vượt xa"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The blue-bird makes her nest in a hollow tree and her eggs are blue.",
+            "vi": "Con chim xanh làm tổ trong một cái cây rỗng và những quả trứng của nó có màu xanh lam."
+        },
+        {
+            "en": "The dirt hit his body with a hollow thud.",
+            "vi": "Bụi bẩn đập vào cơ thể anh ta với một tiếng động rỗng."
+        }
+    ],
+    "words_form": [
+        "hollowed",
+        "hollowest",
+        "hollowing",
+        "hollows"
+    ],
+    "meaning_vi": "rỗng"
+}

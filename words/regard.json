@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rəˈɡɑrd/"
+    ],
+    "synonyms": [
+        "respect",
+        "attention",
+        "perspective",
+        "consideration",
+        "thought"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Regard is to think of someone or something in a particular way.",
+            "vi": "Quan trọng là nghĩ về ai đó hoặc điều gì đó theo một cách cụ thể."
+        },
+        {
+            "pos": "noun",
+            "en": "Regard is defined as consideration or attention for something or someone.",
+            "vi": "Sự quan tâm được định nghĩa là sự cân nhắc hoặc chú ý đối với một cái gì đó hoặc một người nào đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "as regards  In reference or relation to; with respect to.",
+            "vi": "liên quan Trong tham chiếu hoặc liên quan đến; đối với."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Lifting her gaze to meet his intent regard, she implored him.",
+            "vi": "Nhấc mắt lên để đáp ứng ý định của anh, cô cầu xin anh."
+        },
+        {
+            "en": "His regard was troubled.",
+            "vi": "Vấn đề của anh ấy đã gặp rắc rối."
+        }
+    ],
+    "words_form": [
+        "regarded",
+        "regarding",
+        "regards"
+    ],
+    "meaning_vi": "lĩnh vực"
+}

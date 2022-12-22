@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/hɔrs/"
+    ],
+    "synonyms": [
+        "equine",
+        "stallion",
+        "nag",
+        "animal",
+        "farriery"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Horse is defined as to provide with or ride on a hoofed member of the family Equidae.",
+            "vi": "Ngựa được định nghĩa là để cung cấp hoặc cưỡi trên một thành viên có móng của họ Equidae."
+        },
+        {
+            "pos": "noun",
+            "en": "A frame or device, usually with four legs, used for supporting or holding.",
+            "vi": "Khung hoặc thiết bị, thường có bốn chân, dùng để đỡ hoặc giữ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Horse means relating to the hoofed creatures of the family Equidae.",
+            "vi": "Ngựa có nghĩa là liên quan đến các sinh vật móng guốc của họ Equidae."
+        },
+        {
+            "pos": "idiom",
+            "en": "a horse of another  Another matter entirely; something else.",
+            "vi": "một con ngựa của một vấn đề khác hoàn toàn khác; thứ gì khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The horse stood still.",
+            "vi": "Con ngựa đứng yên."
+        },
+        {
+            "en": "The horse stumbled, and his rider was thrown heavily to the ground.",
+            "vi": "Con ngựa loạng choạng, người cưỡi ngựa bị ném mạnh xuống đất."
+        }
+    ],
+    "words_form": [
+        "horsed",
+        "horses",
+        "horsing"
+    ],
+    "meaning_vi": "con ngựa"
+}

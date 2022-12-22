@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈjɛstərˌdeɪ/",
+        "/ˈjɛstərdi/"
+    ],
+    "synonyms": [
+        "previously",
+        "earlier",
+        "bygone",
+        "recently",
+        "past"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Yesterday is the day before today.",
+            "vi": "Hôm qua là ngày kia là ngày hôm nay."
+        },
+        {
+            "pos": "adverb",
+            "en": "A short while ago.",
+            "vi": "Một thời gian ngắn trước đây."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of yesterday.",
+            "vi": "Của ngày hôm qua."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is a beautiful day, but yesterday it was cold.",
+            "vi": "Đó là một ngày đẹp trời, nhưng hôm qua trời lạnh."
+        },
+        {
+            "en": "Yesterday, she saw the power she could have to help people from Hell.",
+            "vi": "Hôm qua, cô đã nhìn thấy sức mạnh mà cô có thể có để giúp mọi người từ Địa ngục."
+        }
+    ],
+    "words_form": [
+        "yesterdays"
+    ],
+    "meaning_vi": "hôm qua"
+}

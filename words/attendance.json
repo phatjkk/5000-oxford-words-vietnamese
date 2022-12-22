@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/əˈtɛndəns/"
+    ],
+    "synonyms": [
+        "appearance",
+        "participation",
+        "presence",
+        "attending",
+        "being in evidence"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of attending.",
+            "vi": "Như có thể được hỗ trợ bởi đối số."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Howie was the only other person in attendance for the service.",
+            "vi": "Howie là người duy nhất tham dự buổi lễ."
+        },
+        {
+            "en": "Oh, very well, you may stay in attendance on me.",
+            "vi": "Ồ, rất tốt, bạn có thể tiếp tục theo dõi tôi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The act of attending.",
+            "vi": "Như có thể được hỗ trợ bởi đối số."
+        }
+    ]
+}

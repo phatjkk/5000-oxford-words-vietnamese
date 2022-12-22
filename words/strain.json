@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/streɪn/"
+    ],
+    "synonyms": [
+        "wrench",
+        "tension",
+        "sprain",
+        "idle",
+        "purify"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Strain is defined as to exert or stretch to the maximum or to injure by too much exertion.",
+            "vi": "Căng thẳng được định nghĩa là gắng sức hoặc kéo căng đến mức tối đa hoặc gây thương tích do gắng sức quá nhiều."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a strain is a bodily injury due to overexertion or an excessive demand on resources.",
+            "vi": "Định nghĩa căng thẳng là một tổn thương cơ thể do hoạt động quá sức hoặc nhu cầu quá mức về nguồn lực."
+        },
+        {
+            "pos": "idiom",
+            "en": "strain at stool  To have difficulty defecating.",
+            "vi": "căng ở phân Khó đi đại tiện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Darian nodded, hearing the strain in her voice.",
+            "vi": "Darian gật đầu, nghe thấy sự căng thẳng trong giọng cô."
+        },
+        {
+            "en": "His body was starting to feel the strain again, but he pushed himself on.",
+            "vi": "Cơ thể anh bắt đầu cảm thấy căng thẳng trở lại, nhưng anh vẫn cố gắng tiếp tục."
+        }
+    ],
+    "words_form": [
+        "strained",
+        "straining",
+        "strains"
+    ],
+    "meaning_vi": "căng cơ"
+}

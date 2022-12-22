@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈvərsəs/",
+        "/ˈvərsəz/"
+    ],
+    "synonyms": [
+        "against",
+        "vs",
+        "alternative",
+        "contrast"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "In conflict or competition with; against.",
+            "vi": "Xung đột hoặc cạnh tranh với; chống lại."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Used to link two or more opposing or contrasting elements.",
+            "vi": "Dùng để liên kết hai hay nhiều yếu tố đối lập hoặc tương phản."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The date of these additions, and of the Versus, is of no importance, as their statements are incredible.",
+            "vi": "Ngày của những bổ sung này, và của Versus, không có tầm quan trọng, vì những tuyên bố của họ là đáng kinh ngạc."
+        },
+        {
+            "en": "While still an undergraduate he formed a league with John Herschel and Charles Babbage, to conduct the famous struggle of \"d-ism versus dot-age,\" which ended in the introduction into Cambridge of the continental notation in the infinitesimal calculus to the exclusion of the fluxional notation of Sir Isaac Newton.",
+            "vi": "Khi vẫn còn là một sinh viên đại học, ông đã thành lập một liên minh với John Herschel và Charles Babbage, để tiến hành cuộc đấu tranh nổi tiếng \"d-ism so với dot-age\", kết thúc bằng việc đưa vào Cambridge của ký hiệu lục địa trong phép tính vô cực để loại trừ ký hiệu thông lượng của Ngài Isaac Newton."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đấu với"
+}

@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˈmeɪkɪŋ/"
+    ],
+    "synonyms": [
+        "accomplishing",
+        "building",
+        "composing",
+        "constructing",
+        "creating"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something that is made, especially a quantity made at one time.",
+            "vi": "Một cái gì đó được tạo ra, đặc biệt là một số lượng được thực hiện cùng một lúc."
+        },
+        {
+            "pos": "affix",
+            "en": "(chiefly brit.) Creating a (specified) state or condition.",
+            "vi": "(chủ yếu là giòn.) Tạo một trạng thái hoặc điều kiện (được chỉ định)."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of make.",
+            "vi": "Hiện tại phân từ thực hiện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They were making progress, though.",
+            "vi": "Tuy nhiên, họ đã tiến bộ."
+        },
+        {
+            "en": "He's somewhere in town making arrangements.",
+            "vi": "Anh ấy đang ở đâu đó trong thị trấn để thu xếp."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "Something that is made, especially a quantity made at one time.",
+            "vi": "Một cái gì đó được tạo ra, đặc biệt là một số lượng được thực hiện cùng một lúc."
+        },
+        {
+            "pos": "affix",
+            "en": "(chiefly brit.) Creating a (specified) state or condition.",
+            "vi": "(chủ yếu là giòn.) Tạo một trạng thái hoặc điều kiện (được chỉ định)."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of make.",
+            "vi": "Hiện tại phân từ thực hiện."
+        }
+    ]
+}

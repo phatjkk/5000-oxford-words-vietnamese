@@ -1,0 +1,61 @@
+{
+    "spelling": [
+        "/ɔr/"
+    ],
+    "synonyms": [
+        "rather",
+        "neither",
+        "uncertainty",
+        "practically",
+        "conversely"
+    ],
+    "meaning": [
+        {
+            "pos": "abbreviation",
+            "en": "Operations research.",
+            "vi": "Hoạt động nghiên cứu."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Or is defined as another option or something that means the same thing.",
+            "vi": "Hoặc được định nghĩa là một lựa chọn khác hoặc một cái gì đó có nghĩa tương tự."
+        },
+        {
+            "pos": "suffix",
+            "en": "One that performs a specified action.",
+            "vi": "Một hành động thực hiện một hành động cụ thể."
+        },
+        {
+            "pos": "affix",
+            "en": "A person or thing that (does a specified thing)",
+            "vi": "Một người hoặc một việc (làm một việc cụ thể)"
+        },
+        {
+            "pos": "preposition",
+            "en": "Before.",
+            "vi": "Trước."
+        },
+        {
+            "pos": "noun",
+            "en": "(heraldry) The representation of the metal gold: indicated in engravings by small black dots on a white field.",
+            "vi": "(huy hiệu) Sự thể hiện của kim loại vàng: được thể hiện trong các bản khắc bằng các chấm đen nhỏ trên nền trắng."
+        },
+        {
+            "pos": "prefix",
+            "en": "(no longer productive) A prefix of Old English origin meaning: \"from the outset\", \"original\", \"out\", \"out of\", or \"without\".",
+            "vi": "(không còn hiệu quả) Tiền tố có nguồn gốc tiếng Anh cổ có nghĩa là: \"ngay từ đầu\", \"ban đầu\", \"ra ngoài\", \"hết\" hoặc \"không có\"."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Do you want a boy or a girl, Dad?",
+            "vi": "Bố muốn có con trai hay con gái?"
+        },
+        {
+            "en": "I don't like either the one or the other.",
+            "vi": "Tôi không thích cái này hay cái kia."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hoặc"
+}

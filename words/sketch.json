@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/skɛtʃ/"
+    ],
+    "synonyms": [
+        "lineate",
+        "draft",
+        "form",
+        "portrayal",
+        "picture"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a sketch is a rough design without much detail.",
+            "vi": "Định nghĩa của một bản phác thảo là một thiết kế thô không có nhiều chi tiết."
+        },
+        {
+            "pos": "verb",
+            "en": "Sketch is defined as to create rough, undetailed drawings.",
+            "vi": "Sketch được định nghĩa là để tạo ra các bản vẽ thô, không chi tiết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He nodded as she plopped down at the desk and began to sketch on the paper, explaining as she drew.",
+            "vi": "Anh gật đầu khi cô ngồi phịch xuống bàn và bắt đầu phác thảo trên giấy, giải thích khi cô vẽ."
+        },
+        {
+            "en": "She ripped off a piece of sketch paper and wrote down her address.",
+            "vi": "Cô xé một tờ giấy nháp và viết ra địa chỉ của mình."
+        }
+    ],
+    "words_form": [
+        "sketched",
+        "sketches",
+        "sketching"
+    ],
+    "meaning_vi": "phác họa"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/sis/"
+    ],
+    "synonyms": [
+        "stop",
+        "quit",
+        "halt",
+        "give up",
+        "suspend"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of cease means to stop or discontinue.",
+            "vi": "Định nghĩa của ngừng có nghĩa là dừng lại hoặc không tiếp tục."
+        },
+        {
+            "pos": "noun",
+            "en": "Cessation; ceasing.",
+            "vi": "Đình chỉ; ngừng nghỉ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Sirian, cease!\" she ordered.",
+            "vi": "\"Sirian, dừng lại!\" cô đã ra lệnh."
+        },
+        {
+            "en": "We must cease raving if we are sons of our Fatherland!",
+            "vi": "Chúng ta phải ngừng say sưa nếu chúng ta là những người con của Tổ quốc!"
+        }
+    ],
+    "words_form": [
+        "ceased",
+        "ceases",
+        "ceasing"
+    ],
+    "meaning_vi": "ngưng"
+}

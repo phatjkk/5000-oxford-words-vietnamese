@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ləŋ/"
+    ],
+    "synonyms": [
+        "liver",
+        "pulmonary",
+        "respiratory",
+        "pectoral",
+        "thoracic"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a lung is a sponge like organ used for breathing that is found in the chest cavity in humans and animals.",
+            "vi": "Định nghĩa về phổi là một cơ quan giống như bọt biển dùng để thở được tìm thấy trong khoang ngực ở người và động vật."
+        },
+        {
+            "pos": "idiom",
+            "en": "at the top of (one's) lungs  As loudly as one's voice will allow.",
+            "vi": "ở trên cùng của (một người) phổi Như tiếng nói của một người sẽ cho phép."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is much malaria in the wooded districts of the east and on the higher campos, where the daily extremes of temperature are great, lung and bronchial diseases are common.",
+            "vi": "Có nhiều bệnh sốt rét ở các khu rừng rậm ở phía đông và trên các trại cao hơn, nơi có nhiệt độ quá cao hàng ngày, các bệnh về phổi và phế quản rất phổ biến."
+        },
+        {
+            "en": "The knife had punctured his right lung, deflating it.",
+            "vi": "Con dao đã đâm thủng phổi phải của anh ta, làm xẹp nó."
+        }
+    ],
+    "words_form": [
+        "lungs"
+    ],
+    "meaning_vi": "phổi"
+}

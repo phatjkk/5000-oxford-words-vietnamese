@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/məˈrin/"
+    ],
+    "synonyms": [
+        "aquatic",
+        "oceanic",
+        "leatherneck",
+        "nautical",
+        "mariner"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Marine is defined as something related to water or the sea.",
+            "vi": "Marine được định nghĩa là một cái gì đó liên quan đến nước hoặc biển."
+        },
+        {
+            "pos": "noun",
+            "en": "A painting or photograph of the sea.",
+            "vi": "Một bức tranh hoặc bức ảnh về biển."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Railway and marine locomotives are not included.",
+            "vi": "Đầu máy đường sắt và đường biển không được bao gồm."
+        },
+        {
+            "en": "Tetraplatia volitans Viguier is a remarkable floating marine form.",
+            "vi": "Tetraplatia volitans Viguier là một dạng nổi nổi trên biển."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "biển"
+}

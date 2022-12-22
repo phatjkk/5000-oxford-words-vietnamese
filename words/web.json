@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/wɛb/"
+    ],
+    "synonyms": [
+        "network",
+        "portal",
+        "web site",
+        "webpage",
+        "wap"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The World Wide Web.",
+            "vi": "Mạng toàn cầu."
+        },
+        {
+            "pos": "verb",
+            "en": "Web is defined as to cover or trap.",
+            "vi": "Web được định nghĩa là để che đậy hoặc bẫy."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Alternative capitalization of Web: the World Wide Web.",
+            "vi": "Viết hoa thay thế của Web: World Wide Web."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Who is the spider in my web?\" she demanded.",
+            "vi": "\"Ai là con nhện trong mạng của tôi?\" Cô ấy yêu cầu."
+        },
+        {
+            "en": "Betsy spotted the web site and began monitoring it daily.",
+            "vi": "Betsy phát hiện ra trang web và bắt đầu theo dõi nó hàng ngày."
+        }
+    ],
+    "words_form": [
+        "webbed",
+        "webbing",
+        "webs"
+    ],
+    "meaning_vi": "trang web"
+}

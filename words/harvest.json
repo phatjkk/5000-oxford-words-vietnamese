@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈhɑrvəst/"
+    ],
+    "synonyms": [
+        "crop",
+        "pluck",
+        "reap",
+        "yield",
+        "garner"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or process of gathering a crop.",
+            "vi": "Hành động hoặc quá trình thu thập một loại cây trồng."
+        },
+        {
+            "pos": "verb",
+            "en": "To receive or collect (energy).",
+            "vi": "Để nhận hoặc thu thập (năng lượng)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That's a sign of a good harvest next year.",
+            "vi": "Đó là dấu hiệu của một vụ mùa bội thu trong năm tới."
+        },
+        {
+            "en": "The snow melted, leaving in its wake a harvest of spring flowers.",
+            "vi": "Tuyết tan, để lại một mùa thu hoạch hoa mùa xuân."
+        }
+    ],
+    "words_form": [
+        "harvested",
+        "harvesting",
+        "harvests"
+    ],
+    "meaning_vi": "mùa gặt"
+}

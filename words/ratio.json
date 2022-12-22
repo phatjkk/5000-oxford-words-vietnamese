@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈreɪʃiˌoʊ/"
+    ],
+    "synonyms": [
+        "degree",
+        "fraction",
+        "correlation",
+        "whole",
+        "weighted"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a ratio is the relationship between two things.",
+            "vi": "Định nghĩa của một tỷ lệ là mối quan hệ giữa hai điều."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The ratio of criminal proceedings to population is, as a rule, much higher in the south than in the north.",
+            "vi": "Theo quy luật, tỷ lệ tố tụng hình sự trên dân số ở miền Nam cao hơn nhiều so với miền Bắc."
+        },
+        {
+            "en": "This equation does not give us the value of the unknown factor but gives us a ratio between two unknowns.",
+            "vi": "Phương trình này không cho chúng ta giá trị của thừa số chưa biết nhưng cho chúng ta một tỷ số giữa hai ẩn số."
+        }
+    ],
+    "words_form": [
+        "ratios"
+    ],
+    "meaning_vi": "tỷ lệ"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈtɑrɡət/"
+    ],
+    "synonyms": [
+        "goal",
+        "objective",
+        "victim",
+        "spot",
+        "why"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A railroad signal that indicates the position of a switch by its color, position, and shape.",
+            "vi": "Tín hiệu đường sắt cho biết vị trí của công tắc bằng màu sắc, vị trí và hình dạng của nó."
+        },
+        {
+            "pos": "verb",
+            "en": "Target is defined as to aim at something or someone in particular.",
+            "vi": "Mục tiêu được định nghĩa là nhằm vào một cái gì đó hoặc một người nào đó cụ thể."
+        },
+        {
+            "pos": "idiom",
+            "en": "on target  Completely accurate, precise, or valid: Observations that were right on target.",
+            "vi": "vào mục tiêu Hoàn toàn chính xác, chính xác hoặc hợp lệ: Các quan sát đúng vào mục tiêu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It'll make a good target for your enemies.",
+            "vi": "Nó sẽ trở thành mục tiêu tốt cho kẻ thù của bạn."
+        },
+        {
+            "en": "She focused on the target, a plate above the hearth.",
+            "vi": "Cô ấy tập trung vào mục tiêu, một cái đĩa phía trên lò sưởi."
+        }
+    ],
+    "words_form": [
+        "targeted",
+        "targeting",
+        "targets"
+    ],
+    "meaning_vi": "đích ngắm"
+}

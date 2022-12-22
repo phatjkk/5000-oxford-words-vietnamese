@@ -1,0 +1,67 @@
+{
+    "spelling": [
+        "/fri/"
+    ],
+    "synonyms": [
+        "liberated",
+        "restore",
+        "vacant",
+        "scot-free",
+        "bountiful"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Free means to release or let go.",
+            "vi": "Miễn phí có nghĩa là giải phóng hoặc cho đi."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of free is enjoying personal freedom and liberties or to have no cost.",
+            "vi": "Định nghĩa của miễn phí là tận hưởng tự do cá nhân và tự do hoặc không phải trả phí."
+        },
+        {
+            "pos": "adverb",
+            "en": "Without charge.",
+            "vi": "Mà không tính phí."
+        },
+        {
+            "pos": "noun",
+            "en": "Freestyle.",
+            "vi": "Phong cách tự do."
+        },
+        {
+            "pos": "affix",
+            "en": "Free of or from, exempt from, without.",
+            "vi": "Miễn hoặc từ, miễn, không."
+        },
+        {
+            "pos": "suffix",
+            "en": "Free from; without.",
+            "vi": "Miễn phí từ; không có."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) for free  Without charge.",
+            "vi": "(không chính thức) miễn phí Không tính phí."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Hey, I really am free this time.",
+            "vi": "Này, tôi thực sự rảnh thời gian này."
+        },
+        {
+            "en": "You can spend it with a free conscience.",
+            "vi": "Bạn có thể sử dụng nó với lương tâm tự do."
+        }
+    ],
+    "words_form": [
+        "freed",
+        "freeing",
+        "freer",
+        "frees",
+        "freest"
+    ],
+    "meaning_vi": "miễn phí"
+}

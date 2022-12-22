@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈdɛləɡət/"
+    ],
+    "synonyms": [
+        "representative",
+        "choose",
+        "substitute",
+        "designate",
+        "nominate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The act of granting another the power to act on one’s behalf.",
+            "vi": "Hành động trao cho người khác quyền hành động nhân danh mình."
+        },
+        {
+            "pos": "noun",
+            "en": "A person authorized to act as representative for another; a deputy or agent.",
+            "vi": "Người được ủy quyền làm đại diện cho người khác; một phó hoặc đại lý."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A delegate must be a member of the association.",
+            "vi": "Một đại biểu phải là thành viên của hiệp hội."
+        },
+        {
+            "en": "He was a prominent member of the Republican party, and in 1861 was a delegate to the Peace Conference in Washington.",
+            "vi": "Ông là một thành viên nổi bật của đảng Cộng hòa, và năm 1861 là đại biểu của Hội nghị Hòa bình ở Washington."
+        }
+    ],
+    "words_form": [
+        "delegated",
+        "delegates",
+        "delegating"
+    ],
+    "meaning_vi": "đại biểu"
+}

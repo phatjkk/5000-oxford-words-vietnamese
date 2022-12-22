@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈplænɪŋ/"
+    ],
+    "synonyms": [
+        "scheming",
+        "gaming",
+        "arranging",
+        "projecting",
+        "shaping"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Present participle of plan.",
+            "vi": "Trình bày phân từ của kế hoạch."
+        },
+        {
+            "pos": "noun",
+            "en": "(uncountable) Action of the verb to plan.",
+            "vi": "(không đếm được) Hành động của động từ lên kế hoạch."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I was planning on fixing breakfast.",
+            "vi": "Tôi đã định chuẩn bị bữa sáng."
+        },
+        {
+            "en": "How did the planning go?",
+            "vi": "Kế hoạch diễn ra như thế nào?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "lập kế hoạch"
+}

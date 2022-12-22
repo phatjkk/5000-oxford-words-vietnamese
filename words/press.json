@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/prɛs/"
+    ],
+    "synonyms": [
+        "editors",
+        "squeeze",
+        "confusion",
+        "journalists",
+        "strain"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A printing press.",
+            "vi": "Một máy in."
+        },
+        {
+            "pos": "verb",
+            "en": "To press is defined as to push or apply steady force or squeeze.",
+            "vi": "Nhấn được định nghĩa là đẩy hoặc áp dụng lực ổn định hoặc bóp."
+        },
+        {
+            "pos": "idiom",
+            "en": "go to press  To be submitted for printing.",
+            "vi": "nhấn Để được gửi để in."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "One side of her wanted to press on until she got some answers.",
+            "vi": "Một bên của cô ấy muốn nhấn mạnh cho đến khi cô ấy nhận được một số câu trả lời."
+        },
+        {
+            "en": "Dean didn't press the point.",
+            "vi": "Dean không nhấn mạnh vấn đề."
+        }
+    ],
+    "words_form": [
+        "pressed",
+        "presses",
+        "pressing"
+    ],
+    "meaning_vi": "báo chí"
+}

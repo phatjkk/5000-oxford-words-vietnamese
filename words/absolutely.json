@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/ˈæbsəˌl(j)utli/",
+        "/ˌæbsəˈl(j)utli/"
+    ],
+    "synonyms": [
+        "totally",
+        "utterly",
+        "certainly",
+        "completely",
+        "perfectly"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Absolutely is defined as totally and completely, or with certainty.",
+            "vi": "Tuyệt đối được định nghĩa là hoàn toàn và hoàn toàn, hoặc chắc chắn."
+        },
+        {
+            "pos": "interjection",
+            "en": "Yes.",
+            "vi": "Đúng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Cookies are absolutely forbidden.",
+            "vi": "Cookies bị cấm tuyệt đối."
+        },
+        {
+            "en": "\"Absolutely not,\" Gabriel said with a snort.",
+            "vi": "“Hoàn toàn không,” Gabriel nói với một cái khịt mũi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "Nhất định rồi."
+}

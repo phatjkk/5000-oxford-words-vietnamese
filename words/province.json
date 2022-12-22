@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈprɑvəns/"
+    ],
+    "synonyms": [
+        "region",
+        "arena",
+        "domain",
+        "territory",
+        "area"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Any of various lands outside Italy conquered by the Romans and administered by them as self-contained units.",
+            "vi": "Bất kỳ vùng đất nào bên ngoài nước Ý đều bị người La Mã chinh phục và được họ quản lý như những đơn vị khép kín."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(UK) Northern Ireland.",
+            "vi": "(Vương quốc Anh) Bắc Ireland."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I belong to the province of Smolensk.",
+            "vi": "Tôi thuộc tỉnh Smolensk."
+        },
+        {
+            "en": "The chief town of the province, 's Hertogenbosch, may be cited as an interesting historical example.",
+            "vi": "Thị trấn trưởng của tỉnh, Hertogenbosch, có thể được coi là một ví dụ lịch sử thú vị."
+        }
+    ],
+    "words_form": [
+        "provinces"
+    ],
+    "meaning_vi": "tỉnh"
+}

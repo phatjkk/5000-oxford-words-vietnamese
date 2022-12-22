@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈstrækt/"
+    ],
+    "synonyms": [
+        "divert",
+        "beguile",
+        "explain",
+        "lead-astray",
+        "deflect"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To attract (the attention) away from its original focus; divert.",
+            "vi": "Để thu hút (sự chú ý) khỏi trọng tâm ban đầu của nó; chuyển hướng."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Separated; drawn asunder.",
+            "vi": "(lỗi thời) Tách ra; đã rút ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Just sit back and don't distract me.",
+            "vi": "Chỉ cần ngồi lại và đừng làm tôi phân tâm."
+        },
+        {
+            "en": "No, you were only trying to distract me.",
+            "vi": "Không, bạn chỉ cố gắng đánh lạc hướng tôi."
+        }
+    ],
+    "words_form": [
+        "distracted",
+        "distracting",
+        "distracts"
+    ],
+    "meaning_vi": "mất tập trung"
+}

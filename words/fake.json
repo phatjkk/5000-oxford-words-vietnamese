@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/feɪk/"
+    ],
+    "synonyms": [
+        "artificial",
+        "cheat",
+        "false",
+        "charlatan",
+        "fraudulent"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having a false or misleading appearance; fraudulent.",
+            "vi": "Có ngoại hình giả tạo hoặc gây hiểu lầm; lừa đảo."
+        },
+        {
+            "pos": "verb",
+            "en": "(music) To improvise (a passage).",
+            "vi": "(âm nhạc) Để ứng biến (một đoạn văn)."
+        },
+        {
+            "pos": "noun",
+            "en": "(sports) A brief feint or aborted change of direction intended to mislead one's opponent or the opposing team.",
+            "vi": "(thể thao) Một cú đánh ngắn hoặc thay đổi hướng bị hủy bỏ nhằm mục đích đánh lừa đối thủ của một người hoặc đội đối phương."
+        },
+        {
+            "pos": "idiom",
+            "en": "fake out  to deceive or outmaneuver as by a feint, bluff, or deceptive act",
+            "vi": "giả mạo để lừa dối hoặc qua mặt như một hành động giả tạo, vô tội vạ hoặc lừa dối"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I thought it was all fake, for the show.",
+            "vi": "Tôi nghĩ tất cả đều là giả, cho buổi biểu diễn."
+        },
+        {
+            "en": "I'm sure it's your Delaware-Alabama guy, the one who murdered the fake psychic Youngblood in California.",
+            "vi": "Tôi chắc chắn đó là anh chàng Delaware-Alabama của bạn, kẻ đã sát hại nhà ngoại cảm giả mạo Youngblood ở California."
+        }
+    ],
+    "words_form": [
+        "faked",
+        "fakes",
+        "faking"
+    ],
+    "meaning_vi": "giả"
+}

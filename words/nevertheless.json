@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˌnɛvərðəˈlɛs/"
+    ],
+    "synonyms": [
+        "however",
+        "regardless",
+        "moreover",
+        "nonetheless",
+        "still"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In spite of that; nonetheless; however.",
+            "vi": "Mặc dù điều đó; dù sao thì; Tuy vậy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In New South Wales and Queensland there were still a large number of persons opposed to the measure, which was nevertheless carried in both colonies.",
+            "vi": "Ở New South Wales và Queensland vẫn còn một số lượng lớn người phản đối biện pháp này, tuy nhiên, biện pháp này vẫn được áp dụng ở cả hai thuộc địa."
+        },
+        {
+            "en": "Nevertheless his administration was by no means unfruitful.",
+            "vi": "Tuy nhiên, chính quyền của ông không có nghĩa là không tuyển dụng được."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tuy nhiên"
+}

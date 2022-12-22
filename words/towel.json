@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈtaʊ(ə)l/"
+    ],
+    "synonyms": [
+        "sheet",
+        "cloth",
+        "napkin",
+        "wiper",
+        "rag"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a towel is an absorbent cloth or paper used for washing and drying off.",
+            "vi": "Định nghĩa của khăn là một loại vải thấm nước hoặc giấy được sử dụng để giặt và lau khô."
+        },
+        {
+            "pos": "verb",
+            "en": "To dry by using a towel.",
+            "vi": "Để làm khô bằng cách sử dụng khăn."
+        },
+        {
+            "pos": "idiom",
+            "en": "throw in the towel  to admit defeat",
+            "vi": "ném khăn để thừa nhận thất bại"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She threw the towel on the counter.",
+            "vi": "Cô ném chiếc khăn lên quầy."
+        },
+        {
+            "en": "Carmen picked up the towel and hung it on the rack.",
+            "vi": "Carmen nhặt chiếc khăn lên và treo nó lên giá."
+        }
+    ],
+    "words_form": [
+        "toweled",
+        "toweling",
+        "towelled",
+        "towelling",
+        "towels"
+    ],
+    "meaning_vi": "cái khăn"
+}

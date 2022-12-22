@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈlɑdʒɪk/"
+    ],
+    "synonyms": [
+        "reason",
+        "reasoning",
+        "consistent",
+        "rationale",
+        "unreasonableness"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of logic is a science that studies the principles of correct reasoning.",
+            "vi": "Định nghĩa của logic là một môn khoa học nghiên cứu các nguyên tắc của suy luận đúng đắn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Logical.",
+            "vi": "Hợp lý."
+        },
+        {
+            "pos": "verb",
+            "en": "(intransitive, pejorative) To engage in excessive or inappropriate application of logic.",
+            "vi": "(intransitive, pejorative) Tham gia vào việc áp dụng logic quá mức hoặc không phù hợp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her logic and her sympathy are in excellent balance.",
+            "vi": "Logic của cô ấy và sự thông cảm của cô ấy ở mức cân bằng tuyệt vời."
+        },
+        {
+            "en": "His logic and acceptance of the deformity was amazingly positive and mature for a 9-year-old.",
+            "vi": "Logic và sự chấp nhận dị tật của anh ấy là một sự tích cực và trưởng thành đáng kinh ngạc đối với một đứa trẻ 9 tuổi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khoa học về lập luận; luận lý học; lô-gích học"
+}

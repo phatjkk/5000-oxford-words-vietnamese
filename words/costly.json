@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈkɔs(t)li/"
+    ],
+    "synonyms": [
+        "expensive",
+        "steep",
+        "precious",
+        "disastrous",
+        "sumptuous"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of high price or value; expensive.",
+            "vi": "Có giá hoặc giá trị cao; đắt tiền."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The new constitution, however, proved costly and unworkable, and failed to satisfy either section of the population.",
+            "vi": "Tuy nhiên, hiến pháp mới tỏ ra tốn kém và không khả thi, đồng thời không làm hài lòng cả hai bộ phận dân chúng."
+        },
+        {
+            "en": "The quest was very costly and altogether fruitless.",
+            "vi": "Nhiệm vụ rất tốn kém và hoàn toàn không có kết quả."
+        }
+    ],
+    "words_form": [
+        "costlier",
+        "costliest"
+    ],
+    "meaning_vi": "tốn kém"
+}

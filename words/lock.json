@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/lɑk/"
+    ],
+    "synonyms": [
+        "link",
+        "clasp",
+        "secure",
+        "snip",
+        "intern"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To invest (funds) in such a way that they cannot easily be converted into cash.",
+            "vi": "Đầu tư (quỹ) theo cách mà chúng không thể dễ dàng chuyển đổi thành tiền mặt."
+        },
+        {
+            "pos": "noun",
+            "en": "A locking together; jam.",
+            "vi": "Một khóa với nhau; mứt."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "suffix",
+            "en": "(no longer productive) Action or proceeding, practice, ritual.",
+            "vi": "(không còn hiệu quả) Hành động hoặc tiến hành, thực hành, nghi lễ."
+        },
+        {
+            "pos": "idiom",
+            "en": "lock horns  To become embroiled in conflict.",
+            "vi": "khóa sừng Để trở nên lôi kéo vào cuộc xung đột."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll get the lights and lock the door!",
+            "vi": "Tôi sẽ lấy đèn và khóa cửa!"
+        },
+        {
+            "en": "They're too busy trying to lock me up and toss the key.",
+            "vi": "Họ quá bận khi cố nhốt tôi và tung chìa khóa."
+        }
+    ],
+    "words_form": [
+        "locked",
+        "locking",
+        "locks"
+    ],
+    "meaning_vi": "ổ khóa"
+}

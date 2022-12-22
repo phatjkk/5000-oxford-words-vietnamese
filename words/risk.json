@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rɪsk/"
+    ],
+    "synonyms": [
+        "danger",
+        "endanger",
+        "chance",
+        "peril",
+        "gamble"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Risk is the possibility or chance of loss, danger or injury.",
+            "vi": "Rủi ro là khả năng xảy ra hoặc khả năng xảy ra mất mát, nguy hiểm hoặc thương tật."
+        },
+        {
+            "pos": "verb",
+            "en": "Risk is defined as to expose someone or something to a dangerous situation.",
+            "vi": "Rủi ro được định nghĩa là việc đưa ai đó hoặc điều gì đó vào tình huống nguy hiểm."
+        },
+        {
+            "pos": "idiom",
+            "en": "at risk  In an endangered state, especially from lack of proper care: Unsupervised children who are at risk of dropping out of school.",
+            "vi": "gặp rủi ro Trong tình trạng nguy cấp, đặc biệt là do thiếu sự chăm sóc thích hợp: Trẻ em không được giám sát có nguy cơ bỏ học."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I take a risk every time I go out.",
+            "vi": "Tôi chấp nhận rủi ro mỗi khi ra ngoài."
+        },
+        {
+            "en": "Death is a part of the risk we take.",
+            "vi": "Cái chết là một phần của rủi ro mà chúng ta chấp nhận."
+        }
+    ],
+    "words_form": [
+        "risked",
+        "risking",
+        "risks"
+    ],
+    "meaning_vi": "nguy cơ"
+}

@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈbækˌɡraʊnd/"
+    ],
+    "synonyms": [
+        "history",
+        "backdrop",
+        "upbringing",
+        "inconspicuous",
+        "credentials"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The ground or scenery located behind something.",
+            "vi": "Mặt đất hoặc khung cảnh nằm phía sau một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To provide a background for.",
+            "vi": "Để cung cấp một nền tảng cho."
+        },
+        {
+            "pos": "idiom",
+            "en": "on background  For publication but without specific attribution of the source: The senator would only speak on background with the reporter about the crisis.",
+            "vi": "về lý lịch Để công bố nhưng không ghi rõ nguồn cụ thể: Thượng nghị sĩ sẽ chỉ nói chuyện nền với phóng viên về cuộc khủng hoảng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I saved it as the background on the iPad.",
+            "vi": "Tôi đã lưu nó làm nền trên iPad."
+        },
+        {
+            "en": "In the background were the beautiful layered mountains of the White Rock Wildlife Management.",
+            "vi": "Ở hậu cảnh là những ngọn núi nhiều lớp tuyệt đẹp của White Rock Wildlife Management."
+        }
+    ],
+    "words_form": [
+        "backgrounds"
+    ],
+    "meaning_vi": "nền"
+}

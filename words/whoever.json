@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/huˈɛvər/"
+    ],
+    "synonyms": [
+        "who",
+        "whatever",
+        "nobody",
+        "somebody",
+        "whomever"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Any person that; whatever person.",
+            "vi": "Bất kỳ người nào mà; bất cứ người nào."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll buy it from whoever owns it.",
+            "vi": "Tôi sẽ mua nó từ bất kỳ ai sở hữu nó."
+        },
+        {
+            "en": "Whoever has them will be able to take control.",
+            "vi": "Ai có chúng sẽ có thể nắm quyền kiểm soát."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bất cứ ai"
+}

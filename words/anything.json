@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈɛniˌθɪŋ/"
+    ],
+    "synonyms": [
+        "everything",
+        "any",
+        "something",
+        "all",
+        "aught"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A thing, no matter of what kind.",
+            "vi": "Một điều, không có vấn đề gì loại."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Any object, event, fact, etc.",
+            "vi": "Bất kỳ đối tượng, sự kiện, sự kiện, v.v."
+        },
+        {
+            "pos": "adverb",
+            "en": "To any degree or extent; at all.",
+            "vi": "Ở bất kỳ mức độ hoặc mức độ nào; ở tất cả."
+        },
+        {
+            "pos": "idiom",
+            "en": "anything but  By no means; not at all: I was anything but happy about going.",
+            "vi": "bất cứ điều gì nhưng không có nghĩa là; hoàn toàn không phải: Tôi đã bất cứ điều gì ngoài hạnh phúc về việc đi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He does not like to do anything else.",
+            "vi": "Anh ấy không thích làm bất cứ điều gì khác."
+        },
+        {
+            "en": "He didn't want anything to do with them, so they didn't exist.",
+            "vi": "Anh không muốn bất cứ điều gì liên quan đến chúng, vì vậy chúng không tồn tại."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bất cứ điều gì"
+}

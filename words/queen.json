@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/kwin/"
+    ],
+    "synonyms": [
+        "empress",
+        "diva",
+        "goddess",
+        "fairy",
+        "ruler"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A queen is defined as a girl who is very important or successful at something.",
+            "vi": "Nữ hoàng được định nghĩa là một cô gái rất quan trọng hoặc thành công trong một việc gì đó."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A title given to queens.",
+            "vi": "Một danh hiệu được trao cho các nữ hoàng."
+        },
+        {
+            "pos": "verb",
+            "en": "To reign as queen.",
+            "vi": "Lên ngôi hoàng hậu."
+        },
+        {
+            "pos": "idiom",
+            "en": "queen it  To act like a queen; domineer: Queens it over the whole family.",
+            "vi": "nữ hoàng nó Để hành động như một nữ hoàng; độc đoán: Queens nó lên cả gia đình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You are the Queen of my heart.",
+            "vi": "Bạn là nữ hoàng của trái tim tôi."
+        },
+        {
+            "en": "He is private physician to the Queen of Spain.",
+            "vi": "Ông là bác sĩ riêng của Nữ hoàng Tây Ban Nha."
+        }
+    ],
+    "words_form": [
+        "queens"
+    ],
+    "meaning_vi": "nữ hoàng"
+}

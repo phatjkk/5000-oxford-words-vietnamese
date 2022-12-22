@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈhɑrdli/"
+    ],
+    "synonyms": [
+        "barely",
+        "seldom",
+        "scarcely",
+        "just",
+        "slightly"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "With great difficulty or effort.",
+            "vi": "Với khó khăn hoặc nỗ lực lớn."
+        },
+        {
+            "pos": "interjection",
+            "en": "Not really.",
+            "vi": "Không hẳn vậy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can hardly wait for the fun to begin!",
+            "vi": "Tôi khó có thể chờ đợi niềm vui bắt đầu!"
+        },
+        {
+            "en": "He hardly knew how it tasted.",
+            "vi": "Anh hầu như không biết nó có mùi vị như thế nào."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khó khăn"
+}

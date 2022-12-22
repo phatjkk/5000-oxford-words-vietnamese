@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/stɔrm/"
+    ],
+    "synonyms": [
+        "tornado",
+        "tempest",
+        "cloudburst",
+        "wind",
+        "twister"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An atmospheric disturbance manifested in strong winds accompanied by rain, snow, or other precipitation and often by thunder and lightning.",
+            "vi": "Sự xáo trộn khí quyển biểu hiện bằng gió mạnh kèm theo mưa, tuyết hoặc lượng mưa khác và thường kèm theo sấm sét."
+        },
+        {
+            "pos": "verb",
+            "en": "To storm is defined as to move violently or with anger.",
+            "vi": "Bão tố được định nghĩa là di chuyển dữ dội hoặc tức giận."
+        },
+        {
+            "pos": "idiom",
+            "en": "take by storm  To captivate completely: A new play that took New York City by storm.",
+            "vi": "cuốn theo cơn bão Để quyến rũ hoàn toàn: Một vở kịch mới đã gây bão thành phố New York."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The storm continued most of the night.",
+            "vi": "Cơn bão tiếp tục kéo dài gần hết đêm."
+        },
+        {
+            "en": "Suddenly a storm came up.",
+            "vi": "Bỗng một cơn bão nổi lên."
+        }
+    ],
+    "words_form": [
+        "stormed",
+        "storming",
+        "storms"
+    ],
+    "meaning_vi": "bão táp"
+}

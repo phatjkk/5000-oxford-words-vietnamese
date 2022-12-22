@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/əˈɡɛnst/"
+    ],
+    "synonyms": [
+        "upon",
+        "on",
+        "abreast",
+        "next",
+        "anti"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "In preparation for; in anticipation of.",
+            "vi": "Chuẩn bị cho; trong dự đoán của."
+        },
+        {
+            "pos": "conjunction",
+            "en": "(archaic) By the time that; before.",
+            "vi": "(cổ xưa) Vào thời điểm đó; trước."
+        },
+        {
+            "pos": "adverb",
+            "en": "In opposition to something.",
+            "vi": "Đối lập với một cái gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "over against  opposite to as compared with",
+            "vi": "so với ngược lại so với so với"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What do you have against me?",
+            "vi": "Bạn có gì chống lại tôi?"
+        },
+        {
+            "en": "I don't have to defend myself against Alex.",
+            "vi": "Tôi không cần phải tự vệ trước Alex."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chống lại"
+}

@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/twɪn/"
+    ],
+    "synonyms": [
+        "fraternal twin",
+        "mate",
+        "fellow",
+        "dyadic",
+        "duplicate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One of two identical or similar people, animals, or things; a counterpart.",
+            "vi": "Một trong hai người, động vật hoặc sự vật giống hệt nhau hoặc giống nhau; một đối tác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Being two or one of two offspring born at the same birth.",
+            "vi": "Là hai hoặc một trong hai con đẻ cùng lứa."
+        },
+        {
+            "pos": "verb",
+            "en": "To be paired or coupled.",
+            "vi": "Để được ghép nối hoặc ghép nối."
+        },
+        {
+            "pos": "prefix",
+            "en": "Of or relating to twins or being a twin.",
+            "vi": "Của hoặc liên quan đến sinh đôi hoặc là một cặp song sinh."
+        },
+        {
+            "pos": "idiom",
+            "en": "the Twins  Gemini, the constellation and third sign of the zodiac",
+            "vi": "Song Tử sinh đôi, chòm sao và dấu hiệu thứ ba của hoàng đạo"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "These are a state prison at Deer Lodge, managed by contract; a reform school at Miles City, an industrial school at Butte, an orphans' home at Twin Bridges, the soldiers' home at Columbia Falls, a school for deaf and blind at Boulder, and an insane asylum at Warm Springs, managed by contract.",
+            "vi": "Đây là một nhà tù tiểu bang tại Deer Lodge, được quản lý theo hợp đồng; một trường giáo dưỡng ở Miles City, một trường công nghiệp ở Butte, một ngôi nhà dành cho trẻ mồ côi ở Twin Bridges, nhà của những người lính ở Thác Columbia, một trường dành cho người khiếm thính và mù ở Boulder, và một trại tị nạn mất trí ở Warm Springs, được quản lý theo hợp đồng."
+        },
+        {
+            "en": "In these as in other respects, however, it is a lesser twin of Walden.",
+            "vi": "Tuy nhiên, ở những khía cạnh này cũng như những khía cạnh khác, nó là một người anh em song sinh của Walden."
+        }
+    ],
+    "words_form": [
+        "twinned",
+        "twinning",
+        "twins"
+    ],
+    "meaning_vi": "trẻ sinh đôi"
+}

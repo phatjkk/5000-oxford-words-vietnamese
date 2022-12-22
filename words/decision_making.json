@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/dɪˈsɪʒən-ˈmeɪkɪŋ/"
+    ],
+    "synonyms": [
+        "managerial",
+        "governing",
+        "ruling",
+        "controlling",
+        "directing"
+    ],
+    "meaning": [
+        {
+            "pos": "",
+            "en": "Making choices. The proper balance of human and machine decision making is an important part of a system's design.Human Decision Making Is ComplexIt is easy to think of automating tasks traditionally performed by people, but it is not that easy to analyze how decisions are made by an experienced, intuitive worker. If an improper analysis of human decision making is made, the wrong decision making may be placed into the machine, which can get buried in documentation that is rarely reviewed. This will become a critical issue as artificial intelligence applications proliferate. See AI.Algorithmic or HeuristicFrom a programming point of view, decision making is performed two ways: algorithmic, a precise set of rules and conditions that never change, or heuristic, a set of rules that may change over time (self-modify) as conditions occur. Heuristic techniques are employed in AI systems.",
+            "vi": "Có khả năng hoặc được thiết kế để rạch, cắt hoặc cắt nhỏ."
+        },
+        {
+            "pos": "noun",
+            "en": "The process of reaching a decision.",
+            "vi": "Hiện tại phân từ cắt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Cognitive development is the construction of thought processes, including remembering, problem solving, and decision-making, from childhood through adolescence to adulthood.",
+            "vi": "Phát triển nhận thức là việc xây dựng các quá trình suy nghĩ, bao gồm ghi nhớ, giải quyết vấn đề và ra quyết định, từ thời thơ ấu đến tuổi thiếu niên cho đến khi trưởng thành."
+        },
+        {
+            "en": "Anyway, I don't want anyone taking over the decision making for me.",
+            "vi": "Dù sao, tôi không muốn bất cứ ai thay tôi quyết định."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "",
+            "en": "Making choices. The proper balance of human and machine decision making is an important part of a system's design.Human Decision Making Is ComplexIt is easy to think of automating tasks traditionally performed by people, but it is not that easy to analyze how decisions are made by an experienced, intuitive worker. If an improper analysis of human decision making is made, the wrong decision making may be placed into the machine, which can get buried in documentation that is rarely reviewed. This will become a critical issue as artificial intelligence applications proliferate. See AI.Algorithmic or HeuristicFrom a programming point of view, decision making is performed two ways: algorithmic, a precise set of rules and conditions that never change, or heuristic, a set of rules that may change over time (self-modify) as conditions occur. Heuristic techniques are employed in AI systems.",
+            "vi": "Có khả năng hoặc được thiết kế để rạch, cắt hoặc cắt nhỏ."
+        },
+        {
+            "pos": "noun",
+            "en": "The process of reaching a decision.",
+            "vi": "Hiện tại phân từ cắt."
+        }
+    ]
+}

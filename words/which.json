@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/(h)wɪtʃ/"
+    ],
+    "synonyms": [
+        "that",
+        "what",
+        "whichever",
+        "who",
+        "whatever"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "What particular one or ones of a number of things or people.",
+            "vi": "Một hoặc những gì cụ thể của một số sự vật hoặc con người."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Any of the things, events, or people designated or implied; whichever.",
+            "vi": "Bất kỳ sự vật, sự kiện hoặc những người được chỉ định hoặc ngụ ý; nào."
+        },
+        {
+            "pos": "determiner",
+            "en": "What, of those mentioned or implied (used interrogatively).",
+            "vi": "Cái gì, trong số những người được đề cập hoặc ngụ ý (được sử dụng một cách nghi vấn)."
+        },
+        {
+            "pos": "noun",
+            "en": "An occurrence of the word which.",
+            "vi": "Sự xuất hiện của từ which."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "All of which was beside the point.",
+            "vi": "Tất cả những điều đó đều ở bên cạnh vấn đề."
+        },
+        {
+            "en": "The dining room was directly off the kitchen, which was also lavish.",
+            "vi": "Phòng ăn nằm ngay phía ngoài nhà bếp, nơi cũng rất xa hoa."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "mà"
+}

@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/sɪks/"
+    ],
+    "synonyms": [
+        "hexad",
+        "sextuple",
+        "sextuplet",
+        "vi",
+        "6"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The sixth in a set or sequence.",
+            "vi": "Thứ sáu trong một tập hợp hoặc một chuỗi."
+        },
+        {
+            "pos": "adjective",
+            "en": "Totaling one more than five.",
+            "vi": "Tổng cộng một hơn năm."
+        },
+        {
+            "pos": "idiom",
+            "en": "at sixes and sevens  In a state of confusion or disorder.",
+            "vi": "lúc sáu tuổi và lúc gấp khúc Ở trạng thái bối rối hoặc rối loạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Dinner will be ready at six O'clock.",
+            "vi": "Bữa tối sẽ sẵn sàng lúc sáu giờ."
+        },
+        {
+            "en": "Six, but who's counting?",
+            "vi": "Sáu, nhưng ai đang đếm?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "Số sáu"
+}

@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈtʊrəst/"
+    ],
+    "synonyms": [
+        "sightseer",
+        "rubberneck",
+        "vacationist",
+        "traveler",
+        "visitor"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Someone who travels for pleasure rather than for business.",
+            "vi": "Một người đi du lịch vì niềm vui hơn là vì công việc."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or for tourists.",
+            "vi": "Của hoặc cho khách du lịch."
+        },
+        {
+            "pos": "adverb",
+            "en": "In or by means of tourist class.",
+            "vi": "Trong hoặc bằng phương tiện của hạng khách du lịch."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This is the time for the tourist to visit India.",
+            "vi": "Đây là thời điểm để du khách đến thăm Ấn Độ."
+        },
+        {
+            "en": "But first you have to earn it by helping this tourist who just arrived in town.",
+            "vi": "Nhưng trước tiên bạn phải kiếm được nó bằng cách giúp đỡ người khách du lịch mới đến thị trấn này."
+        }
+    ],
+    "words_form": [
+        "tourists"
+    ],
+    "meaning_vi": "khách du lịch"
+}

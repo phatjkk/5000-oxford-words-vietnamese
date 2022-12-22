@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dəˈzɑlv/"
+    ],
+    "synonyms": [
+        "break up",
+        "disintegration",
+        "separate",
+        "liquefy",
+        "eradicate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To dissolve is defined as to become broken up or absorbed by something or to disappear into something else.",
+            "vi": "Tan biến được định nghĩa là trở nên bị phá vỡ hoặc bị hấp thụ bởi một thứ gì đó hoặc biến mất vào một thứ khác."
+        },
+        {
+            "pos": "noun",
+            "en": "A transition in a cinematic work consisting of a superimposition in which the first shot fades out while the second shot gradually appears.",
+            "vi": "Quá trình chuyển đổi trong tác phẩm điện ảnh bao gồm sự chồng chất, trong đó cảnh quay đầu tiên mờ dần trong khi cảnh quay thứ hai dần dần xuất hiện."
+        },
+        {
+            "pos": "idiom",
+            "en": "dissolve in tears  weep",
+            "vi": "hòa tan trong nước mắt khóc"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It will not dissolve in water as gums do, but it is soluble in alcohol, as resin usually is.",
+            "vi": "Nó sẽ không hòa tan trong nước như gôm, nhưng nó có thể hòa tan trong rượu, như nhựa thông thường."
+        },
+        {
+            "en": "The Sophists were the first in Greece to dissolve knowledge into individual and momentary opinion (Protagoras), or dialectically to deny the possibility of knowledge (Gorgias).",
+            "vi": "Các nhà ngụy biện là những người đầu tiên ở Hy Lạp hòa tan tri thức thành quan điểm cá nhân và nhất thời (Protagoras), hoặc phủ nhận một cách biện chứng khả năng có tri thức (Gorgias)."
+        }
+    ],
+    "words_form": [
+        "dissolved",
+        "dissolves",
+        "dissolving"
+    ],
+    "meaning_vi": "giải thể"
+}

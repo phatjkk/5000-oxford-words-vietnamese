@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈmidiəm/"
+    ],
+    "synonyms": [
+        "average",
+        "fortuneteller",
+        "common",
+        "fair",
+        "metier"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A solvent with which paint is thinned to the proper consistency.",
+            "vi": "Dung môi pha loãng sơn đến độ đặc thích hợp."
+        },
+        {
+            "pos": "adjective",
+            "en": "Between rare and well-done.",
+            "vi": "Giữa hiếm và được thực hiện tốt."
+        },
+        {
+            "pos": "adverb",
+            "en": "To a medium extent.",
+            "vi": "Ở mức độ trung bình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Wine of medium quality is grown on the banks of the Marne and the Aisne.",
+            "vi": "Rượu vang có chất lượng trung bình được trồng trên các bờ sông Marne và Aisne."
+        },
+        {
+            "en": "Duikers are animals of small or medium size, usually frequenting thick forest.",
+            "vi": "Duiker là động vật có kích thước nhỏ hoặc trung bình, thường đi rừng rậm."
+        }
+    ],
+    "words_form": [
+        "media",
+        "mediums"
+    ],
+    "meaning_vi": "trung bình"
+}

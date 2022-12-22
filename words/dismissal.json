@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌdɪsˈmɪs(ə)l/"
+    ],
+    "synonyms": [
+        "layoff",
+        "discharge",
+        "deposition",
+        "release",
+        "liberation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An order or notice of discharge.",
+            "vi": "Một lệnh hoặc thông báo xuất viện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He waved a hand in dismissal and turned away.",
+            "vi": "Anh ta xua tay ra hiệu và quay đi."
+        },
+        {
+            "en": "His casual dismissal infuriated her.",
+            "vi": "Sự sa thải ngẫu nhiên của anh khiến cô tức giận."
+        }
+    ],
+    "words_form": [
+        "dismissals"
+    ],
+    "meaning_vi": "sa thải"
+}

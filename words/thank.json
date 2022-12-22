@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/θæŋk/"
+    ],
+    "synonyms": [
+        "bless",
+        "praise",
+        "acknowledge",
+        "neglect",
+        "ignore"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Credit or hold something responsible.",
+            "vi": "Tín dụng hoặc giữ một cái gì đó có trách nhiệm."
+        },
+        {
+            "pos": "noun",
+            "en": "Milton.",
+            "vi": "Milton."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Thank you for inviting us.",
+            "vi": "Cảm ơn bạn đã mời chúng tôi."
+        },
+        {
+            "en": "Thank you so much for helping, Jonathan.",
+            "vi": "Cảm ơn bạn rất nhiều vì đã giúp đỡ, Jonathan."
+        }
+    ],
+    "words_form": [
+        "thanks"
+    ],
+    "meaning_vi": "Cảm ơn."
+}

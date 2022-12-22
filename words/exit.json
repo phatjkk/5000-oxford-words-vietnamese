@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈɛɡzət/",
+        "/ˈɛksət/"
+    ],
+    "synonyms": [
+        "leave",
+        "way-out",
+        "egress",
+        "outlet",
+        "expiration"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an exit is a departure or a place for a departure.",
+            "vi": "Định nghĩa của một lối thoát là một sự khởi hành hoặc một nơi cho một sự khởi hành."
+        },
+        {
+            "pos": "verb",
+            "en": "Exit is defined as to leave or go out of.",
+            "vi": "Exit được định nghĩa là rời khỏi hoặc đi ra khỏi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You people need an exit strategy.",
+            "vi": "Mọi người của bạn cần một chiến lược rút lui."
+        },
+        {
+            "en": "The two men herded them to the cellar's exit as the leader spoke.",
+            "vi": "Hai người đàn ông đưa họ đến lối ra của căn hầm khi người lãnh đạo nói."
+        }
+    ],
+    "words_form": [
+        "exited",
+        "exiting",
+        "exits"
+    ],
+    "meaning_vi": "lối thoát hiểm"
+}

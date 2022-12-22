@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/klaʊd/"
+    ],
+    "synonyms": [
+        "haze",
+        "mist",
+        "flocculent",
+        "legion",
+        "turbid"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a cloud is a visible mass of small water droplets or ice particles which are suspended in the sky.",
+            "vi": "Định nghĩa về mây là một khối lượng có thể nhìn thấy được của các giọt nước nhỏ hoặc các hạt băng lơ lửng trên bầu trời."
+        },
+        {
+            "pos": "verb",
+            "en": "To cover or make dark as with clouds.",
+            "vi": "Để che hoặc làm cho bóng tối như với những đám mây."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the clouds  Impractical.",
+            "vi": "trên mây Không thực tế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A black cloud seemed to cover the earth.",
+            "vi": "Một đám mây đen dường như bao phủ trái đất."
+        },
+        {
+            "en": "They are the Cloud Fairies.",
+            "vi": "Họ là những nàng tiên trên mây."
+        }
+    ],
+    "words_form": [
+        "clouded",
+        "clouding",
+        "clouds"
+    ],
+    "meaning_vi": "đám mây"
+}

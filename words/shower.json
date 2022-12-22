@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈʃaʊ(ə)r/"
+    ],
+    "synonyms": [
+        "hail",
+        "rainfall",
+        "pour",
+        "sprinkle",
+        "mist"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A brief fall of precipitation.",
+            "vi": "Một mùa thu ngắn của lượng mưa."
+        },
+        {
+            "pos": "verb",
+            "en": "To bathe under a shower.",
+            "vi": "Tắm dưới vòi hoa sen."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "After a warm shower, she felt better.",
+            "vi": "Sau khi tắm nước ấm, cô cảm thấy dễ chịu hơn."
+        },
+        {
+            "en": "The shower was on, and she was singing.",
+            "vi": "Vòi hoa sen đang bật và cô ấy đang hát."
+        }
+    ],
+    "words_form": [
+        "showered",
+        "showering",
+        "showers"
+    ],
+    "meaning_vi": "vòi hoa sen"
+}

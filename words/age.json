@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/eɪdʒ/"
+    ],
+    "synonyms": [
+        "epoch",
+        "interim",
+        "senectitude",
+        "stage",
+        "old age"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Age is defined as a span of years during which some event occurred.",
+            "vi": "Tuổi được định nghĩa là khoảng năm mà một số sự kiện đã xảy ra."
+        },
+        {
+            "pos": "verb",
+            "en": "Age means to experience the passage of time or show signs of growing older.",
+            "vi": "Tuổi tác có nghĩa là thời gian trôi qua hoặc có dấu hiệu già đi."
+        },
+        {
+            "pos": "suffix",
+            "en": "Residence or place of.",
+            "vi": "Nơi cư trú hoặc nơi ở của."
+        },
+        {
+            "pos": "affix",
+            "en": "Cost of.",
+            "vi": "Giá trị của."
+        },
+        {
+            "pos": "idiom",
+            "en": "come of age  To reach maturity.",
+            "vi": "đến tuổi trưởng thành."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He sold his first painting at age fifteen – something like $17,000.",
+            "vi": "Anh ấy đã bán bức tranh đầu tiên của mình vào năm mười lăm tuổi - khoảng 17.000 đô la."
+        },
+        {
+            "en": "At her age, the words sounded strange.",
+            "vi": "Ở tuổi của cô ấy, những từ ngữ nghe thật lạ."
+        }
+    ],
+    "words_form": [
+        "aged",
+        "ageing",
+        "ages",
+        "aging"
+    ],
+    "meaning_vi": "tuổi"
+}

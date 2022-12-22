@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈkɔʃ(ə)n/"
+    ],
+    "synonyms": [
+        "care",
+        "discretion",
+        "admonition",
+        "warn",
+        "hint"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a caution is a warning, or is the act of expressing care because of potential risk or danger.",
+            "vi": "Định nghĩa về cảnh báo là một cảnh báo, hoặc là hành động bày tỏ sự cẩn thận vì có thể có rủi ro hoặc nguy hiểm."
+        },
+        {
+            "pos": "verb",
+            "en": "To caution is defined as to warn.",
+            "vi": "Thận trọng được định nghĩa là để cảnh báo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "As the couple climbed to higher elevations, more caution was necessary as icy patches became more frequent.",
+            "vi": "Khi hai vợ chồng leo lên độ cao hơn, cần thận trọng hơn vì các mảng băng giá trở nên thường xuyên hơn."
+        },
+        {
+            "en": "Once again, I'll exercise caution and not lead anyone to my secret place.",
+            "vi": "Một lần nữa, tôi sẽ thận trọng và không dẫn bất cứ ai đến nơi bí mật của tôi."
+        }
+    ],
+    "words_form": [
+        "cautioned",
+        "cautions"
+    ],
+    "meaning_vi": "thận trọng"
+}

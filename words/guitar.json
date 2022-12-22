@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ɡəˈtɑr/"
+    ],
+    "synonyms": [
+        "bass",
+        "riff",
+        "harmonica",
+        "hammond-organ",
+        "drum"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A musical instrument having a flat-backed rounded body that narrows in the middle, a long fretted neck, and usually six strings, played by strumming or plucking.",
+            "vi": "Một loại nhạc cụ có thân tròn, lưng phẳng thu hẹp ở giữa, cần đàn dài và thường có sáu dây, được chơi bằng cách gảy hoặc gảy."
+        },
+        {
+            "pos": "verb",
+            "en": "(rare) To play the guitar.",
+            "vi": "(hiếm) Để chơi guitar."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"I doubt he can play a guitar,\" he said between sips.",
+            "vi": "“Tôi nghi ngờ anh ấy có thể chơi guitar,” anh nói giữa những ngụm."
+        },
+        {
+            "en": "She rose, put down the guitar, and went to the drawing room.",
+            "vi": "Cô đứng dậy, đặt cây đàn xuống và đi đến phòng vẽ."
+        }
+    ],
+    "words_form": [
+        "guitars"
+    ],
+    "meaning_vi": "đàn ghi ta"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈtrædʒɪk/"
+    ],
+    "synonyms": [
+        "unhappy",
+        "terrible",
+        "catastrophic",
+        "unfortunate",
+        "hapless"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of tragic is something sad, harmful or fatal.",
+            "vi": "Định nghĩa của bi kịch là một cái gì đó đáng buồn, có hại hoặc chết người."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) A writer of tragedy.",
+            "vi": "(lỗi thời) Một nhà văn của bi kịch."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What a sad and tragic life poor Annie led.",
+            "vi": "Thật là một cuộc đời đáng buồn và bi thảm mà Annie đã dẫn dắt."
+        },
+        {
+            "en": "It was a tragic love story, one she knew the end to and dreaded seeing how it came to be that way.",
+            "vi": "Đó là một câu chuyện tình yêu bi thảm, một câu chuyện mà cô biết đến tận cùng và sợ hãi khi thấy nó diễn ra theo cách đó như thế nào."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bi thảm"
+}

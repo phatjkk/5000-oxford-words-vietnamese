@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈmɪnəməm/"
+    ],
+    "synonyms": [
+        "smallest",
+        "merest",
+        "lowest",
+        "largest",
+        "maximal"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The smallest quantity, number, or degree possible or permissible.",
+            "vi": "Số lượng, số lượng hoặc mức độ nhỏ nhất có thể hoặc cho phép."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, marking, or setting a minimum or minimums.",
+            "vi": "Trong số, đánh dấu hoặc đặt mức tối thiểu hoặc tối thiểu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Its minimum depth is 850 ft.",
+            "vi": "Độ sâu tối thiểu của nó là 850 ft."
+        },
+        {
+            "en": "In that world, everyone will be guaranteed a minimum income.",
+            "vi": "Trong thế giới đó, mọi người đều sẽ được đảm bảo mức thu nhập tối thiểu."
+        }
+    ],
+    "words_form": [
+        "minima",
+        "minimums"
+    ],
+    "meaning_vi": "tối thiểu"
+}

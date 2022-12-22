@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈdɛdˌlaɪn/"
+    ],
+    "synonyms": [
+        "target date",
+        "submission",
+        "timetable",
+        "timescale",
+        "date"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a deadline is when something is due, or the latest time by which something must be completed.",
+            "vi": "Định nghĩa về thời hạn là khi một cái gì đó đến hạn, hoặc thời gian muộn nhất mà cái gì đó phải được hoàn thành."
+        },
+        {
+            "pos": "verb",
+            "en": "To govern by setting a time limit.",
+            "vi": "Để điều chỉnh bằng cách đặt giới hạn thời gian."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can't forget your deadline.",
+            "vi": "Tôi không thể quên thời hạn của bạn."
+        },
+        {
+            "en": "I don't mean monsters are chasing me but I have a deadline or there's some unfinished business.",
+            "vi": "Ý tôi không phải là những con quái vật đang đuổi theo tôi nhưng tôi có thời hạn hoặc có một số công việc chưa hoàn thành."
+        }
+    ],
+    "words_form": [
+        "deadlines"
+    ],
+    "meaning_vi": "hạn chót"
+}

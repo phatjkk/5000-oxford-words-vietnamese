@@ -1,0 +1,59 @@
+{
+    "spelling": [
+        "/pləs/"
+    ],
+    "synonyms": [
+        "additional",
+        "also",
+        "beneficial",
+        "together with",
+        "less"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A favorable condition or factor.",
+            "vi": "Một điều kiện hoặc yếu tố thuận lợi."
+        },
+        {
+            "pos": "conjunction",
+            "en": "(mathematics) Increased by the addition of.",
+            "vi": "(toán học) Tăng lên khi thêm vào."
+        },
+        {
+            "pos": "adverb",
+            "en": "Plus is defined as and, or in addition.",
+            "vi": "Dấu cộng được định nghĩa là và, hoặc thêm vào."
+        },
+        {
+            "pos": "adjective",
+            "en": "Positive or on the positive part of a scale.",
+            "vi": "Tích cực hoặc trên phần tích cực của thang điểm."
+        },
+        {
+            "pos": "preposition",
+            "en": "Added to.",
+            "vi": "Đã thêm vào."
+        },
+        {
+            "pos": "verb",
+            "en": "(informal) To add; to subject to addition.",
+            "vi": "(không chính thức) Để thêm; để bổ sung."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Plus, if there is war, there are more competitors.",
+            "vi": "Thêm vào đó, nếu có chiến tranh, có nhiều đối thủ cạnh tranh hơn."
+        },
+        {
+            "en": "Plus, they will be able to convert heat to electricity as well, so anything that heats up will become an energy source.",
+            "vi": "Thêm vào đó, chúng cũng sẽ có thể chuyển đổi nhiệt thành điện năng, vì vậy bất cứ thứ gì nóng lên sẽ trở thành nguồn năng lượng."
+        }
+    ],
+    "words_form": [
+        "pluses",
+        "plusses"
+    ],
+    "meaning_vi": "thêm"
+}

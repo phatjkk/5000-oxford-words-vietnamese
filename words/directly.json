@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/dɪˈrɛktli/",
+        "/daɪˈrɛktli/"
+    ],
+    "synonyms": [
+        "straightaway",
+        "instantly",
+        "straight",
+        "direct",
+        "totally"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In a direct manner; in a straight line or course.",
+            "vi": "Theo cách trực tiếp; trên một đường thẳng hoặc khóa học."
+        },
+        {
+            "pos": "conjunction",
+            "en": "As soon as.",
+            "vi": "Càng sớm càng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The sun was directly overhead.",
+            "vi": "Mặt trời chiếu thẳng trên đầu."
+        },
+        {
+            "en": "I'm directly responsible for all of this.",
+            "vi": "Tôi trực tiếp chịu trách nhiệm cho tất cả những điều này."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "trực tiếp"
+}

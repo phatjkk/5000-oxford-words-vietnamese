@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˌɪmpləmənˈteɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "operation",
+        "play",
+        "employment",
+        "usage",
+        "interoperability"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(electronics) A result of implementing something; a finished product, system or device.",
+            "vi": "(điện tử) Một kết quả của việc thực hiện một cái gì đó; một thành phẩm, hệ thống hoặc thiết bị."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Other costs involved include the implementation of the program, writing a dress code for the workplace uniforms, and staff to follow-up and make sure the uniforms are being worn, fit properly, kept clean and replaced when needed.",
+            "vi": "Các chi phí khác liên quan bao gồm việc thực hiện chương trình, viết quy định về trang phục cho đồng phục tại nơi làm việc, và nhân viên theo dõi và đảm bảo rằng đồng phục đang được mặc, vừa vặn, được giữ sạch sẽ và thay thế khi cần thiết."
+        },
+        {
+            "en": "While it is easy to understand why students would detest the implementation of school uniforms on campus, many people might be surprised to learn that some parents and teachers are against school uniforms as well.",
+            "vi": "Mặc dù dễ hiểu tại sao học sinh ghét việc mặc đồng phục học sinh trong khuôn viên trường, nhưng nhiều người có thể ngạc nhiên khi biết rằng một số phụ huynh và giáo viên cũng phản đối đồng phục học sinh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sự thi hành, sự thực hiện đầy đủ"
+}

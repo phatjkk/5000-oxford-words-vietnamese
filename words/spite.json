@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/spaɪt/"
+    ],
+    "synonyms": [
+        "malice",
+        "malignity",
+        "resentment",
+        "hatred",
+        "umbrage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Spite is a mean or angry feeling that makes someone want to hurt another.",
+            "vi": "Bùng nổ là một cảm giác ác ý hoặc tức giận khiến ai đó muốn làm tổn thương người khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To spite is to treat someone in a mean manner or be hurtful to another.",
+            "vi": "Bất chấp là đối xử tệ bạc với ai đó hoặc gây tổn thương cho người khác."
+        },
+        {
+            "pos": "preposition",
+            "en": "Notwithstanding; despite.",
+            "vi": "Mặc dù vậy; cho dù."
+        },
+        {
+            "pos": "idiom",
+            "en": "in spite of  Not stopped by; regardless of: They kept going in spite of their fears.",
+            "vi": "mặc dù không ghé qua; bất chấp: Họ vẫn tiếp tục đi bất chấp nỗi sợ hãi của họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In spite of her decision not to, she glanced out the window.",
+            "vi": "Bất chấp quyết định không như vậy, cô vẫn liếc ra ngoài cửa sổ."
+        },
+        {
+            "en": "In spite of her resolve, she responded.",
+            "vi": "Bất chấp quyết tâm của cô ấy, cô ấy đã đáp trả."
+        }
+    ],
+    "words_form": [
+        "spited",
+        "spites",
+        "spiting"
+    ],
+    "meaning_vi": "mặc dù"
+}

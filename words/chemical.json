@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈkɛmək(ə)l/"
+    ],
+    "synonyms": [
+        "substance",
+        "element",
+        "synthetic",
+        "compound",
+        "medicine"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Chemical is defined as something relating to chemistry or the use of a drug.",
+            "vi": "Hóa chất được định nghĩa là một cái gì đó liên quan đến hóa học hoặc việc sử dụng một loại thuốc."
+        },
+        {
+            "pos": "noun",
+            "en": "Any substance used in or obtained by a chemical process.",
+            "vi": "Bất kỳ chất nào được sử dụng trong hoặc thu được bằng một quá trình hóa học."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The advances were not merely mechanical but chemical as well.",
+            "vi": "Những tiến bộ không chỉ đơn thuần là cơ học mà còn là hóa học."
+        },
+        {
+            "en": "The chemical smell suggested they were going in the right direction.",
+            "vi": "Mùi hóa chất cho thấy họ đang đi đúng hướng."
+        }
+    ],
+    "words_form": [
+        "chemicals"
+    ],
+    "meaning_vi": "hóa chất"
+}

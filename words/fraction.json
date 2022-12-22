@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈfrækʃ(ə)n/"
+    ],
+    "synonyms": [
+        "fragmentary",
+        "part",
+        "piece",
+        "aliquot",
+        "division"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(mathematics) An expression that indicates the quotient of two quantities, such as13 .",
+            "vi": "(toán học) Một biểu thức cho biết thương của hai đại lượng, chẳng hạn như 13."
+        },
+        {
+            "pos": "verb",
+            "en": "To separate into fractions.",
+            "vi": "Để tách thành phân số."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His expression was bewildered for only a fraction of a second, and then he made a face.",
+            "vi": "Vẻ mặt anh ta ngơ ngác chỉ trong một tích tắc, và sau đó anh ta tái mặt."
+        },
+        {
+            "en": "A known fraction of the current is then indicated and measured.",
+            "vi": "Một phần đã biết của dòng điện sau đó được chỉ ra và đo."
+        }
+    ],
+    "words_form": [
+        "fractions"
+    ],
+    "meaning_vi": "phân số"
+}

@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈwikli/"
+    ],
+    "synonyms": [
+        "hebdomadally",
+        "every week",
+        "each week",
+        "monthly",
+        "fortnightly"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "By the week.",
+            "vi": "Theo tuần."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to a week.",
+            "vi": "Trong số hoặc liên quan đến một tuần."
+        },
+        {
+            "pos": "noun",
+            "en": "A publication issued once a week.",
+            "vi": "Một ấn phẩm được phát hành mỗi tuần một lần."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Average Weekly Cash Wages of ordinary Agricultural Labourers employed on certain Farms in England and Wales.",
+            "vi": "Mức lương trung bình hàng tuần bằng tiền mặt của những người lao động nông nghiệp bình thường làm việc tại một số trang trại ở Anh và xứ Wales."
+        },
+        {
+            "en": "Dumfries markets for cattle and sheep, held weekly, and for horses, held five times annually, have always ranked with the best, and there is also a weekly market for pork during the five months beginning with November.",
+            "vi": "Các phiên chợ Dumfries cho gia súc và cừu, được tổ chức hàng tuần và cho ngựa, được tổ chức năm lần hàng năm, luôn được xếp hạng tốt nhất, và cũng có phiên chợ hàng tuần cho thịt lợn trong năm tháng bắt đầu từ tháng Mười Một."
+        }
+    ],
+    "words_form": [
+        "weeklies"
+    ],
+    "meaning_vi": "hàng tuần"
+}

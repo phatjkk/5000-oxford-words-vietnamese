@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈvaɪə/",
+        "/ˈviə/"
+    ],
+    "synonyms": [
+        "through",
+        "along",
+        "over",
+        "per",
+        "way"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "Via is defined as through or by way of.",
+            "vi": "Via được định nghĩa là thông qua hoặc bằng cách."
+        },
+        {
+            "pos": "noun",
+            "en": "(electronics) A small hole in a printed circuit board filled with metal which connects two or more layers.",
+            "vi": "(điện tử) Một lỗ nhỏ trên bảng mạch in chứa đầy kim loại nối hai hoặc nhiều lớp."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Vai, Vai.",
+            "vi": "Vai vai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He recognized the building via a computer image Betsy provided.",
+            "vi": "Anh nhận ra tòa nhà qua hình ảnh máy tính mà Betsy cung cấp."
+        },
+        {
+            "en": "I know you talk to him via texts, Xander said, holding out his hand to the woman beside him.",
+            "vi": "Tôi biết bạn nói chuyện với anh ta qua tin nhắn, Xander nói, đưa tay ra cho người phụ nữ bên cạnh anh ta."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "qua"
+}

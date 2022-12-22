@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/ˈbɑroʊ/",
+        "/ˈbɔroʊ/"
+    ],
+    "synonyms": [
+        "acquire",
+        "use",
+        "lend",
+        "hire",
+        "obtain"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(linguistics) To adopt (a word) from one language for use in another.",
+            "vi": "(ngôn ngữ học) Sử dụng (một từ) từ ngôn ngữ này để sử dụng trong ngôn ngữ khác."
+        },
+        {
+            "pos": "noun",
+            "en": "(golf) Deviation of the path of a rolling ball from a straight line; slope; slant.",
+            "vi": "(gôn) Độ lệch đường đi của bóng lăn so với đường thẳng; dốc; xiên."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "borrow trouble  To take an unnecessary action that will probably engender adverse effects.",
+            "vi": "mượn rắc rối Để thực hiện một hành động không cần thiết mà có thể sẽ gây ra tác dụng phụ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Sarah, can I borrow your Lexus?",
+            "vi": "Sarah, tôi có thể mượn chiếc Lexus của bạn không?"
+        },
+        {
+            "en": "I need to borrow Andre.",
+            "vi": "Tôi cần mượn Andre."
+        }
+    ],
+    "words_form": [
+        "borrowed",
+        "borrowing",
+        "borrows"
+    ],
+    "meaning_vi": "mượn"
+}

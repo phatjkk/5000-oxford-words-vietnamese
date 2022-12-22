@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈlis/"
+    ],
+    "synonyms": [
+        "free",
+        "let out",
+        "loose",
+        "rid",
+        "set-free"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a release is a letting go, setting free or relief.",
+            "vi": "Định nghĩa của một sự phát hành là sự buông bỏ, tự do hoặc nhẹ nhõm."
+        },
+        {
+            "pos": "verb",
+            "en": "To let go or let loose.",
+            "vi": "Để buông bỏ hoặc buông lỏng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Are you going to release the description?",
+            "vi": "Bạn sẽ phát hành mô tả?"
+        },
+        {
+            "en": "At least one more thing before I release you.",
+            "vi": "Ít nhất một điều nữa trước khi tôi trả tự do cho bạn."
+        }
+    ],
+    "words_form": [
+        "released",
+        "releases",
+        "releasing"
+    ],
+    "meaning_vi": "giải phóng"
+}

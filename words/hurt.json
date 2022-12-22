@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/hərt/"
+    ],
+    "synonyms": [
+        "injured",
+        "damaged",
+        "wounded",
+        "bruised",
+        "disturbed"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something that wounds the feelings.",
+            "vi": "Một cái gì đó làm tổn thương tình cảm."
+        },
+        {
+            "pos": "verb",
+            "en": "The definition of hurt is feeling physical pain, or to cause someone or something to experience physical pain or to cause harm.",
+            "vi": "Định nghĩa của sự tổn thương là cảm giác đau đớn về thể xác, hoặc khiến ai đó hoặc điều gì đó phải trải qua nỗi đau thể xác hoặc gây tổn hại."
+        },
+        {
+            "pos": "adjective",
+            "en": "Injured; damaged.",
+            "vi": "Bị thương; hư hỏng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Did I hurt you?",
+            "vi": "Tôi đã làm tổn thương bạn?"
+        },
+        {
+            "en": "I did not mean to hurt you.",
+            "vi": "Tôi không cố ý làm tổn thương bạn."
+        }
+    ],
+    "words_form": [
+        "hurting",
+        "hurts"
+    ],
+    "meaning_vi": "tổn thương"
+}

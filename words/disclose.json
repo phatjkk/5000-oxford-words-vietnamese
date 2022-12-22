@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dɪsˈkloʊz/"
+    ],
+    "synonyms": [
+        "divulge",
+        "reveal",
+        "make-known",
+        "unveil",
+        "confess"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To expose to view, as by removing a cover; uncover.",
+            "vi": "Để hiển thị để xem, như bằng cách tháo nắp; khám phá."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) A disclosure.",
+            "vi": "(lỗi thời) Một sự tiết lộ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In his last moments he refused under torture to disclose his father's hiding-place.",
+            "vi": "Trong những giây phút cuối cùng của mình, anh ta từ chối bị tra tấn để tiết lộ nơi ẩn náu của cha mình."
+        },
+        {
+            "en": "We do not disclose any of your personal details to third parties.",
+            "vi": "Chúng tôi không tiết lộ bất kỳ chi tiết cá nhân nào của bạn cho các bên thứ ba."
+        }
+    ],
+    "words_form": [
+        "disclosed",
+        "discloses",
+        "disclosing"
+    ],
+    "meaning_vi": "tiết lộ"
+}

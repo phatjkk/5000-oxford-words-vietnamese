@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/hæv tuː/"
+    ],
+    "synonyms": [
+        "have",
+        "need",
+        "be compelled",
+        "be destined",
+        "be directed"
+    ],
+    "meaning": [
+        {
+            "pos": "phrase",
+            "en": "Must; need to; to be required to. Indicates obligation.",
+            "vi": "Cần phải; cần phải; được yêu cầu. Cho biết nghĩa vụ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Sometimes we have to accept change, if we want to move forward.",
+            "vi": "Đôi khi chúng ta phải chấp nhận sự thay đổi, nếu chúng ta muốn tiến về phía trước."
+        },
+        {
+            "en": "You don't have to go to the trouble.",
+            "vi": "Bạn không cần phải đi đến những rắc rối."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "phrase",
+            "en": "Must; need to; to be required to. Indicates obligation.",
+            "vi": "Cần phải; cần phải; được yêu cầu. Cho biết nghĩa vụ."
+        }
+    ]
+}

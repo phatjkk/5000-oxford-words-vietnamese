@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/prəˈfaʊnd/"
+    ],
+    "synonyms": [
+        "enlightened",
+        "erudite",
+        "strong",
+        "heartfelt",
+        "thoughtful"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of profound is being deep, having intellectual depth or being intensely felt.",
+            "vi": "Định nghĩa của sâu sắc là sâu sắc, có chiều sâu trí tuệ hoặc được cảm nhận một cách mãnh liệt."
+        },
+        {
+            "pos": "noun",
+            "en": "Something profound.",
+            "vi": "Một cái gì đó sâu sắc."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To dive deeply; to penetrate.",
+            "vi": "(lỗi thời) Để lặn sâu; thâm nhập."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was profound in a way that surprises me.",
+            "vi": "Anh ấy sâu sắc theo cách khiến tôi ngạc nhiên."
+        },
+        {
+            "en": "The victory had a profound effect on the rest of the war.",
+            "vi": "Chiến thắng có ảnh hưởng sâu sắc đến phần còn lại của cuộc chiến."
+        }
+    ],
+    "words_form": [
+        "profoundest"
+    ],
+    "meaning_vi": "thâm thúy"
+}

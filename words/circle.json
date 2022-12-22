@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈsərk(ə)l/"
+    ],
+    "synonyms": [
+        "wheel",
+        "ring",
+        "corona",
+        "disk",
+        "round"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a circle is a curved line that is the same distance from the center all the way around and connects at the point where it began.",
+            "vi": "Định nghĩa của một đường tròn là một đường cong có cùng khoảng cách từ tâm và nối tại điểm bắt đầu của nó."
+        },
+        {
+            "pos": "verb",
+            "en": "To form a circle around; encompass; surround.",
+            "vi": "Để tạo thành một vòng tròn xung quanh; bao trùm; vây quanh."
+        },
+        {
+            "pos": "idiom",
+            "en": "circle the wagons  To take a defensive position; become defensive.",
+            "vi": "khoanh tròn các toa xe Để có một vị trí phòng thủ; trở nên phòng thủ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The torches around the circle were lit.",
+            "vi": "Những ngọn đuốc xung quanh vòng tròn đã được thắp sáng."
+        },
+        {
+            "en": "She drew a circle in the air.",
+            "vi": "Cô ấy vẽ một vòng tròn trên không trung."
+        }
+    ],
+    "words_form": [
+        "circled",
+        "circles",
+        "circling"
+    ],
+    "meaning_vi": "vòng tròn"
+}

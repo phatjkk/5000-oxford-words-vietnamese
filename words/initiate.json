@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɪˈnɪʃiˌeɪt/"
+    ],
+    "synonyms": [
+        "inaugurate",
+        "open",
+        "induct",
+        "introduce",
+        "start"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To set going by taking the first step; begin.",
+            "vi": "Để bắt đầu bằng cách thực hiện bước đầu tiên; bắt đầu."
+        },
+        {
+            "pos": "adjective",
+            "en": "Initiated or admitted, as to membership or a position of authority.",
+            "vi": "Bắt đầu hoặc được thừa nhận, với tư cách là thành viên hoặc một vị trí có thẩm quyền."
+        },
+        {
+            "pos": "noun",
+            "en": "One who is being or has been initiated into an organization.",
+            "vi": "Một người đang hoặc đã được bắt đầu vào một tổ chức."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The class to which he belonged was the only one which could afford to initiate improvements.",
+            "vi": "Lớp học mà anh thuộc về là lớp duy nhất có đủ khả năng để bắt đầu cải tiến."
+        },
+        {
+            "en": "But he declined to initiate a schism.",
+            "vi": "Nhưng anh ta từ chối khởi xướng một cuộc ly giáo."
+        }
+    ],
+    "words_form": [
+        "initiated",
+        "initiates",
+        "initiating"
+    ],
+    "meaning_vi": "bắt đầu"
+}

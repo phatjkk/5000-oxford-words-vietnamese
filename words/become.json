@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/bəˈkəm/"
+    ],
+    "synonyms": [
+        "enrich",
+        "evolve",
+        "accord",
+        "shift",
+        "befit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To grow or come to be.",
+            "vi": "Để phát triển hoặc trở thành."
+        },
+        {
+            "pos": "idiom",
+            "en": "become of  to happen to; be the fate of",
+            "vi": "trở nên xảy ra với; là số phận của"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's the only way for him to become a vamp.",
+            "vi": "Đó là cách duy nhất để anh ta trở thành ma cà rồng."
+        },
+        {
+            "en": "Read in order to become wise.",
+            "vi": "Đọc để trở nên khôn ngoan."
+        }
+    ],
+    "words_form": [
+        "became",
+        "becomes",
+        "becoming"
+    ],
+    "meaning_vi": "trở thành"
+}

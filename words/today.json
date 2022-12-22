@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/təˈdeɪ/"
+    ],
+    "synonyms": [
+        "now",
+        "nowadays",
+        "present",
+        "time",
+        "yesterday"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The present day.",
+            "vi": "Ngày nay."
+        },
+        {
+            "pos": "adjective",
+            "en": "(informal) Characterized by, exemplifying, or knowing what is most modern or fashionable; up-to-date.",
+            "vi": "(không chính thức) Được đặc trưng bởi, ví dụ hoặc biết những gì là hiện đại nhất hoặc thời trang nhất; cập nhật."
+        },
+        {
+            "pos": "adverb",
+            "en": "On the current day or date.",
+            "vi": "Vào ngày hoặc ngày hiện tại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What are we going to do today, Dad?",
+            "vi": "Hôm nay chúng ta sẽ làm gì hả bố?"
+        },
+        {
+            "en": "That was all today amounted to - a manipulation.",
+            "vi": "Đó là tất cả những gì ngày nay trở thành - một sự thao túng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hôm nay"
+}

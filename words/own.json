@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/oʊn/"
+    ],
+    "synonyms": [
+        "theirs",
+        "dominate",
+        "possess",
+        "individual",
+        "have"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "That which belongs to one.",
+            "vi": "Cái đó thuộc về một."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of own is something that belongs to oneself.",
+            "vi": "Định nghĩa về cái riêng là cái gì đó thuộc về bản thân mỗi người."
+        },
+        {
+            "pos": "verb",
+            "en": "To make a full confession or acknowledgment.",
+            "vi": "Để thực hiện một lời thú nhận hoặc thừa nhận đầy đủ."
+        },
+        {
+            "pos": "idiom",
+            "en": "on (one's) own  By one's own efforts: She got the job on her own.Responsible for oneself; independent of outside help or control: He is now out of college and on his own.",
+            "vi": "của riêng mình Bằng nỗ lực của bản thân: Cô ấy đã tự mình hoàn thành công việc. Chịu trách nhiệm về bản thân; Không phụ thuộc vào sự giúp đỡ hoặc kiểm soát từ bên ngoài: Anh ấy hiện đã tốt nghiệp đại học và tự lập."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Was it greedy to want one of their own as well?",
+            "vi": "Có phải là tham lam khi muốn một trong những của riêng họ?"
+        },
+        {
+            "en": "They must be cultivating their own language.",
+            "vi": "Họ phải đang trau dồi ngôn ngữ của riêng họ."
+        }
+    ],
+    "words_form": [
+        "owned",
+        "owns"
+    ],
+    "meaning_vi": "riêng"
+}

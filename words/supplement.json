@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈsəpləmənt/"
+    ],
+    "synonyms": [
+        "complement",
+        "add to",
+        "improve",
+        "adjunct",
+        "supply"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a supplement is something added to complete a whole or to make up for something that is missing.",
+            "vi": "Định nghĩa về chất bổ sung là thứ được thêm vào để hoàn thiện toàn bộ hoặc để bù đắp cho thứ bị thiếu."
+        },
+        {
+            "pos": "verb",
+            "en": "To provide a supplement to; add to, esp. so as to make up for a lack or deficiency.",
+            "vi": "Để cung cấp một bổ sung cho; thêm vào, đặc biệt. để bù đắp sự thiếu hụt hoặc thiếu hụt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That would supplement her meager savings, and she could be with the twins.",
+            "vi": "Điều đó sẽ bổ sung cho khoản tiết kiệm ít ỏi của cô, và cô có thể ở cùng với cặp song sinh."
+        },
+        {
+            "en": "Leibnitz has to supplement rather than correct Locke on this point.",
+            "vi": "Leibnitz phải bổ sung chứ không phải sửa Locke về điểm này."
+        }
+    ],
+    "words_form": [
+        "supplemented",
+        "supplementing",
+        "supplements"
+    ],
+    "meaning_vi": "phần bổ sung"
+}

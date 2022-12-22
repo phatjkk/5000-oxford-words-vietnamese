@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/əˈskeɪp/"
+    ],
+    "synonyms": [
+        "flee",
+        "release",
+        "departure",
+        "dodge",
+        "vent"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Escape is defined as to get away.",
+            "vi": "Thoát được định nghĩa là để thoát ra ngoài."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or an instance of escaping.",
+            "vi": "Hành động hoặc một ví dụ của việc trốn thoát."
+        },
+        {
+            "pos": "adjective",
+            "en": "Giving temporary mental release from reality.",
+            "vi": "Giải phóng tinh thần tạm thời khỏi thực tế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He came very quietly and secretly, to escape the soldiers.",
+            "vi": "Anh ta đến rất lặng lẽ và bí mật, để trốn tránh những người lính."
+        },
+        {
+            "en": "Her heart attempted a painful escape through her throat.",
+            "vi": "Trái tim cô cố gắng thoát ra khỏi cổ họng đau đớn."
+        }
+    ],
+    "words_form": [
+        "escaped",
+        "escapes",
+        "escaping"
+    ],
+    "meaning_vi": "bỏ trốn"
+}

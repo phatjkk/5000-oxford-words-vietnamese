@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/bən(t)ʃ/"
+    ],
+    "synonyms": [
+        "cluster",
+        "bundle",
+        "collection",
+        "swarm",
+        "array"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a bunch is a cluster, collection or group of something gathered together.",
+            "vi": "Định nghĩa của một bó là một cụm, tập hợp hoặc một nhóm của một cái gì đó được tập hợp lại với nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "Bunch means to form, collect or gather up into a mass.",
+            "vi": "Bó có nghĩa là hình thành, tập hợp hoặc tập hợp lại thành một khối."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Mom took us shopping today and got a bunch of stuff.",
+            "vi": "Hôm nay mẹ đưa chúng tôi đi mua sắm và có rất nhiều thứ."
+        },
+        {
+            "en": "She gave me a beautiful bunch of violets.",
+            "vi": "Cô ấy tặng tôi một bó hoa violet rất đẹp."
+        }
+    ],
+    "words_form": [
+        "bunched",
+        "bunches",
+        "bunching"
+    ],
+    "meaning_vi": "bó"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/plid/"
+    ],
+    "synonyms": [
+        "beg",
+        "ask",
+        "appeal",
+        "argue",
+        "allege"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To plead is defined as to beg or to respond to a charge of a crime.",
+            "vi": "Năn nỉ được định nghĩa là cầu xin hoặc đáp lại lời buộc tội."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They plead for me, their master, to stop but I never will now that I know what I'm capable of accomplishing.",
+            "vi": "Họ cầu xin tôi, chủ nhân của họ, dừng lại nhưng tôi sẽ không bao giờ chịu khi tôi biết mình có khả năng hoàn thành những gì."
+        },
+        {
+            "en": "Don't plead my case for me.",
+            "vi": "Đừng khẩn cầu trường hợp của tôi cho tôi."
+        }
+    ],
+    "words_form": [
+        "pleaded",
+        "pleading",
+        "pleads",
+        "pled"
+    ],
+    "meaning_vi": "biện hộ"
+}

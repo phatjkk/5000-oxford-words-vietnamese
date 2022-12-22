@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈweɪt/"
+    ],
+    "synonyms": [
+        "anticipate",
+        "expect",
+        "depend on",
+        "wait-for",
+        "abide"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To wait for; expect.",
+            "vi": "Chờ; chờ đợi."
+        },
+        {
+            "pos": "noun",
+            "en": "1596, Edmund Spenser, The Faerie Queene, VI.6.",
+            "vi": "1596, Edmund Spenser, The Faerie Queene, VI.6."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll await your call.",
+            "vi": "Tôi sẽ chờ cuộc gọi của bạn."
+        },
+        {
+            "en": "I must await word of the messengers.",
+            "vi": "Tôi phải chờ đợi lời của các sứ giả."
+        }
+    ],
+    "words_form": [
+        "awaited",
+        "awaiting",
+        "awaits"
+    ],
+    "meaning_vi": "chờ đợi"
+}

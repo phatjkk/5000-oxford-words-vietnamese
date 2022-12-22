@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/jɛs/"
+    ],
+    "synonyms": [
+        "aye",
+        "yup",
+        "agree",
+        "consent",
+        "indubitably"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An affirmative or consenting reply.",
+            "vi": "Một câu trả lời khẳng định hoặc đồng ý."
+        },
+        {
+            "pos": "adverb",
+            "en": "Aye; yea; it is so: the opposite of no, used to express agreement, consent, affirmation, or confirmation.",
+            "vi": "Đúng vậy; Vâng; nó là như vậy: đối lập với không, được sử dụng để thể hiện sự đồng ý, đồng ý, khẳng định hoặc xác nhận."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express great satisfaction, approval, or happiness.",
+            "vi": "Được sử dụng để thể hiện sự hài lòng, tán thành hoặc hạnh phúc."
+        },
+        {
+            "pos": "verb",
+            "en": "To say yes (to)",
+            "vi": "Để nói có (với)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Yes, but I don't have time.",
+            "vi": "Có, nhưng tôi không có thời gian."
+        },
+        {
+            "en": "Yes, mother, I will read and then I will know.",
+            "vi": "Có mẹ đọc rồi sẽ biết."
+        }
+    ],
+    "words_form": [
+        "yeses",
+        "yessed",
+        "yesses",
+        "yessing"
+    ],
+    "meaning_vi": "đúng"
+}

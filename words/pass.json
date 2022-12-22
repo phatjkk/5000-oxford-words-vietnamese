@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/pæs/"
+    ],
+    "synonyms": [
+        "order",
+        "furlough",
+        "defile",
+        "pass-by",
+        "go beyond"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be approved or adopted.",
+            "vi": "Để được chấp thuận hoặc thông qua."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of passing; passage.",
+            "vi": "Hành động đi qua; đoạn văn."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Passage.",
+            "vi": "Đoạn văn."
+        },
+        {
+            "pos": "idiom",
+            "en": "bring to pass  To cause to happen.",
+            "vi": "đưa để vượt qua Để nguyên nhân xảy ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The doctors were of use to Natasha because they kissed and rubbed her bump, assuring her that it would soon pass if only the coachman went to the chemist's in the Arbat and got a powder and some pills in a pretty box for a ruble and seventy kopeks, and if she took those powders in boiled water at intervals of precisely two hours, neither more nor less.",
+            "vi": "Các bác sĩ đã sử dụng Natasha vì họ hôn và xoa vết sưng của cô ấy, đảm bảo với cô ấy rằng nó sẽ sớm trôi qua nếu chỉ người đánh xe ngựa đến nhà hóa học ở Arbat và lấy một loại bột và một số viên thuốc trong một chiếc hộp xinh xắn với giá một đồng rúp và bảy mươi kopek. , và nếu cô ấy ngâm những thứ bột đó trong nước đun sôi trong khoảng thời gian chính xác là hai giờ, không nhiều hơn cũng không ít hơn."
+        },
+        {
+            "en": "The next one to pass her did as well.",
+            "vi": "Người tiếp theo vượt qua cô ấy cũng vậy."
+        }
+    ],
+    "words_form": [
+        "passed",
+        "passes",
+        "passing"
+    ],
+    "meaning_vi": "(danh từ) vé, vé tháng; (động từ) vượt qua"
+}

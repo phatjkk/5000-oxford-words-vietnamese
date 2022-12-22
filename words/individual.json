@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌɪndəˈvɪdʒ(u)əl/"
+    ],
+    "synonyms": [
+        "personal",
+        "different",
+        "singular",
+        "alone",
+        "specific"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an individual is a single person or thing.",
+            "vi": "Định nghĩa của một cá nhân là một người hoặc một sự vật."
+        },
+        {
+            "pos": "adjective",
+            "en": "Existing as a distinct entity; separate.",
+            "vi": "Tồn tại như một thực thể riêng biệt; riêng rẽ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "How do you find individual cases?",
+            "vi": "Làm thế nào để bạn tìm thấy các trường hợp cá nhân?"
+        },
+        {
+            "en": "Frequently, this includes individual liberty and freedom of expression.",
+            "vi": "Thông thường, điều này bao gồm tự do cá nhân và tự do ngôn luận."
+        }
+    ],
+    "words_form": [
+        "individuals"
+    ],
+    "meaning_vi": "cá nhân"
+}

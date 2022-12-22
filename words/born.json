@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/bɔrn/"
+    ],
+    "synonyms": [
+        "nee",
+        "delivered",
+        "native",
+        "intrinsic",
+        "parturition"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of born is having been given life.",
+            "vi": "Định nghĩa của sinh ra là đã được ban cho cuộc sống."
+        },
+        {
+            "pos": "verb",
+            "en": "Past participle of bear; given birth to.",
+            "vi": "Quá khứ phân từ của gấu; sinh ra."
+        },
+        {
+            "pos": "noun",
+            "en": "(Geordie) Alternative spelling of burn. A stream.",
+            "vi": "(Geordie) Cách viết khác của bỏng. Một dòng suối."
+        },
+        {
+            "pos": "suffix",
+            "en": "(usually hyphenated, preceded by a noun or adjective) Born in or native to the place indicated.",
+            "vi": "(thường được gạch nối, đứng trước một danh từ hoặc tính từ) Sinh ra tại hoặc quê hương của địa điểm được chỉ định."
+        },
+        {
+            "pos": "idiom",
+            "en": "born yesterday  Naive or ignorant. Used in negative constructions: Of course I can use a computer; I wasn't born yesterday.",
+            "vi": "sinh ngày hôm qua Ngây thơ hay khờ khạo. Được sử dụng trong cấu trúc phủ định: Tất nhiên tôi có thể sử dụng máy tính; Tôi không sinh ngày hôm qua."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The accent says otherwise, but I was born in New York.",
+            "vi": "Giọng nói khác, nhưng tôi sinh ra ở New York."
+        },
+        {
+            "en": "You said you were born here.",
+            "vi": "Bạn nói rằng bạn sinh ra ở đây."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sinh ra"
+}

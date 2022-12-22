@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈkeɪbəl/"
+    ],
+    "synonyms": [
+        "cord",
+        "wire",
+        "stitch",
+        "chain",
+        "boom"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To supply or fasten with a cable or cables.",
+            "vi": "Để cung cấp hoặc buộc chặt bằng cáp hoặc các loại cáp."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of cable means a rope-like bunch of wires used to connect two things.",
+            "vi": "Định nghĩa về cáp có nghĩa là một chùm dây giống như sợi dây được sử dụng để kết nối hai thứ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to a subscription television or Internet service that uses cables to carry signals between local distribution antennas and the subscriber's location.",
+            "vi": "Của hoặc liên quan đến dịch vụ truyền hình hoặc Internet thuê bao sử dụng cáp để truyền tín hiệu giữa các ăng-ten phân phối cục bộ và vị trí của thuê bao."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1844-1925; U.S. novelist.",
+            "vi": "(người) 1844-1925; Tiểu thuyết gia Hoa Kỳ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He used to make a cable for his anchor of strips of hickory bark tied together.",
+            "vi": "Ông thường làm dây cáp cho mỏ neo của mình bằng các dải vỏ cây hickory buộc lại với nhau."
+        },
+        {
+            "en": "Communication with the United States is effected by land lines to Valparaiso, and thence by a cable along the west coast.",
+            "vi": "Thông tin liên lạc với Hoa Kỳ được thực hiện bằng đường bộ tới Valparaiso và từ đó bằng cáp dọc theo bờ biển phía tây."
+        }
+    ],
+    "words_form": [
+        "cabled",
+        "cables",
+        "cabling"
+    ],
+    "meaning_vi": "cáp"
+}

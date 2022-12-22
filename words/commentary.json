@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈkɑmənˌtɛri/"
+    ],
+    "synonyms": [
+        "critique",
+        "analysis",
+        "criticism",
+        "remark",
+        "explanation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A series of comments or annotations; especially, a book of explanations or expositions on the whole or a part of some other work.",
+            "vi": "Một loạt các bình luận hoặc chú thích; đặc biệt là sách giải thích hoặc thuyết minh về toàn bộ hoặc một phần của một số tác phẩm khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The learned commentary of Marckius may be specially mentioned.",
+            "vi": "Bài bình luận đã học của Marckius có thể được đề cập đặc biệt."
+        },
+        {
+            "en": "Rashi's commentary on the Bible has been translated into Latin by Breithaupt (1710-1714); and into German (Pentateuch) by Dukes (1833-38) and others.",
+            "vi": "Bài bình luận của Rashi về Kinh thánh đã được Breithaupt (1710-1714) dịch sang tiếng Latinh; và sang tiếng Đức (Ngũ kinh) của Dukes (1833-38) và những người khác."
+        }
+    ],
+    "words_form": [
+        "commentaries"
+    ],
+    "meaning_vi": "bình luận"
+}

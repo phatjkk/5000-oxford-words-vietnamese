@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈpriviəs/"
+    ],
+    "synonyms": [
+        "former",
+        "prior",
+        "past",
+        "earlier",
+        "foregoing"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Existing or occurring before something else in time or order; prior.",
+            "vi": "Hiện có hoặc xảy ra trước một cái gì đó khác theo thời gian hoặc thứ tự; trước."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal, UK) An existing criminal record.",
+            "vi": "(không chính thức, Vương quốc Anh) Một hồ sơ tội phạm hiện có."
+        },
+        {
+            "pos": "idiom",
+            "en": "previous to  before",
+            "vi": "trước đây"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The night was dark but starry, the road showed black in the snow that had fallen the previous day--the day of the battle.",
+            "vi": "Đêm tối nhưng đầy sao, con đường đen kịt trong tuyết rơi hôm trước - ngày diễn ra trận chiến."
+        },
+        {
+            "en": "Nothing remained of the previous day's thoughts.",
+            "vi": "Không có gì còn lại của những suy nghĩ của ngày hôm trước."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "trước"
+}

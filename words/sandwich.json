@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/ˈsænˌ(d)wɪtʃ/"
+    ],
+    "synonyms": [
+        "hero",
+        "hoagie",
+        "hamburger",
+        "cheeseburger",
+        "club"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A snack formed of various ingredients between two slices of bread.",
+            "vi": "Một món ăn nhẹ được tạo thành từ các thành phần khác nhau giữa hai lát bánh mì."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) Town in Kent, SE England, near the Strait of Dover: one of the Cinque Ports.",
+            "vi": "(địa điểm) Thị trấn ở Kent, Đông Nam Anh, gần eo biển Dover: một trong những Cảng Cinque."
+        },
+        {
+            "pos": "verb",
+            "en": "To make room or time for.",
+            "vi": "Để dành chỗ hoặc thời gian cho."
+        },
+        {
+            "pos": "adjective",
+            "en": "(US) Of a meal or serving size that is smaller than a dinner.",
+            "vi": "(Hoa Kỳ) Bữa ăn hoặc khẩu phần nhỏ hơn bữa tối."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A town in Kent, south-east England, one of the historic Cinque Ports.",
+            "vi": "Một thị trấn ở Kent, đông nam nước Anh, một trong những Cảng Cinque lịch sử."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm going to make myself a sandwich and get back to work.",
+            "vi": "Tôi sẽ làm cho mình một cái bánh sandwich và quay lại làm việc."
+        },
+        {
+            "en": "\"You know,\" Carmen began as she handed a sandwich to Destiny.",
+            "vi": "\"Bạn biết đấy,\" Carmen bắt đầu khi cô đưa một chiếc bánh sandwich cho Destiny."
+        }
+    ],
+    "words_form": [
+        "sandwiched",
+        "sandwiches"
+    ],
+    "meaning_vi": "bánh mì sandwich"
+}

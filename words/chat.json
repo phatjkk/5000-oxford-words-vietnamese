@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/tʃæt/"
+    ],
+    "synonyms": [
+        "converse",
+        "talk",
+        "gibber",
+        "gossip",
+        "prattle"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(comput.) The act or an instance of chatting.",
+            "vi": "(tính toán.) Hành động hoặc một ví dụ của trò chuyện."
+        },
+        {
+            "pos": "adjective",
+            "en": "(comput.) Of or having to do with chatting.",
+            "vi": "(tính toán.) của hoặc phải làm với trò chuyện."
+        },
+        {
+            "pos": "verb",
+            "en": "To chat is defined as to talk or have a friendly exchange.",
+            "vi": "Trò chuyện được định nghĩa là để nói chuyện hoặc có một cuộc trao đổi thân thiện."
+        },
+        {
+            "pos": "idiom",
+            "en": "chat up  to chat with, often, specif., in a flirtatious or seductive way",
+            "vi": "trò chuyện để trò chuyện, thường xuyên, cụ thể., theo cách tán tỉnh hoặc quyến rũ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We're having a nice little chat about trust.",
+            "vi": "Chúng tôi đang có một cuộc trò chuyện nhỏ vui vẻ về sự tin tưởng."
+        },
+        {
+            "en": "It's about time for your daily chat, isn't it?",
+            "vi": "Đó là thời gian cho cuộc trò chuyện hàng ngày của bạn, phải không?"
+        }
+    ],
+    "words_form": [
+        "chats",
+        "chatted",
+        "chatting"
+    ],
+    "meaning_vi": "trò chuyện"
+}

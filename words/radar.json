@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈreɪˌdɑr/"
+    ],
+    "synonyms": [
+        "radiolocation",
+        "detector",
+        "electronics",
+        "microwave radar",
+        "radio detection and ranging"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Radar is a device that uses reflected radio waves to detect the position or movement of a person or thing.",
+            "vi": "Radar là một thiết bị sử dụng sóng vô tuyến phản xạ để phát hiện vị trí hoặc chuyển động của người hoặc vật."
+        },
+        {
+            "pos": "acronym",
+            "en": "Abbreviation of radio detection and ranging.",
+            "vi": "Viết tắt của phát hiện vô tuyến và phạm vi."
+        },
+        {
+            "pos": "idiom",
+            "en": "on (one's) radar  In one's conscious awareness as a possibility or as an existing phenomenon: The governor said that running for president was not even on her radar screen.",
+            "vi": "trên radar của một người Trong nhận thức tỉnh táo của một người như một khả năng hay một hiện tượng hiện hữu: Thống đốc nói rằng việc tranh cử tổng thống thậm chí không có trên màn hình radar của cô ấy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I could drop off the radar for a time.",
+            "vi": "Tôi có thể rời khỏi radar một thời gian."
+        },
+        {
+            "en": "Granted, Death's soul radar just kicked in.",
+            "vi": "Đúng là như vậy, radar linh hồn của Death vừa mới hoạt động."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hệ thống ra-đa; máy ra-đa"
+}

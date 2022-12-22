@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ɪˈsteɪt/"
+    ],
+    "synonyms": [
+        "land",
+        "property",
+        "domain",
+        "hacienda",
+        "holdings"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The assets and liabilities of a dead or bankrupt person.",
+            "vi": "Các tài sản và nợ phải trả của một người đã chết hoặc phá sản."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But he cannot leave the estate to Pierre.",
+            "vi": "Nhưng anh ta không thể để lại gia sản cho Pierre."
+        },
+        {
+            "en": "We wanted a firm economy, reasonable real estate costs, and a good school system.",
+            "vi": "Chúng tôi muốn có một nền kinh tế vững chắc, chi phí bất động sản hợp lý và một hệ thống trường học tốt."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bất động sản"
+}

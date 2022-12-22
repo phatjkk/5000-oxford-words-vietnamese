@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈˌti ˈvi/"
+    ],
+    "synonyms": [
+        "television",
+        "television-set",
+        "telecasting",
+        "video",
+        "radio"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Television.",
+            "vi": "Tivi."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Transvestite.",
+            "vi": "Transvestite."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's as safe as watching TV and a darned sight more fun.",
+            "vi": "Nó an toàn như xem TV và một cảnh tượng thú vị hơn."
+        },
+        {
+            "en": "The only thing you watch on TV is football and the last 'book' you read was a bicycle magazine.",
+            "vi": "Thứ duy nhất bạn xem trên TV là bóng đá và 'cuốn sách' cuối cùng bạn đọc là tạp chí xe đạp."
+        }
+    ],
+    "words_form": [
+        "tvs"
+    ],
+    "meaning_vi": "truyền hình"
+}

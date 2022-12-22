@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/prəˈskraɪb/"
+    ],
+    "synonyms": [
+        "appoint",
+        "designate",
+        "guide",
+        "order",
+        "direct"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To set down as a rule or direction; order; ordain; direct.",
+            "vi": "Để thiết lập như một quy tắc hoặc hướng dẫn; đặt hàng; phong chức; trực tiếp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The Mahommedan doctors of India are accustomed to prescribe the seeds.",
+            "vi": "Các bác sĩ Mahommedan ở Ấn Độ đã quen với việc kê đơn hạt giống."
+        },
+        {
+            "en": "I will prescribe both a topical and and oral medication; use both once a day.",
+            "vi": "Tôi sẽ kê đơn cả thuốc bôi và thuốc uống; sử dụng cả hai một lần một ngày."
+        }
+    ],
+    "words_form": [
+        "prescribed",
+        "prescribes",
+        "prescribing"
+    ],
+    "meaning_vi": "kê đơn"
+}

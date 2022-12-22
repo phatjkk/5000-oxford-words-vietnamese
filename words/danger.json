@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈdeɪndʒər/"
+    ],
+    "synonyms": [
+        "risk",
+        "peril",
+        "hazard",
+        "safety",
+        "venture"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Danger is defined as a possibility that something harmful or unpleasant will happen, or a person or thing that causes harm.",
+            "vi": "Nguy hiểm được định nghĩa là khả năng một điều gì đó có hại hoặc khó chịu sẽ xảy ra, hoặc một người hoặc vật gây ra thiệt hại."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To claim liability.",
+            "vi": "(lỗi thời) Để yêu cầu trách nhiệm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She knew what danger she was in.",
+            "vi": "Cô biết mình đang gặp nguy hiểm gì."
+        },
+        {
+            "en": "Then a strange, fearful sense of danger terrified me.",
+            "vi": "Sau đó, một cảm giác kỳ lạ, sợ hãi về nguy hiểm làm tôi kinh hãi."
+        }
+    ],
+    "words_form": [
+        "dangers"
+    ],
+    "meaning_vi": "nguy hiểm"
+}

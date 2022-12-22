@@ -1,0 +1,52 @@
+{
+    "spelling": [
+        "/ˈiðər/",
+        "/ˈaɪðər/"
+    ],
+    "synonyms": [
+        "each",
+        "one",
+        "both",
+        "unless",
+        "otherwise"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "One or the other (of two)",
+            "vi": "Một hoặc khác (trong số hai)"
+        },
+        {
+            "pos": "adverb",
+            "en": "Any more than the other; also.",
+            "vi": "Bất kỳ hơn cái khác; cũng."
+        },
+        {
+            "pos": "conjunction",
+            "en": "The first element of the pair of disjunctive correlatives either … or, implying a choice of alternatives [either go or stay]",
+            "vi": "Yếu tố đầu tiên của cặp tương quan không kết hợp hoặc… hoặc, ngụ ý sự lựa chọn các phương án thay thế [hoặc đi hoặc ở lại]"
+        },
+        {
+            "pos": "determiner",
+            "en": "One or the other of two. [from 14th c.]",
+            "vi": "Một hoặc cái kia của hai. [từ ngày 14 c.]"
+        },
+        {
+            "pos": "pronoun",
+            "en": "One or the other (of two)",
+            "vi": "Một hoặc khác (trong số hai)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Either situation might be the case.",
+            "vi": "Một trong hai tình huống có thể là trường hợp."
+        },
+        {
+            "en": "You must either jump overboard into the sea or be slain with your own sword.",
+            "vi": "Bạn phải nhảy xuống biển hoặc bị giết bằng chính thanh kiếm của mình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hoặc"
+}

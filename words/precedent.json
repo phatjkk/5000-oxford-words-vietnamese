@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈprɛsəd(ə)nt/"
+    ],
+    "synonyms": [
+        "decision",
+        "criterion",
+        "ruling",
+        "model",
+        "antecedent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An act, statement, legal decision, case, etc. that may serve as an example, reason, or justification for a later one.",
+            "vi": "Một hành động, tuyên bố, quyết định pháp lý, trường hợp, v.v. có thể dùng làm ví dụ, lý do hoặc biện minh cho hành động sau này."
+        },
+        {
+            "pos": "adjective",
+            "en": "Preceding.",
+            "vi": "Tiền thân."
+        },
+        {
+            "pos": "verb",
+            "en": "(law) To provide precedents for.",
+            "vi": "(luật) Để cung cấp tiền lệ cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She was setting a precedent for the future.",
+            "vi": "Cô ấy đang thiết lập một tiền lệ cho tương lai."
+        },
+        {
+            "en": "He set the precedent in the history of art.",
+            "vi": "Ông đã đặt ra tiền lệ trong lịch sử nghệ thuật."
+        }
+    ],
+    "words_form": [
+        "precedents"
+    ],
+    "meaning_vi": "tiền lệ"
+}

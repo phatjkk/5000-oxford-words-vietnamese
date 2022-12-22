@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/nəʊ wʌn/"
+    ],
+    "synonyms": [
+        "nobody",
+        "not anybody",
+        "not anyone",
+        "not one"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "No person; nobody.",
+            "vi": "Không có người; không ai."
+        },
+        {
+            "pos": "noun",
+            "en": "No person; not anyone; nobody.",
+            "vi": "Không có người; không phải bất cứ ai; không ai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I had connections no one else did.",
+            "vi": "Tôi đã có kết nối không ai khác đã làm."
+        },
+        {
+            "en": "Until now she had been thinking of no one but herself.",
+            "vi": "Cho đến bây giờ cô không nghĩ đến ai khác ngoài chính mình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "pronoun",
+            "en": "No person; nobody.",
+            "vi": "Không có người; không ai."
+        },
+        {
+            "pos": "noun",
+            "en": "No person; not anyone; nobody.",
+            "vi": "Không có người; không phải bất cứ ai; không ai."
+        }
+    ]
+}

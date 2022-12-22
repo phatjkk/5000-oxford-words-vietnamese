@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kɪl/"
+    ],
+    "synonyms": [
+        "execute",
+        "asphyxiate",
+        "slay",
+        "lynch",
+        "martyr"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Kill is defined as to cause to die or to destroy.",
+            "vi": "Giết được định nghĩa là gây ra cái chết hoặc để tiêu diệt."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of killing.",
+            "vi": "Hành động giết người."
+        },
+        {
+            "pos": "idiom",
+            "en": "in at  Present at the moment of triumph.",
+            "vi": "ở Hiện tại tại thời điểm chiến thắng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Get out of here before I kill you.",
+            "vi": "Ra khỏi đây trước khi tôi giết anh."
+        },
+        {
+            "en": "You can kill me.",
+            "vi": "Bạn có thể giết tôi."
+        }
+    ],
+    "words_form": [
+        "killed",
+        "killing",
+        "kills"
+    ],
+    "meaning_vi": "giết chết"
+}

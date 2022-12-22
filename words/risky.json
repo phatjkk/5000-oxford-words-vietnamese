@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈrɪski/"
+    ],
+    "synonyms": [
+        "dangerous",
+        "chancy",
+        "endangered",
+        "safe",
+        "hazardous"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Involving risk; hazardous; dangerous.",
+            "vi": "Rủi ro liên quan; nguy hiểm; nguy hiểm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That would be less risky and make more sense.",
+            "vi": "Điều đó sẽ ít rủi ro hơn và có ý nghĩa hơn."
+        },
+        {
+            "en": "It was far too risky for him to even attempt it.",
+            "vi": "Nó quá mạo hiểm đối với anh ta thậm chí còn thử nó."
+        }
+    ],
+    "words_form": [
+        "riskier",
+        "riskiest"
+    ],
+    "meaning_vi": "nguy hiểm"
+}

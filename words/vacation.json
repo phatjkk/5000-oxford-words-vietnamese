@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/veɪˈkeɪʃ(ə)n/",
+        "/vəˈkeɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "holiday",
+        "holidays",
+        "sabbatical",
+        "evacuation",
+        "trip"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A period of rest and freedom from work, study, etc.; time of recreation, usually a specific interval in a year.",
+            "vi": "Khoảng thời gian nghỉ ngơi và tự do làm việc, học tập, v.v ...; thời gian vui chơi, thường là một khoảng thời gian cụ thể trong một năm."
+        },
+        {
+            "pos": "verb",
+            "en": "To take or spend a vacation.",
+            "vi": "Để có hoặc dành một kỳ nghỉ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This was a vacation, not an isolation camp.",
+            "vi": "Đây là một kỳ nghỉ, không phải trại cách ly."
+        },
+        {
+            "en": "Maybe this vacation would give them some much needed time together.",
+            "vi": "Có lẽ kỳ nghỉ này sẽ cho họ một khoảng thời gian cần thiết bên nhau."
+        }
+    ],
+    "words_form": [
+        "vacationed",
+        "vacationing",
+        "vacations"
+    ],
+    "meaning_vi": "kỳ nghỉ"
+}

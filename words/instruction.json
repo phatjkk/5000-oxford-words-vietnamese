@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ɪnˈstrəkʃ(ə)n/"
+    ],
+    "synonyms": [
+        "instruct",
+        "formula",
+        "enlightenment",
+        "guidance",
+        "education"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of instruction is the act of educating, giving the steps that must be followed or an order.",
+            "vi": "Định nghĩa của hướng dẫn là hành động giáo dục, đưa ra các bước phải tuân theo hoặc một mệnh lệnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You don't need an instruction manual.",
+            "vi": "Bạn không cần hướng dẫn sử dụng."
+        },
+        {
+            "en": "Following the nurses instruction, she gently stroked his cheek.",
+            "vi": "Theo sự hướng dẫn của y tá, cô nhẹ nhàng vuốt má anh."
+        }
+    ],
+    "words_form": [
+        "instructions"
+    ],
+    "meaning_vi": "chỉ dẫn"
+}

@@ -1,0 +1,52 @@
+{
+    "spelling": [
+        "/ði/",
+        "/ðə/"
+    ],
+    "synonyms": [
+        "these",
+        "each",
+        "significant",
+        "those",
+        "supreme"
+    ],
+    "meaning": [
+        {
+            "pos": "article",
+            "en": "The is defined as an article and is used before a noun to specify, or put emphasis on, that noun.",
+            "vi": "The được định nghĩa như một mạo từ và được sử dụng trước một danh từ để chỉ định hoặc nhấn mạnh vào danh từ đó."
+        },
+        {
+            "pos": "definition article",
+            "en": "Used before a present participle, signifying the action in the abstract.",
+            "vi": "Được sử dụng trước một phân từ hiện tại, biểu thị hành động trong phần tóm tắt."
+        },
+        {
+            "pos": "adjective",
+            "en": "That (one) which is present, close, nearby, etc., as distinguished from all others viewed as remote.",
+            "vi": "Cái đó (một) hiện tại, gần, gần, v.v., được phân biệt với tất cả những cái khác được xem là từ xa."
+        },
+        {
+            "pos": "adverb",
+            "en": "To that extent; by that much. Used before a comparative.",
+            "vi": "Ở mức độ đó; nhiều như vậy. Được sử dụng trước một so sánh."
+        },
+        {
+            "pos": "preposition",
+            "en": "To each; in each; for each; per.",
+            "vi": "Đối với mỗi; trong mỗi; cho mỗi; mỗi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The horse did not stir.",
+            "vi": "Con ngựa không cựa quậy."
+        },
+        {
+            "en": "This might be the most difficult decision she would ever make.",
+            "vi": "Đây có thể là quyết định khó khăn nhất mà cô ấy từng làm."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "cái, con, người, ấy, này..."
+}

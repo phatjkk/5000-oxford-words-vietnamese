@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈrɛlədɪvli/"
+    ],
+    "synonyms": [
+        "comparatively",
+        "quite",
+        "remarkably",
+        "almost",
+        "moderately"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In a relative manner; in relation to or compared with something else; not absolutely.",
+            "vi": "Theo một cách tương đối; trong mối quan hệ với hoặc so sánh với một cái gì đó khác; không hoàn toàn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The Atlantic Ocean contains a relatively small number of islands.",
+            "vi": "Đại Tây Dương chứa một số lượng tương đối nhỏ các hòn đảo."
+        },
+        {
+            "en": "8 is relatively late.",
+            "vi": "8 là tương đối muộn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tương đối"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kæmˈpeɪn/"
+    ],
+    "synonyms": [
+        "operations",
+        "warfare",
+        "crusade",
+        "electioneer",
+        "drive"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To engage in an operation planned to achieve a certain goal.",
+            "vi": "Tham gia vào một hoạt động được lên kế hoạch để đạt được một mục tiêu nhất định."
+        },
+        {
+            "pos": "noun",
+            "en": "Campaign is defined as a series of organized actions which are done for one purpose.",
+            "vi": "Chiến dịch được định nghĩa là một loạt các hành động có tổ chức được thực hiện cho một mục đích."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a style of simple, portable furniture, with rectilinear lines, recessed hardware, etc., originally used on military campaigns.",
+            "vi": "Thiết kế hoặc theo phong cách đồ nội thất đơn giản, di động, với các đường thẳng nằm, phần cứng lõm, v.v., ban đầu được sử dụng trong các chiến dịch quân sự."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If I'm going to be your campaign manager, leave the business to me.",
+            "vi": "Nếu tôi trở thành người quản lý chiến dịch của bạn, hãy để việc kinh doanh cho tôi."
+        },
+        {
+            "en": "I'd better get my campaign manager cracking.",
+            "vi": "Tốt hơn là tôi nên yêu cầu trình quản lý chiến dịch của mình bẻ khóa."
+        }
+    ],
+    "words_form": [
+        "campaigned",
+        "campaigning",
+        "campaigns"
+    ],
+    "meaning_vi": "chiến dịch"
+}

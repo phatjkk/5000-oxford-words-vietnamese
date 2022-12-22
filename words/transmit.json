@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/trænzˈmɪt/",
+        "/træn(t)sˈmɪt/"
+    ],
+    "synonyms": [
+        "transfer",
+        "communicate",
+        "forward",
+        "receive",
+        "broadcast"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To send from one person, thing, or place to another; convey.",
+            "vi": "Để gửi từ người này, vật hoặc nơi khác; chuyên chở."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A pair of convex screws, each rotating about its axis, are used as an elementary combination to transmit motion by the sliding contact of their threads.",
+            "vi": "Một cặp vít lồi, mỗi vít quay quanh trục của nó, được sử dụng như một tổ hợp cơ bản để truyền chuyển động bằng cách tiếp xúc trượt của các ren của chúng."
+        },
+        {
+            "en": "Fax machines used to transmit clinical information should be kept in a 'safe haven ' .",
+            "vi": "Máy fax được sử dụng để truyền thông tin lâm sàng nên được giữ ở 'nơi trú ẩn an toàn'."
+        }
+    ],
+    "words_form": [
+        "transmits",
+        "transmitted",
+        "transmitting"
+    ],
+    "meaning_vi": "chuyển giao"
+}

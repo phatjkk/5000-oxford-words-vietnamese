@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈmɛmbərˌʃɪp/"
+    ],
+    "synonyms": [
+        "company",
+        "society",
+        "fellowship",
+        "group",
+        "club"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The state of being a member.",
+            "vi": "Trạng thái là thành viên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In the United States there were, in 1906, 101 church edifices and a total membership of 7558.",
+            "vi": "Tại Hoa Kỳ, vào năm 1906, có 101 giáo đường nhà thờ và tổng số tín hữu là 7558."
+        },
+        {
+            "en": "The Southern Church had a total membership of 266,345.",
+            "vi": "Giáo hội Miền Nam có tổng số tín hữu là 266.345."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tư cách hội viên"
+}

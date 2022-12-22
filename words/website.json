@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈwɛbˌsaɪt/"
+    ],
+    "synonyms": [
+        "site",
+        "Web page",
+        "database",
+        "forum",
+        "network"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A set of interconnected webpages, usually including a homepage, generally located on the same server, and prepared and maintained as a collection of information by a person, group, or organization.",
+            "vi": "Một tập hợp các trang web được kết nối với nhau, thường bao gồm một trang chủ, thường nằm trên cùng một máy chủ và được chuẩn bị và duy trì dưới dạng tập hợp thông tin của một người, nhóm hoặc tổ chức."
+        },
+        {
+            "pos": "",
+            "en": "A set of interconnected webpages, usually including a homepage, generally located on the same server, and prepared and maintained as a collection of information by a person, group, or organization.",
+            "vi": "Một tập hợp các trang web được kết nối với nhau, thường bao gồm một trang chủ, thường nằm trên cùng một máy chủ và được chuẩn bị và duy trì dưới dạng tập hợp thông tin của một người, nhóm hoặc tổ chức."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maybe there's an 'I hate Jackson Parrish' website out there.",
+            "vi": "Có lẽ có một trang web 'Tôi ghét Jackson Parrish' trên mạng."
+        },
+        {
+            "en": "The military doesn't buy their haircuts, website design, or piano lessons.",
+            "vi": "Quân đội không mua đồ cắt tóc, thiết kế trang web hay các bài học piano của họ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "A set of interconnected webpages, usually including a homepage, generally located on the same server, and prepared and maintained as a collection of information by a person, group, or organization.",
+            "vi": "Một tập hợp các trang web được kết nối với nhau, thường bao gồm một trang chủ, thường nằm trên cùng một máy chủ và được chuẩn bị và duy trì dưới dạng tập hợp thông tin của một người, nhóm hoặc tổ chức."
+        },
+        {
+            "pos": "",
+            "en": "A set of interconnected webpages, usually including a homepage, generally located on the same server, and prepared and maintained as a collection of information by a person, group, or organization.",
+            "vi": "Một tập hợp các trang web được kết nối với nhau, thường bao gồm một trang chủ, thường nằm trên cùng một máy chủ và được chuẩn bị và duy trì dưới dạng tập hợp thông tin của một người, nhóm hoặc tổ chức."
+        }
+    ]
+}

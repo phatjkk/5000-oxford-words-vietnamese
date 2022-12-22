@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dəmp/"
+    ],
+    "synonyms": [
+        "scrapheap",
+        "garbage dump",
+        "underprice",
+        "dumpsite",
+        "deck"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To dump is defined as to throw away, empty or unload all at once.",
+            "vi": "To dump được định nghĩa là vứt bỏ, làm trống hoặc dỡ bỏ tất cả cùng một lúc."
+        },
+        {
+            "pos": "noun",
+            "en": "A place where refuse is dumped.",
+            "vi": "Một nơi mà rác thải được đổ."
+        },
+        {
+            "pos": "idiom",
+            "en": "dump on  to treat with contempt; demean",
+            "vi": "đổ cho đối xử với sự khinh miệt; demean"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We're going to dump everything we don't need.",
+            "vi": "Chúng tôi sẽ vứt bỏ mọi thứ chúng tôi không cần."
+        },
+        {
+            "en": "Sorry. New client brought in a dump truck full of receipts and needs his return done by close of business today.",
+            "vi": "Xin lỗi. Khách hàng mới mang theo một chiếc xe tải chở đầy hóa đơn và cần hoàn lại tiền vào ngày hôm nay."
+        }
+    ],
+    "words_form": [
+        "dumped",
+        "dumping",
+        "dumps"
+    ],
+    "meaning_vi": "bãi rác"
+}

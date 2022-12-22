@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/rəˈkɔrdɪŋ/"
+    ],
+    "synonyms": [
+        "memorializing",
+        "tape",
+        "showing",
+        "reading",
+        "reporting"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Present participle of record.",
+            "vi": "Trình bày phân từ của bản ghi."
+        },
+        {
+            "pos": "noun",
+            "en": "A reproduction of sound and/or video, stored in a permanent medium.",
+            "vi": "Tái tạo âm thanh và / hoặc video, được lưu trữ trong môi trường cố định."
+        },
+        {
+            "pos": "adjective",
+            "en": "That records.",
+            "vi": "Hồ sơ đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's a shame he isn't hearing this but he'll be tied up in his room all evening recording results of his tests.",
+            "vi": "Thật tiếc khi anh ấy không nghe thấy điều này nhưng anh ấy sẽ bị trói trong phòng của mình cả buổi tối để ghi lại kết quả các bài kiểm tra của mình."
+        },
+        {
+            "en": "Connor still held the camera, recording the action.",
+            "vi": "Connor vẫn cầm máy quay, ghi lại hành động."
+        }
+    ],
+    "words_form": [
+        "recordings"
+    ],
+    "meaning_vi": "ghi âm"
+}

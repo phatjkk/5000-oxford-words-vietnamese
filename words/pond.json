@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/pɑnd/"
+    ],
+    "synonyms": [
+        "millpond",
+        "basin",
+        "pool",
+        "lake",
+        "spring-fed"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A still body of water smaller than a lake.",
+            "vi": "Một vùng nước tĩnh nhỏ hơn một cái hồ."
+        },
+        {
+            "pos": "verb",
+            "en": "To block the flow of water so that it can escape only through evaporation or seepage; to dam.",
+            "vi": "Để chặn dòng chảy của nước để nó chỉ có thể thoát ra ngoài qua quá trình bay hơi hoặc thấm; đập."
+        },
+        {
+            "pos": "idiom",
+            "en": "the pond  the N Atlantic Ocean",
+            "vi": "ao the N Atlantic Ocean"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "From the lip of the pond, the panoramic scene was breathtaking.",
+            "vi": "Từ bờ ao, toàn cảnh thật ngoạn mục."
+        },
+        {
+            "en": "The pond was my well ready dug.",
+            "vi": "Cái ao đã được tôi đào sẵn."
+        }
+    ],
+    "words_form": [
+        "ponds"
+    ],
+    "meaning_vi": "ao"
+}

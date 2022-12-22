@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈprɑˌspɛkt/"
+    ],
+    "synonyms": [
+        "sight",
+        "possibility",
+        "landscape",
+        "chance",
+        "vista"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something expected; a possibility.",
+            "vi": "Một cái gì đó được mong đợi; một khả năng."
+        },
+        {
+            "pos": "verb",
+            "en": "To explore for mineral deposits or oil.",
+            "vi": "Để khám phá các mỏ khoáng sản hoặc dầu mỏ."
+        },
+        {
+            "pos": "idiom",
+            "en": "in prospect  expected",
+            "vi": "trong triển vọng mong đợi"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was a prospect of conviction.",
+            "vi": "Có một triển vọng của sự thuyết phục."
+        },
+        {
+            "en": "Just the prospect frightens me to death.",
+            "vi": "Chỉ là viễn cảnh khiến tôi sợ chết khiếp."
+        }
+    ],
+    "words_form": [
+        "prospecting",
+        "prospects"
+    ],
+    "meaning_vi": "khách hàng tiềm năng"
+}

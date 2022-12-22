@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ˈbædl/"
+    ],
+    "synonyms": [
+        "barrage",
+        "fight",
+        "confrontation",
+        "battle-royal",
+        "encounter"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To engage in or as if in battle.",
+            "vi": "Để tham gia hoặc như thể trong trận chiến."
+        },
+        {
+            "pos": "noun",
+            "en": "Armed fighting; combat or war.",
+            "vi": "Chiến đấu có vũ trang; chiến đấu hoặc chiến tranh."
+        },
+        {
+            "pos": "adjective",
+            "en": "(UK dialectal, chiefly Scotland, Northern England, agriculture) Improving; nutritious; fattening.",
+            "vi": "(Phương ngữ của Vương quốc Anh, chủ yếu là Scotland, miền Bắc nước Anh, nông nghiệp) Cải tiến; bổ dưỡng; vỗ béo."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A habitational surname​ from places in England that have been sites of a battle.",
+            "vi": "Họ theo thói quen từ những nơi ở Anh từng là địa điểm của một trận chiến."
+        },
+        {
+            "pos": "idiom",
+            "en": "give battle  to engage in battle; fight",
+            "vi": "đưa ra trận để giao chiến; trận đánh"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The battle was lost.",
+            "vi": "Trận thua."
+        },
+        {
+            "en": "The battle over humanity was about to get even more brutal.",
+            "vi": "Cuộc chiến giành nhân loại sắp trở nên tàn khốc hơn."
+        }
+    ],
+    "words_form": [
+        "battled",
+        "battles",
+        "battling"
+    ],
+    "meaning_vi": "trận"
+}

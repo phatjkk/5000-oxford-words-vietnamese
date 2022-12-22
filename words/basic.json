@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈbeɪsɪk/"
+    ],
+    "synonyms": [
+        "primary",
+        "central",
+        "elementary",
+        "fundamental",
+        "elemental"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of basic is something that is essential, or something with a pH level higher than 7.",
+            "vi": "Định nghĩa của cơ bản là thứ gì đó cần thiết, hoặc thứ gì đó có độ pH cao hơn 7."
+        },
+        {
+            "pos": "noun",
+            "en": "Something basic is defined as something that is necessary to know or learn.",
+            "vi": "Một cái gì đó cơ bản được định nghĩa là một cái gì đó cần thiết để biết hoặc học."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A family of third-generation computer programming languages (c.1964 on).",
+            "vi": "Họ ngôn ngữ lập trình máy tính thế hệ thứ ba (c.1964 trở đi)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't want to deny you such a basic need.",
+            "vi": "Tôi không muốn từ chối bạn một nhu cầu cơ bản như vậy."
+        },
+        {
+            "en": "The lava is a basic augiteandesite.",
+            "vi": "Dung nham là một trang web augiteandesite cơ bản."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "căn bản"
+}

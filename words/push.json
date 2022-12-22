@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pʊʃ/"
+    ],
+    "synonyms": [
+        "shove",
+        "launch",
+        "pushing",
+        "try",
+        "push-button"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A wager that results in no loss or gain for the bettor as a result of a tie or even score.",
+            "vi": "Một cuộc cá cược không có kết quả thua hoặc có lợi cho người đặt cược do kết quả hòa hoặc thậm chí là điểm."
+        },
+        {
+            "pos": "verb",
+            "en": "Push is defined as to press, force or urge a person or thing to move or go away.",
+            "vi": "Đẩy được định nghĩa là ấn, ép hoặc thúc giục một người hoặc vật di chuyển hoặc đi đi."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) push paper  To have one's time taken up by administrative, often seemingly petty, paperwork: Spent the afternoon pushing paper for the boss.",
+            "vi": "(không chính thức) đẩy giấy Để có một người chiếm thời gian của công việc hành chính, thường có vẻ nhỏ nhặt, giấy tờ: Dành cả buổi chiều để đẩy giấy cho sếp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You were trying to push me off the bed.",
+            "vi": "Bạn đang cố đẩy tôi ra khỏi giường."
+        },
+        {
+            "en": "His job is to push a button if he sees anything suspicious.",
+            "vi": "Công việc của anh ta là nhấn nút nếu anh ta thấy bất cứ điều gì đáng ngờ."
+        }
+    ],
+    "words_form": [
+        "pushed",
+        "pushes",
+        "pushing"
+    ],
+    "meaning_vi": "đẩy"
+}

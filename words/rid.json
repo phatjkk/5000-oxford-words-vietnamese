@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rɪd/"
+    ],
+    "synonyms": [
+        "quit",
+        "free",
+        "delivered",
+        "clear",
+        "relieve"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Rid is defined as to free or clear of something.",
+            "vi": "Rid được định nghĩa là giải phóng hoặc xóa bỏ điều gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Released from an obligation, problem, etc. (usually followed by \"of\")",
+            "vi": "Được giải phóng khỏi nghĩa vụ, vấn đề, v.v. (thường được theo sau bởi \"of\")"
+        },
+        {
+            "pos": "idiom",
+            "en": "get rid of  To rid oneself of (something); discard or get free of: Let's get rid of that broken chair.",
+            "vi": "thoát khỏi Để loại bỏ bản thân của (cái gì đó); vứt bỏ hoặc miễn phí: Hãy loại bỏ chiếc ghế bị hỏng đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maybe he was happy to get rid of her.",
+            "vi": "Có lẽ anh rất vui khi thoát khỏi cô."
+        },
+        {
+            "en": "He wanted you to get rid of me.",
+            "vi": "Anh ấy muốn bạn thoát khỏi tôi."
+        }
+    ],
+    "words_form": [
+        "ridded",
+        "ridding",
+        "rids"
+    ],
+    "meaning_vi": "thoát khỏi"
+}

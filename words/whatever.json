@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/(h)wətˈɛvər/"
+    ],
+    "synonyms": [
+        "whatsoever",
+        "anything",
+        "whether",
+        "everything",
+        "any"
+    ],
+    "meaning": [
+        {
+            "pos": "interjection",
+            "en": "Whatever is defined as an expression of indifference or scorn.",
+            "vi": "Bất cứ điều gì được định nghĩa là biểu hiện của sự thờ ơ hoặc khinh bỉ."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Whatever means no matter what, anything that or the amount that.",
+            "vi": "Bất cứ điều gì có nghĩa là không có vấn đề gì, bất cứ điều gì đó hoặc số tiền đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "All of; the whole of.",
+            "vi": "Tất cả; toàn bộ của."
+        },
+        {
+            "pos": "determiner",
+            "en": "No matter which; for any.",
+            "vi": "Không có vấn đề gì; bất cứ gì."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Whatever happens, it's us together and we'll make it.",
+            "vi": "Dù có chuyện gì xảy ra, đó là chúng ta cùng nhau và chúng ta sẽ làm được."
+        },
+        {
+            "en": "The Internet is whatever we make it to be.",
+            "vi": "Internet là bất cứ điều gì chúng ta làm cho nó trở thành."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bất cứ điều gì"
+}

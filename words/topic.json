@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈtɑpɪk/"
+    ],
+    "synonyms": [
+        "theme",
+        "head",
+        "matter",
+        "thesis",
+        "text"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(linguistics) A word or phrase in a sentence, usually providing information from previous discourse or shared knowledge, that the rest of the sentence elaborates or comments on.",
+            "vi": "(ngôn ngữ học) Một từ hoặc cụm từ trong câu, thường cung cấp thông tin từ diễn ngôn trước đó hoặc kiến ​​thức được chia sẻ, mà phần còn lại của câu xây dựng hoặc nhận xét."
+        },
+        {
+            "pos": "adjective",
+            "en": "Topical.",
+            "vi": "Chuyên đề."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Lori was a topic he didn't want to discuss with anyone.",
+            "vi": "Lori là một chủ đề mà anh không muốn thảo luận với bất kỳ ai."
+        },
+        {
+            "en": "I would love to write more and more about this topic, about how things will get better and cheaper in the future.",
+            "vi": "Tôi rất muốn viết nhiều hơn và nhiều hơn nữa về chủ đề này, về cách mọi thứ sẽ trở nên tốt hơn và rẻ hơn trong tương lai."
+        }
+    ],
+    "words_form": [
+        "topics"
+    ],
+    "meaning_vi": "đề tài"
+}

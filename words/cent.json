@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/sɛnt/"
+    ],
+    "synonyms": [
+        "penny",
+        "centime",
+        "lira",
+        "red-cent",
+        "money"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(money) A coin having face value of one cent (in either of the above senses).",
+            "vi": "(tiền) Đồng xu có mệnh giá một xu (theo một trong hai nghĩa trên)."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Century.",
+            "vi": "Thế kỷ."
+        },
+        {
+            "pos": "prefix",
+            "en": "Variant of centi-",
+            "vi": "Biến thể của centi-"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The light dues were reduced in 1898 from 22 cents to 1 cent per ton.",
+            "vi": "Phí ánh sáng đã giảm vào năm 1898 từ 22 xu xuống 1 xu / tấn."
+        },
+        {
+            "en": "Shepard, meant to sell it for one cent, but under the arguments of Greeley he was persuaded to fix the price at two cents.",
+            "vi": "Shepard, định bán nó với giá một xu, nhưng dưới lập luận của Greeley, ông đã bị thuyết phục để sửa giá ở mức hai xu."
+        }
+    ],
+    "words_form": [
+        "cents"
+    ],
+    "meaning_vi": "xu"
+}

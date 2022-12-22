@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈdɪstrɪkt/"
+    ],
+    "synonyms": [
+        "immediate",
+        "area",
+        "divisional",
+        "provincial",
+        "precinct"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A division of an area, as for administrative purposes.",
+            "vi": "Một sự phân chia của một khu vực, như cho các mục đích hành chính."
+        },
+        {
+            "pos": "verb",
+            "en": "District is defined as to divide locations up into designated groups or areas, usually for political or administrative purposes.",
+            "vi": "Quận được định nghĩa là để chia các địa điểm thành các nhóm hoặc khu vực được chỉ định, thường là cho các mục đích chính trị hoặc hành chính."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(with determiner, informal) The District of Columbia, the federal district of the United States.",
+            "vi": "(với người xác định, không chính thức) Đặc khu Columbia, quận liên bang của Hoa Kỳ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I went to the diamond district in New York.",
+            "vi": "Tôi đã đến khu kim cương ở New York."
+        },
+        {
+            "en": "The trip took us out of the District on the Maryland side as we headed west through picturesque rolling hills and farm lands.",
+            "vi": "Chuyến đi đưa chúng tôi ra khỏi Quận ở phía Maryland khi chúng tôi đi về phía tây qua những ngọn đồi nhấp nhô đẹp như tranh vẽ và những vùng đất nông trại."
+        }
+    ],
+    "words_form": [
+        "districts"
+    ],
+    "meaning_vi": "huyện"
+}

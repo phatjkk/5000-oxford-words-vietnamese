@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/dɑrk/"
+    ],
+    "synonyms": [
+        "gloom",
+        "nightfall",
+        "pitch-dark",
+        "dusky",
+        "gloomy"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of dark is someone or something not light in color, without light or sunshine, gloomy or evil.",
+            "vi": "Định nghĩa của bóng tối là một ai đó hoặc một cái gì đó không có màu sáng, không có ánh sáng hoặc ánh nắng, u ám hoặc xấu xa."
+        },
+        {
+            "pos": "noun",
+            "en": "The state of being dark.",
+            "vi": "Tình trạng của bóng tối."
+        },
+        {
+            "pos": "verb",
+            "en": "(obs.) To darken.",
+            "vi": "(obs.) để làm tối."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the dark  In secret: High-level decisions made in the dark.In a state of ignorance; uninformed: Kept me in the dark about their plans.",
+            "vi": "trong bóng tối Trong bí mật: Các quyết định cấp cao được đưa ra trong bóng tối. uninformed: Nắm bắt tôi trong bóng tối về kế hoạch của họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He looked tall and lean in a dark suit.",
+            "vi": "Anh ta trông cao và gầy trong bộ vest tối màu."
+        },
+        {
+            "en": "At the kitchen door she nearly ran into a dark form.",
+            "vi": "Ở cửa bếp, cô gần như biến thành một bộ dạng tối tăm."
+        }
+    ],
+    "words_form": [
+        "darkest"
+    ],
+    "meaning_vi": "tối"
+}

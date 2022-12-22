@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/dəˈskrɪpʃ(ə)n/"
+    ],
+    "synonyms": [
+        "account",
+        "representation",
+        "delineation",
+        "variety",
+        "characterization"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a description is a statement that gives details about someone or something.",
+            "vi": "Định nghĩa của mô tả là một tuyên bố cung cấp thông tin chi tiết về một người nào đó hoặc một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He called the station and reported the description of the vehicle.",
+            "vi": "Anh ta gọi cho nhà ga và báo cáo mô tả về chiếc xe."
+        },
+        {
+            "en": "Angry was a good description, she noted.",
+            "vi": "Cô ấy lưu ý rằng tức giận là một mô tả hay."
+        }
+    ],
+    "words_form": [
+        "descriptions"
+    ],
+    "meaning_vi": "sự miêu tả"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈpɔɪz(ə)n/"
+    ],
+    "synonyms": [
+        "toxin",
+        "toxic",
+        "bane",
+        "infection",
+        "germ"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A substance that causes injury, illness, or death, especially by chemical means.",
+            "vi": "Một chất gây ra thương tích, bệnh tật hoặc tử vong, đặc biệt là bằng các biện pháp hóa học."
+        },
+        {
+            "pos": "verb",
+            "en": "To kill or harm with poison.",
+            "vi": "Để giết hoặc làm hại bằng chất độc."
+        },
+        {
+            "pos": "adjective",
+            "en": "Poisonous.",
+            "vi": "Có độc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Jonny was safe, even if she hadn't been able to wipe away all traces of the poison in his blood.",
+            "vi": "Jonny vẫn an toàn, ngay cả khi cô không thể xóa sạch mọi dấu vết của chất độc trong máu anh."
+        },
+        {
+            "en": "I didn't even see any poison ivy today.",
+            "vi": "Tôi thậm chí không nhìn thấy cây thường xuân độc nào ngày hôm nay."
+        }
+    ],
+    "words_form": [
+        "poisoned",
+        "poisoning",
+        "poisons"
+    ],
+    "meaning_vi": "chất độc"
+}

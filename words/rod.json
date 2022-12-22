@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/rɑd/"
+    ],
+    "synonyms": [
+        "staff",
+        "bar",
+        "shaft",
+        "pole",
+        "wand"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a rod is a thin, straight stick or bar.",
+            "vi": "Định nghĩa của một thanh là một thanh hoặc thanh mỏng, thẳng."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A nickname for the male given names Rodney and Roderick.",
+            "vi": "Một biệt danh cho nam được đặt tên là Rodney và Roderick."
+        },
+        {
+            "pos": "idiom",
+            "en": "ride the rods  to steal a ride on a freight train",
+            "vi": "cưỡi những chiếc que để ăn cắp một chuyến đi trên một chuyến tàu chở hàng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Each rod therefore contains on two of its faces multiples of digits which are complementary to those on the other two faces; and the multiples of a digit and of its complement are reversed in position.",
+            "vi": "Do đó, mỗi thanh chứa trên hai mặt của nó bội số các chữ số bổ sung cho các chữ số trên hai mặt còn lại; và bội số của một chữ số và phần bù của nó được đảo ngược vị trí."
+        },
+        {
+            "en": "The rod was bent in the middle so that it could be turned as with a crank.",
+            "vi": "Thanh được uốn cong ở giữa để nó có thể quay như với một tay quay."
+        }
+    ],
+    "words_form": [
+        "rods"
+    ],
+    "meaning_vi": "gậy"
+}

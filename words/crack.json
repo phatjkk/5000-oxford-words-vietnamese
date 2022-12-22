@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/kræk/"
+    ],
+    "synonyms": [
+        "succumb",
+        "hurt",
+        "bad",
+        "break",
+        "crevasse"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Excelling in skill or achievement; first-rate.",
+            "vi": "Xuất sắc về kỹ năng hoặc thành tích; hạng nhất."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of crack is a sudden, sharp breaking sound or a break in something.",
+            "vi": "Định nghĩa của crack là một âm thanh vỡ đột ngột, sắc nét hoặc một thứ gì đó bị vỡ."
+        },
+        {
+            "pos": "verb",
+            "en": "To change sharply in pitch or timbre, as from hoarseness or emotion. Used of the voice.",
+            "vi": "Để thay đổi mạnh về cao độ hoặc âm sắc, từ khàn giọng hoặc cảm xúc. Được sử dụng của giọng nói."
+        },
+        {
+            "pos": "idiom",
+            "en": "crack the whip  To behave in a domineering manner; demand hard work and efficiency from those under one's control.",
+            "vi": "bẻ roi Cư xử độc đoán; đòi hỏi sự làm việc chăm chỉ và hiệu quả từ những người dưới quyền."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He paused near the crack in the ground.",
+            "vi": "Anh dừng lại gần vết nứt trên mặt đất."
+        },
+        {
+            "en": "He'd felt the earth crack open once before.",
+            "vi": "Anh đã từng cảm thấy mặt đất nứt ra một lần trước đây."
+        }
+    ],
+    "words_form": [
+        "cracked",
+        "cracking",
+        "cracks"
+    ],
+    "meaning_vi": "vết nứt"
+}

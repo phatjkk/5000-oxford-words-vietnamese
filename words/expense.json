@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɪkˈspɛns/"
+    ],
+    "synonyms": [
+        "cost",
+        "price",
+        "payment",
+        "sum",
+        "obligation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Expense is defined as the cost of something.",
+            "vi": "Chi phí được định nghĩa là chi phí của một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To charge or record as an expense.",
+            "vi": "Để tính phí hoặc ghi lại như một khoản chi phí."
+        },
+        {
+            "pos": "idiom",
+            "en": "at (one's) expense  To one's detriment or chagrin: Telling jokes at my expense.",
+            "vi": "tại (một)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm still waiting for his last expense account.",
+            "vi": "Tôi vẫn đang đợi tài khoản chi phí cuối cùng của anh ấy."
+        },
+        {
+            "en": "He paid particular attention to the March expense accounts and itineraries.",
+            "vi": "Ông đặc biệt chú ý đến các tài khoản chi phí và hành trình của tháng Ba."
+        }
+    ],
+    "words_form": [
+        "expensed",
+        "expenses",
+        "expensing"
+    ],
+    "meaning_vi": "chi phí"
+}

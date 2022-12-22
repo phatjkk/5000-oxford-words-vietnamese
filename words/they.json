@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ðeɪ/"
+    ],
+    "synonyms": [
+        "both",
+        "everybody",
+        "all",
+        "others",
+        "people"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Used to refer to the ones previously mentioned or implied.",
+            "vi": "Được sử dụng để chỉ những cái đã được đề cập hoặc ngụ ý trước đó."
+        },
+        {
+            "pos": "determiner",
+            "en": "(archaic or dialectal) Those (used for people)",
+            "vi": "(cổ hoặc phương ngữ) Những (dùng cho người)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They had two adopted children already.",
+            "vi": "Họ đã có hai con nuôi rồi."
+        },
+        {
+            "en": "They can actually talk!",
+            "vi": "Họ thực sự có thể nói chuyện!"
+        }
+    ],
+    "words_form": [
+        "he",
+        "it",
+        "she"
+    ],
+    "meaning_vi": "họ"
+}

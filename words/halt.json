@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/hɔlt/"
+    ],
+    "synonyms": [
+        "stop",
+        "restrain",
+        "begin",
+        "end",
+        "deter"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of halt is to hesitate, to put a stop to something or to come to a sudden stop.",
+            "vi": "Định nghĩa của tạm dừng là do dự, dừng lại một việc gì đó hoặc dừng lại đột ngột."
+        },
+        {
+            "pos": "noun",
+            "en": "A suspension of movement or progress, especially a temporary one.",
+            "vi": "Tạm ngừng chuyển động hoặc tiến triển, đặc biệt là tạm thời."
+        },
+        {
+            "pos": "adjective",
+            "en": "Lame; crippled.",
+            "vi": "Què; què quặt."
+        },
+        {
+            "pos": "idiom",
+            "en": "call a halt  to order a stop, esp. temporarily",
+            "vi": "gọi tạm dừng để yêu cầu một điểm dừng, đặc biệt. một cách tạm thời"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The car came to a halt and then started to roll forward.",
+            "vi": "Chiếc xe dừng lại rồi bắt đầu lao về phía trước."
+        },
+        {
+            "en": "The laughter gurgled to a halt in her throat.",
+            "vi": "Tiếng cười tắt ngúm trong cổ họng cô."
+        }
+    ],
+    "words_form": [
+        "halted",
+        "halting",
+        "halts"
+    ],
+    "meaning_vi": "tạm dừng lại"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈlæn(d)ˌlɔrd/"
+    ],
+    "synonyms": [
+        "proprietor",
+        "leaseholder",
+        "tenant",
+        "lessor",
+        "owner"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a landlord is a person who rents land, rooms, apartments or houses to others.",
+            "vi": "Định nghĩa về chủ nhà là người cho người khác thuê đất, phòng, căn hộ hoặc nhà ở."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was sometimes known as the \"Landlord of New York.\"",
+            "vi": "Đôi khi ông được gọi là \"Chủ nhà của New York.\""
+        },
+        {
+            "en": "If the tenant paid his rent, the landlord could not forbid subletting.",
+            "vi": "Nếu người thuê trả tiền thuê nhà của mình, chủ nhà không thể cấm việc cho thuê lại."
+        }
+    ],
+    "words_form": [
+        "landlords"
+    ],
+    "meaning_vi": "chủ nhà"
+}

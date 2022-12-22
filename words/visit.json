@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈvɪzɪt/"
+    ],
+    "synonyms": [
+        "sojourn",
+        "stay",
+        "visitation",
+        "come by",
+        "hit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(informal) To converse or chat.",
+            "vi": "(thân mật) Để trò chuyện hoặc trò chuyện."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or an instance of visiting.  A social call. A stay as a guest; sojourn. An official or professional call, as of a doctor. An official call as for inspection or investigation. (informal) A friendly conversation. (maritime law) The boarding of a ship of a neutral nation by an officer of a nation at war to search it for contraband, etc.",
+            "vi": "Hành động hoặc một ví dụ của chuyến thăm. Một cuộc gọi xã hội. Lưu trú với tư cách là khách; tạm biệt. Một cuộc gọi chính thức hoặc chuyên nghiệp, như của một bác sĩ. Một cuộc gọi chính thức để kiểm tra hoặc điều tra. (thân mật) Một cuộc trò chuyện thân thiện. (luật hàng hải) Việc sĩ quan của một quốc gia có chiến tranh lên tàu của một quốc gia trung lập để tìm kiếm hàng lậu, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If you're hungry, visit the kitchen.",
+            "vi": "Nếu bạn đói, hãy ghé thăm nhà bếp."
+        },
+        {
+            "en": "My first visit to the infamous room was disappointing.",
+            "vi": "Lần đầu tiên tôi đến thăm căn phòng khét tiếng thật đáng thất vọng."
+        }
+    ],
+    "words_form": [
+        "visited",
+        "visiting",
+        "visits"
+    ],
+    "meaning_vi": "ghé thăm"
+}

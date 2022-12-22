@@ -1,0 +1,59 @@
+{
+    "spelling": [
+        "/waɪld/"
+    ],
+    "synonyms": [
+        "barbarous",
+        "undomesticated",
+        "savage",
+        "neglected",
+        "dense"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Enthusiastic.",
+            "vi": "Nhiệt tâm."
+        },
+        {
+            "pos": "noun",
+            "en": "A natural or undomesticated state.",
+            "vi": "Một trạng thái tự nhiên hoặc không có tinh trùng."
+        },
+        {
+            "pos": "verb",
+            "en": "To go about in a group threatening, robbing, or attacking others.",
+            "vi": "Đi trong một nhóm đe dọa, cướp hoặc tấn công người khác."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a wild manner; wildly; without aim or control.",
+            "vi": "Theo cách thức hoang dã; ngông cuồng; mà không có mục tiêu hoặc kiểm soát."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname for a wild person, or for someone living in uncultivated land.",
+            "vi": "Họ của một người hoang dã, hoặc cho một người nào đó sống trong vùng đất hoang hóa."
+        },
+        {
+            "pos": "idiom",
+            "en": "run wild  to grow, exist, or behave without control",
+            "vi": "chạy lung tung để phát triển, tồn tại hoặc hành xử mà không có sự kiểm soát"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He couldn't help but detect her wild pulse.",
+            "vi": "Anh không thể không phát hiện mạch đập loạn xạ của cô."
+        },
+        {
+            "en": "Any time a wild animal isn't afraid of you, there is probably something wrong.",
+            "vi": "Bất cứ lúc nào một con thú hoang không sợ bạn, có lẽ là có điều gì đó không ổn."
+        }
+    ],
+    "words_form": [
+        "wildest",
+        "wilds"
+    ],
+    "meaning_vi": "hoang dã; điên cuồng; hoang dại"
+}

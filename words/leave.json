@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/liv/"
+    ],
+    "synonyms": [
+        "go",
+        "allowance",
+        "depart",
+        "get rolling",
+        "consent"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To go out of or away from.",
+            "vi": "Để đi ra khỏi hoặc đi khỏi."
+        },
+        {
+            "pos": "noun",
+            "en": "Leave is defined as permission, or is time off from work.",
+            "vi": "Nghỉ phép được định nghĩa là sự cho phép, hoặc là thời gian nghỉ làm."
+        },
+        {
+            "pos": "idiom",
+            "en": "leave  To refrain from disturbing or interfering.",
+            "vi": "để không làm phiền hoặc can thiệp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What time are we going to leave tomorrow?",
+            "vi": "Mấy giờ chúng ta đi ngày mai?"
+        },
+        {
+            "en": "If one of us has to leave, I'll go.",
+            "vi": "Nếu ai trong chúng ta phải đi, tôi sẽ đi."
+        }
+    ],
+    "words_form": [
+        "leaved",
+        "leaves",
+        "leaving",
+        "left"
+    ],
+    "meaning_vi": "rời khỏi"
+}

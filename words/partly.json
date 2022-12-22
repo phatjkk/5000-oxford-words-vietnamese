@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈpɑrtli/"
+    ],
+    "synonyms": [
+        "partially",
+        "completely",
+        "entirely",
+        "measurably",
+        "somewhat"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In part or in some degree; not completely.",
+            "vi": "Một phần hoặc một số mức độ; không hoàn toàn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He had been at least partly responsible for dashing her hopes.",
+            "vi": "Ít nhất thì anh cũng phải chịu trách nhiệm một phần trong việc dập tắt hy vọng của cô."
+        },
+        {
+            "en": "It felt good to be at least partly responsible for reviving them.",
+            "vi": "Cảm giác thật tốt khi ít nhất cũng có một phần trách nhiệm hồi sinh họ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "từng phần"
+}

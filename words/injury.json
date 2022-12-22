@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈɪndʒ(ə)ri/"
+    ],
+    "synonyms": [
+        "harm",
+        "hurt",
+        "wound",
+        "stab",
+        "twinge"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Injury is defined as harm to a person or thing.",
+            "vi": "Thương tích được định nghĩa là tổn hại cho một người hoặc một vật."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To wrong, to injure.",
+            "vi": "(lỗi thời) Sai, làm bị thương."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It wasn't just the injury and meds that made Lana's head spin.",
+            "vi": "Không chỉ chấn thương và thuốc men mới khiến đầu của Lana quay cuồng."
+        },
+        {
+            "en": "Mr. Dean, would you please discuss the circumstances of your injury in the line of duty?",
+            "vi": "Ông Dean, ông vui lòng thảo luận về hoàn cảnh thương tật của mình khi thi hành công vụ?"
+        }
+    ],
+    "words_form": [
+        "injuries"
+    ],
+    "meaning_vi": "chấn thương"
+}

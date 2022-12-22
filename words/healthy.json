@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈhɛlθi/"
+    ],
+    "synonyms": [
+        "sturdy",
+        "hardy",
+        "good",
+        "hale",
+        "vigorous"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having good health; well; sound.",
+            "vi": "Có sức khoẻ tốt; ổn; âm thanh."
+        },
+        {
+            "pos": "adverb",
+            "en": "So as to promote one's health; in a healthy way.",
+            "vi": "Vì vậy, để tăng cường sức khỏe của một người; một cách lành mạnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They grew up healthy and strong.",
+            "vi": "Họ lớn lên khỏe mạnh và mạnh mẽ."
+        },
+        {
+            "en": "The babies were healthy and by mid-August, they would have two new family members.",
+            "vi": "Các em bé đều khỏe mạnh và đến giữa tháng 8, họ sẽ có thêm hai thành viên mới trong gia đình."
+        }
+    ],
+    "words_form": [
+        "healthier",
+        "healthiest"
+    ],
+    "meaning_vi": "khỏe mạnh"
+}

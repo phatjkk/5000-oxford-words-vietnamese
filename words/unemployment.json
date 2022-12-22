@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˌənəmˈplɔɪmənt/"
+    ],
+    "synonyms": [
+        "inflation",
+        "jobless",
+        "inequality",
+        "underemployment",
+        "employment"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Unemployment is defined as the situation of being without a job.",
+            "vi": "Thất nghiệp được định nghĩa là tình trạng không có việc làm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The unemployment rate in Ouray was one-point-four.",
+            "vi": "Tỷ lệ thất nghiệp ở Ouray là 1/4."
+        },
+        {
+            "en": "Not everyone can get unemployment benefits.",
+            "vi": "Không phải ai cũng có thể nhận trợ cấp thất nghiệp."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thất nghiệp"
+}

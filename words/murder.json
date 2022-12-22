@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈmərdər/"
+    ],
+    "synonyms": [
+        "homicide",
+        "killing",
+        "slaying",
+        "assassination",
+        "crime"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Murder is defined as the illegal, pre-planned killing of one person by another, or an unpleasant task or to something that causes pain or discomfort to the body.",
+            "vi": "Giết người được định nghĩa là hành vi giết người bất hợp pháp, có kế hoạch trước của người khác, hoặc một nhiệm vụ khó chịu hoặc một cái gì đó gây đau đớn hoặc khó chịu cho cơ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "To murder is to kill someone.",
+            "vi": "Giết người là giết ai đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) get away with murder  To escape punishment for or detection of an egregiously blameworthy act.",
+            "vi": "(không chính thức) thoát khỏi tội giết người Để thoát khỏi sự trừng phạt hoặc phát hiện ra một hành vi đáng trách một cách nghiêm trọng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The murder happened days, maybe weeks ago.",
+            "vi": "Vụ án mạng xảy ra vài ngày, có thể vài tuần trước."
+        },
+        {
+            "en": "His murder was someone else's headache.",
+            "vi": "Việc giết người của anh ta khiến người khác đau đầu."
+        }
+    ],
+    "words_form": [
+        "murdered",
+        "murdering",
+        "murders"
+    ],
+    "meaning_vi": "giết người"
+}

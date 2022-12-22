@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈɑrˌkaɪv/"
+    ],
+    "synonyms": [
+        "record",
+        "archives",
+        "museum",
+        "chronicle",
+        "images"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An archive is defined as a place to keep important information, documents, or objects.",
+            "vi": "Kho lưu trữ được định nghĩa là nơi lưu giữ những thông tin, tài liệu hoặc đồ vật quan trọng."
+        },
+        {
+            "pos": "verb",
+            "en": "To archive is defined as to take a collection of things and file them in a specific place.",
+            "vi": "Lưu trữ được định nghĩa là lấy một bộ sưu tập các thứ và lưu trữ chúng ở một nơi cụ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The film archive ensures that old movies are preserved for future generations.",
+            "vi": "Kho lưu trữ phim đảm bảo rằng các bộ phim cũ được lưu giữ cho các thế hệ sau."
+        },
+        {
+            "en": "I want to make sure we properly archive all of our legal documents.",
+            "vi": "Tôi muốn đảm bảo rằng chúng tôi lưu trữ đúng cách tất cả các tài liệu pháp lý của mình."
+        }
+    ],
+    "words_form": [
+        "archived",
+        "archives",
+        "archiving"
+    ],
+    "meaning_vi": "lưu trữ"
+}

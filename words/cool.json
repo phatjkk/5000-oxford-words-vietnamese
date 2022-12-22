@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/kul/"
+    ],
+    "synonyms": [
+        "chilly",
+        "relaxed",
+        "divine",
+        "cooling",
+        "iced"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "(informal) In a casual manner; nonchalantly.",
+            "vi": "(không chính thức) Theo cách bình thường; một cách hờ hững."
+        },
+        {
+            "pos": "verb",
+            "en": "To make less warm.",
+            "vi": "Để làm cho bớt ấm."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of cool is slightly chilly, but not cold, or a slang term for popular or in style.",
+            "vi": "Định nghĩa của cool là hơi lạnh, nhưng không lạnh, hay một thuật ngữ tiếng lóng để chỉ phong cách bình dân hoặc phong cách."
+        },
+        {
+            "pos": "noun",
+            "en": "A cool place, part, or time.",
+            "vi": "Một nơi mát mẻ, một phần hoặc thời gian."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) cool it  To calm down; relax. To stop doing something.",
+            "vi": "(tiếng lóng) làm nguội nó Để bình tĩnh lại; thư giãn. Dừng lại làm một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She woke to a cool dawn.",
+            "vi": "Cô thức dậy vào một buổi bình minh mát mẻ."
+        },
+        {
+            "en": "It's a nice cool morning.",
+            "vi": "Đó là một buổi sáng mát mẻ tốt đẹp."
+        }
+    ],
+    "words_form": [
+        "cooled",
+        "coolest",
+        "cooling",
+        "cools"
+    ],
+    "meaning_vi": "mát mẻ"
+}

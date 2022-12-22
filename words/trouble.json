@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈtrəb(ə)l/"
+    ],
+    "synonyms": [
+        "worry",
+        "fear",
+        "annoyance",
+        "bother",
+        "riot"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A condition of pain, disease, or malfunction.",
+            "vi": "Tình trạng đau đớn, bệnh tật hoặc trục trặc."
+        },
+        {
+            "pos": "verb",
+            "en": "To cause mental agitation to; worry; harass; perturb; vex.",
+            "vi": "Gây kích động tinh thần; lo; quấy rối; nhiễu loạn; làm phật ý."
+        },
+        {
+            "pos": "idiom",
+            "en": "in trouble  pregnant when unmarried",
+            "vi": "gặp rắc rối khi mang thai khi chưa kết hôn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I had trouble keeping up with him.",
+            "vi": "Tôi đã gặp khó khăn trong việc theo kịp anh ấy."
+        },
+        {
+            "en": "That's why I had so much trouble telling you.",
+            "vi": "Đó là lý do tại sao tôi đã gặp rất nhiều khó khăn khi nói với bạn."
+        }
+    ],
+    "words_form": [
+        "troubled",
+        "troubles",
+        "troubling"
+    ],
+    "meaning_vi": "rắc rối"
+}

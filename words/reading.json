@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/ˈridɪŋ/"
+    ],
+    "synonyms": [
+        "examination",
+        "recitation",
+        "version",
+        "study",
+        "studying"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Reading is the act of looking at printed words and understanding or comprehending what they are saying, or the act of saying those words out loud or of interpreting those words.",
+            "vi": "Đọc là hành động nhìn vào các từ được in ra và hiểu hoặc hiểu những gì chúng đang nói, hoặc hành động nói to những từ đó hoặc giải thích những từ đó."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of read.",
+            "vi": "Trình bày phân từ đã đọc."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A city in Kansas.",
+            "vi": "Một thành phố ở Kansas."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) City in SC England; county seat of Berkshire.",
+            "vi": "(địa điểm) Thành phố ở SC Anh Quốc; quận lỵ của Berkshire."
+        },
+        {
+            "pos": "adjective",
+            "en": "Inclined to read or study.",
+            "vi": "Nghiêng để đọc hoặc nghiên cứu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was always reading, learning, inquiring.",
+            "vi": "Anh ấy luôn đọc, học hỏi, tìm hiểu."
+        },
+        {
+            "en": "I am reading a very sad story, called \"Little Jakey.\"",
+            "vi": "Tôi đang đọc một câu chuyện rất buồn, có tên là \"Little Jakey.\""
+        }
+    ],
+    "words_form": [
+        "readings"
+    ],
+    "meaning_vi": "đọc hiểu"
+}

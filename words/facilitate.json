@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/fəˈsɪləˌteɪt/"
+    ],
+    "synonyms": [
+        "promote",
+        "ease",
+        "hinder",
+        "alleviate",
+        "aid"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To lead (a discussion), as by asking questions, mediating between opposing viewpoints, or ensuring that all participants' views are heard.",
+            "vi": "Dẫn dắt (một cuộc thảo luận), bằng cách đặt câu hỏi, hòa giải giữa các quan điểm đối lập hoặc đảm bảo rằng tất cả các quan điểm của người tham gia đều được lắng nghe."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This will facilitate learning.",
+            "vi": "Điều này sẽ tạo điều kiện thuận lợi cho việc học."
+        },
+        {
+            "en": "The facts will help facilitate group discussion.",
+            "vi": "Các dữ kiện sẽ giúp tạo điều kiện thuận lợi cho thảo luận nhóm."
+        }
+    ],
+    "words_form": [
+        "facilitated",
+        "facilitates",
+        "facilitating"
+    ],
+    "meaning_vi": "tạo điều kiện"
+}

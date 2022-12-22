@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/əˈmərdʒənsi/"
+    ],
+    "synonyms": [
+        "accident",
+        "crisis",
+        "calm",
+        "juncture",
+        "peace"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A sudden, generally unexpected occurrence or set of circumstances demanding immediate action.",
+            "vi": "Một sự kiện xảy ra đột ngột, nói chung là bất ngờ hoặc một tập hợp các tình huống đòi hỏi hành động ngay lập tức."
+        },
+        {
+            "pos": "adjective",
+            "en": "For use during emergencies.",
+            "vi": "Để sử dụng trong trường hợp khẩn cấp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I had an emergency call.",
+            "vi": "Tôi đã có một cuộc gọi khẩn cấp."
+        },
+        {
+            "en": "It seemed like hours in the emergency room before the diagnosis.",
+            "vi": "Có vẻ như hàng giờ trong phòng cấp cứu trước khi được chẩn đoán."
+        }
+    ],
+    "words_form": [
+        "emergencies"
+    ],
+    "meaning_vi": "trường hợp khẩn cấp"
+}

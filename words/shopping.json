@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈʃɑpɪŋ/"
+    ],
+    "synonyms": [
+        "comparing",
+        "patronizing",
+        "looking",
+        "matching",
+        "window-shopping"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Searching for or buying goods or services.",
+            "vi": "Tìm kiếm hoặc mua hàng hóa hoặc dịch vụ."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of shop.",
+            "vi": "Hiện tại phân từ của cửa hàng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can't even get on her shopping list.",
+            "vi": "Tôi thậm chí không thể có tên trong danh sách mua sắm của cô ấy."
+        },
+        {
+            "en": "The shopping trip was exciting because it was so close to Christmas, but otherwise uneventful.",
+            "vi": "Chuyến đi mua sắm thật thú vị vì nó đã quá gần với lễ Giáng sinh, nhưng ngược lại thì thật khó chịu."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "mua sắm"
+}

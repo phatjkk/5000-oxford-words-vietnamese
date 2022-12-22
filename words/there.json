@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/ðɛr/"
+    ],
+    "synonyms": [
+        "beyond",
+        "yonder",
+        "in that location",
+        "here",
+        "thither"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "At or in that place.",
+            "vi": "Tại hoặc tại nơi đó."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Used to introduce a clause or sentence.",
+            "vi": "Dùng để giới thiệu một mệnh đề hoặc một câu."
+        },
+        {
+            "pos": "adjective",
+            "en": "Used especially for emphasis after the demonstrative pronoun that or those, or after a noun modified by the demonstrative adjective that or those .",
+            "vi": "Được sử dụng đặc biệt để nhấn mạnh sau đại từ chứng minh that hoặc những, hoặc sau một danh từ được sửa đổi bởi tính từ chứng minh that hoặc những."
+        },
+        {
+            "pos": "noun",
+            "en": "That place or point.",
+            "vi": "Địa điểm hoặc điểm đó."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express feelings such as relief, satisfaction, sympathy, or anger.",
+            "vi": "Được sử dụng để thể hiện cảm xúc như nhẹ nhõm, hài lòng, thông cảm hoặc tức giận."
+        },
+        {
+            "pos": "idiom",
+            "en": "be there for (someone)  To be available to provide help or comfort to someone in a time of difficulty.",
+            "vi": "ở đó vì (ai đó) Sẵn sàng giúp đỡ hoặc an ủi ai đó trong lúc khó khăn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was shopping and packing to be done before they left on vacation.",
+            "vi": "Đã có việc mua sắm và đóng gói trước khi họ đi nghỉ."
+        },
+        {
+            "en": "There isn't much to tell.",
+            "vi": "Không có nhiều điều để kể."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ở đó"
+}

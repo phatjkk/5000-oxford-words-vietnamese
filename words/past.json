@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/pæst/"
+    ],
+    "synonyms": [
+        "antecedent",
+        "elapsed",
+        "nostalgia",
+        "previous",
+        "precede"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The time before the present.",
+            "vi": "Thời điểm trước hiện tại."
+        },
+        {
+            "pos": "adjective",
+            "en": "(grammar) Of, relating to, or being a verb tense or form used to express an action or condition prior to the time it is expressed.",
+            "vi": "(ngữ pháp) Of, liên quan đến, hoặc là thì hoặc dạng động từ được sử dụng để diễn đạt một hành động hoặc điều kiện trước thời điểm nó được diễn đạt."
+        },
+        {
+            "pos": "adverb",
+            "en": "So as to pass by or go beyond.",
+            "vi": "Vì vậy, để đi qua hoặc đi xa hơn."
+        },
+        {
+            "pos": "preposition",
+            "en": "Beyond in time; later than or after.",
+            "vi": "Vượt thời gian; muộn hơn hoặc sau đó."
+        },
+        {
+            "pos": "verb",
+            "en": "Pass.",
+            "vi": "Đi qua."
+        },
+        {
+            "pos": "idiom",
+            "en": "not put it past someone  to judge that someone is not incapable of engaging in some specified action",
+            "vi": "không đặt nó qua một người nào đó để đánh giá rằng ai đó không có khả năng tham gia vào một số hành động cụ thể"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They had to move forward, and leave the past behind them.",
+            "vi": "Họ phải tiến về phía trước, và bỏ lại quá khứ sau lưng."
+        },
+        {
+            "en": "He brushed past her.",
+            "vi": "Anh lướt qua cô."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "quá khứ"
+}

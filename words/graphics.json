@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈgræfɪks/"
+    ],
+    "synonyms": [
+        "artwork",
+        "computer graphics",
+        "visuals",
+        "illustrations",
+        "pictures"
+    ],
+    "meaning": [
+        {
+            "pos": "",
+            "en": "The representation of data in a way that includes images in addition to or instead of text. Computer-aided design, typesetting, and video games, for example, involve the use of graphics.",
+            "vi": "Biểu diễn dữ liệu theo cách bao gồm hình ảnh ngoài hoặc thay vì văn bản. Ví dụ: thiết kế hỗ trợ máy tính, sắp chữ và trò chơi điện tử liên quan đến việc sử dụng đồ họa."
+        },
+        {
+            "pos": "noun",
+            "en": "Calculation of stresses, etc. from such drawings.",
+            "vi": "Tính toán ứng suất, vv từ các bản vẽ như vậy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The science of graphics is closely related to that of mensuration.",
+            "vi": "Khoa học về đồ họa có liên quan chặt chẽ với khoa học về sự bão hòa."
+        },
+        {
+            "en": "The new graphics are a series of beginner Paintbrush images, with yellow smiley faces on; they look terrible.",
+            "vi": "Đồ họa mới là một loạt các hình ảnh Paintbrush dành cho người mới bắt đầu, với mặt cười màu vàng trên; chúng trông thật khủng khiếp."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "",
+            "en": "The representation of data in a way that includes images in addition to or instead of text. Computer-aided design, typesetting, and video games, for example, involve the use of graphics.",
+            "vi": "Biểu diễn dữ liệu theo cách bao gồm hình ảnh ngoài hoặc thay vì văn bản. Ví dụ: thiết kế hỗ trợ máy tính, sắp chữ và trò chơi điện tử liên quan đến việc sử dụng đồ họa."
+        },
+        {
+            "pos": "noun",
+            "en": "Calculation of stresses, etc. from such drawings.",
+            "vi": "Tính toán ứng suất, vv từ các bản vẽ như vậy."
+        }
+    ]
+}

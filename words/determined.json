@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/dəˈtərmənd/"
+    ],
+    "synonyms": [
+        "decided",
+        "purpose",
+        "firm",
+        "resolved",
+        "stubborn"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Decided or resolved.",
+            "vi": "Đã quyết định hoặc đã giải quyết."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of determine.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ của xác định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Elihu Burritt was a poor boy who was determined to learn.",
+            "vi": "Elihu Burritt là một cậu bé nghèo quyết tâm học hỏi."
+        },
+        {
+            "en": "He's determined to keep me.",
+            "vi": "Anh ấy quyết tâm giữ tôi lại."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "xác định"
+}

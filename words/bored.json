@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/bɔrd/"
+    ],
+    "synonyms": [
+        "dull",
+        "irked",
+        "uninterested",
+        "annoyed",
+        "wearied"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of bored means to feel impatient because you are uninterested.",
+            "vi": "Định nghĩa của buồn chán có nghĩa là cảm thấy mất kiên nhẫn vì bạn không có hứng thú."
+        },
+        {
+            "pos": "adjective",
+            "en": "Uninterested, without attention.",
+            "vi": "Không quan tâm, không chú ý."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm not bored, but it is getting late.",
+            "vi": "Tôi không thấy chán, nhưng đã muộn rồi."
+        },
+        {
+            "en": "He must be getting bored with watching her.",
+            "vi": "Anh ấy chắc đang cảm thấy nhàm chán khi nhìn cô ấy."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chán, chán nản"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɡæŋ/"
+    ],
+    "synonyms": [
+        "clique",
+        "unit",
+        "pack",
+        "coterie",
+        "set"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To band together as a group or gang.",
+            "vi": "Để nhóm lại với nhau thành một nhóm hoặc băng nhóm."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a gang is a group of people who spend a lot of time together, often for negative purposes such as stealing or attacking others.",
+            "vi": "Định nghĩa về băng đảng là một nhóm người dành nhiều thời gian cho nhau, thường vì những mục đích tiêu cực như trộm cắp hoặc tấn công người khác."
+        },
+        {
+            "pos": "idiom",
+            "en": "gang up on  to attack or oppose as a group",
+            "vi": "tập hợp để tấn công hoặc chống lại như một nhóm"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I think she might be involved in some sort of gang or something.",
+            "vi": "Tôi nghĩ cô ấy có thể dính líu đến một băng nhóm nào đó hay gì đó."
+        },
+        {
+            "en": "A bottle gang or \" shop \" consists of five persons.",
+            "vi": "Một băng đảng ve chai hay \"cửa hàng\" bao gồm năm người."
+        }
+    ],
+    "words_form": [
+        "ganged",
+        "ganging",
+        "gangs"
+    ],
+    "meaning_vi": "băng nhóm"
+}

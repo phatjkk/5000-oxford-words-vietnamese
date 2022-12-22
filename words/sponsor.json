@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈspɑnsər/"
+    ],
+    "synonyms": [
+        "supporter",
+        "adherent",
+        "advertiser",
+        "backer",
+        "advocate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of sponsor is to provide funding for something, or to pledge to fund something.",
+            "vi": "Định nghĩa của nhà tài trợ là cung cấp tài trợ cho một cái gì đó, hoặc cam kết tài trợ cho một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "A person or organisation with some sort of responsibility for another person or organisation, especially where the responsibility has a religious, legal, or financial aspect.",
+            "vi": "Một cá nhân hoặc tổ chức chịu một số loại trách nhiệm đối với một cá nhân hoặc tổ chức khác, đặc biệt khi trách nhiệm đó có khía cạnh tôn giáo, pháp lý hoặc tài chính."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You want me to find her a sponsor and bring her in?",
+            "vi": "Bạn muốn tôi tìm cho cô ấy một nhà tài trợ và đưa cô ấy vào?"
+        },
+        {
+            "en": "She pretty certainly was the chief cause of his early introduction to good society, the abbe de Chateauneuf (his sponsor in more ways than one) having been her friend.",
+            "vi": "Cô ấy chắc chắn là nguyên nhân chính dẫn đến việc anh sớm làm quen với xã hội tốt đẹp, tu viện de Chateauneuf (nhà tài trợ của anh theo nhiều cách) là bạn của cô."
+        }
+    ],
+    "words_form": [
+        "sponsored",
+        "sponsoring",
+        "sponsors"
+    ],
+    "meaning_vi": "nhà tài trợ"
+}

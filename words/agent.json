@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈeɪdʒənt/"
+    ],
+    "synonyms": [
+        "broker",
+        "surrogate",
+        "assistant",
+        "representative",
+        "operator"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An agent is defined as someone or something that makes something happen.",
+            "vi": "Tác nhân được định nghĩa là một người nào đó hoặc một cái gì đó làm cho điều gì đó xảy ra."
+        },
+        {
+            "pos": "verb",
+            "en": "To act as an agent or representative for.",
+            "vi": "Để hoạt động như một đại lý hoặc đại diện cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The agent followed her.",
+            "vi": "Người đại diện đã theo dõi cô."
+        },
+        {
+            "en": "The agent scurried away and Denton immediately turned on her.",
+            "vi": "Người đặc vụ sợ hãi bỏ đi và Denton ngay lập tức từ chối cô ta."
+        }
+    ],
+    "words_form": [
+        "agents"
+    ],
+    "meaning_vi": "đặc vụ"
+}

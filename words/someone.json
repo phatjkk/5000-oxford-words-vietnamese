@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈsəmˌwən/"
+    ],
+    "synonyms": [
+        "individual",
+        "somebody",
+        "one",
+        "eminence",
+        "dignitary"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person of importance.",
+            "vi": "Một người có tầm quan trọng."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Some person.",
+            "vi": "Một số người."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Some translation dictionaries have used the abbreviation s.o. or so for someone.",
+            "vi": "Một số từ điển dịch thuật đã sử dụng cách viết tắt tương tự như vậy cho một người nào đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Someone knocked at the door.",
+            "vi": "Có người gõ cửa."
+        },
+        {
+            "en": "I'll send someone at once.",
+            "vi": "Tôi sẽ cử ai đó ngay lập tức."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "người nào"
+}

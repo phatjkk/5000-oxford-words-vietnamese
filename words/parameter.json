@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/pəˈræmədər/"
+    ],
+    "synonyms": [
+        "algorithm",
+        "variable",
+        "vector",
+        "function",
+        "numeric"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a paramater is a guideline, boundary or outer limit.",
+            "vi": "Định nghĩa của paramater là một hướng dẫn, ranh giới hoặc giới hạn bên ngoài."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Transmit antennas also have parameter - a maximum power rating.",
+            "vi": "Ăng ten phát cũng có thông số - định mức công suất tối đa."
+        },
+        {
+            "en": "It is to be noticed that the parameter c of the cylindroid is unaltered if the two pitches h, k be increased by equal amounts; the only change is that all the pitches are increased by the same amount.",
+            "vi": "Cần lưu ý rằng tham số c của hình trụ không thay đổi nếu hai cao độ h, k được tăng lên một lượng bằng nhau; sự thay đổi duy nhất là tất cả các sân đều tăng lên cùng một lượng."
+        }
+    ],
+    "words_form": [
+        "parameters"
+    ],
+    "meaning_vi": "tham số"
+}

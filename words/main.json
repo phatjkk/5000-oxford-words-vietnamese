@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/meɪn/"
+    ],
+    "synonyms": [
+        "primary",
+        "trunk",
+        "major",
+        "bulk",
+        "absolute"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a main is a primary line used for distributing water, gas and electricity.",
+            "vi": "Định nghĩa về đường dây chính là đường dây chính được sử dụng để phân phối nước, khí đốt và điện."
+        },
+        {
+            "pos": "adjective",
+            "en": "Most important; principal.",
+            "vi": "Quan trọng nhất; hiệu trưởng."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) River in SW Germany, flowing west into the Rhine at Mainz: 307 mi (494 km)",
+            "vi": "(địa điểm) Sông ở SW Đức, chảy về phía Tây sông Rhine tại Mainz: 307 mi (494 km)"
+        },
+        {
+            "pos": "adverb",
+            "en": "(UK, dialectal) Very; very much; greatly; mightily; extremely; exceedingly.",
+            "vi": "(Anh, phương ngữ) Rất; rất nhiều; rất nhiều; mạnh mẽ; cực kì; cực kỳ."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A river in southern Germany, flowing from Bavaria to the Rhine.",
+            "vi": "Một con sông ở miền nam nước Đức, chảy từ Bavaria đến Rhine."
+        },
+        {
+            "pos": "idiom",
+            "en": "by main force (or strength)  by sheer force (or strength)",
+            "vi": "bằng lực chính (hoặc sức mạnh) bằng lực tuyệt đối (hoặc sức mạnh)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His main sin appears to be his poor timing.",
+            "vi": "Tội lỗi chính của anh ta dường như là thời điểm kém của anh ta."
+        },
+        {
+            "en": "He left the room and ascended to the main floor.",
+            "vi": "Anh rời khỏi phòng và đi lên tầng chính."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chủ yếu"
+}

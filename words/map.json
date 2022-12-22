@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/mæp/"
+    ],
+    "synonyms": [
+        "image",
+        "atlas",
+        "gazetteer",
+        "tracing",
+        "draft"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a map is a representation of a particular land or sky area.",
+            "vi": "Định nghĩa của bản đồ là sự thể hiện của một vùng đất hoặc vùng trời cụ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "Map is defined as to plan out a route.",
+            "vi": "Bản đồ được định nghĩa là để vạch ra một tuyến đường."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Modified American plan.",
+            "vi": "Kế hoạch sửa đổi của Mỹ."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1140?-1209?; Welsh poet & satirist.",
+            "vi": "(người) 1140? -1209 ?; Nhà thơ và nhà văn châm biếm người xứ Wales."
+        },
+        {
+            "pos": "initialism",
+            "en": "(travel) Modified American plan, a hotel rate that included accommodation, breakfast and dinner, but not lunch.",
+            "vi": "(du lịch) Gói của Mỹ sửa đổi, một mức giá khách sạn đã bao gồm chỗ ở, bữa sáng và bữa tối, nhưng không bao gồm bữa trưa."
+        },
+        {
+            "pos": "idiom",
+            "en": "all over the map  In, from, or to a variety of places; ubiquitously. Showing great variety; varied or diverse:",
+            "vi": "trên bản đồ Tại, từ, hoặc đến nhiều nơi khác nhau; ở khắp mọi nơi. Thể hiện sự đa dạng tuyệt vời; đa dạng hoặc đa dạng:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He frowned at the map before him.",
+            "vi": "Anh cau mày nhìn tấm bản đồ trước mặt."
+        },
+        {
+            "en": "He needed a written map to perform simple chores like finding a grocery store or getting around Boston.",
+            "vi": "Anh ta cần một bản đồ viết để thực hiện những công việc đơn giản như tìm một cửa hàng tạp hóa hoặc đi vòng quanh Boston."
+        }
+    ],
+    "words_form": [
+        "mapped",
+        "mapping",
+        "maps"
+    ],
+    "meaning_vi": "bản đồ"
+}

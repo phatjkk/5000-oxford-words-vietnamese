@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈbrɛkfəst/"
+    ],
+    "synonyms": [
+        "dinner",
+        "meal",
+        "lunch",
+        "supper",
+        "afternoon-tea"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of breakfast is a morning meal, or the first meal of the day.",
+            "vi": "Định nghĩa của bữa ăn sáng là một bữa ăn sáng, hoặc bữa ăn đầu tiên trong ngày."
+        },
+        {
+            "pos": "verb",
+            "en": "To eat breakfast.",
+            "vi": "Ăn sáng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Sit down and have breakfast with us.",
+            "vi": "Ngồi xuống và ăn sáng với chúng tôi."
+        },
+        {
+            "en": "We'll all have breakfast together.",
+            "vi": "Tất cả chúng ta sẽ ăn sáng cùng nhau."
+        }
+    ],
+    "words_form": [
+        "breakfasts"
+    ],
+    "meaning_vi": "bữa ăn sáng"
+}

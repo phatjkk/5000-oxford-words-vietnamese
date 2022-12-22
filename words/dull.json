@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/dəl/"
+    ],
+    "synonyms": [
+        "blunt",
+        "melancholy",
+        "blunted",
+        "pointless",
+        "depressed"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Not active or busy; slack.",
+            "vi": "Không hoạt động hoặc bận rộn; chùng xuống."
+        },
+        {
+            "pos": "verb",
+            "en": "To render dull; to remove or blunt an edge or something that was sharp.",
+            "vi": "Để hiển thị buồn tẻ; để loại bỏ hoặc làm cùn một cạnh hoặc thứ gì đó sắc nhọn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Things didn't stay dull for long, though.",
+            "vi": "Tuy nhiên, mọi thứ không buồn tẻ lâu."
+        },
+        {
+            "en": "It is not all books that are as dull as their readers.",
+            "vi": "Không phải cuốn sách nào cũng buồn tẻ như người đọc của chúng."
+        }
+    ],
+    "words_form": [
+        "dulled",
+        "dullest",
+        "dulling",
+        "dulls"
+    ],
+    "meaning_vi": "đần độn"
+}

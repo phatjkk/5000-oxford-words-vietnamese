@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/lɪm/"
+    ],
+    "synonyms": [
+        "trunk",
+        "offshoot",
+        "bough",
+        "part",
+        "appendage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A large branch of a tree.",
+            "vi": "Một cành cây lớn."
+        },
+        {
+            "pos": "verb",
+            "en": "To remove the limbs from an animal or tree.",
+            "vi": "Để loại bỏ các chi khỏi động vật hoặc cây cối."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) (out) on a limb  In a difficult, awkward, or vulnerable position.",
+            "vi": "(không chính thức) (ra ngoài) ở một vị trí khó khăn, khó xử hoặc dễ bị tổn thương."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The limb held, but her shoulder didn't.",
+            "vi": "Chân tay giữ được, nhưng vai của cô ấy thì không."
+        },
+        {
+            "en": "He dropped to a limb closer to the ground.",
+            "vi": "Anh ta rơi xuống một chi gần mặt đất hơn."
+        }
+    ],
+    "words_form": [
+        "limbs"
+    ],
+    "meaning_vi": "chân tay"
+}

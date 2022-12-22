@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/peɪdʒ/"
+    ],
+    "synonyms": [
+        "sheet",
+        "octavo",
+        "leaf",
+        "count",
+        "pagination"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(computers) A webpage.",
+            "vi": "(máy tính) Một trang web."
+        },
+        {
+            "pos": "verb",
+            "en": "Page is defined as to add numbers to pieces of paper, to flip through reading material, a request for response from someone over a public address system or a young assistant to an important person.",
+            "vi": "Trang được định nghĩa là để thêm số vào các mẩu giấy, lướt qua tài liệu đọc, yêu cầu phản hồi từ một người nào đó qua hệ thống truyền thanh công cộng hoặc một trợ lý trẻ cho một người quan trọng."
+        },
+        {
+            "pos": "pronoun",
+            "en": "An English and Scottish occupational surname for someone who was a servant.",
+            "vi": "Họ nghề nghiệp của Anh và Scotland cho một người từng là người hầu."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) on the same page  in agreement or in a harmonious working relationship",
+            "vi": "(không chính thức) trên cùng một trang theo thỏa thuận hoặc trong mối quan hệ làm việc hài hòa"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She watched him turn a page and touch it.",
+            "vi": "Cô nhìn anh lật một trang và chạm vào nó."
+        },
+        {
+            "en": "I have a page about me.",
+            "vi": "Tôi có một trang về tôi."
+        }
+    ],
+    "words_form": [
+        "paged",
+        "pages",
+        "paging"
+    ],
+    "meaning_vi": "trang"
+}

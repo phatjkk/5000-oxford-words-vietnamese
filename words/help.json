@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/hɛlp/"
+    ],
+    "synonyms": [
+        "succor",
+        "assist",
+        "guidance",
+        "aides",
+        "help"
+    ],
+    "meaning": [
+        {
+            "pos": "interjection",
+            "en": "Help is defined as a plea or request for aid or assistance.",
+            "vi": "Trợ giúp được định nghĩa là một lời cầu xin hoặc yêu cầu trợ giúp hoặc hỗ trợ."
+        },
+        {
+            "pos": "verb",
+            "en": "Help means to provide aid or assistance, or to improve a situation.",
+            "vi": "Trợ giúp có nghĩa là cung cấp viện trợ hoặc hỗ trợ, hoặc để cải thiện một tình huống."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of help is aid that you request, or is someone who provides assistance.",
+            "vi": "Định nghĩa về trợ giúp là trợ giúp mà bạn yêu cầu, hoặc là người cung cấp hỗ trợ."
+        },
+        {
+            "pos": "idiom",
+            "en": "help (oneself) to  To serve or provide oneself with: Help yourself to the cookies.To take (something) without asking permission: The thief even helped himself to the spare change in the jar.",
+            "vi": "giúp (chính mình) để phục vụ hoặc cung cấp cho bản thân: Tự làm bánh quy. Lấy (cái gì đó) mà không cần xin phép: Kẻ trộm thậm chí còn tự mình lấy tiền lẻ dự phòng trong lọ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "So will help you God, and so only.",
+            "vi": "Vì vậy, sẽ giúp bạn Thiên Chúa, và chỉ như vậy."
+        },
+        {
+            "en": "We have a natural desire to want to help others.",
+            "vi": "Chúng ta có một mong muốn tự nhiên là muốn giúp đỡ người khác."
+        }
+    ],
+    "words_form": [
+        "helped",
+        "helping",
+        "helps"
+    ],
+    "meaning_vi": "Cứu giúp"
+}

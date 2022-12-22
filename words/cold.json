@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/koʊld/"
+    ],
+    "synonyms": [
+        "freezing",
+        "chilly",
+        "icy",
+        "frosty",
+        "frozen"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Feeling chilled.",
+            "vi": "Cảm giác ớn lạnh."
+        },
+        {
+            "pos": "adverb",
+            "en": "With complete finality.",
+            "vi": "Với sự hoàn chỉnh cuối cùng."
+        },
+        {
+            "pos": "noun",
+            "en": "Cold weather.",
+            "vi": "Thời tiết lạnh."
+        },
+        {
+            "pos": "idiom",
+            "en": "out in the cold  Lacking benefits given to others; neglected.",
+            "vi": "ra ngoài trong lạnh Thiếu lợi ích cho người khác; bị bỏ quên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Let's get in out of this cold wind.",
+            "vi": "Hãy ra khỏi cơn gió lạnh này."
+        },
+        {
+            "en": "She felt as though a cold hand grasped her stomach and squeezed hard.",
+            "vi": "Cô cảm thấy như thể có một bàn tay lạnh lẽo nắm lấy bụng mình và bóp mạnh."
+        }
+    ],
+    "words_form": [
+        "coldest"
+    ],
+    "meaning_vi": "lạnh"
+}

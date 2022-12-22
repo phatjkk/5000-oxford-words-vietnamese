@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tæŋk/"
+    ],
+    "synonyms": [
+        "armored-combat-vehicle",
+        "reservoir",
+        "army tank",
+        "vat",
+        "cauldron"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(informal) To suffer a sudden decline or failure.",
+            "vi": "(không chính thức) Bị suy giảm hoặc thất bại đột ngột."
+        },
+        {
+            "pos": "noun",
+            "en": "A closed container for liquids or gases.",
+            "vi": "Một thùng kín cho chất lỏng hoặc chất khí."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the tank  In reserve: A runner who didn't have enough in the tank to hold the lead.In a state of decline or failure: Stocks have been in the tank for months.Enthusiastically partial; strongly favoring: A reporter accused of being in the tank for a candidate.",
+            "vi": "trong bể Dự trữ: Một người chạy không có đủ trong bể để giữ vị trí dẫn đầu. Ở trạng thái suy giảm hoặc thất bại: Hàng trong bể đã nhiều tháng. Nhiệt tình một phần; ủng hộ mạnh mẽ: Một phóng viên bị buộc tội là trong xe tăng cho một ứng cử viên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We checked out the tank and the mileage.",
+            "vi": "Chúng tôi đã kiểm tra xe tăng và số dặm."
+        },
+        {
+            "en": "The tank top displayed his thick biceps and shapely shoulders.",
+            "vi": "Chiếc áo ba lỗ khoe bắp tay dày và bờ vai quyến rũ của anh ấy."
+        }
+    ],
+    "words_form": [
+        "tanked",
+        "tanking",
+        "tanks"
+    ],
+    "meaning_vi": "xe tăng"
+}

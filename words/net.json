@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/nɛt/"
+    ],
+    "synonyms": [
+        "seize",
+        "let-go",
+        "loss",
+        "network",
+        "web"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A meshed network of lines, figures, or fibers.",
+            "vi": "Một mạng lưới gồm các đường, hình hoặc sợi."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of net is the amount left over after certain adjustments have been made.",
+            "vi": "Định nghĩa của net là số tiền còn lại sau khi một số điều chỉnh đã được thực hiện."
+        },
+        {
+            "pos": "verb",
+            "en": "To catch or ensnare in a net.",
+            "vi": "Để bắt hoặc gài bẫy trong lưới."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "(comput.) Network.",
+            "vi": "(tính toán.) Mạng."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(computing) The Internet.",
+            "vi": "(máy tính) Internet."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The net seemed heavy.",
+            "vi": "Lưới có vẻ nặng."
+        },
+        {
+            "en": "Her personal net buzzed, and she touched the area behind her ear again.",
+            "vi": "Mạng cá nhân của cô ấy xôn xao, và cô ấy lại chạm vào vùng sau tai của mình."
+        }
+    ],
+    "words_form": [
+        "nets",
+        "netted",
+        "netting"
+    ],
+    "meaning_vi": "ròng"
+}

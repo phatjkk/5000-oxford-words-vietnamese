@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/brɪk/"
+    ],
+    "synonyms": [
+        "cube",
+        "block",
+        "adobe",
+        "masonry",
+        "ashlar"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a brick is a block made of molded and baked clay.",
+            "vi": "Định nghĩa của một viên gạch là một khối được làm bằng đất sét nung và đúc."
+        },
+        {
+            "pos": "verb",
+            "en": "To construct, line, or pave with bricks.",
+            "vi": "Để xây dựng, lót hoặc lát bằng gạch."
+        },
+        {
+            "pos": "adjective",
+            "en": "Built or paved with brick.",
+            "vi": "Được xây hoặc lát bằng gạch."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) Urban township in E N.J.",
+            "vi": "(địa điểm) Thị trấn thành thị ở E NJ"
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) drop a brick  To make a clumsy social error.",
+            "vi": "(không chính thức) thả một viên gạch Để mắc lỗi xã hội vụng về."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His heart felt like a brick in his stomach.",
+            "vi": "Trái tim anh như có một viên gạch trong bụng."
+        },
+        {
+            "en": "He danced out of the room singing, \"She's a Brick House\".",
+            "vi": "Anh ấy nhảy ra khỏi phòng và hát, \"She's a Brick House\"."
+        }
+    ],
+    "words_form": [
+        "bricked",
+        "bricking",
+        "bricks"
+    ],
+    "meaning_vi": "gạch"
+}

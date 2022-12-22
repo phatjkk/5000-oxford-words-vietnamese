@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈvərdɪkt/"
+    ],
+    "synonyms": [
+        "decision",
+        "finding",
+        "adjudication",
+        "answer",
+        "opinion"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(law) The formal finding of a judge or jury on a matter submitted to them in a trial.",
+            "vi": "(luật) Kết luận chính thức của một thẩm phán hoặc bồi thẩm đoàn về một vấn đề được trình lên họ trong một phiên tòa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The verdict is given by a simple majority.",
+            "vi": "Phán quyết được đưa ra bởi đa số đơn giản."
+        },
+        {
+            "en": "The popular verdict received official and formal sanction.",
+            "vi": "Phán quyết phổ biến đã nhận được hình thức xử phạt chính thức và chính thức."
+        }
+    ],
+    "words_form": [
+        "verdicts"
+    ],
+    "meaning_vi": "bản án"
+}

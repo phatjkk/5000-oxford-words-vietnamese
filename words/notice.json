@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈnoʊdəs/"
+    ],
+    "synonyms": [
+        "remark",
+        "caution",
+        "announcement",
+        "mark",
+        "discern"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To perceive with the mind; detect.",
+            "vi": "Nhận thức bằng tâm trí; phát hiện."
+        },
+        {
+            "pos": "noun",
+            "en": "Respectful attention or consideration.",
+            "vi": "Sự quan tâm hoặc cân nhắc một cách tôn trọng."
+        },
+        {
+            "pos": "idiom",
+            "en": "serve notice  to give formal warning or information, as of intentions; announce",
+            "vi": "tống đạt thông báo để đưa ra cảnh báo hoặc thông tin chính thức, theo ý định; thông báo"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't notice how far I was wandering this evening.",
+            "vi": "Tôi đã không nhận thấy mình đã lang thang bao xa vào buổi tối hôm nay."
+        },
+        {
+            "en": "Others don't notice it, but I see it.",
+            "vi": "Những người khác không nhận thấy nó, nhưng tôi thấy nó."
+        }
+    ],
+    "words_form": [
+        "noticed",
+        "notices",
+        "noticing"
+    ],
+    "meaning_vi": "để ý"
+}

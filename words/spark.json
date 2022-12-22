@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/spɑrk/"
+    ],
+    "synonyms": [
+        "sparkle",
+        "electric-discharge",
+        "woo",
+        "stop",
+        "set off"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Liveliness; vivacity.",
+            "vi": "Sự dễ thương; hoạt bát."
+        },
+        {
+            "pos": "verb",
+            "en": "To serve as the activating or animating influence of or in; stir up; activate.",
+            "vi": "Để phục vụ như là tác động kích hoạt hoặc hoạt động của hoặc trong; khuấy động; hoạt động."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) (born Muriel Sarah Camberg) 1918-2006; Brit. writer.",
+            "vi": "(người) (khai sinh Muriel Sarah Camberg) 1918-2006; Người Anh. nhà văn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was like watching a spark grow into a flame.",
+            "vi": "Nó giống như xem một tia lửa phát triển thành một ngọn lửa."
+        },
+        {
+            "en": "A spark of humor glimmered in his eyes.",
+            "vi": "Một tia hài hước lóe lên trong mắt anh."
+        }
+    ],
+    "words_form": [
+        "sparked",
+        "sparking",
+        "sparks"
+    ],
+    "meaning_vi": "tia lửa"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈsəbərb/"
+    ],
+    "synonyms": [
+        "neighborhood",
+        "area",
+        "metropolis",
+        "skirt",
+        "small-town"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a suburb is an area of homes outside of a city.",
+            "vi": "Định nghĩa của một vùng ngoại ô là một khu vực của những ngôi nhà bên ngoài một thành phố."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is a suburb on the right bank of the stream.",
+            "vi": "Có một vùng ngoại ô bên phải của con suối."
+        },
+        {
+            "en": "To the north lies the populous suburb of St Mary Church.",
+            "vi": "Về phía bắc là khu ngoại ô đông dân của Nhà thờ St Mary."
+        }
+    ],
+    "words_form": [
+        "suburbs"
+    ],
+    "meaning_vi": "ngoại ô"
+}

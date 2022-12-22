@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/təˈwɔːdz/"
+    ],
+    "synonyms": [
+        "against",
+        "almost",
+        "approaching",
+        "close to",
+        "coming up"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "Toward.",
+            "vi": "Theo hướng."
+        },
+        {
+            "pos": "adverb",
+            "en": "(obsolete) In the direction of something (indicated by context).",
+            "vi": "(lỗi thời) Theo hướng của một cái gì đó (được chỉ định bởi ngữ cảnh)."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Near; at hand; in state of preparation; toward.",
+            "vi": "(lỗi thời) Gần; trong tầm tay; ở trạng thái chuẩn bị; theo hướng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They moved towards the three.",
+            "vi": "Họ tiến về phía ba người."
+        },
+        {
+            "en": "Some of them ran towards the east, some towards the west, and some towards the south.",
+            "vi": "Một số người trong số họ chạy về phía đông, một số chạy về phía tây, và một số chạy về phía nam."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "preposition",
+            "en": "Toward.",
+            "vi": "Theo hướng."
+        },
+        {
+            "pos": "adverb",
+            "en": "(obsolete) In the direction of something (indicated by context).",
+            "vi": "(lỗi thời) Theo hướng của một cái gì đó (được chỉ định bởi ngữ cảnh)."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Near; at hand; in state of preparation; toward.",
+            "vi": "(lỗi thời) Gần; trong tầm tay; ở trạng thái chuẩn bị; theo hướng."
+        }
+    ]
+}

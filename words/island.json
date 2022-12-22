@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈaɪlənd/"
+    ],
+    "synonyms": [
+        "islet",
+        "isle",
+        "cay",
+        "haven",
+        "archipelago"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An island is defined as a body of land surrounded by water.",
+            "vi": "Đảo được định nghĩa là một vùng đất được bao quanh bởi nước."
+        },
+        {
+            "pos": "verb",
+            "en": "To intersperse with or as with islands.",
+            "vi": "Để xen kẽ với hoặc như với các đảo."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(in New York City) Long Island (in New York State)",
+            "vi": "(ở Thành phố New York) Đảo Long (ở Bang New York)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He swam to an island that was not far away.",
+            "vi": "Anh đã bơi đến một hòn đảo cách đó không xa."
+        },
+        {
+            "en": "It was a small island, and there was no one living on it.",
+            "vi": "Đó là một hòn đảo nhỏ, và không có ai sinh sống trên đó."
+        }
+    ],
+    "words_form": [
+        "islands"
+    ],
+    "meaning_vi": "đảo"
+}

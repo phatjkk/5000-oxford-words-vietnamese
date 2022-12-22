@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/lən(t)ʃ/"
+    ],
+    "synonyms": [
+        "meal",
+        "tiffin",
+        "high-tea",
+        "snack",
+        "eat"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To lunch is defined as to eat a midday meal.",
+            "vi": "Bữa trưa được định nghĩa là ăn một bữa giữa ngày."
+        },
+        {
+            "pos": "noun",
+            "en": "The food provided for a midday meal.",
+            "vi": "Thức ăn được cung cấp cho một bữa ăn giữa ngày."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) out to lunch  Not in touch with the real world; crazy.",
+            "vi": "(tiếng lóng) đi ăn trưa Không liên lạc với thế giới thực; điên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Can you hold lunch for a little bit?",
+            "vi": "Bạn có thể ăn trưa một chút được không?"
+        },
+        {
+            "en": "Sometimes Alex comes home for lunch and we eat together.",
+            "vi": "Đôi khi Alex về nhà ăn trưa và chúng tôi ăn cùng nhau."
+        }
+    ],
+    "words_form": [
+        "lunched",
+        "lunches",
+        "lunching"
+    ],
+    "meaning_vi": "bữa trưa"
+}

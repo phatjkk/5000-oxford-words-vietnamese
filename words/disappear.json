@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˌdɪsəˈpɪr/"
+    ],
+    "synonyms": [
+        "vanish",
+        "evaporate",
+        "die",
+        "dissolve",
+        "fade"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To cease being; go out of existence, use, etc.; become lost or extinct.",
+            "vi": "Để không còn tồn tại; ra khỏi sự tồn tại, sử dụng, v.v ...; bị mất hoặc tuyệt chủng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He watched the wolf disappear into the tall grass.",
+            "vi": "Anh nhìn con sói biến mất trong đám cỏ cao."
+        },
+        {
+            "en": "She watched his car disappear down the road and shook her head.",
+            "vi": "Cô nhìn chiếc xe của anh biến mất trên đường và lắc đầu."
+        }
+    ],
+    "words_form": [
+        "disappeared",
+        "disappearing",
+        "disappears"
+    ],
+    "meaning_vi": "biến mất"
+}

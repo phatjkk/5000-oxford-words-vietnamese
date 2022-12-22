@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/mun/"
+    ],
+    "synonyms": [
+        "diana",
+        "luna",
+        "lunar",
+        "new-moon",
+        "phoebe"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Moon is what someone wants to give you when they wish to give you everything.",
+            "vi": "Mặt trăng là thứ ai đó muốn tặng bạn khi họ mong muốn cho bạn mọi thứ."
+        },
+        {
+            "pos": "verb",
+            "en": "(intransitive, colloquial) (usually followed by over or after) To fuss over something adoringly; to be infatuated with someone.",
+            "vi": "(nội dung, thông tục) (thường được theo sau bởi hơn hoặc sau) Để quấy rầy một cái gì đó một cách yêu mến; say mê một ai đó."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "over the moon  In a state of great happiness.",
+            "vi": "over the moon Trong trạng thái vô cùng hạnh phúc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The moon is full, the sky full of stars.",
+            "vi": "Trăng tròn, bầu trời đầy sao."
+        },
+        {
+            "en": "You see the stars and the moon instead of how dark the night is.",
+            "vi": "Bạn nhìn thấy những ngôi sao và mặt trăng thay vì màn đêm đen tối như thế nào."
+        }
+    ],
+    "words_form": [
+        "mooned",
+        "mooning",
+        "moons"
+    ],
+    "meaning_vi": "Moon"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈsɪmjəˌleɪt/"
+    ],
+    "synonyms": [
+        "pretend",
+        "counterfeit",
+        "imitate",
+        "mimic",
+        "feign"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To use computer simulation to represent (a system, physical process, etc.)",
+            "vi": "Sử dụng mô phỏng máy tính để biểu diễn (một hệ thống, quy trình vật lý, v.v.)"
+        },
+        {
+            "pos": "adjective",
+            "en": "(archaic) Pretended; mock.",
+            "vi": "(cổ xưa) Giả vờ; chế nhạo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In their physical properties the natural waxes simulate the fatty oils and fats.",
+            "vi": "Về tính chất vật lý của chúng, sáp tự nhiên mô phỏng các loại dầu béo và chất béo."
+        },
+        {
+            "en": "Some are in Greek and demotic, and one, of peculiar interest from the chemical point of view, gives a number of receipts, in Greek, for the manipulation of base metals to form alloys which simulate gold and are intended to be used in the manufacture of imitation jewellery.",
+            "vi": "Một số bằng tiếng Hy Lạp và tiếng Hy Lạp, và một số, được quan tâm đặc biệt từ quan điểm hóa học, đưa ra một số xác nhận, bằng tiếng Hy Lạp, cho việc chế tác các kim loại cơ bản để tạo thành hợp kim mô phỏng vàng và được sử dụng trong sản xuất. đồ trang sức giả."
+        }
+    ],
+    "words_form": [
+        "simulated",
+        "simulates",
+        "simulating"
+    ],
+    "meaning_vi": "mô phỏng"
+}

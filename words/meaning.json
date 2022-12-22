@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈminɪŋ/"
+    ],
+    "synonyms": [
+        "import",
+        "meaning",
+        "implication",
+        "intent",
+        "sense"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of meaning is what is intended to be, referred to or understood.",
+            "vi": "Định nghĩa của ý nghĩa là những gì được dự định để được, đề cập đến hoặc hiểu."
+        },
+        {
+            "pos": "adjective",
+            "en": "Full of meaning; expressive.",
+            "vi": "Đầy ý nghĩa; biểu cảm."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of mean.",
+            "vi": "Hiện tại phân từ có nghĩa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She says He (meaning God) is my dear father.",
+            "vi": "Cô ấy nói Ngài (có nghĩa là Chúa) là người cha thân yêu của tôi."
+        },
+        {
+            "en": "There is more than one meaning of Annapolis discussed in the 1911 Encyclopedia.",
+            "vi": "Có nhiều hơn một ý nghĩa của Annapolis được thảo luận trong Bách khoa toàn thư năm 1911."
+        }
+    ],
+    "words_form": [
+        "meanings"
+    ],
+    "meaning_vi": "ý nghĩa"
+}

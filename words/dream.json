@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/drim/"
+    ],
+    "synonyms": [
+        "desire",
+        "reverie",
+        "nightmare",
+        "hallucination",
+        "apparition"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a dream is an image, thought or fantasy that happens in the mind while a person is sleeping or relaxing.",
+            "vi": "Định nghĩa của giấc mơ là một hình ảnh, suy nghĩ hoặc tưởng tượng xảy ra trong tâm trí khi một người đang ngủ hoặc thư giãn."
+        },
+        {
+            "pos": "verb",
+            "en": "To conceive as possible; imagine.",
+            "vi": "Để thụ thai càng tốt; tưởng tượng."
+        },
+        {
+            "pos": "adjective",
+            "en": "That realizes one's fondest hopes; ideal.",
+            "vi": "Điều đó hiện thực hóa hy vọng yêu thích nhất của một người; lý tưởng."
+        },
+        {
+            "pos": "idiom",
+            "en": "dream up  to conceive of or devise, as by giving free rein to the imagination",
+            "vi": "ước mơ để hình thành hoặc phát minh ra, như bằng cách cho phép trí tưởng tượng tự do"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They dream of time off.",
+            "vi": "Họ mơ về thời gian nghỉ ngơi."
+        },
+        {
+            "en": "I thought it was every nurse's dream to marry a doctor.",
+            "vi": "Tôi cứ nghĩ lấy một bác sĩ là ước mơ của mọi y tá."
+        }
+    ],
+    "words_form": [
+        "dreamed",
+        "dreaming",
+        "dreams",
+        "dreamt"
+    ],
+    "meaning_vi": "mơ"
+}

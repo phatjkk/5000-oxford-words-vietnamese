@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈæɡrəˌkəltʃər/"
+    ],
+    "synonyms": [
+        "farming",
+        "flora",
+        "agronomy",
+        "agricultural",
+        "grove"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The science, art, and business of cultivating soil, producing crops, and raising livestock; farming.",
+            "vi": "Khoa học, nghệ thuật và kinh doanh canh tác đất, sản xuất cây trồng và chăn nuôi; nông nghiệp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Agriculture is the main industry, generally combined with cattle-raising.",
+            "vi": "Nông nghiệp là ngành chính, thường kết hợp với chăn nuôi gia súc."
+        },
+        {
+            "en": "The region contains most of the country's rain-fed agriculture.",
+            "vi": "Khu vực này chứa hầu hết nền nông nghiệp sử dụng nước mưa của đất nước."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nông nghiệp"
+}

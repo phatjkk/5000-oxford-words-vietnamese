@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/dəˈmɛn(t)ʃ(ə)n/",
+        "/daɪˈmɛn(t)ʃ(ə)n/"
+    ],
+    "synonyms": [
+        "aspect",
+        "importance",
+        "height",
+        "magnitude",
+        "mass"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A measure of spatial extent, especially width, height, or length.",
+            "vi": "Một thước đo về phạm vi không gian, đặc biệt là chiều rộng, chiều cao hoặc chiều dài."
+        },
+        {
+            "pos": "verb",
+            "en": "The definition of dimension is to shape or show the desired size.",
+            "vi": "Định nghĩa của kích thước là hình dạng hoặc hiển thị kích thước mong muốn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating lumber, stone, etc. cut to specified dimensions.",
+            "vi": "Chỉ định gỗ xẻ, đá, v.v. được cắt theo kích thước quy định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He can't kill you in that dimension, he assured her.",
+            "vi": "Anh ta không thể giết bạn trong không gian đó, anh ta đảm bảo với cô."
+        },
+        {
+            "en": "Gives a whole new dimension to poetic license, don't it?",
+            "vi": "Mang lại một chiều hướng hoàn toàn mới cho giấy phép thơ, phải không?"
+        }
+    ],
+    "words_form": [
+        "dimensions"
+    ],
+    "meaning_vi": "kích thước"
+}

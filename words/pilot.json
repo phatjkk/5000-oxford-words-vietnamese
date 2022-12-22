@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈpaɪlət/"
+    ],
+    "synonyms": [
+        "birdman",
+        "helmsman",
+        "steersman",
+        "coxswain",
+        "scout"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a pilot is a person licensed or qualified to fly a plane or spacecraft or operate a ship.",
+            "vi": "Định nghĩa về phi công là người được cấp phép hoặc đủ điều kiện để lái máy bay, tàu vũ trụ hoặc vận hành một con tàu."
+        },
+        {
+            "pos": "verb",
+            "en": "To serve as the pilot of (a plane, for example).",
+            "vi": "Để phục vụ với tư cách là phi công của (một chiếc máy bay chẳng hạn)."
+        },
+        {
+            "pos": "adjective",
+            "en": "Serving as a tentative model for future experiment or development.",
+            "vi": "Phục vụ như một mô hình dự kiến ​​cho thử nghiệm hoặc phát triển trong tương lai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is strongly fortified, and there are a lighthouse, and lifeboat and pilot stations.",
+            "vi": "Nó được củng cố vững chắc và có một ngọn hải đăng, xuồng cứu sinh và các trạm hoa tiêu."
+        },
+        {
+            "en": "\"That's not good,\" the pilot said.",
+            "vi": "\"Điều đó không tốt,\" phi công nói."
+        }
+    ],
+    "words_form": [
+        "piloted",
+        "piloting",
+        "pilots"
+    ],
+    "meaning_vi": "phi công"
+}

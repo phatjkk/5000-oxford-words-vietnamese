@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/sæk/"
+    ],
+    "synonyms": [
+        "paper bag",
+        "dismissal",
+        "sac",
+        "pocket",
+        "bag"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To sack is a slang term that is defined as to fire someone from their job.",
+            "vi": "Sack là một thuật ngữ tiếng lóng được định nghĩa là để sa thải ai đó khỏi công việc của họ."
+        },
+        {
+            "pos": "noun",
+            "en": "A bag; especially a large bag of strong, coarse material for storage and handling of various commodities, such as potatoes, coal, coffee; or, a bag with handles used at a supermarket, a grocery sack; or, a small bag for small items, a satchel.",
+            "vi": "Cái túi; đặc biệt là một bao lớn đựng nguyên liệu thô, cứng để chứa và xử lý các loại hàng hóa khác nhau như khoai tây, than đá, cà phê; hoặc, một túi có quai xách được sử dụng ở siêu thị, bao tải hàng tạp hóa; hoặc, một chiếc túi nhỏ để đựng những vật dụng nhỏ, một cái túi đựng đồ."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) sack in  hit the sack to stay in bed longer than usual",
+            "vi": "(tiếng lóng) bao tải vào bao tải để nằm trên giường lâu hơn bình thường"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She jerked on the sack again.",
+            "vi": "Cô lại giật mạnh bao."
+        },
+        {
+            "en": "Brandon handed a small sack to Rachel.",
+            "vi": "Brandon đưa một cái bao nhỏ cho Rachel."
+        }
+    ],
+    "words_form": [
+        "sacked",
+        "sacks"
+    ],
+    "meaning_vi": "bao"
+}

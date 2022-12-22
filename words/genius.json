@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈdʒinjəs/"
+    ],
+    "synonyms": [
+        "mastermind",
+        "brain",
+        "brilliance",
+        "maven",
+        "prodigy"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The personification of a quality.",
+            "vi": "Hiện thân của một phẩm chất."
+        },
+        {
+            "pos": "adjective",
+            "en": "(informal) Ingenious, very clever, or original.",
+            "vi": "(trang trọng) Khéo léo, rất thông minh, hoặc nguyên bản."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "No man ever followed his genius till it misled him.",
+            "vi": "Không một người đàn ông nào theo dõi thiên tài của mình cho đến khi nó lừa dối anh ta."
+        },
+        {
+            "en": "\"Apparently, I'm not the medical genius people believe me to be,\" he added.",
+            "vi": "“Rõ ràng, tôi không phải là thiên tài y học mà mọi người tin tưởng vào tôi,” anh nói thêm."
+        }
+    ],
+    "words_form": [
+        "genii",
+        "geniuses"
+    ],
+    "meaning_vi": "thiên tài"
+}

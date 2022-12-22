@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈprɪzən/"
+    ],
+    "synonyms": [
+        "jail",
+        "penitentiary",
+        "guardhouse",
+        "lockup",
+        "cell"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A state of imprisonment or captivity.",
+            "vi": "Tình trạng bị giam cầm hoặc bị giam cầm."
+        },
+        {
+            "pos": "verb",
+            "en": "To confine in or as if in a prison; imprison.",
+            "vi": "Để giam giữ hoặc như thể trong một nhà tù; bỏ tù."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "My prison had only a kerosene lamp for light.",
+            "vi": "Nhà tù của tôi chỉ có một ngọn đèn dầu để thắp sáng."
+        },
+        {
+            "en": "He died in the fortress prison of San Leo in 1795.",
+            "vi": "Ông chết trong nhà tù pháo đài San Leo năm 1795."
+        }
+    ],
+    "words_form": [
+        "prisons"
+    ],
+    "meaning_vi": "tù giam"
+}

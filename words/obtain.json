@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/əbˈteɪn/",
+        "/ɑbˈteɪn/"
+    ],
+    "synonyms": [
+        "secure",
+        "sponge",
+        "relinquish",
+        "bring out",
+        "inherit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of obtain is to get or acquire.",
+            "vi": "Định nghĩa của get là có được hoặc có được."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I should like much to see it, and to obtain a few copies if possible.",
+            "vi": "Tôi rất muốn xem nó và có được một vài bản sao nếu có thể."
+        },
+        {
+            "en": "There is but one way to obtain it, yet few take that way.",
+            "vi": "Chỉ có một cách để đạt được nó, nhưng rất ít người thực hiện theo cách đó."
+        }
+    ],
+    "words_form": [
+        "obtained",
+        "obtaining",
+        "obtains"
+    ],
+    "meaning_vi": "đạt được"
+}

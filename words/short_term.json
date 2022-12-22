@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ʃɔːt-tɜːm/"
+    ],
+    "synonyms": [
+        "interim",
+        "limited",
+        "momentary",
+        "Band-Aid",
+        "acting"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of short term is something temporary or not meant to last.",
+            "vi": "Định nghĩa ngắn hạn là một cái gì đó tạm thời hoặc không có nghĩa là kéo dài."
+        },
+        {
+            "pos": "noun",
+            "en": "The near future; a comparatively brief time period starting with the present moment (other time of reference); the time in which immediate needs and goals are relevant.",
+            "vi": "Tương lai gần; một khoảng thời gian tương đối ngắn bắt đầu từ thời điểm hiện tại (thời điểm tham chiếu khác); thời gian mà nhu cầu và mục tiêu trước mắt có liên quan."
+        },
+        {
+            "pos": "adverb",
+            "en": "Over or for a short period of time.",
+            "vi": "Trong hoặc trong một khoảng thời gian ngắn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We put in place short-term measures to reduce the amount of watering we are doing.",
+            "vi": "Chúng tôi đưa ra các biện pháp ngắn hạn để giảm lượng nước tưới mà chúng tôi đang làm."
+        },
+        {
+            "en": "Short-term protection against hepatitis A is available from immune globulin, a preparation of antibodies that can be given before exposure for short-term protection against hepatitis A and for persons who have already been exposed to HAV.",
+            "vi": "Bảo vệ ngắn hạn chống lại bệnh viêm gan A có sẵn nhờ globulin miễn dịch, một chế phẩm của kháng thể có thể được cung cấp trước khi phơi nhiễm để bảo vệ ngắn hạn chống lại bệnh viêm gan A và cho những người đã tiếp xúc với HAV."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "adjective",
+            "en": "The definition of short term is something temporary or not meant to last.",
+            "vi": "Định nghĩa ngắn hạn là một cái gì đó tạm thời hoặc không có nghĩa là kéo dài."
+        },
+        {
+            "pos": "noun",
+            "en": "The near future; a comparatively brief time period starting with the present moment (other time of reference); the time in which immediate needs and goals are relevant.",
+            "vi": "Tương lai gần; một khoảng thời gian tương đối ngắn bắt đầu từ thời điểm hiện tại (thời điểm tham chiếu khác); thời gian mà nhu cầu và mục tiêu trước mắt có liên quan."
+        },
+        {
+            "pos": "adverb",
+            "en": "Over or for a short period of time.",
+            "vi": "Trong hoặc trong một khoảng thời gian ngắn."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/deɪ/"
+    ],
+    "synonyms": [
+        "mean-solar-day",
+        "daytime",
+        "epoch",
+        "span",
+        "bad"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A 24-hour period or a portion of it that is reserved for a certain activity.",
+            "vi": "Khoảng thời gian 24 giờ hoặc một phần của nó được dành cho một hoạt động nhất định."
+        },
+        {
+            "pos": "adjective",
+            "en": "Occurring before nightfall.",
+            "vi": "Xảy ra trước khi màn đêm buông xuống."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A patronymic surname​ derived from a medieval diminutive of David.",
+            "vi": "Một họ viết tắt có nguồn gốc từ một chi tiết nhỏ thời trung cổ của David."
+        },
+        {
+            "pos": "idiom",
+            "en": "day after day  For many days; continuously.",
+            "vi": "ngày này qua ngày khác Trong nhiều ngày; liên tục."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"This may be the last great day,\" he said.",
+            "vi": "“Đây có thể là ngày tuyệt vời cuối cùng,” anh nói."
+        },
+        {
+            "en": "It was midsummer, and the day was very hot.",
+            "vi": "Đó là giữa mùa hè, và ngày rất nóng."
+        }
+    ],
+    "words_form": [
+        "days"
+    ],
+    "meaning_vi": "ngày"
+}

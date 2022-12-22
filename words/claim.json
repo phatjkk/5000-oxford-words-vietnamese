@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kleɪm/"
+    ],
+    "synonyms": [
+        "allegation",
+        "demand",
+        "disclaim",
+        "preoccupancy",
+        "profess"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A basis for demanding something; a title or right.",
+            "vi": "Một cơ sở để yêu cầu một cái gì đó; một tiêu đề hoặc quyền."
+        },
+        {
+            "pos": "verb",
+            "en": "Claim means to take or assert ownership of something or to state something as true.",
+            "vi": "Xác nhận quyền sở hữu có nghĩa là lấy hoặc khẳng định quyền sở hữu một thứ gì đó hoặc tuyên bố điều gì đó là đúng."
+        },
+        {
+            "pos": "idiom",
+            "en": "lay claim to  To assert one's right to or ownership of.",
+            "vi": "yêu cầu bồi thường Để khẳng định quyền hoặc quyền sở hữu của một người đối với."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They claim there's not enough evidence it's him.",
+            "vi": "Họ khẳng định không có đủ bằng chứng đó là anh ta."
+        },
+        {
+            "en": "She would claim to be a research scientist.",
+            "vi": "Cô ấy sẽ tuyên bố là một nhà khoa học nghiên cứu."
+        }
+    ],
+    "words_form": [
+        "claimed",
+        "claiming",
+        "claims"
+    ],
+    "meaning_vi": "yêu cầu"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈbərdn/"
+    ],
+    "synonyms": [
+        "onus",
+        "load",
+        "inconvenience",
+        "tax",
+        "freight"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Burden is defined as making heavy with a load or with emotion.",
+            "vi": "Gánh nặng được định nghĩa là làm cho nặng nề với một gánh nặng hoặc với cảm xúc."
+        },
+        {
+            "pos": "noun",
+            "en": "A principal or recurring idea; a theme.",
+            "vi": "Một ý tưởng chính hoặc lặp lại; một chủ đề."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You don't carry this burden alone.",
+            "vi": "Bạn không mang gánh nặng này một mình."
+        },
+        {
+            "en": "I'm sorry I have become a burden to you.",
+            "vi": "Tôi xin lỗi vì tôi đã trở thành gánh nặng cho bạn."
+        }
+    ],
+    "words_form": [
+        "burdened",
+        "burdening",
+        "burdens"
+    ],
+    "meaning_vi": "gánh nặng"
+}

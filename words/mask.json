@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/mæsk/"
+    ],
+    "synonyms": [
+        "cover",
+        "hide",
+        "guise",
+        "face",
+        "masquerade-party"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Mask is defined as to cover up, conceal, disguise or hide.",
+            "vi": "Mặt nạ được định nghĩa là để che đậy, che giấu, ngụy trang hoặc che giấu."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a mask is something that conceals or disguises, particularly a covering for the face.",
+            "vi": "Định nghĩa của mặt nạ là một thứ gì đó che giấu hoặc ngụy trang, đặc biệt là một lớp che phủ cho khuôn mặt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His face was a mask of fright.",
+            "vi": "Khuôn mặt anh ta là một chiếc mặt nạ của sự sợ hãi."
+        },
+        {
+            "en": "He dropped the mask on the ground.",
+            "vi": "Anh ta đánh rơi chiếc mặt nạ xuống đất."
+        }
+    ],
+    "words_form": [
+        "masked",
+        "masking",
+        "masks"
+    ],
+    "meaning_vi": "mặt nạ"
+}

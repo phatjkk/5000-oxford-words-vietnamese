@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/naɪf/"
+    ],
+    "synonyms": [
+        "lancet",
+        "bit",
+        "dagger",
+        "cut",
+        "stiletto"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a knife is a tool with a sharp blade and a handle used for cutting or stabbing.",
+            "vi": "Định nghĩa về dao là một công cụ có lưỡi sắc và cán dùng để cắt hoặc đâm."
+        },
+        {
+            "pos": "verb",
+            "en": "To use a knife on, especially to stab; wound with a knife.",
+            "vi": "Để sử dụng một con dao trên, đặc biệt là để đâm; vết thương bằng dao."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) under the knife  Undergoing surgery.",
+            "vi": "(không chính thức) dưới dao Đang phẫu thuật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A knife is an instrument to cut with.",
+            "vi": "Dao là một công cụ để cắt."
+        },
+        {
+            "en": "He grabbed a butter knife and began spreading jelly on a biscuit.",
+            "vi": "Anh lấy một con dao cắt bơ và bắt đầu phết thạch lên một chiếc bánh quy."
+        }
+    ],
+    "words_form": [
+        "knifed",
+        "knifes",
+        "knifing",
+        "knives"
+    ],
+    "meaning_vi": "con dao"
+}

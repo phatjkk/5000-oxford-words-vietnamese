@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/prəˈmɪr/"
+    ],
+    "synonyms": [
+        "leading",
+        "chief",
+        "top",
+        "number one",
+        "foremost"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a premier is a major official, especially in a government.",
+            "vi": "Định nghĩa về thủ tướng là một quan chức lớn, đặc biệt là trong chính phủ."
+        },
+        {
+            "pos": "adjective",
+            "en": "First in importance or rank; chief; foremost.",
+            "vi": "Thứ nhất về tầm quan trọng hoặc thứ hạng; trưởng phòng; quan trọng nhất."
+        },
+        {
+            "pos": "verb",
+            "en": "To perform, display or exhibit for the first time.",
+            "vi": "Để biểu diễn, trưng bày hoặc triển lãm lần đầu tiên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Instead of presenting the Go vern- usual programme, the new premier read to the arliament.",
+            "vi": "Thay vì trình bày chương trình cờ vây thông thường, thủ tướng mới đọc trước quốc hội."
+        },
+        {
+            "en": "America takes a premier position in consumption of the raw material.",
+            "vi": "Mỹ chiếm vị trí hàng đầu về tiêu thụ nguyên liệu thô."
+        }
+    ],
+    "words_form": [
+        "premiered",
+        "premiering",
+        "premiers"
+    ],
+    "meaning_vi": "thủ tướng"
+}

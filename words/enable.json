@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɛnˈeɪb(ə)l/",
+        "/ɪnˈeɪb(ə)l/"
+    ],
+    "synonyms": [
+        "empower",
+        "authorize",
+        "endow",
+        "approve",
+        "disallow"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(comput.) To activate (a device, a software function or feature, etc.)",
+            "vi": "(tính toán.) để kích hoạt (thiết bị, chức năng phần mềm hoặc tính năng, v.v.)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll ride over on horseback to enable a quick escape if needed, she insisted.",
+            "vi": "Tôi sẽ cưỡi trên lưng ngựa để có thể nhanh chóng tẩu thoát nếu cần, cô nhấn mạnh."
+        },
+        {
+            "en": "There was enough material there to enable him to prepare several new tricks which he had learned from some of the jugglers in the circus, and he had passed part of the night in getting them ready.",
+            "vi": "Ở đó có đủ tài liệu để giúp anh ấy chuẩn bị một số thủ thuật mới mà anh ấy đã học được từ một số người tung hứng trong rạp xiếc, và anh ấy đã vượt qua một phần đêm để chuẩn bị cho chúng sẵn sàng."
+        }
+    ],
+    "words_form": [
+        "enabled",
+        "enables",
+        "enabling"
+    ],
+    "meaning_vi": "kích hoạt"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/baɪnd/"
+    ],
+    "synonyms": [
+        "cinch",
+        "tie-up",
+        "dilemma",
+        "quandary",
+        "jam"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To bind is defined as to tie or stick together or hold down.",
+            "vi": "Để ràng buộc được định nghĩa là buộc hoặc dính lại với nhau hoặc giữ chặt."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) A difficult or restrictive situation; jam.",
+            "vi": "(không chính thức) Một tình huống khó khăn hoặc hạn chế; mứt."
+        },
+        {
+            "pos": "idiom",
+            "en": "bind over  to put under legal bond to appear at a specified time and place, as before a law court",
+            "vi": "ràng buộc để đặt dưới ràng buộc pháp lý để xuất hiện tại một thời gian và địa điểm cụ thể, như trước một tòa án luật"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Finding it and turning it over was a small price to pay to get out of the bind she was in.",
+            "vi": "Tìm thấy nó và lật lại nó là một cái giá nhỏ phải trả để thoát ra khỏi ràng buộc mà cô đang phải chịu."
+        },
+        {
+            "en": "Why did I bind myself to her?",
+            "vi": "Tại sao tôi lại ràng buộc mình với cô ấy?"
+        }
+    ],
+    "words_form": [
+        "binding",
+        "binds",
+        "bound"
+    ],
+    "meaning_vi": "trói buộc"
+}

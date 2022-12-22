@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/sərˈpraɪzd/"
+    ],
+    "synonyms": [
+        "astonished",
+        "shocked",
+        "bewildered",
+        "startled",
+        "astounded"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Caused to feel surprise, amazement or wonder, or showing an emotion due to an unexpected event.",
+            "vi": "Gây ra cảm giác ngạc nhiên, ngạc nhiên hoặc ngạc nhiên, hoặc thể hiện một cảm xúc do một sự kiện bất ngờ."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of surprise.",
+            "vi": "Quá khứ đơn và quá khứ phân từ bất ngờ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I was a little surprised at the invitation.",
+            "vi": "Tôi hơi ngạc nhiên về lời mời."
+        },
+        {
+            "en": "I'm surprised to see you out here.",
+            "vi": "Tôi ngạc nhiên khi thấy bạn ở đây."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ngạc nhiên"
+}

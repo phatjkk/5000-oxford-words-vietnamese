@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌɪnˈtɪriər/"
+    ],
+    "synonyms": [
+        "stairway",
+        "inward",
+        "inner",
+        "inside",
+        "internal"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Interior is defined as inside or the inner parts.",
+            "vi": "Nội thất được định nghĩa là bên trong hoặc các bộ phận bên trong."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or located on the inside; inner.",
+            "vi": "Của, liên quan đến, hoặc nằm ở bên trong; bên trong."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The dark interior set off caution bells again.",
+            "vi": "Nội thất tối lại gióng lên hồi chuông cảnh báo."
+        },
+        {
+            "en": "Toby called from the interior of the warm car.",
+            "vi": "Toby gọi từ bên trong chiếc xe hơi ấm."
+        }
+    ],
+    "words_form": [
+        "interiors"
+    ],
+    "meaning_vi": "nội địa"
+}

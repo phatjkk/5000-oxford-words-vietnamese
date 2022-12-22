@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/ˌɪmɪˈgreɪʃən/"
+    ],
+    "synonyms": [
+        "exodus",
+        "migration",
+        "travel",
+        "colonization",
+        "crossing"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An act or instance of immigrating.",
+            "vi": "Một hành động hoặc trường hợp nhập cư."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The immigration of Jews from Russia was mainly responsible for the ineffective yet oppressive Aliens Act of 1905.",
+            "vi": "Việc người Do Thái nhập cư từ Nga là nguyên nhân chính dẫn đến Đạo luật người ngoài hành tinh năm 1905 vô hiệu nhưng áp bức."
+        },
+        {
+            "en": "Does illegal immigration take jobs from citizens?",
+            "vi": "Nhập cư bất hợp pháp có mất việc làm của công dân?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "An act or instance of immigrating.",
+            "vi": "Một hành động hoặc trường hợp nhập cư."
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɔt/"
+    ],
+    "synonyms": [
+        "aught",
+        "profess",
+        "dare",
+        "pretend"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Ought is defined as should, expected to or compelled by duty or desire.",
+            "vi": "Ought được định nghĩa là nên, dự kiến ​​hoặc bắt buộc bởi nghĩa vụ hoặc mong muốn."
+        },
+        {
+            "pos": "noun",
+            "en": "Anything whatever; aught.",
+            "vi": "Bất cứ điều gì bất cứ điều gì; phải."
+        },
+        {
+            "pos": "adverb",
+            "en": "(archaic) To any degree; at all; aught.",
+            "vi": "(cổ xưa) Ở bất kỳ mức độ nào; ở tất cả; phải."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Alternative spelling of aught. anything.",
+            "vi": "Cách viết khác của aught. bất cứ điều gì."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You ought to go out once in a while.",
+            "vi": "Thỉnh thoảng bạn nên ra ngoài một lần."
+        },
+        {
+            "en": "You ought to try it some time.",
+            "vi": "Bạn nên thử nó một lúc."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nên"
+}

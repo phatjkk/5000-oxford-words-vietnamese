@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/haɪd/"
+    ],
+    "synonyms": [
+        "conceal",
+        "cover",
+        "pelt",
+        "camouflage",
+        "skulk"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The skin of an animal, especially the thick tough skin or pelt of a large animal.",
+            "vi": "Da của động vật, đặc biệt là da dày và dai của động vật lớn."
+        },
+        {
+            "pos": "verb",
+            "en": "Hide is defined as to conceal something, oneself, or others.",
+            "vi": "Che giấu được định nghĩa là che giấu điều gì đó, bản thân hoặc người khác."
+        },
+        {
+            "pos": "idiom",
+            "en": "hide nor hair  A trace; a vestige: Haven't seen hide nor hair of them since the argument.",
+            "vi": "giấu cũng không có lông Một dấu vết; một dấu tích: Không thấy dấu vết cũng như không có lông của họ kể từ khi tranh cãi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Carmen tried to hide her surprise.",
+            "vi": "Carmen cố gắng che giấu sự ngạc nhiên của mình."
+        },
+        {
+            "en": "You hide everything that is lovely.",
+            "vi": "Bạn che giấu tất cả những gì đáng yêu."
+        }
+    ],
+    "words_form": [
+        "hid",
+        "hidden",
+        "hided",
+        "hides",
+        "hiding"
+    ],
+    "meaning_vi": "ẩn giấu"
+}

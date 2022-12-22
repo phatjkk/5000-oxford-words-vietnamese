@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈvɑljəm/",
+        "/ˈvɑlˌjum/"
+    ],
+    "synonyms": [
+        "quantity",
+        "size",
+        "loudness",
+        "capacity",
+        "bulk"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Volume is the level at which something is heard or the amount of space that something takes up.",
+            "vi": "Âm lượng là mức mà thứ gì đó được nghe hoặc khoảng không gian mà thứ gì đó chiếm."
+        },
+        {
+            "pos": "idiom",
+            "en": "speak volumes  to be very expressive or meaningful",
+            "vi": "nói âm lượng rất biểu cảm hoặc có ý nghĩa"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Yes, they admitted it appeared a large volume of tips bore mutual similarities.",
+            "vi": "Vâng, họ thừa nhận rằng dường như có một lượng lớn các mẹo có sự tương đồng lẫn nhau."
+        },
+        {
+            "en": "The books are large, about the size of a volume of an encyclopedia.",
+            "vi": "Những cuốn sách này lớn, có kích thước bằng một tập bách khoa toàn thư."
+        }
+    ],
+    "words_form": [
+        "vol.",
+        "volumes"
+    ],
+    "meaning_vi": "âm lượng"
+}

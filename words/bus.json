@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/bəs/"
+    ],
+    "synonyms": [
+        "common carrier",
+        "motorbus",
+        "limousine",
+        "omnibus",
+        "minibus"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(computers) A parallel circuit that connects the major components of a computer, allowing the transfer of electric impulses from one connected component to any other.",
+            "vi": "(máy tính) Một mạch song song kết nối các thành phần chính của máy tính, cho phép truyền xung điện từ thành phần được kết nối này sang thành phần khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To bus is to move people around from one place to another in a large vehicle.",
+            "vi": "Đi xe buýt là để di chuyển mọi người từ nơi này đến nơi khác trên một phương tiện lớn."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Business.",
+            "vi": "Kinh doanh."
+        },
+        {
+            "pos": "idiom",
+            "en": "throw someone under the bus  to sacrifice or abandon (a comrade, associate, etc.) as to protect or benefit oneself",
+            "vi": "ném ai đó vào gầm xe buýt để hy sinh hoặc bỏ rơi (đồng đội, cộng sự, v.v.) để bảo vệ hoặc làm lợi cho bản thân"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We took the bus to Kansas.",
+            "vi": "Chúng tôi bắt xe buýt đến Kansas."
+        },
+        {
+            "en": "She was already at the bus station.",
+            "vi": "Cô ấy đã ở trạm xe buýt."
+        }
+    ],
+    "words_form": [
+        "bused",
+        "buses",
+        "busing",
+        "bussed",
+        "busses",
+        "bussing"
+    ],
+    "meaning_vi": "xe buýt"
+}

@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/daɪv/"
+    ],
+    "synonyms": [
+        "plunge",
+        "leap",
+        "bar",
+        "bowling-alley",
+        "dump"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To plunge headfirst into water.",
+            "vi": "Để lao đầu xuống nước."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) A cheap, disreputable saloon, gambling place, etc.",
+            "vi": "(không chính thức) Một quán rượu rẻ tiền, đáng tin cậy, nơi đánh bạc, v.v."
+        },
+        {
+            "pos": "idiom",
+            "en": "take a dive  to lose a prizefight purposely by pretending to get knocked out",
+            "vi": "cố tình để thua một trận đấu có thưởng bằng cách giả vờ bị hạ gục"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It poised for a moment and then took a dive off the cliff.",
+            "vi": "Nó đĩnh đạc một lúc rồi lặn khỏi vách đá."
+        },
+        {
+            "en": "I have really learned to swim and dive--after a fashion!",
+            "vi": "Tôi đã thực sự học bơi và lặn - sau một thời trang!"
+        }
+    ],
+    "words_form": [
+        "diva",
+        "dived",
+        "dives",
+        "diving",
+        "dove"
+    ],
+    "meaning_vi": "lặn"
+}

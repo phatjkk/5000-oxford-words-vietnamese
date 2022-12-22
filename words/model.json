@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈmɑdl/"
+    ],
+    "synonyms": [
+        "demigod",
+        "mirror",
+        "example",
+        "prototype",
+        "touchstone"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To model is to create a representation or copy of something, often on a smaller scale, or to base your method of behavior on another person or procedure.",
+            "vi": "Mô hình hóa là tạo ra một bản đại diện hoặc bản sao của một cái gì đó, thường ở quy mô nhỏ hơn hoặc để dựa trên phương pháp hành vi của bạn dựa trên một người hoặc một thủ tục khác."
+        },
+        {
+            "pos": "noun",
+            "en": "One serving as an example to be imitated or compared.",
+            "vi": "Một phục vụ như một ví dụ để được bắt chước hoặc so sánh."
+        },
+        {
+            "pos": "adjective",
+            "en": "Being, serving as, or used as a model.",
+            "vi": "Đang, đang phục vụ, hoặc được sử dụng như một hình mẫu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This model came out back this winter.",
+            "vi": "Mẫu này đã ra mắt trở lại vào mùa đông năm nay."
+        },
+        {
+            "en": "Such is a model farm.",
+            "vi": "Đó là một trang trại kiểu mẫu."
+        }
+    ],
+    "words_form": [
+        "modeled",
+        "modeling",
+        "modelled",
+        "modelling",
+        "models"
+    ],
+    "meaning_vi": "mẫu; mô hình"
+}

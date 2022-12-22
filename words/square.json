@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/skwɛr/"
+    ],
+    "synonyms": [
+        "four-sided",
+        "right-angled",
+        "equilateral",
+        "squared",
+        "foursquare"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Square means having four sides of equal length.",
+            "vi": "Hình vuông có nghĩa là có bốn cạnh có độ dài bằng nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "To square is to settle or make even.",
+            "vi": "Hình vuông là để giải quyết hoặc làm cho thậm chí."
+        },
+        {
+            "pos": "noun",
+            "en": "A T-shaped or L-shaped instrument for drawing or testing right angles.",
+            "vi": "Một dụng cụ hình chữ T hoặc hình chữ L để vẽ hoặc kiểm tra các góc vuông."
+        },
+        {
+            "pos": "adverb",
+            "en": "(mathematics) At right angles.",
+            "vi": "(toán học) Ở góc vuông."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the square  At right angles. Honestly and openly: Has always dealt on the square.",
+            "vi": "on the square Ở góc vuông. Trung thực và cởi mở: Đã luôn luôn xử lý trên hình vuông."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This area is ten square miles, though.",
+            "vi": "Tuy nhiên, khu vực này rộng mười dặm vuông."
+        },
+        {
+            "en": "On the square in front of the Bazaar were drummers beating the muster call.",
+            "vi": "Trên quảng trường phía trước Bazaar là những người đánh trống đang đánh cuộc gọi tập hợp."
+        }
+    ],
+    "words_form": [
+        "squared",
+        "squarer",
+        "squares",
+        "squarest",
+        "squaring"
+    ],
+    "meaning_vi": "hình vuông"
+}

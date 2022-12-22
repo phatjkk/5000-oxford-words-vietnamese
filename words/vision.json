@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈvɪʒən/"
+    ],
+    "synonyms": [
+        "fantasy",
+        "sight",
+        "image",
+        "mirage",
+        "perception"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The manner in which one sees or conceives of something.",
+            "vi": "Cách thức mà một người nhìn thấy hoặc quan niệm về một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To see in a vision.",
+            "vi": "Để nhìn thấy trong một tầm nhìn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her vision was blurred by unshed tears.",
+            "vi": "Tầm nhìn của cô bị mờ đi bởi những giọt nước mắt không thể rơi."
+        },
+        {
+            "en": "Her vision blurred with tears.",
+            "vi": "Mắt cô mờ đi vì nước mắt."
+        }
+    ],
+    "words_form": [
+        "visions"
+    ],
+    "meaning_vi": "tầm nhìn"
+}

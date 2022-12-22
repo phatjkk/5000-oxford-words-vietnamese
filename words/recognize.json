@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈrɛkəɡˌnaɪz/"
+    ],
+    "synonyms": [
+        "know",
+        "identify",
+        "recall",
+        "spot",
+        "appreciate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(biology) To exhibit recognition for (an antigen or a substrate, for example).",
+            "vi": "(sinh học) Để thể hiện sự nhận biết đối với (ví dụ: kháng nguyên hoặc chất nền)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I recognize the molding and cornices.",
+            "vi": "Tôi nhận ra khuôn đúc và đường phào chỉ."
+        },
+        {
+            "en": "The security system didn't recognize her thumbprint.",
+            "vi": "Hệ thống an ninh không nhận dạng được dấu vân tay của cô ấy."
+        }
+    ],
+    "words_form": [
+        "recognized",
+        "recognizes",
+        "recognizing"
+    ],
+    "meaning_vi": "nhìn nhận"
+}

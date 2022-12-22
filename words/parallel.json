@@ -1,0 +1,52 @@
+{
+    "spelling": [
+        "/ˈpɛrəˌlɛl/"
+    ],
+    "synonyms": [
+        "side-by-side",
+        "analogous",
+        "identical",
+        "co-ordinate",
+        "laterally"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of parallel is extending in the same direction and at the same distance apart.",
+            "vi": "Định nghĩa song song là kéo dài theo cùng một hướng và cách nhau một khoảng."
+        },
+        {
+            "pos": "noun",
+            "en": "Parallel is something similar to something else.",
+            "vi": "Song song là một cái gì đó tương tự như một cái gì đó khác."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a parallel manner.",
+            "vi": "Theo phương thức song song."
+        },
+        {
+            "pos": "verb",
+            "en": "To be parallel with; extend parallel to.",
+            "vi": "Để song song với; mở rộng song song với."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They walked parallel to an abandoned highway for a couple of hours until they reached the second fed site.",
+            "vi": "Họ đi bộ song song với một đường cao tốc bị bỏ hoang trong vài giờ cho đến khi họ đến địa điểm được cho ăn thứ hai."
+        },
+        {
+            "en": "It runs parallel to the river.",
+            "vi": "Nó chạy song song với sông."
+        }
+    ],
+    "words_form": [
+        "paralleled",
+        "paralleling",
+        "parallelled",
+        "parallelling",
+        "parallels"
+    ],
+    "meaning_vi": "song song, tương đông"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈvoʊk(ə)l/"
+    ],
+    "synonyms": [
+        "vowel",
+        "vocalic",
+        "oral",
+        "spoken",
+        "written"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Uttered or produced by the voice.",
+            "vi": "Lột xác hoặc được tạo ra bởi giọng nói."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a vocal is a sound made by the voice, or the part of a song that is sung.",
+            "vi": "Định nghĩa của vocal là âm thanh được tạo ra bởi giọng nói, hoặc một phần của bài hát được hát."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is also an academy of vocal music.",
+            "vi": "Ngoài ra còn có một học viện thanh nhạc."
+        },
+        {
+            "en": "She wanted to scream at him, but her vocal cords were paralyzed.",
+            "vi": "Cô muốn hét vào mặt anh, nhưng dây thanh quản của cô đã bị tê liệt."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thanh nhạc"
+}

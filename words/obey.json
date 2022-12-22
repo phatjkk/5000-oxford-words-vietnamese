@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/əˈbeɪ/",
+        "/oʊˈbeɪ/"
+    ],
+    "synonyms": [
+        "comply",
+        "answer-to",
+        "accept",
+        "submit",
+        "acquiesce"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To carry out or fulfill the command, order, or instruction of.",
+            "vi": "Để thực hiện hoặc thực hiện mệnh lệnh, mệnh lệnh hoặc hướng dẫn của."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He has raised me to obey … to be good.",
+            "vi": "Anh ấy đã nuôi dạy tôi để vâng lời… để trở nên tốt."
+        },
+        {
+            "en": "Agree to obey the laws that I shall make for you.",
+            "vi": "Đồng ý tuân theo luật mà tôi sẽ làm cho bạn."
+        }
+    ],
+    "words_form": [
+        "obeyed",
+        "obeying",
+        "obeys"
+    ],
+    "meaning_vi": "tuân theo"
+}

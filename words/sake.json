@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/seɪk/"
+    ],
+    "synonyms": [
+        "motive",
+        "reason",
+        "welfare",
+        "edification",
+        "cause"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Sake is a reason, cause, benefit or motive.",
+            "vi": "Sake là một lý do, nguyên nhân, lợi ích hoặc động cơ."
+        },
+        {
+            "pos": "idiom",
+            "en": "for heaven's sake!  a mild exclamation of surprise, annoyance, etc.",
+            "vi": "vì Chúa! một câu cảm thán nhẹ vì ngạc nhiên, khó chịu, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I need your help for the sake of humanity.",
+            "vi": "Tôi cần sự giúp đỡ của bạn vì lợi ích của nhân loại."
+        },
+        {
+            "en": "\"For her sake, I hope so,\" Brady said.",
+            "vi": "“Vì lợi ích của cô ấy, tôi hy vọng như vậy,” Brady nói."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "lợi ích"
+}

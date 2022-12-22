@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈpæsɪndʒər/"
+    ],
+    "synonyms": [
+        "traveler",
+        "patron",
+        "pilgrim",
+        "voyager",
+        "fare"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person who travels in a conveyance, such as a car or train, without participating in its operation.",
+            "vi": "Một người di chuyển trên phương tiện giao thông, chẳng hạn như ô tô hoặc tàu hỏa, mà không tham gia vào hoạt động của nó."
+        },
+        {
+            "pos": "verb",
+            "en": "(intransitive) To ride as a passenger in a vehicle.",
+            "vi": "(intransitive) Đi với tư cách là một hành khách trên một chiếc xe."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He reached the passenger side of the car and held the door open for her.",
+            "vi": "Anh tiến đến phía khách của xe và mở cửa cho cô."
+        },
+        {
+            "en": "He opened the passenger door with a hopeful smile.",
+            "vi": "Anh mở cửa hành khách với một nụ cười đầy hy vọng."
+        }
+    ],
+    "words_form": [
+        "passengers"
+    ],
+    "meaning_vi": "hành khách"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈpeɪmənt/"
+    ],
+    "synonyms": [
+        "remittance",
+        "pay",
+        "discharge",
+        "award",
+        "money"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of paying or the state of being paid.",
+            "vi": "Hành động trả tiền hoặc trạng thái được trả tiền."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"I will find the payment for food,\" he said.",
+            "vi": "\"Tôi sẽ tìm tiền trả cho thức ăn,\" anh nói."
+        },
+        {
+            "en": "Each year a payment is made to each resident of Alaska.",
+            "vi": "Mỗi năm, mỗi cư dân của Alaska đều phải trả một khoản tiền."
+        }
+    ],
+    "words_form": [
+        "payments"
+    ],
+    "meaning_vi": "thanh toán"
+}

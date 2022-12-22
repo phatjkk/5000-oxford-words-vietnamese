@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈstəmək/"
+    ],
+    "synonyms": [
+        "belly",
+        "hunger",
+        "paunch",
+        "taste",
+        "thirst"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a stomach is the part of the body that stores and digests food.",
+            "vi": "Định nghĩa dạ dày là một bộ phận của cơ thể có chức năng lưu trữ và tiêu hóa thức ăn."
+        },
+        {
+            "pos": "verb",
+            "en": "To stomach is defined as to bear or deal with something.",
+            "vi": "Bao tử được định nghĩa là chịu đựng hoặc đối phó với một cái gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "on a full (or an empty) stomach  after having consumed much (or little or no) food or drink",
+            "vi": "khi bụng no (hoặc đói) sau khi đã tiêu thụ nhiều (hoặc ít hoặc không) thức ăn hoặc đồ uống"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "True, but her answer left Carmen's stomach tied in a knot.",
+            "vi": "Đúng, nhưng câu trả lời của cô ấy khiến bụng Carmen thắt lại."
+        },
+        {
+            "en": "Her stomach contracted and then twisted into a knot.",
+            "vi": "Bụng cô co thắt và sau đó xoắn lại thành một nút thắt."
+        }
+    ],
+    "words_form": [
+        "stomachs"
+    ],
+    "meaning_vi": "bụng, dạ dày, bao tử"
+}

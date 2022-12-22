@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/biˈɑnd/"
+    ],
+    "synonyms": [
+        "behind",
+        "yonder",
+        "past",
+        "away",
+        "wide-of-the-mark"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "The definition of beyond is past, further than or outside of.",
+            "vi": "Định nghĩa về bên ngoài là quá khứ, xa hơn hoặc bên ngoài của."
+        },
+        {
+            "pos": "noun",
+            "en": "The world beyond death; the hereafter.",
+            "vi": "Thế giới bên kia cái chết; Sau này."
+        },
+        {
+            "pos": "adverb",
+            "en": "In addition; more.",
+            "vi": "Ngoài ra; hơn."
+        },
+        {
+            "pos": "idiom",
+            "en": "back of beyond  A place that is remote or unsophisticated.",
+            "vi": "back ofyond Một nơi hẻo lánh hoặc không phức tạp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He sounded beyond relieved.",
+            "vi": "Anh ấy nghe có vẻ nhẹ nhõm hơn."
+        },
+        {
+            "en": "What happens beyond that is between the two of you.",
+            "vi": "Những gì xảy ra ngoài đó là giữa hai bạn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "vượt ra ngoài"
+}

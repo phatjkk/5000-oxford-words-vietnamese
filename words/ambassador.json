@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/æmˈbæsədər/"
+    ],
+    "synonyms": [
+        "emissary",
+        "messenger",
+        "representative",
+        "minister",
+        "intermediary"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An authorized messenger or representative.",
+            "vi": "Người đưa tin hoặc người đại diện được ủy quyền."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was ambassador to France from 1909 to 1912.",
+            "vi": "Ông là đại sứ tại Pháp từ năm 1909 đến năm 1912."
+        },
+        {
+            "en": "He was afterwards ambassador at Berlin and St Petersburg.",
+            "vi": "Sau đó ông là đại sứ tại Berlin và St Petersburg."
+        }
+    ],
+    "words_form": [
+        "ambassadors"
+    ],
+    "meaning_vi": "đại sứ"
+}

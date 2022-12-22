@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈpɛrənt/"
+    ],
+    "synonyms": [
+        "guardian",
+        "progenitor",
+        "ancestor",
+        "mater",
+        "source"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Parent is defined as to give life or raise children.",
+            "vi": "Cha mẹ được định nghĩa là để trao tặng cuộc sống hoặc nuôi dạy con cái."
+        },
+        {
+            "pos": "noun",
+            "en": "A guardian; a protector.",
+            "vi": "Người giám hộ; một người bảo vệ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Parent means relating to a source or owner.",
+            "vi": "Gốc có nghĩa là liên quan đến một nguồn hoặc chủ sở hữu."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(person from whom one is descended): father, mother.",
+            "vi": "(người mà một người là con cháu): cha, mẹ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What causes a parent to love one child more than another?",
+            "vi": "Điều gì khiến cha mẹ yêu con này hơn con khác?"
+        },
+        {
+            "en": "He's gone from one foster parent to another.",
+            "vi": "Anh ấy đã đi từ cha mẹ nuôi này sang cha mẹ nuôi khác."
+        }
+    ],
+    "words_form": [
+        "parented",
+        "parenting",
+        "parents"
+    ],
+    "meaning_vi": "cha mẹ"
+}

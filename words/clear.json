@@ -1,0 +1,61 @@
+{
+    "spelling": [
+        "/ˈklɪr/"
+    ],
+    "synonyms": [
+        "manifest",
+        "pellucid",
+        "plain",
+        "crystalline",
+        "resonant"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Clear is defined as a sky that is free from clouds, something that is easily seen through or an area that is empty or free of clutter.",
+            "vi": "Clear được định nghĩa là bầu trời không có mây, thứ dễ nhìn xuyên qua hoặc một khu vực trống hoặc không có lộn xộn."
+        },
+        {
+            "pos": "verb",
+            "en": "To make clear or bright.",
+            "vi": "Để làm cho rõ ràng hoặc sáng."
+        },
+        {
+            "pos": "adverb",
+            "en": "Distinctly; clearly.",
+            "vi": "Riêng biệt; rõ ràng."
+        },
+        {
+            "pos": "noun",
+            "en": "A clear or open space.",
+            "vi": "Một không gian rõ ràng hoặc mở."
+        },
+        {
+            "pos": "interjection",
+            "en": "Stand clear!",
+            "vi": "Đứng rõ ràng!"
+        },
+        {
+            "pos": "idiom",
+            "en": "clear the air  To dispel differences or emotional tensions.",
+            "vi": "làm thông thoáng không khí Để xua tan những khác biệt hoặc căng thẳng về tình cảm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I think you made it clear last night.",
+            "vi": "Tôi nghĩ bạn đã nói rõ điều đó vào đêm qua."
+        },
+        {
+            "en": "It was clear and frosty.",
+            "vi": "Trời trong và lạnh."
+        }
+    ],
+    "words_form": [
+        "cleared",
+        "clearest",
+        "clearing",
+        "clears"
+    ],
+    "meaning_vi": "thông thoáng"
+}

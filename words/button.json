@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈbətn/"
+    ],
+    "synonyms": [
+        "knob",
+        "release",
+        "catch",
+        "unbutton",
+        "one-button"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be or be capable of being fastened with buttons.",
+            "vi": "Được hoặc có khả năng được gắn chặt với các nút."
+        },
+        {
+            "pos": "noun",
+            "en": "(slang) The clitoris.",
+            "vi": "(tiếng lóng) Âm vật."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the button  Exactly; precisely.",
+            "vi": "trên nút Chính xác; đúng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Toby held the elevator for her and pressed the button for all twenty floors.",
+            "vi": "Toby giữ thang máy cho cô ấy và nhấn nút cho tất cả hai mươi tầng."
+        },
+        {
+            "en": "He knew every button to push.",
+            "vi": "Anh biết mọi nút để nhấn."
+        }
+    ],
+    "words_form": [
+        "buttoned",
+        "buttoning",
+        "buttons"
+    ],
+    "meaning_vi": "nút"
+}

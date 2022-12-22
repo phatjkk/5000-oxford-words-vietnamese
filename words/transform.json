@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/træn(t)sˈfɔrm/"
+    ],
+    "synonyms": [
+        "metamorphous",
+        "convert",
+        "leave-alone",
+        "modify",
+        "change"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Transform is defined as to change something into something else.",
+            "vi": "Transform được định nghĩa là thay đổi thứ gì đó thành thứ khác."
+        },
+        {
+            "pos": "noun",
+            "en": "The result, especially a mathematical quantity or linguistic construction, of a transformation.",
+            "vi": "Kết quả, đặc biệt là một đại lượng toán học hoặc cấu trúc ngôn ngữ, của một phép biến đổi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We've never been able to transform a vamp into a human in thousands of years.",
+            "vi": "Chúng ta chưa bao giờ có thể biến ma cà rồng thành người trong hàng nghìn năm."
+        },
+        {
+            "en": "Wesley believed that the grace of God could transform every life that received it.",
+            "vi": "Wesley tin rằng ân điển của Chúa có thể biến đổi mọi cuộc sống nhận được nó."
+        }
+    ],
+    "words_form": [
+        "transformed",
+        "transforming",
+        "transforms"
+    ],
+    "meaning_vi": "biến đổi"
+}

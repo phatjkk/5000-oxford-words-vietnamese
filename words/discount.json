@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈdɪskaʊnt/"
+    ],
+    "synonyms": [
+        "deduction",
+        "take off",
+        "markdown",
+        "dismiss",
+        "disparage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Discount means a reduction off of the normal price for goods or services.",
+            "vi": "Giảm giá có nghĩa là giảm giá hàng hóa hoặc dịch vụ thông thường."
+        },
+        {
+            "pos": "verb",
+            "en": "To discount is defined as to mark down the price of something, or to disregard a suggestion or idea because it is unlikely to be true.",
+            "vi": "Giảm giá được định nghĩa là giảm giá của một thứ gì đó hoặc bỏ qua một đề xuất hoặc ý tưởng vì nó không chắc là đúng."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of discount is reduced prices or something being sold at a price lower than that item is normally sold for.",
+            "vi": "Định nghĩa của chiết khấu là giảm giá hoặc một thứ gì đó được bán với giá thấp hơn giá mà mặt hàng đó được bán bình thường."
+        },
+        {
+            "pos": "idiom",
+            "en": "at a discount  below the regular price; below face value worth little; unwanted and easily obtained",
+            "vi": "với mức chiết khấu thấp hơn giá thông thường; mệnh giá dưới giá trị nhỏ; không mong muốn và dễ dàng thu được"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The rate of discount was 3% throughout the whole of the year.",
+            "vi": "Tỷ lệ chiết khấu là 3% trong cả năm."
+        },
+        {
+            "en": "Maybe he needed a veterinarian and figured he'd get a discount – or a freebee.",
+            "vi": "Có lẽ anh ta cần một bác sĩ thú y và nghĩ rằng anh ta sẽ được giảm giá - hoặc miễn phí."
+        }
+    ],
+    "words_form": [
+        "discounted",
+        "discounting",
+        "discounts"
+    ],
+    "meaning_vi": "giảm giá"
+}

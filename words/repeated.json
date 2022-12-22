@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/rəˈpidəd/"
+    ],
+    "synonyms": [
+        "redone",
+        "remade",
+        "reproduced",
+        "echoed",
+        "recurring"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Sequential.",
+            "vi": "Tuần tự."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of repeat.",
+            "vi": "Quá khứ đơn và quá khứ phân từ lặp lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She didn't answer and he repeated his question.",
+            "vi": "Cô ấy không trả lời và anh ấy lặp lại câu hỏi của mình."
+        },
+        {
+            "en": "Dean repeated at a higher volume.",
+            "vi": "Dean lặp lại với âm lượng lớn hơn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "lặp đi lặp lại"
+}

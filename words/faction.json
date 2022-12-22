@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈfækʃ(ə)n/"
+    ],
+    "synonyms": [
+        "conspiracy",
+        "division",
+        "bloc",
+        "cabal",
+        "sect"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A form of literature or filmmaking that treats real people or events as if they were fictional or uses real people or events as essential elements in an otherwise fictional rendition.",
+            "vi": "Một hình thức văn học hoặc làm phim đối xử với những người hoặc sự kiện có thật như thể chúng được hư cấu hoặc sử dụng những người hoặc sự kiện có thật như những yếu tố cần thiết trong một cách thể hiện hư cấu khác."
+        },
+        {
+            "pos": "suffix",
+            "en": "Production; making.",
+            "vi": "Sản xuất; chế tạo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Dissensions, however, soon broke out between the military faction and the civilians.",
+            "vi": "Tuy nhiên, bất đồng chính kiến ​​đã sớm nổ ra giữa phe quân sự và dân thường."
+        },
+        {
+            "en": "In 1872 he was nominated for vice-president by the Democratic faction that refused to support Horace Greeley.",
+            "vi": "Năm 1872, ông được đề cử làm phó tổng thống bởi phe Dân chủ từ chối ủng hộ Horace Greeley."
+        }
+    ],
+    "words_form": [
+        "factions"
+    ],
+    "meaning_vi": "phe nhóm"
+}

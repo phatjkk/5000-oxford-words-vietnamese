@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/hɑrt/"
+    ],
+    "synonyms": [
+        "soul",
+        "core",
+        "pity",
+        "response",
+        "courage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of heart is the organ that controls the flow of blood in the body, or the center of human emotion.",
+            "vi": "Định nghĩa tim là cơ quan điều khiển dòng chảy của máu trong cơ thể, hay còn gọi là trung tâm cảm xúc của con người."
+        },
+        {
+            "pos": "verb",
+            "en": "(slang) To have great liking or affection for.",
+            "vi": "(tiếng lóng) Để có được sự yêu thích hoặc tình cảm lớn lao đối với."
+        },
+        {
+            "pos": "idiom",
+            "en": "at heart  In one's deepest feelings; fundamentally.",
+            "vi": "tại trái tim Trong cảm xúc sâu sắc nhất của một người; về cơ bản."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her heart was starting to flutter.",
+            "vi": "Trái tim cô bắt đầu rung động."
+        },
+        {
+            "en": "Her heart was racing and her breath came quickly.",
+            "vi": "Tim cô đập loạn nhịp và hơi thở gấp gáp."
+        }
+    ],
+    "words_form": [
+        "hearts"
+    ],
+    "meaning_vi": "trái tim"
+}

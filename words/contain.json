@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/kənˈteɪn/"
+    ],
+    "synonyms": [
+        "control",
+        "hold",
+        "bear",
+        "consist of",
+        "accommodate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(mathematics) To be exactly divisible by.",
+            "vi": "(toán học) Để được chính xác chia hết cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Fred could hardly contain his excite­ment.",
+            "vi": "Fred khó có thể kìm chế được sự phấn khích của mình."
+        },
+        {
+            "en": "Even Josh couldn't contain a chuckle.",
+            "vi": "Ngay cả Josh cũng không thể kiềm chế được một tiếng cười khúc khích."
+        }
+    ],
+    "words_form": [
+        "contained",
+        "containing",
+        "contains"
+    ],
+    "meaning_vi": "chứa"
+}

@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈɑrɡju/"
+    ],
+    "synonyms": [
+        "debate",
+        "fight",
+        "disagreeable",
+        "explain",
+        "assert"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Argue is defined as to verbally disagree with someone.",
+            "vi": "Tranh luận được định nghĩa là không đồng ý bằng lời nói với ai đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We didn't bother to argue with Quinn.",
+            "vi": "Chúng tôi không buồn tranh cãi với Quinn."
+        },
+        {
+            "en": "Let's not argue about it.",
+            "vi": "Chúng ta đừng tranh luận về nó."
+        }
+    ],
+    "words_form": [
+        "argued",
+        "argues",
+        "arguing"
+    ],
+    "meaning_vi": "tranh luận"
+}

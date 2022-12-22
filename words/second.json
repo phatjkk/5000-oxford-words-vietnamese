@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/ˈsɛkənd/"
+    ],
+    "synonyms": [
+        "second-base",
+        "secondary",
+        "accessory",
+        "substandard",
+        "footnote"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To second is to support someone’s nomination or idea.",
+            "vi": "Thứ hai là ủng hộ đề cử hoặc ý tưởng của ai đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Second is defined as a repeat of something you’ve already done.",
+            "vi": "Thứ hai được định nghĩa là sự lặp lại của một điều gì đó bạn đã làm."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of second is the next in order after the first.",
+            "vi": "Định nghĩa của thứ hai là tiếp theo theo thứ tự sau đầu tiên."
+        },
+        {
+            "pos": "adverb",
+            "en": "In the second order, place, or rank.",
+            "vi": "Theo thứ tự thứ hai, vị trí hoặc thứ hạng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A second and a third cannon ball flew past.",
+            "vi": "Một viên đạn đại bác thứ hai và thứ ba bay qua."
+        },
+        {
+            "en": "He moves to second floor.",
+            "vi": "Anh ấy chuyển lên tầng hai."
+        }
+    ],
+    "words_form": [
+        "seconded",
+        "seconds"
+    ],
+    "meaning_vi": "thứ hai"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/tɛkˈnik/"
+    ],
+    "synonyms": [
+        "method",
+        "procedure",
+        "means",
+        "attack",
+        "delivery"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The basic method for making or doing something, such as an artistic work or scientific procedure.",
+            "vi": "Phương pháp cơ bản để thực hiện hoặc làm điều gì đó, chẳng hạn như một tác phẩm nghệ thuật hoặc quy trình khoa học."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This technique is in every way closely akin to that of the modern Kabyle.",
+            "vi": "Kỹ thuật này gần giống với kỹ thuật Kabyle hiện đại."
+        },
+        {
+            "en": "In both those cases, a technology or technique came along that actually changed the way people think.",
+            "vi": "Trong cả hai trường hợp đó, một công nghệ hoặc kỹ thuật đã thực sự thay đổi cách mọi người nghĩ."
+        }
+    ],
+    "words_form": [
+        "techniques"
+    ],
+    "meaning_vi": "kỹ thuật"
+}

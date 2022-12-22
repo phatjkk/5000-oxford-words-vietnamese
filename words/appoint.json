@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/əˈpɔɪnt/"
+    ],
+    "synonyms": [
+        "designate",
+        "select",
+        "delegate",
+        "set",
+        "elect"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To select or designate to fill an office or a position.",
+            "vi": "Để chọn hoặc chỉ định điền vào một văn phòng hoặc một vị trí."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was given the right to dispense justice, to coin money and to appoint the bishops in Bavaria.",
+            "vi": "Ông được trao quyền phân phát công lý, tiền xu và bổ nhiệm các giám mục ở Bavaria."
+        },
+        {
+            "en": "This board has power to appoint a school director and a superintendent of instruction.",
+            "vi": "Hội đồng này có quyền bổ nhiệm giám đốc trường học và giám đốc hướng dẫn."
+        }
+    ],
+    "words_form": [
+        "appointed",
+        "appoints"
+    ],
+    "meaning_vi": "bổ nhiệm"
+}

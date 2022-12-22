@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/dəˈzərt/"
+    ],
+    "synonyms": [
+        "sahara",
+        "badlands",
+        "barren",
+        "infertile",
+        "wastelands"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a desert is a dry, hot, sandy, usually barren and uninhabited area.",
+            "vi": "Định nghĩa về sa mạc là một khu vực khô, nóng, nhiều cát, thường cằn cỗi và không có người ở."
+        },
+        {
+            "pos": "verb",
+            "en": "Desert is defined as to leave or abandon someone or something.",
+            "vi": "Sa mạc được định nghĩa là để lại hoặc bỏ rơi một ai đó hoặc một cái gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of a desert or deserts.",
+            "vi": "Của một sa mạc hoặc các sa mạc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The desert night was cold and dark.",
+            "vi": "Đêm sa mạc lạnh lẽo và tăm tối."
+        },
+        {
+            "en": "She turned away from the desert and crossed her arms.",
+            "vi": "Cô quay đi khỏi sa mạc và khoanh tay."
+        }
+    ],
+    "words_form": [
+        "deserted",
+        "deserts"
+    ],
+    "meaning_vi": "sa mạc"
+}

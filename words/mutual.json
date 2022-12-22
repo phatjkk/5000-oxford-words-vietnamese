@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈmjutʃ(u)əl/"
+    ],
+    "synonyms": [
+        "bilateral",
+        "respective",
+        "interchanged",
+        "common",
+        "related"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of mutual is something that goes both ways, such as when two people feel the same way about each other or when two people like the same person.",
+            "vi": "Định nghĩa về nhau là một cái gì đó đi theo cả hai cách, chẳng hạn như khi hai người cảm thấy giống nhau về nhau hoặc khi hai người thích cùng một người."
+        },
+        {
+            "pos": "noun",
+            "en": "A mutual fund.",
+            "vi": "Một quỹ tương hỗ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We agreed on our mutual commitment.",
+            "vi": "Chúng tôi đã đồng ý về cam kết chung của chúng tôi."
+        },
+        {
+            "en": "We both have a mutual problem.",
+            "vi": "Cả hai chúng tôi đều có một vấn đề chung."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "lẫn nhau"
+}

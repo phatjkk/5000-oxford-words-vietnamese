@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/rəˈmaɪnd/"
+    ],
+    "synonyms": [
+        "call-to-mind",
+        "point out",
+        "bring-back",
+        "stress",
+        "nag"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To remind is to cause a person to remember.",
+            "vi": "Nhắc nhở là làm cho một người nhớ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I just need you to remind Darian of something.",
+            "vi": "Tôi chỉ cần bạn nhắc nhở Darian một vài điều."
+        },
+        {
+            "en": "You remind me of her sometimes.",
+            "vi": "Đôi khi bạn làm tôi nhớ đến cô ấy."
+        }
+    ],
+    "words_form": [
+        "reminded",
+        "reminding",
+        "reminds"
+    ],
+    "meaning_vi": "nhắc lại"
+}

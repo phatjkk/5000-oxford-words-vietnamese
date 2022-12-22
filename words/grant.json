@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/ɡrænt/"
+    ],
+    "synonyms": [
+        "gift",
+        "reward",
+        "bounty",
+        "boon",
+        "allow"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To allow or consent to the fulfillment of (something requested).",
+            "vi": "Để cho phép hoặc đồng ý thực hiện (một cái gì đó được yêu cầu)."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of granting.",
+            "vi": "Hành động cấp."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) (born Archibald Leach) 1904-86; U.S. film actor, born in England.",
+            "vi": "(người) (tên khai sinh là Archibald Leach) 1904-86; Diễn viên điện ảnh Hoa Kỳ, sinh ra ở Anh."
+        },
+        {
+            "pos": "pronoun",
+            "en": "An English surname​ and a Scottish clan name, from a nickname meaning \"large\".",
+            "vi": "Một họ tiếng Anh và một tên gia tộc Scotland, từ một biệt danh có nghĩa là \"lớn\"."
+        },
+        {
+            "pos": "idiom",
+            "en": "take for granted  to consider as true, already settled, requiring no special attention, etc.; accept as a matter of course",
+            "vi": "coi như là đúng, đã giải quyết xong, không cần quan tâm đặc biệt, v.v ...; chấp nhận như một điều tất nhiên"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Then I will grant you a favor.",
+            "vi": "Sau đó, tôi sẽ ban cho bạn một đặc ân."
+        },
+        {
+            "en": "They will grant you safe passage.",
+            "vi": "Họ sẽ cấp cho bạn lối đi an toàn."
+        }
+    ],
+    "words_form": [
+        "granted",
+        "grants"
+    ],
+    "meaning_vi": "ban cho"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/bist/"
+    ],
+    "synonyms": [
+        "animal",
+        "monster",
+        "behemoth",
+        "bestial",
+        "fiend"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A brutal, contemptible person.",
+            "vi": "Một kẻ tàn bạo, khinh người."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(biblical) A figure in the Book of Revelation (Apocalypse), often identified with Satan or the Antichrist.",
+            "vi": "(Kinh thánh) Một nhân vật trong Sách Khải huyền (Khải huyền), thường được xác định với Satan hoặc Antichrist."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The beast was very close to him now.",
+            "vi": "Con thú lúc này đang ở rất gần anh."
+        },
+        {
+            "en": "She turned away, seeking to suppress the beast, and grabbed her sword.",
+            "vi": "Cô quay đi, tìm cách trấn áp con quái vật, và nắm lấy thanh kiếm của mình."
+        }
+    ],
+    "words_form": [
+        "beasts"
+    ],
+    "meaning_vi": "quái thú"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌkɔrəˈleɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "equivalence",
+        "association",
+        "disconnection",
+        "disassociation",
+        "correspondence"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A relationship or connection between two things based on co-occurrence or pattern of change.",
+            "vi": "Mối quan hệ hoặc mối liên hệ giữa hai sự vật dựa trên sự đồng thời xảy ra hoặc kiểu thay đổi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is possible that a correlation may be made between solubility and the energy of surface tension.",
+            "vi": "Có thể có mối tương quan giữa độ hòa tan và năng lượng của sức căng bề mặt."
+        },
+        {
+            "en": "A problem arises because of the strong correlation between standard of living and energy consumption.",
+            "vi": "Một vấn đề nảy sinh do mối tương quan chặt chẽ giữa mức sống và mức tiêu thụ năng lượng."
+        }
+    ],
+    "words_form": [
+        "correlations"
+    ],
+    "meaning_vi": "tương quan"
+}

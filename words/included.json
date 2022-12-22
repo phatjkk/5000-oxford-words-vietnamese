@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ɪnˈkluːdɪd/"
+    ],
+    "synonyms": [
+        "admitted",
+        "combined",
+        "comprehended",
+        "comprised",
+        "constituted"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(mathematics) Formed by and between two intersecting straight lines.",
+            "vi": "(Toán học) Được tạo thành bởi và giữa hai đường thẳng cắt nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "Included is defined as enclosed.",
+            "vi": "Bao gồm được định nghĩa là kèm theo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The collection of animals included a donkey, horse, ostrich and a llama, all of which were either relaxing in the shade or inside the barn.",
+            "vi": "Bộ sưu tập động vật bao gồm lừa, ngựa, đà điểu và một con llama, tất cả đều đang thư giãn trong bóng râm hoặc trong chuồng."
+        },
+        {
+            "en": "Everything's included, he said.",
+            "vi": "Tất cả mọi thứ đã bao gồm, anh ấy nói."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "adjective",
+            "en": "(mathematics) Formed by and between two intersecting straight lines.",
+            "vi": "(Toán học) Được tạo thành bởi và giữa hai đường thẳng cắt nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "Included is defined as enclosed.",
+            "vi": "Bao gồm được định nghĩa là kèm theo."
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/praɪˈɔrədi/"
+    ],
+    "synonyms": [
+        "preference",
+        "precedence",
+        "superiority",
+        "antecedence",
+        "preterition"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Priority is defined as that something or someone is more urgent or important than other things.",
+            "vi": "Ưu tiên được định nghĩa là thứ gì đó hoặc ai đó khẩn cấp hơn hoặc quan trọng hơn những thứ khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The first priority was rescuing children.",
+            "vi": "Ưu tiên hàng đầu là giải cứu trẻ em."
+        },
+        {
+            "en": "The priority should probably be assigned to the Orosius, but the point has been much debated.",
+            "vi": "Quyền ưu tiên có lẽ nên được gán cho Orosius, nhưng vấn đề này đã được tranh luận nhiều."
+        }
+    ],
+    "words_form": [
+        "priorities"
+    ],
+    "meaning_vi": "sự ưu tiên"
+}

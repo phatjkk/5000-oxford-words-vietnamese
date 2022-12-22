@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈpərpəs/"
+    ],
+    "synonyms": [
+        "mission",
+        "goal",
+        "dream",
+        "idea",
+        "intention"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a purpose is a goal or intention.",
+            "vi": "Định nghĩa của một mục đích là một mục tiêu hoặc ý định."
+        },
+        {
+            "pos": "verb",
+            "en": "Purpose is defined as to plan or intend to do something.",
+            "vi": "Mục đích được định nghĩa là lập kế hoạch hoặc dự định làm điều gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "on purpose  Intentionally; deliberately.",
+            "vi": "vào mục đích Cố ý; thong thả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His purpose for bringing her here was unclear.",
+            "vi": "Mục đích của anh ta khi đưa cô đến đây là không rõ ràng."
+        },
+        {
+            "en": "If you win or lose, let it be on purpose.",
+            "vi": "Nếu bạn thắng hoặc thua, hãy để nó có chủ đích."
+        }
+    ],
+    "words_form": [
+        "purposed",
+        "purposes",
+        "purposing"
+    ],
+    "meaning_vi": "mục đích"
+}

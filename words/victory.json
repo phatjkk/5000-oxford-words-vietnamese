@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈvɪkt(ə)ri/"
+    ],
+    "synonyms": [
+        "winning",
+        "triumph",
+        "defeating",
+        "overcoming",
+        "success"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(rare) To achieve a victory.",
+            "vi": "(hiếm) Để đạt được một chiến thắng."
+        },
+        {
+            "pos": "noun",
+            "en": "Final and complete supremacy or superiority in battle or war.",
+            "vi": "Quyền tối cao hoặc ưu thế cuối cùng và hoàn toàn trong trận chiến hoặc chiến tranh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Victory depends on you.",
+            "vi": "Chiến thắng phụ thuộc vào bạn."
+        },
+        {
+            "en": "It was an extremely easy victory for me.",
+            "vi": "Đó là một chiến thắng cực kỳ dễ dàng đối với tôi."
+        }
+    ],
+    "words_form": [
+        "victories"
+    ],
+    "meaning_vi": "chiến thắng"
+}

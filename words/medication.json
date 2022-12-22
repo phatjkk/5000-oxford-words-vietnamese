@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌmɛdəˈkeɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "medicament",
+        "medicine",
+        "drugs",
+        "medicinal drug",
+        "prescription"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A medicating or being medicated.",
+            "vi": "Thuốc chữa bệnh hoặc được làm thuốc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "My medication contributed to my comfort if not my state of mind.",
+            "vi": "Thuốc của tôi đã góp phần giúp tôi thoải mái nếu không muốn nói là trạng thái tinh thần của tôi."
+        },
+        {
+            "en": "Thanks to pain medication, Clarissa was resting as comfortably as could be expected.",
+            "vi": "Nhờ thuốc giảm đau, Clarissa đã được nghỉ ngơi thoải mái như mong đợi."
+        }
+    ],
+    "words_form": [
+        "medications"
+    ],
+    "meaning_vi": "thuốc"
+}

@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ʃeɪp/"
+    ],
+    "synonyms": [
+        "guise",
+        "aspect",
+        "configuration",
+        "pattern",
+        "frame"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To arrange, fashion, express, or devise (a plan, answer, etc.) in definite form.",
+            "vi": "Để sắp xếp, thời trang, thể hiện hoặc lập ra (một kế hoạch, câu trả lời, v.v.) ở dạng xác định."
+        },
+        {
+            "pos": "noun",
+            "en": "Something having a particular shape, used as a mold or basis for shaping or fashioning.",
+            "vi": "Một cái gì đó có hình dạng cụ thể, được sử dụng làm khuôn hoặc cơ sở để tạo hình hoặc thời trang."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Supreme Headquarters Allied Powers, Europe.",
+            "vi": "Trụ sở tối cao Đồng minh Powers, Châu Âu."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "See also shape.",
+            "vi": "Xem thêm hình dạng."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) shape up  to develop to a definite form, condition, etc. to develop satisfactorily or favorably to do what is expected of one; behave as required",
+            "vi": "(không chính thức) hình thành để phát triển đến một hình thức, điều kiện xác định, v.v. để phát triển một cách thỏa đáng hoặc thuận lợi để làm những gì được mong đợi ở một; cư xử theo yêu cầu"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The dream took shape as it did every night.",
+            "vi": "Giấc mơ đã thành hình như nó vẫn diễn ra hàng đêm."
+        },
+        {
+            "en": "The shape was the important aspect.",
+            "vi": "Hình dạng là một khía cạnh quan trọng."
+        }
+    ],
+    "words_form": [
+        "shaped",
+        "shapes",
+        "shaping"
+    ],
+    "meaning_vi": "hình dạng"
+}

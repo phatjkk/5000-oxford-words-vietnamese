@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/spaɪ/"
+    ],
+    "synonyms": [
+        "saboteur",
+        "mole",
+        "agent",
+        "intelligence agent",
+        "observer"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To watch or observe secretly.",
+            "vi": "Để theo dõi hoặc quan sát bí mật."
+        },
+        {
+            "pos": "noun",
+            "en": "One who secretly collects information concerning the enemies of a government or group.",
+            "vi": "Một người bí mật thu thập thông tin liên quan đến kẻ thù của chính phủ hoặc nhóm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or about spies or espionage.",
+            "vi": "Về hoặc về gián điệp hoặc gián điệp."
+        },
+        {
+            "pos": "idiom",
+            "en": "spy out  to discover or seek to discover by close observation, inspection, etc.",
+            "vi": "do thám để khám phá hoặc tìm cách khám phá bằng cách quan sát chặt chẽ, kiểm tra, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Tell me you won't spy on our past!",
+            "vi": "Nói với tôi rằng bạn sẽ không theo dõi quá khứ của chúng tôi!"
+        },
+        {
+            "en": "This is the first lesson every good spy knows.",
+            "vi": "Đây là bài học đầu tiên mà mọi điệp viên giỏi đều biết."
+        }
+    ],
+    "words_form": [
+        "spied",
+        "spies",
+        "spying"
+    ],
+    "meaning_vi": "gián điệp"
+}

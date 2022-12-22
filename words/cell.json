@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/sɛl/"
+    ],
+    "synonyms": [
+        "microorganism",
+        "egg",
+        "compartment",
+        "receptacle",
+        "organism"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A cell is defined as the smallest unit of an organism with a nucleus.",
+            "vi": "Tế bào được định nghĩa là đơn vị nhỏ nhất của sinh vật có nhân."
+        },
+        {
+            "pos": "adjective",
+            "en": "Cellular.",
+            "vi": "Di động."
+        },
+        {
+            "pos": "verb",
+            "en": "To place or enclose in a cell.",
+            "vi": "Để đặt hoặc bao bọc trong một ô."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The cell reproduced and the organism grew.",
+            "vi": "Tế bào sinh sản và sinh vật lớn lên."
+        },
+        {
+            "en": "In every cell of your body except your red blood cells exists a copy of your DNA.",
+            "vi": "Trong mọi tế bào của cơ thể, ngoại trừ các tế bào hồng cầu, đều tồn tại một bản sao DNA của bạn."
+        }
+    ],
+    "words_form": [
+        "cells"
+    ],
+    "meaning_vi": "tế bào"
+}

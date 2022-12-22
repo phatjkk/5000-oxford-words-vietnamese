@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈrɛsəˌpi/"
+    ],
+    "synonyms": [
+        "pattern",
+        "ingredients",
+        "method",
+        "receipt",
+        "instructions"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A list of materials and directions for preparing a dish or drink.",
+            "vi": "Một danh sách các nguyên liệu và hướng dẫn để chuẩn bị một món ăn hoặc đồ uống."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Anyone got a good recipe for cake-with-file?",
+            "vi": "Bất cứ ai có một công thức tốt cho bánh có-tệp?"
+        },
+        {
+            "en": "I got the chicken if you got the recipe!",
+            "vi": "Tôi có gà nếu bạn có công thức!"
+        }
+    ],
+    "words_form": [
+        "recipes"
+    ],
+    "meaning_vi": "công thức nấu ăn"
+}

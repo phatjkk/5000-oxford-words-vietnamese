@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈkɑmprəˌmaɪz/"
+    ],
+    "synonyms": [
+        "give-and-take",
+        "venture",
+        "negotiate",
+        "trade-off",
+        "understanding"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a compromise is when two sides give up some demands to meet somewhere in the middle.",
+            "vi": "Định nghĩa của một sự thỏa hiệp là khi hai bên từ bỏ một số yêu cầu để đáp ứng ở một nơi nào đó ở giữa."
+        },
+        {
+            "pos": "verb",
+            "en": "Compromise means to give up some demands and agree on something less than what was originally wanted.",
+            "vi": "Thỏa hiệp có nghĩa là từ bỏ một số yêu cầu và đồng ý về một điều gì đó ít hơn những gì mong muốn ban đầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She had to compromise between herself and her partner.",
+            "vi": "Cô phải thỏa hiệp giữa mình và người bạn đời của mình."
+        },
+        {
+            "en": "No, there could be no compromise on that subject.",
+            "vi": "Không, không thể có sự thỏa hiệp về chủ đề đó."
+        }
+    ],
+    "words_form": [
+        "compromised",
+        "compromises",
+        "compromising"
+    ],
+    "meaning_vi": "thỏa hiệp"
+}

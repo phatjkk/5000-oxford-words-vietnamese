@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈraɪdɪŋ/"
+    ],
+    "synonyms": [
+        "transcribing",
+        "typewriting",
+        "letter-writing",
+        "stenography",
+        "play"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(uncountable) Graphism of symbols such as letters that express some meaning.",
+            "vi": "(không đếm được) Đồ thị của các ký hiệu như chữ cái biểu thị một số ý nghĩa."
+        },
+        {
+            "pos": "adjective",
+            "en": "Used in writing.",
+            "vi": "Được sử dụng trong văn bản."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of write.",
+            "vi": "Hiện tại phân từ viết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Are you writing a book?",
+            "vi": "Bạn đang viết một cuốn sách?"
+        },
+        {
+            "en": "He was writing something on the tablet.",
+            "vi": "Anh ấy đang viết gì đó trên máy tính bảng."
+        }
+    ],
+    "words_form": [
+        "writings"
+    ],
+    "meaning_vi": "viết"
+}

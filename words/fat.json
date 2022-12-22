@@ -1,0 +1,52 @@
+{
+    "spelling": [
+        "/fæt/"
+    ],
+    "synonyms": [
+        "plump",
+        "heavy",
+        "brawny",
+        "stout",
+        "roly-poly"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Full of fat or oil; greasy.",
+            "vi": "Đầy chất béo hoặc dầu; bóng nhờn."
+        },
+        {
+            "pos": "noun",
+            "en": "Unnecessary excess.",
+            "vi": "Dư thừa không cần thiết."
+        },
+        {
+            "pos": "verb",
+            "en": "To make or become fat.",
+            "vi": "Để làm cho hoặc trở nên béo."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) a fat lot  Very little or none at all: A fat lot of good it will do him.",
+            "vi": "(tiếng lóng) rất nhiều chất béo Rất ít hoặc hoàn toàn không có: Nhiều chất béo sẽ có lợi cho anh ta."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I feel fat and lazy.",
+            "vi": "Tôi cảm thấy béo và lười biếng."
+        },
+        {
+            "en": "Here was her fat little neck.",
+            "vi": "Đây là cái cổ nhỏ béo của cô ấy."
+        }
+    ],
+    "words_form": [
+        "fats",
+        "fatted",
+        "fatter",
+        "fattest",
+        "fatting"
+    ],
+    "meaning_vi": "chất béo"
+}

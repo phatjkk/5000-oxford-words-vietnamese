@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/tʃɪp/"
+    ],
+    "synonyms": [
+        "shaving",
+        "reduce",
+        "break off",
+        "shard",
+        "sliver"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Chip is defined as to break off a small piece or cut into small pieces.",
+            "vi": "Chip được định nghĩa là bẻ ra một miếng nhỏ hoặc cắt thành nhiều miếng nhỏ."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a chip is a thin piece of something broken off, or a place where something has been broken off, or slice or small piece of food.",
+            "vi": "Định nghĩa về chip là một miếng mỏng của một thứ gì đó bị vỡ ra, hoặc một nơi mà thứ gì đó đã bị vỡ ra, hoặc lát hoặc miếng nhỏ của thức ăn."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A diminutive of the male given names Christopher and Charles.",
+            "vi": "Một phần nhỏ của con đực được đặt tên là Christopher và Charles."
+        },
+        {
+            "pos": "idiom",
+            "en": "chip off the old block  A child whose appearance or character closely resembles that of one or the other parent.",
+            "vi": "loại bỏ khối cũ Một đứa trẻ có ngoại hình hoặc tính cách gần giống với một hoặc cha mẹ kia."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Chocolate chip,\" Jonny said in the same tone.",
+            "vi": "“Sô cô la chip,” Jonny nói cùng một giọng."
+        },
+        {
+            "en": "It has a chip in the handle.",
+            "vi": "Nó có một con chip trong tay cầm."
+        }
+    ],
+    "words_form": [
+        "chipped",
+        "chipping",
+        "chips"
+    ],
+    "meaning_vi": "Chip"
+}

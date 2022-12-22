@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɪŋk/"
+    ],
+    "synonyms": [
+        "paint",
+        "stencil",
+        "toner",
+        "watercolor",
+        "cartridge"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A pigmented liquid or paste used especially for writing or printing.",
+            "vi": "Chất lỏng hoặc bột nhão có sắc tố được sử dụng đặc biệt để viết hoặc in."
+        },
+        {
+            "pos": "verb",
+            "en": "To mark, coat, or stain with ink.",
+            "vi": "Để đánh dấu, phủ hoặc làm ố bằng mực."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The pen has black ink in it now.",
+            "vi": "Bây giờ bút có mực đen."
+        },
+        {
+            "en": "There were three sets of numbers written in green ink on his palm.",
+            "vi": "Có ba bộ số được viết bằng mực xanh trên lòng bàn tay của anh ta."
+        }
+    ],
+    "words_form": [
+        "inked",
+        "inking",
+        "inks"
+    ],
+    "meaning_vi": "mực"
+}

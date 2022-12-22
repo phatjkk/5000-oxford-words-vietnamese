@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/ˈplɛn(t)i/"
+    ],
+    "synonyms": [
+        "lots",
+        "profusion",
+        "limit",
+        "deluge",
+        "sufficiency"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A full or completely adequate amount or supply.",
+            "vi": "Một lượng hoặc cung cấp đầy đủ hoặc hoàn toàn đầy đủ."
+        },
+        {
+            "pos": "adjective",
+            "en": "(dial.) Plentiful; enough; ample.",
+            "vi": "(quay số.) Đầy đặn; đầy đủ; Phong phú."
+        },
+        {
+            "pos": "adverb",
+            "en": "Sufficiently; very.",
+            "vi": "Vừa đủ; hết sức."
+        },
+        {
+            "pos": "pronoun",
+            "en": "More than enough.",
+            "vi": "Quá đủ."
+        },
+        {
+            "pos": "determiner",
+            "en": "(nonstandard) Many.",
+            "vi": "(không chuẩn) Nhiều."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Still, she had plenty to do.",
+            "vi": "Tuy nhiên, cô ấy còn nhiều việc phải làm."
+        },
+        {
+            "en": "I thought I had plenty of time.",
+            "vi": "Tôi nghĩ rằng tôi có nhiều thời gian."
+        }
+    ],
+    "words_form": [
+        "plenties"
+    ],
+    "meaning_vi": "rất nhiều"
+}

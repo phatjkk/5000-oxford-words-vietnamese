@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ˈri(ə)l/"
+    ],
+    "synonyms": [
+        "genuine",
+        "authentic",
+        "true",
+        "tangible",
+        "sincere"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of real is something that is true and authentic or something is very important or significant.",
+            "vi": "Định nghĩa của thực là một cái gì đó có thật và xác thực hoặc một cái gì đó rất quan trọng hoặc có ý nghĩa."
+        },
+        {
+            "pos": "noun",
+            "en": "A thing or whole having actual existence. Often used with the:",
+            "vi": "Một sự vật hoặc toàn bộ đang tồn tại thực tế. Thường được sử dụng với:"
+        },
+        {
+            "pos": "adverb",
+            "en": "Very.",
+            "vi": "Hết sức."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Real Madrid, a football club from Madrid.",
+            "vi": "Real Madrid, một câu lạc bộ bóng đá đến từ Madrid."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) for real  Truly so in fact or actuality:",
+            "vi": "(tiếng lóng) thực tế Thực sự như vậy trên thực tế hoặc thực tế:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The real surprise came with his presence in the delivery room.",
+            "vi": "Bất ngờ thực sự đến với sự hiện diện của anh ấy trong phòng sinh."
+        },
+        {
+            "en": "He's not my real brother.",
+            "vi": "Anh ấy không phải là anh trai ruột của tôi."
+        }
+    ],
+    "words_form": [
+        "reais",
+        "reales",
+        "reals"
+    ],
+    "meaning_vi": "thực, thực tế, có thật"
+}

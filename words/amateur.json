@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈæmədər/",
+        "/ˈæməˌtər/",
+        "/ˈæmətʃər/"
+    ],
+    "synonyms": [
+        "nonprofessional",
+        "beginner",
+        "tyro",
+        "hobbyist",
+        "layperson"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An amateur is an individual who is new to, or not yet skilled in, a particular skill or sport.",
+            "vi": "Người nghiệp dư là một cá nhân mới làm quen hoặc chưa thành thạo một kỹ năng hoặc môn thể thao cụ thể."
+        },
+        {
+            "pos": "adjective",
+            "en": "Not professional; unskillful.",
+            "vi": "Không chuyên nghiệp; không khéo léo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's not like I'm an amateur at this sleuthing business.",
+            "vi": "Nó không giống như tôi là một người nghiệp dư trong công việc kinh doanh khó khăn này."
+        },
+        {
+            "en": "He sold some art copies to a local amateur, where he came under the notice of Vincent.",
+            "vi": "Anh ta đã bán một số bản sao nghệ thuật cho một người nghiệp dư địa phương, nơi anh ta đến dưới sự thông báo của Vincent."
+        }
+    ],
+    "words_form": [
+        "amateurs"
+    ],
+    "meaning_vi": "nghiệp dư"
+}

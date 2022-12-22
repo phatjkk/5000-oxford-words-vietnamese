@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/prist/"
+    ],
+    "synonyms": [
+        "minister",
+        "lama",
+        "reverend",
+        "hieratic",
+        "vicar"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person whose function is to make sacrificial offerings and perform other religious rites as an intermediary between deity and worshipers.",
+            "vi": "Là người có chức năng cúng tế và thực hiện các nghi thức tôn giáo khác với tư cách là trung gian giữa thần linh và những người được thờ cúng."
+        },
+        {
+            "pos": "verb",
+            "en": "To ordain or admit to the priesthood.",
+            "vi": "Truyền chức hoặc thừa nhận chức tư tế."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "After some readings and a hymn, the priest moved to the pulpit.",
+            "vi": "Sau một số bài đọc và một bài thánh ca, linh mục tiến lên bục giảng."
+        },
+        {
+            "en": "A priest can administer this sacrament.",
+            "vi": "Một linh mục có thể điều hành bí tích này."
+        }
+    ],
+    "words_form": [
+        "priests"
+    ],
+    "meaning_vi": "thầy tu"
+}

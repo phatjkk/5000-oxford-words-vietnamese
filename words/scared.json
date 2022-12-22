@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/skɛrd/"
+    ],
+    "synonyms": [
+        "afraid",
+        "frightened",
+        "startled",
+        "petrified",
+        "terrified"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having fear; afraid, frightened.",
+            "vi": "Có sợ hãi; sợ hãi, sợ hãi."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of scare.",
+            "vi": "Quá khứ đơn và quá khứ phân từ sợ hãi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You scared me half to death.",
+            "vi": "Bạn làm tôi sợ gần chết."
+        },
+        {
+            "en": "My dog scared them away.",
+            "vi": "Con chó của tôi đã khiến họ sợ hãi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sợ hãi"
+}

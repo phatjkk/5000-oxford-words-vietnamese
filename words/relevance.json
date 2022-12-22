@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈrɛləv(ə)ns/"
+    ],
+    "synonyms": [
+        "importance",
+        "significance",
+        "connection",
+        "relevant",
+        "pertinence"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Relevance is how appropriate something is to what's being done or said at a given time.",
+            "vi": "Mức độ liên quan là mức độ phù hợp của điều gì đó với những gì đang được thực hiện hoặc được nói tại một thời điểm nhất định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They have more relevance and point in 2 Tim.",
+            "vi": "Chúng có liên quan nhiều hơn và chỉ ra 2 Tim."
+        },
+        {
+            "en": "If we add the qualification of relevance we destroy the cogency of the method.",
+            "vi": "Nếu chúng ta thêm mức độ phù hợp, chúng ta sẽ phá hủy tính thống nhất của phương pháp."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sự liên quan"
+}

@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/(h)waɪl/"
+    ],
+    "synonyms": [
+        "though",
+        "whilst",
+        "although",
+        "whereas",
+        "strain"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "While is defined as during or in a certain time.",
+            "vi": "While được định nghĩa là trong hoặc trong một thời gian nhất định."
+        },
+        {
+            "pos": "noun",
+            "en": "A period or space of time.",
+            "vi": "Một khoảng thời gian hoặc không gian thời gian."
+        },
+        {
+            "pos": "verb",
+            "en": "To spend (time) idly or pleasantly.",
+            "vi": "Để dành (thời gian) một cách nhàn rỗi hoặc vui vẻ."
+        },
+        {
+            "pos": "preposition",
+            "en": "(north eng., archaic) Until.",
+            "vi": "(tiếng miền bắc, cổ) Cho đến khi."
+        },
+        {
+            "pos": "idiom",
+            "en": "between whiles  now and then; at intervals",
+            "vi": "giữa roi bây giờ và sau đó; trong khoảng thời gian"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't want you to drive while you're so tired.",
+            "vi": "Tôi không muốn bạn lái xe khi bạn đang rất mệt mỏi."
+        },
+        {
+            "en": "While waiting for the food to arrive, we were happy to sit and chat in the relaxing surroundings.",
+            "vi": "Trong khi chờ đồ ăn đến, chúng tôi rất vui khi được ngồi trò chuyện trong khung cảnh thư thái."
+        }
+    ],
+    "words_form": [
+        "whiled",
+        "whiles",
+        "whiling"
+    ],
+    "meaning_vi": "trong khi"
+}

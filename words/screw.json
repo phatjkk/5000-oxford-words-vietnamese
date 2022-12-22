@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/skru/"
+    ],
+    "synonyms": [
+        "bolt",
+        "pin",
+        "clamp",
+        "spiral",
+        "twine"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a screw is a piece of metal with a threaded surface and a point on one end and a slotted head that is twisted to penetrate and fasten two things together.",
+            "vi": "Định nghĩa đinh vít là một miếng kim loại có bề mặt ren và một đầu có rãnh và một đầu có rãnh được xoắn để xuyên qua và gắn chặt hai vật với nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "To screw is a slang expression meaning to cheat someone out of something.",
+            "vi": "To vặn là một biểu thức tiếng lóng có nghĩa là lừa ai đó ra khỏi thứ gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) have a screw loose  To behave in an eccentric or mentally deranged manner.",
+            "vi": "(tiếng lóng) bị lỏng vít Để cư xử theo cách lập dị hoặc loạn trí."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Did I screw up somewhere along the line?",
+            "vi": "Tôi đã bị hỏng ở đâu đó dọc theo đường dây?"
+        },
+        {
+            "en": "Basically, it started with a screw up.",
+            "vi": "Về cơ bản, nó bắt đầu với một cái vít."
+        }
+    ],
+    "words_form": [
+        "screwed",
+        "screwing",
+        "screws"
+    ],
+    "meaning_vi": "đinh ốc"
+}

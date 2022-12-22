@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/fəˈlɑsəfi/"
+    ],
+    "synonyms": [
+        "principles",
+        "dialectic",
+        "reasoning",
+        "worldview",
+        "conviction"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Philosophy is a set of ideals, standards or beliefs used to describe behavior and thought.",
+            "vi": "Triết học là một tập hợp các lý tưởng, tiêu chuẩn hoặc niềm tin được sử dụng để mô tả hành vi và suy nghĩ."
+        },
+        {
+            "pos": "verb",
+            "en": "(now rare) To philosophize.",
+            "vi": "(bây giờ hiếm) Để triết học."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Did you enjoy the philosophy class?",
+            "vi": "Bạn có thích lớp học triết học không?"
+        },
+        {
+            "en": "I wasn't sure that bit of philosophy got us anywhere.",
+            "vi": "Tôi không chắc chút triết lý đó đã đưa chúng ta đến đâu."
+        }
+    ],
+    "words_form": [
+        "philosophies"
+    ],
+    "meaning_vi": "triết học"
+}

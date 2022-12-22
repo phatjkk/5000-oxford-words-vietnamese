@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/dəˈmɛstɪk/"
+    ],
+    "synonyms": [
+        "internal",
+        "household",
+        "private",
+        "family",
+        "homely"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of or relating to the home.",
+            "vi": "Của hoặc liên quan đến nhà."
+        },
+        {
+            "pos": "noun",
+            "en": "A servant for the home, as a maid or cook.",
+            "vi": "Một người hầu việc nhà, như một người giúp việc hoặc nấu ăn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This is just a domestic disturbance.",
+            "vi": "Đây chỉ là sự xáo trộn trong nước."
+        },
+        {
+            "en": "So far, wee Maria stood head and shoulders over any other domestic helper Bird Song had employed.",
+            "vi": "Cho đến nay, cô bé Maria đã đứng đầu và sánh vai với bất kỳ người giúp việc gia đình nào khác mà Bird Song đã thuê."
+        }
+    ],
+    "words_form": [
+        "domestics"
+    ],
+    "meaning_vi": "trong nước"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/dʒəˈnɛrɪk/"
+    ],
+    "synonyms": [
+        "universal",
+        "general",
+        "structured",
+        "particular",
+        "common"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Generic means something doesn’t have any distinct qualities.",
+            "vi": "Chung chung có nghĩa là một cái gì đó không có bất kỳ phẩm chất riêng biệt nào."
+        },
+        {
+            "pos": "noun",
+            "en": "Generic is defined as a product without a brand name.",
+            "vi": "Chung được định nghĩa là một sản phẩm không có tên thương hiệu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In Persian Yauna was the generic term for Greeks.'",
+            "vi": "Trong tiếng Ba Tư, Yauna là thuật ngữ chung cho người Hy Lạp. '"
+        },
+        {
+            "en": "-- It is needful to observe that most names of measures are generic and not specific, and cover a great variety of units.",
+            "vi": "- Cần lưu ý rằng hầu hết các tên gọi của các biện pháp là chung chung và không cụ thể, và bao gồm rất nhiều đơn vị."
+        }
+    ],
+    "words_form": [
+        "generics"
+    ],
+    "meaning_vi": "chung"
+}

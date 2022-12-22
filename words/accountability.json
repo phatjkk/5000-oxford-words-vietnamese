@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/əˌkaʊntəˈbɪlɪti/"
+    ],
+    "synonyms": [
+        "liability",
+        "answerability",
+        "blameworthiness"
+    ],
+    "meaning": [
+        {
+            "pos": "",
+            "en": "The traceability of actions performed on a system to a specific system entity (user, process, device). For example, the use of unique user identification and authentication supports accountability; the use of shared user IDs and passwords destroys accountability.",
+            "vi": "Một nguồn cung cấp tuyệt vời; nhiều hơn số lượng đủ."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of accountability is taking or being assigned responsibility for something that you have done or something you are supposed to do.",
+            "vi": "Một nghệ thuật xã hội hoặc kỹ năng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Landon, start taking accountability of dealers and compasses throughout the day.",
+            "vi": "Landon, hãy bắt đầu chịu trách nhiệm về các đại lý và la bàn trong suốt cả ngày."
+        },
+        {
+            "en": "Transparency and accountability are essential to a democratic government.",
+            "vi": "Tính minh bạch và trách nhiệm giải trình là điều cần thiết đối với một chính phủ dân chủ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "",
+            "en": "The traceability of actions performed on a system to a specific system entity (user, process, device). For example, the use of unique user identification and authentication supports accountability; the use of shared user IDs and passwords destroys accountability.",
+            "vi": "Một nguồn cung cấp tuyệt vời; nhiều hơn số lượng đủ."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of accountability is taking or being assigned responsibility for something that you have done or something you are supposed to do.",
+            "vi": "Một nghệ thuật xã hội hoặc kỹ năng."
+        }
+    ]
+}

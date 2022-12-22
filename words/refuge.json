@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈrɛfˌjudʒ/",
+        "/ˈrɛfˌjuʒ/"
+    ],
+    "synonyms": [
+        "shelter",
+        "safety",
+        "fortress",
+        "home",
+        "retreat"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Protection or shelter, as from danger or hardship.",
+            "vi": "Bảo vệ hoặc trú ẩn, khi khỏi nguy hiểm hoặc khó khăn."
+        },
+        {
+            "pos": "verb",
+            "en": "(archaic) To take refuge.",
+            "vi": "(cổ xưa) Để quy y."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Angra served as a refuge for Queen Maria II.",
+            "vi": "Angra từng là nơi nương tựa cho Nữ hoàng Maria II."
+        },
+        {
+            "en": "You would deny me refuge if I seek it?",
+            "vi": "Bạn sẽ từ chối tôi nơi nương tựa nếu tôi tìm kiếm nó?"
+        }
+    ],
+    "words_form": [
+        "refuged",
+        "refuging"
+    ],
+    "meaning_vi": "nơi ẩn náu"
+}

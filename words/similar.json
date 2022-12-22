@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈsɪm(ə)lər/"
+    ],
+    "synonyms": [
+        "comparable",
+        "related",
+        "same",
+        "like",
+        "consonant"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of similar is two things that have characteristics that resemble each other but are not exactly alike.",
+            "vi": "Định nghĩa tương tự là hai sự vật có những đặc điểm giống nhau nhưng không hoàn toàn giống nhau."
+        },
+        {
+            "pos": "noun",
+            "en": "That which is similar to, or resembles, something else, as in quality, form, etc.",
+            "vi": "Cái tương tự, hoặc giống cái gì đó khác, về chất lượng, hình thức, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We have a similar sense of humor, I think.",
+            "vi": "Tôi nghĩ chúng tôi có khiếu hài hước giống nhau."
+        },
+        {
+            "en": "The forest was similar but there was a trail I followed for a time.",
+            "vi": "Khu rừng cũng tương tự nhưng có một con đường mòn mà tôi đã đi theo một thời gian."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tương tự"
+}

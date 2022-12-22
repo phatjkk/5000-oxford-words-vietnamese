@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/klin/"
+    ],
+    "synonyms": [
+        "purify",
+        "spotless",
+        "immaculate",
+        "washed",
+        "laundered"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Blank.",
+            "vi": "Chỗ trống."
+        },
+        {
+            "pos": "verb",
+            "en": "To clean is to take action to make something not dirty.",
+            "vi": "Làm sạch là thực hiện hành động để làm cho một cái gì đó không bị bẩn."
+        },
+        {
+            "pos": "adverb",
+            "en": "So as to be unsoiled.",
+            "vi": "Vì vậy, để được hoang sơ."
+        },
+        {
+            "pos": "noun",
+            "en": "Removal of dirt.",
+            "vi": "Loại bỏ bụi bẩn."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) clean house  To eliminate or discard what is undesirable: The scandal forced the company to clean house.",
+            "vi": "(tiếng lóng) nhà sạch Để loại bỏ hoặc loại bỏ những gì không mong muốn: Vụ bê bối buộc công ty phải dọn dẹp nhà cửa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I have to clean the barn.",
+            "vi": "Tôi phải dọn dẹp chuồng trại."
+        },
+        {
+            "en": "You always look neat and clean - even if you are a little out of style.",
+            "vi": "Trông bạn luôn gọn gàng và sạch sẽ - ngay cả khi bạn hơi lạc điệu."
+        }
+    ],
+    "words_form": [
+        "cleaned",
+        "cleanest",
+        "cleaning",
+        "cleans"
+    ],
+    "meaning_vi": "sạch sẽ"
+}

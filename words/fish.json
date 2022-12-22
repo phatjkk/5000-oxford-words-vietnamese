@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/fɪʃ/"
+    ],
+    "synonyms": [
+        "trout",
+        "seafood",
+        "clam",
+        "shrimp",
+        "turtle"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a fish is an animal that lives in the water and breathes through gills.",
+            "vi": "Định nghĩa cá là động vật sống dưới nước và thở bằng mang."
+        },
+        {
+            "pos": "verb",
+            "en": "To grope for, find, and bring to view.",
+            "vi": "Để dò tìm, tìm kiếm và đưa ra xem."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of fish or fishing.",
+            "vi": "Của cá hoặc câu cá."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1808-93; U.S. statesman.",
+            "vi": "(người) 1808-93; Chính khách Hoa Kỳ."
+        },
+        {
+            "pos": "initialism",
+            "en": "(genetics) Fluorescent in-situ hybridization; a technique used to identify whether a DNA sample has a specific sequence.",
+            "vi": "(di truyền) Lai tại chỗ huỳnh quang; một kỹ thuật được sử dụng để xác định xem một mẫu DNA có một trình tự cụ thể hay không."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) fish or cut bait  To proceed with an activity or abandon it altogether.",
+            "vi": "(không chính thức) câu cá hoặc cắt mồi Để tiến hành một hoạt động hoặc từ bỏ nó hoàn toàn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The fish flipped and dived back into the water.",
+            "vi": "Con cá lộn lại và lặn xuống nước."
+        },
+        {
+            "en": "I ate very small fish for supper.",
+            "vi": "Tôi đã ăn cá rất nhỏ cho bữa tối."
+        }
+    ],
+    "words_form": [
+        "fished",
+        "fishes",
+        "fishing"
+    ],
+    "meaning_vi": "Con cá"
+}

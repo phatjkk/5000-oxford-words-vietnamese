@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/lɔn(t)ʃ/",
+        "/lɑn(t)ʃ/"
+    ],
+    "synonyms": [
+        "introduce",
+        "launches",
+        "start",
+        "cabin-cruiser",
+        "pitch"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To begin a new venture or phase; embark.",
+            "vi": "Để bắt đầu một liên doanh hoặc giai đoạn mới; tham gia."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of launching.",
+            "vi": "Hành động tung ra."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of vehicles, facilities, sites, etc. used in the launching of spacecraft or missiles.",
+            "vi": "Chỉ định hoặc các phương tiện, cơ sở, địa điểm, v.v. được sử dụng để phóng tàu vũ trụ hoặc tên lửa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He'd gone still, like a panther about to launch itself.",
+            "vi": "Anh ta vẫn đứng yên, giống như một con báo sắp phóng mình."
+        },
+        {
+            "en": "When close to he was detected, but he had time to drive the steam launch over the baulks and to explode the torpedo against the \"Albemarle\" with such success that a hole was made in her and she sank.",
+            "vi": "Khi đến gần anh ta đã bị phát hiện, nhưng anh ta có thời gian để lái hơi nước phóng qua các baulks và cho nổ ngư lôi chống lại \"Albemarle\" thành công đến nỗi một lỗ hổng được tạo ra trên người cô ấy và cô ấy bị chìm."
+        }
+    ],
+    "words_form": [
+        "launched",
+        "launches",
+        "launching"
+    ],
+    "meaning_vi": "khởi động"
+}

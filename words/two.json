@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/tu/"
+    ],
+    "synonyms": [
+        "both",
+        "dual",
+        "pair",
+        "ii",
+        "twin"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Two is defined as the number equal to the sum of one plus one.",
+            "vi": "Hai được định nghĩa là số bằng tổng của một cộng với một."
+        },
+        {
+            "pos": "adjective",
+            "en": "Totaling one more than one.",
+            "vi": "Tổng cộng một nhiều hơn một."
+        },
+        {
+            "pos": "prefix",
+            "en": "A prefix meaning \"two\" or \"double\", same as bi-.",
+            "vi": "Tiền tố có nghĩa là \"hai\" hoặc \"kép\", giống như bi-."
+        },
+        {
+            "pos": "idiom",
+            "en": "in two  Into two separate parts; in half: Cut the sandwich in two.",
+            "vi": "thành hai thành hai phần riêng biệt; làm đôi: Cắt đôi chiếc bánh mì sandwich."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They had two adopted children already.",
+            "vi": "Họ đã có hai con nuôi rồi."
+        },
+        {
+            "en": "Two children, brother and sister, were on their way to school.",
+            "vi": "Hai đứa trẻ, anh trai và em gái, đang trên đường đến trường."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "số hai"
+}

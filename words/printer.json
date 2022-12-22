@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈprɪn(t)ər/"
+    ],
+    "synonyms": [
+        "machine",
+        "inkjets",
+        "compositor",
+        "typesetter",
+        "typographer"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a printer is a machine used to transfer text or images to paper, or a person or company whose job it is to produce text or images on paper.",
+            "vi": "Định nghĩa của máy in là một máy được sử dụng để chuyển văn bản hoặc hình ảnh sang giấy, hoặc một người hoặc công ty có công việc là tạo ra văn bản hoặc hình ảnh trên giấy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This printer is purely mechanical, and its speed is very high.",
+            "vi": "Máy in này hoàn toàn là cơ khí và tốc độ của nó rất cao."
+        },
+        {
+            "en": "He was a master printer and an artist of the first order.",
+            "vi": "Anh ấy là một thợ in bậc thầy và là một nghệ nhân của đơn hàng đầu tiên."
+        }
+    ],
+    "words_form": [
+        "printers"
+    ],
+    "meaning_vi": "máy in"
+}

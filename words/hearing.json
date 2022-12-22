@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈhɪrɪŋ/"
+    ],
+    "synonyms": [
+        "listening",
+        "admittance",
+        "recording",
+        "inquest",
+        "council"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Hearing is defined as the sense that perceives sound and the process by which sound is perceived.",
+            "vi": "Thính giác được định nghĩa là giác quan nhận biết âm thanh và quá trình cảm nhận âm thanh."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of hear.",
+            "vi": "Hiện tại phân từ nghe."
+        },
+        {
+            "pos": "adjective",
+            "en": "Able to hear.",
+            "vi": "Có khả năng nghe."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maybe she wasn't hearing him right.",
+            "vi": "Có lẽ cô ấy không nghe đúng anh ấy."
+        },
+        {
+            "en": "Hearing his voice did something to hers.",
+            "vi": "Nghe giọng nói của anh ấy đã làm gì đó với cô ấy."
+        }
+    ],
+    "words_form": [
+        "hearings"
+    ],
+    "meaning_vi": "thính giác"
+}

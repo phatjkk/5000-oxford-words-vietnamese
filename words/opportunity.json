@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌɑpərˈt(j)unədi/"
+    ],
+    "synonyms": [
+        "chance",
+        "fortuity",
+        "luck",
+        "event",
+        "probability"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an opportunity is an favorable situation for a positive outcome.",
+            "vi": "Định nghĩa về cơ hội là một tình huống thuận lợi cho một kết quả tích cực."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A Mars exploration rover that landed January 24, 2004.",
+            "vi": "Một tàu thám hiểm sao Hỏa hạ cánh ngày 24 tháng 1 năm 2004."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was the perfect opportunity to test her theory.",
+            "vi": "Đó là cơ hội hoàn hảo để kiểm tra lý thuyết của cô ấy."
+        },
+        {
+            "en": "This was a good opportunity to leave.",
+            "vi": "Đây là một cơ hội tốt để rời đi."
+        }
+    ],
+    "words_form": [
+        "opportunities"
+    ],
+    "meaning_vi": "cơ hội"
+}

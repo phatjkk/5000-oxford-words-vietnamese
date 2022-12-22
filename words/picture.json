@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈpɪk(t)ʃər/"
+    ],
+    "synonyms": [
+        "photo",
+        "photograph",
+        "spectacle",
+        "icon",
+        "print"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Picture is defined as to capture or create an image of a person or object or scene or to visualize something.",
+            "vi": "Hình ảnh được định nghĩa là để chụp hoặc tạo ra hình ảnh của một người hoặc vật thể hoặc cảnh hoặc để hình dung một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "A person, object, or scene that typifies or embodies an emotion, state of mind, or mood.",
+            "vi": "Một người, đồ vật hoặc cảnh tiêu biểu hoặc thể hiện một cảm xúc, trạng thái của tâm trí hoặc tâm trạng."
+        },
+        {
+            "pos": "idiom",
+            "en": "in (or out of) the picture  considered (or not considered) as involved in a situation",
+            "vi": "trong (hoặc ngoài) bức tranh được coi là (hoặc không được coi là) có liên quan đến một tình huống"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was a picture taken at the party and the focus was on Carmen and Alex.",
+            "vi": "Đó là một bức ảnh được chụp tại bữa tiệc và tâm điểm là Carmen và Alex."
+        },
+        {
+            "en": "I saw his picture on your refrigerator.",
+            "vi": "Tôi đã thấy hình ảnh của anh ấy trên tủ lạnh của bạn."
+        }
+    ],
+    "words_form": [
+        "pictured",
+        "pictures",
+        "picturing"
+    ],
+    "meaning_vi": "hình ảnh"
+}

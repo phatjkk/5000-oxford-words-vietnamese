@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/bəˈlɔŋ/"
+    ],
+    "synonyms": [
+        "appertain",
+        "pertain",
+        "go",
+        "associate",
+        "bear-upon"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To belong is defined as being a member, to fit in or be suitable for.",
+            "vi": "Thuộc về được định nghĩa là một thành viên, để hòa nhập hoặc phù hợp với."
+        },
+        {
+            "pos": "preposition",
+            "en": "(Australian Aboriginal‎, optionally followed by to) Of, belonging to.",
+            "vi": "(Thổ dân Úc, tùy chọn theo sau là) Của, thuộc về."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The baby didn't belong to Joseph.",
+            "vi": "Đứa bé không thuộc về Joseph."
+        },
+        {
+            "en": "I want to go to a place where I can settle with my family and feel we truly belong to the community.",
+            "vi": "Tôi muốn đến một nơi mà tôi có thể định cư cùng gia đình và cảm thấy chúng tôi thực sự thuộc về cộng đồng."
+        }
+    ],
+    "words_form": [
+        "belonged",
+        "belonging",
+        "belongs"
+    ],
+    "meaning_vi": "thuộc về"
+}

@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ɡroʊ/"
+    ],
+    "synonyms": [
+        "flourish",
+        "expand",
+        "thrive",
+        "progress",
+        "branch-out"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(copulative) To assume a condition or quality over time.",
+            "vi": "(đối chiếu) Để giả định một điều kiện hoặc chất lượng theo thời gian."
+        },
+        {
+            "pos": "idiom",
+            "en": "grow out of  To develop or come into existence from: An article that grew out of a few scribbled notes.",
+            "vi": "phát triển ra khỏi Để phát triển hoặc ra đời từ: Một bài báo phát triển từ một vài ghi chú nguệch ngoạc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They all grow up.",
+            "vi": "Tất cả đều lớn lên."
+        },
+        {
+            "en": "I want to grow old with him.",
+            "vi": "Tôi muốn cùng anh ấy già đi."
+        }
+    ],
+    "words_form": [
+        "grew",
+        "growing",
+        "grown",
+        "grows"
+    ],
+    "meaning_vi": "lớn lên"
+}

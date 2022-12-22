@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/pleɪn/"
+    ],
+    "synonyms": [
+        "level",
+        "jet",
+        "flat",
+        "smooth",
+        "spaceship"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A flat or level surface.",
+            "vi": "Một bề mặt phẳng hoặc bằng phẳng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Flat; level; even.",
+            "vi": "Bằng phẳng; cấp độ; thậm chí."
+        },
+        {
+            "pos": "verb",
+            "en": "To rise partly out of the water while in motion at high speed, as a hydroplane does.",
+            "vi": "Để nhô lên khỏi mặt nước một phần khi đang chuyển động ở tốc độ cao, như một thủy phi cơ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll make a plane reservation.",
+            "vi": "Tôi sẽ đặt chỗ máy bay."
+        },
+        {
+            "en": "I'm still not going to watch your plane leave.",
+            "vi": "Tôi vẫn sẽ không nhìn máy bay của bạn rời đi."
+        }
+    ],
+    "words_form": [
+        "planed",
+        "planer",
+        "planes",
+        "planing"
+    ],
+    "meaning_vi": "máy bay"
+}

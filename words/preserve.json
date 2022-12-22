@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/prəˈzərv/"
+    ],
+    "synonyms": [
+        "protect",
+        "conserve",
+        "save",
+        "put down",
+        "secure"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To preserve is to protect or keep something as it is or in its original state.",
+            "vi": "Bảo quản là bảo vệ hoặc giữ một cái gì đó nguyên trạng hoặc ở trạng thái ban đầu."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a preserve is a place where animals are cared for in order to lengthen their lives, or a fruit preserved in large chunks.",
+            "vi": "Định nghĩa về khu bảo tồn là nơi động vật được chăm sóc để kéo dài tuổi thọ của chúng, hoặc trái cây được bảo quản thành khối lớn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He wanted to protect her and preserve her innocence.",
+            "vi": "Anh muốn bảo vệ cô và giữ gìn sự trong trắng của cô."
+        },
+        {
+            "en": "It still depends on Your Majesty to preserve humanity from the calamity of another war.",
+            "vi": "Việc bảo tồn nhân loại khỏi thảm họa của một cuộc chiến khác vẫn phụ thuộc vào Bệ hạ."
+        }
+    ],
+    "words_form": [
+        "preserved",
+        "preserves",
+        "preserving"
+    ],
+    "meaning_vi": "bảo tồn"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/bəˈlun/"
+    ],
+    "synonyms": [
+        "aircraft",
+        "project",
+        "airship",
+        "dirigible",
+        "zeppelin"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A balloon payment.",
+            "vi": "Thanh toán bằng bong bóng."
+        },
+        {
+            "pos": "verb",
+            "en": "To ascend or ride in a balloon.",
+            "vi": "Đi lên hoặc cưỡi trên khinh khí cầu."
+        },
+        {
+            "pos": "adjective",
+            "en": "Suggestive of a balloon, as in shape.",
+            "vi": "Gợi ý về một quả bóng bay, như trong hình dạng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Visit the Grand Canyon, travel to Scotland, hot air balloon ride.",
+            "vi": "Tham quan Grand Canyon, du lịch Scotland, đi khinh khí cầu."
+        },
+        {
+            "en": "Also I began to make balloon ascensions.",
+            "vi": "Ngoài ra, tôi bắt đầu thực hiện thăng hoa bằng khinh khí cầu."
+        }
+    ],
+    "words_form": [
+        "ballooned",
+        "ballooning",
+        "balloons"
+    ],
+    "meaning_vi": "quả bóng"
+}

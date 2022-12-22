@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/dɪsk/"
+    ],
+    "synonyms": [
+        "floppy disk",
+        "floppy",
+        "hard disk",
+        "platter",
+        "disc"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A thin, flat, circular object or plate.",
+            "vi": "Một vật hoặc tấm mỏng, phẳng, hình tròn."
+        },
+        {
+            "pos": "verb",
+            "en": "To work (soil) with a disk harrow.",
+            "vi": "Để làm việc (đất) bằng bừa đĩa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The ovary, of two carpels, is seated on a ring-like disk FIG.",
+            "vi": "Buồng trứng, gồm hai lá noãn, nằm trên một đĩa giống như chiếc nhẫn."
+        },
+        {
+            "en": "To explode the charge an iron weight, known as a go-devil, was dropped into the well, and striking the disk exploded the cap and fired the torpedo.",
+            "vi": "Để phát nổ điện tích, một quả nặng bằng sắt, được gọi là go-devil, được thả xuống giếng, và đập vào chiếc đĩa làm nổ nắp và bắn ra ngư lôi."
+        }
+    ],
+    "words_form": [
+        "discs",
+        "disks"
+    ],
+    "meaning_vi": "đĩa"
+}

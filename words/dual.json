@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈd(j)uəl/"
+    ],
+    "synonyms": [
+        "coupled",
+        "twofold",
+        "double",
+        "duplex",
+        "duplicate"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having a double character or purpose.",
+            "vi": "Có một nhân vật hoặc mục đích kép."
+        },
+        {
+            "pos": "noun",
+            "en": "The dual number.",
+            "vi": "Số kép."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was dark, the dual moons high in the sky.",
+            "vi": "Trời đã tối, hai mặt trăng cao trên bầu trời."
+        },
+        {
+            "en": "Clever. It serves a dual purpose.",
+            "vi": "Thông minh. Nó phục vụ một mục đích kép."
+        }
+    ],
+    "words_form": [
+        "duals"
+    ],
+    "meaning_vi": "hai"
+}

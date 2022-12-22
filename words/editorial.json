@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌɛdəˈtɔriəl/"
+    ],
+    "synonyms": [
+        "essay",
+        "commentary",
+        "column",
+        "article",
+        "exposition"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of editorial is something related to the content in a newspaper or magazine or something written by an editor.",
+            "vi": "Định nghĩa của biên tập là một cái gì đó liên quan đến nội dung trong một tờ báo hoặc tạp chí hoặc một cái gì đó được viết bởi một biên tập viên."
+        },
+        {
+            "pos": "noun",
+            "en": "A commentary on television or radio expressing the opinion of the station or network.",
+            "vi": "Bài bình luận trên truyền hình hoặc đài phát thanh thể hiện quan điểm của đài hoặc mạng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The Elohim psalms, then, have undergone a common editorial treatment, distinguishing them from the rest of the Psalter.",
+            "vi": "Do đó, các Thi thiên Elohim đã trải qua một cách xử lý biên tập chung, phân biệt chúng với phần còn lại của Thi thiên."
+        },
+        {
+            "en": "The local paper wrote an editorial showing pride in the status.",
+            "vi": "Tờ báo địa phương đã viết một bài xã luận thể hiện niềm tự hào về tình trạng này."
+        }
+    ],
+    "words_form": [
+        "editorials"
+    ],
+    "meaning_vi": "biên tập"
+}

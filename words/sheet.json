@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/ʃit/"
+    ],
+    "synonyms": [
+        "rope",
+        "covering",
+        "bedding",
+        "bed linen",
+        "rag"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A broad rectangular piece of fabric serving as a basic article of bedding.",
+            "vi": "Một mảnh vải hình chữ nhật rộng dùng như một mặt hàng cơ bản của bộ đồ giường."
+        },
+        {
+            "pos": "verb",
+            "en": "Sheet is defined as to cover with or give a covering.",
+            "vi": "Trang tính được định nghĩa là để che phủ hoặc cung cấp cho một lớp phủ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Being in the form of a sheet.",
+            "vi": "Ở dạng trang tính."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) three sheets to  Intoxicated; drunk.",
+            "vi": "(không chính thức) ba tờ để Say sưa; say."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He tore a sheet of paper from Fred's pad and scribbled the number.",
+            "vi": "Anh ta xé một tờ giấy từ tập giấy của Fred và viết nguệch ngoạc con số."
+        },
+        {
+            "en": "Maybe 'metalman' is some sheet metal worker or some heavy metal rocker.",
+            "vi": "Có thể 'thợ kim loại' là một số công nhân kim loại tấm hoặc một người thợ đúc kim loại nặng nào đó."
+        }
+    ],
+    "words_form": [
+        "sheeted",
+        "sheets"
+    ],
+    "meaning_vi": "tờ"
+}

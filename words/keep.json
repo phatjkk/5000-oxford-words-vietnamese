@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kip/"
+    ],
+    "synonyms": [
+        "retain",
+        "restrain",
+        "run",
+        "deposit",
+        "abide"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To have or hold and not let go.  To hold in custody; prevent from escaping. To prevent from leaving; detain. To hold back; restrain. To keep someone from talking.To withhold. To conceal; not tell (a secret, etc.) To continue to have or hold; not lose or give up. To stay in or at; not leave (a path, course, or place)",
+            "vi": "Để có hoặc nắm giữ và không buông bỏ. Tạm giữ; ngăn không cho thoát ra ngoài. Để ngăn chặn việc rời đi; giam. Để giữ lại; kiềm chế. Để ngăn ai đó nói chuyện. Để che giấu; không nói (một bí mật, v.v.) Để tiếp tục có hoặc nắm giữ; không thua hoặc bỏ cuộc. Để ở hoặc tại; không rời (một con đường, khóa học hoặc địa điểm)"
+        },
+        {
+            "pos": "noun",
+            "en": "Care; charge.",
+            "vi": "Quan tâm; sạc điện."
+        },
+        {
+            "pos": "idiom",
+            "en": "for keeps  For an indefinitely long period: Gave the ring to me for keeps.Seriously and permanently: We're separating for keeps.",
+            "vi": "để lưu giữ Trong một khoảng thời gian dài vô hạn: Đưa chiếc nhẫn cho tôi để giữ. Nghiêm túc và vĩnh viễn: Chúng tôi đang tách ra để giữ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They can't keep her temperature down.",
+            "vi": "Họ không thể giữ nhiệt độ của cô ấy xuống."
+        },
+        {
+            "en": "I can see why you wanted to keep this a secret.",
+            "vi": "Tôi có thể hiểu tại sao bạn muốn giữ bí mật này."
+        }
+    ],
+    "words_form": [
+        "keeping",
+        "keeps",
+        "kept"
+    ],
+    "meaning_vi": "giữ"
+}

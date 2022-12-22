@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈæmbjələns/"
+    ],
+    "synonyms": [
+        "firefighter",
+        "paramedics",
+        "paramedic",
+        "emergency",
+        "police"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an ambulance is a vehicle that is used for the transportation of ill or injured individuals to a hospital or other medical facility.",
+            "vi": "Định nghĩa về xe cứu thương là một phương tiện được sử dụng để vận chuyển những người bị bệnh hoặc bị thương đến bệnh viện hoặc cơ sở y tế khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Somewhere a few blocks away, an ambulance wailed.",
+            "vi": "Một nơi nào đó cách đó vài dãy nhà, một chiếc xe cấp cứu kêu gào."
+        },
+        {
+            "en": "There are land and river ambulance services.",
+            "vi": "Có dịch vụ cứu thương đường bộ và đường sông."
+        }
+    ],
+    "words_form": [
+        "ambulances"
+    ],
+    "meaning_vi": "xe cứu thương"
+}

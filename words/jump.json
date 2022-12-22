@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/dʒəmp/"
+    ],
+    "synonyms": [
+        "leaping",
+        "leap",
+        "skip",
+        "plunge",
+        "hopping"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(computers) To move from one set of instructions in a program to another out of sequence.",
+            "vi": "(máy tính) Để chuyển từ một tập hợp các lệnh trong một chương trình sang một chương trình khác không theo trình tự."
+        },
+        {
+            "pos": "noun",
+            "en": "A descent from an aircraft by parachute.",
+            "vi": "Một cú nhảy dù xuống từ máy bay."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a style of jazz music characterized by recurrent short riffs and a strong, fast beat.",
+            "vi": "Chỉ định hoặc một phong cách nhạc jazz được đặc trưng bởi các đoạn ngắn lặp đi lặp lại và nhịp nhanh, mạnh."
+        },
+        {
+            "pos": "adverb",
+            "en": "(obsolete) Exactly; precisely.",
+            "vi": "(lỗi thời) Chính xác; đúng."
+        },
+        {
+            "pos": "idiom",
+            "en": "jump bail  To fail to appear in court after having been released on bail.",
+            "vi": "nhảy tại ngoại Không ra hầu tòa sau khi được tại ngoại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Bison can jump six feet high.",
+            "vi": "Bison có thể nhảy cao sáu feet."
+        },
+        {
+            "en": "It could jump up and charge you.",
+            "vi": "Nó có thể nhảy lên và tính phí bạn."
+        }
+    ],
+    "words_form": [
+        "jumped",
+        "jumping",
+        "jumps"
+    ],
+    "meaning_vi": "nhảy"
+}

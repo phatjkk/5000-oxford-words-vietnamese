@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/faɪl/"
+    ],
+    "synonyms": [
+        "folder",
+        "categorize",
+        "organizer",
+        "pigeonhole",
+        "repository"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "File means to put important papers away in an orderly way.",
+            "vi": "Tệp có nghĩa là sắp xếp các giấy tờ quan trọng một cách có trật tự."
+        },
+        {
+            "pos": "noun",
+            "en": "A collection of papers or published materials kept or arranged in convenient order.",
+            "vi": "Tập hợp các bài báo hoặc tài liệu đã xuất bản được lưu giữ hoặc sắp xếp theo thứ tự thuận tiện."
+        },
+        {
+            "pos": "idiom",
+            "en": "on file  In or as if in a file for easy reference: We will keep your résumé on file.",
+            "vi": "trên hồ sơ Trong hoặc như thể trong một tập tin để dễ dàng tham khảo: Chúng tôi sẽ lưu bản lý lịch của bạn trong hồ sơ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Your file was locked.",
+            "vi": "Tệp của bạn đã bị khóa."
+        },
+        {
+            "en": "He tossed a file to Dean.",
+            "vi": "Anh ta ném một tập tài liệu cho Dean."
+        }
+    ],
+    "words_form": [
+        "filed",
+        "files",
+        "filing"
+    ],
+    "meaning_vi": "Hồ sơ, tập tin, cái giũa (móng),"
+}

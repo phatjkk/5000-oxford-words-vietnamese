@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/maɪld/"
+    ],
+    "synonyms": [
+        "smooth",
+        "gentle",
+        "moderate",
+        "light",
+        "tepid"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of mild is a moderate, pleasant or gentle person, thing or flavor.",
+            "vi": "Định nghĩa của nhẹ là một người, vật hoặc hương vị vừa phải, dễ chịu hoặc nhẹ nhàng."
+        },
+        {
+            "pos": "noun",
+            "en": "(UK) A relatively low-gravity beer, often with a dark colour; mild ale.",
+            "vi": "(Anh) Là loại bia có trọng lượng tương đối thấp, thường có màu sẫm; ale nhẹ."
+        },
+        {
+            "pos": "verb",
+            "en": "(texas & virginia) To diminish or decrease. Used of the wind or a storm.",
+            "vi": "(texas & virginia) Để giảm bớt hoặc giảm dần. Được sử dụng bởi gió hoặc một cơn bão."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The day was sunny and mild – a perfect day for riding.",
+            "vi": "Ngày nắng nhẹ - một ngày hoàn hảo để cưỡi ngựa."
+        },
+        {
+            "en": "Gerald eyed him with mild amusement.",
+            "vi": "Gerald nhìn anh ta với vẻ thích thú nhẹ nhàng."
+        }
+    ],
+    "words_form": [
+        "mildest",
+        "milds"
+    ],
+    "meaning_vi": "nhẹ"
+}

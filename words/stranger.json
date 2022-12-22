@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈstreɪndʒər/"
+    ],
+    "synonyms": [
+        "outsider",
+        "foreigner",
+        "alien",
+        "itinerant",
+        "acquaintance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One who is neither a friend nor an acquaintance.",
+            "vi": "Một người không phải là bạn cũng không phải là người quen."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To estrange; to alienate.",
+            "vi": "(lỗi thời) Để ghẻ lạnh; xa lánh."
+        },
+        {
+            "pos": "adjective",
+            "en": "Comparative form of strange: more strange.",
+            "vi": "Hình thức so sánh của lạ: lạ hơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The hidden stranger lashed out at him.",
+            "vi": "Kẻ lạ mặt giấu diếm đả kích anh."
+        },
+        {
+            "en": "Who was this stranger and what had he done with sweet Alex?",
+            "vi": "Người lạ này là ai và anh ta đã làm gì với Alex ngọt ngào?"
+        }
+    ],
+    "words_form": [
+        "strangers"
+    ],
+    "meaning_vi": "người lạ"
+}

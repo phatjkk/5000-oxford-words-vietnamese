@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/kəmˈpjudər/"
+    ],
+    "synonyms": [
+        "data processor",
+        "workstation",
+        "computing machine",
+        "analog-computer",
+        "minicomputer"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a computer is a person or electronic device that makes and stores quick calculations or processes information.",
+            "vi": "Định nghĩa của máy tính là một người hoặc thiết bị điện tử thực hiện và lưu trữ các phép tính hoặc xử lý thông tin nhanh chóng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A computer can do some tasks better than a person can.",
+            "vi": "Một máy tính có thể thực hiện một số nhiệm vụ tốt hơn một người có thể."
+        },
+        {
+            "en": "I haven't been near a computer since before I left.",
+            "vi": "Tôi đã không ở gần máy tính kể từ trước khi tôi đi."
+        }
+    ],
+    "words_form": [
+        "computers"
+    ],
+    "meaning_vi": "máy vi tính"
+}

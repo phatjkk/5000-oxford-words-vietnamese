@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈwɜːkʃɒp/"
+    ],
+    "synonyms": [
+        "laboratory",
+        "mill",
+        "plant",
+        "studio",
+        "foundry"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A room or building where work, as home repairs or light manufacturing, is done.",
+            "vi": "Tổng số công nhân đang làm việc tại một quốc gia, khu vực, nhà máy, v.v."
+        },
+        {
+            "pos": "verb",
+            "en": "To create or revise (a drama or literary work) based on suggestions or criticism from a group of collaborators.",
+            "vi": "Một địa điểm, chẳng hạn như văn phòng hoặc nhà máy, nơi mọi người đang làm việc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Thomas Bunyan had a forge and workshop at Elstow.",
+            "vi": "Thomas Bunyan đã có một xưởng rèn và xưởng tại Elstow."
+        },
+        {
+            "en": "His residence was generally divided into two parts - one his workshop for science, the other his reception-room for society.",
+            "vi": "Nơi ở của ông thường được chia thành hai phần - một khu xưởng dành cho khoa học, phần còn lại là phòng tiếp khách dành cho xã hội."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "A room or building where work, as home repairs or light manufacturing, is done.",
+            "vi": "Tổng số công nhân đang làm việc tại một quốc gia, khu vực, nhà máy, v.v."
+        },
+        {
+            "pos": "verb",
+            "en": "To create or revise (a drama or literary work) based on suggestions or criticism from a group of collaborators.",
+            "vi": "Một địa điểm, chẳng hạn như văn phòng hoặc nhà máy, nơi mọi người đang làm việc."
+        }
+    ]
+}

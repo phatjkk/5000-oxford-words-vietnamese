@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/mɪlk/"
+    ],
+    "synonyms": [
+        "juice",
+        "extract",
+        "liquid",
+        "squeeze-out",
+        "fluid"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A whitish liquid containing proteins, fats, lactose, and various vitamins and minerals that is produced by the mammary glands of all mature female mammals after they have given birth and serves as nourishment for their young.",
+            "vi": "Một chất lỏng màu trắng có chứa protein, chất béo, lactose, và các vitamin và khoáng chất khác nhau được sản xuất bởi các tuyến vú của tất cả các động vật có vú cái trưởng thành sau khi chúng sinh ra và dùng làm chất dinh dưỡng cho con non của chúng."
+        },
+        {
+            "pos": "verb",
+            "en": "To draw milk from a female mammal.",
+            "vi": "Để hút sữa từ một động vật có vú cái."
+        },
+        {
+            "pos": "adjective",
+            "en": "Giving milk; kept for milking.",
+            "vi": "Cho sữa; giữ để vắt sữa."
+        },
+        {
+            "pos": "idiom",
+            "en": "milk it  To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.",
+            "vi": "Sữa nó Để tận dụng sự giúp đỡ hoặc lòng tốt của người khác, như khi một người hành động như thể một người vẫn cần được giúp đỡ sau khi khỏi bệnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maybe a glass of milk would help.",
+            "vi": "Có lẽ một ly sữa sẽ hữu ích."
+        },
+        {
+            "en": "She can drink milk like a real baby.",
+            "vi": "Cô ấy có thể uống sữa như một đứa trẻ thực sự."
+        }
+    ],
+    "words_form": [
+        "milked",
+        "milking",
+        "milks"
+    ],
+    "meaning_vi": "sữa"
+}

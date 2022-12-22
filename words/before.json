@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/bəˈfɔr/"
+    ],
+    "synonyms": [
+        "previously",
+        "earlier",
+        "preceding",
+        "after",
+        "already"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "Previous to in time; earlier than.",
+            "vi": "Trước đến trong thời gian; sớm hơn."
+        },
+        {
+            "pos": "adverb",
+            "en": "In front; ahead.",
+            "vi": "Ở phía trước; phía trước."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Rather than; sooner than.",
+            "vi": "Còn hơn là; sớm hơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Let's go do the chores one last time before we leave.",
+            "vi": "Hãy đi làm công việc nhà lần cuối trước khi đi."
+        },
+        {
+            "en": "Night came on before he had finished it.",
+            "vi": "Đêm đến trước khi anh ấy hoàn thành nó."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "trước đây"
+}

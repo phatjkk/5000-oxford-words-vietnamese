@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əkˈsɛpt/"
+    ],
+    "synonyms": [
+        "believe",
+        "acquire",
+        "acknowledge",
+        "receive",
+        "comme il faut"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of accept means to willingly take, receive or agree to an object or idea.",
+            "vi": "Định nghĩa của chấp nhận có nghĩa là sẵn sàng nhận, nhận hoặc đồng ý với một đối tượng hoặc ý tưởng."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Accepted.",
+            "vi": "(lỗi thời) Được chấp nhận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Give her a little time to accept the idea.",
+            "vi": "Hãy cho cô ấy một chút thời gian để chấp nhận ý tưởng."
+        },
+        {
+            "en": "Sometimes we have to accept change, if we want to move forward.",
+            "vi": "Đôi khi chúng ta phải chấp nhận sự thay đổi, nếu chúng ta muốn tiến về phía trước."
+        }
+    ],
+    "words_form": [
+        "accepted",
+        "accepting",
+        "accepts"
+    ],
+    "meaning_vi": "chấp nhận, chấp thuận"
+}

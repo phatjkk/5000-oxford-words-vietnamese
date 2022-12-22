@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/pɔz/"
+    ],
+    "synonyms": [
+        "steadiness",
+        "breather",
+        "interlude",
+        "breath",
+        "lapse"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a pause is a temporary stop or rest.",
+            "vi": "Định nghĩa của tạm dừng là sự dừng lại hoặc nghỉ ngơi tạm thời."
+        },
+        {
+            "pos": "verb",
+            "en": "To pause is defined as to stop for a brief period of time.",
+            "vi": "Tạm dừng được định nghĩa là dừng trong một khoảng thời gian ngắn."
+        },
+        {
+            "pos": "suffix",
+            "en": "Indicative of a pause or discontinuance.",
+            "vi": "Biểu thị sự tạm dừng hoặc ngừng hoạt động."
+        },
+        {
+            "pos": "idiom",
+            "en": "give someone pause  to make someone hesitant or uncertain",
+            "vi": "cho ai đó tạm dừng để làm cho ai đó do dự hoặc không chắc chắn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Pause here to take a breath.",
+            "vi": "Tạm dừng ở đây để hít thở."
+        },
+        {
+            "en": "It also revealed something that gave her pause for thought.",
+            "vi": "Nó cũng tiết lộ điều gì đó khiến cô ấy phải dừng lại để suy nghĩ."
+        }
+    ],
+    "words_form": [
+        "paused",
+        "pauses",
+        "pausing"
+    ],
+    "meaning_vi": "tạm dừng"
+}

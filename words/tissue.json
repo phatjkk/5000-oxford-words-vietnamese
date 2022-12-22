@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈtɪʃu/"
+    ],
+    "synonyms": [
+        "connective-tissue",
+        "gauze",
+        "sheaf",
+        "series",
+        "gossamer"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of tissue is group of cells, or an absorbent paper, or thin paper used for wrapping gifts.",
+            "vi": "Định nghĩa của khăn giấy là một nhóm các tế bào, hoặc một loại giấy thấm, hoặc giấy mỏng được sử dụng để gói quà."
+        },
+        {
+            "pos": "verb",
+            "en": "To cover with tissue.",
+            "vi": "Để che bằng khăn giấy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The whole of the tissue of the plant is formed by the division of this apical cell.",
+            "vi": "Toàn bộ mô của cây được hình thành do sự phân chia của tế bào đỉnh này."
+        },
+        {
+            "en": "You were lucky and there was no torn tissue or fractures.",
+            "vi": "Bạn đã may mắn và không có mô bị rách hoặc gãy xương."
+        }
+    ],
+    "words_form": [
+        "tissued",
+        "tissues",
+        "tissuing"
+    ],
+    "meaning_vi": "khăn giấy"
+}

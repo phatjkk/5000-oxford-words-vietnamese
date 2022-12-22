@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈpɑzədɪv/"
+    ],
+    "synonyms": [
+        "decisive",
+        "sure",
+        "limited",
+        "upbeat",
+        "peremptory"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a positive is a good thing, or a result greater than zero, or something that represents an affirmation.",
+            "vi": "Định nghĩa tích cực là một điều tốt, hoặc một kết quả lớn hơn 0, hoặc một cái gì đó đại diện cho một sự khẳng định."
+        },
+        {
+            "pos": "adjective",
+            "en": "Explicitly or openly expressed or laid down.",
+            "vi": "Thể hiện hoặc trình bày rõ ràng, công khai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm positive she didn't notice us the first time.",
+            "vi": "Tôi khẳng định rằng cô ấy đã không chú ý đến chúng tôi lần đầu tiên."
+        },
+        {
+            "en": "She had to adopt a positive attitude.",
+            "vi": "Cô ấy đã phải chấp nhận một thái độ tích cực."
+        }
+    ],
+    "words_form": [
+        "positives"
+    ],
+    "meaning_vi": "tích cực"
+}

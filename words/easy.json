@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈizi/"
+    ],
+    "synonyms": [
+        "simple",
+        "prosperous",
+        "comfortable",
+        "straightforward",
+        "yielding"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Free from worry, anxiety, trouble, or pain.",
+            "vi": "Không lo lắng, lo lắng, rắc rối, hoặc đau đớn."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a restrained or moderate manner.",
+            "vi": "Một cách hạn chế hoặc vừa phải."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) easy as pie  Capable of being accomplished or done with no difficulty.",
+            "vi": "(không chính thức) dễ dàng như chiếc bánh Có khả năng hoàn thành hoặc thực hiện không khó khăn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That's easy for you to say.",
+            "vi": "Bạn nói vậy thì dễ."
+        },
+        {
+            "en": "You make an easy target.",
+            "vi": "Bạn thực hiện một mục tiêu dễ dàng."
+        }
+    ],
+    "words_form": [
+        "easier",
+        "easiest"
+    ],
+    "meaning_vi": "dễ"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dʒus/"
+    ],
+    "synonyms": [
+        "sap",
+        "must",
+        "puree",
+        "spirit",
+        "succulence"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(slang) Political power or influence; clout.",
+            "vi": "(tiếng lóng) Quyền lực hoặc ảnh hưởng chính trị; quần áo."
+        },
+        {
+            "pos": "verb",
+            "en": "(informal) To add power, vigor, energy, etc. or interest, excitement, etc. to.",
+            "vi": "(không chính thức) Để thêm sức mạnh, sức sống, năng lượng, v.v. hoặc sự quan tâm, phấn khích, v.v. vào."
+        },
+        {
+            "pos": "acronym",
+            "en": "(space science, ESA) Acronym of Jupiter Icy Moons Explorer.",
+            "vi": "(khoa học vũ trụ, ESA) Từ viết tắt của Jupiter Icy Moons Explorer."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The evaporation of the juice to syrup point.",
+            "vi": "Sự bay hơi của nước trái cây đến điểm xirô."
+        },
+        {
+            "en": "He retrieved orange juice from the fridge.",
+            "vi": "Anh lấy nước cam từ tủ lạnh ra."
+        }
+    ],
+    "words_form": [
+        "juiced",
+        "juices",
+        "juicing"
+    ],
+    "meaning_vi": "nước ép"
+}

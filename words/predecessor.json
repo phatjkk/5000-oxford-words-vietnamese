@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈprɛdəˌsɛsər/",
+        "/ˈpridəˌsɛsər/"
+    ],
+    "synonyms": [
+        "ancestor",
+        "forerunner",
+        "forebear",
+        "precursor",
+        "forbear"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person who precedes or preceded another, as in office.",
+            "vi": "Một người đi trước hoặc đi trước người khác, như tại chức."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Your predecessor wasn't known for his sense of strategy.",
+            "vi": "Người tiền nhiệm của bạn không được biết đến với ý thức chiến lược."
+        },
+        {
+            "en": "You can thank my predecessor for that one.",
+            "vi": "Bạn có thể cảm ơn người tiền nhiệm của tôi vì điều đó."
+        }
+    ],
+    "words_form": [
+        "predecessors"
+    ],
+    "meaning_vi": "người tiền nhiệm"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈpərs(ə)n(ə)l/"
+    ],
+    "synonyms": [
+        "private",
+        "special",
+        "discretionary",
+        "secluded",
+        "intimate"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of or relating to a particular person; private.",
+            "vi": "Của hoặc liên quan đến một người cụ thể; riêng."
+        },
+        {
+            "pos": "noun",
+            "en": "A column in a newspaper or magazine featuring personal notices.",
+            "vi": "Một chuyên mục trên một tờ báo hoặc tạp chí có các thông báo cá nhân."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We all have a personal life.",
+            "vi": "Tất cả chúng ta đều có một cuộc sống riêng."
+        },
+        {
+            "en": "He was on a personal quest.",
+            "vi": "Anh ấy đang trong một nhiệm vụ cá nhân."
+        }
+    ],
+    "words_form": [
+        "personals"
+    ],
+    "meaning_vi": "cá nhân"
+}

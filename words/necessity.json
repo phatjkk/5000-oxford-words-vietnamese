@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/nəˈsɛsədi/"
+    ],
+    "synonyms": [
+        "essential",
+        "need",
+        "urgency",
+        "must",
+        "essentiality"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(law, in the plural) Indispensable requirements (of life).",
+            "vi": "(luật, ở số nhiều) Yêu cầu không thể thiếu (của cuộc sống)."
+        },
+        {
+            "pos": "idiom",
+            "en": "of necessity  As an inevitable consequence; necessarily.",
+            "vi": "của sự cần thiết Như một hệ quả tất yếu; nhất thiết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Now, I'm sure you see the necessity of doing exactly what I say.",
+            "vi": "Bây giờ, tôi chắc rằng bạn thấy sự cần thiết của việc làm đúng những gì tôi nói."
+        },
+        {
+            "en": "To her, a telephone was a necessity, not a convenience.",
+            "vi": "Đối với cô, điện thoại là một thứ cần thiết, không phải là một sự tiện lợi."
+        }
+    ],
+    "words_form": [
+        "necessities"
+    ],
+    "meaning_vi": "sự cần thiết"
+}

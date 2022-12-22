@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈwəri/"
+    ],
+    "synonyms": [
+        "chafe",
+        "distress",
+        "fret",
+        "disturb",
+        "apprehensive"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To feel uneasy or concerned about something; be troubled.",
+            "vi": "Cảm thấy bất an hoặc lo lắng về điều gì đó; gặp rắc rối."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a worry is something that causes you to feel uneasy or anxious, or a troubled state of mind.",
+            "vi": "Định nghĩa về sự lo lắng là một cái gì đó khiến bạn cảm thấy bất an hoặc lo lắng, hoặc một trạng thái tâm trí rắc rối."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) not to worry  There is nothing to worry about; there is no need to be concerned:",
+            "vi": "(không chính thức) không phải lo lắng Không có gì phải lo lắng; không cần phải lo lắng:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Don't worry; everything will work out fine.",
+            "vi": "Đừng lo lắng; mọi thứ sẽ diễn ra tốt đẹp."
+        },
+        {
+            "en": "Don't worry about him.",
+            "vi": "Đừng lo lắng về anh ta."
+        }
+    ],
+    "words_form": [
+        "worried",
+        "worries",
+        "worrying"
+    ],
+    "meaning_vi": "lo lắng"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ɡeɪt/"
+    ],
+    "synonyms": [
+        "portal",
+        "gateway",
+        "dam",
+        "entrance",
+        "staircase"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A mountain pass.",
+            "vi": "Một con đèo."
+        },
+        {
+            "pos": "verb",
+            "en": "(chiefly british) To confine (a student) to the grounds of a college as punishment.",
+            "vi": "(chủ yếu là người Anh) Để giam giữ (một sinh viên) trong khuôn viên của trường đại học như một hình phạt."
+        },
+        {
+            "pos": "suffix",
+            "en": "A scandal involving alleged illegal acts and often a cover-up, especially by government officials.",
+            "vi": "Một vụ bê bối liên quan đến các hành vi bất hợp pháp bị cáo buộc và thường là sự che đậy, đặc biệt là của các quan chức chính phủ."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) get the gate  To be dismissed or rejected.",
+            "vi": "(tiếng lóng) nhận được cổng Để bị loại bỏ hoặc bị từ chối."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He opened the gate for her and she went straight to his waiting arms.",
+            "vi": "Anh mở cổng cho cô và cô đi thẳng vào vòng tay chờ đợi của anh."
+        },
+        {
+            "en": "She opened the gate and stepped through.",
+            "vi": "Cô mở cổng và bước qua."
+        }
+    ],
+    "words_form": [
+        "gated",
+        "gates",
+        "gating"
+    ],
+    "meaning_vi": "cánh cổng"
+}

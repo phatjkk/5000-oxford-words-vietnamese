@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/læmp/"
+    ],
+    "synonyms": [
+        "lantern",
+        "light",
+        "arc",
+        "chandelier",
+        "davy"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a lamp is a device that produces light or a container for such a device.",
+            "vi": "Định nghĩa đèn là một thiết bị tạo ra ánh sáng hoặc một vật chứa cho một thiết bị đó."
+        },
+        {
+            "pos": "verb",
+            "en": "(slang, former) To look at.",
+            "vi": "(tiếng lóng, trước đây) Để xem xét."
+        },
+        {
+            "pos": "acronym",
+            "en": "(Internet) Linux, Apache, MySQL, and PHP — a popular combination of open source software for use as a web server.",
+            "vi": "(Internet) Linux, Apache, MySQL và PHP - sự kết hợp phổ biến của phần mềm nguồn mở để sử dụng làm máy chủ web."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You can still smell the lamp kerosene.",
+            "vi": "Bạn vẫn có thể ngửi thấy mùi dầu hỏa của đèn."
+        },
+        {
+            "en": "She reached up and turned on the lamp.",
+            "vi": "Cô với tay lên và bật đèn."
+        }
+    ],
+    "words_form": [
+        "lamps"
+    ],
+    "meaning_vi": "đèn"
+}

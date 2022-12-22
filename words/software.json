@@ -1,0 +1,27 @@
+{
+    "spelling": [
+        "/ˈsɔf(t)wɛr/"
+    ],
+    "synonyms": [
+        "computer software",
+        "hardware",
+        "software system",
+        "package",
+        "software program"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The programs, routines, and symbolic languages that control the functioning of the hardware and direct its operation.",
+            "vi": "Các chương trình, quy trình và ngôn ngữ biểu tượng kiểm soát hoạt động của phần cứng và chỉ đạo hoạt động của nó."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "See also software.",
+            "vi": "Xem thêm phần mềm."
+        }
+    ],
+    "sentences": [],
+    "words_form": [],
+    "meaning_vi": "phần mềm"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈraɪət/"
+    ],
+    "synonyms": [
+        "rioting",
+        "peace",
+        "calm",
+        "seriousness",
+        "cooperate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A wild or turbulent disturbance created by a large number of people.",
+            "vi": "Một sự xáo trộn hoang dã hoặc hỗn loạn được tạo ra bởi một số lượng lớn người."
+        },
+        {
+            "pos": "verb",
+            "en": "To riot is to take part in violent protests or disturbances or to act in an unrestrained or uncontrolled way.",
+            "vi": "Bạo loạn là tham gia vào các cuộc biểu tình bạo lực hoặc gây rối hoặc hành động một cách thiếu kiềm chế hoặc mất kiểm soát."
+        },
+        {
+            "pos": "idiom",
+            "en": "run riot  to run wild; act without restraint, control, or discipline to grow in luxuriance or profusion",
+            "vi": "chạy loạn chạy loạn; hành động mà không có sự kiềm chế, kiểm soát hoặc kỷ luật để phát triển một cách xa hoa hoặc lợi dụng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Skippy must have read her the riot act.",
+            "vi": "Chắc hẳn Skippy đã đọc được hành động bạo loạn của cô ấy."
+        },
+        {
+            "en": "There is no stopping to read the riot act, no firing over the heads of the mob, in this case.",
+            "vi": "Không ngừng đọc hành động bạo loạn, không bắn vào đầu đám đông, trong trường hợp này."
+        }
+    ],
+    "words_form": [
+        "rioted",
+        "rioting",
+        "riots"
+    ],
+    "meaning_vi": "bạo loạn"
+}

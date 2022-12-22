@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/ˈpɛni/"
+    ],
+    "synonyms": [
+        "copper",
+        "pinny",
+        "cent",
+        "dime",
+        "farthing"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A sum of money.",
+            "vi": "Một khoản tiền."
+        },
+        {
+            "pos": "affix",
+            "en": "Costing a (specified) number of pennies.",
+            "vi": "Chi phí một số xu (cụ thể)."
+        },
+        {
+            "pos": "verb",
+            "en": "(slang) To jam a door shut by inserting pennies between the doorframe and the door.",
+            "vi": "(tiếng lóng) Để đóng cửa kẹt bằng cách chèn các đồng xu vào giữa khung cửa và cánh cửa."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A diminutive of the female given name Penelope.",
+            "vi": "Một chi tiết nhỏ của người phụ nữ được đặt tên là Penelope."
+        },
+        {
+            "pos": "idiom",
+            "en": "pretty penny  A considerable sum of money: I paid a pretty penny for that ring.",
+            "vi": "khá xu Một khoản tiền đáng kể: Tôi đã trả một xu khá cho chiếc nhẫn đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You should see Penny and Snowflake.",
+            "vi": "Bạn sẽ thấy Penny và Snowflake."
+        },
+        {
+            "en": "Cynthia was troubled with a headache and tried to catch an extra half-hour of sleep as Dean served breakfast to the early risers, Penny, Mick and two of the other climbers.",
+            "vi": "Cynthia bị đau đầu và cố gắng ngủ thêm nửa tiếng khi Dean phục vụ bữa sáng cho những người dậy sớm, Penny, Mick và hai nhà leo núi khác."
+        }
+    ],
+    "words_form": [
+        "pence",
+        "pennies"
+    ],
+    "meaning_vi": "đồng xu"
+}

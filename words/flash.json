@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/flæʃ/"
+    ],
+    "synonyms": [
+        "glitter",
+        "glare",
+        "gleam",
+        "burst",
+        "glisten"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(slang) To think of or remember something suddenly.",
+            "vi": "(tiếng lóng) Để nghĩ hoặc nhớ điều gì đó đột ngột."
+        },
+        {
+            "pos": "noun",
+            "en": "A sudden, brief, intense display of light.",
+            "vi": "Một màn hình ánh sáng đột ngột, ngắn ngủi, cường độ cao."
+        },
+        {
+            "pos": "adjective",
+            "en": "Happening suddenly or very quickly.",
+            "vi": "Xảy ra đột ngột hoặc rất nhanh."
+        },
+        {
+            "pos": "adverb",
+            "en": "Quickly, esp. by means of an intense application of some process, as heating or cooling.",
+            "vi": "Nhanh lên, đặc biệt. bằng cách áp dụng mạnh mẽ một số quá trình, như làm nóng hoặc làm mát."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(computing, trademark) A popular multimedia platform, most often used for adding animation and interactivity to webpages.",
+            "vi": "(máy tính, nhãn hiệu) Một nền tảng đa phương tiện phổ biến, thường được sử dụng để thêm hoạt ảnh và tính tương tác vào các trang web."
+        },
+        {
+            "pos": "idiom",
+            "en": "flash in the pan  One that promises great success but fails.",
+            "vi": "flash in the pan Một hứa hẹn thành công lớn nhưng không thành công."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "One screen was a flash of colors and shapes.",
+            "vi": "Một màn hình là một chớp sáng của màu sắc và hình dạng."
+        },
+        {
+            "en": "The room lit up with a bright flash of lightening, and thunder rattled the windowpane.",
+            "vi": "Căn phòng bừng sáng với một tia sáng rực rỡ, và sấm sét làm rung chuyển khung cửa sổ."
+        }
+    ],
+    "words_form": [
+        "flashed",
+        "flashes",
+        "flashing"
+    ],
+    "meaning_vi": "đèn flash"
+}

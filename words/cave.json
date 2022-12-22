@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/keɪv/"
+    ],
+    "synonyms": [
+        "hollow",
+        "lair",
+        "cavern",
+        "crypt",
+        "den"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Cave is defined as to hollow out, to explore hollowed out places, or to give in.",
+            "vi": "Hang động được định nghĩa là để làm rỗng, để khám phá những nơi bị rỗng, hoặc nhượng bộ."
+        },
+        {
+            "pos": "noun",
+            "en": "A storage cellar, especially for wine.",
+            "vi": "Một hầm bảo quản, đặc biệt là để đựng rượu."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "cave in  to fall or sink in or down; collapse to make collapse to give way; give in; yield",
+            "vi": "hang vào để rơi xuống hoặc chìm vào trong hoặc xuống; sụp đổ để làm cho sụp đổ để nhường bước; nhượng bộ; năng suất"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The cave was dark.",
+            "vi": "Hang động tối om."
+        },
+        {
+            "en": "The cave was damp and cool, but she was warm and cozy.",
+            "vi": "Hang động ẩm thấp và mát mẻ, nhưng cô ấy ấm áp và ấm cúng."
+        }
+    ],
+    "words_form": [
+        "caved",
+        "caves",
+        "caving"
+    ],
+    "meaning_vi": "hang động"
+}

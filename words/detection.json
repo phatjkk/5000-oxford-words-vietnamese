@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/dɪˈtɛkʃən/"
+    ],
+    "synonyms": [
+        "disclosure",
+        "apprehension",
+        "espial",
+        "exposure",
+        "find"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or process of detecting; discovery.",
+            "vi": "(máy tính) Khu vực màn hình hiển thị nơi hình ảnh, cửa sổ, biểu tượng và các mục đồ họa khác xuất hiện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Vega devoted great attention to the detection and correction of the errors in Vlacq's work of 1628.",
+            "vi": "Vega đã dành sự quan tâm lớn đến việc phát hiện và sửa chữa các sai sót trong tác phẩm năm 1628 của Vlacq."
+        },
+        {
+            "en": "Marconi gave great attention to the improvement of devices for the detection of electric waves..",
+            "vi": "Marconi rất chú trọng đến việc cải tiến các thiết bị phát hiện sóng điện .."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The act or process of detecting; discovery.",
+            "vi": "(máy tính) Khu vực màn hình hiển thị nơi hình ảnh, cửa sổ, biểu tượng và các mục đồ họa khác xuất hiện."
+        }
+    ]
+}

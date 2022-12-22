@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/lɪŋk/"
+    ],
+    "synonyms": [
+        "connection",
+        "nexus",
+        "coupling",
+        "yoke",
+        "ally"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a link is a word or group of words that act as a way to cross reference to other documents or files on the computer.",
+            "vi": "Định nghĩa của liên kết là một từ hoặc một nhóm từ hoạt động như một cách để tham chiếu chéo đến các tài liệu hoặc tệp khác trên máy tính."
+        },
+        {
+            "pos": "verb",
+            "en": "To link means to join or connect together.",
+            "vi": "Để liên kết có nghĩa là tham gia hoặc kết nối với nhau."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(rare) A diminutive of the male given name Lincoln.",
+            "vi": "(hiếm) Một chi tiết nhỏ của người đàn ông được đặt tên Lincoln."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll send you the link to our online forum.",
+            "vi": "Tôi sẽ gửi cho bạn liên kết đến diễn đàn trực tuyến của chúng tôi."
+        },
+        {
+            "en": "The IDM is the KW's link to the digital battlefield.",
+            "vi": "IDM là liên kết của KW với chiến trường kỹ thuật số."
+        }
+    ],
+    "words_form": [
+        "linked",
+        "linking",
+        "links"
+    ],
+    "meaning_vi": "liên kết"
+}

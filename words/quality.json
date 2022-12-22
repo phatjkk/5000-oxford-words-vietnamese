@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈkwɑlədi/"
+    ],
+    "synonyms": [
+        "excellence",
+        "property",
+        "worth",
+        "accident",
+        "caliber"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Investments that have a low risk of loss or default.",
+            "vi": "Các khoản đầu tư có rủi ro thua lỗ hoặc vỡ nợ thấp."
+        },
+        {
+            "pos": "adjective",
+            "en": "Being of good worth, well made, fit for purpose.",
+            "vi": "Có giá trị tốt, được chế tạo tốt, phù hợp với mục đích."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She felt the quality of the material.",
+            "vi": "Cô cảm nhận được chất lượng của vật liệu."
+        },
+        {
+            "en": "The speed and quality of those algorithms will get ever better.",
+            "vi": "Tốc độ và chất lượng của các thuật toán đó sẽ ngày càng tốt hơn."
+        }
+    ],
+    "words_form": [
+        "qualities"
+    ],
+    "meaning_vi": "chất lượng"
+}

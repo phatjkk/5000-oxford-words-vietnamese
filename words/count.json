@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kaʊnt/"
+    ],
+    "synonyms": [
+        "number",
+        "nobleman",
+        "tale",
+        "earl",
+        "foot"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Count is defined as to add up or calculate.",
+            "vi": "Số đếm được định nghĩa là để cộng lại hoặc tính toán."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of counting or calculating.",
+            "vi": "Hành động đếm hoặc tính toán."
+        },
+        {
+            "pos": "idiom",
+            "en": "count heads  To make a count of members, attendees, or participants.",
+            "vi": "đếm người đứng đầu Để đếm số thành viên, người tham dự hoặc người tham gia."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If that's all they give you, count yourself lucky.",
+            "vi": "Nếu đó là tất cả những gì họ cho bạn, hãy tự đếm mình là người may mắn."
+        },
+        {
+            "en": "I can always count on you.",
+            "vi": "Tôi luôn có thể trông cậy vào bạn."
+        }
+    ],
+    "words_form": [
+        "counted",
+        "counting",
+        "counts"
+    ],
+    "meaning_vi": "đếm"
+}

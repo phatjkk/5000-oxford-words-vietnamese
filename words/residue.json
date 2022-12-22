@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈrɛzəˌd(j)u/"
+    ],
+    "synonyms": [
+        "residual",
+        "scraps",
+        "quinone",
+        "residuum",
+        "remainder"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Residue is a small amount of something that is left behind.",
+            "vi": "Dư lượng là một lượng nhỏ của thứ gì đó bị bỏ lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The residue is washed, extracted by dilute hydrochloric acid, and again well washed with boiling water.",
+            "vi": "Cặn được rửa sạch, chiết bằng axit clohydric loãng và rửa lại bằng nước sôi."
+        },
+        {
+            "en": "Transparent soaps are prepared by dissolving ordinary soap in strong alcohol and distilling off the greater portion of the alcohol till the residue comes to the condition of a thick transparent jelly.",
+            "vi": "Xà phòng trong suốt được điều chế bằng cách hòa tan xà phòng thông thường trong rượu mạnh và chưng cất phần lớn rượu cho đến khi cặn tạo thành thạch trong suốt đặc."
+        }
+    ],
+    "words_form": [
+        "residues"
+    ],
+    "meaning_vi": "dư lượng"
+}

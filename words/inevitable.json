@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɪnˈɛvɪdəb(ə)l/"
+    ],
+    "synonyms": [
+        "certain",
+        "unavoidable",
+        "destined",
+        "fatal",
+        "evitable"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Impossible to avoid or prevent; certain to happen.",
+            "vi": "Không thể tránh hoặc ngăn cản; nhất định để xảy ra."
+        },
+        {
+            "pos": "noun",
+            "en": "Something that is predictable, necessary, or cannot be avoided.",
+            "vi": "Một cái gì đó có thể đoán trước được, cần thiết hoặc không thể tránh khỏi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Jessi drew out the inevitable by taking her time to select her food.",
+            "vi": "Jessi đã rút ra điều không thể tránh khỏi bằng cách dành thời gian lựa chọn thức ăn cho mình."
+        },
+        {
+            "en": "There will be inevitable consequences, which mold the future.",
+            "vi": "Sẽ có những hậu quả không thể tránh khỏi, làm mốc cho tương lai."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chắc chắn xảy ra"
+}

@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/lɔrd/"
+    ],
+    "synonyms": [
+        "ruler",
+        "god",
+        "prince",
+        "liege",
+        "king"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "(used absolutely in monotheism: the Lord) God.",
+            "vi": "(được sử dụng tuyệt đối trong thuyết độc thần: Chúa) Chúa."
+        },
+        {
+            "pos": "noun",
+            "en": "Lord is a reference to God or Jesus.",
+            "vi": "Chúa là một ám chỉ đến Chúa hoặc Chúa Giê-xu."
+        },
+        {
+            "pos": "verb",
+            "en": "Lord is defined as to act in an over powering way.",
+            "vi": "Lord được định nghĩa là hành động theo cách quá quyền lực."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express surprise or irritation.",
+            "vi": "Được sử dụng để bày tỏ sự ngạc nhiên hoặc kích thích."
+        },
+        {
+            "pos": "idiom",
+            "en": "lord it over  To act in a domineering or superior manner toward:",
+            "vi": "quản lý nó Để hành động theo cách độc đoán hoặc cấp trên đối với:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He is the rightful lord of this country.",
+            "vi": "Ông ấy là chúa tể hợp pháp của đất nước này."
+        },
+        {
+            "en": "\"It is the day of the Lord.\" said one.",
+            "vi": "\"Đó là ngày của Chúa.\" cho biết một."
+        }
+    ],
+    "words_form": [
+        "lorded",
+        "lording",
+        "lords"
+    ],
+    "meaning_vi": "Chúa tể"
+}

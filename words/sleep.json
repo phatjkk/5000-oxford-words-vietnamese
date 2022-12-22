@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/slip/"
+    ],
+    "synonyms": [
+        "slumber",
+        "doze",
+        "rest",
+        "nap",
+        "nod"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Sleep is defined as to slumber, rest or be in a state of inactivity like sleep.",
+            "vi": "Ngủ được định nghĩa là ngủ say, nghỉ ngơi hoặc ở trạng thái không hoạt động như ngủ."
+        },
+        {
+            "pos": "noun",
+            "en": "Sleep is the act of slumbering, during which time your body systems refresh themselves.",
+            "vi": "Ngủ là hành động của giấc ngủ, trong thời gian đó các hệ thống cơ thể của bạn tự làm mới."
+        },
+        {
+            "pos": "idiom",
+            "en": "sleep like a log  To sleep very deeply.",
+            "vi": "ngủ như khúc gỗ Để ngủ thật sâu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Are you wiping the sleep from your eyes?",
+            "vi": "Bạn đang lau giấc ngủ khỏi đôi mắt của bạn?"
+        },
+        {
+            "en": "Even in sleep he was irresistible.",
+            "vi": "Ngay cả trong giấc ngủ anh cũng không thể cưỡng lại được."
+        }
+    ],
+    "words_form": [
+        "sleeping",
+        "sleeps",
+        "slept"
+    ],
+    "meaning_vi": "ngủ"
+}

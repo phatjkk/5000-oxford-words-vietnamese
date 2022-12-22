@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dɪˈskɑrd/"
+    ],
+    "synonyms": [
+        "throw out",
+        "abandon",
+        "cast-aside",
+        "dismiss",
+        "dispose of"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To throw away, abandon, or get rid of as no longer valuable or useful.",
+            "vi": "Để vứt bỏ, từ bỏ hoặc loại bỏ không còn giá trị hoặc hữu ích."
+        },
+        {
+            "pos": "noun",
+            "en": "One that is discarded or rejected.",
+            "vi": "Một cái bị loại bỏ hoặc bị từ chối."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She started the coffee and picked up an empty pop bottle from the counter to discard in the trash.",
+            "vi": "Cô bắt đầu pha cà phê và nhặt một chai pop rỗng từ quầy để bỏ vào thùng rác."
+        },
+        {
+            "en": "He was also the first to discard the use of wooden bomb-shells, and substitute others cast in bronze.",
+            "vi": "Ông cũng là người đầu tiên loại bỏ việc sử dụng vỏ bom bằng gỗ và thay thế những vỏ bom khác được đúc bằng đồng."
+        }
+    ],
+    "words_form": [
+        "discarded",
+        "discarding",
+        "discards"
+    ],
+    "meaning_vi": "hủy"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈseɪfti/"
+    ],
+    "synonyms": [
+        "immunity",
+        "security",
+        "safeness",
+        "sanctuary",
+        "jeopardy"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The condition of being safe; freedom from danger, risk, or injury.",
+            "vi": "Điều kiện an toàn; tự do khỏi nguy hiểm, rủi ro hoặc thương tích."
+        },
+        {
+            "pos": "adjective",
+            "en": "Giving safety; reducing danger or harm.",
+            "vi": "Mang lại sự an toàn; giảm nguy hiểm hoặc tác hại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Put safety first and be careful.",
+            "vi": "Đặt sự an toàn lên hàng đầu và cẩn thận."
+        },
+        {
+            "en": "Howard had insisted on picking up his little sister that night for safety reasons.",
+            "vi": "Howard đã khăng khăng đòi đón cô em gái nhỏ của mình vào đêm hôm đó vì lý do an toàn."
+        }
+    ],
+    "words_form": [
+        "safeties"
+    ],
+    "meaning_vi": "an toàn"
+}

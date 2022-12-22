@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/kɑrˈtun/"
+    ],
+    "synonyms": [
+        "animated-cartoon",
+        "parody",
+        "comic",
+        "animation",
+        "animated"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a cartoon is a funny drawing or sketch in a newspaper or magazine or an animated movie or television show.",
+            "vi": "Định nghĩa của phim hoạt hình là một bức vẽ hoặc bản phác thảo vui nhộn trên một tờ báo hoặc tạp chí hoặc một bộ phim hoạt hình hoặc chương trình truyền hình."
+        },
+        {
+            "pos": "verb",
+            "en": "To draw a humorous or satirical representation of; caricature.",
+            "vi": "Để vẽ một mô tả hài hước hoặc châm biếm; biếm họa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The cartoon did not last so long.",
+            "vi": "Phim hoạt hình đã không kéo dài quá lâu."
+        },
+        {
+            "en": "A cartoon of this composition in the Esterhazy collection at Vienna is held to be only a copy, and the original cartoon must be regarded as lost.",
+            "vi": "Một bức tranh biếm họa của sáng tác này trong bộ sưu tập Esterhazy tại Vienna chỉ được coi là một bản sao, và phim hoạt hình gốc phải được coi là thất lạc."
+        }
+    ],
+    "words_form": [
+        "cartooning",
+        "cartoons"
+    ],
+    "meaning_vi": "hoạt hình"
+}

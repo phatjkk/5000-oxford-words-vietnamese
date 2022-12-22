@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/səˈfɪʃənt/"
+    ],
+    "synonyms": [
+        "enough",
+        "ample",
+        "adequate",
+        "abundant",
+        "efficient"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of sufficient is enough or as much as is needed.",
+            "vi": "Định nghĩa về đủ là đủ hoặc nhiều khi cần thiết."
+        },
+        {
+            "pos": "determiner",
+            "en": "The smallest amount needed.",
+            "vi": "Số tiền nhỏ nhất cần thiết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is commonly sufficient space about us.",
+            "vi": "Thông thường có đủ không gian về chúng tôi."
+        },
+        {
+            "en": "One reading was sufficient to stamp every detail of the story upon my memory forever.",
+            "vi": "Một lần đọc là đủ để ghi dấu mọi chi tiết của câu chuyện vào trí nhớ của tôi mãi mãi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đủ"
+}

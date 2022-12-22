@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈsəməˌraɪz/"
+    ],
+    "synonyms": [
+        "sum",
+        "cut back",
+        "cipher",
+        "abstract",
+        "review"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To summarize is to give a short version of something.",
+            "vi": "Tóm lại là đưa ra một phiên bản ngắn gọn của một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Here we can only summarize the points of the investigation.",
+            "vi": "Ở đây chúng tôi chỉ có thể tóm tắt các điểm của cuộc điều tra."
+        },
+        {
+            "en": "Even for human beings some documents are inherently dif cult to summarize.",
+            "vi": "Ngay cả đối với con người, một số tài liệu vốn dĩ rất khó để tóm tắt."
+        }
+    ],
+    "words_form": [
+        "summarized",
+        "summarizes",
+        "summarizing"
+    ],
+    "meaning_vi": "tóm tắt"
+}

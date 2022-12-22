@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈspoʊkən/"
+    ],
+    "synonyms": [
+        "told",
+        "conveyed",
+        "uttered",
+        "yammered",
+        "voiced"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Past participle of speak.",
+            "vi": "Quá khứ phân từ của nói."
+        },
+        {
+            "pos": "adjective",
+            "en": "Expressed orally; uttered.",
+            "vi": "Thể hiện bằng miệng; phát ngôn."
+        },
+        {
+            "pos": "idiom",
+            "en": "spoken for  claimed, reserved, set aside, etc.; specif., married or engaged",
+            "vi": "nói cho yêu cầu bồi thường, bảo lưu, dành riêng, v.v.; specif., kết hôn hoặc đính hôn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We hadn't spoken in several weeks.",
+            "vi": "Chúng tôi đã không nói chuyện trong vài tuần."
+        },
+        {
+            "en": "His words were spoken with an unusual amount of venom.",
+            "vi": "Lời nói của anh ta được nói ra với một lượng nọc độc bất thường."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đã nói"
+}

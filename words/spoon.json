@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/spun/"
+    ],
+    "synonyms": [
+        "make-love",
+        "smooch",
+        "spoonful",
+        "fondle",
+        "pet"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A utensil consisting of a small, shallow bowl on a handle, used in preparing, serving, or eating food.",
+            "vi": "Một dụng cụ bao gồm một cái bát nhỏ, nông trên tay cầm, được sử dụng để chuẩn bị, phục vụ hoặc ăn thức ăn."
+        },
+        {
+            "pos": "verb",
+            "en": "Spoon is defined as to cuddle with one person wrapped around the other, as two spoons nest when stacked.",
+            "vi": "Spoon được định nghĩa là để âu yếm người này quấn quanh người kia, khi hai chiếc thìa lồng vào nhau khi xếp chồng lên nhau."
+        },
+        {
+            "pos": "idiom",
+            "en": "born with a silver spoon in one's mouth  born rich",
+            "vi": "sinh ra với thìa bạc trong miệng sinh ra giàu có"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He dumped a spoon full of green beans in his plate.",
+            "vi": "Anh ta đổ một thìa đầy đậu xanh vào đĩa của mình."
+        },
+        {
+            "en": "She jabbed the spoon in the ice cream and sighed.",
+            "vi": "Cô thọc chiếc thìa vào que kem và thở dài."
+        }
+    ],
+    "words_form": [
+        "spooned",
+        "spooning",
+        "spoons"
+    ],
+    "meaning_vi": "cái muỗng; cái thìa"
+}

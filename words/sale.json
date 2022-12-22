@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/seɪl/"
+    ],
+    "synonyms": [
+        "negotiation",
+        "marketing",
+        "barter",
+        "vendible",
+        "salable"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Sale is the selling of goods or services, or a discount on the price.",
+            "vi": "Giảm giá là việc bán hàng hóa hoặc dịch vụ hoặc giảm giá."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) City & seaport in NW Morocco: suburb of Rabat.",
+            "vi": "(địa điểm) Thành phố & cảng biển ở NW Morocco: ngoại ô Rabat."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A town in Greater Manchester, England.",
+            "vi": "Một thị trấn ở Greater Manchester, Anh."
+        },
+        {
+            "pos": "idiom",
+            "en": "for sale  Available to customers: A store where pets are for sale.",
+            "vi": "để bán Có sẵn cho khách hàng: Một cửa hàng nơi thú cưng được bán."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I bought 'em at a garage sale right down the street.",
+            "vi": "Tôi đã mua chúng tại một cửa hàng bán đồ để xe ngay dưới phố."
+        },
+        {
+            "en": "Would you buy the answer that I ran into an incredible sale I couldn't pass up?",
+            "vi": "Bạn sẽ mua câu trả lời rằng tôi đã gặp phải một cuộc mua bán đáng kinh ngạc mà tôi không thể bỏ qua?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "buôn bán"
+}

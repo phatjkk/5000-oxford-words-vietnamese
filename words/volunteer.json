@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˌvɑlənˈtɪr/"
+    ],
+    "synonyms": [
+        "enlist",
+        "offer",
+        "chip in",
+        "sign up",
+        "voluntary"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To volunteer is defined as to give without being asked and without being paid.",
+            "vi": "Tình nguyện được định nghĩa là cho đi mà không được yêu cầu và không được trả tiền."
+        },
+        {
+            "pos": "noun",
+            "en": "A person who chooses freely to enter naval or military service, without being compelled to do so by law.",
+            "vi": "Một người tự do lựa chọn tham gia nghĩa vụ hải quân hoặc quân sự, mà không bị bắt buộc phải làm như vậy theo luật."
+        },
+        {
+            "pos": "adjective",
+            "en": "Being, consisting of, or done by volunteers.",
+            "vi": "Là, bao gồm, hoặc được thực hiện bởi các tình nguyện viên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The camp ground was manned on a volunteer basis.",
+            "vi": "Khu đất trại được thực hiện trên cơ sở tình nguyện."
+        },
+        {
+            "en": "I volunteer to sleep there tonight, if the love of my life is willing to come along.",
+            "vi": "Tôi tình nguyện ngủ ở đó đêm nay, nếu tình yêu của đời tôi sẵn sàng đến cùng."
+        }
+    ],
+    "words_form": [
+        "volunteered",
+        "volunteering",
+        "volunteers"
+    ],
+    "meaning_vi": "tình nguyện"
+}

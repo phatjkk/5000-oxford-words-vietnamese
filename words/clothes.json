@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/kloʊ(ð)z/"
+    ],
+    "synonyms": [
+        "outfit",
+        "attire",
+        "threads",
+        "livery",
+        "garment"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of clothes are garments worn on the body for protection or adornment.",
+            "vi": "Định nghĩa về quần áo là quần áo được mặc trên cơ thể để bảo vệ hoặc trang điểm."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "Articles, typically of cloth, designed to cover, protect, or adorn the body; garments; attire.",
+            "vi": "Các sản phẩm, thường bằng vải, được thiết kế để che, bảo vệ hoặc tô điểm cho cơ thể; hàng may mặc; trang phục."
+        },
+        {
+            "pos": "verb",
+            "en": "Third-person singular simple present indicative form of clothe.",
+            "vi": "Ngôi thứ ba số ít, hiện tại đơn giản dạng biểu thị của quần áo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Good. Pack your clothes and come back with me.",
+            "vi": "Tốt. Thu dọn quần áo và trở lại với tôi."
+        },
+        {
+            "en": "On the top of a pile of clothes lay a flower and note.",
+            "vi": "Trên đầu một đống quần áo đặt một bông hoa và ghi chú."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "quần áo"
+}

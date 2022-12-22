@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ʃɔr/"
+    ],
+    "synonyms": [
+        "beach",
+        "seashore",
+        "strand",
+        "prop",
+        "sandbank"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The land along the edge of an ocean, sea, lake, or river; a coast.",
+            "vi": "Đất dọc theo mép đại dương, biển, hồ hoặc sông; một bờ biển."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A topographic surname​.",
+            "vi": "Họ địa hình."
+        },
+        {
+            "pos": "verb",
+            "en": "Shear.",
+            "vi": "Cắt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We're not swimming back to shore, are we?",
+            "vi": "Chúng ta không bơi trở lại bờ, phải không?"
+        },
+        {
+            "en": "Set me on shore and leave me there.",
+            "vi": "Đặt tôi lên bờ và để tôi ở đó."
+        }
+    ],
+    "words_form": [
+        "shored",
+        "shores",
+        "shoring"
+    ],
+    "meaning_vi": "bờ"
+}

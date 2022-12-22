@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/(h)wit/"
+    ],
+    "synonyms": [
+        "grain",
+        "corn",
+        "staff-of-life",
+        "durum",
+        "farinaceous"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Any of various annual cereal grasses of the genus Triticum of the Mediterranean region and southwest Asia, especially T. aestivum, widely cultivated in temperate regions in many varieties for its commercially important edible grain.",
+            "vi": "Bất kỳ loại cỏ ngũ cốc hàng năm nào thuộc chi Triticum của vùng Địa Trung Hải và Tây Nam Á, đặc biệt là T. aestivum, được trồng rộng rãi ở các vùng ôn đới với nhiều giống để lấy hạt ăn được về mặt thương mại."
+        },
+        {
+            "pos": "adjective",
+            "en": "Wheaten, of a light brown colour, like that of wheat.",
+            "vi": "Lúa mì, có màu nâu nhạt, giống như màu của lúa mì."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The ant was carrying a grain of wheat as large as itself.",
+            "vi": "Con kiến ​​đang mang một hạt lúa mì lớn bằng chính nó."
+        },
+        {
+            "en": "The value of Australian wheat and flour exported in 1905 was £5,500,000.",
+            "vi": "Giá trị xuất khẩu lúa mì và bột mì của Úc vào năm 1905 là 5.500.000 bảng Anh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "lúa mì"
+}

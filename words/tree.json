@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tri/"
+    ],
+    "synonyms": [
+        "evergreen",
+        "arboreal",
+        "shrub",
+        "coppice",
+        "arborescent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A treelike bush or shrub.",
+            "vi": "Một cây bụi hoặc cây bụi."
+        },
+        {
+            "pos": "verb",
+            "en": "To supply or cover with trees.",
+            "vi": "Cung cấp hoặc che phủ bằng cây xanh."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) up a tree  In a situation of great difficulty or perplexity; helpless.",
+            "vi": "(không chính thức) lên cây Trong một tình huống hết sức khó khăn hoặc bối rối; không nơi nương tựa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The Christmas tree could only be seen from the back of the house, but that didn't matter.",
+            "vi": "Cây thông Noel chỉ có thể được nhìn thấy từ phía sau của ngôi nhà, nhưng điều đó không quan trọng."
+        },
+        {
+            "en": "One day he was lying under a tree, thinking of his misfortunes.",
+            "vi": "Một ngày nọ, anh ta đang nằm dưới gốc cây, nghĩ về những điều bất hạnh của mình."
+        }
+    ],
+    "words_form": [
+        "treed",
+        "treeing",
+        "trees"
+    ],
+    "meaning_vi": "cái cây"
+}

@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/bərd/"
+    ],
+    "synonyms": [
+        "chick",
+        "birdie",
+        "owl",
+        "hawk",
+        "nestling"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a bird is a warm blooded member of the Aves class, which has feathers, a beak, no teeth, wings and bears young in eggs.",
+            "vi": "Định nghĩa về một loài chim là một thành viên máu nóng của lớp Aves, có lông, có mỏ, không có răng, có cánh và mang trứng non."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "verb",
+            "en": "To engage in bird-watching.",
+            "vi": "Để tham gia vào hoạt động ngắm chim."
+        },
+        {
+            "pos": "idiom",
+            "en": "for the birds  Objectionable or worthless.",
+            "vi": "cho những con chim Có thể bị phản đối hoặc vô giá trị."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Some large bird has stolen it from his palace.",
+            "vi": "Một con chim lớn nào đó đã đánh cắp nó khỏi cung điện của anh ta."
+        },
+        {
+            "en": "The regiment fluttered like a bird preening its plumage and became motionless.",
+            "vi": "Trung đoàn chao đảo như một con chim đang rỉa lông và trở nên bất động."
+        }
+    ],
+    "words_form": [
+        "birds"
+    ],
+    "meaning_vi": "con chim"
+}

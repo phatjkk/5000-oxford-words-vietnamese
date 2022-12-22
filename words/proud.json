@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/praʊd/"
+    ],
+    "synonyms": [
+        "haughty",
+        "pleased",
+        "gratified",
+        "self-respecting",
+        "conceited"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Feeling or showing great pride or joy, as from being honored.",
+            "vi": "Cảm thấy hoặc thể hiện niềm tự hào hoặc niềm vui to lớn, vì được vinh danh."
+        },
+        {
+            "pos": "idiom",
+            "en": "do oneself proud  to do extremely well",
+            "vi": "bản thân có tự hào vì đã làm rất tốt"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She was proud of him.",
+            "vi": "Cô tự hào về anh."
+        },
+        {
+            "en": "How sad that she would be too proud to have fun.",
+            "vi": "Buồn làm sao mà cô ấy lại quá tự hào để có được niềm vui."
+        }
+    ],
+    "words_form": [
+        "proudest"
+    ],
+    "meaning_vi": "tự hào"
+}

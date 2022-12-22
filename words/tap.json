@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tæp/"
+    ],
+    "synonyms": [
+        "pat",
+        "empty",
+        "seal",
+        "strike",
+        "close"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To select, as for membership in an organization; designate.",
+            "vi": "Để chọn, đối với tư cách thành viên trong một tổ chức; chỉ định."
+        },
+        {
+            "pos": "noun",
+            "en": "A valve and spout used to regulate delivery of a fluid at the end of a pipe.",
+            "vi": "Một van và vòi được sử dụng để điều chỉnh việc cung cấp chất lỏng ở cuối đường ống."
+        },
+        {
+            "pos": "idiom",
+            "en": "on tap  Ready to be drawn; in a tapped cask: Beer on tap.Available for immediate use; ready: Extra personnel on tap.",
+            "vi": "nhấn vào Sẵn sàng để được vẽ; trong một thùng có vòi: Bia có sẵn để sử dụng ngay lập tức; sẵn sàng: Nhân sự bổ sung vào máy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A light tap sounded at the door.",
+            "vi": "Tiếng gõ nhẹ ở cửa."
+        },
+        {
+            "en": "There was a tap at the door.",
+            "vi": "Có tiếng gõ cửa."
+        }
+    ],
+    "words_form": [
+        "tapped",
+        "tapping",
+        "taps"
+    ],
+    "meaning_vi": "vòi"
+}

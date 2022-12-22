@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈvæləd/"
+    ],
+    "synonyms": [
+        "proved",
+        "misleading",
+        "good",
+        "well-grounded",
+        "wrong"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of valid is something effective, legally binding or able to withstand objection.",
+            "vi": "Định nghĩa của hợp lệ là một cái gì đó hiệu quả, ràng buộc về mặt pháp lý hoặc có thể chịu được sự phản đối."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(in logic: argument whose conclusion is always true whenever its premises are all true): sound.",
+            "vi": "(theo logic: lập luận mà kết luận của nó luôn đúng bất cứ khi nào các tiền đề của nó đều đúng): sound."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The chapter title poses a valid question.",
+            "vi": "Tiêu đề chương đặt ra một câu hỏi hợp lệ."
+        },
+        {
+            "en": "This formula is valid between speeds of 37 and 77 m.",
+            "vi": "Công thức này có giá trị giữa tốc độ 37 và 77 m."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hợp lệ"
+}

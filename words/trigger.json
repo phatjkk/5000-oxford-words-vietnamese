@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈtrɪɡər/"
+    ],
+    "synonyms": [
+        "provoke",
+        "bring",
+        "stimulate",
+        "activate",
+        "bring about"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To set off; initiate.",
+            "vi": "Khởi hành; khởi xướng."
+        },
+        {
+            "pos": "noun",
+            "en": "An act, impulse, etc. that initiates an action, series of events, etc.",
+            "vi": "Một hành động, xung động, v.v. bắt đầu một hành động, một chuỗi sự kiện, v.v."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) quick on the trigger  quick to fire a gun quick to act, understand, retort, etc.",
+            "vi": "(không chính thức) nhanh chóng vào cò súng nhanh chóng để bắn súng nhanh chóng để hành động, hiểu, phản bác lại, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Something about her feet hitting the floor in the morning seemed to trigger her stomach.",
+            "vi": "Đôi chân của cô ấy chạm vào sàn nhà vào buổi sáng dường như kích hoạt dạ dày của cô ấy."
+        },
+        {
+            "en": "Lack of sleep or too much sleep can trigger a migraine.",
+            "vi": "Thiếu ngủ hoặc ngủ quá nhiều có thể gây ra chứng đau nửa đầu."
+        }
+    ],
+    "words_form": [
+        "triggered",
+        "triggering",
+        "triggers"
+    ],
+    "meaning_vi": "cò súng"
+}

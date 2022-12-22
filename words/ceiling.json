@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈsilɪŋ/"
+    ],
+    "synonyms": [
+        "roof",
+        "plaster",
+        "limit",
+        "cover",
+        "acme"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of ceiling means the topmost part of the inside of a room, or the upper limit.",
+            "vi": "Định nghĩa của trần có nghĩa là phần trên cùng của bên trong phòng, hoặc giới hạn trên."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of ceil.",
+            "vi": "Hiện tại phân từ ceil."
+        },
+        {
+            "pos": "idiom",
+            "en": "hit the ceiling  to lose one's temper",
+            "vi": "lên trần nhà để mất bình tĩnh"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The ceiling began to crumble.",
+            "vi": "Trần nhà bắt đầu vỡ vụn."
+        },
+        {
+            "en": "The walls and ceiling glittered with gold and precious gems.",
+            "vi": "Các bức tường và trần nhà lấp lánh bằng vàng và đá quý."
+        }
+    ],
+    "words_form": [
+        "ceilings"
+    ],
+    "meaning_vi": "trần nhà"
+}

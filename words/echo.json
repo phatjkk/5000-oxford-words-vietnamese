@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈɛkoʊ/"
+    ],
+    "synonyms": [
+        "resound",
+        "reverberate",
+        "mimic",
+        "reiterate",
+        "reverberation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an echo is a sound that is repeating after the original sound ended.",
+            "vi": "Định nghĩa về tiếng vang là âm thanh được lặp lại sau khi âm thanh ban đầu kết thúc."
+        },
+        {
+            "pos": "verb",
+            "en": "(of a sound or sound waves, intransitive) To reflect off of a surface and return.",
+            "vi": "(của âm thanh hoặc sóng âm thanh, không truyền âm) Để phản xạ ra khỏi bề mặt và quay trở lại."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(Greek mythology) An oread, punished by Hera by losing her own voice and only being able to mimic that of others.",
+            "vi": "(Thần thoại Hy Lạp) Một chiếc bánh mì, bị Hera trừng phạt bằng cách đánh mất giọng nói của chính mình và chỉ có thể bắt chước giọng nói của người khác."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Oche.",
+            "vi": "Ôi!"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The only response was the echo of an unanswered ring.",
+            "vi": "Phản hồi duy nhất là tiếng vang của một chiếc chuông chưa được trả lời."
+        },
+        {
+            "en": "He listened, but heard only the echo of his call.",
+            "vi": "Anh lắng nghe, nhưng chỉ nghe thấy tiếng gọi của anh."
+        }
+    ],
+    "words_form": [
+        "echoed",
+        "echoes",
+        "echoing"
+    ],
+    "meaning_vi": "tiếng vang"
+}

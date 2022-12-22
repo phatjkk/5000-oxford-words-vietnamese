@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌdi vi ˈdi/"
+    ],
+    "synonyms": [
+        "videodisc",
+        "c.d.",
+        "video",
+        "cassette",
+        "disc"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A high-density optical disc for storing large amounts of data, especially high-resolution audio-visual material.",
+            "vi": "Đĩa quang mật độ cao để lưu trữ lượng lớn dữ liệu, đặc biệt là tài liệu nghe nhìn có độ phân giải cao."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Each DVD has its own key, rather akin to each door having a separate key to unlock it.",
+            "vi": "Mỗi DVD có chìa khóa riêng, tương tự như mỗi cánh cửa có một chìa khóa riêng để mở khóa."
+        },
+        {
+            "en": "Now with the advent of DVD, the story becomes more profound.",
+            "vi": "Giờ đây với sự ra đời của DVD, câu chuyện trở nên sâu sắc hơn."
+        }
+    ],
+    "words_form": [
+        "dvds"
+    ],
+    "meaning_vi": "đĩa dvd"
+}

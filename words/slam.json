@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/slæm/"
+    ],
+    "synonyms": [
+        "rap",
+        "smash",
+        "bang",
+        "thump",
+        "impact"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(slang) To criticize harshly; censure forcefully.",
+            "vi": "(tiếng lóng) Để chỉ trích gay gắt; kiểm duyệt một cách cưỡng bức."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a slam is a loud closing of something, or a criticism.",
+            "vi": "Định nghĩa của slam là sự kết thúc ồn ào của một điều gì đó, hoặc một lời chỉ trích."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Jenn heard him stride away and slam a door.",
+            "vi": "Jenn nghe thấy tiếng anh ta sải bước đi và đóng sầm một cánh cửa."
+        },
+        {
+            "en": "First pair to bid and make a grand slam.",
+            "vi": "Cặp đầu tiên để đặt giá thầu và thực hiện một cú đánh lớn."
+        }
+    ],
+    "words_form": [
+        "slammed",
+        "slamming",
+        "slams"
+    ],
+    "meaning_vi": "sập"
+}

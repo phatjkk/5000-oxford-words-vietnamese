@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/poʊl/"
+    ],
+    "synonyms": [
+        "survey",
+        "vote",
+        "consensus",
+        "ballot",
+        "question"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a poll is a counting or voting, or a place where people vote.",
+            "vi": "Định nghĩa của một cuộc thăm dò là một cuộc kiểm phiếu hoặc bỏ phiếu, hoặc một nơi mà mọi người bỏ phiếu."
+        },
+        {
+            "pos": "verb",
+            "en": "To cut off or trim (hair, horns, or wool, for example); clip.",
+            "vi": "Cắt hoặc tỉa (ví dụ như tóc, sừng, hoặc len); kẹp."
+        },
+        {
+            "pos": "adjective",
+            "en": "(of kinds of livestock which typically have horns) Bred without horns, and thus hornless.",
+            "vi": "(các loại gia súc thường có sừng) Được lai tạo không có sừng và do đó không có sừng."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A diminutive of the female given name Mary.",
+            "vi": "Một chi tiết nhỏ của người phụ nữ được đặt tên là Mary."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If a second poll is necessary a relative majority is sufficient.",
+            "vi": "Nếu cuộc thăm dò thứ hai là cần thiết, thì đa số tương đối là đủ."
+        },
+        {
+            "en": "Poll results listed a mixed bag.",
+            "vi": "Kết quả thăm dò ý kiến ​​liệt kê một túi hỗn hợp."
+        }
+    ],
+    "words_form": [
+        "polled",
+        "polling",
+        "polls"
+    ],
+    "meaning_vi": "thăm dò ý kiến"
+}

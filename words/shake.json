@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ʃeɪk/"
+    ],
+    "synonyms": [
+        "tremble",
+        "shiver",
+        "quiver",
+        "totter",
+        "unsettle"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To tremble, quake, or quiver, as from cold or fear.",
+            "vi": "Run rẩy, run rẩy hoặc run rẩy, như vì lạnh hoặc sợ hãi."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a shake is the act of moving from side to side, or a drink where the ingredients are moved from side to side to blend together.",
+            "vi": "Định nghĩa của lắc là hành động di chuyển từ bên này sang bên kia, hoặc đồ uống trong đó các thành phần được chuyển từ bên này sang bên kia để hòa quyện với nhau."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) give (someone) the shake  To escape from or get rid of: We managed to give our pursuers the shake.",
+            "vi": "(tiếng lóng) cho (ai đó) cái lắc Để thoát khỏi hoặc thoát khỏi: Chúng tôi đã xoay sở để cho những người theo đuổi mình lắc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Don't shake your head.",
+            "vi": "Đừng lắc đầu."
+        },
+        {
+            "en": "\"I'm not so sure about that,\" Katie said with a shake of her head.",
+            "vi": "“Tôi không chắc lắm về điều đó,” Katie lắc đầu nói."
+        }
+    ],
+    "words_form": [
+        "shaken",
+        "shakes",
+        "shaking",
+        "shook"
+    ],
+    "meaning_vi": "lắc"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/θɛft/"
+    ],
+    "synonyms": [
+        "pilferage",
+        "robbery",
+        "extortion",
+        "misappropriation",
+        "thieving"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(obsolete) Something stolen.",
+            "vi": "(lỗi thời) Một cái gì đó bị đánh cắp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Surely Yancey wasn't involved in art theft as well.",
+            "vi": "Chắc chắn Yancey cũng không dính líu đến vụ trộm tác phẩm nghệ thuật."
+        },
+        {
+            "en": "Its theft is a frequent subject in Greek art, especially of the earlier time.",
+            "vi": "Trộm cắp nó là một chủ đề thường xuyên trong nghệ thuật Hy Lạp, đặc biệt là thời gian trước đó."
+        }
+    ],
+    "words_form": [
+        "thefts"
+    ],
+    "meaning_vi": "trộm cắp"
+}

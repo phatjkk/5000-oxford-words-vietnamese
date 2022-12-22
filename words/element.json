@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈɛləmənt/"
+    ],
+    "synonyms": [
+        "ultimate",
+        "component",
+        "fundamental",
+        "constituent",
+        "factor"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One of four substances, earth, air, fire, or water, formerly regarded as a fundamental constituent of the universe.",
+            "vi": "Một trong bốn chất, đất, không khí, lửa hoặc nước, trước đây được coi là thành phần cơ bản của vũ trụ."
+        },
+        {
+            "pos": "idiom",
+            "en": "the elements  the first or basic principles; rudiments wind, rain, and the other forces of nature that make the weather",
+            "vi": "các yếu tố đầu tiên hoặc nguyên tắc cơ bản; gió, mưa và các lực lượng khác của tự nhiên tạo nên thời tiết"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We need each element present.",
+            "vi": "Chúng ta cần từng yếu tố hiện diện."
+        },
+        {
+            "en": "The atomic weight of the element has been determined by analysis.",
+            "vi": "Khối lượng nguyên tử của nguyên tố đã được xác định bằng cách phân tích."
+        }
+    ],
+    "words_form": [
+        "elements"
+    ],
+    "meaning_vi": "thành phần"
+}

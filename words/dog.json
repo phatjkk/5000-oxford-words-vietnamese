@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/dɔɡ/"
+    ],
+    "synonyms": [
+        "puppy",
+        "pup",
+        "bitch",
+        "hound",
+        "lap-dog"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A domesticated carnivorous mammal (Canis familiaris syn. Canis lupus subsp. familiaris) occurring as a wide variety of breeds, many of which are traditionally used for hunting, herding, drawing sleds, and other tasks, and are kept as pets.",
+            "vi": "Một loài động vật có vú ăn thịt đã được thuần hóa (Canis Familia syn. Canis lupus subsp. Familia) xuất hiện dưới dạng nhiều giống khác nhau, nhiều trong số đó được sử dụng theo truyền thống để săn bắn, chăn gia súc, kéo xe trượt tuyết và các nhiệm vụ khác và được nuôi làm thú cưng."
+        },
+        {
+            "pos": "verb",
+            "en": "To track or trail persistently.",
+            "vi": "Để theo dõi hoặc theo dõi một cách bền bỉ."
+        },
+        {
+            "pos": "adverb",
+            "en": "Totally; completely. Often used in combination.",
+            "vi": "Tổng cộng; hoàn toàn. Thường được sử dụng kết hợp."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating a family (Canidae) of meat-eating animals that includes dogs, foxes, wolves, coyotes, and jackals.",
+            "vi": "Chỉ định một họ (Canidae) động vật ăn thịt bao gồm chó, cáo, sói, sói đồng cỏ và chó rừng."
+        },
+        {
+            "pos": "acronym",
+            "en": "Digital on-screen graphic.",
+            "vi": "Đồ họa kỹ thuật số trên màn hình."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) dog it  To fail to expend the effort needed to do or accomplish something.",
+            "vi": "(tiếng lóng) chó nó Không tiêu tốn nỗ lực cần thiết để làm hoặc hoàn thành điều gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Does a dog have ears?",
+            "vi": "Con chó có tai không?"
+        },
+        {
+            "en": "Then let's have a seat and watch the puppy dog parade.",
+            "vi": "Sau đó chúng ta hãy ngồi và xem cuộc diễu hành của chó con."
+        }
+    ],
+    "words_form": [
+        "dogged",
+        "dogging",
+        "dogs"
+    ],
+    "meaning_vi": "Con chó"
+}

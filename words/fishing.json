@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈfɪʃɪŋ/"
+    ],
+    "synonyms": [
+        "angling",
+        "fly-fishing",
+        "casting",
+        "netting",
+        "carping"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Certain fishing practices, like bottom trawling, dynamite and cyanide fishing damage the surrounding habitat and create environmental issues.",
+            "vi": "Một số phương thức đánh bắt nhất định, như đánh bắt bằng lưới kéo đáy, đánh bắt bằng thuốc nổ và xyanua làm hỏng môi trường sống xung quanh và tạo ra các vấn đề môi trường."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, or pertaining to, fishing.",
+            "vi": "Của, hoặc liên quan đến, câu cá."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of fish.",
+            "vi": "Trình bày phân từ của cá."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Fishing is relaxing and my boat's paid for...",
+            "vi": "Câu cá thật thư giãn và thuyền của tôi được trả tiền cho ..."
+        },
+        {
+            "en": "It was like fishing in a bath tub and hoping for a bite.",
+            "vi": "Nó giống như câu cá trong bồn tắm và hy vọng kiếm được miếng ăn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "câu cá"
+}

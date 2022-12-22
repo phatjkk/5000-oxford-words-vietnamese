@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɪnˈʃʊrəns/"
+    ],
+    "synonyms": [
+        "coverage",
+        "protection",
+        "security",
+        "support",
+        "guarantee"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of insurance is protection against something going wrong.",
+            "vi": "Định nghĩa của bảo hiểm là bảo vệ chống lại một cái gì đó sai."
+        },
+        {
+            "pos": "adjective",
+            "en": "Being a point or score that increases one competitor's lead enough to prevent the opponent from achieving a tie with one more score.",
+            "vi": "Là một điểm hoặc số điểm làm tăng khả năng dẫn trước của một đối thủ, đủ để ngăn đối thủ hòa với một điểm nữa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Well, if the insurance doesn't pay, I'll fix it.",
+            "vi": "Chà, nếu bảo hiểm không trả, tôi sẽ sửa."
+        },
+        {
+            "en": "The car would be replaced by the insurance that was meant to replace her parents' car.",
+            "vi": "Chiếc xe sẽ được thay thế bằng bảo hiểm có nghĩa là thay thế chiếc xe của cha mẹ cô."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bảo hiểm"
+}

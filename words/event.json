@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/əˈvɛnt/"
+    ],
+    "synonyms": [
+        "occurrence",
+        "experience",
+        "adventure",
+        "juncture",
+        "circumstance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an event is something that takes place.",
+            "vi": "Định nghĩa của một sự kiện là một cái gì đó diễn ra."
+        },
+        {
+            "pos": "idiom",
+            "en": "at all events  In any case.",
+            "vi": "tại tất cả các sự kiện Trong mọi trường hợp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This is the fourth event in the past few days.",
+            "vi": "Đây là sự kiện thứ tư trong vài ngày qua."
+        },
+        {
+            "en": "The next important event in my life was my visit to Boston, in May, 1888.",
+            "vi": "Sự kiện quan trọng tiếp theo trong cuộc đời tôi là chuyến thăm của tôi đến Boston, vào tháng 5 năm 1888."
+        }
+    ],
+    "words_form": [
+        "events"
+    ],
+    "meaning_vi": "biến cố"
+}

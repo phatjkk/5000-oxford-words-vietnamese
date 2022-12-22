@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈməltəpəl/"
+    ],
+    "synonyms": [
+        "numerous",
+        "many",
+        "multiplied",
+        "multitudinous",
+        "compound"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having, relating to, or consisting of more than one individual, element, part, or other component; manifold.",
+            "vi": "Có, liên quan đến hoặc bao gồm nhiều hơn một cá thể, phần tử, bộ phận hoặc thành phần khác; nhiều thứ khác nhau."
+        },
+        {
+            "pos": "noun",
+            "en": "A number that may be divided by another number with no remainder.",
+            "vi": "Một số có thể chia cho một số khác mà không có dư."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Let's make it multiple choice.",
+            "vi": "Hãy làm cho nó nhiều lựa chọn."
+        },
+        {
+            "en": "It's alleged he uses multiple aliases.",
+            "vi": "Người ta cho rằng anh ta sử dụng nhiều bí danh."
+        }
+    ],
+    "words_form": [
+        "multiples"
+    ],
+    "meaning_vi": "nhiều"
+}

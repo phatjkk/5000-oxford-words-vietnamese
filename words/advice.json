@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ədˈvaɪs/"
+    ],
+    "synonyms": [
+        "tip",
+        "knowledge",
+        "judgment",
+        "recommendation",
+        "help"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An opinion recommended or offered, as worthy to be followed; counsel.",
+            "vi": "Một ý kiến ​​được đề xuất hoặc đưa ra, nếu đáng được tuân theo; sự cố vấn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The best advice I can give you is to try to relax.",
+            "vi": "Lời khuyên tốt nhất mà tôi có thể dành cho bạn là hãy cố gắng thư giãn."
+        },
+        {
+            "en": "I decided to follow your advice and take a vacation.",
+            "vi": "Tôi quyết định làm theo lời khuyên của bạn và đi nghỉ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khuyên bảo"
+}

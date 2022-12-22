@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈhæpən/"
+    ],
+    "synonyms": [
+        "occur",
+        "happen",
+        "take-place",
+        "ensue",
+        "materialize"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Happen is defined as to take place or occur by chance.",
+            "vi": "Xảy ra được định nghĩa là sẽ diễn ra hoặc xảy ra một cách tình cờ."
+        },
+        {
+            "pos": "adverb",
+            "en": "(obsolete or dialect) Maybe, perhaps.",
+            "vi": "(lỗi thời hoặc phương ngữ) Có thể, có lẽ."
+        },
+        {
+            "pos": "idiom",
+            "en": "as it so happens  as a matter of fact; incidentally",
+            "vi": "vì nó xảy ra như một vấn đề thực tế; tình cờ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It will never happen again.",
+            "vi": "Nó sẽ không bao giờ xảy ra nữa."
+        },
+        {
+            "en": "We can't let it happen again. she stammered.",
+            "vi": "Chúng ta không thể để nó xảy ra một lần nữa. cô ấy lắp bắp."
+        }
+    ],
+    "words_form": [
+        "happened",
+        "happening",
+        "happens"
+    ],
+    "meaning_vi": "xảy ra"
+}

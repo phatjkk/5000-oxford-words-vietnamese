@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/dəˈɡri/"
+    ],
+    "synonyms": [
+        "space",
+        "quantity",
+        "grade",
+        "step",
+        "mark"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a degree is any series of steps, a point in a scale or a stage in a scale.",
+            "vi": "Định nghĩa của một mức độ là bất kỳ chuỗi các bước, một điểm trong thang điểm hoặc một giai đoạn trong thang điểm."
+        },
+        {
+            "pos": "idiom",
+            "en": "by degrees  Little by little; gradually.",
+            "vi": "theo độ Từng chút một; dần dần."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Every child feels displaced to some degree when a new sibling arrives.",
+            "vi": "Mọi đứa trẻ đều cảm thấy bị thay đổi ở một mức độ nào đó khi một anh chị em mới đến."
+        },
+        {
+            "en": "That made some degree of sense.",
+            "vi": "Điều đó có ý nghĩa ở một mức độ nào đó."
+        }
+    ],
+    "words_form": [
+        "degrees"
+    ],
+    "meaning_vi": "trình độ"
+}

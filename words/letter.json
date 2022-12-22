@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈlɛdər/"
+    ],
+    "synonyms": [
+        "lower case",
+        "digraph",
+        "cap",
+        "favor",
+        "upper case"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a letter is a symbol representing a speech sound or a written message.",
+            "vi": "Định nghĩa của một chữ cái là một ký hiệu đại diện cho âm thanh lời nói hoặc một thông điệp bằng văn bản."
+        },
+        {
+            "pos": "verb",
+            "en": "Letter is defined as to earn a recognition in an activity, especially a sport.",
+            "vi": "Thư được định nghĩa là để đạt được sự công nhận trong một hoạt động, đặc biệt là một môn thể thao."
+        },
+        {
+            "pos": "idiom",
+            "en": "to the letter  To the last detail; exactly: Followed instructions to the letter.",
+            "vi": "đến bức thư Đến chi tiết cuối cùng; chính xác: Đã làm theo hướng dẫn cho bức thư."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was a letter from the page's mother:--",
+            "vi": "Đó là thư của mẹ Trang: -"
+        },
+        {
+            "en": "Do you know what the letter said?",
+            "vi": "Bạn có biết bức thư nói gì không?"
+        }
+    ],
+    "words_form": [
+        "lettered",
+        "letters"
+    ],
+    "meaning_vi": "lá thư"
+}

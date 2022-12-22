@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/əˈlɛktrɪk/"
+    ],
+    "synonyms": [
+        "static",
+        "charged",
+        "mechanical",
+        "galvanizing",
+        "surcharged"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, producing, or operated by electricity.",
+            "vi": "Của, liên quan đến, sản xuất hoặc vận hành bằng điện."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) Electricity.",
+            "vi": "(không chính thức) Điện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I paid the electric and water bill this week.",
+            "vi": "Tôi đã thanh toán tiền điện và nước trong tuần này."
+        },
+        {
+            "en": "I know it's him; he was riding around on his electric bike.",
+            "vi": "Tôi biết đó là anh ấy; anh ấy đang đi xe đạp điện xung quanh."
+        }
+    ],
+    "words_form": [
+        "electrics"
+    ],
+    "meaning_vi": "điện"
+}

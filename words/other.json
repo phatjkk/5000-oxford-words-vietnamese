@@ -1,0 +1,68 @@
+{
+    "spelling": [
+        "/ˈəðər/"
+    ],
+    "synonyms": [
+        "different",
+        "another",
+        "extra",
+        "alternative",
+        "more"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of a different time or era either future or past.",
+            "vi": "Ở một thời điểm hoặc thời đại khác, tương lai hoặc quá khứ."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A different or an additional person or thing.",
+            "vi": "Một người khác hoặc một người hoặc sự vật khác."
+        },
+        {
+            "pos": "adverb",
+            "en": "In another way; otherwise; differently.",
+            "vi": "Theo một cách khác; nếu không thì; khác nhau."
+        },
+        {
+            "pos": "noun",
+            "en": "The opposite.",
+            "vi": "Mặt đối diện, sự đối nghịch."
+        },
+        {
+            "pos": "determiner",
+            "en": "Not the one or ones previously referred to.",
+            "vi": "Không phải là một hoặc những người được đề cập trước đây."
+        },
+        {
+            "pos": "verb",
+            "en": "To make into an other.",
+            "vi": "Để làm cho một khác."
+        },
+        {
+            "pos": "conjunction",
+            "en": "(obsolete) Or.",
+            "vi": "(lỗi thời) Hoặc."
+        },
+        {
+            "pos": "idiom",
+            "en": "of all others  above all others",
+            "vi": "của tất cả những người khác trên tất cả những người khác"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He closed the door and walked around to the other side.",
+            "vi": "Anh đóng cửa và đi vòng sang phía bên kia."
+        },
+        {
+            "en": "In other words, it's none of my business.",
+            "vi": "Nói cách khác, đó không phải việc của tôi."
+        }
+    ],
+    "words_form": [
+        "others"
+    ],
+    "meaning_vi": "khác"
+}

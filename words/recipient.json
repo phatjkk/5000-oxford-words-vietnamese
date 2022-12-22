@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/rəˈsɪpiənt/"
+    ],
+    "synonyms": [
+        "donee",
+        "heir",
+        "object",
+        "taking",
+        "sender"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One who receives, such as one who receives money or goods.",
+            "vi": "Một người nhận, chẳng hạn như một người nhận tiền hoặc hàng hóa."
+        },
+        {
+            "pos": "adjective",
+            "en": "Functioning as a receiver; receptive.",
+            "vi": "Hoạt động như một máy thu; dễ tiếp thu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He has also been the recipient of many foreign orders.",
+            "vi": "Anh cũng là người nhận được nhiều đơn đặt hàng nước ngoài."
+        },
+        {
+            "en": "Unless there be faith in the recipient, an understanding of the meaning of the sacrament and an acceptance of it, it is valueless or harmful.",
+            "vi": "Trừ khi có đức tin nơi người lãnh nhận, hiểu biết về ý nghĩa của bí tích và chấp nhận bí tích, thì bí tích đó vô giá trị hoặc có hại."
+        }
+    ],
+    "words_form": [
+        "recipients"
+    ],
+    "meaning_vi": "người nhận"
+}

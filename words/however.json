@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/haʊˈɛvər/"
+    ],
+    "synonyms": [
+        "nevertheless",
+        "although",
+        "still",
+        "nonetheless",
+        "despite"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In spite of that; nevertheless; yet.",
+            "vi": "Mặc dù điều đó; Tuy nhiên; nhưng."
+        },
+        {
+            "pos": "conjunction",
+            "en": "(archaic) Notwithstanding that; although.",
+            "vi": "(cổ xưa) Mặc dù vậy; Mặc du."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "However, there were many challenges.",
+            "vi": "Tuy nhiên, có rất nhiều thách thức."
+        },
+        {
+            "en": "However, I don't think finding these solutions means an end to all our troubles.",
+            "vi": "Tuy nhiên, tôi không nghĩ rằng việc tìm ra những giải pháp này có nghĩa là chấm dứt mọi rắc rối của chúng tôi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tuy nhiên"
+}

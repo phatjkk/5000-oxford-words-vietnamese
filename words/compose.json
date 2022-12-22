@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/kəmˈpoʊz/"
+    ],
+    "synonyms": [
+        "comprise",
+        "make up",
+        "originate",
+        "form",
+        "consist of"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(printing) To set type.",
+            "vi": "(in ấn) Để đặt loại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Lisa tried to compose her thoughts and expression.",
+            "vi": "Lisa cố gắng sắp xếp suy nghĩ và biểu cảm của mình."
+        },
+        {
+            "en": "She needed time to compose herself before sharing the bad news with him.",
+            "vi": "Cô cần thời gian để tĩnh tâm trước khi chia sẻ tin buồn với anh."
+        }
+    ],
+    "words_form": [
+        "composed",
+        "composes",
+        "composing"
+    ],
+    "meaning_vi": "soạn, biên soạn"
+}

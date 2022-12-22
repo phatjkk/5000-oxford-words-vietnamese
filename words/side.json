@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/saɪd/"
+    ],
+    "synonyms": [
+        "belligerent",
+        "lateral",
+        "flank",
+        "perspective",
+        "party"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Side means next to something.",
+            "vi": "Side có nghĩa là bên cạnh một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "Side is defined as to align oneself.Side is defined as to put a new finish on a surface.",
+            "vi": "Mặt bên được định nghĩa là để căn chỉnh chính mình, mặt bên được định nghĩa là đặt một lớp hoàn thiện mới trên một bề mặt."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a side is half of something or someone, or a boundary.",
+            "vi": "Định nghĩa của một bên là một nửa của cái gì đó hoặc ai đó, hoặc một ranh giới."
+        },
+        {
+            "pos": "adverb",
+            "en": "(UK dialectal) Widely; wide; far.",
+            "vi": "(Phương ngữ Anh) Rộng rãi; rộng; xa."
+        },
+        {
+            "pos": "suffix",
+            "en": "Beside; next to; adjacent to.",
+            "vi": "Bên cạnh; kế bên; tiếp giáp với."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the side  In addition to the main portion: Coleslaw on the side.In addition to the main occupation or activity: Did some consulting work on the side.",
+            "vi": "bên Ngoài phần chính: Bên luật pháp.Ngoài nghề nghiệp hoặc hoạt động chính: Đã làm một số công việc tư vấn bên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He has a humorous and poetic side, too.",
+            "vi": "Anh ấy cũng có một khía cạnh hài hước và thơ mộng."
+        },
+        {
+            "en": "I am on your side - 100%.",
+            "vi": "Tôi đứng về phía bạn - 100%."
+        }
+    ],
+    "words_form": [
+        "sided",
+        "sides",
+        "siding"
+    ],
+    "meaning_vi": "cạnh, phía"
+}

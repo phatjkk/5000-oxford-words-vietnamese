@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/fərˈɡɛt/"
+    ],
+    "synonyms": [
+        "remember",
+        "neglect",
+        "ignore",
+        "oblivion",
+        "unmindful"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of forget is to not remember, or to lose information from the mind.",
+            "vi": "Định nghĩa của quên là không nhớ, hoặc mất thông tin từ tâm trí."
+        },
+        {
+            "pos": "idiom",
+            "en": "forget (oneself)  To lose one's reserve, temper, or self-restraint.",
+            "vi": "quên (bản thân) Đánh mất sự dè dặt, bình tĩnh hoặc tự kiềm chế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Don't forget your manners.",
+            "vi": "Đừng quên cách cư xử của bạn."
+        },
+        {
+            "en": "I said forget it.",
+            "vi": "Tôi đã nói là quên nó đi."
+        }
+    ],
+    "words_form": [
+        "forgets",
+        "forgetting",
+        "forgot",
+        "forgotten"
+    ],
+    "meaning_vi": "quên"
+}

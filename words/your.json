@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/jɔr/",
+        "/jʊr/"
+    ],
+    "synonyms": [
+        "you",
+        "yourself",
+        "my",
+        "their",
+        "our"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of your is belonging to you.",
+            "vi": "Định nghĩa của bạn là thuộc về bạn."
+        },
+        {
+            "pos": "possessive pronominal adjective",
+            "en": "Of, belonging to, made by, or done by you.",
+            "vi": "Của, thuộc về, được tạo ra bởi hoặc được thực hiện bởi bạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What is your father's name?",
+            "vi": "Bố bạn tên gì?"
+        },
+        {
+            "en": "\"Take off your hat,\" said the chief.",
+            "vi": "\"Cởi mũ của bạn,\" trưởng nói."
+        }
+    ],
+    "words_form": [
+        "yer"
+    ],
+    "meaning_vi": "của bạn"
+}

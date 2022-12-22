@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɪˈmjun/"
+    ],
+    "synonyms": [
+        "invulnerable",
+        "protected",
+        "free",
+        "exempt",
+        "insusceptible"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Not affected by a given influence; unresponsive.",
+            "vi": "Không bị ảnh hưởng bởi một ảnh hưởng nhất định; không phản hồi."
+        },
+        {
+            "pos": "noun",
+            "en": "An immune person.",
+            "vi": "Một người miễn dịch."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"I'm probably immune to whatever it is you tried to do,\" he said.",
+            "vi": "\"Tôi có thể miễn nhiễm với bất cứ điều gì bạn cố gắng làm,\" anh ấy nói."
+        },
+        {
+            "en": "Jonny was all but immune to them.",
+            "vi": "Jonny hoàn toàn miễn nhiễm với chúng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "miễn dịch"
+}

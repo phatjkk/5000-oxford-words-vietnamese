@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/skɔr/"
+    ],
+    "synonyms": [
+        "flock",
+        "summation",
+        "attain",
+        "smooth",
+        "count"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A notch or incision, especially one that is made to keep a tally.",
+            "vi": "Một vết khía hoặc vết rạch, đặc biệt là vết rạch được tạo ra để kiểm đếm."
+        },
+        {
+            "pos": "verb",
+            "en": "To criticize cuttingly; berate.",
+            "vi": "Để chỉ trích chặt chẽ; mánh mỏ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I should think he has a score of them.",
+            "vi": "Tôi nên nghĩ rằng anh ấy có một số điểm trong số họ."
+        },
+        {
+            "en": "I know the score and it's my choice.",
+            "vi": "Tôi biết tỷ số và đó là lựa chọn của tôi."
+        }
+    ],
+    "words_form": [
+        "scored",
+        "scores",
+        "scoring"
+    ],
+    "meaning_vi": "ghi bàn"
+}

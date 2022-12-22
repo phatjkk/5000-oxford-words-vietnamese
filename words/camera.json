@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈkæm(ə)rə/"
+    ],
+    "synonyms": [
+        "camcorder",
+        "magnifier",
+        "digicam",
+        "tripod",
+        "rangefinder"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a camera is an electronic device that captures pictures, movies or other visual images either digitally or on film.",
+            "vi": "Định nghĩa máy ảnh là một thiết bị điện tử có chức năng chụp ảnh, quay phim hoặc các hình ảnh trực quan khác dưới dạng kỹ thuật số hoặc trên phim."
+        },
+        {
+            "pos": "idiom",
+            "en": "in camera  Outside of the public view: The committee met in camera to discuss the report.",
+            "vi": "trong camera Bên ngoài tầm nhìn của công chúng: Ủy ban đã họp trong camera để thảo luận về báo cáo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Tell me there's a camera out there!",
+            "vi": "Nói với tôi rằng có một chiếc máy ảnh ở ngoài đó!"
+        },
+        {
+            "en": "Jackson turned the camera on and stood beside her.",
+            "vi": "Jackson bật máy ảnh và đứng bên cạnh cô."
+        }
+    ],
+    "words_form": [
+        "camerae",
+        "cameras"
+    ],
+    "meaning_vi": "máy ảnh"
+}

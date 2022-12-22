@@ -1,0 +1,65 @@
+{
+    "spelling": [
+        "/frənt/"
+    ],
+    "synonyms": [
+        "head",
+        "frontage",
+        "coloring",
+        "disguise",
+        "before"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Front is defined as attitude or the part that faces forward.",
+            "vi": "Phía trước được định nghĩa là thái độ hoặc phần hướng về phía trước."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of front is located in the forward position.",
+            "vi": "Định nghĩa của phía trước nằm ở vị trí phía trước."
+        },
+        {
+            "pos": "verb",
+            "en": "To look out on; face.",
+            "vi": "Để nhìn ra; đối mặt."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used by a desk clerk in a hotel to summon a bellhop.",
+            "vi": "Được sử dụng bởi một nhân viên bàn trong một khách sạn để triệu tập một nhân viên phục vụ."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Frontispiece.",
+            "vi": "Mặt trước."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(The foremost side of something or the end that faces the direction it normally moves): (nautical) bow (of a ship)",
+            "vi": "(Mặt trước của vật gì đó hoặc mặt cuối đối diện với hướng mà nó thường di chuyển): (hải lý) mũi tàu (của một con tàu)"
+        },
+        {
+            "pos": "idiom",
+            "en": "front and center  In the most prominent position.",
+            "vi": "phía trước và trung tâm Ở vị trí nổi bật nhất."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He parked the truck in front of the house and headed down the hill.",
+            "vi": "Anh ta đậu chiếc xe tải trước cửa nhà và đi xuống đồi."
+        },
+        {
+            "en": "Len knelt in front of her and examined her neck.",
+            "vi": "Len quỳ xuống trước mặt cô và xem xét cổ cô."
+        }
+    ],
+    "words_form": [
+        "fronted",
+        "fronting",
+        "fronts"
+    ],
+    "meaning_vi": "trước mặt"
+}

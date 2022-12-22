@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈplæstɪk/"
+    ],
+    "synonyms": [
+        "synthetic",
+        "molded",
+        "waxy",
+        "resin",
+        "yielding"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Plastic is an organic compound produced from man made polymers, or slang for a credit card.",
+            "vi": "Nhựa là một hợp chất hữu cơ được sản xuất từ ​​các polyme do con người tạo ra, hay còn gọi là tiếng lóng của thẻ tín dụng."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of plastic is able to be shaped, or made of man made polymers.",
+            "vi": "Định nghĩa về nhựa có thể được tạo hình, hoặc được tạo ra từ các polyme do con người tạo ra."
+        },
+        {
+            "pos": "suffix",
+            "en": "Forming; growing; changing; developing.",
+            "vi": "Hình thành; phát triển; thay đổi; đang phát triển."
+        },
+        {
+            "pos": "affix",
+            "en": "Forming, developing.",
+            "vi": "Hình thành, phát triển."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A small plastic bag fell out of the pocket.",
+            "vi": "Một túi ni lông nhỏ rơi ra khỏi túi."
+        },
+        {
+            "en": "It's in the freezer, in a plastic bag wrapped with foil.",
+            "vi": "Nó ở trong tủ đông, trong một túi ni lông bọc giấy bạc."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nhựa"
+}

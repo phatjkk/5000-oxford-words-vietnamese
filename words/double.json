@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ˈdəb(ə)l/"
+    ],
+    "synonyms": [
+        "twin",
+        "twice",
+        "repeated",
+        "act for",
+        "binary"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be twice as much as.",
+            "vi": "Nhiều gấp đôi."
+        },
+        {
+            "pos": "noun",
+            "en": "Something increased twofold.",
+            "vi": "Một cái gì đó đã tăng lên gấp đôi."
+        },
+        {
+            "pos": "adjective",
+            "en": "Composed of two like parts.",
+            "vi": "Gồm hai phần giống nhau."
+        },
+        {
+            "pos": "adverb",
+            "en": "In two.",
+            "vi": "Trong hai."
+        },
+        {
+            "pos": "idiom",
+            "en": "on  Immediately. In double time.",
+            "vi": "vào ngay lập tức. Trong thời gian gấp đôi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He reached a set of double doors.",
+            "vi": "Anh ta đến được một bộ cửa đôi."
+        },
+        {
+            "en": "Glancing in the mirror, he did a double take when he saw her.",
+            "vi": "Liếc trong gương, anh chụp gấp đôi khi nhìn thấy cô."
+        }
+    ],
+    "words_form": [
+        "doubled",
+        "doubles",
+        "doubling"
+    ],
+    "meaning_vi": "đôi"
+}

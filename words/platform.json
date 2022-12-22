@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈplætfɔrm/"
+    ],
+    "synonyms": [
+        "pulpit",
+        "tribune",
+        "forum",
+        "belvedere",
+        "altar"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(computers) The basic technology of a computer system's hardware and software that defines how a computer is operated and determines what other kinds of software can be used.",
+            "vi": "(máy tính) Công nghệ cơ bản của phần cứng và phần mềm của hệ thống máy tính xác định cách máy tính được vận hành và xác định loại phần mềm nào khác có thể được sử dụng."
+        },
+        {
+            "pos": "verb",
+            "en": "To place on a platform.",
+            "vi": "Để đặt trên một nền tảng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating a thick sole of cork, leather, etc. for a shoe.",
+            "vi": "Chỉ định đế dày bằng nút chai, da, v.v. cho giày."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Almost before I knew it, the train stopped at the Tuscumbia station, and there on the platform stood the whole family.",
+            "vi": "Gần như trước khi tôi biết điều đó, con tàu đã dừng lại ở ga Tuscumbia, và trên sân ga có cả gia đình."
+        },
+        {
+            "en": "The platform is variously constructed.",
+            "vi": "Nền tảng được xây dựng khác nhau."
+        }
+    ],
+    "words_form": [
+        "platforms"
+    ],
+    "meaning_vi": "nền tảng"
+}

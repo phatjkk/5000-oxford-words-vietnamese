@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/dəˈpɛndənt/"
+    ],
+    "synonyms": [
+        "dependant",
+        "subject",
+        "contingent",
+        "reliant",
+        "addicted"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of dependent is relying on someone or something else, or a clause that cannot stand alone as a sentence.",
+            "vi": "Định nghĩa của phụ thuộc là dựa vào ai đó hoặc cái gì khác, hoặc một mệnh đề không thể đứng một mình như một câu."
+        },
+        {
+            "pos": "noun",
+            "en": "A person who depends on someone else for existence, support, etc.",
+            "vi": "Một người phụ thuộc vào người khác để tồn tại, hỗ trợ, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She was becoming more dependent on him.",
+            "vi": "Cô ngày càng phụ thuộc vào anh hơn."
+        },
+        {
+            "en": "In reading my teacher's lips I was wholly dependent on my fingers: I had to use the sense of touch in catching the vibrations of the throat, the movements of the mouth and the expression of the face; and often this sense was at fault.",
+            "vi": "Khi đọc đôi môi của giáo viên, tôi hoàn toàn phụ thuộc vào các ngón tay của mình: tôi phải sử dụng xúc giác để nắm bắt các rung động của cổ họng, chuyển động của miệng và biểu hiện của khuôn mặt; và thường thì cảm giác này có lỗi."
+        }
+    ],
+    "words_form": [
+        "dependents"
+    ],
+    "meaning_vi": "phụ thuộc"
+}

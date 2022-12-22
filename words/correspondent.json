@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˌkɔrəˈspɑndənt/",
+        "/ˌkɑrəˈspɑndənt/"
+    ],
+    "synonyms": [
+        "journalist",
+        "addressee",
+        "contributor",
+        "pen-pal",
+        "acquaintance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A correspondent is defined as a person who writes letters to people or who informs the public about current affairs on a certain subject or from a specific place through the media.",
+            "vi": "Phóng viên được định nghĩa là người viết thư cho mọi người hoặc thông báo cho công chúng về những vấn đề thời sự về một chủ đề nhất định hoặc từ một địa điểm cụ thể thông qua các phương tiện truyền thông."
+        },
+        {
+            "pos": "adjective",
+            "en": "Corresponding.",
+            "vi": "Tương ứng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was also correspondent for the London Times in Japan.",
+            "vi": "Ông cũng là phóng viên của Thời báo Luân Đôn tại Nhật Bản."
+        },
+        {
+            "en": "In 1904 he went to Japan as war correspondent and in 1914 to Mexico in the same capacity.",
+            "vi": "Năm 1904, ông đến Nhật Bản với tư cách phóng viên chiến trường và năm 1914 đến Mexico với tư cách tương tự."
+        }
+    ],
+    "words_form": [
+        "correspondents"
+    ],
+    "meaning_vi": "thông tín viên, phóng viên (báo chí)"
+}

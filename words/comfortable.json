@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/ˈkəmfərdəb(ə)l/",
+        "/ˈkəmftərbəl/"
+    ],
+    "synonyms": [
+        "suitable",
+        "uncomfortable",
+        "placid",
+        "relaxed",
+        "well-situated"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Providing physical comfort.",
+            "vi": "Cung cấp sự thoải mái về thể chất."
+        },
+        {
+            "pos": "noun",
+            "en": "A quilted bed covering; comforter.",
+            "vi": "Một tấm trải giường chần bông; người an ủi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She'd always felt comfortable around him.",
+            "vi": "Cô luôn cảm thấy thoải mái khi ở bên anh."
+        },
+        {
+            "en": "I made myself comfortable on the sofa, my arm around Betsy, as we all waited for him to continue.",
+            "vi": "Tôi tạo cảm giác thoải mái trên ghế sofa, khoác tay Betsy, khi tất cả chúng tôi chờ anh ấy tiếp tục."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "dễ chịu, thoải mái"
+}

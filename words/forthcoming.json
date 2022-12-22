@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/fɔrθˈkəmɪŋ/"
+    ],
+    "synonyms": [
+        "approaching",
+        "upcoming",
+        "recent",
+        "at-hand",
+        "predestined"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "About to appear or take place; approaching.",
+            "vi": "Sắp xuất hiện hoặc diễn ra; đang đến gần."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or an instance of coming forth.",
+            "vi": "Hành động hoặc một ví dụ sắp xảy ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You weren't exactly forthcoming about who you are.",
+            "vi": "Bạn không chính xác sắp tới về bạn là ai."
+        },
+        {
+            "en": "The feds weren't very forthcoming with that information.",
+            "vi": "Feds không cho lắm với thông tin đó."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sắp tới"
+}

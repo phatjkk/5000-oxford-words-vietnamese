@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/slæp/"
+    ],
+    "synonyms": [
+        "smack",
+        "cuff",
+        "scorch",
+        "swat",
+        "box"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To cause to strike forcefully and loudly.",
+            "vi": "Để gây ra cuộc tấn công mạnh mẽ và lớn."
+        },
+        {
+            "pos": "adverb",
+            "en": "Directly and with force.",
+            "vi": "Trực tiếp và bằng vũ lực."
+        },
+        {
+            "pos": "noun",
+            "en": "An injury to pride, self-respect, etc., as an insult or rebuff.",
+            "vi": "Tổn thương lòng tự hào, tự tôn, v.v., như một sự xúc phạm hoặc từ chối."
+        },
+        {
+            "pos": "idiom",
+            "en": "slap on the wrist  A nominal or token punishment.",
+            "vi": "tát vào cổ tay Một hình phạt danh nghĩa hoặc mã thông báo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She raised a hand to slap him again, but he grabbed her.",
+            "vi": "Cô giơ tay định tát anh lần nữa, nhưng anh đã nắm lấy cô."
+        },
+        {
+            "en": "She lifted her hand to slap him again.",
+            "vi": "Cô lại nhấc tay định tát anh một cái."
+        }
+    ],
+    "words_form": [
+        "slapped",
+        "slapping",
+        "slaps"
+    ],
+    "meaning_vi": "cái tát"
+}

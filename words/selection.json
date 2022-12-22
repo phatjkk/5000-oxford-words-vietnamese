@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/səˈlɛkʃ(ə)n/"
+    ],
+    "synonyms": [
+        "choice",
+        "election",
+        "determination",
+        "survival-of-the-fittest",
+        "collection"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a selection is a person or thing that's been picked or are available to pick.",
+            "vi": "Định nghĩa của một lựa chọn là một người hoặc một thứ đã được chọn hoặc có sẵn để chọn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The natural selection process is survival of the fittest.",
+            "vi": "Quá trình chọn lọc tự nhiên là sự tồn tại của những người khỏe mạnh nhất."
+        },
+        {
+            "en": "The machine was set for \"random selection\" so no one was cheated.",
+            "vi": "Máy được thiết lập cho \"lựa chọn ngẫu nhiên\" nên không ai bị lừa."
+        }
+    ],
+    "words_form": [
+        "selections"
+    ],
+    "meaning_vi": "sự lựa chọn"
+}

@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈleɪzi/"
+    ],
+    "synonyms": [
+        "careless",
+        "idle",
+        "lethargic",
+        "indolent",
+        "procrastinating"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Requiring little or no effort.",
+            "vi": "Yêu cầu ít hoặc không cần nỗ lực."
+        },
+        {
+            "pos": "verb",
+            "en": "Laze.",
+            "vi": "Ngất ngưởng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He says they're too lazy to work.",
+            "vi": "Anh ấy nói rằng họ quá lười biếng để làm việc."
+        },
+        {
+            "en": "It was a lazy day, more like the beginning of summer than the end.",
+            "vi": "Đó là một ngày lười biếng, giống như đầu mùa hè hơn là kết thúc."
+        }
+    ],
+    "words_form": [
+        "lazy",
+        "lazier",
+        "laziest",
+        "lazy"
+    ],
+    "meaning_vi": "lười biếng"
+}

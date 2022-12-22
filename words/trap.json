@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/træp/"
+    ],
+    "synonyms": [
+        "net",
+        "tangle",
+        "ambush",
+        "pitfall",
+        "gin"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To trap is defined as to catch someone or something.",
+            "vi": "Bẫy được định nghĩa là để bắt một ai đó hoặc một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "(slang) The human mouth.",
+            "vi": "(tiếng lóng) Cái miệng của con người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You could never trap me.",
+            "vi": "Bạn không bao giờ có thể gài bẫy tôi."
+        },
+        {
+            "en": "They can have my trap, or else what is to become of them?",
+            "vi": "Họ có thể mắc bẫy của tôi, hoặc những gì khác sẽ trở thành của họ?"
+        }
+    ],
+    "words_form": [
+        "trapped",
+        "trapping",
+        "traps"
+    ],
+    "meaning_vi": "bẩy"
+}

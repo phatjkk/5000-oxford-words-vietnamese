@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈɛksərˌsaɪz/"
+    ],
+    "synonyms": [
+        "sports",
+        "calisthenics",
+        "workout",
+        "exertion",
+        "practice"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "To exercise is defined as to engage in physical activity for the purposes of working your body to stay healthy.",
+            "vi": "Tập thể dục được định nghĩa là tham gia vào hoạt động thể chất nhằm mục đích làm cho cơ thể của bạn được khỏe mạnh."
+        },
+        {
+            "pos": "verb",
+            "en": "To engage in exercise.",
+            "vi": "Để tham gia vào các bài tập thể dục."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I see you're getting your exercise for the day.",
+            "vi": "Tôi thấy bạn đang tập thể dục trong ngày."
+        },
+        {
+            "en": "You've had enough exercise for today.",
+            "vi": "Bạn đã tập thể dục đủ cho ngày hôm nay."
+        }
+    ],
+    "words_form": [
+        "exercised",
+        "exercises",
+        "exercising"
+    ],
+    "meaning_vi": "tập thể dục"
+}

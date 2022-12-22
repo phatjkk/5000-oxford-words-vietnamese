@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/baʊnd/"
+    ],
+    "synonyms": [
+        "committed",
+        "captive",
+        "shackled",
+        "bounce",
+        "roped"
+    ],
+    "meaning": [
+        {
+            "pos": "suffix",
+            "en": "Moving or travelling towards.",
+            "vi": "Đang di chuyển hoặc đi tới."
+        },
+        {
+            "pos": "verb",
+            "en": "To leap forward or upward; spring.",
+            "vi": "Để nhảy lên phía trước hoặc đi lên; mùa xuân."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of bound is destined to happen or tied or secured physically or emotionally.",
+            "vi": "Định nghĩa về sự ràng buộc được định sẵn để xảy ra hoặc ràng buộc hoặc được bảo đảm về mặt vật chất hoặc tình cảm."
+        },
+        {
+            "pos": "noun",
+            "en": "A leap; a jump.",
+            "vi": "Một bước nhảy vọt; một bước nhảy."
+        },
+        {
+            "pos": "affix",
+            "en": "Going or headed toward.",
+            "vi": "Đang đi hoặc đi về hướng."
+        },
+        {
+            "pos": "idiom",
+            "en": "(sports) in  Within the boundary of a playing field or court and therefore in play or legal.",
+            "vi": "(thể thao) trong Trong ranh giới của một sân chơi hoặc tòa án và do đó trong cuộc chơi hoặc hợp pháp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In such a hurry, she was bound to leave something behind that she would need later.",
+            "vi": "Vội vàng như vậy, cô nhất định phải bỏ lại một thứ mà sau này cô cần."
+        },
+        {
+            "en": "I would rather have a book bound by a hard cover than paperback.",
+            "vi": "Tôi thà có một cuốn sách được đóng bìa cứng hơn là bìa mềm."
+        }
+    ],
+    "words_form": [
+        "bounded",
+        "bounding",
+        "bounds"
+    ],
+    "meaning_vi": "ràng buộc"
+}

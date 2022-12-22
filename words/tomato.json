@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/təˈmeɪdoʊ/"
+    ],
+    "synonyms": [
+        "plant",
+        "vegetable",
+        "love-apple",
+        "tomato plant",
+        "Lycopersicon esculentum"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a tomato is a typically red fruit with juicy insides, used as a vegetable.",
+            "vi": "Định nghĩa về cà chua là một loại trái cây thường có màu đỏ với bên trong mọng nước, được sử dụng như một loại rau."
+        },
+        {
+            "pos": "verb",
+            "en": "To pelt with tomatoes.",
+            "vi": "Đánh tan cà chua."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The tomato plants were drooping, their crop reduced to small discolored fruit.",
+            "vi": "Cây cà chua bị rũ xuống, quả nhỏ bị biến màu."
+        },
+        {
+            "en": "Try a crusty panini filled with soppressata, fresh mozzerella, lettuce and tomato, or choose from more than a dozen others.",
+            "vi": "Hãy thử một chiếc bánh Panini giòn với nhân soppressata, mozzerella tươi, rau diếp và cà chua, hoặc chọn từ hơn một chục loại khác."
+        }
+    ],
+    "words_form": [
+        "tomatoes"
+    ],
+    "meaning_vi": "cà chua"
+}

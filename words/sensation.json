@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/sɛnˈseɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "sensitiveness",
+        "perception",
+        "excitement",
+        "response",
+        "sensibility"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A perception associated with stimulation of a sense organ or with a specific body condition.",
+            "vi": "Nhận thức liên quan đến sự kích thích của cơ quan cảm giác hoặc với một tình trạng cơ thể cụ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The sensation was almost physical.",
+            "vi": "Cảm giác gần như là vật lý."
+        },
+        {
+            "en": "I have had the same strange sensation even in the heart of the city.",
+            "vi": "Tôi đã có cùng một cảm giác kỳ lạ ngay cả ở trung tâm của thành phố."
+        }
+    ],
+    "words_form": [
+        "sensations"
+    ],
+    "meaning_vi": "cảm giác"
+}

@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈpɑrʃəl/"
+    ],
+    "synonyms": [
+        "biased",
+        "incomplete",
+        "unfinished",
+        "fair",
+        "influenced"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having a particular liking or fondness for something or someone.",
+            "vi": "Có một sở thích hoặc sự yêu thích đặc biệt đối với một cái gì đó hoặc một người nào đó."
+        },
+        {
+            "pos": "noun",
+            "en": "(mathematics) A partial derivative.",
+            "vi": "(toán học) Một đạo hàm riêng."
+        },
+        {
+            "pos": "idiom",
+            "en": "partial to  fond of; having a liking for",
+            "vi": "một phần để thích; thích"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Such cell-fusions may be partial or complete.",
+            "vi": "Sự hợp nhất tế bào như vậy có thể là một phần hoặc toàn bộ."
+        },
+        {
+            "en": "The offer was too partial and came too late.",
+            "vi": "Đề nghị quá phiến diện và đến quá muộn."
+        }
+    ],
+    "words_form": [
+        "partials"
+    ],
+    "meaning_vi": "một phần"
+}

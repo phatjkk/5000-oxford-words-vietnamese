@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/rɪˌlaɪəˈbɪlɪti/"
+    ],
+    "synonyms": [
+        "accuracy",
+        "authenticity",
+        "honesty",
+        "loyalty",
+        "safety"
+    ],
+    "meaning": [
+        {
+            "pos": "",
+            "en": "The trustworthiness to do what the system is expected or designed to do. Reliability metrics include the following averages:POFOD (probability of failure on demand)The likelihood that the system will fail when a user requests service. A biometric authentication device that fails to correctly identify or reject users an average of once out of a hundred times has a POFOD of 1%.ROCOF (rate of occurrence of failure)The number of unexpected events over a particular time of operation. A firewall that crashes an average of five times every 1,000 hours has a ROCOF of 5 per 1,000 hours.MTTF (mean time to failure)The average time between unexpected events. If an IDS fails on average every 300 hours, its MTTF is 300 hours.AVAIL (availability or uptime)The percentage of time that a system is available for use, taking into account planned and unplanned downtime. If a system is down an average of four hours out of 100 hours of operation, its AVAIL is 96%.",
+            "vi": "Một cơ chế điều chỉnh, như: Cơ chế trong đồng hồ mà tốc độ của nó được điều chỉnh. Đồng hồ có độ chính xác cao được sử dụng làm tiêu chuẩn để tính thời gian cho các đồng hồ khác. Một thiết bị dùng để duy trì tốc độ đồng nhất trong máy; một thống đốc. Một thiết bị được sử dụng để kiểm soát dòng chảy của chất khí, chất lỏng hoặc dòng điện."
+        },
+        {
+            "pos": "noun",
+            "en": "The quality of being reliable, dependable, or trustworthy.",
+            "vi": "Của hoặc liên quan đến quy định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Because of its reliability, agriculture will become more like an exact science.",
+            "vi": "Vì độ tin cậy của nó, nông nghiệp sẽ trở thành một ngành khoa học chính xác hơn."
+        },
+        {
+            "en": "Item notes within this site aim for honesty and reliability and attempt to avoid hyperbole and deceit.",
+            "vi": "Mục ghi chú trong trang web này nhằm mục đích trung thực và đáng tin cậy và cố gắng tránh cường điệu và lừa dối."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "",
+            "en": "The trustworthiness to do what the system is expected or designed to do. Reliability metrics include the following averages:POFOD (probability of failure on demand)The likelihood that the system will fail when a user requests service. A biometric authentication device that fails to correctly identify or reject users an average of once out of a hundred times has a POFOD of 1%.ROCOF (rate of occurrence of failure)The number of unexpected events over a particular time of operation. A firewall that crashes an average of five times every 1,000 hours has a ROCOF of 5 per 1,000 hours.MTTF (mean time to failure)The average time between unexpected events. If an IDS fails on average every 300 hours, its MTTF is 300 hours.AVAIL (availability or uptime)The percentage of time that a system is available for use, taking into account planned and unplanned downtime. If a system is down an average of four hours out of 100 hours of operation, its AVAIL is 96%.",
+            "vi": "Một cơ chế điều chỉnh, như: Cơ chế trong đồng hồ mà tốc độ của nó được điều chỉnh. Đồng hồ có độ chính xác cao được sử dụng làm tiêu chuẩn để tính thời gian cho các đồng hồ khác. Một thiết bị dùng để duy trì tốc độ đồng nhất trong máy; một thống đốc. Một thiết bị được sử dụng để kiểm soát dòng chảy của chất khí, chất lỏng hoặc dòng điện."
+        },
+        {
+            "pos": "noun",
+            "en": "The quality of being reliable, dependable, or trustworthy.",
+            "vi": "Của hoặc liên quan đến quy định."
+        }
+    ]
+}

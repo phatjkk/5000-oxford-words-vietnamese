@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/steɪk/"
+    ],
+    "synonyms": [
+        "ante",
+        "bet",
+        "share",
+        "rod",
+        "paling"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a stake is the portion owned or invested in a business venture.",
+            "vi": "Định nghĩa về cổ phần là phần sở hữu hoặc đầu tư vào một liên doanh kinh doanh."
+        },
+        {
+            "pos": "verb",
+            "en": "To put at hazard upon the issue of competition, or upon a future contingency; to wager; to pledge.",
+            "vi": "Đặt nguy cơ về vấn đề cạnh tranh, hoặc khi có tình huống xảy ra trong tương lai; đánh cuộc; để cam kết."
+        },
+        {
+            "pos": "idiom",
+            "en": "at stake  At risk; in question.",
+            "vi": "đang bị đe dọa Có rủi ro; trong câu hỏi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is more at stake here than your brother's life.",
+            "vi": "Có nhiều thứ đang bị đe dọa ở đây hơn là mạng sống của anh trai bạn."
+        },
+        {
+            "en": "There.s so much at stake, and you just … She sighed.",
+            "vi": "Có rất nhiều nguy cơ bị đe dọa, và bạn chỉ ... Cô ấy thở dài."
+        }
+    ],
+    "words_form": [
+        "staked",
+        "stakes",
+        "staking"
+    ],
+    "meaning_vi": "cái cọc; tiền đánh cược; tiền hùn vốn"
+}

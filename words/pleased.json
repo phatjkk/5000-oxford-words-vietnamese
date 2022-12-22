@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/plizd/"
+    ],
+    "synonyms": [
+        "glad",
+        "satisfied",
+        "gratified",
+        "happy",
+        "delighted"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Happy, content.",
+            "vi": "Hạnh phúc, mãn nguyện."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of please.",
+            "vi": "Quá khứ đơn và quá khứ phân từ của please."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I was pleased by his candor.",
+            "vi": "Tôi hài lòng bởi ánh nến của anh ấy."
+        },
+        {
+            "en": "I'm pleased she's helping you.",
+            "vi": "Tôi rất vui vì cô ấy đang giúp bạn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "vừa lòng"
+}

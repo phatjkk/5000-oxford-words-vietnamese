@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈhæbəˌtæt/"
+    ],
+    "synonyms": [
+        "territory",
+        "home",
+        "environment",
+        "cave",
+        "haunt"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The region where a plant or animal naturally grows or lives; native environment.",
+            "vi": "Khu vực mà thực vật hoặc động vật sinh trưởng hoặc sinh sống tự nhiên; môi trường bản địa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Vipera have the same habitat in British waters as certain species of soles.",
+            "vi": "Vipera có cùng môi trường sống ở vùng biển Anh với một số loài thuộc bộ đế."
+        },
+        {
+            "en": "Bees find a highly congenial habitat in Mexico, and some honey is exported.",
+            "vi": "Ong tìm thấy một môi trường sống thuận lợi ở Mexico, và một số mật ong được xuất khẩu."
+        }
+    ],
+    "words_form": [
+        "habitats"
+    ],
+    "meaning_vi": "môi trường sống"
+}

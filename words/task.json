@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/tæsk/"
+    ],
+    "synonyms": [
+        "assignment",
+        "job",
+        "herculean",
+        "study",
+        "load"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To task is to drain someone's resources or to assign someone to do a particular job.",
+            "vi": "Nhiệm vụ là tiêu hao tài nguyên của ai đó hoặc giao cho ai đó làm một công việc cụ thể."
+        },
+        {
+            "pos": "noun",
+            "en": "A difficult or tedious undertaking.",
+            "vi": "Một công việc khó khăn hoặc tẻ nhạt."
+        },
+        {
+            "pos": "idiom",
+            "en": "take  To reprimand or censure.",
+            "vi": "lấy để khiển trách hoặc chỉ trích."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's not an easy task to learn.",
+            "vi": "Nó không phải là một nhiệm vụ dễ dàng để học."
+        },
+        {
+            "en": "She almost laughed, feeling overwhelmed by her task and uneasy in the stranger's house.",
+            "vi": "Cô gần như bật cười, cảm thấy choáng ngợp với nhiệm vụ của mình và không thoải mái trong ngôi nhà của người lạ."
+        }
+    ],
+    "words_form": [
+        "tasked",
+        "tasks"
+    ],
+    "meaning_vi": "bài tập"
+}

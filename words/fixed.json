@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/fɪkst/"
+    ],
+    "synonyms": [
+        "patched",
+        "settled",
+        "solid",
+        "arranged",
+        "constant"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Fixed is defined as to have repaired something, or is slang meaning that an animal was spayed or neutered.",
+            "vi": "Cố định được định nghĩa là đã sửa chữa một cái gì đó, hoặc là tiếng lóng có nghĩa là một con vật đã bị giết hoặc vô hiệu hóa."
+        },
+        {
+            "pos": "adjective",
+            "en": "Determined; established; set.",
+            "vi": "Xác định; thành lập; bộ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Lisa got up every morning and fixed breakfast.",
+            "vi": "Lisa dậy mỗi sáng và chuẩn bị bữa sáng."
+        },
+        {
+            "en": "I fixed the door so it locks from the inside.",
+            "vi": "Tôi đã sửa cửa để nó khóa từ bên trong."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đã sửa"
+}

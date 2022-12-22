@@ -1,0 +1,75 @@
+{
+    "spelling": [
+        "/poʊst/"
+    ],
+    "synonyms": [
+        "notify",
+        "displace",
+        "tally",
+        "postal service",
+        "doorpost"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A position of employment, especially an appointed public office.",
+            "vi": "Một vị trí việc làm, đặc biệt là một văn phòng công cộng được bổ nhiệm."
+        },
+        {
+            "pos": "verb",
+            "en": "(chiefly british) To mail (a letter or package).",
+            "vi": "(chủ yếu là người Anh) Gửi qua đường bưu điện (một lá thư hoặc một gói hàng)."
+        },
+        {
+            "pos": "prefix",
+            "en": "After; later.",
+            "vi": "Sau; một lát sau."
+        },
+        {
+            "pos": "adverb",
+            "en": "By post horse.",
+            "vi": "Bằng ngựa bưu điện."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) (born Emily Price) 1873-1960; U.S. writer on etiquette.",
+            "vi": "(người) (sinh Emily Price) 1873-1960; Nhà văn Hoa Kỳ về nghi thức."
+        },
+        {
+            "pos": "affix",
+            "en": "After in time, later (than), following.",
+            "vi": "Sau trong thời gian, sau (hơn), sau đây."
+        },
+        {
+            "pos": "preposition",
+            "en": "After; especially after a significant event that has long-term ramifications.",
+            "vi": "Sau; đặc biệt là sau một sự kiện quan trọng có khả năng phân chia lâu dài."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Opts, pots, POTS, spot, Spot, stop, tops.",
+            "vi": "Opts, chậu, POTS, spot, Spot, stop, ngọn."
+        },
+        {
+            "pos": "idiom",
+            "en": "keep someone posted  to keep someone informed about a developing situation",
+            "vi": "giữ cho ai đó được đăng để giữ cho ai đó được thông báo về một tình huống đang phát triển"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "All my mail goes to a post office box.",
+            "vi": "Tất cả thư của tôi đều được chuyển đến hộp thư bưu điện."
+        },
+        {
+            "en": "I'll post a guard.",
+            "vi": "Tôi sẽ đăng một người bảo vệ."
+        }
+    ],
+    "words_form": [
+        "posted",
+        "posting",
+        "posts"
+    ],
+    "meaning_vi": "bài đăng"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/paɪp/"
+    ],
+    "synonyms": [
+        "trough",
+        "pipeline",
+        "aqueduct",
+        "hod",
+        "sewer"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a pipe is a hollow cylinder used to move liquids, gases or oil, or a tool for smoking, or a wind instrument where air vibrates to produce a sound.",
+            "vi": "Định nghĩa của ống là một hình trụ rỗng được sử dụng để di chuyển chất lỏng, khí hoặc dầu, hoặc một công cụ để hút hoặc một nhạc cụ hơi trong đó không khí rung động để tạo ra âm thanh."
+        },
+        {
+            "pos": "verb",
+            "en": "To utter in a shrill reedy tone.",
+            "vi": "Để thốt ra bằng một giọng điệu sậy chói tai."
+        },
+        {
+            "pos": "idiom",
+            "en": "pipe down  to become quiet or quieter; stop shouting, talking, etc.",
+            "vi": "đường ống xuống để trở nên yên tĩnh hoặc yên tĩnh hơn; ngừng la hét, nói chuyện, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The giant pipe ran through a wooded area, away from the cliff edge.",
+            "vi": "Đường ống khổng lồ chạy qua một khu vực nhiều cây cối, cách xa mép vách đá."
+        },
+        {
+            "en": "His pipe lay broken on the hearth.",
+            "vi": "Cái ống của anh ta bị vỡ trên lò sưởi."
+        }
+    ],
+    "words_form": [
+        "piped",
+        "pipes",
+        "piping"
+    ],
+    "meaning_vi": "ống"
+}

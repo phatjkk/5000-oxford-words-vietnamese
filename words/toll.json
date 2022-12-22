@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/toʊl/"
+    ],
+    "synonyms": [
+        "damage",
+        "customs",
+        "sound",
+        "deaths",
+        "losses"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A fixed charge or tax for a privilege, especially for passage across a bridge or along a road.",
+            "vi": "Một khoản phí hoặc thuế cố định cho một đặc quyền, đặc biệt là đối với việc đi qua cầu hoặc dọc theo con đường."
+        },
+        {
+            "pos": "verb",
+            "en": "To sound in slowly repeated single tones.",
+            "vi": "Để phát ra các âm đơn lặp lại chậm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The dispositions drawn up by Toll were very good.",
+            "vi": "Các bố cục được vẽ ra bởi Toll rất tốt."
+        },
+        {
+            "en": "The toll or message rates are £3, with id.",
+            "vi": "Mức phí gọi điện hoặc tin nhắn là £ 3, có id."
+        }
+    ],
+    "words_form": [
+        "tolled",
+        "tolling",
+        "tolls"
+    ],
+    "meaning_vi": "thu phí"
+}

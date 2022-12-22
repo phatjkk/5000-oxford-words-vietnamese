@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/wərm/"
+    ],
+    "synonyms": [
+        "grub",
+        "larva",
+        "caterpillar",
+        "insect",
+        "twist"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a worm is an animal that is slender, soft and often segmented, or an insect larva, or a nasty person, or an unauthorized computer program.",
+            "vi": "Định nghĩa về sâu là một động vật mảnh mai, mềm và thường phân khúc, hoặc là ấu trùng côn trùng, hoặc người xấu tính, hoặc một chương trình máy tính trái phép."
+        },
+        {
+            "pos": "verb",
+            "en": "To move, proceed, etc. like a worm, in a winding, creeping, or devious manner.",
+            "vi": "Để di chuyển, tiến hành, v.v. giống như một con sâu, theo cách quanh co, leo lẻo hoặc quanh co."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "(computers) Write once, read many.",
+            "vi": "(máy tính) Viết một lần, đọc nhiều."
+        },
+        {
+            "pos": "idiom",
+            "en": "can of worms  a complex, usually unpleasant problem",
+            "vi": "giun có thể là một vấn đề phức tạp, thường là khó chịu"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The adult worm in the female sometimes reaches a length of 6 ft.",
+            "vi": "Giun trưởng thành ở con cái đôi khi đạt chiều dài 6 ft."
+        },
+        {
+            "en": "A bird came and brought a great big worm.",
+            "vi": "Một con chim đến và mang theo một con sâu to lớn."
+        }
+    ],
+    "words_form": [
+        "wormed",
+        "worming",
+        "worms"
+    ],
+    "meaning_vi": "sâu; giun"
+}

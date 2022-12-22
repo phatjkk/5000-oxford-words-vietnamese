@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈvɛri/"
+    ],
+    "synonyms": [
+        "extremely",
+        "incredibly",
+        "exceedingly",
+        "quite",
+        "astonishingly"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Very is defined as extremely or really.",
+            "vi": "Very được định nghĩa là cực kỳ hoặc thực sự."
+        },
+        {
+            "pos": "adjective",
+            "en": "Complete; absolute.",
+            "vi": "Hoàn thành; tuyệt đối."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You love him very much.",
+            "vi": "Bạn yêu anh ấy rất nhiều."
+        },
+        {
+            "en": "It's a very small window.",
+            "vi": "Đó là một cửa sổ rất nhỏ."
+        }
+    ],
+    "words_form": [
+        "verier",
+        "veriest"
+    ],
+    "meaning_vi": "rất"
+}

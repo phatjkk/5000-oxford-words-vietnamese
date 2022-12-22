@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kwɛst/"
+    ],
+    "synonyms": [
+        "journey",
+        "seek",
+        "search",
+        "examine",
+        "adventure"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A journey or effort in pursuit of a goal (often lengthy, ambitious, or fervent); a mission.",
+            "vi": "Một cuộc hành trình hoặc nỗ lực theo đuổi một mục tiêu (thường kéo dài, đầy tham vọng hoặc nhiệt thành); một nhiệm vụ."
+        },
+        {
+            "pos": "verb",
+            "en": "Quest is defined as to search, seek or journey.",
+            "vi": "Nhiệm vụ được định nghĩa là tìm kiếm, tìm kiếm hoặc hành trình."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Quantized electronic structure.",
+            "vi": "Cấu trúc điện tử lượng tử hóa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "So where does that leave us in our quest to end disease?",
+            "vi": "Vậy đâu là điều khiến chúng ta phải nỗ lực tìm cách chấm dứt bệnh tật?"
+        },
+        {
+            "en": "The quest was very costly and altogether fruitless.",
+            "vi": "Nhiệm vụ rất tốn kém và hoàn toàn không có kết quả."
+        }
+    ],
+    "words_form": [
+        "quested",
+        "questing",
+        "quests"
+    ],
+    "meaning_vi": "nhiệm vụ"
+}

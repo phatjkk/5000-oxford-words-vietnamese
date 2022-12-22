@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈkɒnsɪkwəntli/"
+    ],
+    "synonyms": [
+        "therefore",
+        "ergo",
+        "thereupon",
+        "wherefore"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "As a result; by logical inference; therefore.",
+            "vi": "Kết quả là; bằng suy luận logic; vì thế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It consequently has four vertices and six edges.",
+            "vi": "Do đó, nó có bốn đỉnh và sáu cạnh."
+        },
+        {
+            "en": "Consequently, I need more time to prepare my lessons than other girls.",
+            "vi": "Do đó, tôi cần nhiều thời gian để chuẩn bị bài hơn những cô gái khác."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "adverb",
+            "en": "As a result; by logical inference; therefore.",
+            "vi": "Kết quả là; bằng suy luận logic; vì thế."
+        }
+    ]
+}

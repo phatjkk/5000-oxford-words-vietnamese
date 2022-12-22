@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ɡræs/"
+    ],
+    "synonyms": [
+        "lawn",
+        "hayfield",
+        "graze",
+        "rat",
+        "meadow"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Grass means vegetation consisting of short plants, or a piece of land with such vegetation.",
+            "vi": "Cỏ có nghĩa là thảm thực vật bao gồm các loại cây ngắn hoặc một mảnh đất có thảm thực vật đó."
+        },
+        {
+            "pos": "verb",
+            "en": "Grass is defined as to grow vegetation with narrow, long leaves, or to send an animal out to eat in the pasture.",
+            "vi": "Cỏ được định nghĩa là để phát triển thảm thực vật có lá dài và hẹp, hoặc để đưa một động vật ra ngoài ăn trên đồng cỏ."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of grass is of the family Poaceace which has jointed stems, long and narrow leaves and seed-like fruit.",
+            "vi": "Định nghĩa về cỏ là thuộc họ Poaceace có thân nối với nhau, lá dài và hẹp và quả giống như hạt."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1927-2015; Ger. writer.",
+            "vi": "(người) 1927-2015; Ger. nhà văn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She made grass grow.",
+            "vi": "Cô ấy đã làm cho cỏ mọc."
+        },
+        {
+            "en": "He brushed some grass from her back.",
+            "vi": "Anh chải một ít cỏ trên lưng cô."
+        }
+    ],
+    "words_form": [
+        "grasses"
+    ],
+    "meaning_vi": "cỏ"
+}

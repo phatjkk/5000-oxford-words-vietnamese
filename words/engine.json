@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈɛndʒən/"
+    ],
+    "synonyms": [
+        "motor",
+        "generator",
+        "power-plant",
+        "transformer",
+        "donkey"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an engine is a machine or instrument that uses energy to create mechanical power, or a locomotive on a train.",
+            "vi": "Định nghĩa về động cơ là một máy móc hoặc dụng cụ sử dụng năng lượng để tạo ra cơ năng hay còn gọi là đầu máy trên tàu hỏa."
+        },
+        {
+            "pos": "verb",
+            "en": "To equip with an engine or engines.",
+            "vi": "Để trang bị động cơ hoặc các động cơ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He waited to hear an engine start, ready to pounce.",
+            "vi": "Anh chờ nghe tiếng động cơ nổ máy, sẵn sàng lao tới."
+        },
+        {
+            "en": "I felt the hot breath from the engine on my face, and the smoke and ashes almost choked us.",
+            "vi": "Tôi cảm thấy hơi thở nóng hổi từ động cơ phả vào mặt mình, khói và tro gần như làm chúng tôi nghẹt thở."
+        }
+    ],
+    "words_form": [
+        "engines"
+    ],
+    "meaning_vi": "động cơ"
+}

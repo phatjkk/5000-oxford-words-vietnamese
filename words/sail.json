@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/seɪl/"
+    ],
+    "synonyms": [
+        "trip",
+        "travel",
+        "cloth",
+        "cruise",
+        "excursion"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a sail is a strong sheet of fabric attached to a boat used to catch and use wind to move the boat forward in water.",
+            "vi": "Định nghĩa của buồm là một tấm vải chắc chắn gắn vào thuyền dùng để hứng và dùng gió để đưa thuyền đi về phía trước trong nước."
+        },
+        {
+            "pos": "verb",
+            "en": "Sail is defined as to move, float or glide smoothly through water or air, or to move quickly.",
+            "vi": "Cánh buồm được định nghĩa là di chuyển, trôi nổi hoặc lướt nhẹ nhàng trong nước hoặc không khí, hoặc di chuyển nhanh chóng."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "See also sail.",
+            "vi": "Xem thêm buồm."
+        },
+        {
+            "pos": "idiom",
+            "en": "under sail  With the sails up; sailing.",
+            "vi": "dưới cánh buồm Với những cánh buồm lên; đi thuyền."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Before he set sail for Egypt, the French had taken possession of Rome.",
+            "vi": "Trước khi ông lên đường đến Ai Cập, người Pháp đã chiếm giữ thành Rome."
+        },
+        {
+            "en": "I don't know how to sail!",
+            "vi": "Tôi không biết cách chèo thuyền!"
+        }
+    ],
+    "words_form": [
+        "sailed",
+        "sailing",
+        "sails"
+    ],
+    "meaning_vi": "cánh buồm"
+}

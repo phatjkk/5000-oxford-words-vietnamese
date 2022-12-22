@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈbraʊzər/"
+    ],
+    "synonyms": [
+        "internet",
+        "code or source code",
+        "javascript",
+        "web browser",
+        "toolbar"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a browser is a software program used to view websites or files.",
+            "vi": "Định nghĩa về trình duyệt là một chương trình phần mềm được sử dụng để xem các trang web hoặc tệp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Google/ Google, which is one of the biggest search engines out there, has a system for ranking pages that is illustrated in a Page Rank bar on the Google toolbar (which is a free addition to your web browser and can be downloaded here).",
+            "vi": "Google / Google, là một trong những công cụ tìm kiếm lớn nhất hiện có, có một hệ thống xếp hạng các trang được minh họa trong thanh Xếp hạng Trang trên thanh công cụ của Google (đây là phần bổ sung miễn phí cho trình duyệt web của bạn và có thể tải xuống tại đây)."
+        },
+        {
+            "en": "For web browsing, SP2 extends Internet Explorer with a pop-up blocker and the ability to disable browser add-ons.",
+            "vi": "Để duyệt web, SP2 mở rộng Internet Explorer với trình chặn cửa sổ bật lên và khả năng vô hiệu hóa các tiện ích bổ sung của trình duyệt."
+        }
+    ],
+    "words_form": [
+        "browsers"
+    ],
+    "meaning_vi": "Trình duyệt"
+}

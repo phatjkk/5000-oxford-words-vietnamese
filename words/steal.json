@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/stil/"
+    ],
+    "synonyms": [
+        "rob",
+        "loot",
+        "keep",
+        "larceny",
+        "bag"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To take (the property of another) without right or permission.",
+            "vi": "Lấy (tài sản của người khác) mà không có quyền hoặc sự cho phép."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of stealing.",
+            "vi": "Hành động ăn cắp."
+        },
+        {
+            "pos": "idiom",
+            "en": "steal (someone's) thunder  To use, appropriate, or preempt the use of another's idea, especially to one's own advantage and without consent by the originator.",
+            "vi": "ăn cắp (của ai đó) sấm sét Để sử dụng, chiếm đoạt hoặc chặn trước việc sử dụng ý tưởng của người khác, đặc biệt là vì lợi ích của chính mình và không có sự đồng ý của người khởi tạo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Your goal is to steal a necklace with a red gem on it.",
+            "vi": "Mục tiêu của bạn là ăn cắp một chiếc vòng cổ có gắn một viên đá quý màu đỏ trên đó."
+        },
+        {
+            "en": "If they do, it will be to steal my ore.",
+            "vi": "Nếu họ làm vậy, nó sẽ là ăn cắp quặng của tôi."
+        }
+    ],
+    "words_form": [
+        "stealing",
+        "steals",
+        "stole",
+        "stolen"
+    ],
+    "meaning_vi": "lấy trộm"
+}

@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈwərkɪŋ/"
+    ],
+    "synonyms": [
+        "effective",
+        "retained",
+        "toiling",
+        "performance",
+        "on-the-job"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Working is defined as the process or action of completing a task.",
+            "vi": "Làm việc được định nghĩa là quá trình hoặc hành động hoàn thành một nhiệm vụ."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of working is able to or used to complete a task or a job.",
+            "vi": "Định nghĩa về làm việc là có thể hoặc được sử dụng để hoàn thành một nhiệm vụ hoặc một công việc."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of work.",
+            "vi": "Trình bày phân từ công việc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She's working at the hospital to pay for her education.",
+            "vi": "Cô ấy đang làm việc tại bệnh viện để trang trải chi phí học tập."
+        },
+        {
+            "en": "But you haven't been working there all that long.",
+            "vi": "Nhưng bạn đã không làm việc ở đó lâu như vậy."
+        }
+    ],
+    "words_form": [
+        "workings"
+    ],
+    "meaning_vi": "đang làm việc"
+}

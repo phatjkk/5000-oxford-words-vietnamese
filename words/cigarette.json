@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈsɪɡəˌrɛt/",
+        "/ˌsɪɡəˈrɛt/"
+    ],
+    "synonyms": [
+        "butt",
+        "puff",
+        "coffin-nail",
+        "reefer",
+        "smoke"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A small roll of finely cut tobacco for smoking, enclosed in a wrapper of thin paper.",
+            "vi": "Một cuộn thuốc lá cắt nhỏ để hút, được bọc trong một lớp giấy mỏng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He rolled a cigarette as he spoke.",
+            "vi": "Anh ta vừa lăn một điếu thuốc vừa nói."
+        },
+        {
+            "en": "She finished the cigarette and lit another.",
+            "vi": "Cô ấy hút xong điếu thuốc và châm một điếu khác."
+        }
+    ],
+    "words_form": [
+        "cigarettes"
+    ],
+    "meaning_vi": "thuốc lá"
+}

@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/mæs/"
+    ],
+    "synonyms": [
+        "piece",
+        "horde",
+        "hunk",
+        "tumor",
+        "worship"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The body of common people or people of low socioeconomic status.",
+            "vi": "Cơ thể của những người bình thường hoặc những người có địa vị kinh tế xã hội thấp."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, characteristic of, directed at, or attended by a large number of people.",
+            "vi": "Của, liên quan đến, đặc điểm của, được hướng vào, hoặc được tham dự bởi một số lượng lớn người."
+        },
+        {
+            "pos": "verb",
+            "en": "To gather or be gathered into a mass.",
+            "vi": "Để tập hợp hoặc được tập hợp thành một khối."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Massachusetts.",
+            "vi": "Massachusetts."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the mass  collectively; as a whole",
+            "vi": "trong khối tập thể; nói chung"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There grew up a mass of controversial matter which it is amusing to read now.",
+            "vi": "Đã xuất hiện một khối lượng lớn các vấn đề gây tranh cãi mà bây giờ đọc thấy thú vị."
+        },
+        {
+            "en": "The materials mixed with the iron borings cause them to rust into a solid mass, and in doing so a slight expansion takes place.",
+            "vi": "Các vật liệu trộn lẫn với các lò xo sắt khiến chúng bị rỉ sét thành một khối rắn, và khi làm như vậy sẽ xảy ra hiện tượng giãn nở nhẹ."
+        }
+    ],
+    "words_form": [
+        "massed",
+        "masses",
+        "massing"
+    ],
+    "meaning_vi": "khối lượng"
+}

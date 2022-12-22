@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/θru/"
+    ],
+    "synonyms": [
+        "via",
+        "ended",
+        "completed",
+        "onto",
+        "in"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "Among or between; in the midst of.",
+            "vi": "Giữa hoặc giữa; ở giữa."
+        },
+        {
+            "pos": "adverb",
+            "en": "Through means completely or to the end.",
+            "vi": "Thông qua có nghĩa là hoàn toàn hoặc đến cùng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Allowing continuous passage; unobstructed.",
+            "vi": "Cho phép đi qua liên tục; không bị cản trở."
+        },
+        {
+            "pos": "noun",
+            "en": "A large slab of stone laid on a tomb.",
+            "vi": "Một phiến đá lớn đặt trên một ngôi mộ."
+        },
+        {
+            "pos": "idiom",
+            "en": "through and through  In every part; throughout: Wet through and through.In every aspect; completely: A success through and through.",
+            "vi": "xuyên suốt và xuyên suốt Trong mọi phần; trong suốt: Ướt qua và xuyên suốt. Ở mọi khía cạnh; hoàn toàn: Một thành công xuyên suốt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He ran a hand through his hair.",
+            "vi": "Anh đưa tay vuốt tóc."
+        },
+        {
+            "en": "Soldiers were marching through the fields.",
+            "vi": "Những người lính đang hành quân qua các cánh đồng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "xuyên qua"
+}

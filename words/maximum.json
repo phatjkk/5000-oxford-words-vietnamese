@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈmæksəməm/"
+    ],
+    "synonyms": [
+        "highest",
+        "preeminence",
+        "limitation",
+        "minimum",
+        "acme"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(math.) The largest of a specified set of real numbers.",
+            "vi": "(toán học.) Lớn nhất của một tập hợp các số thực xác định."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of maximum is the largest number or highest number of something that is permissible or possible.",
+            "vi": "Định nghĩa của tối đa là số lớn nhất hoặc số cao nhất của một cái gì đó được phép hoặc có thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She came to her feet, stretching her body to its maximum height.",
+            "vi": "Cô đứng dậy, kéo căng cơ thể đến độ cao tối đa."
+        },
+        {
+            "en": "Where everyone can live up to his or her maximum potential.",
+            "vi": "Nơi mọi người có thể phát huy hết khả năng của mình."
+        }
+    ],
+    "words_form": [
+        "max",
+        "maxima",
+        "maximums"
+    ],
+    "meaning_vi": "tối đa"
+}

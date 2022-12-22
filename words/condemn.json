@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/kənˈdɛm/"
+    ],
+    "synonyms": [
+        "convict",
+        "sentence",
+        "rebuke",
+        "criticize",
+        "denounce"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To express strong disapproval of.",
+            "vi": "Để bày tỏ sự phản đối mạnh mẽ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Don't condemn him before you hear the evidence.",
+            "vi": "Đừng lên án anh ta trước khi bạn nghe bằng chứng."
+        },
+        {
+            "en": "Even now I cannot find it in my heart to condemn them utterly.",
+            "vi": "Ngay cả bây giờ tôi cũng không thể tìm thấy trong lòng mình để lên án họ hoàn toàn."
+        }
+    ],
+    "words_form": [
+        "condemned",
+        "condemning",
+        "condemns"
+    ],
+    "meaning_vi": "lên án"
+}

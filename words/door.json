@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/dɔr/"
+    ],
+    "synonyms": [
+        "gate",
+        "hatchway",
+        "portal",
+        "threshold",
+        "panel"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a door is a movable structure used for opening and closing an entrance or for giving access to something.",
+            "vi": "Định nghĩa của một cánh cửa là một cấu trúc có thể di chuyển được dùng để mở và đóng một lối vào hoặc để cho phép tiếp cận một thứ gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "(slang) To strike (a passing bicyclist, for example) by suddenly opening a vehicular door.",
+            "vi": "(tiếng lóng) Để tấn công (ví dụ: một người đi xe đạp đang đi qua) bằng cách đột ngột mở cửa xe."
+        },
+        {
+            "pos": "idiom",
+            "en": "at (someone's) door  As a charge holding someone responsible: You shouldn't lay the blame for the fiasco at her door.",
+            "vi": "tại cửa (của ai đó) Như một trách nhiệm giữ một ai đó chịu trách nhiệm: Bạn không nên đổ lỗi cho sự thất bại trước cửa nhà của cô ấy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Alex met her at the door, a steaming cup of coffee in one hand.",
+            "vi": "Alex gặp cô ở cửa, một tay cầm tách cà phê bốc khói."
+        },
+        {
+            "en": "The door opened and Alex stepped into the room.",
+            "vi": "Cánh cửa mở ra và Alex bước vào phòng."
+        }
+    ],
+    "words_form": [
+        "doors"
+    ],
+    "meaning_vi": "cửa ra vào"
+}

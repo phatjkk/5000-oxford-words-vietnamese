@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/skɪn/"
+    ],
+    "synonyms": [
+        "epidermis",
+        "dermis",
+        "integument",
+        "bark",
+        "defraud"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Skin is the outer layer of something.",
+            "vi": "Da là lớp bên ngoài của một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To cover with a skin or a similar layer.",
+            "vi": "Để phủ một lớp da hoặc một lớp tương tự."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or depicting pornography.",
+            "vi": "Trong đó, liên quan đến hoặc mô tả nội dung khiêu dâm."
+        },
+        {
+            "pos": "idiom",
+            "en": "by the skin of (one's) teeth  By the smallest margin.",
+            "vi": "bằng da của (một người) răng Bằng lề nhỏ nhất."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If she wanted a small object and was given a large one, she would shake her head and take up a tiny bit of the skin of one hand between the thumb and finger of the other.",
+            "vi": "Nếu cô ấy muốn một vật nhỏ và được đưa cho một vật lớn, cô ấy sẽ lắc đầu và chiếm lấy một chút da của bàn tay giữa ngón cái và ngón tay kia."
+        },
+        {
+            "en": "Her skin was already covered with dust.",
+            "vi": "Da cô ấy đã phủ đầy bụi."
+        }
+    ],
+    "words_form": [
+        "skinned",
+        "skinning",
+        "skins"
+    ],
+    "meaning_vi": "da"
+}

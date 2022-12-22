@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/θæŋks/"
+    ],
+    "synonyms": [
+        "grateful",
+        "appreciation",
+        "gratitude",
+        "gratefulness",
+        "acknowledgment"
+    ],
+    "meaning": [
+        {
+            "pos": "interjection",
+            "en": "Used to express thanks.",
+            "vi": "Được sử dụng để bày tỏ sự cảm ơn."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "An expression of gratitude; grateful acknowledgment of something received by or done for one.",
+            "vi": "Một biểu hiện của lòng biết ơn; sự thừa nhận biết ơn về một cái gì đó đã nhận được hoặc làm cho một người."
+        },
+        {
+            "pos": "noun",
+            "en": "(plural only) An expression of gratitude.",
+            "vi": "(chỉ số nhiều) Một biểu hiện của lòng biết ơn."
+        },
+        {
+            "pos": "verb",
+            "en": "Third-person singular simple present indicative form of thank.",
+            "vi": "Ngôi thứ ba số ít, hiện tại đơn giản dạng biểu thị cảm ơn."
+        },
+        {
+            "pos": "idiom",
+            "en": "no thanks to  Without the benefit of help from: Finally found the house, no thanks to these confusing directions.",
+            "vi": "no thanks to Nếu không có lợi ích của sự giúp đỡ từ: Cuối cùng cũng tìm được nhà, không nhờ vào những hướng khó hiểu này."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Thanks, but I did all this by myself until you came along.",
+            "vi": "Cảm ơn, nhưng tôi đã làm tất cả những điều này một mình cho đến khi bạn đi cùng."
+        },
+        {
+            "en": "\"Thanks,\" he said, giving Rachel a little hug.",
+            "vi": "“Cảm ơn,” anh nói, ôm Rachel một chút."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "cảm ơn"
+}

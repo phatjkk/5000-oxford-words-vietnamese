@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/spaɪs/"
+    ],
+    "synonyms": [
+        "aroma",
+        "cinnamon",
+        "savor",
+        "curry",
+        "allspice"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Spice is defined as to add seasoning or flavor.",
+            "vi": "Gia vị được định nghĩa là để thêm gia vị hoặc hương vị."
+        },
+        {
+            "pos": "noun",
+            "en": "Spice is a strong scented plant substance, a strong scent or something that adds flavor.",
+            "vi": "Gia vị là một chất thực vật có mùi thơm mạnh, mùi hương nồng hoặc thứ gì đó làm tăng thêm hương vị."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She sipped her drink, surprised to find it really was her favorite, a pumpkin spice latte.",
+            "vi": "Cô nhấp một ngụm đồ uống của mình, ngạc nhiên khi thấy nó thực sự là món yêu thích của cô, một ly cà phê gia vị bí ngô."
+        },
+        {
+            "en": "Save room for dessert and enjoy the pumpkin spice cheesecake.",
+            "vi": "Để dành chỗ cho món tráng miệng và thưởng thức bánh pho mát gia vị bí ngô."
+        }
+    ],
+    "words_form": [
+        "spiced",
+        "spices",
+        "spicing"
+    ],
+    "meaning_vi": "gia vị"
+}

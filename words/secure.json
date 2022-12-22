@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/səˈkjʊr/"
+    ],
+    "synonyms": [
+        "confident",
+        "dependable",
+        "bound",
+        "steady",
+        "firm"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of secure is something that is fastened securely. The definition of secure also is being free from danger or loss.",
+            "vi": "Định nghĩa của an toàn là một cái gì đó được gắn chặt một cách an toàn. Định nghĩa về an toàn cũng không bị nguy hiểm hoặc mất mát."
+        },
+        {
+            "pos": "verb",
+            "en": "To secure is to firmly attach something, to take action to make an area safe or to obtain something that you have been seeking.",
+            "vi": "Bảo mật là gắn chặt một thứ gì đó, thực hiện hành động để đảm bảo một khu vực an toàn hoặc để lấy được thứ mà bạn đang tìm kiếm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The line is as secure as I can make it.",
+            "vi": "Đường dây được bảo mật như tôi có thể làm được."
+        },
+        {
+            "en": "It makes me feel secure to know you're there and I can depend on you.",
+            "vi": "Tôi cảm thấy yên tâm khi biết bạn ở đó và tôi có thể phụ thuộc vào bạn."
+        }
+    ],
+    "words_form": [
+        "secured",
+        "secures",
+        "securest",
+        "securing"
+    ],
+    "meaning_vi": "an toàn"
+}

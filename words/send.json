@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/sɛnd/"
+    ],
+    "synonyms": [
+        "ship",
+        "consign",
+        "conduct",
+        "communicate",
+        "transmit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Send is defined as to direct, order or cause to go.",
+            "vi": "Gửi được định nghĩa là để chỉ đạo, ra lệnh hoặc nguyên nhân để đi."
+        },
+        {
+            "pos": "noun",
+            "en": "The driving motion of a wave or the sea.",
+            "vi": "Chuyển động của sóng hoặc biển."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) send flying  To cause to be knocked or scattered about with force: A blow to the table that sent the dishes flying.",
+            "vi": "(không chính thức) bay đi Có thể gây ra va đập hoặc phân tán bằng lực: Một cú đánh vào bàn làm bay các món ăn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll be sure to send it to you.",
+            "vi": "Tôi chắc chắn sẽ gửi nó cho bạn."
+        },
+        {
+            "en": "I'll send it off to find out.",
+            "vi": "Tôi sẽ gửi nó đi để tìm hiểu."
+        }
+    ],
+    "words_form": [
+        "sending",
+        "sends",
+        "sent"
+    ],
+    "meaning_vi": "gửi"
+}

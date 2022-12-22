@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/rəˈkɔl/"
+    ],
+    "synonyms": [
+        "remember",
+        "evoke",
+        "revive",
+        "discharge",
+        "call-back"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To recall is defined as to bring, call back or remember.",
+            "vi": "Để gọi lại được định nghĩa là mang theo, gọi lại hoặc ghi nhớ."
+        },
+        {
+            "pos": "noun",
+            "en": "A signal, such as a bugle call, used to summon troops back to their posts.",
+            "vi": "Một tín hiệu, chẳng hạn như tiếng chuông gọi, được sử dụng để triệu tập quân đội trở lại vị trí của họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She definitely didn't recall this place.",
+            "vi": "Cô ấy chắc chắn không nhớ lại nơi này."
+        },
+        {
+            "en": "I cannot recall what happened during the first months after my illness.",
+            "vi": "Tôi không thể nhớ lại những gì đã xảy ra trong những tháng đầu tiên sau khi bị bệnh."
+        }
+    ],
+    "words_form": [
+        "recalled",
+        "recalls"
+    ],
+    "meaning_vi": "hồi tưởng"
+}

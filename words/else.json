@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ɛls/"
+    ],
+    "synonyms": [
+        "different",
+        "extra",
+        "instead",
+        "besides",
+        "otherwise"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Different; other.",
+            "vi": "Khác nhau; khác."
+        },
+        {
+            "pos": "adverb",
+            "en": "Otherwise; if not.",
+            "vi": "Nếu không thì; nếu không."
+        },
+        {
+            "pos": "conjunction",
+            "en": "For otherwise; or else.",
+            "vi": "Đối với mặt khác; hoặc cái gì đó khác."
+        },
+        {
+            "pos": "idiom",
+            "en": "or else  Used to indicate an alternative: We need to eat the leftovers or else buy more food.Used to indicate negative consequences that will result if an action is not followed: We need to pay the bill, or else the electricity will be shut off.Used after a command or demand to make a threat: Be there on time, or else!.",
+            "vi": "hoặc khác Được sử dụng để chỉ một giải pháp thay thế: Chúng ta cần ăn thức ăn thừa hoặc mua thêm thức ăn. Dùng để chỉ những hậu quả tiêu cực sẽ xảy ra nếu một hành động không được tuân thủ: Chúng ta cần thanh toán hóa đơn, nếu không điện sẽ bị ngắt .Được sử dụng sau một lệnh hoặc yêu cầu để đe dọa: Có mặt đúng giờ, hoặc nếu không !."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Someone else carries this baby for you.",
+            "vi": "Có người khác bế em bé này cho bạn."
+        },
+        {
+            "en": "We're going somewhere else to talk.",
+            "vi": "Chúng ta sẽ đến một nơi khác để nói chuyện."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khác"
+}

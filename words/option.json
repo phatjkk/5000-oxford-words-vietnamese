@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈɑpʃ(ə)n/"
+    ],
+    "synonyms": [
+        "alternative",
+        "choice",
+        "substitute",
+        "possibility",
+        "opportunity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of choosing; choice.",
+            "vi": "Hành động lựa chọn; sự lựa chọn."
+        },
+        {
+            "pos": "verb",
+            "en": "To acquire or grant an option on.",
+            "vi": "Để có được hoặc cấp một tùy chọn trên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maybe Gabriel's option was best.",
+            "vi": "Có lẽ lựa chọn của Gabriel là tốt nhất."
+        },
+        {
+            "en": "Regrouping is our only option right now.",
+            "vi": "Tập hợp lại là lựa chọn duy nhất của chúng tôi ngay bây giờ."
+        }
+    ],
+    "words_form": [
+        "optioned",
+        "options"
+    ],
+    "meaning_vi": "lựa chọn"
+}

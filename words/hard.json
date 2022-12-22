@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/hɑrd/"
+    ],
+    "synonyms": [
+        "tough",
+        "difficult",
+        "solid",
+        "arduous",
+        "cruel"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Extremely or dangerously addictive. Used of certain illegal drugs, such as heroin.",
+            "vi": "Gây nghiện cực kỳ hoặc nguy hiểm. Đã sử dụng một số loại ma túy bất hợp pháp, chẳng hạn như heroin."
+        },
+        {
+            "pos": "adverb",
+            "en": "With great force, vigor, or energy.",
+            "vi": "Với lực, sức sống hoặc năng lượng lớn."
+        },
+        {
+            "pos": "antonyms",
+            "en": "(of roads): soft.",
+            "vi": "(của đường): mềm."
+        },
+        {
+            "pos": "noun",
+            "en": "(nautical) A firm or paved beach or slope convenient for hauling vessels out of the water.",
+            "vi": "(hải lý) Bãi biển chắc chắn, lát đá hoặc dốc thuận tiện cho việc kéo tàu thuyền lên khỏi mặt nước."
+        },
+        {
+            "pos": "idiom",
+            "en": "hard and fast  Defined, fixed, and invariable: Hard and fast rules.",
+            "vi": "cứng và nhanh Được xác định, cố định và bất biến: Quy tắc cứng và nhanh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can see why Alex fell so hard for you.",
+            "vi": "Tôi có thể hiểu tại sao Alex lại rơi vào tình trạng khó khăn như vậy đối với bạn."
+        },
+        {
+            "en": "It was hard to tell.",
+            "vi": "Thật khó để nói."
+        }
+    ],
+    "words_form": [
+        "harder",
+        "hardest"
+    ],
+    "meaning_vi": "cứng"
+}

@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/breɪv/"
+    ],
+    "synonyms": [
+        "fearless",
+        "courageous",
+        "bold",
+        "daring",
+        "valiant"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Brave means to face something with courage.",
+            "vi": "Dũng cảm có nghĩa là đối mặt với điều gì đó với lòng dũng cảm."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of brave is having courage.",
+            "vi": "Định nghĩa của dũng cảm là có dũng khí."
+        },
+        {
+            "pos": "noun",
+            "en": "Brave is defined as someone who has courage, particularly a Native American warrior.",
+            "vi": "Brave được định nghĩa là một người có lòng dũng cảm, đặc biệt là một chiến binh người Mỹ bản địa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was brave now that he faced only a woman.",
+            "vi": "Bây giờ anh thật dũng cảm khi anh chỉ đối mặt với một người phụ nữ."
+        },
+        {
+            "en": "Her eyes watered at his brave words, and she hugged him.",
+            "vi": "Đôi mắt cô ngấn nước trước những lời nói dũng cảm của anh, và cô ôm lấy anh."
+        }
+    ],
+    "words_form": [
+        "braved",
+        "braver",
+        "braves",
+        "bravest",
+        "braving"
+    ],
+    "meaning_vi": "dũng cảm"
+}

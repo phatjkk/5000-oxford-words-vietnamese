@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈkɑnˌtɛst/"
+    ],
+    "synonyms": [
+        "challenge",
+        "engagement",
+        "brawl",
+        "grapple",
+        "fight"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a contest is an event in which people compete to be considered the winner or to win some prize or recognition.",
+            "vi": "Định nghĩa của một cuộc thi là một sự kiện trong đó mọi người cạnh tranh để được coi là người chiến thắng hoặc giành được một số giải thưởng hoặc sự công nhận."
+        },
+        {
+            "pos": "verb",
+            "en": "To contest is to dispute or fight for something.",
+            "vi": "Tranh chấp là tranh chấp hoặc tranh giành một thứ gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "no contest  nolo contendere a match or competition in which one side easily dominates",
+            "vi": "không có cuộc thi nolo nào tranh giành một trận đấu hoặc cuộc thi mà một bên dễ dàng chiếm ưu thế"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "None of us would win a beauty contest, would we?",
+            "vi": "Không ai trong chúng ta sẽ chiến thắng một cuộc thi sắc đẹp, phải không?"
+        },
+        {
+            "en": "What is this, a contest between you guys?",
+            "vi": "Đây là gì, một cuộc thi giữa các bạn?"
+        }
+    ],
+    "words_form": [
+        "contested",
+        "contesting",
+        "contests"
+    ],
+    "meaning_vi": "cuộc thi"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈɡrɛt/"
+    ],
+    "synonyms": [
+        "bitterness",
+        "compunction",
+        "worry",
+        "concern",
+        "anxiety"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Regret is defined as to feel sorry about something that has happened or to feel sorrow about the loss of someone or something.",
+            "vi": "Hối tiếc được định nghĩa là cảm thấy tiếc nuối về điều gì đó đã xảy ra hoặc cảm thấy đau buồn về sự mất mát của ai đó hoặc điều gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "A troubled feeling or remorse over something that has happened, esp. over something that one has done or left undone.",
+            "vi": "Cảm giác bối rối hoặc hối hận về điều gì đó đã xảy ra, đặc biệt là. về điều gì đó mà người ta đã làm hoặc chưa hoàn tác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His quiet regret made her uneasy.",
+            "vi": "Sự ân hận thầm lặng của anh khiến cô không khỏi bứt rứt."
+        },
+        {
+            "en": "He looked at her, a penetrating stare that made her again regret drawing his attention.",
+            "vi": "Anh nhìn cô, một cái nhìn xuyên thấu khiến cô một lần nữa hối hận khi thu hút sự chú ý của anh."
+        }
+    ],
+    "words_form": [
+        "regrets",
+        "regretted",
+        "regretting"
+    ],
+    "meaning_vi": "hối tiếc"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈsɛdl/"
+    ],
+    "synonyms": [
+        "calm",
+        "decide",
+        "locate",
+        "verify",
+        "compose"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To restore calmness or comfort to.",
+            "vi": "Để khôi phục sự bình tĩnh hoặc thoải mái cho."
+        },
+        {
+            "pos": "noun",
+            "en": "A long wooden bench with a high back, often including storage space beneath the seat.",
+            "vi": "Một băng ghế dài bằng gỗ với lưng cao, thường bao gồm không gian lưu trữ bên dưới ghế."
+        },
+        {
+            "pos": "idiom",
+            "en": "settle (one's) stomach  To relieve one's indigestion or nausea.",
+            "vi": "làm dịu dạ dày (của một người) Để giảm chứng khó tiêu hoặc buồn nôn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was one way to settle the matter.",
+            "vi": "Có một cách để giải quyết vấn đề."
+        },
+        {
+            "en": "She'd need that time to settle her business and pack her things.",
+            "vi": "Cô ấy cần thời gian đó để giải quyết công việc và đóng gói đồ đạc của mình."
+        }
+    ],
+    "words_form": [
+        "settled",
+        "settles",
+        "settling"
+    ],
+    "meaning_vi": "giải quyết"
+}

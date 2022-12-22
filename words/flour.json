@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈflaʊ(ə)r/"
+    ],
+    "synonyms": [
+        "grit",
+        "powder",
+        "whole wheat flour",
+        "meal",
+        "farinaceous"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Any finely powdered substance.",
+            "vi": "Bất kỳ chất bột mịn."
+        },
+        {
+            "pos": "verb",
+            "en": "To make into flour.",
+            "vi": "Để làm thành bột."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She rolled the pieces of meat in flour and fried them.",
+            "vi": "Cô lăn các miếng thịt trong bột mì và chiên chúng."
+        },
+        {
+            "en": "Dainty cat prints trekked through the flour she'd spilled on the counter.",
+            "vi": "Những hình in con mèo xinh xắn len lỏi qua đống bột mà cô ấy đã đổ trên quầy."
+        }
+    ],
+    "words_form": [
+        "floured",
+        "flours"
+    ],
+    "meaning_vi": "bột mì"
+}

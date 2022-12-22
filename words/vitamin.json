@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈvaɪdəmən/"
+    ],
+    "synonyms": [
+        "folic-acid",
+        "folate",
+        "vitamin-b",
+        "lutein",
+        "vitamin-k"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a vitamin is a substance that is necessary for the processes of the body.",
+            "vi": "Định nghĩa về vitamin là một chất cần thiết cho các quá trình hoạt động của cơ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Rice doesn't naturally have vitamin A. Enter transgenics.",
+            "vi": "Gạo tự nhiên không có vitamin A. Nhập gen chuyển gen."
+        },
+        {
+            "en": "Vitamins and minerals – zinc and vitamin C were high on the list, and some herbs.",
+            "vi": "Vitamin và khoáng chất - kẽm và vitamin C cao trong danh sách, và một số loại thảo mộc."
+        }
+    ],
+    "words_form": [
+        "vitamins"
+    ],
+    "meaning_vi": "Vi-ta-min (một trong nhiều chất hữu cơ có trong những thức ăn, cần thiết cho sức khoẻ con người và những động vật khác); sinh tố"
+}

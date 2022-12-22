@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌbɛnəˈfɪʃiˌɛri/"
+    ],
+    "synonyms": [
+        "grantee",
+        "heiress",
+        "inheritor",
+        "recipient",
+        "receiver"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The recipient of funds, property, or other benefits, as from an insurance policy or trust.",
+            "vi": "Người nhận tiền, tài sản hoặc các lợi ích khác, từ hợp đồng bảo hiểm hoặc quỹ tín thác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or holding a benefice.",
+            "vi": "Của hoặc nắm giữ một lợi ích."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This may give a disappointed beneficiary a right of action against them.",
+            "vi": "Điều này có thể cung cấp cho một người thụ hưởng thất vọng quyền hành động chống lại họ."
+        },
+        {
+            "en": "What happens if the executors of a Will can't trace a beneficiary?",
+            "vi": "Điều gì xảy ra nếu những người thực hiện Di chúc không thể truy tìm người thụ hưởng?"
+        }
+    ],
+    "words_form": [
+        "beneficiaries"
+    ],
+    "meaning_vi": "người thụ hưởng"
+}

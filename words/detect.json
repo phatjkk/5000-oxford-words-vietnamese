@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈtɛkt/"
+    ],
+    "synonyms": [
+        "discover",
+        "see",
+        "expose",
+        "distinguish",
+        "find"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To learn something hidden and often improper about.",
+            "vi": "Để tìm hiểu một cái gì đó ẩn và thường không đúng về."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Detected.",
+            "vi": "(lỗi thời) Đã phát hiện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Do I detect a note of discord?",
+            "vi": "Tôi có phát hiện thấy một sự bất hòa nào không?"
+        },
+        {
+            "en": "The inquisitors at once began to detect errors.",
+            "vi": "Các thẩm tra viên ngay lập tức bắt đầu phát hiện ra lỗi."
+        }
+    ],
+    "words_form": [
+        "detected",
+        "detecting",
+        "detects"
+    ],
+    "meaning_vi": "phát hiện"
+}

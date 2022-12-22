@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pæd/"
+    ],
+    "synonyms": [
+        "cushion",
+        "room",
+        "apartment",
+        "fill-out",
+        "expand"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To move or walk about almost inaudibly.",
+            "vi": "Để di chuyển hoặc đi bộ gần như không nghe được."
+        },
+        {
+            "pos": "noun",
+            "en": "An ink-soaked cushion used to ink a rubber stamp.",
+            "vi": "Một tấm đệm thấm mực dùng để đánh dấu cao su."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the pad  accepting a share of the graft received collectively by members of a police precinct",
+            "vi": "trên tờ giấy chấp nhận một phần của sự ghép được nhận chung bởi các thành viên của một khu vực cảnh sát"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She handed me a pad and pencil.",
+            "vi": "Cô ấy đưa cho tôi một tập giấy và bút chì."
+        },
+        {
+            "en": "Digging a note pad out of her purse, she labored over a note.",
+            "vi": "Lấy một tập giấy ghi chú ra khỏi ví, cô lao động ghi chép lại."
+        }
+    ],
+    "words_form": [
+        "padded",
+        "padding",
+        "pads"
+    ],
+    "meaning_vi": "tập giấy"
+}

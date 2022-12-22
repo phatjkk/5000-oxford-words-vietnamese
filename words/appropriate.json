@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈproʊpriət/"
+    ],
+    "synonyms": [
+        "fitting",
+        "proper",
+        "usurp",
+        "suited",
+        "apportion"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Suitable for a particular person, condition, occasion, or place; fitting.",
+            "vi": "Thích hợp cho một người, điều kiện, dịp, hoặc địa điểm cụ thể; vừa vặn."
+        },
+        {
+            "pos": "verb",
+            "en": "The definition of appropriate is to put aside or take something for one's self or some other specific person.",
+            "vi": "Định nghĩa của thích hợp là gạt sang một bên hoặc lấy một cái gì đó cho bản thân của một người hoặc một số người cụ thể khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't think it appropriate to tell you who I was.",
+            "vi": "Tôi không nghĩ là thích hợp để nói cho bạn biết tôi là ai."
+        },
+        {
+            "en": "He couldn't have chosen a more appropriate song.",
+            "vi": "Anh ấy không thể chọn một bài hát thích hợp hơn."
+        }
+    ],
+    "words_form": [
+        "appropriated",
+        "appropriates",
+        "appropriating"
+    ],
+    "meaning_vi": "thích hợp"
+}

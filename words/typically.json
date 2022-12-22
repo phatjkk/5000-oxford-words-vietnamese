@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈtɪpɪk(ə)li/"
+    ],
+    "synonyms": [
+        "generally",
+        "commonly",
+        "usually",
+        "routinely",
+        "normally"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In a typical or common manner.",
+            "vi": "Theo cách điển hình hoặc thông thường."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "When we think of decoding the genome, we typically think in terms of the human genome.",
+            "vi": "Khi chúng ta nghĩ đến việc giải mã bộ gen, chúng ta thường nghĩ về bộ gen của con người."
+        },
+        {
+            "en": "It is in fact typically a closed system.",
+            "vi": "Trên thực tế, nó thường là một hệ thống khép kín."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thông thường"
+}

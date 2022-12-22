@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/stər/"
+    ],
+    "synonyms": [
+        "beat",
+        "move",
+        "agitation",
+        "bustle",
+        "challenge"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To change position slightly.",
+            "vi": "Để thay đổi vị trí một chút."
+        },
+        {
+            "pos": "noun",
+            "en": "A slight movement.",
+            "vi": "Một chuyển động nhẹ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She felt panic stir again.",
+            "vi": "Cô lại cảm thấy hoảng sợ khuấy động."
+        },
+        {
+            "en": "Strange how such a placid moment could stir up such emotional turmoil.",
+            "vi": "Thật kỳ lạ làm sao một khoảnh khắc êm đềm như vậy lại có thể khuấy động cảm xúc như vậy."
+        }
+    ],
+    "words_form": [
+        "stirred",
+        "stirring",
+        "stirs"
+    ],
+    "meaning_vi": "khuấy"
+}

@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈsteɪdəs/",
+        "/ˈstædəs/"
+    ],
+    "synonyms": [
+        "position",
+        "situation",
+        "prestige",
+        "state",
+        "rank"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of status is a person's standing, position or state.",
+            "vi": "Định nghĩa về địa vị là vị trí, vị trí hoặc trạng thái của một người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His status is shown by his wergild.",
+            "vi": "Trạng thái của anh ấy được thể hiện bởi wergild của anh ấy."
+        },
+        {
+            "en": "I did, but apparently that status changed.",
+            "vi": "Tôi đã làm, nhưng rõ ràng trạng thái đó đã thay đổi."
+        }
+    ],
+    "words_form": [
+        "statuses"
+    ],
+    "meaning_vi": "trạng thái"
+}

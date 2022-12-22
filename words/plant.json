@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/plænt/"
+    ],
+    "synonyms": [
+        "shrub",
+        "factory",
+        "weed",
+        "herbaceous",
+        "seedling"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A plant is a living organism with multiple cells that produce its food through photosynthesis.",
+            "vi": "Thực vật là một cơ thể sống có nhiều tế bào tạo ra thức ăn thông qua quá trình quang hợp."
+        },
+        {
+            "pos": "verb",
+            "en": "To place in the ground.",
+            "vi": "Để đặt trong lòng đất."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If a plant cannot live according to its nature, it dies; and so a man.",
+            "vi": "Nếu thực vật không thể sống theo bản chất tự nhiên của nó, nó sẽ chết; và vì vậy một người đàn ông."
+        },
+        {
+            "en": "If she left from Ashley, she would arrive in time to plant a garden at the ranch.",
+            "vi": "Nếu cô ấy rời khỏi Ashley, cô ấy sẽ đến kịp thời gian để trồng một khu vườn ở trang trại."
+        }
+    ],
+    "words_form": [
+        "planted",
+        "planting",
+        "plants"
+    ],
+    "meaning_vi": "thực vật"
+}

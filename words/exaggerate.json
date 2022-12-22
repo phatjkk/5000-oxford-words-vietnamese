@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ɪɡˈzædʒəˌreɪt/"
+    ],
+    "synonyms": [
+        "hyperbolize",
+        "embellish",
+        "embroider",
+        "overstate",
+        "blow up"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To overstate, to describe more than is fact.",
+            "vi": "Nói quá, để mô tả nhiều hơn là thực tế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We must not exaggerate the result.",
+            "vi": "Chúng ta không được phóng đại kết quả."
+        },
+        {
+            "en": "True, we must not exaggerate this influence.",
+            "vi": "Đúng vậy, chúng ta không được phóng đại ảnh hưởng này."
+        }
+    ],
+    "words_form": [
+        "exaggerated",
+        "exaggerates",
+        "exaggerating"
+    ],
+    "meaning_vi": "phóng đại"
+}

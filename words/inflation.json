@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ɪnˈfleɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "expansion",
+        "deflation",
+        "increase",
+        "boom",
+        "rise"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Inflation is defined as an increase in the amount of money and credit in the economy in relation to the supply of goods and services.",
+            "vi": "Lạm phát được định nghĩa là sự gia tăng lượng tiền và tín dụng trong nền kinh tế liên quan đến việc cung cấp hàng hóa và dịch vụ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Governments respond to that inflation by freezing prices.",
+            "vi": "Các chính phủ đối phó với lạm phát đó bằng cách đóng băng giá cả."
+        },
+        {
+            "en": "The annual fuel escalator was set in 1993 at 3% above the rate of inflation.",
+            "vi": "Thang máy nhiên liệu hàng năm được thiết lập vào năm 1993 ở mức 3% trên tỷ lệ lạm phát."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "lạm phát"
+}

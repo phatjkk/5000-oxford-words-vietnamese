@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/reɪn/"
+    ],
+    "synonyms": [
+        "mizzle",
+        "downpour",
+        "thunderstorm",
+        "sprinkling",
+        "mist"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Rain is condensed moisture from the atmosphere that drops on the Earth as water.",
+            "vi": "Mưa là hơi nước ngưng tụ từ khí quyển rơi xuống Trái đất dưới dạng nước."
+        },
+        {
+            "pos": "verb",
+            "en": "To fall in drops of water from the clouds.",
+            "vi": "Để rơi những giọt nước từ những đám mây."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) rain cats and dogs  To rain very heavily.",
+            "vi": "(không chính thức) mưa mèo và chó Mưa rất to."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The rain on the roof was soothing.",
+            "vi": "Mưa trên mái nhà thật dịu."
+        },
+        {
+            "en": "The rain seems less heavy.",
+            "vi": "Mưa có vẻ bớt nặng hạt hơn."
+        }
+    ],
+    "words_form": [
+        "rained",
+        "raining",
+        "rains"
+    ],
+    "meaning_vi": "mưa"
+}

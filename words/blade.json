@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/bleɪd/"
+    ],
+    "synonyms": [
+        "oar",
+        "cutlass",
+        "knife",
+        "sword",
+        "cutting-edge"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The flat cutting part of a sharpened weapon or tool.",
+            "vi": "Phần cắt phẳng của vũ khí hoặc công cụ được mài sắc."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a chop, roast, etc., as of beef or veal, that is cut across the shoulder blade section.",
+            "vi": "Chỉ định hoặc của một miếng chặt, thịt nướng, v.v., như thịt bò hoặc thịt bê, được cắt ngang qua phần xương bả vai."
+        },
+        {
+            "pos": "verb",
+            "en": "(informal) To skate on rollerblades.",
+            "vi": "(không chính thức) Để trượt patin."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Abled.",
+            "vi": "Abled."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I felt a sharp sting as the blade cut.",
+            "vi": "Tôi cảm thấy nhói buốt khi lưỡi dao cắt."
+        },
+        {
+            "en": "The ax blade went about an inch into the wood.",
+            "vi": "Lưỡi rìu đâm vào gỗ khoảng một inch."
+        }
+    ],
+    "words_form": [
+        "bladed",
+        "blades",
+        "blading"
+    ],
+    "meaning_vi": "lưỡi"
+}

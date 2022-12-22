@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/trup/"
+    ],
+    "synonyms": [
+        "delegation",
+        "assemblage",
+        "gathering",
+        "army",
+        "array"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A group or company of people, animals, or things.",
+            "vi": "Một nhóm hoặc công ty gồm người, động vật hoặc mọi thứ."
+        },
+        {
+            "pos": "verb",
+            "en": "To walk, go, or pass at a slow, deliberate pace.",
+            "vi": "Đi bộ, đi hoặc vượt với tốc độ chậm, có chủ ý."
+        },
+        {
+            "pos": "idiom",
+            "en": "troop the colors  to parade the colors, or flag, before troops",
+            "vi": "quân đội các màu sắc để diễu hành các màu sắc, hoặc cờ, trước quân đội"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was active in raising troop s xx1.5 FIG.",
+            "vi": "Anh ấy đã hoạt động tích cực trong việc nuôi quân của quân số xx1.5 FIG."
+        },
+        {
+            "en": "Firing no shot in his defence, his little troop swelled until it became an army.",
+            "vi": "Không bắn được phát súng nào vào hàng thủ của anh ta, đội quân nhỏ của anh ta đã phình to cho đến khi nó trở thành một đội quân."
+        }
+    ],
+    "words_form": [
+        "trooped",
+        "trooping",
+        "troops"
+    ],
+    "meaning_vi": "đoàn quân"
+}

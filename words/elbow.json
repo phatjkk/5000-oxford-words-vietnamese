@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈɛlˌboʊ/"
+    ],
+    "synonyms": [
+        "joint",
+        "bend",
+        "ulna",
+        "turn",
+        "jab"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make one's way by pushing with the elbow.",
+            "vi": "Để tìm đường bằng cách đẩy bằng khuỷu tay."
+        },
+        {
+            "pos": "noun",
+            "en": "A joint, as of a bird or quadruped, corresponding to the human elbow.",
+            "vi": "Một khớp, giống như một con chim hoặc bốn khớp, tương ứng với khuỷu tay của con người."
+        },
+        {
+            "pos": "idiom",
+            "en": "at (one's) elbow  Close at hand; nearby.",
+            "vi": "ở khuỷu tay của (một người) Đóng trong tầm tay; gần đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He rose up on one elbow and frowned.",
+            "vi": "Anh chống một khuỷu tay lên và cau mày."
+        },
+        {
+            "en": "He pulled away from her, propping up on an elbow as he studied her face.",
+            "vi": "Anh rời khỏi cô, chống cùi chỏ lên khi quan sát khuôn mặt của cô."
+        }
+    ],
+    "words_form": [
+        "elbowed",
+        "elbowing",
+        "elbows"
+    ],
+    "meaning_vi": "khuỷu tay"
+}

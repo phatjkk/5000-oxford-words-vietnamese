@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kjʊr/"
+    ],
+    "synonyms": [
+        "remedy",
+        "remediable",
+        "antidote",
+        "dry",
+        "season"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a cure is a remedy or something that will bring back health.",
+            "vi": "Định nghĩa về một phương pháp chữa bệnh là một phương thuốc hoặc một cái gì đó sẽ mang lại sức khỏe."
+        },
+        {
+            "pos": "verb",
+            "en": "To cure is to restore health, to heal, or to preserve meat, or to process tobacco.",
+            "vi": "Chữa bệnh là phục hồi sức khỏe, chữa bệnh, hoặc ninh thịt, chế biến thuốc lá."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I hope it will cure him.",
+            "vi": "Tôi hy vọng nó sẽ chữa khỏi cho anh ấy."
+        },
+        {
+            "en": "One can't cure anything.",
+            "vi": "Người ta không thể chữa khỏi bất cứ thứ gì."
+        }
+    ],
+    "words_form": [
+        "cured",
+        "cures",
+        "curing"
+    ],
+    "meaning_vi": "chữa khỏi"
+}

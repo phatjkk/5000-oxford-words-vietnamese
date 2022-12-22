@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈaʊtˌpʊt/"
+    ],
+    "synonyms": [
+        "making",
+        "gain",
+        "power",
+        "turnout",
+        "manufacturing"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Output is to produce, deliver, broadcast or supply something.",
+            "vi": "Đầu ra là sản xuất, phân phối, phát sóng hoặc cung cấp một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Output is defined as the act of producing something, the amount of something that is produced or the process in which something is delivered.",
+            "vi": "Đầu ra được định nghĩa là hành động sản xuất một thứ gì đó, số lượng thứ gì đó được sản xuất hoặc quá trình mà một thứ gì đó được chuyển giao."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to computer output.",
+            "vi": "Của hoặc liên quan đến đầu ra máy tính."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In 1877 the maximum annual output for the mines was attained, being $3 6, 3 01, 537.",
+            "vi": "Năm 1877, sản lượng tối đa hàng năm của các mỏ đã đạt được, là $ 3 6, 3 01, 537."
+        },
+        {
+            "en": "The output for the year is less than 4000 tons.",
+            "vi": "Sản lượng cả năm dưới 4000 tấn."
+        }
+    ],
+    "words_form": [
+        "outputs",
+        "outputted",
+        "outputting"
+    ],
+    "meaning_vi": "đầu ra"
+}

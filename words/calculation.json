@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌkælkjəˈleɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "estimation",
+        "totaling",
+        "multiplying",
+        "computation",
+        "chariness"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Careful, often cunning estimation and planning of likely outcomes, especially to advance one's own interests.",
+            "vi": "Ước tính và lập kế hoạch cẩn thận, thường khôn ngoan về các kết quả có thể xảy ra, đặc biệt là để thúc đẩy lợi ích của bản thân."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Even from a distance it was obvious that his calculation was accurate.",
+            "vi": "Ngay cả từ xa, rõ ràng là tính toán của anh ta là chính xác."
+        },
+        {
+            "en": "This triangle, for the convenience of calculation, we divide into two right-angled triangles.",
+            "vi": "Tam giác này, để tiện cho việc tính toán, ta chia thành hai tam giác vuông cân."
+        }
+    ],
+    "words_form": [
+        "calculations"
+    ],
+    "meaning_vi": "phép tính"
+}

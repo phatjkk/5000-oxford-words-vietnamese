@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌkɔrpəˈreɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "company",
+        "enterprise",
+        "multinational",
+        "organization",
+        "association"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a corporation is a legal entity with its own rights, privileges and liabilities separate from the members who created it.",
+            "vi": "Định nghĩa về tập đoàn là một pháp nhân có các quyền, đặc quyền và trách nhiệm pháp lý riêng biệt với các thành viên đã tạo ra nó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The corporation consists of a mayor, io aldermen and 30 councillors.",
+            "vi": "Công ty bao gồm một thị trưởng, io aldermen và 30 ủy viên hội đồng."
+        },
+        {
+            "en": "Technical schools are maintained by the corporation.",
+            "vi": "Các trường kỹ thuật được duy trì bởi tập đoàn."
+        }
+    ],
+    "words_form": [
+        "corporations"
+    ],
+    "meaning_vi": "tập đoàn"
+}

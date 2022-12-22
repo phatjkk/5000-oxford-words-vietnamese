@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/skaɪ/"
+    ],
+    "synonyms": [
+        "azure",
+        "air",
+        "atmosphere",
+        "heaven",
+        "firmament"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The sky is the upper atmosphere covering the earth.The white light from the sun is filtered by the atmosphere to remove a larger portion of the blue wavelengths. As the blue light is scattered to a greater extent, your eyes respond to the light waves by registering larger amounts of blue light. This is why you see the sky as being blue.",
+            "vi": "Bầu trời là phần trên của bầu khí quyển bao phủ trái đất, ánh sáng trắng từ mặt trời được lọc bởi khí quyển để loại bỏ một phần lớn các bước sóng màu xanh lam. Khi ánh sáng xanh bị phân tán ở mức độ lớn hơn, mắt bạn phản ứng với sóng ánh sáng bằng cách ghi lại lượng ánh sáng xanh lớn hơn. Đây là lý do tại sao bạn thấy bầu trời có màu xanh lam."
+        },
+        {
+            "pos": "verb",
+            "en": "Sky is defined as to hit, throw, shoot or hang up high in the air.",
+            "vi": "Sky được định nghĩa là đánh, ném, bắn hoặc treo lên cao trong không trung."
+        },
+        {
+            "pos": "suffix",
+            "en": "Alternative spelling of -ski.",
+            "vi": "Cách viết thay thế của -ski."
+        },
+        {
+            "pos": "idiom",
+            "en": "out of a (or the) clear (blue) sky  without warning; suddenly",
+            "vi": "ra khỏi bầu trời (hoặc) trong xanh (xanh) mà không có cảnh báo trước; đột ngột"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The moon is full, the sky full of stars.",
+            "vi": "Trăng tròn, bầu trời đầy sao."
+        },
+        {
+            "en": "The sky was dark, the stars plentiful and bright.",
+            "vi": "Bầu trời tối om, những vì sao nhiều và sáng."
+        }
+    ],
+    "words_form": [
+        "skied",
+        "skies",
+        "skyed",
+        "skying"
+    ],
+    "meaning_vi": "bầu trời"
+}

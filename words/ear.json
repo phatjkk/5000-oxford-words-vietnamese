@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/ɪr/"
+    ],
+    "synonyms": [
+        "ear",
+        "sounds",
+        "prong",
+        "cochlea",
+        "aural"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Ear is defined as the part of the body for hearing.",
+            "vi": "Tai được định nghĩa là bộ phận của cơ thể để nghe."
+        },
+        {
+            "pos": "verb",
+            "en": "To form or grow ears.",
+            "vi": "Để hình thành hoặc phát triển tai."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Are, era, ERA, Rae.",
+            "vi": "Là, thời đại, ERA, Rae."
+        },
+        {
+            "pos": "initialism",
+            "en": "(computing) Initialism of Enterprise Archive. (A file format used to package Java programming language applications.)",
+            "vi": "(máy tính) Tính khởi đầu của Kho lưu trữ Doanh nghiệp. (Một định dạng tệp được sử dụng để đóng gói các ứng dụng ngôn ngữ lập trình Java.)"
+        },
+        {
+            "pos": "idiom",
+            "en": "all ears  Acutely attentive: Tell your story—we're all ears!.",
+            "vi": "tất cả các tai Chú ý sâu sắc: Kể câu chuyện của bạn — chúng tôi đều là những người có tai !."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She whispered in my ear, you won't believe it.",
+            "vi": "Cô ấy thì thầm vào tai tôi, bạn sẽ không tin đâu."
+        },
+        {
+            "en": "She pressed her ear to the door.",
+            "vi": "Cô áp tai vào cửa."
+        }
+    ],
+    "words_form": [
+        "ears"
+    ],
+    "meaning_vi": "lỗ tai"
+}

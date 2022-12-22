@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/prəˈfɛʃən/"
+    ],
+    "synonyms": [
+        "business",
+        "job",
+        "occupation",
+        "employment",
+        "calling"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a profession is a job, or what you do for a living.",
+            "vi": "Định nghĩa của một nghề là một công việc, hoặc những gì bạn làm để kiếm sống."
+        },
+        {
+            "pos": "idiom",
+            "en": "the oldest profession  prostitution",
+            "vi": "nghề mại dâm lâu đời nhất"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was educated for the profession of law and practised as avocat.",
+            "vi": "Ông được học về nghề luật và hành nghề luật sư."
+        },
+        {
+            "en": "His parents meant him for the military profession, but his bent being for study he was allowed to enter the university of Paris.",
+            "vi": "Cha mẹ anh muốn anh theo nghề quân sự, nhưng vì nhu cầu học tập nên anh được phép vào trường đại học Paris."
+        }
+    ],
+    "words_form": [
+        "professions"
+    ],
+    "meaning_vi": "nghề"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈmoʊdɪv/"
+    ],
+    "synonyms": [
+        "reason",
+        "purpose",
+        "incentive",
+        "cause",
+        "inducement"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Motive is defined as a reason for doing something.",
+            "vi": "Động cơ được định nghĩa là một lý do để làm điều gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of motive is causing action.",
+            "vi": "Định nghĩa của động cơ là gây ra hành động."
+        },
+        {
+            "pos": "affix",
+            "en": "Moving, of motion.",
+            "vi": "Chuyển động, chuyển động."
+        },
+        {
+            "pos": "verb",
+            "en": "To prompt or incite by a motive or motives; to move.",
+            "vi": "Để thúc giục hoặc xúi giục bởi một động cơ hoặc động cơ; để di chuyển."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She hadn't thought about his feelings or motive to help.",
+            "vi": "Cô đã không nghĩ về cảm xúc hay động cơ giúp đỡ của anh ta."
+        },
+        {
+            "en": "There was a practical motive for using this weapon.",
+            "vi": "Có một động cơ thực tế để sử dụng vũ khí này."
+        }
+    ],
+    "words_form": [
+        "motived",
+        "motives",
+        "motiving"
+    ],
+    "meaning_vi": "động cơ"
+}

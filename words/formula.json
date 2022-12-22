@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈfɔrmjələ/"
+    ],
+    "synonyms": [
+        "ritual",
+        "prescription",
+        "rote",
+        "creed",
+        "rubric"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(mathematics) A statement, especially an equation, of a fact, rule, principle, or other logical relation.",
+            "vi": "(toán học) Một tuyên bố, đặc biệt là một phương trình, về một dữ kiện, quy tắc, nguyên tắc hoặc quan hệ logic khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of any of various classes of racing car or motorcycle specially designed to conform to a particular set of specifications governing size, weight, engine displacement, etc.",
+            "vi": "Chỉ định hoặc bất kỳ loại xe đua hoặc mô tô đua nào được thiết kế đặc biệt để phù hợp với một bộ thông số kỹ thuật cụ thể về kích thước, trọng lượng, dịch chuyển động cơ, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Every morning before I went to school I had chores to do, which began with mixing up the formula and feeding the calves.",
+            "vi": "Mỗi sáng trước khi đến trường, tôi phải làm việc nhà, bắt đầu từ việc pha sữa công thức và cho bê ăn."
+        },
+        {
+            "en": "The students could not figure out the math problem until their teacher provided them with a helpful formula.",
+            "vi": "Các học sinh không thể tìm ra vấn đề toán học cho đến khi giáo viên của họ cung cấp cho họ một công thức hữu ích."
+        }
+    ],
+    "words_form": [
+        "formulae",
+        "formulas"
+    ],
+    "meaning_vi": "công thức"
+}

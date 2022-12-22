@@ -1,0 +1,59 @@
+{
+    "spelling": [
+        "/kɔɪn/"
+    ],
+    "synonyms": [
+        "quarter",
+        "money",
+        "counterfeit",
+        "dime",
+        "nickel"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A coin is defined as a round piece of money of a certain value.",
+            "vi": "Đồng xu được định nghĩa là một miếng tiền tròn có giá trị nhất định."
+        },
+        {
+            "pos": "verb",
+            "en": "To make coins.",
+            "vi": "Để kiếm tiền."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of coin is requiring round pieces of money to use.",
+            "vi": "Định nghĩa của tiền xu là yêu cầu các mảnh tiền tròn để sử dụng."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A city in Iowa.",
+            "vi": "Một thành phố ở Iowa."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "(US, military) COunter INsurgency.",
+            "vi": "(Hoa Kỳ, quân đội) COunter INsurgency."
+        },
+        {
+            "pos": "idiom",
+            "en": "the other side of the coin  One of two differing or opposing views or sides.",
+            "vi": "mặt khác của đồng xu Một trong hai quan điểm hoặc phe khác nhau hoặc đối lập."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She pulled out her coin purse.",
+            "vi": "Cô rút ví tiền xu của mình."
+        },
+        {
+            "en": "He was given the right to dispense justice, to coin money and to appoint the bishops in Bavaria.",
+            "vi": "Ông được trao quyền phân phát công lý, tiền xu và bổ nhiệm các giám mục ở Bavaria."
+        }
+    ],
+    "words_form": [
+        "coined",
+        "coins"
+    ],
+    "meaning_vi": "đồng tiền"
+}

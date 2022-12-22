@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈvɛriəb(ə)l/"
+    ],
+    "synonyms": [
+        "unpredictable",
+        "inconsistent",
+        "change",
+        "irregular",
+        "fitful"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a variable is something that can change, or is a quantity in an equation that can change its value.",
+            "vi": "Định nghĩa của một biến là một cái gì đó có thể thay đổi, hoặc là một đại lượng trong một phương trình có thể thay đổi giá trị của nó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Variable is defined as something inconsistent or able to change.",
+            "vi": "Biến được định nghĩa là một cái gì đó không nhất quán hoặc có thể thay đổi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is a matter of common observation that the blue of the sky is highly variable.",
+            "vi": "Một vấn đề quan sát thông thường là màu xanh của bầu trời rất thay đổi."
+        },
+        {
+            "en": "Similarly the substance we call wine is undeniably variable in composition.",
+            "vi": "Tương tự như vậy, chất mà chúng ta gọi là rượu vang có thể thay đổi trong thành phần."
+        }
+    ],
+    "words_form": [
+        "variables"
+    ],
+    "meaning_vi": "biến"
+}

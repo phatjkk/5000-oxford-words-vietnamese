@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ræp/"
+    ],
+    "synonyms": [
+        "cover",
+        "put-on",
+        "encase",
+        "muffle",
+        "shroud"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Wrap is defined as to surround or cover by folding around something.",
+            "vi": "Wrap được định nghĩa là bao quanh hoặc bao bọc bằng cách gấp xung quanh một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "A garment to be wrapped or folded about a person, especially an outer garment such as a robe, cloak, shawl, or coat.",
+            "vi": "Một bộ quần áo được quấn hoặc gấp về người, đặc biệt là một bộ quần áo bên ngoài như áo choàng, áo choàng, khăn choàng hoặc áo khoác."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) under wraps  Secret or concealed:",
+            "vi": "(không chính thức) được che giấu Bí mật hoặc được che giấu:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm trying to wrap up everything as fast as I can, Logan said.",
+            "vi": "Tôi đang cố gắng hoàn thành mọi thứ nhanh nhất có thể, Logan nói."
+        },
+        {
+            "en": "That evening all the women got together to wrap gifts.",
+            "vi": "Tối hôm đó tất cả phụ nữ rủ nhau gói quà."
+        }
+    ],
+    "words_form": [
+        "wrapped",
+        "wrapping",
+        "wraps"
+    ],
+    "meaning_vi": "bọc"
+}

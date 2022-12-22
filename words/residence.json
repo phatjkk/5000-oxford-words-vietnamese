@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈrɛz(ə)dəns/"
+    ],
+    "synonyms": [
+        "office",
+        "cantonment",
+        "abode",
+        "home",
+        "house"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The official home or location of a corporation.",
+            "vi": "Nhà hoặc địa điểm chính thức của một công ty."
+        },
+        {
+            "pos": "idiom",
+            "en": "in residence  Committed to live and work in a specific place, often for a certain length of time: An artist in residence at a college.",
+            "vi": "tại nơi cư trú Cam kết sống và làm việc tại một nơi cụ thể, thường trong một khoảng thời gian nhất định: Một nghệ sĩ đang cư trú tại một trường cao đẳng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Just the three of us are in residence, soon to be two.",
+            "vi": "Chỉ có ba chúng tôi ở trong nhà, sẽ sớm lên hai."
+        },
+        {
+            "en": "\"Is the Council still in residence?\" he asked.",
+            "vi": "\"Hội đồng còn ở?\" anh ấy hỏi."
+        }
+    ],
+    "words_form": [
+        "residences"
+    ],
+    "meaning_vi": "nơi cư trú"
+}

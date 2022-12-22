@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈpætnt/"
+    ],
+    "synonyms": [
+        "controlled",
+        "monopolized",
+        "flagrant",
+        "licensed",
+        "safeguard"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Patent means protected by a government issued right allowing someone to make and sell a product or service for a certain amount of years without anyone being allowed to copy it.",
+            "vi": "Bằng sáng chế có nghĩa là được bảo vệ bởi chính phủ cấp quyền cho phép ai đó tạo ra và bán một sản phẩm hoặc dịch vụ trong một khoảng thời gian nhất định mà không ai được phép sao chép nó."
+        },
+        {
+            "pos": "verb",
+            "en": "Patent is defined as to obtain a right to the producing and selling of a product that also stops anyone from copying it.",
+            "vi": "Bằng sáng chế được định nghĩa là để có được quyền sản xuất và bán một sản phẩm cũng như ngăn chặn bất kỳ ai sao chép nó."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a patent is the right from the federal government to produce and sell something for a certain number of years without anyone copying it.",
+            "vi": "Định nghĩa của bằng sáng chế là quyền của chính phủ liên bang để sản xuất và bán một thứ gì đó trong một số năm nhất định mà không bị ai sao chép nó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Graham Bell's telephone patent was granted for the United Kingdom.",
+            "vi": "Bằng sáng chế điện thoại của Graham Bell đã được cấp cho Vương quốc Anh."
+        },
+        {
+            "en": "Edison's telephone patent was granted for the United Kingdom.",
+            "vi": "Bằng sáng chế điện thoại của Edison đã được cấp cho Vương quốc Anh."
+        }
+    ],
+    "words_form": [
+        "patented",
+        "patenting",
+        "patents"
+    ],
+    "meaning_vi": "bằng sáng chế"
+}

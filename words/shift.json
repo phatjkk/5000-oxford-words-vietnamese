@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ʃɪft/"
+    ],
+    "synonyms": [
+        "transfer",
+        "alteration",
+        "stir",
+        "lubricity",
+        "fault"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a shift is a movement, a designated work period or a group of people who work during a designated work period.",
+            "vi": "Định nghĩa về ca làm việc là một phong trào, một khoảng thời gian làm việc được chỉ định hoặc một nhóm người làm việc trong một khoảng thời gian làm việc được chỉ định."
+        },
+        {
+            "pos": "verb",
+            "en": "(linguistics) To alter phonetically as part of a systematic historical change.",
+            "vi": "(ngôn ngữ học) Thay đổi ngữ âm như một phần của sự thay đổi lịch sử có hệ thống."
+        },
+        {
+            "pos": "idiom",
+            "en": "make shift  to manage or do the best one can (with whatever means are at hand)",
+            "vi": "chuyển sang quản lý hoặc làm điều tốt nhất có thể (với bất kỳ phương tiện nào trong tầm tay)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was hardly fair to shift that responsibility solely to him.",
+            "vi": "Thật khó công bằng nếu chỉ chuyển trách nhiệm đó cho anh ta."
+        },
+        {
+            "en": "He felt the subtle shift and stopped on the stairwell down to the gym.",
+            "vi": "Anh cảm thấy sự thay đổi tinh tế và dừng lại trên cầu thang xuống phòng tập thể dục."
+        }
+    ],
+    "words_form": [
+        "shifted",
+        "shifting",
+        "shifts"
+    ],
+    "meaning_vi": "thay đổi"
+}

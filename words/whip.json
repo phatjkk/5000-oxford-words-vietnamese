@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/(h)wɪp/"
+    ],
+    "synonyms": [
+        "beat",
+        "switch",
+        "strap",
+        "rod",
+        "ruler"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(informal) To snatch, pull, or remove in a sudden manner.",
+            "vi": "(không chính thức) Để giật, kéo hoặc loại bỏ một cách đột ngột."
+        },
+        {
+            "pos": "noun",
+            "en": "An instrument, either a flexible rod or a flexible thong or lash attached to a handle, used for driving animals or administering corporal punishment.",
+            "vi": "Một dụng cụ, một que dẻo hoặc một sợi dây mềm dẻo hoặc dây buộc gắn vào tay cầm, được sử dụng để điều khiển động vật hoặc dùng để trừng phạt thể xác."
+        },
+        {
+            "pos": "acronym",
+            "en": "(baseball) Walks plus hits per inning pitched; a statistic of the number of baserunners a pitcher has allowed per inning pitched.",
+            "vi": "(bóng chày) Đi bộ cộng với số lần đánh mỗi hiệp được ném; thống kê số lần ném bóng mà một người ném bóng đã cho phép trong mỗi lượt ném bóng."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) whip into shape  To bring to a specified state or condition, vigorously and often forcefully.",
+            "vi": "(không chính thức) roi thành hình Để đưa đến một trạng thái hoặc điều kiện cụ thể, một cách mạnh mẽ và thường xuyên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His new pa would whip him good, he said.",
+            "vi": "Cha mới của anh ấy sẽ đánh anh ấy tốt, anh ấy nói."
+        },
+        {
+            "en": "She hefted the whip and started working on another area of tall grass.",
+            "vi": "Cô cầm roi và bắt đầu làm việc trên một khu vực cỏ cao khác."
+        }
+    ],
+    "words_form": [
+        "whipped",
+        "whipping",
+        "whips",
+        "whipt"
+    ],
+    "meaning_vi": "roi da"
+}

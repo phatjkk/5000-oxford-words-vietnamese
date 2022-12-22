@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈkælkjəˌleɪt/"
+    ],
+    "synonyms": [
+        "compute",
+        "determine",
+        "quantify",
+        "number",
+        "calculated"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make an estimate of; evaluate.",
+            "vi": "Để ước tính về; Thúc giục."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She tried to calculate, and the blood pumped in her neck.",
+            "vi": "Cô cố gắng tính toán, và máu trong cổ cô."
+        },
+        {
+            "en": "But he seems to have been well cared for, and he was at the age of fourteen sufficiently advanced \"in algebra, geometry, astronomy, and even the higher mathematics,\" to calculate a solar eclipse within four seconds of accuracy.",
+            "vi": "Nhưng dường như anh ta đã được chăm sóc cẩn thận, và anh ta ở tuổi mười bốn đã đủ cao cấp \"về đại số, hình học, thiên văn học và thậm chí cả toán học cao hơn,\" để tính toán nhật thực trong vòng bốn giây một cách chính xác."
+        }
+    ],
+    "words_form": [
+        "calculated",
+        "calculates",
+        "calculating"
+    ],
+    "meaning_vi": "tính toán"
+}

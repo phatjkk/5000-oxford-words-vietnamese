@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈlaɪˌbrɛri/",
+        "/ˈlaɪb(ə)ri/"
+    ],
+    "synonyms": [
+        "archive",
+        "building",
+        "manuscripts",
+        "incunabula",
+        "athenaeum"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a library is a collection of books, or is a room or a building where collections of books are stored.",
+            "vi": "Định nghĩa thư viện là một bộ sưu tập sách, hoặc là một căn phòng hoặc một tòa nhà nơi lưu trữ các bộ sưu tập sách."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She left the library to return Damian's phone.",
+            "vi": "Cô rời thư viện để trả lại điện thoại của Damian."
+        },
+        {
+            "en": "They studied together at the library on Wednesday evenings.",
+            "vi": "Họ học cùng nhau tại thư viện vào tối thứ Tư."
+        }
+    ],
+    "words_form": [
+        "libraries"
+    ],
+    "meaning_vi": "thư viện"
+}

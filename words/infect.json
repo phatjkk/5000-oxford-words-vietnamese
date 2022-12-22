@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɪnˈfɛkt/"
+    ],
+    "synonyms": [
+        "defile",
+        "affect",
+        "afflict",
+        "spoil",
+        "contaminate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of infect is to contaminate someone or something with a disease or with some other negative element.",
+            "vi": "Định nghĩa của lây nhiễm là làm lây nhiễm cho ai đó hoặc cái gì đó với một căn bệnh hoặc với một số yếu tố tiêu cực khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Infected.",
+            "vi": "(lỗi thời) Bị nhiễm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He also believes that human beings may infect rats.",
+            "vi": "Ông cũng tin rằng con người có thể lây nhiễm cho chuột."
+        },
+        {
+            "en": "It can't infect humans, can it?",
+            "vi": "Nó không thể lây nhiễm sang người, phải không?"
+        }
+    ],
+    "words_form": [
+        "infected",
+        "infecting",
+        "infects"
+    ],
+    "meaning_vi": "lây nhiễm"
+}

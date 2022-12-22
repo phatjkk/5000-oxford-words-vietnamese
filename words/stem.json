@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/stɛm/"
+    ],
+    "synonyms": [
+        "stalk",
+        "begin",
+        "petiole",
+        "branch",
+        "shank"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(linguistics) The main part of a word to which affixes are added.",
+            "vi": "(ngôn ngữ học) Phần chính của từ mà các phụ tố được thêm vào."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Science, technology, engineering, and mathematics.",
+            "vi": "Khoa học, công nghệ, kỹ thuật và toán học."
+        },
+        {
+            "pos": "verb",
+            "en": "To stop or stanch (a flow).",
+            "vi": "Để dừng lại hoặc stanch (một dòng chảy)."
+        },
+        {
+            "pos": "idiom",
+            "en": "from stem to stern  From one end to another.",
+            "vi": "từ gốc đến đuôi tàu Từ đầu này đến đầu kia."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She twisted the stem of her glass.",
+            "vi": "Cô ấy vặn thân ly của mình."
+        },
+        {
+            "en": "The stem sometimes grows 80 or 90 ft.",
+            "vi": "Thân cây đôi khi phát triển 80 hoặc 90 ft."
+        }
+    ],
+    "words_form": [
+        "stemmed",
+        "stemming",
+        "stems"
+    ],
+    "meaning_vi": "thân cây"
+}

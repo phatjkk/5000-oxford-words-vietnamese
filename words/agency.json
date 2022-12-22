@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈeɪdʒənsi/"
+    ],
+    "synonyms": [
+        "business",
+        "office",
+        "company",
+        "mean",
+        "means"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an agency is a group of people that performs some specific task, or that helps others in some way.",
+            "vi": "Định nghĩa về cơ quan là một nhóm người thực hiện một số nhiệm vụ cụ thể hoặc giúp đỡ người khác theo một cách nào đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The Internet has no central planning agency deciding what new, cool websites should be made.",
+            "vi": "Internet không có cơ quan kế hoạch trung ương quyết định những trang web mới, thú vị nào nên được tạo ra."
+        },
+        {
+            "en": "\"Those state agency people never get excited,\" Dean said.",
+            "vi": "Dean nói: “Những người ở cơ quan nhà nước đó không bao giờ phấn khích."
+        }
+    ],
+    "words_form": [
+        "agencies"
+    ],
+    "meaning_vi": "đại lý"
+}

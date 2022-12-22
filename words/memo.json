@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈmɛmoʊ/"
+    ],
+    "synonyms": [
+        "note",
+        "notice",
+        "record",
+        "words",
+        "memorandum"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(informal) To record something; to make a note of something.",
+            "vi": "(không chính thức) Để ghi lại một cái gì đó; để ghi chú một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "(computing) A record of partial results that can be reused later without recomputation.",
+            "vi": "(máy tính) Bản ghi các kết quả từng phần có thể được sử dụng lại sau này mà không cần tính toán lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They're doctors, Lacy said, looking up from the memo in her hands.",
+            "vi": "Họ là bác sĩ, Lacy nói, nhìn lên từ tờ giấy ghi nhớ trên tay."
+        },
+        {
+            "en": "After Tom's search for the lost memo, the items on top of his desk were all cattywampus.",
+            "vi": "Sau khi Tom tìm kiếm bản ghi nhớ bị mất, các vật dụng trên bàn của anh đều là cattywampus."
+        }
+    ],
+    "words_form": [
+        "memos"
+    ],
+    "meaning_vi": "ghi nhớ"
+}

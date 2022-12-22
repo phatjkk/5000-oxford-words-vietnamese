@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/lʊk/"
+    ],
+    "synonyms": [
+        "observation",
+        "glance",
+        "survey",
+        "appearance",
+        "look-at"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Look is defined as the acting of seeing something with one's eyes or the physical appearance of someone or something.",
+            "vi": "Nhìn được định nghĩa là hành động nhìn một thứ gì đó bằng mắt của một người hoặc ngoại hình của một ai đó hoặc một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To turn one's eyes on.",
+            "vi": "Để hướng mắt về một người."
+        },
+        {
+            "pos": "interjection",
+            "en": "Direct your eyes and attention to this; see.",
+            "vi": "Hướng mắt và sự chú ý của bạn vào điều này; Thấy chưa."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "look a gift horse in the mouth  To be critical or suspicious of something one has received without expense.",
+            "vi": "nhìn một con ngựa quà trong miệng Để chỉ trích hoặc nghi ngờ về một cái gì đó mà một người đã nhận được mà không phải trả tiền."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Do I look that bad?",
+            "vi": "Trông tôi có tệ đến thế không?"
+        },
+        {
+            "en": "Now look what you started.",
+            "vi": "Bây giờ hãy nhìn những gì bạn đã bắt đầu."
+        }
+    ],
+    "words_form": [
+        "looked",
+        "looking",
+        "looks"
+    ],
+    "meaning_vi": "nhìn"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/faɪt/"
+    ],
+    "synonyms": [
+        "battle",
+        "strife",
+        "conflict",
+        "tussle",
+        "contention"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To fight is defined as to participate in a physical or verbal disagreement, or to face something and struggle through it.",
+            "vi": "Chiến đấu được định nghĩa là tham gia vào một cuộc bất đồng về thể chất hoặc lời nói, hoặc đối mặt với điều gì đó và đấu tranh để vượt qua nó."
+        },
+        {
+            "pos": "noun",
+            "en": "A struggle to achieve an objective.",
+            "vi": "Một cuộc đấu tranh để đạt được một mục tiêu."
+        },
+        {
+            "pos": "idiom",
+            "en": "fight fire with fire  To combat one evil or one set of negative circumstances by reacting in kind.",
+            "vi": "chiến đấu với lửa Để chống lại một cái ác hoặc một tập hợp các hoàn cảnh tiêu cực bằng cách phản ứng bằng hiện vật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't know what there is to fight about.",
+            "vi": "Tôi không biết có gì để chiến đấu."
+        },
+        {
+            "en": "I can fight and hunt.",
+            "vi": "Tôi có thể chiến đấu và săn bắn."
+        }
+    ],
+    "words_form": [
+        "fighting",
+        "fights",
+        "fought"
+    ],
+    "meaning_vi": "chiến đấu"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˈnælədʒi/"
+    ],
+    "synonyms": [
+        "doctrine of analogy",
+        "resemblance",
+        "agreement",
+        "similarity",
+        "likeness"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an analogy is a literal comparison between two things that have some features that are the same and others which are different.",
+            "vi": "Định nghĩa của phép loại suy là sự so sánh theo nghĩa đen giữa hai sự vật có một số đặc điểm giống nhau và một số đặc điểm khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He didn't welcome the analogy.",
+            "vi": "Anh ấy không hoan nghênh sự tương tự."
+        },
+        {
+            "en": "My dad can use cars to create an analogy for almost anything.",
+            "vi": "Bố tôi có thể sử dụng ô tô để tạo ra sự tương tự cho hầu hết mọi thứ."
+        }
+    ],
+    "words_form": [
+        "analogies"
+    ],
+    "meaning_vi": "sự giống nhau"
+}

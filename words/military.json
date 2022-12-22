@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈmɪləˌtɛri/"
+    ],
+    "synonyms": [
+        "martial",
+        "militant",
+        "armed",
+        "peace",
+        "combatant"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of military is the armed forces responsible for securing and defending a country.",
+            "vi": "Định nghĩa về quân đội là lực lượng vũ trang chịu trách nhiệm đảm bảo và bảo vệ một quốc gia."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, characteristic of, for, fit for, or done by soldiers or the armed forces.",
+            "vi": "Của, đặc trưng của, cho, phù hợp, hoặc được thực hiện bởi binh lính hoặc lực lượng vũ trang."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Military science says that the more troops the greater the strength.",
+            "vi": "Khoa học quân sự cho rằng càng nhiều quân thì sức mạnh càng lớn."
+        },
+        {
+            "en": "There are sacrifices in any military campaign.",
+            "vi": "Có hy sinh trong bất kỳ chiến dịch quân sự nào."
+        }
+    ],
+    "words_form": [
+        "militaries"
+    ],
+    "meaning_vi": "quân đội"
+}

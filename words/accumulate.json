@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈkjum(j)əˌleɪt/"
+    ],
+    "synonyms": [
+        "gather",
+        "hoard",
+        "amass",
+        "save",
+        "pile up"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To gather or cause to increase; amass.",
+            "vi": "Để tập hợp hoặc gây ra để gia tăng; tích lũy."
+        },
+        {
+            "pos": "adjective",
+            "en": "(poetic, rare) Collected; accumulated.",
+            "vi": "(thơ, hiếm) Sưu tầm; tích lũy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They were unable to accumulate enough evidence to make a well-written claim.",
+            "vi": "Họ không thể thu thập đủ bằng chứng để đưa ra một yêu cầu bằng văn bản."
+        },
+        {
+            "en": "The couple hoped to accumulate enough money to make the down payment on a house.",
+            "vi": "Hai vợ chồng hy vọng sẽ tích lũy đủ tiền để trả trước một căn nhà."
+        }
+    ],
+    "words_form": [
+        "accumulated",
+        "accumulates",
+        "accumulating"
+    ],
+    "meaning_vi": "tích trữ"
+}

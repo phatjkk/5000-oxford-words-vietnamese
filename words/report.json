@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rəˈpɔrt/"
+    ],
+    "synonyms": [
+        "announcement",
+        "tale",
+        "announce",
+        "publish",
+        "noise"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Report is defined as a collection of information about something or rumors or gossip that is being spread.",
+            "vi": "Báo cáo được định nghĩa là một tập hợp thông tin về điều gì đó hoặc tin đồn hoặc chuyện phiếm đang được lan truyền."
+        },
+        {
+            "pos": "verb",
+            "en": "To complain about or denounce.",
+            "vi": "Khiếu nại hoặc tố cáo."
+        },
+        {
+            "pos": "idiom",
+            "en": "on report  Subject to disciplinary action.",
+            "vi": "trên báo cáo Đối tượng bị xử lý kỷ luật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Send me a report when you're done.",
+            "vi": "Gửi cho tôi một báo cáo khi bạn hoàn thành."
+        },
+        {
+            "en": "My account for the report is finished and sent off.",
+            "vi": "Tài khoản của tôi cho báo cáo đã hoàn thành và được gửi đi."
+        }
+    ],
+    "words_form": [
+        "reported",
+        "reporting",
+        "reports"
+    ],
+    "meaning_vi": "bài báo cáo"
+}

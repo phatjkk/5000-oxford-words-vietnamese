@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/liɡ/"
+    ],
+    "synonyms": [
+        "group",
+        "association",
+        "society",
+        "organization",
+        "bloc"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(measurement) The distance that a person can walk in one hour, commonly taken to be approximately three English miles (about five kilometers).",
+            "vi": "(đo lường) Khoảng cách mà một người có thể đi bộ trong một giờ, thường được coi là khoảng ba dặm Anh (khoảng năm km)."
+        },
+        {
+            "pos": "verb",
+            "en": "To bring together in or as if in a league.",
+            "vi": "Để tập hợp lại hoặc như thể trong một giải đấu."
+        },
+        {
+            "pos": "idiom",
+            "en": "in league  associated for a common purpose; allied",
+            "vi": "trong liên minh liên kết vì một mục đích chung; liên minh"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He strongly opposed the League of Nations.",
+            "vi": "Ông phản đối mạnh mẽ Hội Quốc Liên."
+        },
+        {
+            "en": "Connor now belonged in the same league physically as the other three.",
+            "vi": "Connor giờ thuộc cùng một giải đấu với ba người còn lại."
+        }
+    ],
+    "words_form": [
+        "leagued",
+        "leagues",
+        "leaguing"
+    ],
+    "meaning_vi": "giải đấu giữa các câu lạc bộ"
+}

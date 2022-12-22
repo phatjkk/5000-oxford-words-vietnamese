@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈkwɑn(t)ədi/"
+    ],
+    "synonyms": [
+        "amount",
+        "bunch",
+        "crowd",
+        "bulk",
+        "army"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(mathematics) Something that serves as the object of an operation.",
+            "vi": "(toán học) Một cái gì đó đóng vai trò là đối tượng của một phép toán."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But there is any quantity of oatmeal, which we often cook for breakfast.",
+            "vi": "Nhưng có bất kỳ lượng bột yến mạch nào, chúng ta thường nấu cho bữa sáng."
+        },
+        {
+            "en": "They consist of a number of circular or rectangular pits sunk from the cap of a hill, and going down to a depth of in some cases as much as 120 ft., until in fact the miners have been stopped by being unable to cope with the quantity of water made when the level of the valley was reached.",
+            "vi": "Chúng bao gồm một số hố hình tròn hoặc hình chữ nhật bị chìm từ đỉnh đồi và đi xuống độ sâu trong một số trường hợp lên tới 120 ft., Cho đến khi thực tế các thợ mỏ đã bị chặn lại do không thể đối phó với lượng nước được tạo ra khi đạt đến mức của thung lũng."
+        }
+    ],
+    "words_form": [
+        "quantities"
+    ],
+    "meaning_vi": "số lượng"
+}

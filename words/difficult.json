@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈdɪfəkəlt/"
+    ],
+    "synonyms": [
+        "arduous",
+        "hard",
+        "laborious",
+        "onerous",
+        "troublesome"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of difficult is something that is hard to understand or do and is a person that is hard to get along with.",
+            "vi": "Định nghĩa của khó là một cái gì đó khó hiểu hoặc khó làm và là một người khó hòa hợp."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To make difficult; to impede; to perplex.",
+            "vi": "(lỗi thời) Để làm khó; làm cản trở; để bối rối."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This might be the most difficult decision she would ever make.",
+            "vi": "Đây có thể là quyết định khó khăn nhất mà cô ấy từng làm."
+        },
+        {
+            "en": "It must be difficult for Alex to keep you happy.",
+            "vi": "Chắc hẳn rất khó để Alex có thể giữ cho bạn hạnh phúc."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khó; khó khăn"
+}

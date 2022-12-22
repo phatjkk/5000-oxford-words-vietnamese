@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/sæd/"
+    ],
+    "synonyms": [
+        "unhappy",
+        "sorrowful",
+        "gloomy",
+        "heartbroken",
+        "depressed"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Sad is defined as feeling upset or unhappy about something, often shown physically with a frown.",
+            "vi": "Buồn được định nghĩa là cảm thấy buồn hoặc không hài lòng về một điều gì đó, thường biểu hiện ra bên ngoài bằng một cái cau mày."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Seasonal affective disorder.",
+            "vi": "Rối loạn tình cảm theo mùa."
+        },
+        {
+            "pos": "acronym",
+            "en": "(medicine) Seasonal affective disorder.",
+            "vi": "(y học) Rối loạn cảm xúc theo mùa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She clearly felt sad to see this day end.",
+            "vi": "Cô ấy rõ ràng cảm thấy buồn khi thấy ngày này kết thúc."
+        },
+        {
+            "en": "He has sad eyes, like me.",
+            "vi": "Anh ấy có đôi mắt buồn, giống tôi."
+        }
+    ],
+    "words_form": [
+        "sadder",
+        "saddest"
+    ],
+    "meaning_vi": "buồn"
+}

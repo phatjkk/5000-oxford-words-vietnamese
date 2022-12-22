@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/min/"
+    ],
+    "synonyms": [
+        "malicious",
+        "evil",
+        "hostile",
+        "cruel",
+        "selfish"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Mean is defined as unkind or cruel.",
+            "vi": "Ý nghĩa được định nghĩa là không tốt hoặc tàn nhẫn."
+        },
+        {
+            "pos": "verb",
+            "en": "To have as a purpose or an intention; intend.",
+            "vi": "Có như một mục đích hoặc một ý định; có ý định."
+        },
+        {
+            "pos": "noun",
+            "en": "Something having a position, quality, or condition midway between extremes; a medium.",
+            "vi": "Thứ gì đó có vị trí, phẩm chất hoặc tình trạng ở giữa các thái cực; một phương tiện."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) mean business  To be in earnest.",
+            "vi": "(không chính thức) có nghĩa là kinh doanh Một cách nghiêm túc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't mean to scare you.",
+            "vi": "Tôi không có ý làm bạn sợ."
+        },
+        {
+            "en": "What do you mean by that?",
+            "vi": "Ý bạn là như thế nào?"
+        }
+    ],
+    "words_form": [
+        "meanest",
+        "meaning",
+        "means",
+        "meant"
+    ],
+    "meaning_vi": "nghĩa là"
+}

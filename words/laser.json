@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈleɪzər/"
+    ],
+    "synonyms": [
+        "optical",
+        "infrared",
+        "detector",
+        "sensor",
+        "laser-based"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A device containing a substance the majority of whose atoms or molecules can be put into an excited energy state, allowing the substance to emit coherent light of a precise wavelength in an intense, narrow beam.",
+            "vi": "Một thiết bị chứa một chất mà phần lớn các nguyên tử hoặc phân tử của chúng có thể được đưa vào trạng thái năng lượng kích thích, cho phép chất phát ra ánh sáng kết hợp có bước sóng chính xác trong một chùm tia hẹp, cường độ cao."
+        },
+        {
+            "pos": "acronym",
+            "en": "Abbreviation of light amplification by stimulated emission of radiation.",
+            "vi": "Viết tắt của khuếch đại ánh sáng bằng phát bức xạ kích thích."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A taxonomic genus within the family Apiaceae \"” possibly not valid.",
+            "vi": "Một chi phân loại trong họ Apiaceae \"\" có thể không hợp lệ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His laser gun lay where he fell.",
+            "vi": "Khẩu súng la-de của anh ta nằm ở nơi anh ta ngã xuống."
+        },
+        {
+            "en": "The sound of a laser gun jarred her.",
+            "vi": "Tiếng súng la-de làm cô chói tai."
+        }
+    ],
+    "words_form": [
+        "lasered",
+        "lasering",
+        "lasers"
+    ],
+    "meaning_vi": "(kỹ thuật) la-de"
+}

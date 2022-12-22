@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈtaɪdl/"
+    ],
+    "synonyms": [
+        "inscription",
+        "commission",
+        "honorific",
+        "ribbon",
+        "claim"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To give a name or title to.",
+            "vi": "Để đặt tên hoặc chức danh cho."
+        },
+        {
+            "pos": "noun",
+            "en": "The name of a book, chapter, poem, essay, picture, statue, piece of music, play, film, etc.",
+            "vi": "Tên của một cuốn sách, chương, bài thơ, bài văn, bức tranh, bức tượng, bản nhạc, vở kịch, bộ phim, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The chapter title poses a valid question.",
+            "vi": "Tiêu đề chương đặt ra một câu hỏi hợp lệ."
+        },
+        {
+            "en": "By this fluctuation the pond asserts its title to a shore, and thus the shore is shorn, and the trees cannot hold it by right of possession.",
+            "vi": "Bởi sự biến động này, ao khẳng định quyền sở hữu của mình đối với một bờ biển, và do đó bờ biển bị thu hẹp lại, và cây cối không thể nắm giữ nó theo quyền sở hữu."
+        }
+    ],
+    "words_form": [
+        "titled",
+        "titles",
+        "titling"
+    ],
+    "meaning_vi": "chức vụ"
+}

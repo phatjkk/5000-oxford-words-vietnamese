@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/hoʊld/"
+    ],
+    "synonyms": [
+        "grasp",
+        "clench",
+        "confine",
+        "contain",
+        "catch"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A hold is defined as a method of grabbing on or staying in position, or is something that can be used to grab on, or a degree of power or influence.",
+            "vi": "Nắm giữ được định nghĩa là một phương pháp nắm bắt hoặc giữ nguyên vị trí, hoặc là một thứ gì đó có thể được sử dụng để nắm lấy, hoặc một mức độ quyền lực hoặc ảnh hưởng."
+        },
+        {
+            "pos": "verb",
+            "en": "To continue in the same direction.",
+            "vi": "Để tiếp tục theo cùng một hướng."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Gracious; friendly; faithful; true.",
+            "vi": "(lỗi thời) Gracious; thân thiện; Trung thành; thật."
+        },
+        {
+            "pos": "idiom",
+            "en": "get hold of  To come into possession of; find: Where can I get hold of a copy?.To communicate with, as by telephone: Tried to get hold of you but the line was busy.To gain control of. Often used reflexively: You must get hold of yourself!.",
+            "vi": "nắm giữ Để trở thành sở hữu của; tìm: Tôi có thể giữ một bản sao ở đâu? Để liên lạc với, như qua điện thoại: Đã cố gắng liên lạc với bạn nhưng đường dây đang bận. Để giành quyền kiểm soát. Thường được sử dụng theo phản xạ: Bạn phải tự kiềm chế !."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Can you hold things down for two weeks?",
+            "vi": "Bạn có thể giữ mọi thứ trong hai tuần không?"
+        },
+        {
+            "en": "Can you hold lunch for a little bit?",
+            "vi": "Bạn có thể ăn trưa một chút được không?"
+        }
+    ],
+    "words_form": [
+        "held",
+        "holding",
+        "holds"
+    ],
+    "meaning_vi": "giữ"
+}

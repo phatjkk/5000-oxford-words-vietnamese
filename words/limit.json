@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈlɪmɪt/"
+    ],
+    "synonyms": [
+        "infinity",
+        "confine",
+        "end",
+        "quota",
+        "origin"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a limit is a boundary or point where something ends or the maximum amount allowed.",
+            "vi": "Định nghĩa của giới hạn là một ranh giới hoặc điểm mà một cái gì đó kết thúc hoặc số tiền tối đa cho phép."
+        },
+        {
+            "pos": "adjective",
+            "en": "(poker) Being a fixed limit game.",
+            "vi": "(poker) Là một trò chơi có giới hạn cố định."
+        },
+        {
+            "pos": "verb",
+            "en": "To restrict; not to allow to go beyond a certain bound.",
+            "vi": "Để hạn chế; không cho phép vượt ra ngoài một ràng buộc nhất định."
+        },
+        {
+            "pos": "idiom",
+            "en": "the limit  any person or thing regarded as unbearable, remarkable, etc. to an extreme degree",
+            "vi": "giới hạn bất kỳ người hoặc vật nào được coi là không thể chịu đựng được, đáng chú ý, v.v. ở mức độ cực đoan"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We have to limit the strain we place him under or he'll break.",
+            "vi": "Chúng tôi phải hạn chế sự căng thẳng mà chúng tôi đặt anh ấy dưới quyền, nếu không anh ấy sẽ bị gãy."
+        },
+        {
+            "en": "He drove the speed limit - no more, no less.",
+            "vi": "Anh ta đã lái xe vượt quá tốc độ - không hơn, không kém."
+        }
+    ],
+    "words_form": [
+        "limited",
+        "limiting",
+        "limits"
+    ],
+    "meaning_vi": "giới hạn"
+}

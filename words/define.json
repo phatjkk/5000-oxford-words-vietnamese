@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈfaɪn/"
+    ],
+    "synonyms": [
+        "explain",
+        "bound",
+        "confine",
+        "determine",
+        "curb"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of define is to describe the meaning or character of something.",
+            "vi": "Định nghĩa của define là mô tả ý nghĩa hoặc đặc điểm của một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "(computing, programming) A kind of macro in source code that replaces one text string with another wherever it occurs.",
+            "vi": "(máy tính, lập trình) Một loại macro trong mã nguồn thay thế một chuỗi văn bản này bằng một chuỗi văn bản khác ở bất cứ đâu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The child's eagerness and interest carry her over many obstacles that would be our undoing if we stopped to define and explain everything.",
+            "vi": "Sự háo hức và quan tâm của đứa trẻ mang cô ấy vượt qua nhiều trở ngại mà chúng ta sẽ hoàn thành nếu chúng ta dừng lại để xác định và giải thích mọi thứ."
+        },
+        {
+            "en": "It will not be welfare (or, at least depending on how you define the term, it will not be perceived as welfare).",
+            "vi": "Nó sẽ không phải là phúc lợi (hoặc, ít nhất là tùy thuộc vào cách bạn định nghĩa thuật ngữ, nó sẽ không được coi là phúc lợi)."
+        }
+    ],
+    "words_form": [
+        "defined",
+        "defines",
+        "defining"
+    ],
+    "meaning_vi": "xác định"
+}

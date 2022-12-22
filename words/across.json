@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/əˈkrɔs/",
+        "/əˈkrɑs/"
+    ],
+    "synonyms": [
+        "beyond",
+        "crosswise",
+        "over",
+        "opposite",
+        "crossed"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "Across is defined as from one side to the other.",
+            "vi": "Ngang được định nghĩa là từ bên này sang bên kia."
+        },
+        {
+            "pos": "adverb",
+            "en": "The definition of across is on the other side or from the other side.",
+            "vi": "Định nghĩa của ngang là ở phía bên kia hoặc từ phía bên kia."
+        },
+        {
+            "pos": "noun",
+            "en": "(crosswords) A clue whose solution runs horizontally in the grid.",
+            "vi": "(ô chữ) Một manh mối có giải pháp chạy theo chiều ngang của lưới."
+        },
+        {
+            "pos": "adjective",
+            "en": "Being in a crossed position.",
+            "vi": "Đang ở trong một vị trí chéo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Could she make it across the lava field by herself?",
+            "vi": "Liệu cô ấy có thể tự mình vượt qua cánh đồng dung nham?"
+        },
+        {
+            "en": "A slow smile worked its way across his face and into his eyes.",
+            "vi": "Một nụ cười chậm rãi xuất hiện trên khuôn mặt và vào mắt anh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "băng qua, qua, ngang qua"
+}

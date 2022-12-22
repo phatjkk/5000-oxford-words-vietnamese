@@ -1,0 +1,64 @@
+{
+    "spelling": [
+        "/sɛlf/"
+    ],
+    "synonyms": [
+        "individual",
+        "selfhood",
+        "ego",
+        "self",
+        "narcissism"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Self is defined as the total being of a person, awareness of the individual or qualities of the individual.",
+            "vi": "Bản thân được định nghĩa là tổng thể của một người, nhận thức về cá nhân hoặc các phẩm chất của cá nhân."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Self is an informal word used to replace myself, himself, herself and yourself.",
+            "vi": "Self là một từ thân mật được sử dụng để thay thế bản thân tôi, chính anh ấy, cô ấy và chính bạn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of the same material as the article with which it is used.",
+            "vi": "Cùng chất liệu với vật phẩm mà nó được sử dụng."
+        },
+        {
+            "pos": "verb",
+            "en": "(botany) To fertilise by the same individual; to self-fertilise or self-pollinate.",
+            "vi": "(thực vật học) Được thụ tinh bởi cùng một cá thể; để tự thụ tinh hoặc tự thụ phấn."
+        },
+        {
+            "pos": "affix",
+            "en": "Of oneself or itself.",
+            "vi": "Của bản thân hoặc của chính nó."
+        },
+        {
+            "pos": "prefix",
+            "en": "Oneself; itself.",
+            "vi": "Bản thân mình; chinh no."
+        },
+        {
+            "pos": "suffix",
+            "en": "Used in forming intensive and reflexive forms of the singular personal pronouns.",
+            "vi": "Được sử dụng để hình thành các hình thức chuyên sâu và phản xạ của đại từ nhân xưng số ít."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "While Molly was her usual quiet self, and perhaps a little nervous, it was obvious she was excited.",
+            "vi": "Trong khi Molly vẫn giữ vẻ trầm lặng thường ngày và có lẽ hơi lo lắng, thì rõ ràng là cô ấy đang rất phấn khích."
+        },
+        {
+            "en": "Look then at thy inner self with the eyes of the spirit, and ask thyself whether thou art content with thyself.",
+            "vi": "Sau đó, hãy nhìn vào nội tâm của bạn bằng con mắt của linh hồn, và tự hỏi liệu bạn có hài lòng với chính mình không."
+        }
+    ],
+    "words_form": [
+        "selfs",
+        "selves"
+    ],
+    "meaning_vi": "bản thân"
+}

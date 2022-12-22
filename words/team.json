@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tim/"
+    ],
+    "synonyms": [
+        "squad",
+        "company",
+        "club",
+        "aggregation",
+        "corps"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Team is defined as to join together to perform a common activity.",
+            "vi": "Nhóm được định nghĩa là tham gia cùng nhau để thực hiện một hoạt động chung."
+        },
+        {
+            "pos": "noun",
+            "en": "Two or more horses, oxen, etc. harnessed to the same vehicle or plow.",
+            "vi": "Hai hoặc nhiều con ngựa, bò, v.v. được bắt vào cùng một phương tiện hoặc máy cày."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or done by a team.",
+            "vi": "Của hoặc được thực hiện bởi một nhóm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A good leader makes a good team the best, as my father says.",
+            "vi": "Một nhà lãnh đạo tốt sẽ làm cho một nhóm tốt trở thành tốt nhất, như cha tôi nói."
+        },
+        {
+            "en": "I was on the chess team in college.",
+            "vi": "Tôi đã ở trong đội cờ vua ở trường đại học."
+        }
+    ],
+    "words_form": [
+        "teamed",
+        "teaming",
+        "teams"
+    ],
+    "meaning_vi": "đội"
+}

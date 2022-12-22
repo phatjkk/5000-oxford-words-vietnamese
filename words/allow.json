@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈlaʊ/"
+    ],
+    "synonyms": [
+        "permit",
+        "approve",
+        "pass",
+        "grant",
+        "acquiesce"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of allow means to permit or to give permission.",
+            "vi": "Định nghĩa của allow có nghĩa là cho phép hoặc cho phép."
+        },
+        {
+            "pos": "idiom",
+            "en": "allow for  to make allowance, provision, etc. for; keep in mind allow for the difference in their ages.",
+            "vi": "cho phép để thực hiện trợ cấp, cung cấp, vv cho; hãy nhớ cho phép sự khác biệt về độ tuổi của họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Allow me to give you a piece of advice.",
+            "vi": "Cho phép tôi cho bạn một lời khuyên."
+        },
+        {
+            "en": "They allow us to lead as normal of a life as possible.",
+            "vi": "Chúng cho phép chúng ta sống bình thường nhất có thể."
+        }
+    ],
+    "words_form": [
+        "allowed",
+        "allowing",
+        "allows"
+    ],
+    "meaning_vi": "cho phép"
+}

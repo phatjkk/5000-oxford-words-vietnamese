@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/dɛsk/"
+    ],
+    "synonyms": [
+        "table",
+        "escritoire",
+        "desk",
+        "writing-desk",
+        "secretary"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A piece of furniture typically having a flat or sloping top for writing and often drawers or compartments.",
+            "vi": "Một món đồ nội thất thường có mặt trên phẳng hoặc dốc để viết và thường có ngăn kéo hoặc ngăn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, for, or on a desk.",
+            "vi": "Của, để, hoặc trên bàn làm việc."
+        },
+        {
+            "pos": "verb",
+            "en": "To shut up, as in a desk; to treasure.",
+            "vi": "Để im lặng, như trong một cái bàn; đến kho báu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She made her way to the notebook near the desk phone.",
+            "vi": "Cô tìm đến cuốn sổ gần chiếc điện thoại bàn."
+        },
+        {
+            "en": "\"Let me see something,\" he said, striding to where his desk was.",
+            "vi": "“Để tôi xem cái gì đó,” anh nói, sải bước đến chỗ bàn làm việc."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bàn"
+}

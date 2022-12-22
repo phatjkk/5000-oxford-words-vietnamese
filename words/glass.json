@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ɡlæs/"
+    ],
+    "synonyms": [
+        "looking-glass",
+        "tankard",
+        "tumbler",
+        "half-pint",
+        "drink"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of glass is something made of or like the hard substance made of silicates, soda or potash, lime and sometimes metallic oxides.",
+            "vi": "Định nghĩa của thủy tinh là một cái gì đó được làm bằng hoặc giống như chất cứng được làm bằng silicat, soda hoặc bồ tạt, vôi và đôi khi là oxit kim loại."
+        },
+        {
+            "pos": "noun",
+            "en": "The quantity contained by a drinking vessel; a glassful.",
+            "vi": "Số lượng chứa trong một bình uống; một ly."
+        },
+        {
+            "pos": "verb",
+            "en": "Glass means to put food into canning jars, to reflect or to replace broken windows.",
+            "vi": "Thủy tinh có nghĩa là để thực phẩm vào lọ đóng hộp, để phản chiếu hoặc để thay thế các cửa sổ bị vỡ."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1937- ; U.S. composer.",
+            "vi": "(người) 1937-; Nhà soạn nhạc Hoa Kỳ."
+        },
+        {
+            "pos": "idiom",
+            "en": "glass in  to enclose with glass panes",
+            "vi": "kính trong để bọc bằng các tấm kính"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Could I have a glass of water?",
+            "vi": "Cho tôi xin một cốc nước được không?"
+        },
+        {
+            "en": "He set a glass of Coke on the counter before her.",
+            "vi": "Anh đặt một ly Coke trên quầy trước mặt cô."
+        }
+    ],
+    "words_form": [
+        "glassed",
+        "glasses",
+        "glassing"
+    ],
+    "meaning_vi": "ly thủy tinh"
+}

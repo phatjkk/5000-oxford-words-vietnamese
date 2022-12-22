@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/sun/"
+    ],
+    "synonyms": [
+        "shortly",
+        "instantly",
+        "expeditiously",
+        "before-long",
+        "anon"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "With willingness; readily.",
+            "vi": "Với sự sẵn lòng; sẵn sàng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Occurring within a short time, or quickly.",
+            "vi": "Xảy ra trong thời gian ngắn, hoặc nhanh chóng."
+        },
+        {
+            "pos": "idiom",
+            "en": "no sooner ... than  As soon as: No sooner was the frost off the ground than the work began.",
+            "vi": "no soon ... than As soon as: Không bao lâu nữa là sương khỏi mặt đất khi công việc bắt đầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She had to get a car as soon as possible.",
+            "vi": "Cô phải lấy xe càng sớm càng tốt."
+        },
+        {
+            "en": "As soon as she said it she wished she could take it back.",
+            "vi": "Ngay sau khi cô ấy nói điều đó, cô ấy ước mình có thể lấy lại nó."
+        }
+    ],
+    "words_form": [
+        "sooner",
+        "soonest"
+    ],
+    "meaning_vi": "nhanh thôi"
+}

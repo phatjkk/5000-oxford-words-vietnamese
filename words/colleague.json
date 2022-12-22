@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈkɑliɡ/"
+    ],
+    "synonyms": [
+        "co-worker",
+        "associate",
+        "ally",
+        "collaborator",
+        "coequal"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A fellow worker in the same profession; associate.",
+            "vi": "Một người cùng nghề; kết hợp."
+        },
+        {
+            "pos": "verb",
+            "en": "To unite or associate with another or with others.",
+            "vi": "Để hợp nhất hoặc liên kết với người khác hoặc với những người khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The businessman wanted to be separated from his noisy colleague.",
+            "vi": "Doanh nhân muốn tách khỏi đồng nghiệp ồn ào."
+        },
+        {
+            "en": "His colleague was Piet Joubert.",
+            "vi": "Đồng nghiệp của ông là Piet Joubert."
+        }
+    ],
+    "words_form": [
+        "colleagues"
+    ],
+    "meaning_vi": "đồng nghiệp"
+}

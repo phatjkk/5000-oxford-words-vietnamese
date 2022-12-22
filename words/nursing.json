@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˈnɜːsɪŋ/"
+    ],
+    "synonyms": [
+        "attending",
+        "cherishing",
+        "fostering",
+        "tending",
+        "caring for"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The medical care given by a nurse.",
+            "vi": "Sự chăm sóc y tế của một y tá."
+        },
+        {
+            "pos": "verb",
+            "en": "Nursing is defined as feeding a baby breast milk.",
+            "vi": "Nuôi con bằng sữa mẹ được định nghĩa là nuôi con bằng sữa mẹ."
+        },
+        {
+            "pos": "adjective",
+            "en": "In the state of suckling young, lactating.",
+            "vi": "Ở tình trạng trẻ còn bú, đang cho con bú."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Jeff's father is dead and his mother is in a nursing home.",
+            "vi": "Bố của Jeff đã chết và mẹ của anh ấy đang ở viện dưỡng lão."
+        },
+        {
+            "en": "Sonya and Natasha were nursing him.",
+            "vi": "Sonya và Natasha đang cho anh ta bú."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The medical care given by a nurse.",
+            "vi": "Sự chăm sóc y tế của một y tá."
+        },
+        {
+            "pos": "verb",
+            "en": "Nursing is defined as feeding a baby breast milk.",
+            "vi": "Nuôi con bằng sữa mẹ được định nghĩa là nuôi con bằng sữa mẹ."
+        },
+        {
+            "pos": "adjective",
+            "en": "In the state of suckling young, lactating.",
+            "vi": "Ở tình trạng trẻ còn bú, đang cho con bú."
+        }
+    ]
+}

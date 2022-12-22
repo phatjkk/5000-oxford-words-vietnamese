@@ -1,0 +1,58 @@
+{
+    "spelling": [
+        "/lin/"
+    ],
+    "synonyms": [
+        "slim",
+        "slope",
+        "droop",
+        "place",
+        "drift"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Lean is defined as to incline, bend or rest on.",
+            "vi": "Lean được định nghĩa là nghiêng, uốn cong hoặc nghỉ ngơi."
+        },
+        {
+            "pos": "noun",
+            "en": "A tilt or an inclination away from the vertical.",
+            "vi": "Độ nghiêng hoặc độ nghiêng so với phương thẳng đứng."
+        },
+        {
+            "pos": "adjective",
+            "en": "With little flesh or fat; thin; spare.",
+            "vi": "Có ít thịt hoặc mỡ; gầy; dự phòng."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1908-91; Brit. film director.",
+            "vi": "(người) 1908-91; Người Anh. đạo diễn phim."
+        },
+        {
+            "pos": "idiom",
+            "en": "lean on  to pressure, as by using influence or through intimidation",
+            "vi": "dựa vào áp lực, bằng cách sử dụng ảnh hưởng hoặc thông qua đe dọa"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was lean and agile.",
+            "vi": "Anh ta gầy và nhanh nhẹn."
+        },
+        {
+            "en": "She glanced at his lean hips.",
+            "vi": "Cô liếc nhìn phần hông gầy của anh."
+        }
+    ],
+    "words_form": [
+        "leaned",
+        "leaner",
+        "leanest",
+        "leaning",
+        "leans",
+        "leant"
+    ],
+    "meaning_vi": "nạc"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/bəˈliv/"
+    ],
+    "synonyms": [
+        "think",
+        "accept",
+        "conclude",
+        "affirm",
+        "postulate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of believe means to have confidence in the truth of something.",
+            "vi": "Định nghĩa của niềm tin có nghĩa là tin tưởng vào sự thật của điều gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "believe (one's) ears  To trust what one has heard.",
+            "vi": "tin vào tai (của một người) Tin tưởng những gì người ta đã nghe."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can't believe I've finally found you.",
+            "vi": "Tôi không thể tin rằng cuối cùng tôi đã tìm thấy bạn."
+        },
+        {
+            "en": "He is the handsomest and strongest of men, and I believe he is the wisest also.",
+            "vi": "Anh ấy là người đẹp nhất và mạnh mẽ nhất trong số những người đàn ông, và tôi tin rằng anh ấy cũng là người khôn ngoan nhất."
+        }
+    ],
+    "words_form": [
+        "believed",
+        "believes",
+        "believing"
+    ],
+    "meaning_vi": "tin"
+}

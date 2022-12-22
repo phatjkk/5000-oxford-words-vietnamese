@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈsəmˌ(h)wɛr/"
+    ],
+    "synonyms": [
+        "here-and-there",
+        "someplace",
+        "about",
+        "scattered",
+        "nowhere"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "At, in, or to a place not specified or known.",
+            "vi": "Tại, tại, hoặc đến một nơi không được chỉ định hoặc được biết đến."
+        },
+        {
+            "pos": "noun",
+            "en": "An unknown or unspecified place.",
+            "vi": "Một nơi không xác định hoặc không xác định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You going somewhere, boss?",
+            "vi": "Bạn đi đâu đó, ông chủ?"
+        },
+        {
+            "en": "She's hiding from us somewhere nearby.",
+            "vi": "Cô ấy đang trốn chúng tôi ở đâu đó gần đó."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "một vài nơi"
+}

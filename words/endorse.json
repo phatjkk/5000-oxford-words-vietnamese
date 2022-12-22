@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ɪnˈdɔrs/",
+        "/ɛnˈdɔrs/"
+    ],
+    "synonyms": [
+        "approve",
+        "indorse",
+        "support",
+        "affirm",
+        "sanction"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Endorse is defined as to give your approval to someone or something or to authorize the payment of a document by signing with one's signature.",
+            "vi": "Chứng thực được định nghĩa là sự chấp thuận của bạn cho một người nào đó hoặc một cái gì đó hoặc cho phép thanh toán một tài liệu bằng cách ký bằng chữ ký của một người."
+        },
+        {
+            "pos": "noun",
+            "en": "(heraldry) A diminutive of the pale, usually appearing in pairs on either side of a pale.",
+            "vi": "(huy hiệu) Một phần nhỏ của màu nhạt, thường xuất hiện thành từng cặp ở hai bên của màu nhạt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Henceforth its sole effective function was to endorse and promulgate the decrees of the government of Vienna.",
+            "vi": "Do đó, chức năng hiệu quả duy nhất của nó là tán thành và ban hành các sắc lệnh của chính phủ Vienna."
+        },
+        {
+            "en": "Many educators and politicians whole-heartedly endorse the use of computers by kids.",
+            "vi": "Nhiều nhà giáo dục và chính trị gia hết lòng tán thành việc trẻ em sử dụng máy tính."
+        }
+    ],
+    "words_form": [
+        "endorsed",
+        "endorses",
+        "endorsing",
+        "indorsed",
+        "indorses",
+        "indorsing"
+    ],
+    "meaning_vi": "chứng thực"
+}

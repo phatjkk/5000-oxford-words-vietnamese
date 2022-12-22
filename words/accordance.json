@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/əˈkɔrdns/"
+    ],
+    "synonyms": [
+        "conformity",
+        "agreement",
+        "bestowment",
+        "harmony",
+        "correspondence"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of accordance means to have come to an understanding, or to be in agreement.",
+            "vi": "Định nghĩa về sự phù hợp có nghĩa là đã được hiểu rõ hoặc thống nhất với nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "After the advance has begun in this manner, orders will be given in accordance with the enemy's movements.",
+            "vi": "Sau khi cuộc tiến công bắt đầu theo cách này, các mệnh lệnh sẽ được đưa ra phù hợp với sự di chuyển của kẻ thù."
+        },
+        {
+            "en": "These electric pulses were made to act on an electromagnet at the receiving station, which, in accordance with Page's discovery, gave out a sound of a pitch corresponding to the number of times it was magnetized or demagnetized per second.",
+            "vi": "Các xung điện này được tạo ra để tác động lên một nam châm điện tại trạm thu, theo khám phá của Page, phát ra âm thanh có cường độ tương ứng với số lần nó bị nhiễm từ hoặc khử từ trong một giây."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "theo"
+}

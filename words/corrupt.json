@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kəˈrəpt/"
+    ],
+    "synonyms": [
+        "graft",
+        "defile",
+        "restore",
+        "truthful",
+        "low"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of corrupt is dishonest or deteriorated.",
+            "vi": "Định nghĩa về tham nhũng là không trung thực hoặc xấu đi."
+        },
+        {
+            "pos": "verb",
+            "en": "To become corrupt.",
+            "vi": "Trở nên đồi bại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Spilling soda on a disk might corrupt a file.",
+            "vi": "Đổ soda vào đĩa có thể làm hỏng tệp."
+        },
+        {
+            "en": "The mayor was corrupt and stole from the city's budget.",
+            "vi": "Thị trưởng đã tham nhũng và ăn cắp ngân sách của thành phố."
+        }
+    ],
+    "words_form": [
+        "corrupted",
+        "corrupting",
+        "corrupts"
+    ],
+    "meaning_vi": "tham nhũng"
+}

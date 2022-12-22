@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/lɔn/"
+    ],
+    "synonyms": [
+        "garden",
+        "green",
+        "grass",
+        "yard",
+        "park"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a lawn is an area of short, mowed grass that is generally found in a park or around a home.",
+            "vi": "Định nghĩa về bãi cỏ là một khu vực cỏ được cắt ngắn, thường được tìm thấy trong công viên hoặc xung quanh nhà."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A town in Newfoundland and Labrador.",
+            "vi": "Một thị trấn ở Newfoundland và Labrador."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I've got some gasoline I use in the lawn mower.",
+            "vi": "Tôi có một ít xăng sử dụng trong máy cắt cỏ."
+        },
+        {
+            "en": "Before winter sets in, see that the lawn is freely top-dressed.",
+            "vi": "Trước khi mùa đông bắt đầu, hãy xem bãi cỏ được mặc trên người một cách tự do."
+        }
+    ],
+    "words_form": [
+        "lawns"
+    ],
+    "meaning_vi": "bãi cỏ"
+}

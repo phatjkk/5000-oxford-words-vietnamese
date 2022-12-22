@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ˈæbsənt/"
+    ],
+    "synonyms": [
+        "omitted",
+        "elsewhere",
+        "missing",
+        "gone",
+        "vanished"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Not present; missing.",
+            "vi": "Không hiện diện; mất tích."
+        },
+        {
+            "pos": "verb",
+            "en": "Absent means taking the action to purposefully stay away or go away, often from a bad or unpleasant situation.",
+            "vi": "Vắng mặt có nghĩa là thực hiện hành động để tránh xa hoặc ra đi có chủ đích, thường là vì một tình huống xấu hoặc khó chịu."
+        },
+        {
+            "pos": "preposition",
+            "en": "Without.",
+            "vi": "Không có."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) Absentee; a person who is away on occasion. [Attested from around 1350 to 1470 until the early 19th century.]",
+            "vi": "(lỗi thời) Vắng mặt; một người đi vắng vào dịp này. [Được kiểm chứng từ khoảng năm 1350 đến năm 1470 cho đến đầu thế kỷ 19.]"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Felipa nodded, her gaze becoming absent again.",
+            "vi": "Felipa gật đầu, ánh mắt cô lại trở nên vắng vẻ."
+        },
+        {
+            "en": "The left side of Howie's head was absent hair and a series of three dark scars were visible.",
+            "vi": "Phần đầu bên trái của Howie không có tóc và ba vết sẹo thâm hiện rõ."
+        }
+    ],
+    "words_form": [
+        "absents"
+    ],
+    "meaning_vi": "vắng mặt, nghỉ"
+}

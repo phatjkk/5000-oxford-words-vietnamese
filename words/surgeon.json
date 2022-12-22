@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈsərdʒən/"
+    ],
+    "synonyms": [
+        "consultant",
+        "doctor",
+        "specialist",
+        "interventionist",
+        "neurosurgeon"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One who performs surgery; a doctor who performs operations on people or animals.",
+            "vi": "Một người thực hiện phẫu thuật; một bác sĩ thực hiện các phẫu thuật trên người hoặc động vật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He's my surgeon and the best there is.",
+            "vi": "Anh ấy là bác sĩ phẫu thuật của tôi và là người giỏi nhất ở đó."
+        },
+        {
+            "en": "I'm assuming he kept you because you're the best surgeon there is.",
+            "vi": "Tôi cho rằng anh ấy giữ bạn lại vì bạn là bác sĩ phẫu thuật giỏi nhất ở đó."
+        }
+    ],
+    "words_form": [
+        "surgeons"
+    ],
+    "meaning_vi": "bác sĩ phẫu thuật"
+}

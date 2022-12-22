@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/əˈbaʊt/"
+    ],
+    "synonyms": [
+        "roughly",
+        "approximately",
+        "regarding",
+        "just-about",
+        "around"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "About means moving around.",
+            "vi": "Về có nghĩa là di chuyển xung quanh."
+        },
+        {
+            "pos": "adverb",
+            "en": "About means almost.",
+            "vi": "Về có nghĩa là gần như."
+        },
+        {
+            "pos": "preposition",
+            "en": "About is defined as something close or approximate.",
+            "vi": "About được định nghĩa là một cái gì đó gần hoặc gần đúng."
+        },
+        {
+            "pos": "idiom",
+            "en": "be what something is all about  to be the true purpose of or reason for something",
+            "vi": "trở thành cái gì đó là tất cả về mục đích thực sự hoặc lý do cho một cái gì đó"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Do you want to tell me about it?",
+            "vi": "Bạn có muốn kể cho tôi nghe về nó không?"
+        },
+        {
+            "en": "I didn't ask about his family tree.",
+            "vi": "Tôi không hỏi về gia phả của anh ấy."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khoảng, về"
+}

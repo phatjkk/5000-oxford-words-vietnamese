@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/ˈbɪdər/"
+    ],
+    "synonyms": [
+        "sour",
+        "harsh",
+        "like",
+        "tart",
+        "acetous"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In an intense or harsh way; bitterly.",
+            "vi": "Một cách mãnh liệt hoặc khắc nghiệt; chua chát."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or having a sharp, often unpleasant taste; acrid, as quinine or peach stones.",
+            "vi": "Chỉ định hoặc có một mùi vị khó chịu, sắc nét; chát, như quinin hoặc đá đào."
+        },
+        {
+            "pos": "noun",
+            "en": "That which is bitter.",
+            "vi": "Điều đó thật cay đắng."
+        },
+        {
+            "pos": "verb",
+            "en": "To make bitter.",
+            "vi": "Để làm cho đắng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was far too sweet and had a bitter aftertaste.",
+            "vi": "Nó quá ngọt và có một dư vị đắng."
+        },
+        {
+            "en": "Gabriel asked with a bitter laugh.",
+            "vi": "Gabriel hỏi với một tiếng cười chua chát."
+        }
+    ],
+    "words_form": [
+        "bitterest",
+        "bitters"
+    ],
+    "meaning_vi": "đắng"
+}

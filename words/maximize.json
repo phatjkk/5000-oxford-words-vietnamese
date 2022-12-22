@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈmæksəˌmaɪz/"
+    ],
+    "synonyms": [
+        "maximise",
+        "minimize",
+        "enhance",
+        "improve",
+        "optimise"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To increase or make as great as possible.",
+            "vi": "Để tăng hoặc làm cho càng nhiều càng tốt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Are you able to maximize the use of this ability?",
+            "vi": "Bạn có thể sử dụng tối đa khả năng này không?"
+        },
+        {
+            "en": "We will know how to live our lives to best maximize any and all factors.",
+            "vi": "Chúng tôi sẽ biết cách sống cuộc sống của mình để tối đa hóa tốt nhất bất kỳ và tất cả các yếu tố."
+        }
+    ],
+    "words_form": [
+        "maximized",
+        "maximizes",
+        "maximizing"
+    ],
+    "meaning_vi": "tối đa hóa"
+}

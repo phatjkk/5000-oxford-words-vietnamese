@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈtæktɪk/"
+    ],
+    "synonyms": [
+        "action",
+        "procedure",
+        "gambit",
+        "maneuver",
+        "move"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a tactic is a skillful way of doing something or making something happen.",
+            "vi": "Định nghĩa của một chiến thuật là một cách khéo léo để thực hiện một điều gì đó hoặc làm cho một điều gì đó xảy ra."
+        },
+        {
+            "pos": "adjective",
+            "en": "(biol.) Of, showing, or characteristic of taxis.",
+            "vi": "(biol.) Của, hiển thị, hoặc đặc điểm của taxi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He wasn't the first to use that tactic to intimidate her.",
+            "vi": "Anh không phải là người đầu tiên sử dụng chiến thuật đó để đe dọa cô."
+        },
+        {
+            "en": "The surprise tactic failed because one of the party planners let out the secret.",
+            "vi": "Chiến thuật bất ngờ đã thất bại vì một trong những người lên kế hoạch cho bữa tiệc đã tiết lộ bí mật."
+        }
+    ],
+    "words_form": [
+        "tactics"
+    ],
+    "meaning_vi": "chiến thuật"
+}

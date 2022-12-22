@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈəðərˌwaɪz/"
+    ],
+    "synonyms": [
+        "contrarily",
+        "on-the-other-hand",
+        "else",
+        "like",
+        "unless"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Under other circumstances.",
+            "vi": "Trong các trường hợp khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Other than supposed; different.",
+            "vi": "Khác với những gì được cho là; khác nhau."
+        },
+        {
+            "pos": "conjunction",
+            "en": "If not; or else.",
+            "vi": "Nếu không; hoặc cái gì đó khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The shopping trip was exciting because it was so close to Christmas, but otherwise uneventful.",
+            "vi": "Chuyến đi mua sắm thật thú vị vì nó đã quá gần với lễ Giáng sinh, nhưng ngược lại thì thật khó chịu."
+        },
+        {
+            "en": "The accent says otherwise, but I was born in New York.",
+            "vi": "Giọng nói khác, nhưng tôi sinh ra ở New York."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nếu không thì"
+}

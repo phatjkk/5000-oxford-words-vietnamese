@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/slaɪs/"
+    ],
+    "synonyms": [
+        "slices",
+        "combine",
+        "incision",
+        "help",
+        "slab"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To cut from a larger piece.",
+            "vi": "Để cắt từ một mảnh lớn hơn."
+        },
+        {
+            "pos": "noun",
+            "en": "A relatively thin, broad piece cut from an object having some bulk or volume.",
+            "vi": "Một mảnh tương đối mỏng, rộng được cắt từ một vật thể có khối lượng hoặc thể tích nào đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "any way  No matter how you look at it; no matter how it is analyzed.",
+            "vi": "bất kỳ cách nào Bất kể bạn nhìn nó như thế nào; bất kể nó được phân tích như thế nào."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "One can cut off a slice of bread, but not an army.",
+            "vi": "Người ta có thể cắt một lát bánh mì, nhưng không thể cắt bỏ một đội quân."
+        },
+        {
+            "en": "The woman hesitated and took a slice of bread, toying with it.",
+            "vi": "Người phụ nữ do dự và lấy một lát bánh mì, đùa giỡn với nó."
+        }
+    ],
+    "words_form": [
+        "sliced",
+        "slices",
+        "slicing"
+    ],
+    "meaning_vi": "lát"
+}

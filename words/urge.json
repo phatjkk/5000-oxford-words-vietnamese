@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ərdʒ/"
+    ],
+    "synonyms": [
+        "force",
+        "shove",
+        "exhort",
+        "abet",
+        "maneuver"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To force or drive forward or onward; impel.",
+            "vi": "Để buộc hoặc lái xe về phía trước hoặc phía trước; xô."
+        },
+        {
+            "pos": "noun",
+            "en": "Urge is the act of force or pushing along or a desire for something.",
+            "vi": "Thúc giục là hành động ép buộc hoặc thúc đẩy hoặc mong muốn một điều gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She fought back the urge to run.",
+            "vi": "Cô đã chống lại sự thôi thúc muốn chạy."
+        },
+        {
+            "en": "Suppressing the urge to laugh wasn't easy, but she managed it.",
+            "vi": "Kìm nén cảm giác muốn cười không dễ dàng, nhưng cô đã xoay sở được."
+        }
+    ],
+    "words_form": [
+        "urged",
+        "urges",
+        "urging"
+    ],
+    "meaning_vi": "thúc giục"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈməltəˌplaɪ/"
+    ],
+    "synonyms": [
+        "add",
+        "augment",
+        "double",
+        "magnify",
+        "divide"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(math.) To find the product of by multiplication.",
+            "vi": "(toán học.) Để tìm tích của phép nhân."
+        },
+        {
+            "pos": "adverb",
+            "en": "In multiple ways.",
+            "vi": "Theo nhiều cách."
+        },
+        {
+            "pos": "noun",
+            "en": "(computer science) An act or instance of multiplying.",
+            "vi": "(khoa học máy tính) Một hành động hoặc trường hợp nhân lên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Machines multiply our labor and increase our ability to do work.",
+            "vi": "Máy móc nhân rộng sức lao động của chúng ta và tăng khả năng làm việc của chúng ta."
+        },
+        {
+            "en": "The outcome has been to raise the dignity of the calling, to induce persons of a superior class to adopt it in increasing numbers, to enlarge the demand for their services, and to multiply the means of educating them.",
+            "vi": "Kết quả là nâng cao phẩm giá của lời kêu gọi, khiến những người thuộc tầng lớp cao cấp chấp nhận nó với số lượng ngày càng tăng, tăng nhu cầu về các dịch vụ của họ, và nhân rộng các phương tiện giáo dục họ."
+        }
+    ],
+    "words_form": [
+        "multiplied",
+        "multiplies",
+        "multiplying"
+    ],
+    "meaning_vi": "nhân"
+}

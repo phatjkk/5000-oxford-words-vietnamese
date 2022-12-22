@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/θɪŋk/"
+    ],
+    "synonyms": [
+        "ponder",
+        "imagine",
+        "cogitate",
+        "believe",
+        "deliberate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To use the mind in a certain way.",
+            "vi": "Để sử dụng tâm trí theo một cách nhất định."
+        },
+        {
+            "pos": "adjective",
+            "en": "Requiring much thought to create or assimilate.",
+            "vi": "Đòi hỏi nhiều suy nghĩ để tạo ra hoặc đồng hóa."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or an instance of deliberate or extended thinking; a meditation.",
+            "vi": "Hành động hoặc một trường hợp suy nghĩ có chủ ý hoặc mở rộng; một thiền định."
+        },
+        {
+            "pos": "verb impersonal",
+            "en": "To seem.",
+            "vi": "Để có vẻ."
+        },
+        {
+            "pos": "affix",
+            "en": "A pattern or manner of thinking.",
+            "vi": "Một khuôn mẫu hoặc cách suy nghĩ."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) come to think of it  When one considers the matter; on reflection: Come to think of it, that road back there was the one we were supposed to take.",
+            "vi": "(không chính thức) nghĩ về nó Khi một người xem xét vấn đề; về sự suy ngẫm: Hãy nghĩ lại, con đường trở lại đó là con đường mà chúng ta phải đi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He could not think of anything else.",
+            "vi": "Anh không thể nghĩ về bất cứ điều gì khác."
+        },
+        {
+            "en": "Who do you think I am?",
+            "vi": "Bạn nghĩ tôi là ai?"
+        }
+    ],
+    "words_form": [
+        "thinking",
+        "thinks",
+        "thought"
+    ],
+    "meaning_vi": "suy nghĩ"
+}

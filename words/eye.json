@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/aɪ/"
+    ],
+    "synonyms": [
+        "blinker",
+        "cornea",
+        "iris",
+        "retina",
+        "optic"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an eye is the organ that gives sight in humans and animals, or the iris.",
+            "vi": "Định nghĩa về mắt là cơ quan cung cấp thị giác ở người và động vật, hay còn gọi là mống mắt."
+        },
+        {
+            "pos": "verb",
+            "en": "To eye is defined as to look at or observe.",
+            "vi": "Mắt được định nghĩa là để nhìn hoặc quan sát."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(An organ that is sensitive to light, by which means animals see): ocellus.",
+            "vi": "(Một cơ quan nhạy cảm với ánh sáng, có nghĩa là động vật nhìn thấy): ocellus."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(UK, colloquial) The comedic magazine Private Eye.",
+            "vi": "(Vương quốc Anh, thông tục) Tạp chí hài hước Private Eye."
+        },
+        {
+            "pos": "idiom",
+            "en": "all eyes  Fully attentive.",
+            "vi": "tất cả các con mắt Hoàn toàn chăm chú."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I feel the twinkle of his eye in his handshake.",
+            "vi": "Tôi cảm thấy ánh mắt lấp lánh trong cái bắt tay của anh ấy."
+        },
+        {
+            "en": "Tears escaped one eye and trailed down his face.",
+            "vi": "Nước mắt chảy ra từ một bên mắt và chảy dài trên khuôn mặt anh."
+        }
+    ],
+    "words_form": [
+        "eyed",
+        "eyeing",
+        "eyes",
+        "eying"
+    ],
+    "meaning_vi": "mắt"
+}

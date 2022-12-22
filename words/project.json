@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈprɑˌdʒɛkt/"
+    ],
+    "synonyms": [
+        "stick out",
+        "activity",
+        "proposition",
+        "formulate",
+        "balloon"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a project is a task or a plan.",
+            "vi": "Định nghĩa của một dự án là một nhiệm vụ hoặc một kế hoạch."
+        },
+        {
+            "pos": "verb",
+            "en": "Project is defined as to cause an image to appear on a surface or to propose or calculate something for the future.",
+            "vi": "Dự án được định nghĩa là làm cho một hình ảnh xuất hiện trên bề mặt hoặc để đề xuất hoặc tính toán điều gì đó cho tương lai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Quinn's sabbatical project lost its funding.",
+            "vi": "Dự án nghỉ phép của Quinn bị mất vốn."
+        },
+        {
+            "en": "We hugged each other when our exhausting project was completed.",
+            "vi": "Chúng tôi ôm nhau khi dự án mệt mỏi của chúng tôi hoàn thành."
+        }
+    ],
+    "words_form": [
+        "projected",
+        "projecting",
+        "projects"
+    ],
+    "meaning_vi": "dự án"
+}

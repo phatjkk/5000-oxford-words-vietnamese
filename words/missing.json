@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈmɪsɪŋ/"
+    ],
+    "synonyms": [
+        "absent",
+        "lost",
+        "craving",
+        "wanting",
+        "yearning"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Absent after combat, but not definitely known to be dead or taken prisoner.",
+            "vi": "Vắng mặt sau trận chiến, nhưng không chắc chắn là đã chết hay bị bắt làm tù binh."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of miss.",
+            "vi": "Hiện tại phân từ của bỏ lỡ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She was missing something.",
+            "vi": "Cô ấy đã thiếu một cái gì đó."
+        },
+        {
+            "en": "One word was missing in all that...",
+            "vi": "Một từ bị thiếu trong tất cả những điều đó ..."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "còn thiếu"
+}

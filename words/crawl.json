@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/krɔl/"
+    ],
+    "synonyms": [
+        "creep",
+        "grovel",
+        "drag",
+        "plod",
+        "poke"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(sports) A rapid swimming stroke consisting of alternating overarm strokes and a flutter kick.",
+            "vi": "(thể thao) Một động tác bơi nhanh bao gồm các cú sẩy chân xen kẽ nhau và một cú đá hất tung."
+        },
+        {
+            "pos": "verb",
+            "en": "To be or feel as if swarming or covered with moving things.",
+            "vi": "Để có hoặc cảm thấy như thể tràn ngập hoặc bị bao phủ bởi những thứ chuyển động."
+        },
+        {
+            "pos": "idiom",
+            "en": "make someone's flesh crawl  to give someone a feeling of fear or repugnance, as if insects were crawling on his or her skin",
+            "vi": "làm cho da thịt của ai đó bò lên để tạo cho ai đó cảm giác sợ hãi hoặc ghê tởm, như thể côn trùng đang bò trên da của họ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They do not sting, but crawl away from danger.",
+            "vi": "Chúng không chích mà bò tránh nguy hiểm."
+        },
+        {
+            "en": "Carmen felt the warmth crawl up her neck.",
+            "vi": "Carmen cảm thấy hơi ấm trườn lên cổ mình."
+        }
+    ],
+    "words_form": [
+        "crawled",
+        "crawling",
+        "crawls"
+    ],
+    "meaning_vi": "bò"
+}

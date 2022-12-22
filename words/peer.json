@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pɪr/"
+    ],
+    "synonyms": [
+        "colleague",
+        "companion",
+        "match",
+        "rival",
+        "scrutinize"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a peer is an equal in age, skill or another category.",
+            "vi": "Định nghĩa của một người ngang hàng là sự đồng đều về tuổi tác, kỹ năng hoặc một thể loại khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To be partially visible; show.",
+            "vi": "Để có thể nhìn thấy một phần; chỉ."
+        },
+        {
+            "pos": "idiom",
+            "en": "peer of the realm  any of the British peers entitled to a seat in the House of Lords",
+            "vi": "ngang hàng của vương quốc bất kỳ ai trong số các đồng nghiệp người Anh có quyền có một ghế trong Nhà của Lãnh chúa"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Technology allowed us to peer deeper into the mysteries of the miniscule.",
+            "vi": "Công nghệ cho phép chúng ta khám phá sâu hơn những bí ẩn của siêu nhỏ."
+        },
+        {
+            "en": "She yanked the wardrobe open and turned to peer over her shoulder.",
+            "vi": "Cô giật mạnh tủ quần áo và quay sang nhìn qua vai mình."
+        }
+    ],
+    "words_form": [
+        "peered",
+        "peering",
+        "peers"
+    ],
+    "meaning_vi": "ngang nhau"
+}

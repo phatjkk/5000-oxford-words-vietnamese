@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/əˈlaɪəns/"
+    ],
+    "synonyms": [
+        "union",
+        "connection",
+        "membership",
+        "league",
+        "association"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an alliance is a relationship forged between two or more individuals or groups that works as a positive for both parties involved.",
+            "vi": "Định nghĩa về một liên minh là một mối quan hệ được tạo ra giữa hai hoặc nhiều cá nhân hoặc nhóm hoạt động tích cực cho cả hai bên tham gia."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To connect or unite by alliance; to ally.",
+            "vi": "(lỗi thời) Để kết nối hoặc đoàn kết bằng liên minh; để đồng minh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Meanwhile the king had formed an alliance with Henry VII.",
+            "vi": "Trong khi đó nhà vua đã thành lập một liên minh với Henry VII."
+        },
+        {
+            "en": "By the tension between the two, their alliance was brittle at best.",
+            "vi": "Bởi vì sự căng thẳng giữa hai bên, liên minh của họ đã trở nên giòn giã."
+        }
+    ],
+    "words_form": [
+        "alliances"
+    ],
+    "meaning_vi": "liên minh"
+}

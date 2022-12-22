@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/koʊt/"
+    ],
+    "synonyms": [
+        "parka",
+        "tunic",
+        "reefer",
+        "blazer",
+        "fur"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To coat is to cover something completely, or to give someone an outer layer of clothing.",
+            "vi": "Áo khoác là để che phủ hoàn toàn một thứ gì đó, hoặc cho ai đó một lớp quần áo bên ngoài."
+        },
+        {
+            "pos": "noun",
+            "en": "A natural outer covering, such as the fur of an animal or the enveloping layer of an organ.",
+            "vi": "Lớp phủ bên ngoài tự nhiên, chẳng hạn như lông của động vật hoặc lớp bao bọc của cơ quan."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Get your coat on.",
+            "vi": "Mặc áo khoác vào."
+        },
+        {
+            "en": "She shivered in her wool coat, folded the paperwork, and called her sister.",
+            "vi": "Cô rùng mình trong chiếc áo khoác len, gấp giấy tờ rồi gọi điện cho chị gái."
+        }
+    ],
+    "words_form": [
+        "coated",
+        "coats"
+    ],
+    "meaning_vi": "áo khoác"
+}

@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ɪkˈsid/"
+    ],
+    "synonyms": [
+        "surpass",
+        "overtake",
+        "excel",
+        "leave-behind",
+        "edge-out"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To exceed is defined as to go beyond an expectation or to be or do more than expected.",
+            "vi": "Vượt quá được định nghĩa là vượt ra ngoài sự mong đợi hoặc đạt được hoặc làm được nhiều hơn mong đợi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The channels between the islands do not exceed 2 meters.",
+            "vi": "Các kênh giữa các đảo không vượt quá 2 mét."
+        },
+        {
+            "en": "The wind velocity did not exceed 20 km.",
+            "vi": "Tốc độ gió không vượt quá 20 km."
+        }
+    ],
+    "words_form": [
+        "exceeded",
+        "exceeding",
+        "exceeds"
+    ],
+    "meaning_vi": "quá"
+}

@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈtrævəl/"
+    ],
+    "synonyms": [
+        "sailing",
+        "commute",
+        "migrant",
+        "excursion",
+        "junket"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Travel is defined as the act of going on a trip or going on vacation.",
+            "vi": "Du lịch được định nghĩa là hành động đi du lịch hoặc đi nghỉ mát."
+        },
+        {
+            "pos": "verb",
+            "en": "Travel means to go to a different location or to take a trip.",
+            "vi": "Du lịch có nghĩa là đi đến một địa điểm khác hoặc thực hiện một chuyến đi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I would like to travel there.",
+            "vi": "Tôi muốn đi du lịch ở đó."
+        },
+        {
+            "en": "Travel the way you wish to go.",
+            "vi": "Đi du lịch theo cách bạn muốn đi."
+        }
+    ],
+    "words_form": [
+        "traveled",
+        "traveling",
+        "travelled",
+        "travelling",
+        "travels"
+    ],
+    "meaning_vi": "du lịch"
+}

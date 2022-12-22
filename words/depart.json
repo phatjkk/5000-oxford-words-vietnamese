@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dəˈpɑrt/"
+    ],
+    "synonyms": [
+        "stray",
+        "withdraw",
+        "perish",
+        "expire",
+        "digress"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To go away; leave.",
+            "vi": "Để đi xa; rời bỏ."
+        },
+        {
+            "pos": "noun",
+            "en": "(obs.) A departure.",
+            "vi": "(obs.) Một sự ra đi."
+        },
+        {
+            "pos": "idiom",
+            "en": "depart this life  to die",
+            "vi": "rời khỏi cuộc sống này để chết"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I depart for the Orient with all the means of success at my disposal.",
+            "vi": "Tôi khởi hành đến Phương Đông với tất cả các phương tiện thành công theo ý của tôi."
+        },
+        {
+            "en": "These early writings show clearly how Aristotle came to depart from Plato.",
+            "vi": "Những tác phẩm ban đầu này cho thấy rõ ràng Aristotle đã khởi hành từ Plato như thế nào."
+        }
+    ],
+    "words_form": [
+        "departed",
+        "departing",
+        "departs"
+    ],
+    "meaning_vi": "khởi hành"
+}

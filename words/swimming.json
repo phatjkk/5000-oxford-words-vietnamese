@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈswɪmɪŋ/"
+    ],
+    "synonyms": [
+        "swim",
+        "gliding",
+        "swirling",
+        "moving",
+        "whirling"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Swimming is defined as using your arms and legs to move through water.",
+            "vi": "Bơi lội được định nghĩa là sử dụng cánh tay và chân của bạn để di chuyển trong nước."
+        },
+        {
+            "pos": "noun",
+            "en": "The activity of moving oneself through water using one's arms and legs while buoyed up by the water, carried out by humans for amusement, exercise, sport or entertainment.",
+            "vi": "Hoạt động di chuyển bản thân trong nước bằng tay và chân khi nổi lên trên mặt nước, do con người thực hiện để giải trí, tập thể dục, thể thao hoặc giải trí."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, for, or used in swimming.",
+            "vi": "Của, cho, hoặc được sử dụng trong bơi lội."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll show you the swimming hole.",
+            "vi": "Tôi sẽ chỉ cho bạn lỗ bơi."
+        },
+        {
+            "en": "I wonder why a fella would go swimming with his hat on.",
+            "vi": "Tôi tự hỏi tại sao một anh chàng lại đi bơi với chiếc mũ của mình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bơi lội"
+}

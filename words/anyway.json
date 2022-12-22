@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈɛniˌweɪ/"
+    ],
+    "synonyms": [
+        "anyhow",
+        "nevertheless",
+        "regardless",
+        "at-any-rate",
+        "anyways"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Anyway is defined as something done without regard to what happens.",
+            "vi": "Dù sao được định nghĩa là một cái gì đó được thực hiện mà không cần quan tâm đến những gì xảy ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Well, it doesn't matter anyway, I suppose.",
+            "vi": "Chà, dù sao thì nó cũng không thành vấn đề, tôi cho là vậy."
+        },
+        {
+            "en": "Anyway, I only act fifteen, I'm really 19.",
+            "vi": "Dù sao thì, tôi chỉ mới đóng vai mười lăm, tôi thực sự mới 19 tuổi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "dù sao"
+}

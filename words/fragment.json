@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈfræɡmənt/"
+    ],
+    "synonyms": [
+        "portion",
+        "scrap",
+        "spall",
+        "residue",
+        "parcel"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Fragment means to break something into smaller pieces.",
+            "vi": "Fragment có nghĩa là phá vỡ một thứ gì đó thành nhiều mảnh nhỏ hơn."
+        },
+        {
+            "pos": "noun",
+            "en": "A small part broken off or detached.",
+            "vi": "Một phần nhỏ bị vỡ hoặc tách rời."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Australia is essentially the fragment of a great plateau land of Archean rocks.",
+            "vi": "Úc về cơ bản là mảnh đất cao nguyên tuyệt vời của đá Archean."
+        },
+        {
+            "en": "They contain, however, a fragment of a separate tract on Polygonal Numbers.",
+            "vi": "Tuy nhiên, chúng chứa một phần của một đường riêng biệt về Số đa giác."
+        }
+    ],
+    "words_form": [
+        "fragmented",
+        "fragmenting",
+        "fragments"
+    ],
+    "meaning_vi": "miếng"
+}

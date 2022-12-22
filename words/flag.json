@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/flæɡ/"
+    ],
+    "synonyms": [
+        "pennon",
+        "colors",
+        "old-glory",
+        "pennant",
+        "banner"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To signal with or as with a flag; esp., to signal (the driver of a vehicle) to stop.",
+            "vi": "Để báo hiệu bằng hoặc bằng cờ; đặc biệt, để báo hiệu (người điều khiển phương tiện) dừng lại."
+        },
+        {
+            "pos": "noun",
+            "en": "(music) Any of the lines extending from a stem, indicating whether the note is an eighth, sixteenth, etc.",
+            "vi": "(âm nhạc) Bất kỳ dòng nào kéo dài từ một gốc, cho biết liệu nốt có phải là nốt thứ tám, thứ mười sáu, v.v."
+        },
+        {
+            "pos": "idiom",
+            "en": "dip the flag  to salute by lowering a flag briefly",
+            "vi": "nhúng cờ để chào bằng cách hạ cờ trong thời gian ngắn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A small Colombian flag was neatly tucked in his open mouth.",
+            "vi": "Một lá cờ Colombia nhỏ được cắm ngay ngắn trên miệng anh ta."
+        },
+        {
+            "en": "Still, it was a red flag to what could have happened.",
+            "vi": "Tuy nhiên, đó là một dấu hiệu đỏ cho những gì có thể xảy ra."
+        }
+    ],
+    "words_form": [
+        "flagged",
+        "flagging",
+        "flags"
+    ],
+    "meaning_vi": "cờ"
+}

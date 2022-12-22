@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈfɔrtʃ(ə)nət/"
+    ],
+    "synonyms": [
+        "lucky",
+        "fortuitous",
+        "blessed",
+        "successful",
+        "well-to-do"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having unexpected good fortune; lucky.",
+            "vi": "Có vận may bất ngờ; may mắn."
+        },
+        {
+            "pos": "noun",
+            "en": "One who has good fortune, especially a wealthy person.",
+            "vi": "Một người có vận may, đặc biệt là một người giàu có."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She was so fortunate to have such a wonderful family.",
+            "vi": "Cô thật may mắn khi có một gia đình tuyệt vời như vậy."
+        },
+        {
+            "en": "How fortunate! he thought.",
+            "vi": "Thật là may mắn! anh ta đã nghĩ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "may mắn"
+}

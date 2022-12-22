@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/wərst/"
+    ],
+    "synonyms": [
+        "unfavorable",
+        "meanest",
+        "destruction",
+        "catastrophe",
+        "conquer"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Most inferior, as in quality, condition, or effect.",
+            "vi": "Hầu hết kém hơn, như về chất lượng, tình trạng hoặc hiệu quả."
+        },
+        {
+            "pos": "adverb",
+            "en": "In the worst manner.",
+            "vi": "Theo cách tồi tệ nhất."
+        },
+        {
+            "pos": "verb",
+            "en": "To gain the advantage over; defeat.",
+            "vi": "Để đạt được lợi thế hơn; đánh bại."
+        },
+        {
+            "pos": "noun",
+            "en": "Something that is worst.",
+            "vi": "Một điều gì đó tồi tệ nhất."
+        },
+        {
+            "pos": "idiom",
+            "en": "at (the) worst  Under the most negative circumstances, estimation, or interpretation: At worst, the storm will make us postpone the trip.",
+            "vi": "tại (sự) tồi tệ nhất Trong những trường hợp tiêu cực nhất, ước tính hoặc diễn giải: Tệ nhất, cơn bão sẽ khiến chúng tôi phải hoãn chuyến đi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was the worst news yet.",
+            "vi": "Đó là tin tức tồi tệ nhất được nêu ra."
+        },
+        {
+            "en": "The worst part is Sarah doesn't want it.",
+            "vi": "Phần tồi tệ nhất là Sarah không muốn nó."
+        }
+    ],
+    "words_form": [
+        "worsts"
+    ],
+    "meaning_vi": "tệ nhất"
+}

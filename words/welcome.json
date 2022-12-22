@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ˈwɛlkəm/"
+    ],
+    "synonyms": [
+        "greetings",
+        "honored",
+        "how-do-you-do",
+        "friendliness",
+        "appreciated"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Cordially or willingly permitted or invited.",
+            "vi": "Thân ái hoặc sẵn lòng cho phép hoặc mời."
+        },
+        {
+            "pos": "noun",
+            "en": "A reception upon arrival.",
+            "vi": "Một lễ tân khi đến nơi."
+        },
+        {
+            "pos": "verb",
+            "en": "To greet with pleasure and hospitality.",
+            "vi": "Chào mừng với niềm vui và sự hiếu khách."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to greet cordially a visitor or recent arrival.",
+            "vi": "Dùng để chào thân ái một vị khách đến thăm hoặc gần đây."
+        },
+        {
+            "pos": "idiom",
+            "en": "wear out (one's) welcome  To visit so often or stay so long as to become a nuisance.",
+            "vi": "mặc sức chào đón (của một người) Đến thăm thường xuyên hoặc ở lại quá lâu để trở thành một điều phiền toái."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Welcome to your new life.",
+            "vi": "Chào mừng đến với cuộc sống mới của bạn."
+        },
+        {
+            "en": "You're welcome to stay.",
+            "vi": "Bạn được chào đón ở lại."
+        }
+    ],
+    "words_form": [
+        "welcomed",
+        "welcomes",
+        "welcoming"
+    ],
+    "meaning_vi": "chào đón"
+}

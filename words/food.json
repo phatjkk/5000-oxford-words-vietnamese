@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/fud/"
+    ],
+    "synonyms": [
+        "cuisine",
+        "eats",
+        "menu",
+        "aliment",
+        "sustenance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Material, usually of plant or animal origin, that contains or consists of essential body nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals, and is ingested and assimilated by an organism to produce energy, stimulate growth, and maintain life.",
+            "vi": "Vật chất, thường có nguồn gốc thực vật hoặc động vật, chứa hoặc bao gồm các chất dinh dưỡng thiết yếu cho cơ thể, chẳng hạn như carbohydrate, chất béo, protein, vitamin hoặc khoáng chất, được sinh vật ăn vào và đồng hóa để tạo ra năng lượng, kích thích tăng trưởng và duy trì sự sống."
+        },
+        {
+            "pos": "adjective",
+            "en": "Used as food.",
+            "vi": "Dùng làm thực phẩm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Lisa ate the food and washed the dishes.",
+            "vi": "Lisa vừa ăn vừa rửa bát."
+        },
+        {
+            "en": "Food isn't really scarce.",
+            "vi": "Thực phẩm không thực sự khan hiếm."
+        }
+    ],
+    "words_form": [
+        "foods"
+    ],
+    "meaning_vi": "món ăn"
+}

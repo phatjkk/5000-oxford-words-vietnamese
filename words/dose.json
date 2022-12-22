@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/doʊs/"
+    ],
+    "synonyms": [
+        "measure",
+        "fill",
+        "dram",
+        "draught",
+        "treatment"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To give a dose or doses to.",
+            "vi": "Để cung cấp cho một liều lượng hoặc các liều lượng."
+        },
+        {
+            "pos": "noun",
+            "en": "The amount of radiation delivered to a particular area or to a given part of the body.",
+            "vi": "Lượng bức xạ được phân phối đến một khu vực cụ thể hoặc một bộ phận nhất định của cơ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The dose of the root is from 60 to 90 grains.",
+            "vi": "Liều lượng của gốc từ 60 - 90 hạt."
+        },
+        {
+            "en": "They got a dose of radiation poisoning.",
+            "vi": "Họ bị nhiễm độc phóng xạ."
+        }
+    ],
+    "words_form": [
+        "dosed",
+        "doses",
+        "dosing"
+    ],
+    "meaning_vi": "liều"
+}

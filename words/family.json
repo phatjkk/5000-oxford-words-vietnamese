@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈfæm(ə)li/"
+    ],
+    "synonyms": [
+        "kindred",
+        "clan",
+        "familial",
+        "relations",
+        "lineage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Family is defined as a specific group of people that may be made up of partners, children, parents, aunts, uncles, cousins and grandparents.",
+            "vi": "Gia đình được định nghĩa là một nhóm người cụ thể bao gồm bạn đời, con cái, cha mẹ, cô, chú, anh chị em họ và ông bà."
+        },
+        {
+            "pos": "adjective",
+            "en": "Being suitable for a family.",
+            "vi": "Phù hợp cho một gia đình."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the family way  Pregnant.",
+            "vi": "trong gia đình cách Mang thai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What a big family it was!",
+            "vi": "Đó là một gia đình lớn!"
+        },
+        {
+            "en": "The babies were healthy and by mid-August, they would have two new family members.",
+            "vi": "Các em bé đều khỏe mạnh và đến giữa tháng 8, họ sẽ có thêm hai thành viên mới trong gia đình."
+        }
+    ],
+    "words_form": [
+        "families"
+    ],
+    "meaning_vi": "gia đình"
+}

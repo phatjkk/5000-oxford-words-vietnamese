@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/dəˈskraɪb/"
+    ],
+    "synonyms": [
+        "define",
+        "portray",
+        "characterize",
+        "specify",
+        "illuminate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To give an account of in speech or writing.",
+            "vi": "Để đưa ra một tài khoản bằng lời nói hoặc văn bản."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can't describe how helpless I felt.",
+            "vi": "Tôi không thể mô tả mình cảm thấy bất lực như thế nào."
+        },
+        {
+            "en": "I can't describe how strange this is, Father.",
+            "vi": "Con không thể diễn tả điều này kỳ lạ như thế nào, thưa Cha."
+        }
+    ],
+    "words_form": [
+        "described",
+        "describes",
+        "describing"
+    ],
+    "meaning_vi": "mô tả"
+}

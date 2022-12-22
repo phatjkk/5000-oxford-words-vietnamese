@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/lɪst/"
+    ],
+    "synonyms": [
+        "catalog",
+        "calendar",
+        "sounds",
+        "lexicon",
+        "invoice"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To have a stated list price.",
+            "vi": "Để có giá niêm yết đã nêu."
+        },
+        {
+            "pos": "noun",
+            "en": "A series of names, words, or other items written, printed, or imagined one after the other.",
+            "vi": "Một loạt các tên, từ hoặc các mục khác được viết, in hoặc tưởng tượng nối tiếp nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Make me a list of the things we would need and I'll take you into town.",
+            "vi": "Lập cho tôi danh sách những thứ chúng tôi cần và tôi sẽ đưa bạn vào thị trấn."
+        },
+        {
+            "en": "Where do we do list them?",
+            "vi": "Chúng tôi liệt kê chúng ở đâu?"
+        }
+    ],
+    "words_form": [
+        "listed",
+        "listing",
+        "lists"
+    ],
+    "meaning_vi": "danh sách"
+}

@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈdʒəstəˌfaɪ/"
+    ],
+    "synonyms": [
+        "clear",
+        "acquit",
+        "verify",
+        "legitimize",
+        "exculpate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of justify is to provide an explanation or rationale for something to make it seem OK or to prove it is correct or OK.",
+            "vi": "Định nghĩa của justify là đưa ra lời giải thích hoặc cơ sở lý luận cho điều gì đó để làm cho nó có vẻ ổn hoặc để chứng minh nó đúng hoặc OK."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That didn't justify what I did.",
+            "vi": "Điều đó không biện minh cho những gì tôi đã làm."
+        },
+        {
+            "en": "I know there's nothing I can say to justify my actions.",
+            "vi": "Tôi biết không thể nói gì để biện minh cho hành động của mình."
+        }
+    ],
+    "words_form": [
+        "justified",
+        "justifies",
+        "justifying"
+    ],
+    "meaning_vi": "biện minh"
+}

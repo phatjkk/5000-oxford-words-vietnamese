@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pʊl/"
+    ],
+    "synonyms": [
+        "drag",
+        "yank",
+        "haul",
+        "draw",
+        "jerk"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To apply force to (something) so as to cause or tend to cause motion toward the source of the force.",
+            "vi": "Để tác dụng lực lên (vật gì đó) để gây ra hoặc có xu hướng gây ra chuyển động về phía nguồn lực."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or process of pulling.",
+            "vi": "Hành động hoặc quá trình kéo."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) pull a fast one  To play a trick or perpetrate a fraud.",
+            "vi": "(không chính thức) kéo một cái thật nhanh Để chơi một trò lừa hoặc thực hiện một hành vi gian lận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Here, let me pull out the stove.",
+            "vi": "Đây, để tôi kéo bếp ra."
+        },
+        {
+            "en": "He paused to pull up photographs on the screen.",
+            "vi": "Anh dừng lại để kéo những bức ảnh trên màn hình lên."
+        }
+    ],
+    "words_form": [
+        "pulled",
+        "pulling",
+        "pulls"
+    ],
+    "meaning_vi": "kéo"
+}

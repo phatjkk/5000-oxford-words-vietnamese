@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈfrikwənt/"
+    ],
+    "synonyms": [
+        "ordinary",
+        "periodic",
+        "incessant",
+        "daily",
+        "numberless"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of frequent is something that happens often or keeps happening.",
+            "vi": "Định nghĩa của thường xuyên là một cái gì đó xảy ra thường xuyên hoặc tiếp tục xảy ra."
+        },
+        {
+            "pos": "verb",
+            "en": "To pay frequent visits to; be in or at often.",
+            "vi": "Để thăm viếng thường xuyên; có mặt hoặc thường xuyên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll do what I can to get you more frequent updates, but I can't guarantee anything.",
+            "vi": "Tôi sẽ làm những gì có thể để giúp bạn cập nhật thường xuyên hơn, nhưng tôi không thể đảm bảo bất cứ điều gì."
+        },
+        {
+            "en": "She was one of his frequent guests, visiting him several times each month.",
+            "vi": "Cô là một trong những khách quen của anh, đến thăm anh vài lần mỗi tháng."
+        }
+    ],
+    "words_form": [
+        "frequented",
+        "frequenting",
+        "frequents"
+    ],
+    "meaning_vi": "thường xuyên"
+}

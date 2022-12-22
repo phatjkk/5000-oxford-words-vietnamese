@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/eɪd/"
+    ],
+    "synonyms": [
+        "help",
+        "comfort",
+        "assistance",
+        "benefit",
+        "grant"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something which helps; a material source of help.",
+            "vi": "Một cái gì đó giúp ích; một nguồn vật chất giúp đỡ."
+        },
+        {
+            "pos": "initialism",
+            "en": "Agency for International Development.",
+            "vi": "Cơ quan Phát triển Quốc tế."
+        },
+        {
+            "pos": "verb",
+            "en": "To provide assistance, support, or relief to.",
+            "vi": "Để cung cấp hỗ trợ, hỗ trợ hoặc cứu trợ cho."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Agency for International Development.",
+            "vi": "Cơ quan Phát triển Quốc tế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She has no sense for first aid, either.",
+            "vi": "Cô ấy cũng không có ý thức sơ cứu."
+        },
+        {
+            "en": "I took a sleeping aid last night, yes.",
+            "vi": "Tôi đã uống thuốc hỗ trợ ngủ đêm qua, vâng."
+        }
+    ],
+    "words_form": [
+        "aided",
+        "aiding",
+        "aids"
+    ],
+    "meaning_vi": "viện trợ"
+}

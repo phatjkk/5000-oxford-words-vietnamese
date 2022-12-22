@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/vərs/"
+    ],
+    "synonyms": [
+        "verse",
+        "rhyme",
+        "stanza",
+        "versification",
+        "prosody"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A poetic form with regular meter and a fixed rhyme scheme.",
+            "vi": "Một thể thơ với mét đều và một lược đồ vần cố định."
+        },
+        {
+            "pos": "verb",
+            "en": "Versify.",
+            "vi": "Thi ca."
+        },
+        {
+            "pos": "suffix",
+            "en": "Forming compounds nouns denoting the fictional world of a given character, television series etc. [from 20th c.]",
+            "vi": "Tạo thành danh từ hợp chất biểu thị thế giới hư cấu của một nhân vật nhất định, phim truyền hình, v.v. [từ ngày 20 c.]"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In chapter 13, verse 18, of the Apocalypse, it is said:",
+            "vi": "Trong chương 13, câu 18, của Ngày tận thế, người ta nói:"
+        },
+        {
+            "en": "The name is often in popular literature written Cambalu, and is by Longfellow accented in verse Cambeilic. But this spelling originates in an accidental error in Ramusio's Italian version, which was the chief channel through which Marco Polo's book was popularly known.",
+            "vi": "Cái tên này thường có trong văn học phổ thông viết Cambalu, và được Longfellow đánh dấu trong câu Cambeilic. Nhưng lỗi chính tả này bắt nguồn từ một lỗi tình cờ trong phiên bản tiếng Ý của Ramusio, vốn là kênh chính mà cuốn sách của Marco Polo được nhiều người biết đến."
+        }
+    ],
+    "words_form": [
+        "versed",
+        "verses",
+        "versing"
+    ],
+    "meaning_vi": "câu"
+}

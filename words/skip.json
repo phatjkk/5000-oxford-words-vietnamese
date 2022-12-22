@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/skɪp/"
+    ],
+    "synonyms": [
+        "bound",
+        "skim",
+        "jump",
+        "hop",
+        "elide"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A container for receiving, transporting, and dumping waste materials.",
+            "vi": "Một thùng chứa để tiếp nhận, vận chuyển và đổ phế liệu."
+        },
+        {
+            "pos": "verb",
+            "en": "Skip is defined as to leap or jump, or move the attention from one point to another point.",
+            "vi": "Bỏ qua được định nghĩa là nhảy hoặc nhảy, hoặc di chuyển sự chú ý từ điểm này sang điểm khác."
+        },
+        {
+            "pos": "idiom",
+            "en": "skip it!  never mind! it doesn't matter!",
+            "vi": "bỏ qua nó! đừng bận tâm! nó không quan trọng!"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I do love to run and hop and skip with Robert in bright warm sun.",
+            "vi": "Tôi rất thích chạy nhảy và nhảy với Robert trong ánh nắng ấm áp rực rỡ."
+        },
+        {
+            "en": "Come on, let's skip on home.",
+            "vi": "Nào, chúng ta hãy bỏ qua về nhà."
+        }
+    ],
+    "words_form": [
+        "skipped",
+        "skipping",
+        "skips"
+    ],
+    "meaning_vi": "bỏ qua"
+}

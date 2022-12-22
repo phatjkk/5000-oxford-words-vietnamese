@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌænəˈvərs(ə)ri/"
+    ],
+    "synonyms": [
+        "feast-day",
+        "festival",
+        "red-letter-day",
+        "yearly",
+        "centennial"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The annually recurring date on which some event took place.",
+            "vi": "Ngày định kỳ hàng năm mà một số sự kiện đã diễn ra."
+        },
+        {
+            "pos": "adjective",
+            "en": "That is an anniversary.",
+            "vi": "Đó là một ngày kỷ niệm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The anniversary is celebrated.",
+            "vi": "Ngày kỷ niệm được tổ chức."
+        },
+        {
+            "en": "To make matters worse, today was the fifth anniversary of the day Alexia was born – and died.",
+            "vi": "Tệ hơn nữa, hôm nay là kỷ niệm 5 năm ngày Alexia được sinh ra - và qua đời."
+        }
+    ],
+    "words_form": [
+        "anniversaries"
+    ],
+    "meaning_vi": "ngày kỷ niệm"
+}

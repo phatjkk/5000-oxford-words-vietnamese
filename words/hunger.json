@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈhəŋɡər/"
+    ],
+    "synonyms": [
+        "craving",
+        "appetite",
+        "voracity",
+        "satiety",
+        "famine"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Hunger is defined as wanting something.",
+            "vi": "Đói được định nghĩa là muốn một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of hunger is the desire for something.",
+            "vi": "Định nghĩa của đói là khao khát một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He grew weak from hunger and thirst.",
+            "vi": "Anh ta trở nên yếu đi vì đói và khát."
+        },
+        {
+            "en": "Her hunger and thirst satisfied, she was getting sleepy again.",
+            "vi": "Cơn đói và cơn khát của cô đã thỏa mãn, cô lại buồn ngủ."
+        }
+    ],
+    "words_form": [
+        "hungered",
+        "hungering",
+        "hungers"
+    ],
+    "meaning_vi": "đói"
+}

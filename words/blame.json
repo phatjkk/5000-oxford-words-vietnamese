@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/bleɪm/"
+    ],
+    "synonyms": [
+        "reflection",
+        "responsibility",
+        "disapproval",
+        "fault",
+        "disfavor"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To blame is to point the finger at someone else and declare him/her responsible for a fault or wrong.",
+            "vi": "Đổ lỗi là chỉ tay vào người khác và tuyên bố người đó phải chịu trách nhiệm về một lỗi hoặc sai."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of blame is responsibility for something that has gone wrong, or is the act of assigning that responsibility to someone.",
+            "vi": "Định nghĩa của đổ lỗi là trách nhiệm về một cái gì đó đã xảy ra sai, hoặc là hành động giao trách nhiệm đó cho ai đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "to blame  Deserving censure or disapproval; at fault: An investigation to determine who was to blame for the leak.Being the cause or source of something: A freak storm was to blame for the power outage.",
+            "vi": "đổ lỗi cho sự chỉ trích hoặc không chấp thuận của Deserving; do lỗi: Một cuộc điều tra để xác định ai là nguyên nhân gây ra sự cố rò rỉ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can't really blame him.",
+            "vi": "Tôi thực sự không thể trách anh ấy."
+        },
+        {
+            "en": "You can't blame yourself for your father's death.",
+            "vi": "Bạn không thể tự trách mình về cái chết của cha bạn."
+        }
+    ],
+    "words_form": [
+        "blamed",
+        "blames",
+        "blaming"
+    ],
+    "meaning_vi": "khiển trách"
+}

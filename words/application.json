@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌæpləˈkeɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "utilization",
+        "devotion",
+        "employment",
+        "purpose",
+        "balm"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An application is defined as a downloadable game or tool for computers and some handheld devices.",
+            "vi": "Ứng dụng được định nghĩa là trò chơi hoặc công cụ có thể tải xuống cho máy tính và một số thiết bị cầm tay."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or being a computer program designed for a specific task or use.",
+            "vi": "Của hoặc là một chương trình máy tính được thiết kế cho một nhiệm vụ hoặc mục đích sử dụng cụ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The application of the company for permission to lay wires in streets was again refused.",
+            "vi": "Đơn xin phép giăng dây trên các tuyến phố của công ty một lần nữa bị từ chối."
+        },
+        {
+            "en": "The application of this is obvious.",
+            "vi": "Ứng dụng của điều này là hiển nhiên."
+        }
+    ],
+    "words_form": [
+        "applications"
+    ],
+    "meaning_vi": "ứng dụng"
+}

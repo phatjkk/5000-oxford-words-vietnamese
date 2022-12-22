@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈmuvi/"
+    ],
+    "synonyms": [
+        "film",
+        "filmic",
+        "sound",
+        "picture",
+        "motion"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Screenings of movies at a public theater.",
+            "vi": "Chiếu phim tại rạp chiếu phim công cộng."
+        },
+        {
+            "pos": "idiom",
+            "en": "the movies  the film industry a showing of a film",
+            "vi": "những bộ phim ngành công nghiệp điện ảnh chiếu một bộ phim"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Deidre watched the movie in both fascination and fear.",
+            "vi": "Deidre đã xem phim trong sự say mê và sợ hãi."
+        },
+        {
+            "en": "It was the basis for the movie War Games in which the military's computer finally figures out it can't win in a nuclear launch scenario and says of such a war, Strange game.",
+            "vi": "Đó là cơ sở cho bộ phim Trò chơi chiến tranh, trong đó máy tính của quân đội cuối cùng cũng phát hiện ra nó không thể thắng trong một kịch bản phóng hạt nhân và nói về một cuộc chiến như vậy, Trò chơi kỳ lạ."
+        }
+    ],
+    "words_form": [
+        "movies"
+    ],
+    "meaning_vi": "phim"
+}

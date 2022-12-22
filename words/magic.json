@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈmædʒɪk/"
+    ],
+    "synonyms": [
+        "mystical",
+        "enchanted",
+        "wizardry",
+        "mythic",
+        "charmed"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Magic is defined as the art of using spells, charms and rituals to control supernational forces, or the art of performing tricks and illusions.",
+            "vi": "Ma thuật được định nghĩa là nghệ thuật sử dụng các câu thần chú, bùa chú và nghi lễ để điều khiển các lực lượng siêu quốc gia, hoặc nghệ thuật thực hiện các thủ thuật và ảo ảnh."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of magic is producing mysterious or extraordinary results.",
+            "vi": "Định nghĩa của phép thuật là tạo ra những kết quả bí ẩn hoặc phi thường."
+        },
+        {
+            "pos": "verb",
+            "en": "To produce, alter, or cause by or as if by magic.",
+            "vi": "Để tạo ra, thay đổi, hoặc gây ra bởi hoặc như thể bằng phép thuật."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The decrypted Japanese messages produced by US cryptographers in and prior to World War II.",
+            "vi": "Các thông điệp tiếng Nhật được giải mã được tạo ra bởi các nhà mật mã Hoa Kỳ trong và trước Chiến tranh Thế giới thứ hai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't need magic powers to see that.",
+            "vi": "Tôi không cần sức mạnh ma thuật để thấy điều đó."
+        },
+        {
+            "en": "Jule's magic was stronger this day.",
+            "vi": "Ngày nay phép thuật của Jule đã mạnh hơn."
+        }
+    ],
+    "words_form": [
+        "magicked",
+        "magicking",
+        "magics"
+    ],
+    "meaning_vi": "ma thuật"
+}

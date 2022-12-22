@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/prəˈpoʊz/"
+    ],
+    "synonyms": [
+        "suggest",
+        "state",
+        "advise",
+        "recommend",
+        "counsel"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To suggest drinking (a toast)",
+            "vi": "Đề xuất uống rượu (bánh mì nướng)"
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) An objective or aim.",
+            "vi": "(lỗi thời) Một mục tiêu hoặc mục đích."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "How do you propose to stop her?",
+            "vi": "Làm thế nào để bạn đề xuất để ngăn chặn cô ấy?"
+        },
+        {
+            "en": "What do you propose to do about the house?",
+            "vi": "Bạn đề xuất làm gì về ngôi nhà?"
+        }
+    ],
+    "words_form": [
+        "proposed",
+        "proposes",
+        "proposing"
+    ],
+    "meaning_vi": "cầu hôn"
+}

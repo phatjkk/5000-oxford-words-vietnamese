@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈfɛkt/"
+    ],
+    "synonyms": [
+        "change",
+        "influence",
+        "modify",
+        "get",
+        "impact"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of affect means to produce a change in something.",
+            "vi": "Định nghĩa của ảnh hưởng có nghĩa là tạo ra một sự thay đổi trong một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) A disposition, feeling, or tendency.",
+            "vi": "(lỗi thời) Một khuynh hướng, cảm giác hoặc khuynh hướng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't think about how it might affect you if I got hurt out there.",
+            "vi": "Tôi không nghĩ về việc nó có thể ảnh hưởng đến bạn như thế nào nếu tôi bị thương ở ngoài đó."
+        },
+        {
+            "en": "It wasn't possible that it could affect their life together.",
+            "vi": "Không thể để nó ảnh hưởng đến cuộc sống chung của họ."
+        }
+    ],
+    "words_form": [
+        "affected",
+        "affecting",
+        "affects"
+    ],
+    "meaning_vi": "có ảnh hưởng đến"
+}

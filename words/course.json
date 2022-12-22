@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/kɔrs/"
+    ],
+    "synonyms": [
+        "subject",
+        "path",
+        "specialty",
+        "road",
+        "order"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Course is defined as a specific path that something follows or the way in which something develops.",
+            "vi": "Khóa học được định nghĩa là một con đường cụ thể mà một cái gì đó đi theo hoặc cách thức mà một cái gì đó phát triển."
+        },
+        {
+            "pos": "verb",
+            "en": "To move swiftly through or over; traverse.",
+            "vi": "Để di chuyển nhanh chóng qua hoặc qua; đi qua."
+        },
+        {
+            "pos": "adverb",
+            "en": "(colloquial) Alternative form of of course.",
+            "vi": "(thông tục) Dĩ nhiên là dạng thay thế."
+        },
+        {
+            "pos": "idiom",
+            "en": "off course  Away from the planned or intended course.",
+            "vi": "chệch hướng Đi khỏi khóa học đã định hoặc đã định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Of course, he was just a kid.",
+            "vi": "Tất nhiên, anh ấy chỉ là một đứa trẻ."
+        },
+        {
+            "en": "The service on Christmas Eve day was, of course, about Jesus.",
+            "vi": "Tất nhiên, buổi lễ vào đêm Giáng sinh là về Chúa Giê-su."
+        }
+    ],
+    "words_form": [
+        "coursed",
+        "courses",
+        "coursing"
+    ],
+    "meaning_vi": "khóa học"
+}

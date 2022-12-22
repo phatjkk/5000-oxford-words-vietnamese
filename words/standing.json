@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈstændɪŋ/"
+    ],
+    "synonyms": [
+        "dignity",
+        "status",
+        "rank",
+        "stance",
+        "character"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of standing is in an upright position, or not flowing or moving.",
+            "vi": "Định nghĩa của đứng là ở một vị trí thẳng đứng, hoặc không chảy hoặc chuyển động."
+        },
+        {
+            "pos": "noun",
+            "en": "Standing is defined as the condition of being upright, or having a good reputation.",
+            "vi": "Đứng được định nghĩa là điều kiện của người ngay thẳng, hoặc có một danh tiếng tốt."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of stand.; in the process of coming to an upright position.",
+            "vi": "Hiện tại phân từ đứng; trong quá trình đi đến vị trí thẳng đứng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I was standing there!",
+            "vi": "Tôi đã đứng đó!"
+        },
+        {
+            "en": "Yancey was standing in the door watching.",
+            "vi": "Yancey đang đứng ở cửa quan sát."
+        }
+    ],
+    "words_form": [
+        "standings"
+    ],
+    "meaning_vi": "đứng"
+}

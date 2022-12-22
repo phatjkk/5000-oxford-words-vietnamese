@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/sɪk/"
+    ],
+    "synonyms": [
+        "ill",
+        "health",
+        "invalid",
+        "diseased",
+        "infirm"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(slang) Excellent; outstanding.",
+            "vi": "(tiếng lóng) Tuyệt vời; nổi bật."
+        },
+        {
+            "pos": "noun",
+            "en": "(chiefly british) Vomit.",
+            "vi": "(chủ yếu là người Anh) Nôn mửa."
+        },
+        {
+            "pos": "verb",
+            "en": "Sic.",
+            "vi": "Sic."
+        },
+        {
+            "pos": "idiom",
+            "en": "sick and tired  Thoroughly weary, discouraged, or bored.",
+            "vi": "bệnh tật và mệt mỏi Hoàn toàn mệt mỏi, chán nản, hoặc buồn chán."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Mom was sick and we needed a doctor.",
+            "vi": "Mẹ bị ốm và chúng tôi cần bác sĩ."
+        },
+        {
+            "en": "I felt sick to my stomach.",
+            "vi": "Tôi cảm thấy đau bụng."
+        }
+    ],
+    "words_form": [
+        "sickest"
+    ],
+    "meaning_vi": "đau ốm"
+}

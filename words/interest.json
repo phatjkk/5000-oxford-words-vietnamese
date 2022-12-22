@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈɪnt(ə)rəst/"
+    ],
+    "synonyms": [
+        "disadvantage",
+        "concern",
+        "curiosity",
+        "bore",
+        "appeal"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Interest is defined as the amount of money paid for the use of someone else's money.",
+            "vi": "Lãi suất được định nghĩa là số tiền được trả cho việc sử dụng tiền của người khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To involve the interest, or concern, of; have an effect upon.",
+            "vi": "Để liên quan đến sự quan tâm, hoặc mối quan tâm của; có ảnh hưởng đến."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the interest  To the advantage of; for the sake of: Thinking in the interest of the whole family; ate breakfast on the train in the interest of time.",
+            "vi": "vì lợi ích của; vì lợi ích: Nghĩ đến lợi ích của cả gia đình; ăn sáng trên tàu trong sự quan tâm của thời gian."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was little interest in another round of Monopoly.",
+            "vi": "Có rất ít sự quan tâm đến một vòng Độc quyền khác."
+        },
+        {
+            "en": "Somehow it failed to interest me.",
+            "vi": "Bằng cách nào đó nó không làm tôi hứng thú."
+        }
+    ],
+    "words_form": [
+        "interested",
+        "interests"
+    ],
+    "meaning_vi": "quan tâm"
+}

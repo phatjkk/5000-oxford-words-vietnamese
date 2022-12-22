@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈkɪdˌnæp/"
+    ],
+    "synonyms": [
+        "abduct",
+        "capture",
+        "snatch",
+        "shanghai",
+        "hijack"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To steal (a child)",
+            "vi": "Ăn trộm (một đứa trẻ)"
+        },
+        {
+            "pos": "noun",
+            "en": "An instance of kidnapping.",
+            "vi": "Một ví dụ về vụ bắt cóc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Do you think she might kidnap her?",
+            "vi": "Bạn có nghĩ rằng cô ấy có thể bắt cóc cô ấy?"
+        },
+        {
+            "en": "What if someone decided to kidnap her?",
+            "vi": "Điều gì sẽ xảy ra nếu ai đó quyết định bắt cóc cô ấy?"
+        }
+    ],
+    "words_form": [
+        "kidnaped",
+        "kidnaping",
+        "kidnapped",
+        "kidnapping",
+        "kidnaps"
+    ],
+    "meaning_vi": "bắt cóc"
+}

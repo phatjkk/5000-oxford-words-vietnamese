@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/əˈdɪʃ(ə)n(ə)l/"
+    ],
+    "synonyms": [
+        "further",
+        "extra",
+        "increase",
+        "added",
+        "another"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Added; more; extra.",
+            "vi": "Thêm; hơn; phụ."
+        },
+        {
+            "pos": "noun",
+            "en": "Something added.",
+            "vi": "Đã thêm gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The man had an additional distinction.",
+            "vi": "Người đàn ông có một sự khác biệt bổ sung."
+        },
+        {
+            "en": "There was additional news.",
+            "vi": "Đã có tin tức bổ sung."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bổ sung"
+}

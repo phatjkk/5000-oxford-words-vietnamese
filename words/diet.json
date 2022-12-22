@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/ˈdaɪət/"
+    ],
+    "synonyms": [
+        "bread",
+        "meat",
+        "assembly",
+        "fare",
+        "nutrition"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Diet means to change food intake to lose weight.",
+            "vi": "Ăn kiêng có nghĩa là thay đổi lượng thức ăn để giảm cân."
+        },
+        {
+            "pos": "noun",
+            "en": "Diet is defined as a person's regularly consumed food and drink or it can mean regulating food intake to lose or gain weight.",
+            "vi": "Chế độ ăn uống được định nghĩa là thức ăn và đồ uống được tiêu thụ thường xuyên của một người hoặc nó có thể có nghĩa là điều chỉnh lượng thức ăn để giảm hoặc tăng cân."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "(microbiology) Abbreviation of direct interspecies electron transfer.",
+            "vi": "(vi sinh) Viết tắt của chuyển điện tử trực tiếp giữa các loài giữa các loài."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to a food regimen designed to promote weight loss in a person or an animal.",
+            "vi": "Có liên quan hoặc liên quan đến chế độ thực phẩm được thiết kế để thúc đẩy giảm cân ở người hoặc động vật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"I'm on a diet,\" he answered.",
+            "vi": "“Tôi đang ăn kiêng,” anh trả lời."
+        },
+        {
+            "en": "Diet looked like the best choice.",
+            "vi": "Chế độ ăn uống giống như sự lựa chọn tốt nhất."
+        }
+    ],
+    "words_form": [
+        "dieting",
+        "diets"
+    ],
+    "meaning_vi": "chế độ ăn"
+}

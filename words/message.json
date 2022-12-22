@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈmɛsɪdʒ/"
+    ],
+    "synonyms": [
+        "communications",
+        "word",
+        "signification",
+        "meaning",
+        "note"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a message is a short communication sent from one person to another or the central theme or idea of a communication.",
+            "vi": "Định nghĩa của một thông điệp là một thông tin liên lạc ngắn được gửi từ người này sang người khác hoặc chủ đề hoặc ý tưởng trung tâm của một cuộc giao tiếp."
+        },
+        {
+            "pos": "verb",
+            "en": "To send a message to.",
+            "vi": "Để gửi tin nhắn tới."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Msg.",
+            "vi": "Msg."
+        },
+        {
+            "pos": "idiom",
+            "en": "off message  Deviating from a planned set of remarks or positions: The aides worried that the candidate would make a gaffe if he went off message.",
+            "vi": "tin nhắn tắt Chệch khỏi một tập hợp các nhận xét hoặc vị trí đã được lên kế hoạch: Các phụ tá lo lắng rằng ứng viên sẽ làm cho ngớ ngẩn nếu anh ta bỏ qua tin nhắn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She typed a message to him.",
+            "vi": "Cô gõ một tin nhắn cho anh."
+        },
+        {
+            "en": "If you'll think back, my message was that spending a few nights together wasn't a good reason to get married.",
+            "vi": "Nếu bạn nghĩ lại, thông điệp của tôi là ở bên nhau vài đêm không phải là lý do chính đáng để kết hôn."
+        }
+    ],
+    "words_form": [
+        "messaged",
+        "messages",
+        "messaging"
+    ],
+    "meaning_vi": "thông điệp"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈkəstədi/"
+    ],
+    "synonyms": [
+        "care",
+        "safekeeping",
+        "supervision",
+        "detention",
+        "wardship"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A guarding or keeping safe; care; protection; guardianship.",
+            "vi": "Bảo vệ hoặc giữ an toàn; quan tâm; sự bảo vệ; quyền giám hộ."
+        },
+        {
+            "pos": "idiom",
+            "en": "in custody  in the keeping of the police; under arrest",
+            "vi": "bị tạm giữ trong sự giữ của cảnh sát; bị bắt"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His father was never able to get custody of him as a child.",
+            "vi": "Cha anh không bao giờ có thể giành được quyền nuôi anh khi còn nhỏ."
+        },
+        {
+            "en": "He even tried to get custody of Alex.",
+            "vi": "Anh ấy thậm chí còn cố gắng giành quyền nuôi Alex."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "quyền nuôi con"
+}

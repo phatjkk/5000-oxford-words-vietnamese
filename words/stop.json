@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/stɑp/"
+    ],
+    "synonyms": [
+        "cease",
+        "block",
+        "standstill",
+        "give up",
+        "finish"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An order given to a bank to withhold payment on a check.",
+            "vi": "Một lệnh được đưa cho một ngân hàng để giữ lại khoản thanh toán trên séc."
+        },
+        {
+            "pos": "verb",
+            "en": "To stop is defined as to block, close, defeat, prevent from moving or bring to an end.",
+            "vi": "Để dừng được định nghĩa là chặn, đóng, đánh bại, ngăn cản việc di chuyển hoặc kết thúc."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or being of use at the end of an operation or activity.",
+            "vi": "Của, liên quan đến, hoặc được sử dụng khi kết thúc một hoạt động hoặc hoạt động."
+        },
+        {
+            "pos": "adverb",
+            "en": "Prone to halting or hesitation.",
+            "vi": "Dễ dừng lại hoặc do dự."
+        },
+        {
+            "pos": "idiom",
+            "en": "pull out all (the) stops  to apply maximum effort; use every means possible",
+            "vi": "kéo ra tất cả (các) điểm dừng để áp dụng nỗ lực tối đa; sử dụng mọi cách có thể"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If everyone would stop talking about it...",
+            "vi": "Nếu mọi người ngừng nói về nó ..."
+        },
+        {
+            "en": "Stop thinking about it.",
+            "vi": "Đừng nghĩ về nó nữa."
+        }
+    ],
+    "words_form": [
+        "stopped",
+        "stopping",
+        "stops"
+    ],
+    "meaning_vi": "dừng lại"
+}

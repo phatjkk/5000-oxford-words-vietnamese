@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈmɪdˌnaɪt/"
+    ],
+    "synonyms": [
+        "dead-of-night",
+        "witching-hour",
+        "night",
+        "all-night",
+        "midday"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Twelve o'clock at night; the middle of the night.",
+            "vi": "Mười hai giờ đêm; nửa đêm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or at midnight.",
+            "vi": "Của hoặc vào lúc nửa đêm."
+        },
+        {
+            "pos": "idiom",
+            "en": "burn the midnight oil  to study or work very late into the night",
+            "vi": "đốt dầu nửa đêm để học hoặc làm việc rất khuya"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was after midnight by the time I returned home.",
+            "vi": "Lúc tôi trở về nhà đã là sau nửa đêm."
+        },
+        {
+            "en": "At midnight dancing was still going on.",
+            "vi": "Đến nửa đêm, khiêu vũ vẫn diễn ra."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nửa đêm"
+}

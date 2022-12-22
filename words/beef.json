@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/bif/"
+    ],
+    "synonyms": [
+        "bovine",
+        "red-meat",
+        "steak",
+        "whine",
+        "hamburger"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of beef is the flesh of a cow, bull or steer.",
+            "vi": "Định nghĩa về thịt bò là thịt của một con bò, bò đực hoặc bò đực."
+        },
+        {
+            "pos": "verb",
+            "en": "(intransitive, slang) To fart.",
+            "vi": "(intransitive, slang) Để đánh rắm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Being a bovine animal that is being raised for its meat.",
+            "vi": "Là động vật trâu, bò được nuôi để lấy thịt."
+        },
+        {
+            "pos": "idiom",
+            "en": "beef up  to strengthen by addition, reinforcement, etc.",
+            "vi": "tăng cường sức mạnh bằng cách bổ sung, tăng cường, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He nearly dropped the plate of roast beef.",
+            "vi": "Anh suýt đánh rơi đĩa thịt bò nướng."
+        },
+        {
+            "en": "Her beef was with Dulce - and maybe Alex.",
+            "vi": "Thịt bò của cô ấy là với Dulce - và có thể là Alex."
+        }
+    ],
+    "words_form": [
+        "beefed",
+        "beefing",
+        "beefs",
+        "beeves"
+    ],
+    "meaning_vi": "thịt bò"
+}

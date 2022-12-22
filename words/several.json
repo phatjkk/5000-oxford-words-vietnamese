@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/ˈsɛv(ə)rəl/"
+    ],
+    "synonyms": [
+        "some",
+        "many",
+        "numerous",
+        "various",
+        "sundry"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "More than two but not many; of an indefinite but small number; few.",
+            "vi": "Nhiều hơn hai nhưng không nhiều; của một số lượng nhỏ nhưng không xác định; vài."
+        },
+        {
+            "pos": "pronoun",
+            "en": "An indefinite but small number; some or a few.",
+            "vi": "Một con số vô hạn nhưng nhỏ; một số hoặc một số ít."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "An indefinite but small number (of persons or things)",
+            "vi": "Một số lượng vô hạn nhưng nhỏ (người hoặc vật)"
+        },
+        {
+            "pos": "determiner",
+            "en": "Separate, distinct; particular. [15th-19th century]",
+            "vi": "Riêng biệt, riêng biệt; riêng. [Thế kỷ 15-19]"
+        },
+        {
+            "pos": "adverb",
+            "en": "By itself; severally.",
+            "vi": "Bởi bản thân; vài phần."
+        },
+        {
+            "pos": "noun",
+            "en": "Each particular taken singly; an item; a detail; an individual.",
+            "vi": "Mỗi người cụ thể được thực hiện riêng lẻ; một món đồ; một chi tiết; một cá nhân."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "After several rings, it went to the message.",
+            "vi": "Sau vài hồi chuông, nó đã chuyển đến tin nhắn."
+        },
+        {
+            "en": "It took me several minutes to respond.",
+            "vi": "Tôi mất vài phút để trả lời."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "một số; nhiều"
+}

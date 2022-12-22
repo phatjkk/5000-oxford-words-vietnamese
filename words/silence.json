@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈsaɪləns/"
+    ],
+    "synonyms": [
+        "quiet",
+        "censorship",
+        "hush",
+        "reticence",
+        "speechlessness"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(Molecular biology) To block gene expression.",
+            "vi": "(Sinh học phân tử) Để ngăn chặn sự biểu hiện của gen."
+        },
+        {
+            "pos": "noun",
+            "en": "A withholding of knowledge or omission of mention.",
+            "vi": "Việc giữ lại kiến ​​thức hoặc thiếu sót trong đề cập."
+        },
+        {
+            "pos": "interjection",
+            "en": "Be silent.",
+            "vi": "Im lặng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His silence was worse than his anger.",
+            "vi": "Sự im lặng của anh còn tệ hơn cả sự tức giận của anh."
+        },
+        {
+            "en": "Yet his silence said volumes.",
+            "vi": "Tuy nhiên, sự im lặng của anh ấy đã nói lên số lượng."
+        }
+    ],
+    "words_form": [
+        "silenced",
+        "silences",
+        "silencing"
+    ],
+    "meaning_vi": "Im lặng"
+}

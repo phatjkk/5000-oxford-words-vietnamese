@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˈlɛkʃ(ə)n/"
+    ],
+    "synonyms": [
+        "balloting",
+        "vote",
+        "voting",
+        "polls",
+        "ticket"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an election is a choice, particularly a voting.",
+            "vi": "Định nghĩa của một cuộc bầu cử là một sự lựa chọn, đặc biệt là một cuộc bỏ phiếu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The election is weeks off.",
+            "vi": "Cuộc bầu cử sẽ diễn ra trong nhiều tuần."
+        },
+        {
+            "en": "I'm running for election against this guy.",
+            "vi": "Tôi đang tranh cử chống lại gã này."
+        }
+    ],
+    "words_form": [
+        "elections"
+    ],
+    "meaning_vi": "bầu cử"
+}

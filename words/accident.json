@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈæksədənt/"
+    ],
+    "synonyms": [
+        "circumstance",
+        "disaster",
+        "mishap",
+        "occasion",
+        "collision"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An unpleasant and unintended happening, sometimes resulting from negligence, that results in injury, loss, damage, etc.",
+            "vi": "Một điều khó chịu xảy ra ngoài ý muốn, đôi khi do sơ suất dẫn đến bị thương, mất mát, hư hỏng, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A car accident killed them both.",
+            "vi": "Một tai nạn xe hơi đã giết chết cả hai."
+        },
+        {
+            "en": "How did the accident happen?",
+            "vi": "Tai nạn xảy ra như thế nào?"
+        }
+    ],
+    "words_form": [
+        "accidents"
+    ],
+    "meaning_vi": "tai nạn, rủi ro"
+}

@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈɛvri/"
+    ],
+    "synonyms": [
+        "entire",
+        "all",
+        "equally",
+        "whole",
+        "each"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of every is each, all, or each group or interval.",
+            "vi": "Định nghĩa của mỗi là mỗi, tất cả, hoặc mỗi nhóm hoặc khoảng thời gian."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) every bit  In all ways; equally: He is every bit as mean as she is.",
+            "vi": "(không chính thức) từng bit Theo mọi cách; ngang nhau: Anh ấy cũng xấu tính như cô ấy vậy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Every room is full.",
+            "vi": "Phòng nào cũng kín chỗ."
+        },
+        {
+            "en": "Every day there is much work to be done.",
+            "vi": "Mỗi ngày có nhiều việc phải làm."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "mỗi, mọi (người, vật)"
+}

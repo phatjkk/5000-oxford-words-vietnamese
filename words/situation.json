@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌsɪtʃəˈweɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "condition",
+        "circumstance",
+        "place",
+        "status",
+        "sphere"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Situation is the way something is positioned as compared to its surroundings, or the status of the circumstances, or the combination of circumstances at a specific point in time.",
+            "vi": "Tình huống là cách một cái gì đó được định vị so với môi trường xung quanh nó, hoặc trạng thái của hoàn cảnh, hoặc sự kết hợp của các hoàn cảnh tại một thời điểm cụ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't know how I got into this situation in the first place.",
+            "vi": "Tôi không biết làm thế nào tôi lại rơi vào tình huống này ngay từ đầu."
+        },
+        {
+            "en": "I'm in a precarious situation here.",
+            "vi": "Tôi đang ở trong một tình huống bấp bênh ở đây."
+        }
+    ],
+    "words_form": [
+        "situations"
+    ],
+    "meaning_vi": "tình hình"
+}

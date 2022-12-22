@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/dəˈsɪʒən/"
+    ],
+    "synonyms": [
+        "resolution",
+        "inference",
+        "judgment",
+        "finding",
+        "determination"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of reaching a conclusion or of passing of judgment on an issue under consideration.",
+            "vi": "Hành động đưa ra kết luận hoặc thông qua phán quyết về một vấn đề đang được xem xét."
+        },
+        {
+            "pos": "verb",
+            "en": "To defeat by a decision, as in boxing.",
+            "vi": "Để đánh bại bằng một quyết định, như trong quyền anh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was no small decision for her.",
+            "vi": "Đó là một quyết định không hề nhỏ đối với cô."
+        },
+        {
+            "en": "This might be the most difficult decision she would ever make.",
+            "vi": "Đây có thể là quyết định khó khăn nhất mà cô ấy từng làm."
+        }
+    ],
+    "words_form": [
+        "decisions"
+    ],
+    "meaning_vi": "phán quyết"
+}

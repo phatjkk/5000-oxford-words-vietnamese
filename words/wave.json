@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/weɪv/"
+    ],
+    "synonyms": [
+        "uprising",
+        "tide",
+        "flow",
+        "crush",
+        "swirl"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of wave is to move back and forth in a swinging motion, or to style your hair in a series of curves.",
+            "vi": "Định nghĩa của sóng là di chuyển qua lại theo chuyển động đung đưa, hoặc tạo kiểu tóc của bạn theo một loạt các đường cong."
+        },
+        {
+            "pos": "noun",
+            "en": "A wave is defined as a burst of emotions, a swell along the surface caused by wind, a sudden occurrence of something, or a back and forth motion with your hand.",
+            "vi": "Sóng được định nghĩa là sự bùng nổ của cảm xúc, sự phồng lên dọc theo bề mặt do gió gây ra, sự xuất hiện đột ngột của một thứ gì đó hoặc chuyển động qua lại bằng tay của bạn."
+        },
+        {
+            "pos": "idiom",
+            "en": "make waves  to disturb the prevailing calm, complacency, etc.",
+            "vi": "tạo ra những làn sóng để làm xáo trộn sự bình tĩnh đang thịnh hành, sự tự mãn, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Jackson felt an intense wave of emotion.",
+            "vi": "Jackson cảm thấy một làn sóng cảm xúc mãnh liệt."
+        },
+        {
+            "en": "He indicated the space behind him with a wave of a hand.",
+            "vi": "Anh ta chỉ ra khoảng trống phía sau mình bằng một cái vẫy tay."
+        }
+    ],
+    "words_form": [
+        "waved",
+        "waves",
+        "waving"
+    ],
+    "meaning_vi": "làn sóng"
+}

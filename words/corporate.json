@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈkɔrp(ə)rət/"
+    ],
+    "synonyms": [
+        "corporal",
+        "marketing",
+        "management",
+        "global",
+        "incorporated"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(archaic) United; combined.",
+            "vi": "(cổ xưa) United; kết hợp."
+        },
+        {
+            "pos": "noun",
+            "en": "(finance) A bond issued by a corporation.",
+            "vi": "(tài chính) Một trái phiếu do một công ty phát hành."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To incorporate.",
+            "vi": "(lỗi thời) Để kết hợp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was friendly enough, but no threat to anyone and no corporate climber.",
+            "vi": "Anh ta đủ thân thiện, nhưng không đe dọa bất cứ ai và không có công ty leo núi."
+        },
+        {
+            "en": "The city coroner is a corporate officer.",
+            "vi": "Nhân viên điều tra thành phố là một nhân viên công ty."
+        }
+    ],
+    "words_form": [
+        "corporates"
+    ],
+    "meaning_vi": "công ty"
+}

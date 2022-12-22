@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈɛvədəns/"
+    ],
+    "synonyms": [
+        "proof",
+        "indication",
+        "prove",
+        "authenticate",
+        "document"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Evidence is defined as something that gives proof or leads to a conclusion.",
+            "vi": "Bằng chứng được định nghĩa là một cái gì đó cung cấp bằng chứng hoặc dẫn đến một kết luận."
+        },
+        {
+            "pos": "verb",
+            "en": "The definition of evidence is to show proof.",
+            "vi": "Định nghĩa của bằng chứng là chỉ ra bằng chứng."
+        },
+        {
+            "pos": "idiom",
+            "en": "in evidence  Plainly visible; to be seen: It was early, and few pedestrians were in evidence on the city streets.As legal evidence: Submitted the photograph in evidence.",
+            "vi": "bằng chứng Dễ thấy; để được nhìn thấy: Còn sớm, và ít người đi bộ có mặt trên các đường phố của thành phố."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was trying to find incriminating evidence on Yancey.",
+            "vi": "Anh ta đang cố gắng tìm ra bằng chứng buộc tội Yancey."
+        },
+        {
+            "en": "Rules of evidence are widely known and honored.",
+            "vi": "Quy tắc bằng chứng được nhiều người biết đến và tôn vinh."
+        }
+    ],
+    "words_form": [
+        "evidenced",
+        "evidences",
+        "evidencing"
+    ],
+    "meaning_vi": "chứng cớ"
+}

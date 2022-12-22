@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kənˈtɪnju/"
+    ],
+    "synonyms": [
+        "carry on",
+        "continuous",
+        "keep-going",
+        "endure",
+        "sustain"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To exist over a period; last.",
+            "vi": "Tồn tại trong một khoảng thời gian; Cuối cùng."
+        },
+        {
+            "pos": "noun",
+            "en": "(programming) A statement which causes a loop to start executing the next iteration, skipping the statements following it.",
+            "vi": "(lập trình) Một câu lệnh khiến một vòng lặp bắt đầu thực hiện lần lặp tiếp theo, bỏ qua các câu lệnh theo sau nó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He would continue until he was satisfied.",
+            "vi": "Anh ấy sẽ tiếp tục cho đến khi anh ấy hài lòng."
+        },
+        {
+            "en": "Jade pretended to continue to search, mind racing.",
+            "vi": "Ngọc giả vờ tiếp tục tìm kiếm, tâm trí chạy đua."
+        }
+    ],
+    "words_form": [
+        "continued",
+        "continues",
+        "continuing"
+    ],
+    "meaning_vi": "tiếp tục"
+}

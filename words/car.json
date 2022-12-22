@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/kɑr/"
+    ],
+    "synonyms": [
+        "auto",
+        "vehicle",
+        "automobile",
+        "roadster",
+        "basket"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A vehicle, such as a streetcar, that runs on rails.",
+            "vi": "Một phương tiện, chẳng hạn như xe điện, chạy trên đường ray."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Carat.",
+            "vi": "Carat."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The most widespread of the Nicobarese languages spoken in the Nicobar Islands of India (ISO 839-3 code \"caq\").",
+            "vi": "Các ngôn ngữ Nicobarese được sử dụng phổ biến nhất ở Quần đảo Nicobar của Ấn Độ (mã ISO 839-3 \"caq\")."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her car was in full view.",
+            "vi": "Xe của cô ấy đã được nhìn thấy đầy đủ."
+        },
+        {
+            "en": "Could we make a car that can go 300 mph?",
+            "vi": "Chúng ta có thể tạo ra một chiếc xe có thể đi được 300 dặm / giờ không?"
+        }
+    ],
+    "words_form": [
+        "cars"
+    ],
+    "meaning_vi": "xe hơi"
+}

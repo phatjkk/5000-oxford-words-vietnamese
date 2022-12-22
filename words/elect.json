@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/əˈlɛkt/"
+    ],
+    "synonyms": [
+        "select",
+        "choose",
+        "ignore",
+        "name",
+        "call"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An elect is defined as a person who is chosen.",
+            "vi": "Người được bầu chọn được định nghĩa là người được chọn."
+        },
+        {
+            "pos": "verb",
+            "en": "Elect means to choose, especially to vote for a person for office.",
+            "vi": "Bầu có nghĩa là lựa chọn, đặc biệt là bầu một người vào chức vụ."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of elect is chosen, but not necessarily acting in the position yet.",
+            "vi": "Định nghĩa về người được bầu chọn được chọn, nhưng không nhất thiết phải hành động đúng vị trí."
+        },
+        {
+            "pos": "suffix",
+            "en": "Used after a title to indicate the person who has been elected to hold the title before officially taking the position.",
+            "vi": "Dùng sau chức danh để chỉ người được bầu giữ chức vụ trước khi chính thức đảm nhiệm chức vụ."
+        },
+        {
+            "pos": "idiom",
+            "en": "the elect  persons belonging to a specially privileged group those chosen by God for salvation and eternal life",
+            "vi": "những người được bầu chọn thuộc một nhóm đặc ân đặc biệt, những người được Đức Chúa Trời chọn để được cứu rỗi và sự sống vĩnh cửu"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They therefore elect elders, who expound the Scriptures, baptize and hear confessions.",
+            "vi": "Do đó, họ bầu chọn các trưởng lão, những người giải thích Kinh Thánh, làm báp têm và nghe những lời giải tội."
+        },
+        {
+            "en": "The department which is to elect a senator when a vacancy occurs is settled by lot.",
+            "vi": "Bộ phận sẽ bầu một thượng nghị sĩ khi một vị trí trống xảy ra được giải quyết theo lô."
+        }
+    ],
+    "words_form": [
+        "elected",
+        "elects"
+    ],
+    "meaning_vi": "trúng tuyển"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/prəˈtɛnd/"
+    ],
+    "synonyms": [
+        "act",
+        "ostensible",
+        "represent",
+        "artifice",
+        "imagine"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To represent fictitiously in play; make believe.",
+            "vi": "Để thể hiện một cách hư cấu trong vở kịch; làm cho tin tưởng."
+        },
+        {
+            "pos": "adjective",
+            "en": "(informal) Make-believe.",
+            "vi": "(không chính thức) Hãy tin tưởng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I used to pretend when I was young.",
+            "vi": "Tôi đã từng giả vờ khi tôi còn nhỏ."
+        },
+        {
+            "en": "Just pretend it's a really dry martini.",
+            "vi": "Chỉ cần giả vờ đó là một ly martini thực sự khô."
+        }
+    ],
+    "words_form": [
+        "pretended",
+        "pretending",
+        "pretends"
+    ],
+    "meaning_vi": "giả vờ"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈmæsɪv/"
+    ],
+    "synonyms": [
+        "huge",
+        "gigantic",
+        "extensive",
+        "large",
+        "enormous"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Much larger than normal.",
+            "vi": "Lớn hơn nhiều so với bình thường."
+        },
+        {
+            "pos": "noun",
+            "en": "(mineralogy) A homogeneous mass of rock, not layered and without an obvious crystal structure.",
+            "vi": "(khoáng vật học) Một khối đá đồng nhất, không phân lớp và không có cấu trúc tinh thể rõ ràng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Massive maple trees shaded back and front.",
+            "vi": "Những cây phong bạt ngàn rợp bóng mát phía sau và phía trước."
+        },
+        {
+            "en": "He leaned his whole massive body across the table.",
+            "vi": "Anh nghiêng toàn bộ cơ thể đồ sộ của mình qua bàn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "to lớn"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/haɪˈpɑθəsəs/"
+    ],
+    "synonyms": [
+        "prediction",
+        "assumption",
+        "system",
+        "scheme",
+        "conjecture"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a hypothesis is an unproven theory or statement.",
+            "vi": "Định nghĩa của một giả thuyết là một lý thuyết hoặc tuyên bố chưa được chứng minh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Their hypothesis explains so many facts.",
+            "vi": "Giả thuyết của họ giải thích rất nhiều sự thật."
+        },
+        {
+            "en": "An unproven hypothesis of the existence of things can be useful.",
+            "vi": "Một giả thuyết chưa được chứng minh về sự tồn tại của sự vật có thể hữu ích."
+        }
+    ],
+    "words_form": [
+        "hypotheses"
+    ],
+    "meaning_vi": "giả thuyết"
+}

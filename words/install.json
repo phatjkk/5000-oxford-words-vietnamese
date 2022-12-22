@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɪnˈstɔl/"
+    ],
+    "synonyms": [
+        "set up",
+        "put in",
+        "emplace",
+        "build in",
+        "installed"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To establish or settle in.",
+            "vi": "Để thành lập hoặc định cư."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) Installation. (Usage originated as a truncated form of the word installation.)",
+            "vi": "(không chính thức) Cài đặt. (Cách sử dụng có nguồn gốc là một dạng rút gọn của cài đặt từ.)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Alex had the foresight to have the builders install a gas range.",
+            "vi": "Alex đã có tầm nhìn xa để các nhà xây dựng lắp đặt một phạm vi khí đốt."
+        },
+        {
+            "en": "\"Install someone else,\" Gabriel repeated and shook his head.",
+            "vi": "\"Cài đặt người khác,\" Gabriel lặp lại và lắc đầu."
+        }
+    ],
+    "words_form": [
+        "installed",
+        "installing",
+        "installs"
+    ],
+    "meaning_vi": "cài đặt, dựng lên"
+}

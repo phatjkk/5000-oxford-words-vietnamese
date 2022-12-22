@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈprɑpərdi/"
+    ],
+    "synonyms": [
+        "lands",
+        "assets",
+        "equity",
+        "appanage",
+        "capital"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Property is something that is owned, whether it is goods, land or creative.",
+            "vi": "Tài sản là thứ được sở hữu, cho dù đó là hàng hóa, đất đai hay vật sáng tạo."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To invest with properties, or qualities.",
+            "vi": "(lỗi thời) Để đầu tư với tài sản hoặc phẩm chất."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Martha inherited the property from her grandfather.",
+            "vi": "Martha được thừa kế tài sản từ ông nội."
+        },
+        {
+            "en": "Property ownership certainly had its problems.",
+            "vi": "Quyền sở hữu tài sản chắc chắn có vấn đề của nó."
+        }
+    ],
+    "words_form": [
+        "properties"
+    ],
+    "meaning_vi": "bất động sản"
+}

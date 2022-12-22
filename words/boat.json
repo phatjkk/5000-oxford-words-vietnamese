@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/boʊt/"
+    ],
+    "synonyms": [
+        "vessel",
+        "hulk",
+        "trawler",
+        "launch",
+        "ark"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of boat means to go on a floating vessel on the water.",
+            "vi": "Định nghĩa về thuyền có nghĩa là đi trên một con tàu nổi trên mặt nước."
+        },
+        {
+            "pos": "noun",
+            "en": "A dish shaped like a boat.",
+            "vi": "Một món ăn có hình dạng giống như một chiếc thuyền."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the same boat  In the same situation as another or others.",
+            "vi": "trong cùng một con thuyền Trong cùng một hoàn cảnh với người khác hoặc những người khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He made a boat for himself.",
+            "vi": "Anh ấy đã làm một chiếc thuyền cho chính mình."
+        },
+        {
+            "en": "I hear they're jumping into the boat up north.",
+            "vi": "Tôi nghe nói họ đang nhảy xuống thuyền lên phía bắc."
+        }
+    ],
+    "words_form": [
+        "boated",
+        "boating",
+        "boats"
+    ],
+    "meaning_vi": "thuyền"
+}

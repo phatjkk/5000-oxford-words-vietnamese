@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈminˌ(h)waɪl/"
+    ],
+    "synonyms": [
+        "meantime",
+        "in-the-meantime",
+        "during",
+        "while",
+        "ad interim"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "At the same time.",
+            "vi": "Đồng thời."
+        },
+        {
+            "pos": "noun",
+            "en": "The intervening time.",
+            "vi": "Thời gian xen kẽ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Meanwhile, Alex and Carmen signed the papers to adopt Jonathan.",
+            "vi": "Trong khi đó, Alex và Carmen đã ký giấy nhận Jonathan."
+        },
+        {
+            "en": "Meanwhile, another problem surfaced.",
+            "vi": "Trong khi đó, một vấn đề khác lại nổi lên."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "trong khi đó"
+}

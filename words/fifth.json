@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/fɪ(f)θ/"
+    ],
+    "synonyms": [
+        "fifth part",
+        "twenty percent",
+        "quinquennial",
+        "5th",
+        "one-fifth"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The ordinal number matching the number five in a series.",
+            "vi": "Số thứ tự khớp với số năm trong một chuỗi."
+        },
+        {
+            "pos": "adjective",
+            "en": "Preceded by four others in a series; 5th.",
+            "vi": "Trước bốn người khác trong một loạt; ngày 5."
+        },
+        {
+            "pos": "adverb",
+            "en": "In the fifth place, rank, group, etc.",
+            "vi": "Ở vị trí thứ năm, thứ hạng, nhóm, v.v."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(chiefly US, informal, with the) The Fifth Amendment.",
+            "vi": "(chủ yếu là Hoa Kỳ, không chính thức, với) Tu chính án thứ năm."
+        },
+        {
+            "pos": "idiom",
+            "en": "plead the Fifth  to invoke the Fifth Amendment in refusing to testify against oneself",
+            "vi": "cầu xin Đệ ngũ viện dẫn Tu chính án Thứ năm từ chối làm chứng chống lại chính mình"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The fifth of November was the first day of what is called the battle of Krasnoe.",
+            "vi": "Ngày 5 tháng 11 là ngày đầu tiên của trận chiến Krasnoe."
+        },
+        {
+            "en": "After the fifth, she was certain she'd dreamt it all up.",
+            "vi": "Sau ngày thứ năm, cô chắc chắn rằng mình đã mơ thấy tất cả."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thứ năm"
+}

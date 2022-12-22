@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈɛmbəsi/"
+    ],
+    "synonyms": [
+        "ministry",
+        "consulate",
+        "commission",
+        "mission",
+        "delegation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A mission to a foreign government headed by an ambassador.",
+            "vi": "Một nhiệm vụ cho một chính phủ nước ngoài do một đại sứ đứng đầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Valenzuela succeeded in getting the embassy exchanged for the governorship of Granada.",
+            "vi": "Valenzuela đã thành công trong việc đổi đại sứ quán lấy quyền thống đốc của Granada."
+        },
+        {
+            "en": "The embassy from Rome, however, is almost certainly a later, and an inevitable, invention.",
+            "vi": "Tuy nhiên, đại sứ quán từ Rome gần như chắc chắn là một phát minh sau này, và không thể tránh khỏi."
+        }
+    ],
+    "words_form": [
+        "embassies"
+    ],
+    "meaning_vi": "đại sứ quán"
+}

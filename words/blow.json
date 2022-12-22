@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/bloʊ/"
+    ],
+    "synonyms": [
+        "puff",
+        "exhale",
+        "setback",
+        "calamity",
+        "huff"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To blow is to expel air in a more forceful manner or air movement.",
+            "vi": "Thổi là để đẩy không khí ra ngoài một cách mạnh mẽ hơn hoặc chuyển động của không khí."
+        },
+        {
+            "pos": "noun",
+            "en": "(slang) Cocaine.",
+            "vi": "(tiếng lóng) Cocain."
+        },
+        {
+            "pos": "adjective",
+            "en": "(now chiefly dialectal, Northern England) Blue.",
+            "vi": "(bây giờ chủ yếu là phương ngữ, miền Bắc nước Anh) Màu xanh lam."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) blow a fuse  To explode with anger.",
+            "vi": "(tiếng lóng) thổi cầu chì Để bùng nổ vì tức giận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We gonna blow something up?",
+            "vi": "Chúng ta sẽ làm nổ tung thứ gì đó?"
+        },
+        {
+            "en": "\"Let's not blow up this nice party,\" Quinn said.",
+            "vi": "“Chúng ta đừng làm nổ tung bữa tiệc tốt đẹp này,” Quinn nói."
+        }
+    ],
+    "words_form": [
+        "blew",
+        "blowing",
+        "blown",
+        "blows"
+    ],
+    "meaning_vi": "thổi"
+}

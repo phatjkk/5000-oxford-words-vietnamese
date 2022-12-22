@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈdifɛkt/"
+    ],
+    "synonyms": [
+        "error",
+        "deficiency",
+        "deficit",
+        "spot",
+        "taint"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A fault or malfunction.",
+            "vi": "Một lỗi hoặc sự cố."
+        },
+        {
+            "pos": "verb",
+            "en": "To abandon a position or association, often to join an opposing group.",
+            "vi": "Để từ bỏ một chức vụ hoặc hiệp hội, thường để tham gia một nhóm đối lập."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The one defect is lack of green sward.",
+            "vi": "Một khiếm khuyết là thiếu màu xanh lá cây."
+        },
+        {
+            "en": "He had another defect besides the want of popular power.",
+            "vi": "Anh ta có một khiếm khuyết khác ngoài mong muốn có quyền lực phổ biến."
+        }
+    ],
+    "words_form": [
+        "defected",
+        "defecting",
+        "defects"
+    ],
+    "meaning_vi": "khiếm khuyết"
+}

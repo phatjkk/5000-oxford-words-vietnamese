@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pleɪt/"
+    ],
+    "synonyms": [
+        "saucer",
+        "dish",
+        "paten",
+        "service",
+        "cut"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a plate is a thin, flat and smooth sheet of something.",
+            "vi": "Định nghĩa của một tấm là một tấm mỏng, phẳng và mịn của một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To coat or cover with a thin layer of metal.",
+            "vi": "Để phủ hoặc phủ một lớp kim loại mỏng."
+        },
+        {
+            "pos": "idiom",
+            "en": "on someone's plate  being, or that is, someone's responsibility A promotion will mean a lot more on my plate.",
+            "vi": "trên đĩa của ai đó, hoặc đó là trách nhiệm của ai đó Một sự thăng tiến sẽ có ý nghĩa hơn rất nhiều trên đĩa của tôi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Pointing his fork at her plate, he spoke sternly.",
+            "vi": "Chĩa nĩa vào đĩa của cô, anh nghiêm nghị nói."
+        },
+        {
+            "en": "He set his plate on the table and dropped into the chair.",
+            "vi": "Anh đặt đĩa của mình lên bàn và thả xuống ghế."
+        }
+    ],
+    "words_form": [
+        "plated",
+        "plates",
+        "plating"
+    ],
+    "meaning_vi": "Cái đĩa"
+}

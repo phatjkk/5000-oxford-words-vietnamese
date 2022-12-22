@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/riˈælədi/"
+    ],
+    "synonyms": [
+        "actuality",
+        "authenticity",
+        "truth",
+        "existence",
+        "fact"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The quality or state of being actual or true.",
+            "vi": "Chất lượng hoặc trạng thái thực tế hoặc đúng sự thật."
+        },
+        {
+            "pos": "adjective",
+            "en": "Relating to or being a genre of television or film in which a storyline is created by editing footage of people interacting or competing with one another in unscripted, unrehearsed situations.",
+            "vi": "Liên quan đến hoặc là một thể loại truyền hình hoặc phim trong đó cốt truyện được tạo ra bằng cách chỉnh sửa cảnh quay của những người tương tác hoặc cạnh tranh với nhau trong các tình huống không được diễn tả và không hiểu."
+        },
+        {
+            "pos": "idiom",
+            "en": "in reality  In fact; actually.",
+            "vi": "trong thực tế Trên thực tế; thực ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I was shocked at how harsh reality can be.",
+            "vi": "Tôi đã bị sốc trước thực tế khắc nghiệt như thế nào."
+        },
+        {
+            "en": "I don't think we'll ever learn when reality took over from fantasy.",
+            "vi": "Tôi không nghĩ rằng chúng ta sẽ học được khi nào thực tế thay đổi từ tưởng tượng."
+        }
+    ],
+    "words_form": [
+        "realities"
+    ],
+    "meaning_vi": "thực tế"
+}

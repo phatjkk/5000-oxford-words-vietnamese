@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈspɑnd/"
+    ],
+    "synonyms": [
+        "answer",
+        "reply",
+        "react",
+        "behave",
+        "rejoin"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To react positively or favorably.",
+            "vi": "Để phản ứng tích cực hoặc có lợi."
+        },
+        {
+            "pos": "noun",
+            "en": "Response.",
+            "vi": "Phản ứng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "When she didn't respond, Alex looked up.",
+            "vi": "Khi cô ấy không trả lời, Alex nhìn lên."
+        },
+        {
+            "en": "He didn't respond and she didn't look back.",
+            "vi": "Anh ấy không đáp lại và cô ấy cũng không nhìn lại."
+        }
+    ],
+    "words_form": [
+        "responded",
+        "responding",
+        "responds"
+    ],
+    "meaning_vi": "hồi đáp"
+}

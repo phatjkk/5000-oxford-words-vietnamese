@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈpɛnsəl/"
+    ],
+    "synonyms": [
+        "pen",
+        "pointer",
+        "line",
+        "gleam",
+        "indicator"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a pencil is a narrow tube-shaped instrument filled with graphite or colored wax that is used for writing and drawing.",
+            "vi": "Định nghĩa của bút chì là một dụng cụ hình ống hẹp chứa đầy than chì hoặc sáp màu được sử dụng để viết và vẽ."
+        },
+        {
+            "pos": "verb",
+            "en": "Pencil is defined as to draw or write with an instrument that produces marks which can be erased.",
+            "vi": "Bút chì được định nghĩa là để vẽ hoặc viết bằng một công cụ tạo ra các vết có thể xóa được."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I got my pencil ready.",
+            "vi": "Tôi đã chuẩn bị sẵn bút chì."
+        },
+        {
+            "en": "Fred left the room and returned with a pencil and pad.",
+            "vi": "Fred rời phòng và trở lại với một cây bút chì và tập giấy."
+        }
+    ],
+    "words_form": [
+        "penciled",
+        "penciling",
+        "pencilled",
+        "pencilling",
+        "pencils"
+    ],
+    "meaning_vi": "bút chì"
+}

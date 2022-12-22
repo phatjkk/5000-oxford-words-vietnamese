@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/æsk/"
+    ],
+    "synonyms": [
+        "request",
+        "question",
+        "query",
+        "challenge",
+        "demand"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To seek an answer to.",
+            "vi": "Để tìm kiếm câu trả lời cho."
+        },
+        {
+            "pos": "noun",
+            "en": "An act or instance of asking.",
+            "vi": "Một hành động hoặc ví dụ của yêu cầu."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(Norse mythology) The first male human, according to the Poetic Edda.",
+            "vi": "(Thần thoại Bắc Âu) Người đàn ông đầu tiên, theo Poetic Edda."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) ask for it  To persist in an action despite the likelihood that it will result in difficulty or punishment.",
+            "vi": "(không chính thức) yêu cầu nó Kiên trì thực hiện một hành động bất chấp khả năng nó sẽ dẫn đến khó khăn hoặc trừng phạt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't ask about his family tree.",
+            "vi": "Tôi không hỏi về gia phả của anh ấy."
+        },
+        {
+            "en": "I didn't ask him that.",
+            "vi": "Tôi không hỏi anh ấy điều đó."
+        }
+    ],
+    "words_form": [
+        "asked",
+        "asking",
+        "asks"
+    ],
+    "meaning_vi": "hỏi"
+}

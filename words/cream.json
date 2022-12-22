@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/krim/"
+    ],
+    "synonyms": [
+        "beige",
+        "elite",
+        "emollient",
+        "top",
+        "pick"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To beat into a creamy consistency.",
+            "vi": "Để đánh thành một dạng kem đặc."
+        },
+        {
+            "pos": "noun",
+            "en": "Cream is defined as the oily, yellowish part of milk, or something made from this substance.",
+            "vi": "Kem được định nghĩa là phần dầu, hơi vàng của sữa, hoặc thứ gì đó được làm từ chất này."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of cream is containing, made of or resembling the color of the oily, yellowish part of milk.",
+            "vi": "Định nghĩa về kem là có chứa, làm từ hoặc giống màu của phần dầu hơi vàng của sữa."
+        },
+        {
+            "pos": "idiom",
+            "en": "(vulgar slang) cream (one's) jeans  To be excited or delighted about something.",
+            "vi": "(tiếng lóng thô tục) quần jean kem (của một người) Để phấn khích hoặc vui mừng về điều gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She jabbed the spoon in the ice cream and sighed.",
+            "vi": "Cô thọc chiếc thìa vào que kem và thở dài."
+        },
+        {
+            "en": "Alex handed him the cream and sat down in his chair.",
+            "vi": "Alex đưa cho anh ta kem và ngồi xuống ghế của mình."
+        }
+    ],
+    "words_form": [
+        "creamed",
+        "creamer",
+        "creaming",
+        "creams"
+    ],
+    "meaning_vi": "kem"
+}

@@ -1,0 +1,73 @@
+{
+    "spelling": [
+        "/æd/"
+    ],
+    "synonyms": [
+        "advertisement",
+        "commercial",
+        "announcement",
+        "notice",
+        "-ad-"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An advantage in tennis.",
+            "vi": "Một lợi thế trong quần vợt."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Anno Domini.",
+            "vi": "Sau Công Nguyên."
+        },
+        {
+            "pos": "prefix",
+            "en": "Toward; to. Before c, f, g, k, l, p, q, s, and t, ad- is usually assimilated to ac-, af-, ag-, ac-, al-, ap-, ac-, as-, and at-, respectively.",
+            "vi": "Theo hướng; đến. Trước c, f, g, k, l, p, q, s và t, ad- thường được đồng hóa với ac-, af-, ag-, ac-, al-, ap-, ac-, as-, và at-, tương ứng."
+        },
+        {
+            "pos": "suffix",
+            "en": "In the direction of; toward.",
+            "vi": "Theo hướng dẫn của; theo hướng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or having to do with advertising.",
+            "vi": "Của hoặc phải làm với quảng cáo."
+        },
+        {
+            "pos": "preposition",
+            "en": "(pharmacy) Up to; so as to make.",
+            "vi": "(dược) Lên đến; để thực hiện."
+        },
+        {
+            "pos": "affix",
+            "en": "Motion toward, addition to, nearness to.",
+            "vi": "Chuyển động về phía, bổ sung, gần đến."
+        },
+        {
+            "pos": "verb",
+            "en": "Abbreviation of adapt.",
+            "vi": "Viết tắt của từ thích nghi."
+        },
+        {
+            "pos": "idiom",
+            "en": "ad in  server's advantage",
+            "vi": "quảng cáo trong lợi thế của máy chủ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The ad was just a box at the paper and no phone number.",
+            "vi": "Quảng cáo chỉ là một cái hộp trên giấy và không có số điện thoại."
+        },
+        {
+            "en": "They used as their sources Valerius, the letter to Aristotle and the Iter ad Paradisum, adding much of their own.",
+            "vi": "Họ sử dụng như nguồn Valerius của họ, bức thư gửi cho Aristotle và Iter ad Paradisum, bổ sung thêm nhiều thứ của họ."
+        }
+    ],
+    "words_form": [
+        "ads"
+    ],
+    "meaning_vi": "sự quảng cáo, mẫu quảng cáo"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/məˈnɔrədi/"
+    ],
+    "synonyms": [
+        "majority",
+        "splinter-group",
+        "opposition",
+        "marginalised",
+        "group"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a minority is a group of people that differ in some way from the majority of the population, or any part of a whole that is smaller than the other parts.",
+            "vi": "Định nghĩa về thiểu số là một nhóm người khác biệt về một mặt nào đó với đa số dân số, hoặc bất kỳ bộ phận nào của tổng thể nhỏ hơn các bộ phận khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or having to do with a group, political party, etc. that constitutes a minority.",
+            "vi": "Liên quan đến hoặc liên quan đến một nhóm, đảng phái chính trị, v.v. tạo thành thiểu số."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His minority was a time of anarchy.",
+            "vi": "Dân tộc thiểu số của ông là thời kỳ vô chính phủ."
+        },
+        {
+            "en": "Students on March I 1921 numbered 2,111 men and 1,145 women, 2,328 students being Letts, 803 minority nationalities, 125 foreigners.",
+            "vi": "Số học sinh vào tháng Ba năm 1921 là 2.111 nam và 1.145 nữ, 2.328 học sinh là dân tộc thiểu số, 803 dân tộc thiểu số, 125 người nước ngoài."
+        }
+    ],
+    "words_form": [
+        "minorities"
+    ],
+    "meaning_vi": "thiểu số"
+}

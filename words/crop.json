@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/krɑp/"
+    ],
+    "synonyms": [
+        "harvest",
+        "hay",
+        "product",
+        "fruits",
+        "produce"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Crop is defined as to cut, trim, bite or clip.",
+            "vi": "Crop được định nghĩa là cắt, xén, cắn hoặc kẹp."
+        },
+        {
+            "pos": "noun",
+            "en": "A short haircut.",
+            "vi": "Cắt tóc ngắn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Cut or designed to be shorter than usual at the bottom.",
+            "vi": "Cắt hoặc thiết kế để ngắn hơn bình thường ở phía dưới."
+        },
+        {
+            "pos": "idiom",
+            "en": "crop out  to appear unexpectedly to appear at the surface, as a rock formation at the earth's surface; outcrop",
+            "vi": "cắt ra để xuất hiện bất ngờ xuất hiện trên bề mặt, như một sự hình thành đá ở bề mặt trái đất; nhô ra"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The summer had been very dry and the corn crop had failed.",
+            "vi": "Mùa hè rất khô hạn và vụ ngô thất bát."
+        },
+        {
+            "en": "You never can tell what might crop up.",
+            "vi": "Bạn không bao giờ có thể biết những gì có thể xuất hiện."
+        }
+    ],
+    "words_form": [
+        "cropped",
+        "cropping",
+        "crops"
+    ],
+    "meaning_vi": "mùa vụ"
+}

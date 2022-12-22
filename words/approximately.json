@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/əˈprɑksəmətli/"
+    ],
+    "synonyms": [
+        "roughly",
+        "almost",
+        "just-about",
+        "close-to",
+        "approaching"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Imprecise but close to in quantity or amount.",
+            "vi": "Không chính xác nhưng gần với số lượng hoặc số lượng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was a small white bone approximately one inch long.",
+            "vi": "Đó là một khúc xương nhỏ màu trắng dài khoảng một inch."
+        },
+        {
+            "en": "According to these estimates the total Jewish population of the world in the year named was approximately 11,500,000.",
+            "vi": "Theo những ước tính này, tổng dân số Do Thái trên thế giới vào năm được nêu tên là khoảng 11.500.000."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khoảng chừng, độ chừng"
+}

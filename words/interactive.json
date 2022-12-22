@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˌɪntərˈæktɪv/"
+    ],
+    "synonyms": [
+        "bilateral",
+        "collective",
+        "reciprocal",
+        "associated",
+        "communal"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or being a form of television entertainment in which the signal activates electronic apparatus in the viewer's home or the viewer uses the apparatus to affect events on the screen, or both.",
+            "vi": "(vật lý) Lực hoặc năng lượng của nhiệt, ánh sáng, âm thanh, dòng điện, v.v. trên một đơn vị diện tích, khối lượng, điện tích, v.v."
+        },
+        {
+            "pos": "",
+            "en": "The back-and-forth dialog between the user and the computer. Games are always interactive, and most computer applications are interactive. The user selects a task, and the computer carries it out. Then the user selects another. Many Web pages are also interactive and increasingly function like locally installed applications (see dynamic Web page).Not InteractiveA static Web page that has only links to other pages would not be considered interactive (see static Web page). In addition, a small utility program that performs one specific task may run without user interaction. After launching, the utility executes a set of instructions and exits.",
+            "vi": "Của, liên quan đến, hoặc được đặc trưng bởi cường độ."
+        },
+        {
+            "pos": "noun",
+            "en": "A feature (as in a museum) that can be interacted with.",
+            "vi": "Một yếu tố ngôn ngữ, chẳng hạn như trạng từ cực kỳ hoặc khủng khiếp, cung cấp sức mạnh hoặc sự nhấn mạnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The cost of interactive information exchange, such as asking questions about products you are contemplating purchasing, has fallen to nearly zero.",
+            "vi": "Chi phí trao đổi thông tin tương tác, chẳng hạn như đặt câu hỏi về sản phẩm bạn định mua, đã giảm xuống gần bằng không."
+        },
+        {
+            "en": "In addition, it is completely interactive.",
+            "vi": "Ngoài ra, nó hoàn toàn tương tác."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or being a form of television entertainment in which the signal activates electronic apparatus in the viewer's home or the viewer uses the apparatus to affect events on the screen, or both.",
+            "vi": "(vật lý) Lực hoặc năng lượng của nhiệt, ánh sáng, âm thanh, dòng điện, v.v. trên một đơn vị diện tích, khối lượng, điện tích, v.v."
+        },
+        {
+            "pos": "",
+            "en": "The back-and-forth dialog between the user and the computer. Games are always interactive, and most computer applications are interactive. The user selects a task, and the computer carries it out. Then the user selects another. Many Web pages are also interactive and increasingly function like locally installed applications (see dynamic Web page).Not InteractiveA static Web page that has only links to other pages would not be considered interactive (see static Web page). In addition, a small utility program that performs one specific task may run without user interaction. After launching, the utility executes a set of instructions and exits.",
+            "vi": "Của, liên quan đến, hoặc được đặc trưng bởi cường độ."
+        },
+        {
+            "pos": "noun",
+            "en": "A feature (as in a museum) that can be interacted with.",
+            "vi": "Một yếu tố ngôn ngữ, chẳng hạn như trạng từ cực kỳ hoặc khủng khiếp, cung cấp sức mạnh hoặc sự nhấn mạnh."
+        }
+    ]
+}

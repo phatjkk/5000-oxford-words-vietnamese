@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/kɔz/"
+    ],
+    "synonyms": [
+        "reason",
+        "basis",
+        "give-rise-to",
+        "bring about",
+        "agent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a cause is anyone or anything that brings about a result.",
+            "vi": "Định nghĩa về nguyên nhân là bất kỳ ai hoặc bất cứ điều gì mang lại kết quả."
+        },
+        {
+            "pos": "verb",
+            "en": "Cause means to produce a result.",
+            "vi": "Nguyên nhân có nghĩa là tạo ra một kết quả."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Because.",
+            "vi": "Tại vì."
+        },
+        {
+            "pos": "idiom",
+            "en": "make common cause with  to work together with toward the same objective; join forces with",
+            "vi": "đưa ra mục tiêu chung để cùng làm việc với cùng một mục tiêu; hợp lực với"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He probably hasn't had any cause to speak French.",
+            "vi": "Anh ấy có lẽ không có lý do gì để nói tiếng Pháp."
+        },
+        {
+            "en": "He was quiet long enough to rouse her interest, and she glanced up to determine the cause of his silence.",
+            "vi": "Anh im lặng đủ lâu để khơi dậy sự quan tâm của cô, và cô nhìn lên để xác định nguyên nhân khiến anh im lặng."
+        }
+    ],
+    "words_form": [
+        "caused",
+        "causes",
+        "causing"
+    ],
+    "meaning_vi": "gây ra"
+}

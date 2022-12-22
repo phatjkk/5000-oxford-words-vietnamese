@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/əˈlɔŋ/",
+        "/əˈlɑŋ/"
+    ],
+    "synonyms": [
+        "with",
+        "simultaneously",
+        "on",
+        "beside",
+        "ahead"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "By the length; in a line with the length; lengthwise.",
+            "vi": "Theo chiều dài; trong một dòng với độ dài; theo chiều dài."
+        },
+        {
+            "pos": "adverb",
+            "en": "As a companion.",
+            "vi": "Là một người bạn đồng hành."
+        },
+        {
+            "pos": "verb",
+            "en": "Along, when prefaced by the word “get,” is defined as to be pleasant with someone else.",
+            "vi": "Cùng với đó, khi được mở đầu bằng từ “nhận được”, được định nghĩa là dễ chịu với người khác."
+        },
+        {
+            "pos": "idiom",
+            "en": "all along  all the time; from the very beginning",
+            "vi": "tất cả cùng mọi lúc; từ đầu"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is a lovely beach that stretches miles along the blue Atlantic.",
+            "vi": "Có một bãi biển xinh xắn trải dài hàng dặm dọc theo Đại Tây Dương xanh biếc."
+        },
+        {
+            "en": "Take him along just in case.",
+            "vi": "Đưa anh ấy đi cùng để đề phòng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "dọc theo"
+}

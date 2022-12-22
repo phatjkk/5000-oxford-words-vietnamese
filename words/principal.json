@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈprɪnsəpəl/"
+    ],
+    "synonyms": [
+        "headmaster",
+        "chief",
+        "leading",
+        "key",
+        "minor"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Principal is someone or something that holds the highest rank, or is a sum of money.",
+            "vi": "Hiệu trưởng là một người nào đó hoặc một cái gì đó giữ cấp bậc cao nhất, hoặc là một khoản tiền."
+        },
+        {
+            "pos": "adjective",
+            "en": "First or highest in rank or importance.",
+            "vi": "Đầu tiên hoặc cao nhất trong thứ hạng hoặc tầm quan trọng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The principal part of the city lies between these two streams, with its great plaza in the centre.",
+            "vi": "Phần chính của thành phố nằm giữa hai dòng chảy này, với quảng trường lớn ở trung tâm."
+        },
+        {
+            "en": "The movement of these wrinkles formed the principal play of expression on his face.",
+            "vi": "Sự chuyển động của những nếp nhăn này đã hình thành nên biểu cảm chính trên khuôn mặt anh ta."
+        }
+    ],
+    "words_form": [
+        "principals"
+    ],
+    "meaning_vi": "hiệu trưởng"
+}

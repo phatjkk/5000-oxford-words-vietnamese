@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɪnˈsərt/"
+    ],
+    "synonyms": [
+        "addition",
+        "enter",
+        "insertion",
+        "embed",
+        "include"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To put or set into, between, or among.",
+            "vi": "Để đặt hoặc đặt vào, giữa hoặc giữa các."
+        },
+        {
+            "pos": "noun",
+            "en": "Something inserted or intended for insertion, as a picture or chart into written material.",
+            "vi": "Một cái gì đó được chèn hoặc dự định để chèn, như một hình ảnh hoặc biểu đồ vào tài liệu viết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Ideas of all sorts poured in upon him while he was writing, and he was not always able to resist the temptation to insert them whether pertinent or not.",
+            "vi": "Đủ loại ý tưởng đổ dồn vào anh khi anh đang viết, và anh không phải lúc nào cũng có thể cưỡng lại sự cám dỗ để chèn chúng vào dù có phù hợp hay không."
+        },
+        {
+            "en": "The list gives only twenty-nine names, and Mommsen proposes to insert Signini.",
+            "vi": "Danh sách chỉ đưa ra 29 cái tên và Mommsen đề xuất chèn Signini."
+        }
+    ],
+    "words_form": [
+        "inserted",
+        "inserting",
+        "inserts"
+    ],
+    "meaning_vi": "chèn"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pɛr/"
+    ],
+    "synonyms": [
+        "yoke",
+        "dyadic",
+        "couplet",
+        "duo",
+        "brace"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A single thing made up of two corresponding parts that are used together.",
+            "vi": "Một thứ được tạo thành từ hai phần tương ứng được sử dụng cùng nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "Pair is defined as to match up or provide with a partner.",
+            "vi": "Cặp được định nghĩa là để đối sánh hoặc cung cấp với đối tác."
+        },
+        {
+            "pos": "idiom",
+            "en": "pair off  to join in, or separate into, pairs",
+            "vi": "ghép đôi để tham gia hoặc tách thành từng cặp"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Carmen made a ball out of a pair of socks.",
+            "vi": "Carmen thực hiện một quả bóng từ một đôi tất."
+        },
+        {
+            "en": "You two make a fine pair, you know that?",
+            "vi": "Hai người là một cặp đẹp đôi, bạn biết không?"
+        }
+    ],
+    "words_form": [
+        "paired",
+        "pairing",
+        "pairs"
+    ],
+    "meaning_vi": "cặp"
+}

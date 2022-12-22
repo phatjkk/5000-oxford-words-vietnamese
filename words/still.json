@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/stɪl/"
+    ],
+    "synonyms": [
+        "yet",
+        "tranquil",
+        "furthermore",
+        "noiseless",
+        "motionless"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of still is someone or something that is quiet, calm or not moving.",
+            "vi": "Định nghĩa của tĩnh lặng là một người nào đó hoặc một cái gì đó yên lặng, bình lặng hoặc không di chuyển."
+        },
+        {
+            "pos": "adverb",
+            "en": "Still is defined as without movement or up until an indicated time.",
+            "vi": "Vẫn được định nghĩa là không có chuyển động hoặc tăng cho đến một thời gian nhất định."
+        },
+        {
+            "pos": "noun",
+            "en": "Silence; quiet.",
+            "vi": "Im lặng; Yên lặng."
+        },
+        {
+            "pos": "verb",
+            "en": "To make motionless or unagitated.",
+            "vi": "Để làm cho bất động hoặc không giao động."
+        },
+        {
+            "pos": "idiom",
+            "en": "still and all  After taking everything into consideration; nevertheless; however: Still and all, our objective can be achieved.",
+            "vi": "vẫn và tất cả Sau khi xem xét mọi thứ; Tuy nhiên; tuy nhiên: Vẫn và tất cả, mục tiêu của chúng tôi có thể đạt được."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is still a famous school.",
+            "vi": "Nó vẫn là một ngôi trường nổi tiếng."
+        },
+        {
+            "en": "When they turned around, Alex was still on the horse.",
+            "vi": "Khi họ quay lại, Alex vẫn còn trên ngựa."
+        }
+    ],
+    "words_form": [
+        "stilled",
+        "stillest",
+        "stilling",
+        "stills"
+    ],
+    "meaning_vi": "vẫn"
+}

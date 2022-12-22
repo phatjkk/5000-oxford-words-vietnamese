@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/prəˈvɪn(t)ʃ(ə)l/"
+    ],
+    "synonyms": [
+        "rude",
+        "unpolished",
+        "local",
+        "parochial",
+        "countrified"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Narrow; limited; unsophisticated.",
+            "vi": "Hẹp; giới hạn; không phức tạp."
+        },
+        {
+            "pos": "noun",
+            "en": "A provincial person; esp., a narrow-minded or unsophisticated person.",
+            "vi": "Một người tỉnh lẻ; đặc biệt., một người hẹp hòi hoặc không tinh vi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Every congregation was visited by ministers appointed by the provincial synod.",
+            "vi": "Mỗi hội thánh đều được viếng thăm bởi các bộ trưởng do thượng hội đồng tỉnh chỉ định."
+        },
+        {
+            "en": "Provincial loans and others, assumed National cedulas .",
+            "vi": "Các khoản vay của tỉnh và các khoản khác, giả định là khoản nhượng quyền Quốc gia."
+        }
+    ],
+    "words_form": [
+        "provincials"
+    ],
+    "meaning_vi": "tỉnh"
+}

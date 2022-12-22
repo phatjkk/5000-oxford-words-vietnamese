@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈpipəl/"
+    ],
+    "synonyms": [
+        "mankind",
+        "crowd",
+        "folks",
+        "folk",
+        "humanity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "People are those belonging to a place, religion, nation, race, language, class or culture.",
+            "vi": "Con người là những người thuộc về một địa điểm, tôn giáo, quốc gia, chủng tộc, ngôn ngữ, giai cấp hoặc văn hóa."
+        },
+        {
+            "pos": "verb",
+            "en": "To inhabit; to occupy; to populate.",
+            "vi": "Sinh sống; chiếm giữ; để cư trú."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "-person.",
+            "vi": "-người."
+        },
+        {
+            "pos": "affix",
+            "en": "-person.",
+            "vi": "-người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Most people will tell you anything you want to know.",
+            "vi": "Hầu hết mọi người sẽ cho bạn biết bất cứ điều gì bạn muốn biết."
+        },
+        {
+            "en": "People on top of the earth are all meat.",
+            "vi": "Con người trên trái đất đều là thịt."
+        }
+    ],
+    "words_form": [
+        "peopled",
+        "peoples",
+        "peopling"
+    ],
+    "meaning_vi": "(nhiều) người"
+}

@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ɪkˈsklusɪv/"
+    ],
+    "synonyms": [
+        "fashionable",
+        "expensive",
+        "elite",
+        "restrictive",
+        "prohibitive"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Excluding or tending to exclude all others; shutting out other considerations, happenings, existences, etc.",
+            "vi": "Loại trừ hoặc có xu hướng loại trừ tất cả những thứ khác; tắt các cân nhắc, diễn biến, tồn tại khác, v.v."
+        },
+        {
+            "pos": "noun",
+            "en": "Something exclusive.  A news item, feature, etc. printed or broadcast by only one newspaper, station, etc. An exclusive right, as to the sale of something.",
+            "vi": "Một cái gì đó độc quyền. Một mục tin tức, tính năng, v.v. được in hoặc phát sóng bởi chỉ một tờ báo, đài, v.v. Một quyền độc quyền, đối với việc bán một thứ gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "exclusive of  not including or allowing for; ignoring The cost exclusive of taxes.",
+            "vi": "loại trừ việc không bao gồm hoặc cho phép; bỏ qua Chi phí không bao gồm thuế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was also dressed for the exclusive party.",
+            "vi": "Anh ấy cũng mặc quần áo cho bữa tiệc độc quyền."
+        },
+        {
+            "en": "They wore tuxedos and ball gowns like wealthy celebrities attending an exclusive Hollywood party.",
+            "vi": "Họ mặc lễ phục và váy dạ hội như những người nổi tiếng giàu có khi tham dự một bữa tiệc độc quyền của Hollywood."
+        }
+    ],
+    "words_form": [
+        "exclusives"
+    ],
+    "meaning_vi": "độc quyền"
+}

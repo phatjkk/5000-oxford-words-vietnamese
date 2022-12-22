@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈsɛɡmənt/"
+    ],
+    "synonyms": [
+        "division",
+        "section",
+        "portion",
+        "fragment",
+        "share"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a segment is a part of a whole.",
+            "vi": "Định nghĩa của một phân đoạn là một phần của tổng thể."
+        },
+        {
+            "pos": "verb",
+            "en": "To segment is to divide something up into different parts.",
+            "vi": "Phân đoạn là chia một thứ gì đó thành các phần khác nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is a little star-dust caught, a segment of the rainbow which I have clutched.",
+            "vi": "Đó là một hạt sao nhỏ bị bắt gặp, một đoạn của cầu vồng mà tôi đã nắm chặt."
+        },
+        {
+            "en": "Apical cell, p. Wall marking limit between the plerome k, initial segment of root-cap. P and the pleriblem Pb.",
+            "vi": "Tế bào đỉnh, p. Giới hạn đánh dấu tường giữa k rãnh, đoạn ban đầu của nắp gốc. P và biểu tượng Pb."
+        }
+    ],
+    "words_form": [
+        "segmented",
+        "segmenting",
+        "segments"
+    ],
+    "meaning_vi": "phân khúc"
+}

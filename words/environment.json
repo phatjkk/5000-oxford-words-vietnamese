@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ɪnˈvaɪrənmənt/"
+    ],
+    "synonyms": [
+        "surroundings",
+        "entourage",
+        "behavioristic",
+        "facultative",
+        "circumstance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Environment is defined as the conditions and circumstances that surround someone.",
+            "vi": "Môi trường được định nghĩa là các điều kiện và hoàn cảnh bao quanh một người nào đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The environment in the Arctic Circle is very hostile.",
+            "vi": "Môi trường ở Vòng Bắc Cực rất thù địch."
+        },
+        {
+            "en": "Many influences operating for a long period of time on the character and the environment of a class go to determine its standard of life.",
+            "vi": "Nhiều ảnh hưởng hoạt động trong một thời gian dài lên tính cách và môi trường của một giai cấp đi đến quyết định tiêu chuẩn sống của nó."
+        }
+    ],
+    "words_form": [
+        "environments"
+    ],
+    "meaning_vi": "môi trường"
+}

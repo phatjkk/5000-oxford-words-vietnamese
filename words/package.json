@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈpækɪdʒ/"
+    ],
+    "synonyms": [
+        "packet",
+        "carton",
+        "parcel",
+        "package-deal",
+        "bundle"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a package is a box or bag that contains items, or a set of things agreed to as a whole.",
+            "vi": "Định nghĩa của một gói là một hộp hoặc túi có chứa các mặt hàng, hoặc một tập hợp các thứ được thống nhất với nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "To wrap or box, as for transporting, carrying, etc.",
+            "vi": "Để bọc hoặc đóng hộp, như để vận chuyển, mang vác, v.v."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a plan, offer, etc. by which a number of items are offered as an inseparable unit.",
+            "vi": "Chỉ định hoặc một kế hoạch, ưu đãi, v.v. trong đó một số mặt hàng được cung cấp như một đơn vị không thể tách rời."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was a package deal.",
+            "vi": "Đó là một thỏa thuận trọn gói."
+        },
+        {
+            "en": "There'll be a nice severance package for all of you.",
+            "vi": "Sẽ có một gói thôi việc tuyệt vời cho tất cả các bạn."
+        }
+    ],
+    "words_form": [
+        "packaged",
+        "packages",
+        "packaging"
+    ],
+    "meaning_vi": "gói"
+}

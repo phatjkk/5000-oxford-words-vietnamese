@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rəˈsiv/"
+    ],
+    "synonyms": [
+        "acquire",
+        "inherit",
+        "collect",
+        "obtain",
+        "accommodate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To take or get (something given, offered, sent, etc.); acquire or accept.",
+            "vi": "Để lấy hoặc nhận (một cái gì đó cho, tặng, gửi, v.v.); tiếp thu hoặc chấp nhận."
+        },
+        {
+            "pos": "noun",
+            "en": "(telecommunications) An operation in which data is received.",
+            "vi": "(viễn thông) Một hoạt động trong đó dữ liệu được nhận."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) be on the receiving end  to be the recipient of a gift, or favor to be the target or victim of an attack to act as the receiver",
+            "vi": "(không chính thức) ở phía bên nhận để trở thành người nhận một món quà, hoặc được ưu ái trở thành mục tiêu hoặc nạn nhân của một cuộc tấn công để đóng vai trò là người nhận"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You shall receive proper pay for your work.",
+            "vi": "Bạn sẽ nhận được tiền công xứng đáng cho công việc của bạn."
+        },
+        {
+            "en": "She waited until it was her turn to receive her scroll.",
+            "vi": "Cô đợi đến lượt mình để nhận cuộn giấy của mình."
+        }
+    ],
+    "words_form": [
+        "received",
+        "receives",
+        "receiving"
+    ],
+    "meaning_vi": "nhận được"
+}

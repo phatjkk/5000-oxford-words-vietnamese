@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/səˈkjʊrədi/"
+    ],
+    "synonyms": [
+        "guard",
+        "refuge",
+        "sanctuary",
+        "defense",
+        "safety"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Security is defined as being free from danger, or feeling safe.",
+            "vi": "An ninh được định nghĩa là không có nguy hiểm hoặc cảm thấy an toàn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, designating, or serving as security.",
+            "vi": "Của, chỉ định, hoặc phục vụ như bảo mật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The security system didn't recognize her thumbprint.",
+            "vi": "Hệ thống an ninh không nhận dạng được dấu vân tay của cô ấy."
+        },
+        {
+            "en": "The lack of security is unsettling.",
+            "vi": "Việc thiếu an ninh là điều đáng lo ngại."
+        }
+    ],
+    "words_form": [
+        "securities"
+    ],
+    "meaning_vi": "an ninh"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈwɛstərn/"
+    ],
+    "synonyms": [
+        "latin",
+        "westerly",
+        "caucasian",
+        "cowboy",
+        "southwestern"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Situated in, toward, or facing the west.",
+            "vi": "Nằm trong, hướng hoặc quay mặt về phía tây."
+        },
+        {
+            "pos": "noun",
+            "en": "A novel, film, television program, or other dramatic work including themes, characters, or settings characteristic of the American West, especially of the late 1800s.",
+            "vi": "Tiểu thuyết, phim, chương trình truyền hình hoặc tác phẩm kịch tính khác bao gồm chủ đề, nhân vật hoặc bối cảnh đặc trưng của miền Tây Hoa Kỳ, đặc biệt là vào cuối những năm 1800."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was dressed in his usual indigo jeans and western shirt.",
+            "vi": "Anh ta mặc chiếc quần jean và áo sơ mi phương tây màu chàm quen thuộc."
+        },
+        {
+            "en": "General Greene is leading the Western insurgency.",
+            "vi": "Tướng Greene đang lãnh đạo cuộc nổi dậy của phương Tây."
+        }
+    ],
+    "words_form": [
+        "westerns"
+    ],
+    "meaning_vi": "miền tây"
+}

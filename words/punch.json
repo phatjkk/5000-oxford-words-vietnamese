@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pən(t)ʃ/"
+    ],
+    "synonyms": [
+        "jab",
+        "thrust",
+        "pierce",
+        "stroke",
+        "kick"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(baseball) To hit (a ball) with a quick short swing.",
+            "vi": "(bóng chày) Để đánh (bóng) với một cú xoay người ngắn nhanh."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a punch is a device used for making holes or stamping, or a hard hit with the fist.",
+            "vi": "Định nghĩa của một cú đấm là một thiết bị được sử dụng để tạo lỗ hoặc dập, hoặc một cú đánh mạnh bằng nắm tay."
+        },
+        {
+            "pos": "idiom",
+            "en": "beat to the punch  To make the first decisive move: A marketing team that beat all the competitors to the punch.",
+            "vi": "đánh bại để thực hiện bước đi quyết định đầu tiên: Một đội tiếp thị đánh bại tất cả các đối thủ cạnh tranh để thực hiện một cú đấm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He blocked her first punch but not her second.",
+            "vi": "Anh đã chặn được cú đấm đầu tiên của cô nhưng không phải cú đấm thứ hai của cô."
+        },
+        {
+            "en": "I didn't actually punch her.",
+            "vi": "Tôi không thực sự đấm cô ấy."
+        }
+    ],
+    "words_form": [
+        "punched",
+        "punches",
+        "punching"
+    ],
+    "meaning_vi": "cú đấm"
+}

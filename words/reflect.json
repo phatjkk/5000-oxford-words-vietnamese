@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/rəˈflɛkt/"
+    ],
+    "synonyms": [
+        "repeat",
+        "mirror",
+        "reproduce",
+        "show",
+        "cogitative"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To reflect is to think deeply about an issue.",
+            "vi": "Phản ánh là suy nghĩ sâu sắc về một vấn đề."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The government must reflect the different values these groups have.",
+            "vi": "Chính phủ phải phản ánh các giá trị khác nhau mà các nhóm này có."
+        },
+        {
+            "en": "So they don't reflect the sunlight and give away our position.",
+            "vi": "Vì vậy, chúng không phản chiếu ánh sáng mặt trời và làm mất đi vị trí của chúng ta."
+        }
+    ],
+    "words_form": [
+        "reflected",
+        "reflecting",
+        "reflects"
+    ],
+    "meaning_vi": "phản chiếu"
+}

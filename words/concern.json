@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kənˈsərn/"
+    ],
+    "synonyms": [
+        "anxiety",
+        "distress",
+        "disturbed",
+        "concernment",
+        "apprehension"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make somebody worried.",
+            "vi": "Làm cho ai đó lo lắng."
+        },
+        {
+            "pos": "noun",
+            "en": "A business, firm or enterprise; a company.",
+            "vi": "Một doanh nghiệp, công ty hoặc xí nghiệp; một công ty."
+        },
+        {
+            "pos": "idiom",
+            "en": "as concerns  in regard to; with reference to; about",
+            "vi": "như mối quan tâm liên quan đến; có sự tham khảo; Về"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "So there's no concern these visions may stop completely?",
+            "vi": "Vì vậy, không có gì lo ngại rằng những tầm nhìn này có thể dừng lại hoàn toàn?"
+        },
+        {
+            "en": "That's my concern, not yours.",
+            "vi": "Đó là mối quan tâm của tôi, không phải của bạn."
+        }
+    ],
+    "words_form": [
+        "concerned",
+        "concerning",
+        "concerns"
+    ],
+    "meaning_vi": "mối quan ngại"
+}

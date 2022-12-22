@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/lək/"
+    ],
+    "synonyms": [
+        "blessings",
+        "good-luck",
+        "serendipitous",
+        "kismet",
+        "triumph"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Luck is defined as the good or bad things that happen by chance.",
+            "vi": "May mắn được định nghĩa là những điều tốt hay xấu xảy ra một cách tình cờ."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "verb",
+            "en": "To gain success or something desirable by chance.",
+            "vi": "Để đạt được thành công hoặc một cái gì đó mong muốn một cách tình cờ."
+        },
+        {
+            "pos": "idiom",
+            "en": "as luck would have it  As it turned out; as it happened: As luck would have it, it rained the day of the picnic.",
+            "vi": "như may mắn sẽ có Nó hóa ra; như nó đã xảy ra: Như may mắn sẽ xảy ra, trời mưa vào ngày dã ngoại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Only luck had kept her from joining her family today.",
+            "vi": "Chỉ có điều may mắn đã giúp cô không gia nhập gia đình ngày hôm nay."
+        },
+        {
+            "en": "I'm sure you'll have luck with her.",
+            "vi": "Tôi chắc rằng bạn sẽ gặp may mắn với cô ấy."
+        }
+    ],
+    "words_form": [
+        "lucked",
+        "lucks"
+    ],
+    "meaning_vi": "may mắn gặp được, có được, tìm được cái gì đó"
+}

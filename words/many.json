@@ -1,0 +1,59 @@
+{
+    "spelling": [
+        "/ˈmɛni/"
+    ],
+    "synonyms": [
+        "numerous",
+        "several",
+        "countless",
+        "diverse",
+        "multiplied"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A large indefinite number.",
+            "vi": "Một số lượng lớn không xác định."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of many is an indefinite, large number of people or things.",
+            "vi": "Định nghĩa của nhiều là một số lượng lớn người hoặc vật không xác định."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A large number (of persons or things)",
+            "vi": "Một số lượng lớn (người hoặc vật)"
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "A large number (of persons or things)",
+            "vi": "Một số lượng lớn (người hoặc vật)"
+        },
+        {
+            "pos": "determiner",
+            "en": "An indefinite large number of.",
+            "vi": "Một số lượng lớn không xác định."
+        },
+        {
+            "pos": "idiom",
+            "en": "as many  The same number of: Moved three times in as many years.",
+            "vi": "như nhiều Số lượng tương tự: Đã chuyển ba lần trong bao nhiêu năm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You ask too many questions.",
+            "vi": "Bạn hỏi quá nhiều câu hỏi."
+        },
+        {
+            "en": "He was such a wonderful person in so many ways.",
+            "vi": "Anh ấy là một người tuyệt vời về nhiều mặt."
+        }
+    ],
+    "words_form": [
+        "more",
+        "most"
+    ],
+    "meaning_vi": "nhiều"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈproʊˌfaɪl/"
+    ],
+    "synonyms": [
+        "portrait",
+        "biography",
+        "outline",
+        "form",
+        "sketch"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Profile is defined as to create an overview about a person or thing.",
+            "vi": "Hồ sơ được định nghĩa là để tạo ra một cái nhìn tổng quan về một người hoặc một sự vật."
+        },
+        {
+            "pos": "noun",
+            "en": "A biographical account presenting the subject's most noteworthy characteristics and achievements.",
+            "vi": "Bản tường trình tiểu sử trình bày những đặc điểm và thành tích đáng chú ý nhất của đối tượng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She leaned back against his arm, watching his profile as he looked out the window.",
+            "vi": "Cô tựa lưng vào cánh tay anh, vừa xem hồ sơ của anh vừa nhìn ra ngoài cửa sổ."
+        },
+        {
+            "en": "Focusing on his profile, she willed him to look her way.",
+            "vi": "Tập trung vào hồ sơ của anh, cô muốn anh nhìn theo cách của cô."
+        }
+    ],
+    "words_form": [
+        "profiled",
+        "profiles",
+        "profiling"
+    ],
+    "meaning_vi": "hồ sơ"
+}

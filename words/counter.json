@@ -1,0 +1,65 @@
+{
+    "spelling": [
+        "/ˈkaʊn(t)ər/"
+    ],
+    "synonyms": [
+        "shelf",
+        "worktop",
+        "table",
+        "board",
+        "equal"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(sports) A fencing parry in which one foil follows the other in a circular fashion.",
+            "vi": "(thể thao) Một sân đấu kiếm trong đó lá này nối tiếp lá kia theo kiểu hình tròn."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of counter is someone or something the opposite of another.",
+            "vi": "Định nghĩa của bộ đếm là một người nào đó hoặc một cái gì đó đối lập với người khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To meet or return (a blow) by another blow.",
+            "vi": "Để đáp ứng hoặc trở lại (một đòn) bởi một đòn khác."
+        },
+        {
+            "pos": "prefix",
+            "en": "Corresponding; complementary.",
+            "vi": "Tương ứng; bổ túc."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a contrary manner or direction.",
+            "vi": "Theo cách thức hoặc hướng đi ngược lại."
+        },
+        {
+            "pos": "affix",
+            "en": "Opposite, contrary to.",
+            "vi": "Đối lập, trái ngược với."
+        },
+        {
+            "pos": "idiom",
+            "en": "over the counter  Without being listed or available on an officially recognized stock exchange but in trade by direct negotiation between buyers and sellers: Bought stocks over the counter.Without a doctor's prescription being legally required: Cold medicine that is available over the counter.",
+            "vi": "Mua qua quầy Không được niêm yết hoặc có sẵn trên sàn giao dịch chứng khoán được chính thức công nhận nhưng được giao dịch bằng thương lượng trực tiếp giữa người mua và người bán: Mua dự trữ qua quầy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Carmen grabbed the thermometer from the counter and gave it to him.",
+            "vi": "Carmen lấy nhiệt kế từ quầy và đưa cho anh ta."
+        },
+        {
+            "en": "Noticing a deck of cards on the counter, she paused.",
+            "vi": "Nhận thấy một bộ bài trên quầy, cô dừng lại."
+        }
+    ],
+    "words_form": [
+        "countered",
+        "countering",
+        "counters"
+    ],
+    "meaning_vi": "quầy tính tiền"
+}

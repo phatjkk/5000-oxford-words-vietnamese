@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ɡræb/"
+    ],
+    "synonyms": [
+        "snatch",
+        "take",
+        "grasp",
+        "seize",
+        "excite"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To grab is defined as to seize or take suddenly or quickly.",
+            "vi": "To grab được định nghĩa là nắm bắt hoặc lấy đi một cách đột ngột hoặc nhanh chóng."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a grab is a sudden snatch, or something that is suddenly or quickly taken.",
+            "vi": "Định nghĩa của một cú chộp là một sự chộp giật bất ngờ, hoặc một thứ gì đó được thực hiện một cách đột ngột hoặc nhanh chóng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Relating or being an object or device that is grabbed or gripped for support or balance.",
+            "vi": "Liên quan hoặc là một đồ vật hoặc thiết bị được nắm lấy hoặc nắm chặt để hỗ trợ hoặc giữ thăng bằng."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) up for grabs  Available for anyone to take or win:",
+            "vi": "(tiếng lóng) lên để lấy Có sẵn cho bất kỳ ai giành lấy hoặc giành chiến thắng:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Go grab some food.",
+            "vi": "Đi lấy một số thức ăn."
+        },
+        {
+            "en": "She retreated to her bedroom to grab her purse.",
+            "vi": "Cô rút vào phòng ngủ của mình để lấy ví của mình."
+        }
+    ],
+    "words_form": [
+        "grabbed",
+        "grabbing",
+        "grabs"
+    ],
+    "meaning_vi": "vồ lấy"
+}

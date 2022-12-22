@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/meɪnˈteɪn/"
+    ],
+    "synonyms": [
+        "hold up",
+        "withhold",
+        "set apart",
+        "keep",
+        "support"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To declare to be true; affirm.",
+            "vi": "Tuyên bố là đúng sự thật; Xác nhận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was trying to maintain a balance between taking care of business and her happiness.",
+            "vi": "Anh đang cố gắng duy trì sự cân bằng giữa việc chăm lo cho công việc kinh doanh và hạnh phúc của cô."
+        },
+        {
+            "en": "Standing her ground was the only way to maintain control.",
+            "vi": "Giữ vững lập trường là cách duy nhất để duy trì sự kiểm soát."
+        }
+    ],
+    "words_form": [
+        "maintained",
+        "maintaining",
+        "maintains"
+    ],
+    "meaning_vi": "duy trì"
+}

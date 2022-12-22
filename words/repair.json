@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈpɛr/"
+    ],
+    "synonyms": [
+        "patch",
+        "fix",
+        "improve",
+        "renovation",
+        "emend"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To repair is defined as to fix something.",
+            "vi": "Để sửa chữa được định nghĩa là sửa chữa một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Repair is the act of fixing or the state of being repaired.",
+            "vi": "Sửa chữa là hành động sửa chữa hoặc trạng thái được sửa chữa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He explained about the tire repair kit.",
+            "vi": "Anh ta giải thích về bộ dụng cụ sửa chữa lốp xe."
+        },
+        {
+            "en": "The oldest of the healers has tried to repair her without success, Darkyn added.",
+            "vi": "Người lớn tuổi nhất trong số những người chữa bệnh đã cố gắng sửa chữa cho cô ấy mà không thành công, Darkyn nói thêm."
+        }
+    ],
+    "words_form": [
+        "repaired",
+        "repairing",
+        "repairs"
+    ],
+    "meaning_vi": "sửa chữa"
+}

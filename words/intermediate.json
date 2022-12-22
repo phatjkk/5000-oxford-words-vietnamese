@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˌɪn(t)ərˈmidiət/"
+    ],
+    "synonyms": [
+        "intervening",
+        "halfway",
+        "compromising",
+        "between",
+        "in-between"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Lying or occurring between two extremes or in a middle position or state.",
+            "vi": "Nằm hoặc xảy ra giữa hai thái cực hoặc ở một vị trí hoặc trạng thái ở giữa."
+        },
+        {
+            "pos": "noun",
+            "en": "One that is in a middle position or state.",
+            "vi": "Một cái ở vị trí giữa hoặc trạng thái."
+        },
+        {
+            "pos": "verb",
+            "en": "To intervene.",
+            "vi": "Để can thiệp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is intermediate in its nature between land and sky.",
+            "vi": "Bản chất của nó là trung gian giữa đất và trời."
+        },
+        {
+            "en": "For computations, we developed processes that required us to perform many intermediate, error-prone steps to achieve an answer.",
+            "vi": "Đối với tính toán, chúng tôi đã phát triển các quy trình yêu cầu chúng tôi thực hiện nhiều bước trung gian, dễ xảy ra lỗi để đạt được câu trả lời."
+        }
+    ],
+    "words_form": [
+        "intermediated",
+        "intermediates",
+        "intermediating"
+    ],
+    "meaning_vi": "trung gian"
+}

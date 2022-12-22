@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈkɑdɪdʒ/"
+    ],
+    "synonyms": [
+        "cabin",
+        "bungalow",
+        "home",
+        "cot",
+        "chalet"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A small vacation house.",
+            "vi": "Một ngôi nhà nghỉ nhỏ."
+        },
+        {
+            "pos": "verb",
+            "en": "To stay at a seasonal home, to go cottaging.",
+            "vi": "Để ở một ngôi nhà theo mùa, để đi làm nhà."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They arrived at a small cottage in a clearing.",
+            "vi": "Họ đến một ngôi nhà nhỏ trong một khu đất trống."
+        },
+        {
+            "en": "The bedroom in the cottage was chilly with the door to the living room closed.",
+            "vi": "Phòng ngủ trong ngôi nhà tranh lạnh lẽo với cánh cửa phòng khách đóng chặt."
+        }
+    ],
+    "words_form": [
+        "cottages"
+    ],
+    "meaning_vi": "nhà tranh"
+}

@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/(h)waɪ/"
+    ],
+    "synonyms": [
+        "reason",
+        "point",
+        "occasion",
+        "goal",
+        "proof"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A difficult problem or question.",
+            "vi": "Một vấn đề hoặc một câu hỏi khó."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express mild surprise, indignation, or impatience.",
+            "vi": "Được sử dụng để thể hiện sự ngạc nhiên nhẹ, phẫn nộ hoặc thiếu kiên nhẫn."
+        },
+        {
+            "pos": "adverb",
+            "en": "For what reason, cause, or purpose? with what motive?",
+            "vi": "Vì lý do gì, nguyên nhân hay mục đích? với động cơ gì?"
+        },
+        {
+            "pos": "conjunction",
+            "en": "The reason for which.",
+            "vi": "Lý do cho điều đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "why not  all right; it's acceptable",
+            "vi": "tại sao không ổn cả; nó có thể chấp nhận được"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Why would she want to do that?",
+            "vi": "Tại sao cô ấy muốn làm điều đó?"
+        },
+        {
+            "en": "Why does the rain fall?",
+            "vi": "Tại sao mưa rơi?"
+        }
+    ],
+    "words_form": [
+        "whys"
+    ],
+    "meaning_vi": "tại sao"
+}

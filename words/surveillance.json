@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/sərˈveɪləns/"
+    ],
+    "synonyms": [
+        "espial",
+        "watch",
+        "vigil",
+        "observation",
+        "lookout"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Surveillance is the close observation of someone, often in order to catch them in wrongdoing.",
+            "vi": "Giám sát là sự theo dõi chặt chẽ của một người nào đó, thường là để bắt họ có hành vi sai trái."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This order was to the surveillance team.",
+            "vi": "Lệnh này được gửi cho đội giám sát."
+        },
+        {
+            "en": "Jonny had assigned her a surveillance team in his own home.",
+            "vi": "Jonny đã giao cho cô một đội giám sát tại nhà riêng của anh ta."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "giám sát"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/bəˈlif/"
+    ],
+    "synonyms": [
+        "belief",
+        "creed",
+        "notion",
+        "axiom",
+        "ideology"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a belief is an opinion or something that a person holds to be true.",
+            "vi": "Định nghĩa của một niềm tin là một ý kiến ​​hoặc một cái gì đó mà một người cho là đúng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I was relieved beyond belief and nearly in tears.",
+            "vi": "Tôi cảm thấy nhẹ nhõm ngoài niềm tin và gần như rơi nước mắt."
+        },
+        {
+            "en": "The belief of Socrates is uncertain.",
+            "vi": "Niềm tin của Socrates là không chắc chắn."
+        }
+    ],
+    "words_form": [
+        "beliefs"
+    ],
+    "meaning_vi": "niềm tin"
+}

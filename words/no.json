@@ -1,0 +1,69 @@
+{
+    "spelling": [
+        "/noʊ/"
+    ],
+    "synonyms": [
+        "nope",
+        "not-at-all",
+        "nix",
+        "disagree",
+        "by-no-means"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Used to express refusal, denial, disbelief, emphasis, or disagreement.",
+            "vi": "Được sử dụng để thể hiện sự từ chối, phủ nhận, không tin tưởng, nhấn mạnh hoặc không đồng ý."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of no is not any, not one or hardly any.",
+            "vi": "Định nghĩa của không không phải là bất kỳ, không phải là một hoặc hầu như không có."
+        },
+        {
+            "pos": "interjection",
+            "en": "No is defined as a way to express disbelief or refusal.",
+            "vi": "Không được định nghĩa là một cách để bày tỏ sự không tin tưởng hoặc từ chối."
+        },
+        {
+            "pos": "noun",
+            "en": "A negative response; a denial or refusal.",
+            "vi": "Một phản ứng tiêu cực; một sự từ chối hoặc từ chối."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Number.",
+            "vi": "Con số."
+        },
+        {
+            "pos": "symbol",
+            "en": "Nobelium.",
+            "vi": "Nobel."
+        },
+        {
+            "pos": "prefix",
+            "en": "(slang) Placed before a word to indicate negation of that word.",
+            "vi": "(tiếng lóng) Đặt trước một từ để biểu thị sự phủ định của từ đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "no can do  I (or we) cannot do it",
+            "vi": "không thể làm tôi (hoặc chúng tôi) không thể làm điều đó"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That made no sense.",
+            "vi": "Điều đó không có ý nghĩa."
+        },
+        {
+            "en": "You have no respect for me?",
+            "vi": "Bạn không tôn trọng tôi?"
+        }
+    ],
+    "words_form": [
+        "noes",
+        "nos"
+    ],
+    "meaning_vi": "Dạ chưa."
+}

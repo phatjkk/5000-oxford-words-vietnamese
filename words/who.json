@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/hu/"
+    ],
+    "synonyms": [
+        "that",
+        "what",
+        "wheelchair-bound",
+        "they",
+        "which"
+    ],
+    "meaning": [
+        {
+            "pos": "abbreviation",
+            "en": "WHO stands for the World Health Organization.",
+            "vi": "WHO là viết tắt của Tổ chức Y tế Thế giới."
+        },
+        {
+            "pos": "pronoun",
+            "en": "What or which person or persons.",
+            "vi": "Cái gì hoặc người nào hoặc những người nào."
+        },
+        {
+            "pos": "noun",
+            "en": "A person under discussion; a question of which person.",
+            "vi": "Một người đang thảo luận; một câu hỏi của người nào."
+        },
+        {
+            "pos": "anagrams",
+            "en": "How.",
+            "vi": "Thế nào."
+        },
+        {
+            "pos": "acronym",
+            "en": "The World Health Organization.",
+            "vi": "Tổ chức y tế thế giới."
+        },
+        {
+            "pos": "idiom",
+            "en": "as who should say  as if one should say",
+            "vi": "như ai nên nói như thể một người nên nói"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The boy who sat beside him was his son.",
+            "vi": "Cậu bé ngồi bên cạnh anh chính là con trai anh."
+        },
+        {
+            "en": "Who had handed it to her?",
+            "vi": "Ai đã đưa nó cho cô ấy?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ai"
+}

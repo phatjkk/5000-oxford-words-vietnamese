@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rəˈpit/"
+    ],
+    "synonyms": [
+        "reiterate",
+        "reciprocate",
+        "iterate",
+        "recite",
+        "revert"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Repeat means to say or do something again, or to copy someone else.",
+            "vi": "Lặp lại có nghĩa là nói hoặc làm lại điều gì đó, hoặc sao chép người khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of repeat is relating to or being of a copy or duplicate of something.",
+            "vi": "Định nghĩa của lặp lại liên quan đến hoặc là một bản sao hoặc bản sao của một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Repeat is defined as an act of copying or something that has been done already.",
+            "vi": "Lặp lại được định nghĩa là một hành động sao chép hoặc một cái gì đó đã được thực hiện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He had to repeat the question.",
+            "vi": "Anh phải lặp lại câu hỏi."
+        },
+        {
+            "en": "Could you repeat that?",
+            "vi": "Bạn có thể nhắc lại điều đó được không?"
+        }
+    ],
+    "words_form": [
+        "repeated",
+        "repeating",
+        "repeats"
+    ],
+    "meaning_vi": "nói lại"
+}

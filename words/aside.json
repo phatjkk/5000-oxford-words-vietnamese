@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/əˈsaɪd/"
+    ],
+    "synonyms": [
+        "alongside",
+        "at-rest",
+        "out",
+        "apart",
+        "alone"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Aside means no longer focusing on something.",
+            "vi": "Aside có nghĩa là không còn tập trung vào điều gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "A piece of dialogue intended for the audience and supposedly not heard by the other actors on stage.",
+            "vi": "Một đoạn đối thoại dành cho khán giả và được cho là không được nghe bởi các diễn viên khác trên sân khấu."
+        },
+        {
+            "pos": "idiom",
+            "en": "aside from  with the exception of apart from; besides",
+            "vi": "ngoài với ngoại lệ của ngoài từ; ngoài ra"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You have set aside the money for a college education.",
+            "vi": "Bạn đã dành tiền để học đại học."
+        },
+        {
+            "en": "He stepped aside, waiting impatiently.",
+            "vi": "Anh bước sang một bên, sốt ruột chờ đợi."
+        }
+    ],
+    "words_form": [
+        "asides"
+    ],
+    "meaning_vi": "qua một bên"
+}

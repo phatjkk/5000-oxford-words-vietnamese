@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/(h)wil/"
+    ],
+    "synonyms": [
+        "drum",
+        "disk",
+        "cogwheel",
+        "wheel",
+        "axle"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a wheel is a round frame that turns from a central point.",
+            "vi": "Định nghĩa bánh xe là một khung tròn quay từ điểm chính giữa."
+        },
+        {
+            "pos": "verb",
+            "en": "To roll, move, or transport on wheels or a wheel.",
+            "vi": "Để lăn, di chuyển hoặc vận chuyển trên bánh xe hoặc bánh xe."
+        },
+        {
+            "pos": "idiom",
+            "en": "at  Operating the steering mechanism of a vehicle; driving. Directing or controlling; in charge.",
+            "vi": "tại Vận hành cơ cấu lái của xe; điều khiển. Chỉ đạo hoặc kiểm soát; phụ trách."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She gripped the steering wheel more tightly.",
+            "vi": "Cô nắm chặt tay lái hơn."
+        },
+        {
+            "en": "The water goes under the wheel to turn it.",
+            "vi": "Nước đi dưới bánh xe làm quay nó."
+        }
+    ],
+    "words_form": [
+        "wheeled",
+        "wheeling",
+        "wheels"
+    ],
+    "meaning_vi": "bánh xe"
+}

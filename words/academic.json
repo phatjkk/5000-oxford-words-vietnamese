@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌækəˈdɛmɪk/"
+    ],
+    "synonyms": [
+        "collegiate",
+        "erudite",
+        "formalistic",
+        "academia",
+        "ordinary"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of academic is something or someone that is considered to be scholarly.",
+            "vi": "Định nghĩa của học thuật là một cái gì đó hoặc một người nào đó được coi là có học thuật."
+        },
+        {
+            "pos": "noun",
+            "en": "A faculty member or scholar at an institution of higher learning, such as a university.",
+            "vi": "Một giảng viên hoặc học giả tại một cơ sở giáo dục đại học, chẳng hạn như một trường đại học."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Quinn is our age but he jumped two school grades on academic excellence.",
+            "vi": "Quinn bằng tuổi chúng tôi nhưng cậu ấy đã tăng hai điểm ở trường về học lực xuất sắc."
+        },
+        {
+            "en": "There are large numbers of private schools, in art, music and academic studies.",
+            "vi": "Có một số lượng lớn các trường tư thục, về nghệ thuật, âm nhạc và nghiên cứu học thuật."
+        }
+    ],
+    "words_form": [
+        "academics"
+    ],
+    "meaning_vi": " thuộc học viện, ĐH, viện hàn lâm"
+}

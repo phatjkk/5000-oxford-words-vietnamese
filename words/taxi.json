@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈtæksi/"
+    ],
+    "synonyms": [
+        "dolmus",
+        "cab",
+        "minibus",
+        "hack",
+        "taxicab"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Taxicab.",
+            "vi": "Xe taxi."
+        },
+        {
+            "pos": "verb",
+            "en": "To carry in a taxicab.",
+            "vi": "Để chở trong một chiếc taxi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"I could call a taxi,\" she said.",
+            "vi": "\"Tôi có thể gọi một chiếc taxi,\" cô nói."
+        },
+        {
+            "en": "If you are looking for hectic nightlife, Lloret de Mar is just a short taxi ride away.",
+            "vi": "Nếu bạn đang tìm kiếm cuộc sống về đêm náo nhiệt, Lloret de Mar chỉ cách đó một quãng đi taxi ngắn."
+        }
+    ],
+    "words_form": [
+        "taxied",
+        "taxies",
+        "taxiing",
+        "taxis",
+        "taxying"
+    ],
+    "meaning_vi": "xe tắc xi"
+}

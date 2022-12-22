@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˈmoʊʃ(ə)n/"
+    ],
+    "synonyms": [
+        "tumult",
+        "sentiment",
+        "passion",
+        "melodramatics",
+        "disturbance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Such mental states or the qualities that are associated with them, especially in contrast to reason.",
+            "vi": "Những trạng thái tinh thần như vậy hoặc những phẩm chất gắn liền với chúng, đặc biệt là trái ngược với lý trí."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Human emotion could only complicate that.",
+            "vi": "Cảm xúc của con người chỉ có thể làm phức tạp thêm điều đó."
+        },
+        {
+            "en": "He felt fear again, an emotion he hated.",
+            "vi": "Anh lại cảm thấy sợ hãi, một thứ cảm xúc mà anh ghét."
+        }
+    ],
+    "words_form": [
+        "emotions"
+    ],
+    "meaning_vi": "cảm xúc"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əmˈbreɪs/"
+    ],
+    "synonyms": [
+        "encompass",
+        "accept",
+        "adopt",
+        "welcome",
+        "take on"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An embrace is defined as a hug.",
+            "vi": "Một cái ôm được định nghĩa là một cái ôm."
+        },
+        {
+            "pos": "verb",
+            "en": "To clasp or hold close with the arms, usually as an expression of affection.",
+            "vi": "Vòng tay siết chặt hoặc ôm chặt, thường là biểu hiện của tình cảm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His embrace was warm and exciting.",
+            "vi": "Cái ôm của anh thật ấm áp và thú vị."
+        },
+        {
+            "en": "He was about to embrace his friend, but Nicholas avoided him.",
+            "vi": "Anh định ôm lấy người bạn của mình, nhưng Nicholas tránh anh."
+        }
+    ],
+    "words_form": [
+        "embraced",
+        "embraces",
+        "embracing"
+    ],
+    "meaning_vi": "ôm hôn"
+}

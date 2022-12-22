@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/britʃ/"
+    ],
+    "synonyms": [
+        "gap",
+        "violation",
+        "hole",
+        "upholding",
+        "break"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make a hole or gap in; break through.",
+            "vi": "Để tạo một lỗ hoặc khoảng trống trong; đột phá."
+        },
+        {
+            "pos": "noun",
+            "en": "A broken or torn place or part.",
+            "vi": "Một nơi hoặc một bộ phận bị hỏng hoặc bị rách."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"We have a security breach,\" the general said, his voice unsteady.",
+            "vi": "\"Chúng tôi có một vi phạm an ninh,\" vị tướng nói, giọng nói của ông không ổn định."
+        },
+        {
+            "en": "The two sections of the Argentine nation contrived to exist as separate governments without an open breach of the peace until 1859, when the long-continued tension led to the outbreak of hostilities.",
+            "vi": "Hai phần của quốc gia Argentina đã từng tồn tại với tư cách là các chính phủ riêng biệt mà không có sự vi phạm hòa bình công khai cho đến năm 1859, khi căng thẳng tiếp tục kéo dài dẫn đến sự bùng nổ của thù địch."
+        }
+    ],
+    "words_form": [
+        "breached",
+        "breaches",
+        "breaching"
+    ],
+    "meaning_vi": "vi phạm"
+}

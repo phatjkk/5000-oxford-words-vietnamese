@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/treɪd/"
+    ],
+    "synonyms": [
+        "business",
+        "sales",
+        "sale",
+        "trade in",
+        "vend"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Trade is defined as the general marketplace of buying and selling goods, the way you make a living or the act of exchanging or buying and selling something.",
+            "vi": "Thương mại được định nghĩa là thị trường chung để mua và bán hàng hóa, cách bạn kiếm sống hoặc hành động trao đổi hoặc mua và bán một thứ gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To engage in buying and selling for profit.",
+            "vi": "Để tham gia vào việc mua và bán để kiếm lời."
+        },
+        {
+            "pos": "adjective",
+            "en": "Relating to, used by, or serving a particular trade.",
+            "vi": "Liên quan đến, được sử dụng bởi hoặc phục vụ một giao dịch cụ thể."
+        },
+        {
+            "pos": "idiom",
+            "en": "trade down  to trade something for something of lower value",
+            "vi": "đánh đổi để đổi lấy thứ gì đó có giá trị thấp hơn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I have something you want and will trade her for it.",
+            "vi": "Tôi có thứ mà bạn muốn và sẽ đánh đổi cô ấy để lấy nó."
+        },
+        {
+            "en": "I would not trade a child for pride.",
+            "vi": "Tôi sẽ không đánh đổi một đứa trẻ để lấy niềm tự hào."
+        }
+    ],
+    "words_form": [
+        "traded",
+        "trades",
+        "trading"
+    ],
+    "meaning_vi": "thương mại"
+}

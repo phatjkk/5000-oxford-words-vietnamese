@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈmænəˌfɛst/"
+    ],
+    "synonyms": [
+        "evident",
+        "bare",
+        "visible",
+        "show",
+        "exhibit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To show or demonstrate plainly; reveal.",
+            "vi": "Để hiển thị hoặc chứng minh một cách rõ ràng; bộc lộ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Clearly apparent to the sight or understanding; obvious.",
+            "vi": "Rõ ràng rõ ràng đối với thị giác hoặc sự hiểu biết; rõ ràng."
+        },
+        {
+            "pos": "noun",
+            "en": "An itemized list of a ship's cargo, to be shown to customs officials.",
+            "vi": "Danh sách hàng hóa của một con tàu được chia thành từng mục, sẽ được hiển thị cho các quan chức hải quan."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "My little pupil continues to manifest the same eagerness to learn as at first.",
+            "vi": "Cậu học trò nhỏ của tôi vẫn tiếp tục thể hiện sự ham học hỏi như lúc đầu."
+        },
+        {
+            "en": "She continues to manifest the same eagerness to learn as at first.",
+            "vi": "Cô ấy tiếp tục thể hiện sự háo hức học hỏi như lúc đầu."
+        }
+    ],
+    "words_form": [
+        "manifested",
+        "manifesting",
+        "manifests"
+    ],
+    "meaning_vi": "bảng kê khai"
+}

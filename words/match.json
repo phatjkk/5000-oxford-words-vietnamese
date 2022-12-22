@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/mætʃ/"
+    ],
+    "synonyms": [
+        "equal",
+        "sport",
+        "friendlies",
+        "identify",
+        "matches"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Match is defined as a small thin piece of wood or cardboard tipped with flammable chemicals that catch fire with friction.",
+            "vi": "Diêm được định nghĩa là một mảnh gỗ hoặc bìa cứng mỏng nhỏ được tẩm hóa chất dễ cháy bắt lửa khi có ma sát."
+        },
+        {
+            "pos": "verb",
+            "en": "To provide with an adversary or competitor.",
+            "vi": "Để cung cấp cho một đối thủ hoặc đối thủ cạnh tranh."
+        },
+        {
+            "pos": "idiom",
+            "en": "match up  match compare",
+            "vi": "đối sánh kết hợp so sánh"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "As a rule, a match consists of 21 points, or 21 ends (or a few more, by agreement).",
+            "vi": "Theo quy định, một trận đấu có 21 điểm, hoặc 21 điểm kết thúc (hoặc một vài điểm nữa, theo thỏa thuận)."
+        },
+        {
+            "en": "Zeb struck a match and lighted one of the lanterns.",
+            "vi": "Zeb đánh một que diêm và thắp sáng một trong những chiếc đèn lồng."
+        }
+    ],
+    "words_form": [
+        "matched",
+        "matches",
+        "matching"
+    ],
+    "meaning_vi": "hợp nhau, xứng"
+}

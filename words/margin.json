@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈmɑrdʒən/"
+    ],
+    "synonyms": [
+        "edge",
+        "border",
+        "indentation",
+        "leeway",
+        "perimeter"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An amount allowed beyond what is needed.",
+            "vi": "Một số lượng được phép vượt quá những gì cần thiết."
+        },
+        {
+            "pos": "verb",
+            "en": "To provide with a margin.",
+            "vi": "Để cung cấp với một khoản ký quỹ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I love a broad margin to my life.",
+            "vi": "Tôi thích một biên độ rộng lớn cho cuộc sống của tôi."
+        },
+        {
+            "en": "The condition of things can be imagined by supposing that in a medusa primitively of normal build, with tentacles at the margin, the umbrella has grown down past the insertion of the tentacles.",
+            "vi": "Tình trạng của mọi thứ có thể được tưởng tượng bằng cách giả sử rằng trong một chiếc medusa ban đầu là xây dựng bình thường, với các xúc tu ở rìa, chiếc ô đã phát triển xuống dưới sự chèn của các xúc tu."
+        }
+    ],
+    "words_form": [
+        "margins"
+    ],
+    "meaning_vi": "lề"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɪnˈdid/"
+    ],
+    "synonyms": [
+        "in-fact",
+        "certainly",
+        "admittedly",
+        "honestly",
+        "absolutely"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Without a doubt; certainly.",
+            "vi": "Không nghi ngờ gì; chắc chắn."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express surprise, skepticism, or irony.",
+            "vi": "Được sử dụng để thể hiện sự ngạc nhiên, hoài nghi hoặc mỉa mai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A sailor's life is indeed a hard life.",
+            "vi": "Cuộc sống của một thủy thủ quả thực là một cuộc sống khó khăn."
+        },
+        {
+            "en": "Indeed, why should anyone feel sorry for her?",
+            "vi": "Thật vậy, tại sao bất cứ ai cũng phải cảm thấy có lỗi với cô ấy?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thực sự"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/vəˈraɪədi/"
+    ],
+    "synonyms": [
+        "diversity",
+        "difference",
+        "kind",
+        "olio",
+        "species"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Variety is an assortment or the state of having many different things.",
+            "vi": "Đa dạng là một loại hoặc trạng thái có nhiều thứ khác nhau."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or in a variety show.",
+            "vi": "Của hoặc trong một chương trình tạp kỹ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They chatted amiably about a variety of things.",
+            "vi": "Họ nói chuyện vui vẻ về nhiều thứ."
+        },
+        {
+            "en": "We have a few kinds of prepackaged sandwich meats, but there's a better variety at the counter.",
+            "vi": "Chúng tôi có một vài loại thịt sandwich đóng gói sẵn, nhưng có nhiều loại hơn ở quầy."
+        }
+    ],
+    "words_form": [
+        "varieties"
+    ],
+    "meaning_vi": "loạt"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈvju/"
+    ],
+    "synonyms": [
+        "survey",
+        "critical review",
+        "audit",
+        "criticism",
+        "reexamination"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To look over, study, or examine again.",
+            "vi": "Để xem qua, nghiên cứu hoặc kiểm tra lại."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a review is an examination, report, survey or evaluation.",
+            "vi": "Định nghĩa của đánh giá là một cuộc kiểm tra, báo cáo, khảo sát hoặc đánh giá."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Shall we review what you've learned?",
+            "vi": "Chúng ta sẽ xem lại những gì bạn đã học được không?"
+        },
+        {
+            "en": "So let's review my key points to see if they are compelling.",
+            "vi": "Vì vậy, hãy xem lại những điểm chính của tôi để xem liệu chúng có hấp dẫn không."
+        }
+    ],
+    "words_form": [
+        "reviewed",
+        "reviewing",
+        "reviews"
+    ],
+    "meaning_vi": "ôn tập"
+}

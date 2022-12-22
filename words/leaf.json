@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/lif/"
+    ],
+    "synonyms": [
+        "stalk",
+        "leaflet",
+        "sheath",
+        "seed-leaf",
+        "riffle"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a leaf is a part of a plant or tree attached to the stem or branches.",
+            "vi": "Định nghĩa lá là một bộ phận của cây hoặc cây gắn liền với thân hoặc cành."
+        },
+        {
+            "pos": "verb",
+            "en": "(intransitive) To produce leaves; put forth foliage.",
+            "vi": "(intransitive) Để tạo ra lá; đưa ra những tán lá."
+        },
+        {
+            "pos": "idiom",
+            "en": "take a leaf from (someone)  To use (someone) as an example.",
+            "vi": "lấy một chiếc lá từ (ai đó) Để sử dụng (ai đó) làm ví dụ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He looked relieved and reached up, pulling a leaf from her hair.",
+            "vi": "Anh trông nhẹ nhõm và đưa tay lên, kéo một chiếc lá trên tóc cô."
+        },
+        {
+            "en": "There was evaporation of water from the leaf.",
+            "vi": "Có sự bốc hơi nước từ lá."
+        }
+    ],
+    "words_form": [
+        "leafed",
+        "leafing",
+        "leafs",
+        "leaves"
+    ],
+    "meaning_vi": "lá"
+}

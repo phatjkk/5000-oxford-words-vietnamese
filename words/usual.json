@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈjuʒ(u)əl/"
+    ],
+    "synonyms": [
+        "normal",
+        "usual",
+        "ordinary",
+        "unusual",
+        "typical"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of usual is something common or regularly used.",
+            "vi": "Định nghĩa của thông thường là một cái gì đó phổ biến hoặc thường xuyên được sử dụng."
+        },
+        {
+            "pos": "idiom",
+            "en": "as usual  As commonly or habitually happens: As usual, I slept late that Saturday morning.",
+            "vi": "như thường lệ Như thường lệ hoặc theo thói quen xảy ra: Như thường lệ, tôi ngủ muộn vào sáng thứ Bảy hôm đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "As usual, he was right.",
+            "vi": "Như thường lệ, anh ấy đã đúng."
+        },
+        {
+            "en": "As usual, her stomach was grumbling for food.",
+            "vi": "Như thường lệ, bụng cô kêu cồn cào đòi ăn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bình thường"
+}

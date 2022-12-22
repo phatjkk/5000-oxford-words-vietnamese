@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈkrɑnɪk/"
+    ],
+    "synonyms": [
+        "confirmed",
+        "persisting",
+        "lasting",
+        "unyielding",
+        "intense"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Lasting a long time or recurring often.",
+            "vi": "Kéo dài thời gian hoặc tái phát thường xuyên."
+        },
+        {
+            "pos": "noun",
+            "en": "A chronic patient.",
+            "vi": "Một bệnh nhân mãn tính."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Chronic gastric ulcer is not unfrequently the starting point of cancer.",
+            "vi": "Loét dạ dày mãn tính thường không phải là điểm khởi đầu của ung thư."
+        },
+        {
+            "en": "In spite of chronic unpopularity and recurring persecutions they have spread over nearly all Europe.",
+            "vi": "Bất chấp tình trạng không phổ biến mãn tính và các cuộc đàn áp tái diễn, họ đã lan rộng ra gần như toàn bộ châu Âu."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "mãn tính"
+}

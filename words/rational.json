@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈræʃ(ə)n(ə)l/"
+    ],
+    "synonyms": [
+        "deliberate",
+        "commonsensical",
+        "logical",
+        "sensible",
+        "intelligent"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having or exercising the ability to reason.",
+            "vi": "Có hoặc thực hiện khả năng suy luận."
+        },
+        {
+            "pos": "noun",
+            "en": "A rational number.",
+            "vi": "Một số hữu tỉ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The gut wrenching pain left him unable to process any rational thought.",
+            "vi": "Cơn đau quặn thắt khiến anh không thể suy nghĩ thấu đáo được."
+        },
+        {
+            "en": "It is not exactly an attempt to base Christian faith on rational scepticism.",
+            "vi": "Đó không hẳn là một nỗ lực nhằm đặt niềm tin Cơ đốc dựa trên chủ nghĩa hoài nghi hợp lý."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hợp lý"
+}

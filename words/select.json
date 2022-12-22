@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/səˈlɛkt/"
+    ],
+    "synonyms": [
+        "poor",
+        "take",
+        "discriminating",
+        "choose",
+        "elect"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make a choice or selection.",
+            "vi": "Để thực hiện một lựa chọn hoặc lựa chọn."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of select is a person or thing that is chosen, or determined to be excellent or best.",
+            "vi": "Định nghĩa của sự lựa chọn là một người hoặc vật được chọn, hoặc được xác định là xuất sắc hoặc tốt nhất."
+        },
+        {
+            "pos": "noun",
+            "en": "Chosen or preferred items or people considered as a group. Often used with the.",
+            "vi": "Các mục được chọn hoặc ưa thích hoặc những người được coi là một nhóm. Thường được sử dụng với."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Elects.",
+            "vi": "Số phiếu bầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Let him select a route for you and then suggest an alternate route.",
+            "vi": "Hãy để anh ấy chọn một tuyến đường cho bạn và sau đó đề xuất một tuyến đường thay thế."
+        },
+        {
+            "en": "I have done nothing but select and cut.",
+            "vi": "Tôi đã không làm gì khác ngoài chọn và cắt."
+        }
+    ],
+    "words_form": [
+        "selected",
+        "selecting",
+        "selects"
+    ],
+    "meaning_vi": "chọn"
+}

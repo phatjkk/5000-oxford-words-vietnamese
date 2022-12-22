@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/əʊld-ˈfæʃənd/"
+    ],
+    "synonyms": [
+        "ancient",
+        "antique",
+        "archaic",
+        "corny",
+        "dated"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An iced cocktail containing whiskey, bitters, sweetening, and a small amount of water, and garnished with pieces of fruit.",
+            "vi": "Một loại cocktail đá có chứa rượu whisky, vị đắng, chất làm ngọt, và một lượng nhỏ nước và được trang trí bằng những miếng trái cây."
+        },
+        {
+            "pos": "adjective",
+            "en": "Suited to or favoring the styles, methods, manners, or ideas of past times; esp., out-of-date; antiquated; outmoded.",
+            "vi": "Phù hợp hoặc yêu thích phong cách, phương pháp, cách cư xử, hoặc ý tưởng của thời gian trước đây; đặc biệt., lỗi thời; cổ kính; lỗi thời."
+        },
+        {
+            "pos": "",
+            "en": "See skeuomorph.",
+            "vi": "Xem xiên quay."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The people were dressed in old fashioned clothes.",
+            "vi": "Những người dân mặc quần áo kiểu cũ."
+        },
+        {
+            "en": "Their clothing was old fashioned and there was a kerosene lamp on a table.",
+            "vi": "Quần áo của họ là kiểu cũ và có một ngọn đèn dầu trên bàn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "An iced cocktail containing whiskey, bitters, sweetening, and a small amount of water, and garnished with pieces of fruit.",
+            "vi": "Một loại cocktail đá có chứa rượu whisky, vị đắng, chất làm ngọt, và một lượng nhỏ nước và được trang trí bằng những miếng trái cây."
+        },
+        {
+            "pos": "adjective",
+            "en": "Suited to or favoring the styles, methods, manners, or ideas of past times; esp., out-of-date; antiquated; outmoded.",
+            "vi": "Phù hợp hoặc yêu thích phong cách, phương pháp, cách cư xử, hoặc ý tưởng của thời gian trước đây; đặc biệt., lỗi thời; cổ kính; lỗi thời."
+        },
+        {
+            "pos": "",
+            "en": "See skeuomorph.",
+            "vi": "Xem xiên quay."
+        }
+    ]
+}

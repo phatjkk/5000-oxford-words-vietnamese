@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/bəˈsaɪdz/"
+    ],
+    "synonyms": [
+        "exceeding",
+        "beyond",
+        "furthermore",
+        "aside-from",
+        "likewise"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Moreover; furthermore.",
+            "vi": "Hơn thế nữa; hơn nữa."
+        },
+        {
+            "pos": "preposition",
+            "en": "Besides is defined as in addition to, or except for.",
+            "vi": "Bên cạnh đó được định nghĩa là thêm vào, hoặc ngoại trừ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Besides, those are my animals.",
+            "vi": "Hơn nữa, đó là những con vật của tôi."
+        },
+        {
+            "en": "She knows four hundred words besides numerous proper nouns.",
+            "vi": "Cô ấy biết bốn trăm từ bên cạnh vô số danh từ riêng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ngoài ra"
+}

@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/ˈɑnˌɡoʊɪŋ/",
+        "/ˈɔnˌɡoʊɪŋ/"
+    ],
+    "synonyms": [
+        "open-ended",
+        "evolving",
+        "unfolding",
+        "infrequent",
+        "continuous"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "In progress or evolving.",
+            "vi": "Đang tiến triển hoặc đang phát triển."
+        },
+        {
+            "pos": "noun",
+            "en": "Something that is going on; a happening.",
+            "vi": "Một cái gì đó đang diễn ra; đang xảy ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Was it because of an ongoing investigation?",
+            "vi": "Có phải vì cuộc điều tra đang diễn ra không?"
+        },
+        {
+            "en": "The choice of ongoing treatment will depend on the severity and frequency of symptoms, but will include alginates, H2A and PPI.",
+            "vi": "Việc lựa chọn phương pháp điều trị liên tục sẽ phụ thuộc vào mức độ nghiêm trọng và tần suất của các triệu chứng, nhưng sẽ bao gồm alginate, H2A và PPI."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đang diễn ra"
+}

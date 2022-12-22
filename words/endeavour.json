@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ɪnˈdɛvə/"
+    ],
+    "synonyms": [
+        "aim",
+        "effort",
+        "enterprise",
+        "struggle",
+        "undertaking"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Endeavour is defined as an alternate spelling of endeavor, which is defined as something you try or attempt with a lot of effort.",
+            "vi": "Do đó, các tài liệu hoặc tài liệu tham khảo được cung cấp."
+        },
+        {
+            "pos": "verb",
+            "en": "UK standard spelling of endeavor.",
+            "vi": "Bản tường thuật và mô tả bằng hình ảnh của một hệ thống. Sau đây là các loại tài liệu cần thiết để mô tả một hệ thống thông tin cho cả người dùng và nhân viên hệ thống. Xem mã tự lập tài liệu, người viết kỹ thuật và RTFM. Quy trình vận hành1. Hướng dẫn bật hệ thống và khởi chạy chương trình (đã tải) .2. Hướng dẫn lấy tài liệu nguồn để nhập dữ liệu.3. Hướng dẫn nhập dữ liệu tại thiết bị đầu cuối, bao gồm hình ảnh của từng bố cục màn hình mà người dùng sẽ gặp phải. Mô tả các thông báo lỗi có thể xảy ra và các phương pháp thay thế để xử lý chúng. Mô tả về các giá trị mặc định được sử dụng trong chương trình và hướng dẫn thay đổi chúng. Hướng dẫn phân phối đầu ra của máy tính, bao gồm các trang mẫu cho từng loại báo cáo. Từ điển dữ liệu - Mô tả các tệp và cơ sở dữ liệu. Biểu đồ luồng hệ thống - Mô tả dữ liệu khi nó chuyển từ tài liệu nguồn đến báo cáo.3. Tài liệu chương trình ứng dụng - Mô tả các đầu vào, xử lý và đầu ra cho mỗi chương trình nhập dữ liệu, truy vấn, cập nhật và báo cáo trong hệ thống. Cấu trúc tệp và phương thức truy cập 2. Lưu đồ chương trình3. Danh sách mã nguồn chương trình4. Quy trình máy (JCL)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In this endeavour he met with vigorous opponents.",
+            "vi": "Trong nỗ lực này, ông đã gặp phải những đối thủ mạnh mẽ."
+        },
+        {
+            "en": "This time, however, the endeavour to make up for lost time was unavailing.",
+            "vi": "Tuy nhiên, lần này, nỗ lực bù đắp thời gian đã mất là không thể tránh khỏi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "Endeavour is defined as an alternate spelling of endeavor, which is defined as something you try or attempt with a lot of effort.",
+            "vi": "Do đó, các tài liệu hoặc tài liệu tham khảo được cung cấp."
+        },
+        {
+            "pos": "verb",
+            "en": "UK standard spelling of endeavor.",
+            "vi": "Bản tường thuật và mô tả bằng hình ảnh của một hệ thống. Sau đây là các loại tài liệu cần thiết để mô tả một hệ thống thông tin cho cả người dùng và nhân viên hệ thống. Xem mã tự lập tài liệu, người viết kỹ thuật và RTFM. Quy trình vận hành1. Hướng dẫn bật hệ thống và khởi chạy chương trình (đã tải) .2. Hướng dẫn lấy tài liệu nguồn để nhập dữ liệu.3. Hướng dẫn nhập dữ liệu tại thiết bị đầu cuối, bao gồm hình ảnh của từng bố cục màn hình mà người dùng sẽ gặp phải. Mô tả các thông báo lỗi có thể xảy ra và các phương pháp thay thế để xử lý chúng. Mô tả về các giá trị mặc định được sử dụng trong chương trình và hướng dẫn thay đổi chúng. Hướng dẫn phân phối đầu ra của máy tính, bao gồm các trang mẫu cho từng loại báo cáo. Từ điển dữ liệu - Mô tả các tệp và cơ sở dữ liệu. Biểu đồ luồng hệ thống - Mô tả dữ liệu khi nó chuyển từ tài liệu nguồn đến báo cáo.3. Tài liệu chương trình ứng dụng - Mô tả các đầu vào, xử lý và đầu ra cho mỗi chương trình nhập dữ liệu, truy vấn, cập nhật và báo cáo trong hệ thống. Cấu trúc tệp và phương thức truy cập 2. Lưu đồ chương trình3. Danh sách mã nguồn chương trình4. Quy trình máy (JCL)"
+        }
+    ]
+}

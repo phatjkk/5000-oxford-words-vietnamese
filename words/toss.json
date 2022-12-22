@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/tɔs/",
+        "/tɑs/"
+    ],
+    "synonyms": [
+        "fling",
+        "squirm",
+        "hurl",
+        "bob",
+        "buffet"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a toss is a throw or fling of something, or a flip of a coin.",
+            "vi": "Định nghĩa về tung là ném hoặc ném một thứ gì đó, hoặc lật một đồng xu."
+        },
+        {
+            "pos": "verb",
+            "en": "To flip a coin to decide an issue.",
+            "vi": "Để lật một đồng xu để quyết định một vấn đề."
+        },
+        {
+            "pos": "idiom",
+            "en": "toss (one's) cookies  To vomit.",
+            "vi": "quăng (của một người) cookie Để nôn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I broke his arm before he could toss the match.",
+            "vi": "Tôi đã đánh gãy tay anh ấy trước khi anh ấy có thể quăng que diêm."
+        },
+        {
+            "en": "Hadn't we decided to toss in the towel?",
+            "vi": "Chúng ta đã không quyết định ném chiếc khăn tắm vào sao?"
+        }
+    ],
+    "words_form": [
+        "tossed",
+        "tosses",
+        "tossing"
+    ],
+    "meaning_vi": "quăng"
+}

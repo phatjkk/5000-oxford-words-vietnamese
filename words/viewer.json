@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈvjuːə/"
+    ],
+    "synonyms": [
+        "observer",
+        "onlooker",
+        "spectator",
+        "watcher",
+        "attestant"
+    ],
+    "meaning": [
+        {
+            "pos": "",
+            "en": "(1) A program that renders the contents of a digital file on screen. Also called a \"browser,\" viewers may be stand-alone programs or components within a larger application. For audio and video formats, media players are used. See file viewer, graphics viewer, newsreader and media player.",
+            "vi": "(1) Một chương trình hiển thị nội dung của tệp kỹ thuật số trên màn hình. Còn được gọi là \"trình duyệt\", người xem có thể là các chương trình hoặc thành phần độc lập trong một ứng dụng lớn hơn. Đối với các định dạng âm thanh và video, trình phát đa phương tiện được sử dụng. Xem trình xem tệp, trình xem đồ họa, trình đọc tin tức và trình phát đa phương tiện."
+        },
+        {
+            "pos": "noun",
+            "en": "One that views, especially an onlooker or spectator.",
+            "vi": "Một trong những quan điểm, đặc biệt là một người xem hoặc khán giả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She waited until the viewer flashed off before slumping.",
+            "vi": "Cô đợi cho đến khi người xem vụt tắt trước khi sụt sùi."
+        },
+        {
+            "en": "The viewer turned off, and he pulled his suit back on.",
+            "vi": "Người xem đã tắt, và anh ta mặc lại bộ đồ của mình."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "",
+            "en": "(1) A program that renders the contents of a digital file on screen. Also called a \"browser,\" viewers may be stand-alone programs or components within a larger application. For audio and video formats, media players are used. See file viewer, graphics viewer, newsreader and media player.",
+            "vi": "(1) Một chương trình hiển thị nội dung của tệp kỹ thuật số trên màn hình. Còn được gọi là \"trình duyệt\", người xem có thể là các chương trình hoặc thành phần độc lập trong một ứng dụng lớn hơn. Đối với các định dạng âm thanh và video, trình phát đa phương tiện được sử dụng. Xem trình xem tệp, trình xem đồ họa, trình đọc tin tức và trình phát đa phương tiện."
+        },
+        {
+            "pos": "noun",
+            "en": "One that views, especially an onlooker or spectator.",
+            "vi": "Một trong những quan điểm, đặc biệt là một người xem hoặc khán giả."
+        }
+    ]
+}

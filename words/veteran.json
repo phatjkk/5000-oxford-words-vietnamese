@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈvɛdərən/",
+        "/ˈvɛtrən/"
+    ],
+    "synonyms": [
+        "expert",
+        "versed",
+        "experienced",
+        "steady",
+        "hardened"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person of long experience in some occupation or position.",
+            "vi": "Một người có kinh nghiệm lâu năm trong một số nghề nghiệp hoặc vị trí."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a person who has served in the armed forces.",
+            "vi": "Chỉ định hoặc của một người đã phục vụ trong lực lượng vũ trang."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Aleixo de Menezes, a veteran who had served under Albuquerque.",
+            "vi": "Aleixo de Menezes, một cựu binh từng phục vụ dưới trướng Albuquerque."
+        },
+        {
+            "en": "Napoleon was at the head of a veteran army of Frenchmen, who worshipped their leader and were willing to die for France if necessity demanded.",
+            "vi": "Napoléon đứng đầu một đội quân kỳ cựu của Pháp, những người tôn thờ thủ lĩnh của họ và sẵn sàng chết vì nước Pháp nếu cần thiết."
+        }
+    ],
+    "words_form": [
+        "veterans"
+    ],
+    "meaning_vi": "cựu chiến binh"
+}

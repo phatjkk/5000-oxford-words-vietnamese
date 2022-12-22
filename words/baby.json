@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈbeɪbi/"
+    ],
+    "synonyms": [
+        "kid",
+        "juvenile",
+        "toddler",
+        "brat",
+        "novice"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The youngest or smallest in a group.",
+            "vi": "Người trẻ nhất hoặc nhỏ nhất trong một nhóm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Infantile or childish.",
+            "vi": "Trẻ sơ sinh hoặc trẻ con."
+        },
+        {
+            "pos": "verb",
+            "en": "To pamper like a baby; coddle.",
+            "vi": "Để nuông chiều như một đứa bé; nưng niu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "How pretty the baby was!",
+            "vi": "Em bé xinh làm sao!"
+        },
+        {
+            "en": "I hope you accept this by the time the baby is born.",
+            "vi": "Tôi hy vọng bạn chấp nhận điều này vào thời điểm đứa trẻ được sinh ra."
+        }
+    ],
+    "words_form": [
+        "babied",
+        "babies",
+        "baby",
+        "babying"
+    ],
+    "meaning_vi": "em bé"
+}

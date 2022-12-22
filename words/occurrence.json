@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˈkərəns/"
+    ],
+    "synonyms": [
+        "incident",
+        "event",
+        "happening",
+        "phenomenon",
+        "occasion"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An event of happening.",
+            "vi": "Một sự kiện đang xảy ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"A most unusual occurrence for the season, Madam,\" Fred replied.",
+            "vi": "\"Một sự kiện bất thường nhất trong mùa giải, thưa bà,\" Fred trả lời."
+        },
+        {
+            "en": "It's not a frequent occurrence.",
+            "vi": "Nó không phải là một sự xuất hiện thường xuyên."
+        }
+    ],
+    "words_form": [
+        "occurrences"
+    ],
+    "meaning_vi": "xảy ra"
+}

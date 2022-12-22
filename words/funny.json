@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈfəni/"
+    ],
+    "synonyms": [
+        "hilarious",
+        "amusing",
+        "humorous",
+        "comical",
+        "entertaining"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Funny is defined as causing laughter or out of the ordinary.",
+            "vi": "Hài hước được định nghĩa là gây ra tiếng cười hoặc khác thường."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a funny is a joke or something that makes people laugh.",
+            "vi": "Định nghĩa của một hài hước là một trò đùa hoặc một cái gì đó khiến mọi người cười."
+        },
+        {
+            "pos": "adverb",
+            "en": "(informal) In a funny manner.",
+            "vi": "(thân mật) Một cách hài hước."
+        },
+        {
+            "pos": "idiom",
+            "en": "get funny with  to be impudent to",
+            "vi": "trở nên buồn cười khi trở nên trơ tráo"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He's acting funny today.",
+            "vi": "Hôm nay anh ấy hành động rất hài hước."
+        },
+        {
+            "en": "\"That's not funny,\" she said, turning to glare at him.",
+            "vi": "“Không vui đâu,” cô nói, quay sang trừng mắt nhìn anh."
+        }
+    ],
+    "words_form": [
+        "funnier",
+        "funnies",
+        "funniest"
+    ],
+    "meaning_vi": "buồn cười"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈpraɪvəsi/"
+    ],
+    "synonyms": [
+        "seclusion",
+        "insularity",
+        "solitude",
+        "retreat",
+        "esoteric"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Privacy is the state of being free from public scrutiny or from having your secrets or personal information shared.",
+            "vi": "Quyền riêng tư là trạng thái không bị giám sát công khai hoặc không bị chia sẻ bí mật hoặc thông tin cá nhân của bạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I need some privacy here.",
+            "vi": "Tôi cần một số sự riêng tư ở đây."
+        },
+        {
+            "en": "He flipped to the next page as he emerged near the palace, agitated at realizing he'd get no privacy, not with the hundreds of assassins loitering.",
+            "vi": "Anh lật sang trang tiếp theo khi anh xuất hiện gần cung điện, kích động khi nhận ra mình sẽ không có sự riêng tư, chứ không phải với hàng trăm sát thủ đang rình rập."
+        }
+    ],
+    "words_form": [
+        "privacies"
+    ],
+    "meaning_vi": "bảo mật"
+}

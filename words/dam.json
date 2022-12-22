@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dæm/"
+    ],
+    "synonyms": [
+        "weir",
+        "cofferdam",
+        "dike",
+        "ewe",
+        "mother"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(archaic) A mother.",
+            "vi": "(cổ xưa) Một người mẹ."
+        },
+        {
+            "pos": "verb",
+            "en": "To keep back or confine by or as by a dam.",
+            "vi": "Để giữ lại hoặc giam giữ bằng hoặc bằng một con đập."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Decameter.",
+            "vi": "Người khai báo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The rest was blocked, as if a dam was placed there.",
+            "vi": "Phần còn lại bị chặn, như thể một con đập được đặt ở đó."
+        },
+        {
+            "en": "Dolokhov who was in the midst of the crowd forced his way to the edge of the dam, throwing two soldiers off their feet, and ran onto the slippery ice that covered the millpool.",
+            "vi": "Dolokhov đang ở giữa đám đông đã cố gắng tiến đến mép đập, hất hai người lính ra khỏi chân họ, và chạy lên lớp băng trơn trượt bao phủ nhà máy."
+        }
+    ],
+    "words_form": [
+        "dammed",
+        "damming",
+        "dams"
+    ],
+    "meaning_vi": "Đập nước"
+}

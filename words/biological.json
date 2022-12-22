@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˌbaɪəˈlɑdʒək(ə)l/"
+    ],
+    "synonyms": [
+        "life",
+        "biotic",
+        "organic",
+        "living",
+        "zoological"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of biological is something that relates to life or living.",
+            "vi": "Định nghĩa của sinh học là một cái gì đó liên quan đến cuộc sống hoặc sinh hoạt."
+        },
+        {
+            "pos": "noun",
+            "en": "A biologic.",
+            "vi": "Một sinh học."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He's not your biological father?",
+            "vi": "Ông ấy không phải là cha ruột của bạn?"
+        },
+        {
+            "en": "It was time to accept that they would never have biological children.",
+            "vi": "Đã đến lúc phải chấp nhận rằng họ sẽ không bao giờ có con đẻ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sinh học"
+}

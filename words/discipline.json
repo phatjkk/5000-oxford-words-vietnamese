@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈdɪsəplən/"
+    ],
+    "synonyms": [
+        "school",
+        "train",
+        "preparation",
+        "limit",
+        "training"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Training expected to produce a specific character or pattern of behavior, especially training that produces moral or mental improvement.",
+            "vi": "Đào tạo mong đợi để tạo ra một tính cách hoặc khuôn mẫu hành vi cụ thể, đặc biệt là đào tạo để tạo ra sự cải thiện về đạo đức hoặc tinh thần."
+        },
+        {
+            "pos": "verb",
+            "en": "To train by instruction and practice, as in following rules or developing self-control.",
+            "vi": "Huấn luyện bằng cách hướng dẫn và thực hành, như tuân theo các quy tắc hoặc phát triển khả năng tự kiểm soát."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The discipline was there before the Reformers.",
+            "vi": "Kỷ luật đã có trước khi các nhà Cải cách."
+        },
+        {
+            "en": "Sirian's coldness had never struck her as anything but rigid discipline and cool thinking.",
+            "vi": "Sự lạnh lùng của Sirian chưa bao giờ gây ấn tượng với cô ấy ngoài kỷ luật cứng nhắc và lối suy nghĩ lạnh lùng."
+        }
+    ],
+    "words_form": [
+        "disciplined",
+        "disciplines",
+        "disciplining"
+    ],
+    "meaning_vi": "kỷ luật"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/sɪt/"
+    ],
+    "synonyms": [
+        "rest",
+        "perch",
+        "sit in",
+        "remain",
+        "relax"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To rest with the torso vertical and the body supported on the buttocks.",
+            "vi": "Để thân mình thẳng đứng và cơ thể được hỗ trợ trên mông."
+        },
+        {
+            "pos": "noun",
+            "en": "The way in which an article of clothing, such as a dress or jacket, fits.",
+            "vi": "Cách mà một mặt hàng quần áo, chẳng hạn như một chiếc váy hoặc áo khoác, phù hợp."
+        },
+        {
+            "pos": "idiom",
+            "en": "sit on (one's) hands  To fail to act.",
+            "vi": "ngồi trên tay (của một người) Để thất bại trong việc hành động."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Come in and sit down.",
+            "vi": "Đến và ngồi xuống đi."
+        },
+        {
+            "en": "Sit down, and take your pen.",
+            "vi": "Ngồi xuống và lấy bút của bạn."
+        }
+    ],
+    "words_form": [
+        "sat",
+        "sits",
+        "sitting"
+    ],
+    "meaning_vi": "ngồi"
+}

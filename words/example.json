@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɪɡˈzæmpəl/"
+    ],
+    "synonyms": [
+        "instance",
+        "model",
+        "illustration",
+        "part",
+        "good example"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A similar case that constitutes a model or precedent.",
+            "vi": "Một trường hợp tương tự tạo thành mô hình hoặc tiền lệ."
+        },
+        {
+            "pos": "verb",
+            "en": "To be illustrated or exemplified (by).",
+            "vi": "Để được minh họa hoặc ví dụ (bằng cách)."
+        },
+        {
+            "pos": "idiom",
+            "en": "for example  As an illustrative instance: Wear something simple; for example, a skirt and blouse.",
+            "vi": "ví dụ Như một ví dụ minh họa: Mặc một cái gì đó đơn giản; ví dụ, một chiếc váy và áo cánh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Now that was a good example of her imagination working over time.",
+            "vi": "Đó là một ví dụ điển hình về trí tưởng tượng của cô ấy hoạt động theo thời gian."
+        },
+        {
+            "en": "The most important example is trust.",
+            "vi": "Ví dụ quan trọng nhất là sự tin tưởng."
+        }
+    ],
+    "words_form": [
+        "exampled",
+        "examples",
+        "exampling"
+    ],
+    "meaning_vi": "ví dụ"
+}

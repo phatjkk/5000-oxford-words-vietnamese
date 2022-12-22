@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/kəˈlɛkt/"
+    ],
+    "synonyms": [
+        "assemble",
+        "gather",
+        "flock",
+        "gather-up",
+        "congregate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To call for (someone); pick up.",
+            "vi": "Để gọi cho (ai đó); đón."
+        },
+        {
+            "pos": "adjective",
+            "en": "With payment to be made by the receiver.",
+            "vi": "Với việc thanh toán được thực hiện bởi người nhận."
+        },
+        {
+            "pos": "noun",
+            "en": "A brief formal prayer that is used in various Western liturgies before the epistle and that varies with the day.",
+            "vi": "Một lời cầu nguyện chính thức ngắn gọn được sử dụng trong các nghi lễ khác nhau của phương Tây trước văn thư và thay đổi theo ngày."
+        },
+        {
+            "pos": "adverb",
+            "en": "With payment due from the recipient.",
+            "vi": "Với khoản thanh toán đến hạn từ người nhận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I collect facts that are out there in the public domain.",
+            "vi": "Tôi thu thập các dữ kiện có trong phạm vi công cộng."
+        },
+        {
+            "en": "\"I'll send someone up to collect,\" Gabe replied.",
+            "vi": "\"Tôi sẽ cử người đến thu thập,\" Gabe trả lời."
+        }
+    ],
+    "words_form": [
+        "collected",
+        "collecting",
+        "collects"
+    ],
+    "meaning_vi": "sưu tầm"
+}

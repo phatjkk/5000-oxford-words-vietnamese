@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/teɪst/"
+    ],
+    "synonyms": [
+        "tongue",
+        "palate",
+        "flavor",
+        "aftertaste",
+        "tang"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To distinguish flavors in the mouth.",
+            "vi": "Để phân biệt mùi vị trong miệng."
+        },
+        {
+            "pos": "noun",
+            "en": "Taste is the acting of eating or drinking, the sense of noticing flavors in food or drink, or a liking for something.",
+            "vi": "Vị giác là hành động ăn hoặc uống, cảm giác nhận thấy mùi vị trong thức ăn hoặc đồ uống, hoặc thích một thứ gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "in (good, poor, etc.) taste  in a form, style, or manner showing a (good, poor, etc.) sense of beauty, excellence, fitness, propriety, etc.",
+            "vi": "ở (tốt, kém, v.v.) ở một hình thức, phong cách hoặc cách thức thể hiện (tốt, kém, v.v.) về vẻ đẹp, sự xuất sắc, thể chất, sự đứng đắn, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That way you don't have to taste it.",
+            "vi": "Bằng cách đó bạn không cần phải nếm thử."
+        },
+        {
+            "en": "I imagine it would taste mighty good.",
+            "vi": "Tôi tưởng tượng nó sẽ ngon tuyệt."
+        }
+    ],
+    "words_form": [
+        "tasted",
+        "tastes",
+        "tasting"
+    ],
+    "meaning_vi": "vị giác"
+}

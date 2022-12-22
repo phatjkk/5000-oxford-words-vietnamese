@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/skoʊp/"
+    ],
+    "synonyms": [
+        "purpose",
+        "range",
+        "expanse",
+        "gamut",
+        "area"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Scope is range of understanding, thought or action.",
+            "vi": "Phạm vi là phạm vi hiểu biết, suy nghĩ hoặc hành động."
+        },
+        {
+            "pos": "suffix",
+            "en": "An instrument for viewing or observing.",
+            "vi": "Một công cụ để xem hoặc quan sát."
+        },
+        {
+            "pos": "verb",
+            "en": "(informal) To perform arthroscopic surgery on.",
+            "vi": "(không chính thức) Để thực hiện phẫu thuật nội soi khớp trên."
+        },
+        {
+            "pos": "affix",
+            "en": "An instrument, etc. for seeing or observing.",
+            "vi": "Một công cụ, v.v. để nhìn hoặc quan sát."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The more I thought about it, the more I was convinced of the incredible scope of Howie's gift.",
+            "vi": "Càng nghĩ về nó, tôi càng bị thuyết phục về khả năng đáng kinh ngạc của món quà của Howie."
+        },
+        {
+            "en": "The scope of the work is described on the title-page.",
+            "vi": "Phạm vi của công việc được mô tả trên trang tiêu đề."
+        }
+    ],
+    "words_form": [
+        "scoped",
+        "scopes",
+        "scoping"
+    ],
+    "meaning_vi": "phạm vi"
+}

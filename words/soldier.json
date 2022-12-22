@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈsoʊldʒər/"
+    ],
+    "synonyms": [
+        "warrior",
+        "fighter",
+        "volunteer",
+        "officer",
+        "belligerent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A member of an army, of any rank.",
+            "vi": "Một thành viên của quân đội, ở bất kỳ cấp bậc nào."
+        },
+        {
+            "pos": "verb",
+            "en": "To be a soldier.",
+            "vi": "Để trở thành một người lính."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was a brave soldier and a wise teacher.",
+            "vi": "Ông là một người lính dũng cảm và một người thầy thông thái."
+        },
+        {
+            "en": "Every dead soldier has a face, a story, and a bereaved family.",
+            "vi": "Mỗi người lính chết đều có một khuôn mặt, một câu chuyện và một tang quyến."
+        }
+    ],
+    "words_form": [
+        "soldiered",
+        "soldiering",
+        "soldiers"
+    ],
+    "meaning_vi": "người lính"
+}

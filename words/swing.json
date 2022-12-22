@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/swɪŋ/"
+    ],
+    "synonyms": [
+        "maneuver",
+        "repetition",
+        "rock",
+        "shift",
+        "sway"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To ride on a swing.",
+            "vi": "Để cưỡi trên một chiếc xích đu."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a swing is a movement in a back and forth direction or a piece of playground equipment for moving backward and forward.",
+            "vi": "Định nghĩa về xích đu là một chuyển động theo hướng tới và lui hoặc một phần của thiết bị sân chơi để di chuyển tới và lui."
+        },
+        {
+            "pos": "adjective",
+            "en": "(music) Relating to or performing swing.",
+            "vi": "(âm nhạc) Liên quan đến hoặc biểu diễn swing."
+        },
+        {
+            "pos": "idiom",
+            "en": "in full swing  At the highest level of activity or operation.",
+            "vi": "ở mức cao nhất của hoạt động hoặc hoạt động."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Cousin Arthur made me a swing in the ash tree.",
+            "vi": "Anh họ Arthur làm xích đu cho tôi trên cây tần bì."
+        },
+        {
+            "en": "His broad shoulders swayed with the swing of his stride.",
+            "vi": "Đôi vai rộng của anh ấy đung đưa theo nhịp sải chân của anh ấy."
+        }
+    ],
+    "words_form": [
+        "swinging",
+        "swings",
+        "swung"
+    ],
+    "meaning_vi": "cái xích đu"
+}

@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/dʒəst/"
+    ],
+    "synonyms": [
+        "simply",
+        "exactly",
+        "only",
+        "barely",
+        "just-now"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Just is defined as right before or merely.",
+            "vi": "Just được định nghĩa là ngay trước đó hoặc đơn thuần."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of just is fair or right.",
+            "vi": "Định nghĩa của công bằng là công bằng hoặc đúng."
+        },
+        {
+            "pos": "noun",
+            "en": "Joust.",
+            "vi": "Joust."
+        },
+        {
+            "pos": "verb",
+            "en": "To joust, fight a tournament.",
+            "vi": "Để chen lấn, chiến đấu trong một giải đấu."
+        },
+        {
+            "pos": "idiom",
+            "en": "just about  Almost; very nearly: This job is just about done.",
+            "vi": "gần như; rất gần: Công việc này sắp hoàn thành."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I just did it.",
+            "vi": "Tôi vừa làm nó."
+        },
+        {
+            "en": "I guess she just wanted to say goodbye.",
+            "vi": "Tôi đoán cô ấy chỉ muốn nói lời tạm biệt."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chỉ"
+}

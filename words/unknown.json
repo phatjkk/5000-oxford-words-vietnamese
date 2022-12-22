@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˌənˈnoʊn/"
+    ],
+    "synonyms": [
+        "anonymous",
+        "obscure",
+        "unheard-of",
+        "undiscovered",
+        "unrevealed"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an unknown is a person or thing that you are not familiar with, or a variable in a math problem for which you are trying to solve.",
+            "vi": "Định nghĩa về một ẩn số là một người hoặc một vật mà bạn không quen thuộc, hoặc một biến số trong một bài toán mà bạn đang cố gắng giải."
+        },
+        {
+            "pos": "adjective",
+            "en": "Unknown means something that people are not aware of or familiar with.",
+            "vi": "Không xác định có nghĩa là một cái gì đó mà mọi người không biết hoặc không quen thuộc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The immense, the unknown, enfolded me.",
+            "vi": "Cái bao la, cái chưa biết, bao trùm lấy tôi."
+        },
+        {
+            "en": "He was experiencing emotion completely unknown to him.",
+            "vi": "Anh đang trải qua cảm xúc mà anh hoàn toàn không biết."
+        }
+    ],
+    "words_form": [
+        "unknowns"
+    ],
+    "meaning_vi": "không xác định"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈɪnsəd(ə)nt/"
+    ],
+    "synonyms": [
+        "event",
+        "occurrence",
+        "episode",
+        "happening",
+        "occasion"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an incident is something that happens, possibly as a result of something else.",
+            "vi": "Định nghĩa của một sự cố là một cái gì đó xảy ra, có thể là kết quả của một cái gì đó khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Likely to happen as a result or concomitant; incidental (to)",
+            "vi": "Có thể xảy ra như một kết quả hoặc đồng thời; ngẫu nhiên)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He'd changed since their incident.",
+            "vi": "Anh ấy đã thay đổi kể từ sự cố của họ."
+        },
+        {
+            "en": "Nothing more was said about the incident at the barn.",
+            "vi": "Không có gì được nói thêm về sự cố tại nhà kho."
+        }
+    ],
+    "words_form": [
+        "incidents"
+    ],
+    "meaning_vi": "biến cố"
+}

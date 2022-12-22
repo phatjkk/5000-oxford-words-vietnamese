@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/bəˈɡɪnɪŋ/"
+    ],
+    "synonyms": [
+        "start",
+        "novitiate",
+        "inception",
+        "new",
+        "commencement"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of beginning is something that is in the early stages or the first portion of something.",
+            "vi": "Định nghĩa của sự bắt đầu là một cái gì đó ở giai đoạn đầu hoặc phần đầu tiên của một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Beginning means the moment or place when something started.",
+            "vi": "Bắt đầu có nghĩa là thời điểm hoặc địa điểm khi một cái gì đó bắt đầu."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of begin.",
+            "vi": "Hiện tại phân từ bắt đầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She gazed up at him, her heart beginning to flutter.",
+            "vi": "Cô ngước nhìn anh, trái tim cô bắt đầu xao xuyến."
+        },
+        {
+            "en": "She was beginning to relax when he launched the question.",
+            "vi": "Cô bắt đầu thư giãn khi anh đưa ra câu hỏi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đầu"
+}

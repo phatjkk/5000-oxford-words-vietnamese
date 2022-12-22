@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/bɪld/"
+    ],
+    "synonyms": [
+        "construct",
+        "model",
+        "mind",
+        "structure",
+        "put up"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To establish a basis for; found or ground.",
+            "vi": "Để thiết lập cơ sở cho; tìm thấy hoặc mặt đất."
+        },
+        {
+            "pos": "noun",
+            "en": "The way a thing is built or shaped; form or figure.",
+            "vi": "Cách một sự vật được xây dựng hoặc định hình; hình thức hoặc hình."
+        },
+        {
+            "pos": "idiom",
+            "en": "build on sand  To provide with an unstable foundation: Having bought only high-risk stocks, my portfolio was built on sand.",
+            "vi": "xây dựng trên cát Để cung cấp một nền tảng không ổn định: Chỉ mua cổ phiếu rủi ro cao, danh mục đầu tư của tôi được xây dựng trên cát."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He paused, to build the suspense.",
+            "vi": "Anh dừng lại, để xây dựng sự hồi hộp."
+        },
+        {
+            "en": "We will build an army unlike any that has ever existed, and we will use it to seek revenge on your father for betraying you and her.",
+            "vi": "Chúng tôi sẽ xây dựng một đội quân không giống như bất kỳ đội quân nào đã từng tồn tại, và chúng tôi sẽ sử dụng nó để trả thù cha của bạn vì đã phản bội bạn và cô ấy."
+        }
+    ],
+    "words_form": [
+        "builded",
+        "building",
+        "builds",
+        "built"
+    ],
+    "meaning_vi": "xây dựng"
+}

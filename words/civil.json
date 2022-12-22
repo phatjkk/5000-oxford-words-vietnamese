@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈsɪv(ə)l/"
+    ],
+    "synonyms": [
+        "affable",
+        "communal",
+        "civic",
+        "civilian",
+        "courteous"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or befitting a citizen or citizens.",
+            "vi": "Của, liên quan đến, hoặc có lợi cho một công dân hoặc các công dân."
+        },
+        {
+            "pos": "noun",
+            "en": "Of or pertaining to all matters concerning the law except for matters arising under criminal law and military law. See also civil law.",
+            "vi": "Liên quan đến hoặc liên quan đến tất cả các vấn đề liên quan đến luật pháp ngoại trừ các vấn đề phát sinh theo luật hình sự và luật quân sự. Xem thêm luật dân sự."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The last civil war set us back fifty years.",
+            "vi": "Cuộc nội chiến cuối cùng đã khiến chúng ta lùi lại năm mươi năm."
+        },
+        {
+            "en": "Alex was civil to Señor Medena, if not friendly.",
+            "vi": "Alex tỏ ra thân thiện với Señor Medena, nếu không muốn nói là thân thiện."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "dân sự"
+}

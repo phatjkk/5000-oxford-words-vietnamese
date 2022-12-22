@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/dæd/"
+    ],
+    "synonyms": [
+        "father",
+        "daddy",
+        "papa",
+        "old man",
+        "pop"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A father.",
+            "vi": "Một người cha."
+        },
+        {
+            "pos": "pronoun",
+            "en": "One's father.",
+            "vi": "Cha của một người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "No, Dad said today.",
+            "vi": "Không, bố nói hôm nay."
+        },
+        {
+            "en": "Dad thinks it's a real coo, but Mom doesn't much care for the idea.",
+            "vi": "Bố nghĩ rằng đó là một sự thủ thỉ thực sự, nhưng mẹ không quan tâm lắm đến ý tưởng này."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "cha"
+}

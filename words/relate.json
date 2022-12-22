@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/rəˈleɪt/"
+    ],
+    "synonyms": [
+        "correlate",
+        "describe",
+        "connect",
+        "narrate",
+        "examine"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To relate is defined as to have a connection to or tell the story of.",
+            "vi": "Để liên hệ được định nghĩa là có mối liên hệ với hoặc kể câu chuyện về."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What had really taken place he did not wish to relate because it seemed to him not worth telling.",
+            "vi": "Những gì đã thực sự xảy ra anh không muốn liên quan đến vì nó dường như không đáng kể đối với anh."
+        },
+        {
+            "en": "She would relate everything I told her to Quinn.",
+            "vi": "Cô ấy sẽ kể lại tất cả những gì tôi đã nói với cô ấy với Quinn."
+        }
+    ],
+    "words_form": [
+        "related",
+        "relates",
+        "relating"
+    ],
+    "meaning_vi": "liên quan"
+}

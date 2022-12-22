@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/baɪ/"
+    ],
+    "synonyms": [
+        "good-by",
+        "so-long",
+        "cheerio",
+        "good-bye",
+        "b-y"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(sports) The position of one who draws no opponent for a round in a tournament and so advances to the next round.",
+            "vi": "(thể thao) Vị trí của một người không hòa đối thủ trong một hiệp trong một giải đấu và như vậy sẽ tiến vào vòng tiếp theo."
+        },
+        {
+            "pos": "interjection",
+            "en": "(colloquial) Goodbye.",
+            "vi": "(thông tục) Tạm biệt."
+        },
+        {
+            "pos": "preposition",
+            "en": "Obsolete spelling of by.",
+            "vi": "Lỗi chính tả của by."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of secondary importance.",
+            "vi": "Có tầm quan trọng thứ yếu."
+        },
+        {
+            "pos": "idiom",
+            "en": "by the bye  By the way; incidentally.",
+            "vi": "tạm biệt Nhân tiện; tình cờ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He'd already said good bye to all of them earlier.",
+            "vi": "Anh ấy đã nói lời tạm biệt với tất cả họ trước đó."
+        },
+        {
+            "en": "\"Bye Mums,\" he said as they turned to go.",
+            "vi": "\"Tạm biệt các mẹ,\" anh nói khi họ quay đi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "từ biệt"
+}

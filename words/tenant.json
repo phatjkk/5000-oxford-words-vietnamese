@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈtɛnənt/"
+    ],
+    "synonyms": [
+        "renter",
+        "owner",
+        "leaseholder",
+        "inhabitant",
+        "resident"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One that pays rent to use or occupy land, a building, or other property owned by another.",
+            "vi": "Một loại trả tiền thuê để sử dụng hoặc chiếm dụng đất, một tòa nhà hoặc tài sản khác thuộc sở hữu của người khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To hold as a tenant or be a tenant.",
+            "vi": "Để nắm giữ với tư cách là người thuê nhà hoặc là người thuê nhà."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If the tenant paid his rent, the landlord could not forbid subletting.",
+            "vi": "Nếu người thuê trả tiền thuê nhà của mình, chủ nhà không thể cấm việc cho thuê lại."
+        },
+        {
+            "en": "\"Tell me about the downstairs tenant in the building, Aaron Levy,\" Fred asked.",
+            "vi": "“Hãy cho tôi biết về người thuê tầng dưới trong tòa nhà, Aaron Levy,” Fred hỏi."
+        }
+    ],
+    "words_form": [
+        "tenants"
+    ],
+    "meaning_vi": "người thuê nhà"
+}

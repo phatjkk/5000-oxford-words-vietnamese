@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/əˈsɪstənt/"
+    ],
+    "synonyms": [
+        "auxiliary",
+        "colleague",
+        "collaborator",
+        "subsidiary",
+        "adjutant"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person who assists or serves in a subordinate position; helper.",
+            "vi": "Một người hỗ trợ hoặc phục vụ ở một vị trí cấp dưới; người giúp đỡ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Having a subordinate or auxiliary position.",
+            "vi": "Có chức vụ cấp dưới hoặc phụ trợ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The assistant asked some further questions.",
+            "vi": "Người trợ lý hỏi thêm một số câu hỏi."
+        },
+        {
+            "en": "She couldn't be late again for her job as an assistant general manager of a fast food joint, or she'd be fired.",
+            "vi": "Cô ấy không thể đến trễ một lần nữa khi làm trợ lý tổng giám đốc của một công ty thức ăn nhanh, nếu không cô ấy sẽ bị sa thải."
+        }
+    ],
+    "words_form": [
+        "assistants"
+    ],
+    "meaning_vi": "phụ tá"
+}

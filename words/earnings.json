@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈərnɪŋz/"
+    ],
+    "synonyms": [
+        "dividends",
+        "profits",
+        "receipts",
+        "income",
+        "pay"
+    ],
+    "meaning": [
+        {
+            "pos": "pluralNoun",
+            "en": "Salary or wages.",
+            "vi": "Tiền lương hoặc tiền công."
+        },
+        {
+            "pos": "noun",
+            "en": "Wages, money earned, income.",
+            "vi": "Tiền lương, tiền kiếm được, thu nhập."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The earnings per train-mile vary greatly; but for all the lines the average is 7s.",
+            "vi": "Thu nhập trên mỗi dặm tàu ​​khác nhau rất nhiều; nhưng đối với tất cả các dòng, trung bình là 7s."
+        },
+        {
+            "en": "In case of injury, involving incapacity for more than, thirteen weeks (for the earlier period the Krankenkassen provide), the weekly sum payable during complete or permanent incapacity is fixed at the ratio of two-thirds of the earnings during the year preceding the accident, and in case of partial disablement, at such a proportion of the earnings as corresponds to the loss through disablement.",
+            "vi": "Trong trường hợp bị thương, liên quan đến mất khả năng lao động trong hơn mười ba tuần (trong khoảng thời gian trước đó Krankenkassen cung cấp), số tiền hàng tuần phải trả khi mất khả năng hoàn toàn hoặc vĩnh viễn được cố định theo tỷ lệ hai phần ba thu nhập trong năm trước khi tai nạn xảy ra. , và trong trường hợp bị vô hiệu hóa một phần, với tỷ lệ thu nhập như vậy tương ứng với tổn thất do vô hiệu hóa."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khoản thu nhập"
+}

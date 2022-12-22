@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/dəˈvərs/",
+        "/daɪˈvərs/"
+    ],
+    "synonyms": [
+        "various",
+        "different",
+        "disparate",
+        "assorted",
+        "unlike"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of diverse is different.",
+            "vi": "Định nghĩa của đa dạng là khác nhau."
+        },
+        {
+            "pos": "adverb",
+            "en": "In different directions; diversely.",
+            "vi": "Theo các hướng khác nhau; đa dạng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Very diverse communities are groups under this class.",
+            "vi": "Các cộng đồng rất đa dạng là các nhóm dưới lớp này."
+        },
+        {
+            "en": "The duties of overseers in London had been performed by most diverse bodies.",
+            "vi": "Nhiệm vụ của các giám thị ở London đã được thực hiện bởi hầu hết các cơ quan khác nhau."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "phong phú"
+}

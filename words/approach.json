@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈproʊtʃ/"
+    ],
+    "synonyms": [
+        "nearing",
+        "strategy",
+        "landing",
+        "passageway",
+        "coming"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To come close to, as in appearance, quality, or condition; approximate.",
+            "vi": "Đến gần, như về ngoại hình, chất lượng hoặc tình trạng; gần đúng."
+        },
+        {
+            "pos": "noun",
+            "en": "The method used in dealing with or accomplishing.",
+            "vi": "Phương pháp được sử dụng để đối phó hoặc hoàn thành."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her plan was to approach the building from the back parking lot.",
+            "vi": "Kế hoạch của cô là tiếp cận tòa nhà từ bãi đậu xe phía sau."
+        },
+        {
+            "en": "Sofia didn't have time to plot how to approach her.",
+            "vi": "Sofia không có thời gian để tìm cách tiếp cận cô ấy."
+        }
+    ],
+    "words_form": [
+        "approached",
+        "approaches",
+        "approaching"
+    ],
+    "meaning_vi": "tiếp cận"
+}

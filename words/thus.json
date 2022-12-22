@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ðəs/"
+    ],
+    "synonyms": [
+        "therefore",
+        "so",
+        "hence",
+        "consequently",
+        "ergo"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Therefore; consequently.",
+            "vi": "Vì vậy; hậu quả là."
+        },
+        {
+            "pos": "noun",
+            "en": "Alternative spelling of thuris.",
+            "vi": "Cách viết khác của thuris."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Thus they stood and waited for what appeared to be the reading of a will.",
+            "vi": "Vì vậy, họ đứng và chờ đợi điều dường như là việc đọc một bản di chúc."
+        },
+        {
+            "en": "He accepted her offer and thus became Under Sheriff of Ouray County, Colorado.",
+            "vi": "Anh chấp nhận lời đề nghị của cô và do đó trở thành Cảnh sát trưởng của Quận Ouray, Colorado."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "do đó"
+}

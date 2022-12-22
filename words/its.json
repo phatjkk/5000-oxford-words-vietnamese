@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/ɪts/"
+    ],
+    "synonyms": [
+        "their",
+        "his/her",
+        "the",
+        "itself",
+        "our"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Its is defined as the possessive form of it, meaning the thing that belongs to “it.”",
+            "vi": "Nó được định nghĩa là dạng sở hữu của nó, nghĩa là thứ thuộc về “nó”."
+        },
+        {
+            "pos": "possessive pronominal adjective",
+            "en": "Of, belonging to, made by, or done by it.",
+            "vi": "Của, thuộc về, được thực hiện bởi hoặc được thực hiện bởi nó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Belonging to it. [from 16th c.]",
+            "vi": "Thuộc về nó. [từ ngày 16 c.]"
+        },
+        {
+            "pos": "noun",
+            "en": "Plural form of it.",
+            "vi": "Dạng số nhiều của nó."
+        },
+        {
+            "pos": "initialism",
+            "en": "(computing) Initialism of issue tracking system.",
+            "vi": "(máy tính) Chủ nghĩa ban đầu của hệ thống theo dõi vấn đề."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He could hear its footsteps.",
+            "vi": "Anh có thể nghe thấy tiếng bước chân của nó."
+        },
+        {
+            "en": "Something was pushing its way through the bushes.",
+            "vi": "Có thứ gì đó đang lao qua bụi cây."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nó là"
+}

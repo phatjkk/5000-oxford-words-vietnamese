@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ɪnˈdʒɛkt/"
+    ],
+    "synonyms": [
+        "shoot",
+        "interpolate",
+        "insert",
+        "inoculate",
+        "throw-in"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To force or drive (a fluid) into something.",
+            "vi": "Để ép hoặc lái (một chất lỏng) vào một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Finally, she was able to inject a few words.",
+            "vi": "Cuối cùng, cô ấy đã có thể tiêm một vài từ."
+        },
+        {
+            "en": "The other bottle's empty.  Did he inject himself?",
+            "vi": "Chai kia đã cạn. Anh ấy đã tự tiêm cho mình?"
+        }
+    ],
+    "words_form": [
+        "injected",
+        "injecting",
+        "injects"
+    ],
+    "meaning_vi": "tiêm"
+}

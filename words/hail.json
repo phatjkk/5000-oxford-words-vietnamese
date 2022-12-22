@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/heɪl/"
+    ],
+    "synonyms": [
+        "sleet",
+        "praise",
+        "greeting",
+        "ice",
+        "rain"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Hail is defined as to cheer or greet with respect.",
+            "vi": "Hail được định nghĩa là để cổ vũ hoặc chào đón bằng sự tôn trọng."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of greeting or acclaiming.",
+            "vi": "Hành động chào hỏi hoặc tung hô."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express a greeting or tribute.",
+            "vi": "Được sử dụng để bày tỏ một lời chào hoặc sự tôn vinh."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Healthy, whole, safe.",
+            "vi": "(lỗi thời) Khỏe mạnh, toàn bộ, an toàn."
+        },
+        {
+            "pos": "idiom",
+            "en": "hail fellow well met  very sociable or friendly to everyone, esp. in a superficial manner",
+            "vi": "Chào mừng bạn gặp rất tốt rất hòa đồng và thân thiện với tất cả mọi người, đặc biệt. một cách hời hợt"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She dropped to the sand as a hail of bullets whistled above her head.",
+            "vi": "Cô ngã xuống cát khi một trận mưa đạn xẹt qua đầu cô."
+        },
+        {
+            "en": "I had hail damage to my car as well.",
+            "vi": "Tôi cũng bị mưa đá làm hỏng xe."
+        }
+    ],
+    "words_form": [
+        "hailed",
+        "hailing",
+        "hails"
+    ],
+    "meaning_vi": "kêu"
+}

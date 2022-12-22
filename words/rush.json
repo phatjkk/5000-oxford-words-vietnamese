@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/rəʃ/"
+    ],
+    "synonyms": [
+        "hurry",
+        "charge",
+        "haste",
+        "race",
+        "impetuous"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Rush is defined as to suddenly move quickly or to hurry.",
+            "vi": "Rush được định nghĩa là đột ngột di chuyển nhanh chóng hoặc nhanh chóng."
+        },
+        {
+            "pos": "noun",
+            "en": "The stem of one of these plants, used in making baskets, mats, and chair seats.",
+            "vi": "Thân của một trong những loại cây này, được sử dụng để làm giỏ, chiếu và ghế tựa."
+        },
+        {
+            "pos": "adjective",
+            "en": "Performed with or requiring great haste or urgency.",
+            "vi": "Được thực hiện với hoặc yêu cầu rất vội vàng hoặc khẩn cấp."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1745-1813; Am. physician: signer of the Declaration of Independence.",
+            "vi": "(người) 1745-1813; Là. thầy thuốc: người ký Tuyên ngôn Độc lập."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(computing) A dialect of the language PL/1.",
+            "vi": "(máy tính) Một phương ngữ của ngôn ngữ PL / 1."
+        },
+        {
+            "pos": "idiom",
+            "en": "with a rush  suddenly and forcefully",
+            "vi": "với một sự vội vã đột ngột và mạnh mẽ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Well, don't rush things.",
+            "vi": "Đừng vội vàng."
+        },
+        {
+            "en": "She braced herself, expecting to feel some sort of rush of energy, like she did when she touched Jule.",
+            "vi": "Cô chuẩn bị tinh thần, mong đợi sẽ cảm thấy một luồng năng lượng nào đó, giống như khi cô chạm vào Jule."
+        }
+    ],
+    "words_form": [
+        "rushed",
+        "rushes",
+        "rushing"
+    ],
+    "meaning_vi": "vội vàng"
+}

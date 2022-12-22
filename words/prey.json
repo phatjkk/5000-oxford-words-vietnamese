@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/preɪ/"
+    ],
+    "synonyms": [
+        "victim",
+        "food",
+        "hunter",
+        "game",
+        "feed"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Prey is a person or animal that falls victim to another or an animal that lives off of other animals.",
+            "vi": "Con mồi là người hoặc động vật trở thành nạn nhân của động vật khác hoặc động vật sống nhờ các động vật khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To victimize or make a profit at someone else's expense.",
+            "vi": "Để trở thành nạn nhân hoặc kiếm lợi nhuận bằng chi phí của người khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The town had become a prey to anarchy.",
+            "vi": "Thị trấn đã trở thành một miếng mồi cho tình trạng vô chính phủ."
+        },
+        {
+            "en": "Dean felt it might be better if she talked instead of letting the silence and the upcoming events prey on her mind.",
+            "vi": "Dean cảm thấy sẽ tốt hơn nếu cô ấy nói chuyện thay vì để sự im lặng và những sự kiện sắp tới rình rập tâm trí cô ấy."
+        }
+    ],
+    "words_form": [
+        "preyed",
+        "preying",
+        "preys"
+    ],
+    "meaning_vi": "con mồi"
+}

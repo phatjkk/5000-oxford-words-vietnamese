@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/stæb/"
+    ],
+    "synonyms": [
+        "attack",
+        "hurt",
+        "cut",
+        "hit",
+        "knife"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To pierce or wound with or as if with a pointed weapon.",
+            "vi": "Để đâm hoặc làm vết thương bằng hoặc như thể với một vũ khí nhọn."
+        },
+        {
+            "pos": "noun",
+            "en": "A thrust with a pointed weapon or instrument.",
+            "vi": "Một lực đẩy bằng vũ khí hoặc dụng cụ nhọn."
+        },
+        {
+            "pos": "idiom",
+            "en": "stab (someone) in the back  To harm (someone) by treachery or betrayal of trust.",
+            "vi": "đâm sau lưng (ai đó) Để làm hại (ai đó) bằng cách bội bạc hoặc phản bội lòng tin."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "One minute they're all sweet and caring and the next they stab you in the back.",
+            "vi": "Một phút họ đều ngọt ngào và quan tâm và phút tiếp theo họ đâm sau lưng bạn."
+        },
+        {
+            "en": "I wouldn't even take a stab at it.",
+            "vi": "Tôi thậm chí sẽ không đâm đầu vào nó."
+        }
+    ],
+    "words_form": [
+        "stabbed",
+        "stabbing",
+        "stabs"
+    ],
+    "meaning_vi": "cú đâm"
+}

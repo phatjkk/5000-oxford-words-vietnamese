@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/hɛns/"
+    ],
+    "synonyms": [
+        "therefore",
+        "so",
+        "accordingly",
+        "consequently",
+        "henceforth"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Hence is defined as from this place, this time, from this life or for this reason.",
+            "vi": "Do đó được định nghĩa là từ nơi này, thời gian này, từ cuộc sống này hoặc vì lý do này."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To send away.",
+            "vi": "(lỗi thời) Để gửi đi."
+        },
+        {
+            "pos": "interjection",
+            "en": "(archaic) Leave; go away.",
+            "vi": "(cổ xưa) Để lại; biến đi."
+        },
+        {
+            "pos": "idiom",
+            "en": "hence with!  away with!",
+            "vi": "do đó với! đi với!"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The roads were covered in ice; hence it was not safe to drive.",
+            "vi": "Những con đường bị bao phủ trong băng; do đó không an toàn khi lái xe."
+        },
+        {
+            "en": "The customer was displeased with her meal, hence the chef prepared a replacement.",
+            "vi": "Khách hàng không hài lòng với bữa ăn của cô, do đó đầu bếp đã chuẩn bị một món ăn thay thế."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "vì thế"
+}

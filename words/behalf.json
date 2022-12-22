@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/bəˈhæf/"
+    ],
+    "synonyms": [
+        "sake",
+        "derogation",
+        "detraction",
+        "welfare",
+        "side"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Interest, support, or benefit.",
+            "vi": "Lãi suất, hỗ trợ hoặc lợi ích."
+        },
+        {
+            "pos": "idiom",
+            "en": "on  As the agent of; on the part of. For the benefit of; in the interest of.",
+            "vi": "trên Với tư cách là đại lý của; về một phần của. Vì lợi ích của; vì lợi ích của."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm calling on behalf of Tim.",
+            "vi": "Tôi đang gọi cho Tim."
+        },
+        {
+            "en": "On behalf of the whole family I beg you to come, mon cher!",
+            "vi": "Thay mặt cả nhà, tôi cầu xin bạn hãy đến, mon cher!"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thay mặt"
+}

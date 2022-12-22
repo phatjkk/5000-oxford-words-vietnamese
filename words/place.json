@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pleɪs/"
+    ],
+    "synonyms": [
+        "area",
+        "place",
+        "point",
+        "community",
+        "locality"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Place is defined as a particular location or space or the particular area normally occupied by something.",
+            "vi": "Địa điểm được định nghĩa là một vị trí hoặc không gian cụ thể hoặc khu vực cụ thể thường có thứ gì đó chiếm giữ."
+        },
+        {
+            "pos": "verb",
+            "en": "To put in or as if in a particular place or position; set.",
+            "vi": "Để đưa vào hoặc như thể ở một nơi hoặc vị trí cụ thể; bộ."
+        },
+        {
+            "pos": "idiom",
+            "en": "all over the place  In or to many locations; everywhere: Film is sold all over the place.",
+            "vi": "ở khắp nơi Ở hoặc đến nhiều địa điểm; ở khắp mọi nơi: Phim được bán khắp nơi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In the first place, he didn't consider this home.",
+            "vi": "Ngay từ đầu, anh đã không coi đây là nhà."
+        },
+        {
+            "en": "She returned to her place at the table.",
+            "vi": "Cô quay trở lại vị trí của mình tại bàn."
+        }
+    ],
+    "words_form": [
+        "placed",
+        "places",
+        "placing"
+    ],
+    "meaning_vi": "địa điểm"
+}

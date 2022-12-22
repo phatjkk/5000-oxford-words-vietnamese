@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈɡrinˌhaʊs/"
+    ],
+    "synonyms": [
+        "arboretum",
+        "glasshouse",
+        "conservatory",
+        "hothouse",
+        "nursery"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A building traditionally made of glass, but now also made from plastics such as polyethylene, in which plants are grown more rapidly than outside such a building by the action of heat from the sun, this heat being trapped inside by the glass or plastic.",
+            "vi": "Một tòa nhà truyền thống được làm bằng kính, nhưng giờ đây cũng được làm từ chất dẻo như polyethylene, trong đó cây cối được trồng nhanh hơn bên ngoài một tòa nhà do tác động của nhiệt từ mặt trời, nhiệt này bị thủy tinh hoặc nhựa giữ lại bên trong."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or contributing to the greenhouse effect.",
+            "vi": "Của hoặc góp phần vào hiệu ứng nhà kính."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Many other species from different parts of the world are known in greenhouse cultivation.",
+            "vi": "Nhiều loài khác từ các vùng khác nhau trên thế giới được biết đến trong việc canh tác trong nhà kính."
+        },
+        {
+            "en": "The atmosphere of the greenhouse must be kept moist.",
+            "vi": "Bầu không khí của nhà kính phải được giữ ẩm."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nhà kính"
+}

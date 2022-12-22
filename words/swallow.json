@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈswɑloʊ/"
+    ],
+    "synonyms": [
+        "gulp",
+        "eat",
+        "abide",
+        "bolt",
+        "swig"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a swallow is a small insect-eating bird with a forked tail and long, pointed wings.",
+            "vi": "Định nghĩa về chim én là một loài chim ăn côn trùng nhỏ với chiếc đuôi chẻ đôi và đôi cánh dài, nhọn."
+        },
+        {
+            "pos": "verb",
+            "en": "To put up with (something unpleasant).",
+            "vi": "Để giải quyết (điều gì đó khó chịu)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She tried to swallow the lump that insisted on staying in her throat.",
+            "vi": "Cô cố gắng nuốt cái cục cứ đòi ở trong cổ họng."
+        },
+        {
+            "en": "Pete took a swallow of his coffee.",
+            "vi": "Pete uống một ngụm cà phê."
+        }
+    ],
+    "words_form": [
+        "swallowed",
+        "swallowing",
+        "swallows"
+    ],
+    "meaning_vi": "nuốt"
+}

@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/dəˈrɛkt/",
+        "/daɪˈrɛkt/"
+    ],
+    "synonyms": [
+        "straight-ahead",
+        "right",
+        "through",
+        "uninterrupted",
+        "guide"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To give commands or directions.",
+            "vi": "Để đưa ra các lệnh hoặc chỉ đường."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a direct manner; directly.",
+            "vi": "Theo cách trực tiếp; trực tiếp."
+        },
+        {
+            "pos": "adjective",
+            "en": "Immediate; express; plain; unambiguous.",
+            "vi": "Ngay tức khắc; thể hiện; trơn; rõ ràng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Finally she ducked her head and came to the direct point.",
+            "vi": "Cuối cùng cô ấy cúi đầu và đi đến điểm trực tiếp."
+        },
+        {
+            "en": "The underworld doesn't have direct sunlight.",
+            "vi": "Âm phủ không có ánh sáng mặt trời trực tiếp."
+        }
+    ],
+    "words_form": [
+        "directed",
+        "directing",
+        "directs"
+    ],
+    "meaning_vi": "thẳng thắn"
+}

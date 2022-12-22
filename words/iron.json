@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈaɪ(ə)rn/"
+    ],
+    "synonyms": [
+        "ferruginous",
+        "metallurgy",
+        "ironclad",
+        "strong",
+        "ferrous"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A metal appliance with a handle and a weighted flat bottom, used when heated to press wrinkles from fabric.",
+            "vi": "Một thiết bị kim loại có tay cầm và đáy phẳng có trọng lượng, được sử dụng khi được làm nóng để ép các nếp nhăn khỏi vải."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of iron is something that is strong and enduring.",
+            "vi": "Định nghĩa của sắt là một cái gì đó mạnh mẽ và bền bỉ."
+        },
+        {
+            "pos": "verb",
+            "en": "To iron is defined as to press something flat using a heated, heavy tool.",
+            "vi": "Bàn là được định nghĩa là để ép một vật gì đó phẳng bằng một dụng cụ nặng, được nung nóng."
+        },
+        {
+            "pos": "idiom",
+            "en": "(nautical) in irons  Lying head to the wind and unable to turn either way.",
+            "vi": "(hải lý) trong bàn là Nằm đối đầu với gió và không thể quay đầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "From a bar of iron he made four horseshoes.",
+            "vi": "Từ một thanh sắt, ông đã làm ra bốn chiếc móng ngựa."
+        },
+        {
+            "en": "Her hand fell from the lever that opened the heavy iron door.",
+            "vi": "Tay cô rơi khỏi đòn bẩy mở cánh cửa sắt nặng nề."
+        }
+    ],
+    "words_form": [
+        "ironed",
+        "ironing",
+        "irons"
+    ],
+    "meaning_vi": "bàn là"
+}

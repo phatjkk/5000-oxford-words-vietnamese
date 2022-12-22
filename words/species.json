@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/ˈspisiz/",
+        "/ˈspiʃiz/"
+    ],
+    "synonyms": [
+        "variety",
+        "category",
+        "breed",
+        "order",
+        "class"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a species is a group of animals, plants or other living things that all share common characteristics and that are all classified as alike in some manner.",
+            "vi": "Định nghĩa về loài là một nhóm động vật, thực vật hoặc các sinh vật sống khác đều có chung các đặc điểm và được phân loại là giống nhau theo một cách nào đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "the species  the human race",
+            "vi": "loài người"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Most of the known rhino species are West African.",
+            "vi": "Hầu hết các loài tê giác được biết đến là Tây Phi."
+        },
+        {
+            "en": "Buffalo are a different species – like the water buffalo.",
+            "vi": "Trâu là một loài khác - giống như trâu nước."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "loài"
+}

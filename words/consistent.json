@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/kənˈsɪstənt/"
+    ],
+    "synonyms": [
+        "constant",
+        "agree",
+        "inconsistent",
+        "faithful",
+        "invariable"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of consistent is something that is reliable or in agreement.",
+            "vi": "Định nghĩa của nhất quán là một cái gì đó đáng tin cậy hoặc thống nhất."
+        },
+        {
+            "pos": "noun",
+            "en": "(in the plural, rare) Objects or facts that are coexistent, or in agreement with one another.",
+            "vi": "(ở số nhiều, hiếm) Đối tượng hoặc dữ kiện cùng tồn tại hoặc thống nhất với nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her speed was consistent, her destination clear.",
+            "vi": "Tốc độ của cô ấy ổn định, đích đến của cô ấy rõ ràng."
+        },
+        {
+            "en": "This viewpoint seems reasonable because it is largely consistent with our everyday experience of life.",
+            "vi": "Quan điểm này có vẻ hợp lý vì nó phần lớn phù hợp với kinh nghiệm hàng ngày của chúng ta trong cuộc sống."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thích hợp"
+}

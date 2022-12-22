@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈnoʊbəl/"
+    ],
+    "synonyms": [
+        "magnanimous",
+        "lionhearted",
+        "charitable",
+        "supreme",
+        "respectable"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of noble is someone who has high morals and ideals or people who are royalty or who have good breeding.",
+            "vi": "Định nghĩa cao quý là người có đạo đức và lý tưởng cao hoặc người thuộc hoàng tộc hoặc người chăn nuôi tốt."
+        },
+        {
+            "pos": "noun",
+            "en": "A member of the nobility.",
+            "vi": "Một thành viên của giới quý tộc."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His name is remembered in our country as that of a brave and noble man.",
+            "vi": "Tên của ông được ghi nhớ ở đất nước chúng tôi như là một người đàn ông dũng cảm và cao quý."
+        },
+        {
+            "en": "That is very noble of you.",
+            "vi": "Đó là điều rất cao quý của bạn."
+        }
+    ],
+    "words_form": [
+        "nobler",
+        "nobles",
+        "noblest"
+    ],
+    "meaning_vi": "cao quý"
+}

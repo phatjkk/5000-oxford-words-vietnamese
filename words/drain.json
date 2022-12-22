@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dreɪn/"
+    ],
+    "synonyms": [
+        "empty",
+        "run out",
+        "sewer",
+        "channel",
+        "exhaustion"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To become gradually depleted; dwindle.",
+            "vi": "Trở nên cạn kiệt dần dần; nhỏ dần."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or process of draining.",
+            "vi": "Hành động hoặc quá trình thoát nước."
+        },
+        {
+            "pos": "idiom",
+            "en": "down the drain  To or into the condition of being wasted or lost: All of our best laid plans are down the drain.",
+            "vi": "xuống cống Đến hoặc rơi vào tình trạng bị lãng phí hoặc bị mất: Tất cả các kế hoạch được bố trí tốt nhất của chúng tôi là xuống cống."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She could feel the blood drain from her face.",
+            "vi": "Cô có thể cảm thấy máu chảy ra từ mặt mình."
+        },
+        {
+            "en": "Want me to drain the lake?",
+            "vi": "Muốn tôi thoát nước hồ?"
+        }
+    ],
+    "words_form": [
+        "drained",
+        "draining",
+        "drains"
+    ],
+    "meaning_vi": "cống"
+}

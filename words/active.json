@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈæktɪv/"
+    ],
+    "synonyms": [
+        "working",
+        "vigorous",
+        "peppy",
+        "functioning",
+        "enlivened"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Causing action, motion, or change.",
+            "vi": "Gây ra hành động, chuyển động hoặc thay đổi."
+        },
+        {
+            "pos": "noun",
+            "en": "A participating member of an organization.",
+            "vi": "Một thành viên tham gia của một tổ chức."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's still active but it goes to voice mail.",
+            "vi": "Nó vẫn hoạt động nhưng nó chuyển sang hộp thư thoại."
+        },
+        {
+            "en": "There's an active cult in the area.",
+            "vi": "Có một giáo phái đang hoạt động trong khu vực."
+        }
+    ],
+    "words_form": [
+        "actives"
+    ],
+    "meaning_vi": "hoạt động"
+}

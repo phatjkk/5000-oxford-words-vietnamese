@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˈsaɪnmənt/"
+    ],
+    "synonyms": [
+        "allotment",
+        "task",
+        "homework",
+        "appointment",
+        "designation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something, such as a task, that is assigned.",
+            "vi": "Một cái gì đó, chẳng hạn như một nhiệm vụ, được giao."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Ikir sent me on assignment to spy on him.",
+            "vi": "Ikir cử tôi đi theo dõi anh ta."
+        },
+        {
+            "en": "Darian hoped his excitement at the assignment didn't show.",
+            "vi": "Darian hy vọng rằng sự phấn khích của anh ấy đối với nhiệm vụ không thể hiện."
+        }
+    ],
+    "words_form": [
+        "assignments"
+    ],
+    "meaning_vi": "phân công"
+}

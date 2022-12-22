@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/tɔl/"
+    ],
+    "synonyms": [
+        "towering",
+        "grandiloquent",
+        "high",
+        "marvellous",
+        "unbelievable"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of tall is more than average height or stature, or something that is hard to believe.",
+            "vi": "Định nghĩa về chiều cao là hơn chiều cao hoặc tầm vóc trung bình, hoặc một điều gì đó khó tin."
+        },
+        {
+            "pos": "adverb",
+            "en": "Tall is defined as in a dignified manner.",
+            "vi": "Cao được định nghĩa là một cách trang nghiêm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The two tall peasants had their say.",
+            "vi": "Hai người nông dân cao đã có tiếng nói của họ."
+        },
+        {
+            "en": "He looked so tall, standing over her that way.",
+            "vi": "Anh ấy trông rất cao, đứng trên cô ấy theo cách đó."
+        }
+    ],
+    "words_form": [
+        "taller",
+        "tallest"
+    ],
+    "meaning_vi": "cao"
+}

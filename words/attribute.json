@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈtrɪˌbjut/"
+    ],
+    "synonyms": [
+        "ascribe",
+        "blame",
+        "refer",
+        "trait",
+        "cachet"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of attribute is to explain something by telling the cause or origin.",
+            "vi": "Định nghĩa của thuộc tính là giải thích điều gì đó bằng cách cho biết nguyên nhân hoặc nguồn gốc."
+        },
+        {
+            "pos": "noun",
+            "en": "Attribute is defined as a quality or characteristic of a person, place or thing.",
+            "vi": "Thuộc tính được định nghĩa là chất lượng hoặc đặc điểm của một người, địa điểm hoặc sự vật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His usual attribute is the bow.",
+            "vi": "Thuộc tính thông thường của anh ta là cây cung."
+        },
+        {
+            "en": "To attribute blame for some past disaster is rarely useful.",
+            "vi": "Việc đổ lỗi cho một số thảm họa trong quá khứ hiếm khi hữu ích."
+        }
+    ],
+    "words_form": [
+        "attributed",
+        "attributes",
+        "attributing"
+    ],
+    "meaning_vi": "thuộc tính"
+}

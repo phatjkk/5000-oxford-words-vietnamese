@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/ɑrt/"
+    ],
+    "synonyms": [
+        "artistry",
+        "design",
+        "artifice",
+        "adroitness",
+        "abstraction"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A skill that is attained by study, practice, or observation.",
+            "vi": "Một kỹ năng có được nhờ học tập, thực hành hoặc quan sát."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Article.",
+            "vi": "Bài báo."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or for works of art or artists.",
+            "vi": "Của hoặc cho các tác phẩm nghệ thuật hoặc nghệ sĩ."
+        },
+        {
+            "pos": "verb",
+            "en": "Be.",
+            "vi": "Thì là ở."
+        },
+        {
+            "pos": "affix",
+            "en": "-ard.",
+            "vi": "-bạc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Last week I visited a beautiful art store.",
+            "vi": "Tuần trước tôi đã đến thăm một cửa hàng nghệ thuật tuyệt đẹp."
+        },
+        {
+            "en": "Yes, we are a long line of art lovers.",
+            "vi": "Vâng, chúng tôi là một hàng dài những người yêu nghệ thuật."
+        }
+    ],
+    "words_form": [
+        "arts"
+    ],
+    "meaning_vi": "nghệ thuật"
+}

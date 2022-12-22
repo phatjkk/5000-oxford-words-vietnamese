@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˌɪkˈspɪriəns/"
+    ],
+    "synonyms": [
+        "involvement",
+        "expertise",
+        "participation",
+        "adventure",
+        "wisdom"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of experience is to have something happen.",
+            "vi": "Định nghĩa của kinh nghiệm là có một cái gì đó xảy ra."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of living through an event or events; personal involvement in or observation of events as they occur.",
+            "vi": "Hành động sống thông qua một sự kiện hoặc các sự kiện; sự tham gia của cá nhân vào hoặc quan sát các sự kiện khi chúng xảy ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He has a lot of experience in these matters.",
+            "vi": "Anh ấy có rất nhiều kinh nghiệm trong những vấn đề này."
+        },
+        {
+            "en": "She had no such experience or excuse.",
+            "vi": "Cô không có kinh nghiệm hay lời bào chữa nào như vậy."
+        }
+    ],
+    "words_form": [
+        "experienced",
+        "experiences",
+        "experiencing"
+    ],
+    "meaning_vi": "kinh nghiệm"
+}

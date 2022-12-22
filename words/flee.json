@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/fli/"
+    ],
+    "synonyms": [
+        "escape",
+        "run away",
+        "leave",
+        "depart",
+        "evade"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To pass away swiftly; vanish.",
+            "vi": "Ra đi nhanh chóng; tan biến."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Darian didn't flee, but suddenly, Jenn wanted to.",
+            "vi": "Darian không chạy trốn, nhưng đột nhiên, Jenn muốn."
+        },
+        {
+            "en": "If someone was able to track her, she needed to flee, fast.",
+            "vi": "Nếu ai đó có thể theo dõi cô ấy, cô ấy cần phải chạy trốn, nhanh chóng."
+        }
+    ],
+    "words_form": [
+        "fled",
+        "fleeing",
+        "flees"
+    ],
+    "meaning_vi": "chạy trốn"
+}

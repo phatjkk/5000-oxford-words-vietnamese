@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈpæsɪdʒ/"
+    ],
+    "synonyms": [
+        "reading",
+        "hall",
+        "change",
+        "crossing",
+        "transit"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A way or means of passing.  A road or path. A channel, duct, etc. A hall or corridor that is an entrance or exit or onto which several rooms open; passageway.",
+            "vi": "Một con đường hoặc phương tiện vượt qua. Một con đường hoặc lối đi. Kênh, ống dẫn, v.v. Một sảnh hoặc hành lang là lối vào hoặc lối ra hoặc một số phòng mở ra; lối đi."
+        },
+        {
+            "pos": "verb",
+            "en": "To make a passage, or voyage; journey.",
+            "vi": "Để thực hiện một hành trình, hoặc chuyến đi; hành trình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The passage of time will grow the repository.",
+            "vi": "Thời gian trôi qua sẽ phát triển kho lưu trữ."
+        },
+        {
+            "en": "Jim hastened his lagging steps at this assurance of a quick relief from the dark passage.",
+            "vi": "Jim đẩy nhanh những bước đang bị tụt lùi của mình với sự đảm bảo sẽ nhanh chóng thoát khỏi lối đi tối tăm."
+        }
+    ],
+    "words_form": [
+        "passaged",
+        "passages",
+        "passaging"
+    ],
+    "meaning_vi": "đoạn văn"
+}

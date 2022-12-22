@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈprɛɡnənt/"
+    ],
+    "synonyms": [
+        "with-child",
+        "gravid",
+        "consequential",
+        "fruitful",
+        "expecting"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Producing results; fruitful.",
+            "vi": "Sản xuất kết quả; có kết quả."
+        },
+        {
+            "pos": "noun",
+            "en": "A pregnant woman.",
+            "vi": "Một phụ nữ có thai."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(carrying developing offspring): in trouble.",
+            "vi": "(mang con đang phát triển): gặp khó khăn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If I could get you pregnant, we wouldn't be having this conversation right now.",
+            "vi": "Nếu tôi có thể làm cho bạn có thai, chúng ta sẽ không có cuộc nói chuyện này ngay bây giờ."
+        },
+        {
+            "en": "For the first time the memory of how he reacted when she told him she was pregnant wasn't a painful one.",
+            "vi": "Lần đầu tiên ký ức về cách anh phản ứng khi cô nói với anh rằng cô có thai không phải là một điều đau đớn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "có thai"
+}

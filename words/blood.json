@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/bləd/"
+    ],
+    "synonyms": [
+        "kin",
+        "homicide",
+        "ancestry",
+        "lineage",
+        "vitality"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of blood is the fluid that carries oxygen and other elements to the tissues and carbon dioxide away from the tissues through the heart and vascular system of humans and other animals.",
+            "vi": "Định nghĩa máu là chất lỏng mang ôxy và các yếu tố khác đến các mô và khí cacbonic đi khỏi các mô thông qua tim và hệ thống mạch máu của con người và các động vật khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To initiate (a person) in any new experience.",
+            "vi": "Để bắt đầu (một người) trong bất kỳ trải nghiệm mới nào."
+        },
+        {
+            "pos": "idiom",
+            "en": "bad blood  Long-standing animosity.",
+            "vi": "máu xấu Sự thù hận lâu đời."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Blood raced up her neck to warm her cheeks.",
+            "vi": "Máu trào lên cổ làm ấm má cô."
+        },
+        {
+            "en": "The sight of her bruised cheek made his blood boil.",
+            "vi": "Cảnh má bầm dập của cô khiến máu anh sôi lên."
+        }
+    ],
+    "words_form": [
+        "bloods"
+    ],
+    "meaning_vi": "máu"
+}

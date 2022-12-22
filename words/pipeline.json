@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈpaɪpˌlaɪn/"
+    ],
+    "synonyms": [
+        "line",
+        "grapevine",
+        "word-of-mouth",
+        "refinery",
+        "oilfield"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a pipeline is a line of pipes, or a channel or method to carry something from one place to another.",
+            "vi": "Định nghĩa về đường ống là một đường ống, hoặc một kênh hoặc phương pháp để vận chuyển một thứ gì đó từ nơi này đến nơi khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To lay a system of pipes through.",
+            "vi": "Để đặt một hệ thống đường ống xuyên qua."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The father decides to build a pipeline to bring fresh water to their rustic home.",
+            "vi": "Người cha quyết định xây dựng một đường ống dẫn nước ngọt đến ngôi nhà mộc mạc của họ."
+        },
+        {
+            "en": "An accident on the same Pipeline waters not long after the competition cost Johnson his two front teeth and landed him in the hospital needing 150 stitches.",
+            "vi": "Một tai nạn trên cùng một vùng nước Pipeline không lâu sau cuộc thi khiến Johnson phải mất hai chiếc răng cửa và phải nhập viện khâu 150 mũi."
+        }
+    ],
+    "words_form": [
+        "pipelined",
+        "pipelines",
+        "pipelining"
+    ],
+    "meaning_vi": "đường ống"
+}

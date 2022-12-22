@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/ti/"
+    ],
+    "synonyms": [
+        "beverage",
+        "marijuana",
+        "cha",
+        "infusion",
+        "drink"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(countable) A variety of the tea plant.",
+            "vi": "(đếm được) Nhiều loại cây chè."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating a family (Theaceae, order Theales) of evergreen dicotyledonous trees, shrubs, or vines, often with showy flowers, found in warm regions and including the camellias and loblolly bay.",
+            "vi": "Chỉ định một họ (Theaceae, thứ tự Theales) gồm cây hai lá mầm, cây bụi hoặc dây leo thường xanh, thường có hoa sặc sỡ, được tìm thấy ở các vùng ấm áp và bao gồm cả hoa trà và vịnh loblolly."
+        },
+        {
+            "pos": "verb",
+            "en": "To drink tea.",
+            "vi": "Uống trà."
+        },
+        {
+            "pos": "anagrams",
+            "en": "A.e.t., ate, eat, ETA, eta.",
+            "vi": "Aet, ăn, ăn, ETA, eta."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A city in South Dakota.",
+            "vi": "Một thành phố ở Nam Dakota."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He drank hot tea from a glass.",
+            "vi": "Anh uống trà nóng từ một chiếc ly."
+        },
+        {
+            "en": "Do you want to come by for tea and cookies?",
+            "vi": "Bạn có muốn ghé qua để thưởng thức trà và bánh quy không?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "trà"
+}

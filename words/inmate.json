@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈɪnˌmeɪt/"
+    ],
+    "synonyms": [
+        "patient",
+        "convict",
+        "internee",
+        "prisoner",
+        "con"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person confined in a prison or mental institution.",
+            "vi": "Một người bị giam trong nhà tù hoặc trại tâm thần."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "At the request of the abbess he became an inmate of the monastery.",
+            "vi": "Theo yêu cầu của viện trưởng, anh ta trở thành một tù nhân của tu viện."
+        },
+        {
+            "en": "He shot lightning at her that bounced off and hit an inmate.",
+            "vi": "Anh ta bắn tia sét về phía cô làm cô ta bật ra và trúng một tù nhân."
+        }
+    ],
+    "words_form": [
+        "inmates"
+    ],
+    "meaning_vi": "tù nhân"
+}

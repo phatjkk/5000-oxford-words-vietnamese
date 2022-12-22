@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ðɛm/",
+        "/ðəm/"
+    ],
+    "synonyms": [
+        "oneself",
+        "someone",
+        "be",
+        "i",
+        "us"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Them is defined as they.",
+            "vi": "Chúng được định nghĩa là chúng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Those.",
+            "vi": "Những thứ kia."
+        },
+        {
+            "pos": "determiner",
+            "en": "(dialectal) Those.",
+            "vi": "(phương ngữ) Những."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We'll take care of them together.",
+            "vi": "Chúng ta sẽ cùng nhau chăm sóc chúng."
+        },
+        {
+            "en": "After lunch, all four of them went outside to play ball.",
+            "vi": "Sau khi ăn trưa, cả bốn người họ ra ngoài chơi bóng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chúng"
+}

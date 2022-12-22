@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/ˈæv(ə)rɪdʒ/"
+    ],
+    "synonyms": [
+        "ordinary",
+        "common",
+        "acceptable",
+        "median",
+        "adequate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Average is defined as a value found by adding all of the numbers in a set together and then dividing them by the quantity of numbers in the set.",
+            "vi": "Trung bình được định nghĩa là một giá trị được tìm thấy bằng cách cộng tất cả các số trong một tập hợp với nhau và sau đó chia chúng cho số lượng các số trong tập hợp đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of average is typical or common.",
+            "vi": "Định nghĩa của trung bình là điển hình hoặc phổ biến."
+        },
+        {
+            "pos": "verb",
+            "en": "To invest, as in shares of stock, fixed amounts of money at regular intervals so as to buy more at lower prices and less at higher prices.",
+            "vi": "Đầu tư, giống như cổ phiếu cổ phiếu, các khoản tiền cố định đều đặn để mua nhiều hơn với giá thấp hơn và ít hơn với giá cao hơn."
+        },
+        {
+            "pos": "idiom",
+            "en": "average out  to arrive at an average eventually",
+            "vi": "trung bình ra để đến trung bình cuối cùng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Our kind tend to live much longer than the average human.",
+            "vi": "Đồng loại của chúng ta có xu hướng sống lâu hơn nhiều so với người bình thường."
+        },
+        {
+            "en": "She was of above average height with long, dark blonde curls loosely captured at her neck.",
+            "vi": "Cô ấy có chiều cao trên mức trung bình với những lọn tóc dài màu vàng sẫm được buộc hờ hững ở cổ."
+        }
+    ],
+    "words_form": [
+        "ave",
+        "averaged",
+        "averages",
+        "averaging"
+    ],
+    "meaning_vi": "trung bình cộng"
+}

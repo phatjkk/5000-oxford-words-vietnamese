@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈivnɪŋ/"
+    ],
+    "synonyms": [
+        "dusk",
+        "bedtime",
+        "crepuscle",
+        "morning",
+        "eve"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The period of decreasing daylight between afternoon and night.",
+            "vi": "Khoảng thời gian giảm dần ánh sáng ban ngày giữa buổi chiều và đêm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, in, or for the evening.",
+            "vi": "Của, trong, hoặc cho buổi tối."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of even.",
+            "vi": "Hiện tại phân từ của chẵn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That evening all the women got together to wrap gifts.",
+            "vi": "Tối hôm đó tất cả phụ nữ rủ nhau gói quà."
+        },
+        {
+            "en": "I guess the evening was a little cold?",
+            "vi": "Tôi đoán buổi tối hơi lạnh?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "buổi tối"
+}

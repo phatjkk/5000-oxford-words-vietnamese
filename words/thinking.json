@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈθɪŋkɪŋ/"
+    ],
+    "synonyms": [
+        "pensive",
+        "reasoning",
+        "meditative",
+        "ruminating",
+        "reasonable"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Thinking is thought or reasoning.",
+            "vi": "Suy nghĩ là suy nghĩ hoặc suy luận."
+        },
+        {
+            "pos": "adjective",
+            "en": "Characterized by thought or thoughtfulness; rational.",
+            "vi": "Đặc trưng bởi sự chu đáo hoặc chu đáo; hợp lý."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of think.",
+            "vi": "Hiện tại phân từ suy nghĩ."
+        },
+        {
+            "pos": "idiom",
+            "en": "put on one's thinking cap  to begin careful thinking about a problem",
+            "vi": "đặt lên đầu tư duy của một người để bắt đầu suy nghĩ cẩn thận về một vấn đề"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They sat silently thinking for a time.",
+            "vi": "Họ ngồi im lặng suy nghĩ một lúc."
+        },
+        {
+            "en": "Nothing. I was just thinking about technology.",
+            "vi": "Không. Tôi chỉ đang nghĩ về công nghệ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tư duy"
+}

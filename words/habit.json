@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈhæbət/"
+    ],
+    "synonyms": [
+        "way",
+        "manner",
+        "turn",
+        "mode",
+        "rote"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of habit is something that you do regularly, or an addiction.",
+            "vi": "Định nghĩa về thói quen là thứ mà bạn làm thường xuyên, hay còn gọi là nghiện."
+        },
+        {
+            "pos": "verb",
+            "en": "To clothe in a habit, especially a nun's habit.",
+            "vi": "Mặc quần áo theo thói quen, đặc biệt là thói quen của nữ tu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They had a habit of disappearing.",
+            "vi": "Họ đã có một thói quen biến mất."
+        },
+        {
+            "en": "It gets to be a habit after all these years.",
+            "vi": "Nó đã trở thành một thói quen sau ngần ấy năm."
+        }
+    ],
+    "words_form": [
+        "habits"
+    ],
+    "meaning_vi": "thói quen"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈdoʊnər/"
+    ],
+    "synonyms": [
+        "donors",
+        "good samaritan",
+        "benefactor",
+        "patron",
+        "giver"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(medicine) Used for transfusion, implantation, or transplant.",
+            "vi": "(thuốc) Được sử dụng để truyền máu, cấy ghép hoặc cấy ghép."
+        },
+        {
+            "pos": "noun",
+            "en": "One from whom blood for transfusion, tissue for grafting, etc. is taken.",
+            "vi": "Một người lấy máu để truyền, lấy mô để ghép, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It takes its name from its donor, the friend of Emerson.",
+            "vi": "Nó lấy tên từ người hiến tặng, bạn của Emerson."
+        },
+        {
+            "en": "The medics were talking about looking in his pockets for an organ donor card.",
+            "vi": "Các bác sĩ đang nói về việc tìm thẻ hiến tạng trong túi của anh ta."
+        }
+    ],
+    "words_form": [
+        "donors"
+    ],
+    "meaning_vi": "nhà tài trợ"
+}

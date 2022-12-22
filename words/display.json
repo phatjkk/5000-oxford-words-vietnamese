@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/dəˈspleɪ/"
+    ],
+    "synonyms": [
+        "show",
+        "exhibition",
+        "demonstrate",
+        "showcase",
+        "spread"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be or give evidence of; manifest or reveal.",
+            "vi": "Để có hoặc đưa ra bằng chứng về; biểu lộ hoặc tiết lộ."
+        },
+        {
+            "pos": "noun",
+            "en": "A demonstration or manifestation.",
+            "vi": "Một cuộc biểu tình hoặc biểu hiện."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating printing type in larger sizes, used for headings, advertisements, etc.",
+            "vi": "Chỉ định loại in với kích thước lớn hơn, được sử dụng cho các tiêu đề, quảng cáo, v.v."
+        },
+        {
+            "pos": "idiom",
+            "en": "on display  In public view; for all to see.",
+            "vi": "trưng bày Ở chế độ xem công khai; cho tất cả mọi người xem."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It served him right after his display yesterday.",
+            "vi": "Nó phục vụ anh ta ngay sau màn trình diễn của anh ta ngày hôm qua."
+        },
+        {
+            "en": "Sofia watched, astonished at the blatant display, and almost didn't prep herself for her first encounter.",
+            "vi": "Sofia quan sát, ngạc nhiên trước màn trình diễn trắng trợn, và gần như không chuẩn bị tinh thần cho cuộc chạm trán đầu tiên."
+        }
+    ],
+    "words_form": [
+        "displayed",
+        "displaying",
+        "displays"
+    ],
+    "meaning_vi": "hiển thị"
+}

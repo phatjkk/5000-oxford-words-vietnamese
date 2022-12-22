@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈbrəðər/"
+    ],
+    "synonyms": [
+        "sib",
+        "buddy",
+        "blood-brother",
+        "bub",
+        "kinsman"
+    ],
+    "meaning": [
+        {
+            "pos": "interjection",
+            "en": "(slang) Used to provide emphasis, often at the beginning of one's remarks.",
+            "vi": "(tiếng lóng) Được sử dụng để nhấn mạnh, thường ở đầu nhận xét của một người."
+        },
+        {
+            "pos": "noun",
+            "en": "A male having the same parents as another or one parent in common with another.",
+            "vi": "Con đực có cùng cha mẹ với con khác hoặc cha mẹ chung với con khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She remembered her brother and his love.",
+            "vi": "Cô nhớ đến anh trai mình và tình yêu của anh."
+        },
+        {
+            "en": "She wept because her brother teased her very much.",
+            "vi": "Cô ấy đã khóc vì anh trai của cô ấy đã trêu chọc cô ấy rất nhiều."
+        }
+    ],
+    "words_form": [
+        "brethren",
+        "brothers"
+    ],
+    "meaning_vi": "anh trai"
+}

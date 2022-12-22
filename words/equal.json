@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈikwəl/"
+    ],
+    "synonyms": [
+        "equivalent",
+        "same",
+        "invariable",
+        "tantamount",
+        "identical"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(mathematics) Being the same or identical to in value.",
+            "vi": "(toán học) Giống nhau hoặc giống nhau về giá trị."
+        },
+        {
+            "pos": "noun",
+            "en": "One that is equal to another.",
+            "vi": "Một cái bằng với cái khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To be equal to, especially in value.",
+            "vi": "Bằng, đặc biệt là về giá trị."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She is quite equal to Marya Antonovna.",
+            "vi": "Cô ấy khá ngang ngửa với Marya Antonovna."
+        },
+        {
+            "en": "His kiss was ardent and she returned it with equal passion.",
+            "vi": "Nụ hôn của anh thật nồng nàn và cô đáp lại nó với niềm đam mê không kém."
+        }
+    ],
+    "words_form": [
+        "equaled",
+        "equaling",
+        "equalled",
+        "equalling",
+        "equals"
+    ],
+    "meaning_vi": "công bằng"
+}

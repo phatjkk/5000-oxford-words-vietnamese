@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈtərmənl/"
+    ],
+    "synonyms": [
+        "last",
+        "ultimate",
+        "beginning",
+        "station",
+        "final"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of, at, relating to, or forming a limit, boundary, extremity, or end.",
+            "vi": "Của, tại, liên quan đến, hoặc hình thành một giới hạn, ranh giới, cực hạn hoặc kết thúc."
+        },
+        {
+            "pos": "noun",
+            "en": "Terminal is defined as a transportation hub or destination, or a device for communicating with a computer, or a connective point in an electric circuit.",
+            "vi": "Thiết bị đầu cuối được định nghĩa là một trung tâm giao thông hoặc điểm đến, hoặc một thiết bị để giao tiếp với máy tính, hoặc một điểm kết nối trong mạch điện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The beetles have feelers with eleven segments, whereof the terminal few are thickened so as to form a club.",
+            "vi": "Bọ cánh cứng có bộ cảm ứng với mười một đoạn, trong đó một số đoạn cuối được làm dày lên để tạo thành một câu lạc bộ."
+        },
+        {
+            "en": "Under this system each consignment of freight is compelled to pay its share of the terminal expense, independently of distance, plus a mileage charge proportionate to the length of the journey or haul.",
+            "vi": "Theo hệ thống này, mỗi chuyến hàng vận chuyển bắt buộc phải thanh toán phần chi phí đầu cuối của mình, không phụ thuộc vào khoảng cách, cộng với phí số dặm tương ứng với độ dài của hành trình hoặc đoạn đường."
+        }
+    ],
+    "words_form": [
+        "terminals"
+    ],
+    "meaning_vi": "ga cuối (tàu hoả), nhà ga (sân bay)"
+}

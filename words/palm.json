@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/pɑ(l)m/"
+    ],
+    "synonyms": [
+        "handle",
+        "wan",
+        "white",
+        "palm-tree",
+        "nipa"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a palm is the inner surface of the hand between the fingers and wrist, or the part of a glove that covers this part of the hand.",
+            "vi": "Định nghĩa của lòng bàn tay là bề mặt bên trong của bàn tay nằm giữa các ngón tay và cổ tay, hoặc phần của găng tay bao phủ phần này của bàn tay."
+        },
+        {
+            "pos": "verb",
+            "en": "To conceal in the palm of the hand, as in cheating at dice or cards or in a sleight-of-hand trick.",
+            "vi": "Để che giấu trong lòng bàn tay, như gian lận khi xúc xắc hoặc bài hoặc trong một trò lừa bịp."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating the only family (Arecaceae) of palms, including the coconut palm, betel palm, and date palm.",
+            "vi": "Chỉ họ (Arecaceae) cọ, bao gồm cọ dừa, cọ trầu và cọ."
+        },
+        {
+            "pos": "idiom",
+            "en": "an itchy palm  A strong desire for money, especially bribes.",
+            "vi": "một lòng bàn tay ngứa ngáy Khao khát tiền bạc mạnh mẽ, đặc biệt là hối lộ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He gazed at it in the palm of his hand.",
+            "vi": "Anh nhìn nó trong lòng bàn tay."
+        },
+        {
+            "en": "Is not the hand a spreading palm leaf with its lobes and veins?",
+            "vi": "Bàn tay không phải là một chiếc lá cọ xòe rộng với các thùy và gân của nó sao?"
+        }
+    ],
+    "words_form": [
+        "palmed",
+        "palming",
+        "palms"
+    ],
+    "meaning_vi": "lòng bàn tay"
+}

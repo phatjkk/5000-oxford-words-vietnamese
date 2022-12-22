@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈtɛmpəˌrɛri/"
+    ],
+    "synonyms": [
+        "brief",
+        "transient",
+        "short",
+        "provisional",
+        "short-term"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Lasting, used, serving, or enjoyed for a limited time.",
+            "vi": "Kéo dài, sử dụng, phục vụ hoặc thưởng thức trong một thời gian giới hạn."
+        },
+        {
+            "pos": "noun",
+            "en": "One serving for a limited time; short-term employee.",
+            "vi": "Một phần ăn trong một thời gian giới hạn; nhân viên ngắn hạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The artificial breeze from the fan provided only temporary relief.",
+            "vi": "Làn gió nhân tạo từ quạt chỉ giúp giảm nhẹ tạm thời."
+        },
+        {
+            "en": "We will meet them soon at our temporary home.",
+            "vi": "Chúng tôi sẽ sớm gặp họ tại ngôi nhà tạm thời của chúng tôi."
+        }
+    ],
+    "words_form": [
+        "temporaries"
+    ],
+    "meaning_vi": "tạm thời"
+}

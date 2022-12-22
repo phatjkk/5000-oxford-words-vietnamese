@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈkædl/"
+    ],
+    "synonyms": [
+        "cow",
+        "kine",
+        "calf",
+        "cows",
+        "sheep"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of cattle means a group of cows or other livestock.",
+            "vi": "Định nghĩa về gia súc có nghĩa là một nhóm bò hoặc gia súc khác."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "People in the mass.",
+            "vi": "Những người trong đại chúng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I lose some cattle every year.",
+            "vi": "Tôi mất một số gia súc mỗi năm."
+        },
+        {
+            "en": "I could run a passel of cattle on that land.",
+            "vi": "Tôi có thể chăn gia súc trên mảnh đất đó."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "gia súc"
+}

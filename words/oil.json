@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ɔɪl/"
+    ],
+    "synonyms": [
+        "petroleum",
+        "soft soap",
+        "kerosene",
+        "unction",
+        "incense"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A painting done in oil paint.",
+            "vi": "Một bức tranh được thực hiện bằng sơn dầu."
+        },
+        {
+            "pos": "verb",
+            "en": "To smear, lubricate, or supply with oil.",
+            "vi": "Để bôi trơn, bôi trơn hoặc cung cấp dầu."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, from, like, or yielding oil, or having to do with the production or use of oil.",
+            "vi": "Về, từ, như, hoặc sản xuất dầu, hoặc liên quan đến việc sản xuất hoặc sử dụng dầu."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) oil (someone's) hand  To bribe: An attorney who tried to oil the judge's hand to obtain a favorable verdict.To give a tip to: Oiled the porter's palm.",
+            "vi": "(không chính thức) dầu bàn tay (của ai đó) Để hối lộ: Một luật sư đã cố gắng xoa dầu tay của thẩm phán để có được một phán quyết có lợi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The warm farmhouse smelled of gun oil and breakfast.",
+            "vi": "Ngôi nhà trang trại ấm áp nồng nặc mùi dầu súng và bữa sáng."
+        },
+        {
+            "en": "Bacteria can process toxic wastes and oil spills into harmless biodegradable materials.",
+            "vi": "Vi khuẩn có thể xử lý chất thải độc hại và dầu tràn vào các vật liệu phân hủy sinh học vô hại."
+        }
+    ],
+    "words_form": [
+        "oiled",
+        "oiling",
+        "oils"
+    ],
+    "meaning_vi": "dầu"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/paɪl/"
+    ],
+    "synonyms": [
+        "collection",
+        "mass",
+        "amass",
+        "affluence",
+        "stack"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A funeral pyre.",
+            "vi": "Một giàn hỏa táng."
+        },
+        {
+            "pos": "verb",
+            "en": "To add or increase to abundance or to a point of burdensomeness.",
+            "vi": "Để thêm hoặc tăng đến sự phong phú hoặc đến một mức độ nặng nề."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There really was a pile of bones in her tub.",
+            "vi": "Thực sự có một đống xương trong bồn tắm của cô ấy."
+        },
+        {
+            "en": "He dug deeper into the pile of cement blocks and ashes before him.",
+            "vi": "Anh đào sâu hơn vào đống xi măng và đống tro tàn trước mặt."
+        }
+    ],
+    "words_form": [
+        "piled",
+        "piles",
+        "piling"
+    ],
+    "meaning_vi": "đóng cọc"
+}

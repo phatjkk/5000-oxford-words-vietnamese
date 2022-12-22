@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rəˈzɔrt/"
+    ],
+    "synonyms": [
+        "turn",
+        "hotel",
+        "run",
+        "motel",
+        "makeshift"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Resort is defined as to turn to something or someone for help, often in a desperate way.",
+            "vi": "Nghỉ dưỡng được định nghĩa là hướng đến một cái gì đó hoặc một ai đó để được giúp đỡ, thường là một cách tuyệt vọng."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a resort is a vacation place, often with food and entertainment.",
+            "vi": "Định nghĩa resort là nơi nghỉ dưỡng, thường có ẩm thực và giải trí."
+        },
+        {
+            "pos": "idiom",
+            "en": "as a last resort  as the last available means",
+            "vi": "như một phương sách cuối cùng cũng như phương tiện cuối cùng có sẵn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was the last resort, but it was something.",
+            "vi": "Đó là phương sách cuối cùng, nhưng nó là một cái gì đó."
+        },
+        {
+            "en": "It's probably silly, but I was thinking that this land would be a good investment for a resort retreat.",
+            "vi": "Nó có lẽ là ngớ ngẩn, nhưng tôi đã nghĩ rằng vùng đất này sẽ là một khoản đầu tư tốt cho một nơi nghỉ dưỡng."
+        }
+    ],
+    "words_form": [
+        "resorted",
+        "resorting",
+        "resorts"
+    ],
+    "meaning_vi": "phương sách"
+}

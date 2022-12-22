@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈfərðər/"
+    ],
+    "synonyms": [
+        "farther",
+        "additional",
+        "advance",
+        "promote",
+        "distant"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Additional.",
+            "vi": "Thêm vào."
+        },
+        {
+            "pos": "adverb",
+            "en": "To a greater extent; more.",
+            "vi": "Đến một mức độ lớn hơn; hơn."
+        },
+        {
+            "pos": "verb",
+            "en": "To help the progress of; promote.",
+            "vi": "Để giúp sự tiến bộ của; khuyến khích."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The assistant asked some further questions.",
+            "vi": "Người trợ lý hỏi thêm một số câu hỏi."
+        },
+        {
+            "en": "Without further conversation, the Indians started down the gully.",
+            "vi": "Không nói chuyện thêm, những người da đỏ bắt đầu đi xuống."
+        }
+    ],
+    "words_form": [
+        "furthered",
+        "furthering",
+        "furthers"
+    ],
+    "meaning_vi": "thêm nữa"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/wərk/"
+    ],
+    "synonyms": [
+        "rest",
+        "achievement",
+        "endeavor",
+        "elbow grease",
+        "commitment"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Work is physical or mental effort in order to produce or accomplish something.",
+            "vi": "Công việc là nỗ lực thể chất hoặc tinh thần để sản xuất hoặc hoàn thành một điều gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "Work is defined as to put forth effort in order to accomplish something or to have a job.",
+            "vi": "Công việc được định nghĩa là nỗ lực để hoàn thành một điều gì đó hoặc để có một công việc."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of work is something that relates to a person's job.",
+            "vi": "Định nghĩa về công việc là thứ liên quan đến công việc của một người."
+        },
+        {
+            "pos": "idiom",
+            "en": "at work  Engaged in labor; working: At work on a new project.In operation: Inflationary forces at work in the economy.",
+            "vi": "tại nơi làm việc Tham gia lao động; đang làm việc: Đang làm việc trong một dự án mới. Trong hoạt động: Các lực lượng lạm phát tại nơi làm việc trong nền kinh tế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It did work this morning.",
+            "vi": "Nó đã hoạt động sáng nay."
+        },
+        {
+            "en": "Every day there is much work to be done.",
+            "vi": "Mỗi ngày có nhiều việc phải làm."
+        }
+    ],
+    "words_form": [
+        "worked",
+        "working",
+        "works"
+    ],
+    "meaning_vi": "công việc"
+}

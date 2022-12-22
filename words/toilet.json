@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈtɔɪlɪt/"
+    ],
+    "synonyms": [
+        "restroom",
+        "john",
+        "bathroom",
+        "latrine",
+        "tidy-up"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "For a toilet.",
+            "vi": "Đối với một nhà vệ sinh."
+        },
+        {
+            "pos": "noun",
+            "en": "(obs.) A dressing table.",
+            "vi": "Bàn trang điểm."
+        },
+        {
+            "pos": "verb",
+            "en": "(dated) To dress and groom oneself.",
+            "vi": "(ngày tháng) Để ăn mặc và chải chuốt bản thân."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Toilet paper,\" she muttered.",
+            "vi": "“Giấy vệ sinh,” cô lẩm bẩm."
+        },
+        {
+            "en": "The toilet flushed and Ethel returned, proceeded in the dark­ness by the tiny pinpoint light of her cigarette.",
+            "vi": "Nhà vệ sinh xả nước và Ethel quay trở lại, tiếp tục trong bóng tối bằng ánh sáng đầu nhọn nhỏ xíu của điếu thuốc."
+        }
+    ],
+    "words_form": [
+        "toilets"
+    ],
+    "meaning_vi": "phòng vệ sinh"
+}

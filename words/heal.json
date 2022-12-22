@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/hil/"
+    ],
+    "synonyms": [
+        "mend",
+        "cure",
+        "ameliorate",
+        "remedy",
+        "revive"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make sound, well, or healthy again; restore to health.",
+            "vi": "Để tạo ra âm thanh, tốt, hoặc khỏe mạnh trở lại; phục hồi sức khỏe."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) Health.",
+            "vi": "(lỗi thời) Sức khỏe."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Why couldn't she heal her brother?",
+            "vi": "Tại sao cô ấy không thể chữa lành cho anh trai mình?"
+        },
+        {
+            "en": "The wound had begun to heal from within.",
+            "vi": "Vết thương đã bắt đầu lành từ bên trong."
+        }
+    ],
+    "words_form": [
+        "healed",
+        "heals"
+    ],
+    "meaning_vi": "chữa lành"
+}

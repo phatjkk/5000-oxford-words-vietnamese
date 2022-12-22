@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/səbˈskraɪbə/"
+    ],
+    "synonyms": [
+        "donor",
+        "attester",
+        "backer",
+        "benefactor",
+        "endorser"
+    ],
+    "meaning": [
+        {
+            "pos": "",
+            "en": "In telecommunications, an entity (individual, company, or other organization) that leases a circuit or contracts to use a public telecommunications service.",
+            "vi": "Của, liên quan đến, hoặc sử dụng thống kê hoặc các nguyên tắc thống kê."
+        },
+        {
+            "pos": "noun",
+            "en": "A person who subscribes to a publication or a service.",
+            "vi": "Của hoặc liên quan đến chiến lược."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is not practicable to connect each subscriber directly to all the others, hence a system of exchanges has been adopted.",
+            "vi": "Không thể kết nối trực tiếp từng thuê bao với tất cả những người khác, do đó một hệ thống trao đổi đã được thông qua."
+        },
+        {
+            "en": "When a subscriber called (by turning the handle of his magneto- 'generator), the shutter of the annunciator associated with his line dropped.",
+            "vi": "Khi một thuê bao gọi (bằng cách xoay tay cầm của máy phát từ tính của anh ta), màn trập của bộ phát tín hiệu liên kết với đường dây của anh ta sẽ giảm xuống."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "",
+            "en": "In telecommunications, an entity (individual, company, or other organization) that leases a circuit or contracts to use a public telecommunications service.",
+            "vi": "Của, liên quan đến, hoặc sử dụng thống kê hoặc các nguyên tắc thống kê."
+        },
+        {
+            "pos": "noun",
+            "en": "A person who subscribes to a publication or a service.",
+            "vi": "Của hoặc liên quan đến chiến lược."
+        }
+    ]
+}

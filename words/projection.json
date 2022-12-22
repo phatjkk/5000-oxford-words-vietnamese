@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/prəˈdʒɛkʃ(ə)n/"
+    ],
+    "synonyms": [
+        "foresight",
+        "protuberance",
+        "prediction",
+        "prominence",
+        "step"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A prediction or estimate of something in the future, based on present data or trends.",
+            "vi": "Dự đoán hoặc ước tính về điều gì đó trong tương lai, dựa trên dữ liệu hoặc xu hướng hiện tại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The Measurement of Areas is easily effected if the map at our disposal is drawn on an equal area projection.",
+            "vi": "Việc đo lường các khu vực có thể dễ dàng thực hiện nếu bản đồ theo ý của chúng tôi được vẽ trên một phép chiếu có diện tích bằng nhau."
+        },
+        {
+            "en": "It will suffice therefore to point out that the ordinary needs of the cartographer can be met by conical projections, and, in the case of maps covering a wide area, by Lambert's equal area projection.",
+            "vi": "Do đó, sẽ đủ để chỉ ra rằng các nhu cầu thông thường của người vẽ bản đồ có thể được đáp ứng bằng các phép chiếu hình nón, và, trong trường hợp bản đồ có diện tích rộng, bằng phép chiếu diện tích bằng nhau của Lambert."
+        }
+    ],
+    "words_form": [
+        "projections"
+    ],
+    "meaning_vi": "chiếu"
+}

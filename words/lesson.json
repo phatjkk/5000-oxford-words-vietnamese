@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈlɛs(ə)n/"
+    ],
+    "synonyms": [
+        "teaching",
+        "education",
+        "drill",
+        "exercise",
+        "good example"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a lesson is something that is to be learned, a learning period or a plan for teaching.",
+            "vi": "Định nghĩa của một bài học là một cái gì đó sẽ được học, một giai đoạn học tập hoặc một kế hoạch giảng dạy."
+        },
+        {
+            "pos": "verb",
+            "en": "Lesson is defined as to teach, instruct or discipline.",
+            "vi": "Bài học được định nghĩa là để giảng dạy, hướng dẫn hoặc kỷ luật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I've learned my lesson, though.",
+            "vi": "Tuy nhiên, tôi đã học được bài học của mình."
+        },
+        {
+            "en": "What was the second lesson you taught Jonny?",
+            "vi": "Bài học thứ hai bạn dạy Jonny là gì?"
+        }
+    ],
+    "words_form": [
+        "lessons"
+    ],
+    "meaning_vi": "bài học"
+}

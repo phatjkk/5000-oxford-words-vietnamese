@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ʃɛr/"
+    ],
+    "synonyms": [
+        "partition",
+        "part",
+        "apportionment",
+        "allot",
+        "quota"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To share is to allow someone else to use something or some resources with you instead of hoarding them all for yourself.",
+            "vi": "Chia sẻ là cho phép người khác sử dụng thứ gì đó hoặc một số tài nguyên với bạn thay vì tích trữ tất cả cho riêng mình."
+        },
+        {
+            "pos": "noun",
+            "en": "A part or portion that belongs or is allotted to an individual, or the part contributed by an individual.",
+            "vi": "Một phần hoặc một phần thuộc về hoặc được phân bổ cho một cá nhân, hoặc phần do một cá nhân đóng góp."
+        },
+        {
+            "pos": "idiom",
+            "en": "go shares  To be concerned or partake equally or jointly, as in a business venture.",
+            "vi": "đi cổ phần Được quan tâm hoặc tham gia bình đẳng hoặc cùng nhau, như trong một liên doanh kinh doanh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I had no plans to share with Howie what I'd learned of his previous life.",
+            "vi": "Tôi không có kế hoạch chia sẻ với Howie những gì tôi đã học được về kiếp trước của anh ấy."
+        },
+        {
+            "en": "I can't share what I see with anyone else and it not only reeks of voyeurism but feels selfish to me.",
+            "vi": "Tôi không thể chia sẻ những gì tôi nhìn thấy với bất kỳ ai khác và điều đó không chỉ khiến tôi mãn nhãn mà còn cảm thấy ích kỷ đối với tôi."
+        }
+    ],
+    "words_form": [
+        "shared",
+        "shares",
+        "sharing"
+    ],
+    "meaning_vi": "chia sẻ"
+}

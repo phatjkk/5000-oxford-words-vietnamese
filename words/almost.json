@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈɔlˌmoʊst/"
+    ],
+    "synonyms": [
+        "nearly",
+        "just-about",
+        "close",
+        "about",
+        "virtually"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Almost is defined as there is only a little way to go to reach a certain point.",
+            "vi": "Hầu như được định nghĩa là chỉ còn một đoạn đường nhỏ để đạt được một điểm nhất định."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) Something or someone that doesn't quite make it.",
+            "vi": "(không chính thức) Một cái gì đó hoặc một người nào đó không hoàn toàn làm được."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She was almost thirteen.",
+            "vi": "Cô gần mười ba tuổi."
+        },
+        {
+            "en": "At ten years old, Jonathan was almost as tall as she was.",
+            "vi": "Lúc 10 tuổi, Jonathan đã cao gần bằng cô."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "gần như"
+}

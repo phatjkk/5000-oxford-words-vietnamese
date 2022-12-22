@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/tʃɛr/"
+    ],
+    "synonyms": [
+        "authority",
+        "throne",
+        "stool",
+        "bench",
+        "chairman"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a chair is an official person or one who directs the course of a meeting.",
+            "vi": "Định nghĩa về chủ tọa là người chính thức hoặc người chỉ đạo diễn biến cuộc họp."
+        },
+        {
+            "pos": "verb",
+            "en": "To place in a chair; seat.",
+            "vi": "Để đặt trên ghế; ghế."
+        },
+        {
+            "pos": "idiom",
+            "en": "take the chair  to preside as chairman",
+            "vi": "ngồi ghế chủ tọa làm chủ tọa"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He leaned forward in his chair, sobering.",
+            "vi": "Anh ngả người về phía trước trên ghế, tỉnh táo."
+        },
+        {
+            "en": "There, sitting in his chair, was Carl, fast asleep.",
+            "vi": "Ở đó, ngồi trên ghế của anh ấy, là Carl, đang ngủ say."
+        }
+    ],
+    "words_form": [
+        "chaired",
+        "chairs"
+    ],
+    "meaning_vi": "cái ghế"
+}

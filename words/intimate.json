@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈɪn(t)əmət/"
+    ],
+    "synonyms": [
+        "acquaintance",
+        "public",
+        "special",
+        "inmost",
+        "faithful"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Intimate is defined as someone who is very close to you.",
+            "vi": "Thân mật được định nghĩa là một người rất thân thiết với bạn."
+        },
+        {
+            "pos": "noun",
+            "en": "An intimate is someone who you trust with private details.",
+            "vi": "Người thân mật là người mà bạn tin tưởng với những chi tiết riêng tư."
+        },
+        {
+            "pos": "verb",
+            "en": "To intimate is defined as to suggest something without being direct.",
+            "vi": "To thân mật được định nghĩa là gợi ý điều gì đó mà không trực tiếp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This new method was like being intimate with a stranger.",
+            "vi": "Phương pháp mới này giống như là thân mật với một người lạ."
+        },
+        {
+            "en": "In a few weeks he'll know your most intimate secrets.",
+            "vi": "Trong vài tuần nữa, anh ấy sẽ biết những bí mật thân mật nhất của bạn."
+        }
+    ],
+    "words_form": [
+        "intimated",
+        "intimates",
+        "intimating"
+    ],
+    "meaning_vi": "thân mật"
+}

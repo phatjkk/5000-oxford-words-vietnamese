@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/bəlk/"
+    ],
+    "synonyms": [
+        "quantity",
+        "plurality",
+        "extent",
+        "amount",
+        "magnitude"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The major portion or greater part.",
+            "vi": "Phần chính hoặc phần lớn hơn."
+        },
+        {
+            "pos": "verb",
+            "en": "To be or appear to be massive in terms of size, volume, or importance; loom.",
+            "vi": "Có hoặc có vẻ lớn về quy mô, khối lượng hoặc tầm quan trọng; khung cửi."
+        },
+        {
+            "pos": "adjective",
+            "en": "Being large in mass, quantity, or volume.",
+            "vi": "Có khối lượng, số lượng hoặc thể tích lớn."
+        },
+        {
+            "pos": "idiom",
+            "en": "in bulk  Unpackaged; loose. In large numbers, amounts, or volume.",
+            "vi": "với số lượng lớn Chưa đóng gói; lỏng lẻo. Với số lượng lớn, số lượng hoặc khối lượng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The bulk of the land was still farmed.",
+            "vi": "Phần lớn đất vẫn được canh tác."
+        },
+        {
+            "en": "Apart from the schools under the ministry of war (Cossack voiskos and schools at the barracks), the great bulk of the primary schools are either under the ministry of public instruction or of the Holy Synod.",
+            "vi": "Ngoài các trường thuộc Bộ chiến tranh (Cossack voiskos và các trường ở doanh trại), phần lớn các trường tiểu học thuộc Bộ giáo dục công cộng hoặc của Thượng Hội đồng Thánh."
+        }
+    ],
+    "words_form": [
+        "bulked",
+        "bulking",
+        "bulks"
+    ],
+    "meaning_vi": "số lượng lớn"
+}

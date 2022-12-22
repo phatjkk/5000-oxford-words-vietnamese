@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈpɪkt/"
+    ],
+    "synonyms": [
+        "portray",
+        "show",
+        "express",
+        "describe",
+        "illustrate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Depict is to describe, show or paint a picture either literally or in words.",
+            "vi": "Mô tả là mô tả, hiển thị hoặc vẽ một bức tranh theo nghĩa đen hoặc lời nói."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Depicted.",
+            "vi": "(lỗi thời) Đã hết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The artist did not depict emotion: he depicted the subjects that produce emotion.",
+            "vi": "Người nghệ sĩ không miêu tả cảm xúc: anh ấy miêu tả các đối tượng tạo ra cảm xúc."
+        },
+        {
+            "en": "Road maps depict major roads in a state.",
+            "vi": "Bản đồ đường đi mô tả những con đường chính trong một tiểu bang."
+        }
+    ],
+    "words_form": [
+        "depicted",
+        "depicting",
+        "depicts"
+    ],
+    "meaning_vi": "miêu tả"
+}

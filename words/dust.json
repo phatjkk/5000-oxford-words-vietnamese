@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dəst/"
+    ],
+    "synonyms": [
+        "cinders",
+        "remains",
+        "strew",
+        "turmoil",
+        "junk"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Fine, dry particles of matter.",
+            "vi": "Các hạt vật chất khô, mịn."
+        },
+        {
+            "pos": "verb",
+            "en": "To remove dust from by wiping, brushing, or beating.",
+            "vi": "Để loại bỏ bụi bằng cách lau, chải hoặc đập."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the dust  Far behind, as in a race or competition: A marketing strategy that left our competitors in the dust.",
+            "vi": "trong bụi Xa, như trong một cuộc đua hoặc cạnh tranh: Một chiến lược tiếp thị khiến các đối thủ của chúng ta chìm trong bụi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A dust storm was probably brewing.",
+            "vi": "Có lẽ một cơn bão bụi đang hình thành."
+        },
+        {
+            "en": "First it was enough for a hand, but nothing but dust was within reach.",
+            "vi": "Đầu tiên nó là đủ cho một bàn tay, nhưng không có gì ngoài bụi trong tầm tay."
+        }
+    ],
+    "words_form": [
+        "dusted",
+        "dusting",
+        "dusts"
+    ],
+    "meaning_vi": "bụi; bụi bẩn"
+}

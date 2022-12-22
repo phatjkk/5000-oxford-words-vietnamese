@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/kəˈnɑt/",
+        "/ˈkænˌɑt/"
+    ],
+    "synonyms": [
+        "should",
+        "can",
+        "have-not",
+        "incapable of",
+        "must"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something that cannot be done.",
+            "vi": "Một cái gì đó mà không thể được thực hiện."
+        },
+        {
+            "pos": "verb",
+            "en": "Am/are/is forbidden or not permitted to.",
+            "vi": "Am / are / bị cấm hoặc không được phép."
+        },
+        {
+            "pos": "idiom",
+            "en": "cannot but   be compelled or obliged to; must",
+            "vi": "không thể nhưng bị bắt buộc hoặc có nghĩa vụ; cần phải"
+        }
+    ],
+    "sentences": [],
+    "words_form": [],
+    "meaning_vi": "không thể"
+}

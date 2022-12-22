@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/strim/"
+    ],
+    "synonyms": [
+        "river",
+        "current",
+        "brook",
+        "flow",
+        "water"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A large amount or number moving or occurring in steady succession.",
+            "vi": "Một số lượng lớn hoặc số lượng di chuyển hoặc xảy ra liên tiếp ổn định."
+        },
+        {
+            "pos": "verb",
+            "en": "To flow in a stream or current.",
+            "vi": "Để chảy trong một dòng hoặc dòng điện."
+        },
+        {
+            "pos": "idiom",
+            "en": "on stream  In or into operation or production: A new power plant soon to go on stream.",
+            "vi": "trên dòng Đang đi vào hoạt động hoặc sản xuất: Một nhà máy điện mới sẽ sớm đi vào hoạt động."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I switched boats mid stream and expected you to follow me.",
+            "vi": "Tôi đã chuyển thuyền giữa dòng và mong bạn đi theo tôi."
+        },
+        {
+            "en": "\"I left her near a stream,\" Gabe said, looking around.",
+            "vi": "“Tôi để cô ấy gần một con suối,” Gabe nói, nhìn quanh."
+        }
+    ],
+    "words_form": [
+        "streamed",
+        "streaming",
+        "streams"
+    ],
+    "meaning_vi": "Dòng suối"
+}

@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈhəŋɡri/"
+    ],
+    "synonyms": [
+        "famished",
+        "ravenous",
+        "starved",
+        "starving",
+        "unfilled"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Hungry means wanting or needing to eat food.",
+            "vi": "Đói có nghĩa là muốn hoặc cần ăn thức ăn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If you're hungry, visit the kitchen.",
+            "vi": "Nếu bạn đói, hãy ghé thăm nhà bếp."
+        },
+        {
+            "en": "The stray dog looked hungry and cold.",
+            "vi": "Con chó hoang trông đói và lạnh."
+        }
+    ],
+    "words_form": [
+        "hungrier",
+        "hungriest"
+    ],
+    "meaning_vi": "đói bụng"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kruz/"
+    ],
+    "synonyms": [
+        "sail",
+        "glide",
+        "voyage",
+        "drift",
+        "boat"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Cruise is defined as to ride, sail or move from place to place at a gradual speed.",
+            "vi": "Du thuyền được định nghĩa là đi xe, chèo thuyền hoặc di chuyển từ nơi này đến nơi khác với tốc độ nhanh dần đều."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or an instance of cruising, especially a sea voyage for pleasure.",
+            "vi": "Hành động hoặc một ví dụ về du lịch trên biển, đặc biệt là một chuyến đi biển vì niềm vui."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I want to take a cruise, I think, when Ashley graduates.",
+            "vi": "Tôi nghĩ, tôi muốn đi du thuyền khi Ashley tốt nghiệp."
+        },
+        {
+            "en": "The British admiral, when informed that the French were at sea, justified Napoleon's estimate of his probable course in such a contingency, by making a useless cruise to Egypt.",
+            "vi": "Đô đốc Anh, khi được thông báo rằng quân Pháp đang ở trên biển, đã biện minh cho ước tính của Napoléon về chuyến đi có thể xảy ra của ông trong trường hợp bất ngờ như vậy, bằng cách thực hiện một chuyến du ngoạn vô ích đến Ai Cập."
+        }
+    ],
+    "words_form": [
+        "cruised",
+        "cruises",
+        "cruising"
+    ],
+    "meaning_vi": "hành trình"
+}

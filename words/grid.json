@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ɡrɪd/"
+    ],
+    "synonyms": [
+        "framework",
+        "gridiron",
+        "network",
+        "layer",
+        "grate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(sports) The starting positions of cars on a racecourse.",
+            "vi": "(thể thao) Vị trí xuất phát của ô tô trên trường đua."
+        },
+        {
+            "pos": "verb",
+            "en": "To mark with a grid.",
+            "vi": "Để đánh dấu bằng lưới."
+        },
+        {
+            "pos": "adjective",
+            "en": "(slang) Having to do with football.",
+            "vi": "(tiếng lóng) Liên quan đến bóng đá."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "(pathology, obsolete) Gay-related immunodeficiency — former name of AIDS.",
+            "vi": "(bệnh lý, lỗi thời) Suy giảm miễn dịch liên quan đến đồng tính nam - tên cũ của AIDS."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll take the plunge and go off grid, I can do that stuff.",
+            "vi": "Tôi sẽ lao vào và rời khỏi lưới điện, tôi có thể làm những việc đó."
+        },
+        {
+            "en": "\"It's a local energy grid controller,\" Lana said.",
+            "vi": "“Đó là một bộ điều khiển lưới điện địa phương,” Lana nói."
+        }
+    ],
+    "words_form": [
+        "grids"
+    ],
+    "meaning_vi": "lưới điện"
+}

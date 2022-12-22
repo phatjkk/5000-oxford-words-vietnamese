@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈkiˌbɔrd/"
+    ],
+    "synonyms": [
+        "clavier",
+        "console",
+        "synthesizer",
+        "ivories",
+        "piano"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A panel of buttons used for typing and performing other functions on a computer or typewriter.",
+            "vi": "Một bảng các nút dùng để gõ và thực hiện các chức năng khác trên máy tính hoặc máy đánh chữ."
+        },
+        {
+            "pos": "verb",
+            "en": "To write or input by means of a keyboard.",
+            "vi": "Để viết hoặc nhập bằng bàn phím."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She began to paw at her computer keyboard, searching.",
+            "vi": "Cô bắt đầu gõ bàn phím máy tính của mình, tìm kiếm."
+        },
+        {
+            "en": "The keyboard has five keys similar to those of a piano, and the letters and figures are obtained by the different combinations which can be formed by the raised and depressed keys.",
+            "vi": "Bàn phím có năm phím tương tự như của đàn piano, các chữ cái và số liệu có được bằng các tổ hợp khác nhau có thể được tạo thành bởi các phím nâng lên và nhấn xuống."
+        }
+    ],
+    "words_form": [
+        "keyboards"
+    ],
+    "meaning_vi": "bàn phím"
+}

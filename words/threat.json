@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/θrɛt/"
+    ],
+    "synonyms": [
+        "menace",
+        "warning",
+        "danger",
+        "intimidation",
+        "risk"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An expression of an intention to inflict pain, harm, or punishment.",
+            "vi": "Biểu hiện của ý định gây đau đớn, tổn hại hoặc trừng phạt."
+        },
+        {
+            "pos": "verb",
+            "en": "(archaic) To threaten.",
+            "vi": "(cổ xưa) Để đe dọa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They are a serious threat to him.",
+            "vi": "Họ là một mối đe dọa nghiêm trọng đối với anh ta."
+        },
+        {
+            "en": "It was meant as a threat, not a promise.",
+            "vi": "Nó có nghĩa là một lời đe dọa, không phải là một lời hứa."
+        }
+    ],
+    "words_form": [
+        "threats"
+    ],
+    "meaning_vi": "mối đe dọa"
+}

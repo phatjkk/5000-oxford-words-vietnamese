@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/nɑt/"
+    ],
+    "synonyms": [
+        "hardly",
+        "non",
+        "neither",
+        "negative",
+        "refusal"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Not is defined as a word used with a verb to make a negative.",
+            "vi": "Không được định nghĩa là một từ được sử dụng với một động từ để làm cho một phủ định."
+        },
+        {
+            "pos": "noun",
+            "en": "A logical operator that returns a false value if the operand is true and a true value if the operand is false.",
+            "vi": "Một toán tử logic trả về giá trị sai nếu toán hạng là đúng và giá trị đúng nếu toán hạng là sai."
+        },
+        {
+            "pos": "affix",
+            "en": "Noto-",
+            "vi": "Noto-"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Perhaps I don't understand things, but Austria never has wished, and does not wish, for war.",
+            "vi": "Có lẽ tôi không hiểu mọi chuyện, nhưng Áo chưa bao giờ ước, và không ước, vì chiến tranh."
+        },
+        {
+            "en": "\"I'm not going to drop a pin,\" said Zeb.",
+            "vi": "“Tôi sẽ không đánh rơi một chiếc ghim,” Zeb nói."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "không phải"
+}

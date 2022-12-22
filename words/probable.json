@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈprɑbəb(ə)l/"
+    ],
+    "synonyms": [
+        "likely",
+        "apparent",
+        "seeming",
+        "feasible",
+        "presumable"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Likely to happen or to be true.",
+            "vi": "Có khả năng xảy ra hoặc đúng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This phylogeny, the author thinks, is the most probable of all.",
+            "vi": "Tác giả cho rằng phát sinh loài này có khả năng xảy ra cao nhất."
+        },
+        {
+            "en": "We knew some of our tips never came to fruition simply because authorities lacked the probable cause to arrest the perpetrator.",
+            "vi": "Chúng tôi biết một số lời khuyên của chúng tôi không bao giờ có kết quả đơn giản bởi vì các nhà chức trách thiếu nguyên nhân có thể xảy ra để bắt giữ hung thủ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "có thể xảy ra"
+}

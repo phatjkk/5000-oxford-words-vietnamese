@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈfɪkstʃər/"
+    ],
+    "synonyms": [
+        "connection",
+        "fix",
+        "attachment",
+        "fitting",
+        "apparatus"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something securely fixed in place.",
+            "vi": "Một cái gì đó được cố định an toàn tại chỗ."
+        },
+        {
+            "pos": "verb",
+            "en": "To furnish with, as, or in a fixture.",
+            "vi": "Để cung cấp, như hoặc trong một vật cố định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In the stable a horse should always be provided with rock salt, and water to drink at will by means of some such stall fixture as the Mundt hygienic water-supply fittings.",
+            "vi": "Trong chuồng ngựa luôn phải được cung cấp muối mỏ và nước để uống theo ý muốn bằng một số vật cố định trong chuồng như các phụ kiện cấp nước hợp vệ sinh Mundt."
+        },
+        {
+            "en": "In this house the principal part of the roof is a fixture, ventilation being provided for by small lifting sashes against the back wall, and by the upright front sashes being hung on a pivot so as to swing outwards on the lower side.",
+            "vi": "Trong ngôi nhà này, phần chính của mái nhà là một vật cố định, hệ thống thông gió được cung cấp bởi các thanh treo nhỏ nâng vào tường phía sau, và bởi các tấm chắn phía trước thẳng đứng được treo trên một trục để xoay ra phía ngoài ở phía bên dưới."
+        }
+    ],
+    "words_form": [
+        "fixtures"
+    ],
+    "meaning_vi": "vật cố định"
+}

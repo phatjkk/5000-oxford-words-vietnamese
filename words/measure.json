@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈmɛʒər/"
+    ],
+    "synonyms": [
+        "degree",
+        "rank",
+        "throb",
+        "weight",
+        "density"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A measure is defined as a course of action, or a legislative bill.",
+            "vi": "Một biện pháp được định nghĩa là một quá trình hành động, hoặc một dự luật lập pháp."
+        },
+        {
+            "pos": "verb",
+            "en": "Measure is defined as finding out the length or capacity of something using a rule or standard, or to compare or judge.",
+            "vi": "Đo lường được định nghĩa là việc tìm ra độ dài hoặc dung lượng của một thứ bằng cách sử dụng một quy tắc hoặc tiêu chuẩn, hoặc để so sánh hoặc đánh giá."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(mathematics): positive measure, signed measure, complex measure, Borel measure, Ïƒ-finite measure, complete measure, Lebesgue measure.",
+            "vi": "(toán học): số đo tích cực, số đo có dấu, số đo phức tạp, số đo Borel, số đo Ïƒ-hữu hạn, số đo hoàn chỉnh, số đo Lebesgue."
+        },
+        {
+            "pos": "idiom",
+            "en": "beyond measure  In excess. Without limit.",
+            "vi": "vượt quá biện pháp Trong quá mức. Không giới hạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It took too much effort to look up at the sun to measure time.",
+            "vi": "Đã tốn quá nhiều công sức để nhìn lên mặt trời để đo thời gian."
+        },
+        {
+            "en": "\"I did it as a defensive measure,\" Cynthia said.",
+            "vi": "“Tôi đã làm điều đó như một biện pháp phòng thủ,” Cynthia nói."
+        }
+    ],
+    "words_form": [
+        "measured",
+        "measures",
+        "measuring"
+    ],
+    "meaning_vi": "biện pháp"
+}

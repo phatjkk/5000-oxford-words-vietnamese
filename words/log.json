@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/lɔɡ/",
+        "/lɑɡ/"
+    ],
+    "synonyms": [
+        "length",
+        "account",
+        "register",
+        "stump",
+        "trunk"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Log is defined as to write information in a journal or other record.",
+            "vi": "Nhật ký được định nghĩa là ghi thông tin vào nhật ký hoặc hồ sơ khác."
+        },
+        {
+            "pos": "noun",
+            "en": "A logarithm.",
+            "vi": "Một lôgarit."
+        },
+        {
+            "pos": "adjective",
+            "en": "Made of a log or logs.",
+            "vi": "Làm bằng một bản ghi hoặc các bản ghi."
+        },
+        {
+            "pos": "affix",
+            "en": "-logue.",
+            "vi": "-lời mở đầu."
+        },
+        {
+            "pos": "idiom",
+            "en": "log on (or off)  to enter the necessary information to begin (or end) a session on a computer terminal, PC, etc.",
+            "vi": "đăng nhập (hoặc tắt) để nhập thông tin cần thiết để bắt đầu (hoặc kết thúc) phiên trên thiết bị đầu cuối máy tính, PC, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The log stays with the car.",
+            "vi": "Các khúc gỗ vẫn còn với chiếc xe."
+        },
+        {
+            "en": "His new log home was nice, but not extravagant.",
+            "vi": "Ngôi nhà gỗ mới của anh ấy rất đẹp, nhưng không xa hoa."
+        }
+    ],
+    "words_form": [
+        "logged",
+        "logging",
+        "logs"
+    ],
+    "meaning_vi": "đăng nhập"
+}

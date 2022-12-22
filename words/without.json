@@ -1,0 +1,52 @@
+{
+    "spelling": [
+        "/wəˈðaʊt/",
+        "/wəˈθaʊt/"
+    ],
+    "synonyms": [
+        "except",
+        "outwardly",
+        "unless",
+        "outdoors",
+        "lacking"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "With something absent or lacking.",
+            "vi": "Với một cái gì đó không có hoặc thiếu."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Without means unless.",
+            "vi": "Không có nghĩa là trừ khi."
+        },
+        {
+            "pos": "noun",
+            "en": "An outer position, place, or area.",
+            "vi": "Vị trí, địa điểm hoặc khu vực bên ngoài."
+        },
+        {
+            "pos": "preposition",
+            "en": "(archaic) Beyond.",
+            "vi": "(cổ xưa) Ngoài."
+        },
+        {
+            "pos": "idiom",
+            "en": "go without  to manage although lacking something implied or previously mentioned",
+            "vi": "đi mà không quản lý mặc dù thiếu một cái gì đó ngụ ý hoặc đã đề cập trước đó"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "When he continued to watch her without response, she sighed.",
+            "vi": "Khi anh tiếp tục nhìn cô mà không có phản ứng, cô thở dài."
+        },
+        {
+            "en": "He walked in without knocking.",
+            "vi": "Anh bước vào mà không gõ cửa."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "không có"
+}

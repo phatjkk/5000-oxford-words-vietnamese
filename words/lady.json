@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ˈleɪdi/"
+    ],
+    "synonyms": [
+        "woman",
+        "jeune fille",
+        "baroness",
+        "damsel",
+        "female"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A woman who is polite, refined, and well-mannered.",
+            "vi": "Một người phụ nữ lịch sự, tinh tế và chỉn chu."
+        },
+        {
+            "pos": "adjective",
+            "en": "(informal) Being an adult female.",
+            "vi": "(không chính thức) Là một phụ nữ trưởng thành."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The title for the (primary) female deity in female-centered religions.",
+            "vi": "Danh hiệu cho vị thần nữ (chính) trong các tôn giáo lấy phụ nữ làm trung tâm."
+        },
+        {
+            "pos": "idiom",
+            "en": "the Ladies'  ladies' room",
+            "vi": "phòng của các quý bà"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "One lady gave me a box of shells.",
+            "vi": "Một phụ nữ đưa cho tôi một hộp vỏ sò."
+        },
+        {
+            "en": "That's where the newspaper lady is based.",
+            "vi": "Đó là nơi mà người phụ nữ làm báo dựa."
+        }
+    ],
+    "words_form": [
+        "ladies"
+    ],
+    "meaning_vi": "quý bà"
+}

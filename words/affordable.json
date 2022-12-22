@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/əˈfɔrdəb(ə)l/"
+    ],
+    "synonyms": [
+        "inexpensive",
+        "low-priced",
+        "low-cost",
+        "economical",
+        "attractive"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Able to be afforded.",
+            "vi": "Có khả năng chi trả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Distributed computing makes enormous computational problems affordable to solve.",
+            "vi": "Tính toán phân tán làm cho các vấn đề tính toán khổng lồ có thể giải quyết được."
+        },
+        {
+            "en": "I want to buy a new car, but the payments aren't affordable given my current salary.",
+            "vi": "Tôi muốn mua một chiếc ô tô mới, nhưng các khoản thanh toán không đủ khả năng so với mức lương hiện tại của tôi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "giá cả phải chăng"
+}

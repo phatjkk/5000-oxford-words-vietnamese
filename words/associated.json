@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/əˈsoʊsiˌeɪdɪd/",
+        "/əˈsoʊʃiˌeɪdɪd/"
+    ],
+    "synonyms": [
+        "connected",
+        "companioned",
+        "linked",
+        "affiliated",
+        "identified"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of associate.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ của liên kết."
+        },
+        {
+            "pos": "adjective",
+            "en": "Associated is someone whose rank is inferior.",
+            "vi": "Liên kết là người có thứ hạng thấp hơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Everyone associated with your target is a weak point.",
+            "vi": "Tất cả mọi người liên quan đến mục tiêu của bạn là một điểm yếu."
+        },
+        {
+            "en": "But over time, as incomes around the world rise, people will migrate more and more to products associated with social practices that match their own ideals.",
+            "vi": "Nhưng theo thời gian, khi thu nhập trên khắp thế giới tăng lên, mọi người sẽ ngày càng di cư sang các sản phẩm gắn liền với thực tiễn xã hội phù hợp với lý tưởng của họ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "liên kết"
+}

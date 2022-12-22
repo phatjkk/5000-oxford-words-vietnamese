@@ -1,0 +1,63 @@
+{
+    "spelling": [
+        "/hæf/"
+    ],
+    "synonyms": [
+        "moiety",
+        "partly",
+        "partial",
+        "all",
+        "halfway"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Half is defined as one of two equal parts, or a half hour of time.",
+            "vi": "Một nửa được định nghĩa là một trong hai phần bằng nhau, hoặc nửa giờ thời gian."
+        },
+        {
+            "pos": "adverb",
+            "en": "Half means partially or finished to about 50 percent.",
+            "vi": "Một nửa có nghĩa là một phần hoặc hoàn thành đến khoảng 50 phần trăm."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of half is one of two equal parts, or an incomplete piece of something.",
+            "vi": "Định nghĩa của một nửa là một trong hai phần bằng nhau, hoặc một phần không hoàn chỉnh của một cái gì đó."
+        },
+        {
+            "pos": "affix",
+            "en": "One half.",
+            "vi": "Một nửa."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To halve.",
+            "vi": "(lỗi thời) Giảm một nửa."
+        },
+        {
+            "pos": "prefix",
+            "en": "A prefix used before brother, sister, uncle, aunt, and so forth, to indicate that the person being identified is related only through one parent, grandparent, and so forth, rather than two.",
+            "vi": "Một tiền tố được sử dụng trước anh, chị, em, chú, dì, v.v., để chỉ ra rằng người được xác định chỉ có quan hệ họ hàng với nhau thông qua một cha mẹ, ông bà, v.v., chứ không phải là hai."
+        },
+        {
+            "pos": "idiom",
+            "en": "by half  By a considerable extent. By an excessive amount: Too clever by half.",
+            "vi": "bằng một nửa Ở một mức độ đáng kể. Bằng một số lượng quá nhiều: Quá thông minh bằng một nửa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "More than half the hungry people in the world live in just these three nations—nations that are all net food exporters.",
+            "vi": "Hơn một nửa số người đói trên thế giới chỉ sống ở ba quốc gia này — những quốc gia đều là những nhà xuất khẩu thực phẩm ròng."
+        },
+        {
+            "en": "I was awake half the night.",
+            "vi": "Tôi đã thức nửa đêm."
+        }
+    ],
+    "words_form": [
+        "halves"
+    ],
+    "meaning_vi": "một nửa"
+}

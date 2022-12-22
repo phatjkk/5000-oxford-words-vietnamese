@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/ɪl/"
+    ],
+    "synonyms": [
+        "sick",
+        "bad",
+        "sickness",
+        "badness",
+        "affliction"
+    ],
+    "meaning": [
+        {
+            "pos": "abbreviation",
+            "en": "Illinois.",
+            "vi": "Illinois."
+        },
+        {
+            "pos": "adjective",
+            "en": "Characterized by, causing, or tending to cause harm or evil.  Morally bad or wrong; evil. A person of ill repute.Causing pain, hardship, etc.; adverse. ill fortune.Not kind or friendly; harsh; cruel. ill will.Promising trouble; unfavorable; unfortunate; unpropitious. An ill omen.",
+            "vi": "Đặc trưng bởi, gây ra hoặc có xu hướng gây hại hoặc xấu xa. Đạo đức tồi tệ hoặc sai trái; tà ác. Một người xấu số, gây ra đau đớn, khó khăn, v.v ...; bất lợi. tài sản xấu. không tử tế hoặc thân thiện; thô ráp; hung ác. ác ý. Gây rắc rối; không thuận lợi; thật không may; không có tham vọng. Một điềm xấu."
+        },
+        {
+            "pos": "noun",
+            "en": "Evil or misfortune.",
+            "vi": "Ác ma hay bất hạnh."
+        },
+        {
+            "pos": "adverb",
+            "en": "In an ill manner.  Badly; wrongly; improperly; imperfectly. ill-gotten gains.Harshly; cruelly; unkindly. To speak ill of someone.(now rare) With annoyance or offense. He took her remarks ill.",
+            "vi": "Một cách tồi tệ. Tệ; một cách sai lầm; không đúng cách; không hoàn hảo. lợi bất cập hại. tàn nhẫn; không khéo. Nói xấu ai đó. (Hiếm khi xảy ra) Với sự khó chịu hoặc xúc phạm. Anh ta đã nhận xét cô ấy một cách tệ hại."
+        },
+        {
+            "pos": "idiom",
+            "en": "ill at ease  Anxious or unsure; uneasy: The stranger made me feel ill at ease.",
+            "vi": "cảm thấy dễ chịu Lo lắng hoặc không chắc chắn; khó chịu: Người lạ khiến tôi cảm thấy khó chịu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She felt ill after all Jule told her.",
+            "vi": "Cô ấy cảm thấy bị ốm sau tất cả những gì Jule nói với cô ấy."
+        },
+        {
+            "en": "My people never fall ill, and those who are injured, heal.",
+            "vi": "Người dân của tôi không bao giờ ốm, và những người bị thương, hãy chữa lành."
+        }
+    ],
+    "words_form": [
+        "worse",
+        "worst"
+    ],
+    "meaning_vi": "bệnh"
+}

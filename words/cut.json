@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/kət/"
+    ],
+    "synonyms": [
+        "carved",
+        "marked down",
+        "plate",
+        "diluted",
+        "separation"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To penetrate with a sharp edge; strike a narrow opening in.",
+            "vi": "Để thâm nhập với một cạnh sắc nét; tấn công một khe hở hẹp."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of cutting.",
+            "vi": "Hành động cắt."
+        },
+        {
+            "pos": "adjective",
+            "en": "Having the ends or edges cut.",
+            "vi": "Bị cắt các đầu hoặc các cạnh."
+        },
+        {
+            "pos": "idiom",
+            "en": "a cut above  One that is superior to another or others.",
+            "vi": "một phần trên Một cái vượt trội hơn cái khác hoặc những cái khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I've cut enough here for supper.",
+            "vi": "Tôi đã cắt đủ ở đây cho bữa tối."
+        },
+        {
+            "en": "Placing it in a little plate, he cut it up in small pieces.",
+            "vi": "Đặt nó vào một cái đĩa nhỏ, anh ấy cắt nó thành từng miếng nhỏ."
+        }
+    ],
+    "words_form": [
+        "cuts",
+        "cutting"
+    ],
+    "meaning_vi": "cắt tỉa"
+}

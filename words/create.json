@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kriˈeɪt/"
+    ],
+    "synonyms": [
+        "compose",
+        "make",
+        "produce",
+        "shape",
+        "devise"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To create is to make something.",
+            "vi": "Tạo ra là tạo ra một cái gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "(archaic) Created, resulting from creation.",
+            "vi": "(cổ xưa) Được tạo ra, kết quả từ sự sáng tạo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The you in my heaven is the person I create in my mind, the perfect you, who never drinks his milk from the cereal bowl and remembers every birthday and holiday with the nicest card he buys the day before, and he sends roses for no reason at all....",
+            "vi": "Bạn trong thiên đường của tôi là người mà tôi tạo ra trong tâm trí của tôi, bạn hoàn hảo, người không bao giờ uống sữa của anh ấy từ bát ngũ cốc và nhớ mỗi sinh nhật và ngày lễ với tấm thiệp đẹp nhất anh ấy mua vào ngày hôm trước, và anh ấy gửi hoa hồng mà không có lý do ở tất cả...."
+        },
+        {
+            "en": "They were paying someone to create it and then paying someone to carry it.",
+            "vi": "Họ đang trả tiền cho ai đó để tạo ra nó và sau đó trả tiền cho ai đó để thực hiện nó."
+        }
+    ],
+    "words_form": [
+        "created",
+        "creates",
+        "creating"
+    ],
+    "meaning_vi": "tạo nên"
+}

@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/wʊl/"
+    ],
+    "synonyms": [
+        "cashmere",
+        "fleece",
+        "yarn",
+        "covering",
+        "woolen"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Short, thick, curly or crisp human hair.",
+            "vi": "Tóc người ngắn, dày, xoăn hoặc giòn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of wool or woolen goods.",
+            "vi": "Của hàng len hoặc len."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(cloth or yarn): felt, tweed, worsted.",
+            "vi": "(vải hoặc sợi): nỉ, tuýt, vải thô."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A town in Dorset, England.",
+            "vi": "Một thị trấn ở Dorset, Anh."
+        },
+        {
+            "pos": "idiom",
+            "en": "all wool and a yard wide  genuine or admirable; truly and thoroughly as described",
+            "vi": "tất cả len và một thước rộng chính hãng hoặc đáng ngưỡng mộ; thực sự và kỹ lưỡng như được mô tả"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The most important internal industries are in wool and frozen meat.",
+            "vi": "Các ngành công nghiệp nội quan trọng nhất là len và thịt đông lạnh."
+        },
+        {
+            "en": "X's woman just pulled the wool over his eyes.",
+            "vi": "Người phụ nữ của X vừa kéo len che mắt anh ta."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "len"
+}

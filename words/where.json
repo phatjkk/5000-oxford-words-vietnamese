@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/(h)wɛr/"
+    ],
+    "synonyms": [
+        "anywhere",
+        "wherever",
+        "whither",
+        "unless",
+        "once"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "To what situation; toward what end.",
+            "vi": "Để tình huống nào; về phía cuối cùng."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Where is a conjunction that defines in what or which place.",
+            "vi": "Where là một kết hợp xác định ở cái gì hoặc nơi nào."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The definition of where is the place in, what or which place.",
+            "vi": "Định nghĩa về địa điểm ở đâu, địa điểm nào hoặc địa điểm nào."
+        },
+        {
+            "pos": "noun",
+            "en": "The place or occasion.",
+            "vi": "Địa điểm hoặc dịp."
+        },
+        {
+            "pos": "prefix",
+            "en": "Which, what, whom: compounded with prepositions to form compound relative and interrogative pronouns.",
+            "vi": "Which, what, someone: ghép với giới từ để tạo thành đại từ quan hệ ghép và nghi vấn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Was that where his father got all that money?",
+            "vi": "Đó có phải là nơi mà cha anh ấy đã nhận được tất cả số tiền đó không?"
+        },
+        {
+            "en": "\"Where are you?\" he asked.",
+            "vi": "\"Bạn ở đâu?\" anh ấy hỏi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ở đâu"
+}

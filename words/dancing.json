@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈdænsɪŋ/"
+    ],
+    "synonyms": [
+        "terpsichore",
+        "dance",
+        "treading",
+        "tripping",
+        "whirling"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Present participle of dance.",
+            "vi": "Trình bày phân từ của khiêu vũ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Currently in the act of dancing.",
+            "vi": "Hiện đang diễn vũ đạo."
+        },
+        {
+            "pos": "noun",
+            "en": "The activity of dancing.",
+            "vi": "Hoạt động của khiêu vũ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You're dancing to different music.",
+            "vi": "Bạn đang nhảy theo những bản nhạc khác nhau."
+        },
+        {
+            "en": "Why don't you just take dancing lessons?",
+            "vi": "Tại sao bạn không học khiêu vũ?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nhảy múa"
+}

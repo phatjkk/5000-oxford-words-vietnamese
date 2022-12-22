@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/fɔl/"
+    ],
+    "synonyms": [
+        "drop",
+        "flop",
+        "collapse",
+        "slip",
+        "decline"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Fall is defined as to drop or come down, often unexpectedly.",
+            "vi": "Mùa thu được định nghĩa là giảm hoặc đi xuống, thường là bất ngờ."
+        },
+        {
+            "pos": "noun",
+            "en": "A becoming lower or less; reduction in value, price, etc.",
+            "vi": "A trở nên thấp hơn hoặc ít hơn; giảm giá trị, giá cả, v.v."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, in, for, or characteristic of the fall season.",
+            "vi": "Của, trong, cho, hoặc đặc trưng của mùa thu."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(theology) The sudden fall of humanity into a state of sin, as brought about by the transgression of Adam and Eve. [from 14th c.]",
+            "vi": "(thần học) Nhân loại đột ngột rơi vào tình trạng tội lỗi, do sự vi phạm của A-đam và Ê-va. [từ ngày 14 c.]"
+        },
+        {
+            "pos": "idiom",
+            "en": "fall back on  To rely on: Fall back on old friends in time of need.To resort to: I had to fall back on my savings when I was unemployed.",
+            "vi": "Fall back on To dựa: Trở lại với những người bạn cũ trong lúc túng thiếu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Does the rain fall there?",
+            "vi": "Có mưa rơi ở đó không?"
+        },
+        {
+            "en": "How could anyone fall asleep that fast?",
+            "vi": "Làm sao ai đó có thể ngủ nhanh như vậy?"
+        }
+    ],
+    "words_form": [
+        "fallen",
+        "falling",
+        "falls",
+        "fell"
+    ],
+    "meaning_vi": "mùa thu"
+}

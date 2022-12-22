@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/blɑɡ/"
+    ],
+    "synonyms": [
+        "weblog",
+        "blogs",
+        "blogging",
+        "blogger",
+        "podcast"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To blog is defined as to write on a website that comments on current events or a specific topic.",
+            "vi": "Viết blog được định nghĩa là viết trên một trang web bình luận về các sự kiện hiện tại hoặc một chủ đề cụ thể."
+        },
+        {
+            "pos": "noun",
+            "en": "A website that displays postings by one or more individuals in chronological order and usually has links to comments on specific postings.",
+            "vi": "Một trang web hiển thị các bài đăng của một hoặc nhiều cá nhân theo thứ tự thời gian và thường có các liên kết đến nhận xét về các bài đăng cụ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's a blog this doctor guy keeps.",
+            "vi": "Đó là một blog mà anh chàng bác sĩ này giữ."
+        },
+        {
+            "en": "Their stories circulate around the web and their families make blog posts.",
+            "vi": "Câu chuyện của họ lan truyền khắp nơi trên web và gia đình họ tạo các bài đăng trên blog."
+        }
+    ],
+    "words_form": [
+        "blogged",
+        "blogging",
+        "blogs"
+    ],
+    "meaning_vi": "Blog"
+}

@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈbɛdˌrum/",
+        "/ˈbɛdˌrʊm/"
+    ],
+    "synonyms": [
+        "boudoir",
+        "dormitory",
+        "bedchamber",
+        "chamber",
+        "master-bedroom"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A room in which to sleep.",
+            "vi": "Một căn phòng để ngủ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Having to do with sex or sexual affairs.",
+            "vi": "Liên quan đến tình dục hoặc các vấn đề tình dục."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She retreated to her bedroom to grab her purse.",
+            "vi": "Cô rút vào phòng ngủ của mình để lấy ví của mình."
+        },
+        {
+            "en": "I scooted into the bedroom and closed the door.",
+            "vi": "Tôi chạy vào phòng ngủ và đóng cửa lại."
+        }
+    ],
+    "words_form": [
+        "bedrooms"
+    ],
+    "meaning_vi": "phòng ngủ"
+}

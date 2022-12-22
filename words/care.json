@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/kɛr/"
+    ],
+    "synonyms": [
+        "caution",
+        "watch",
+        "carefulness",
+        "stress",
+        "perturbation"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Care is defined as to have feelings like concern, responsibility or love for someone or something.",
+            "vi": "Chăm sóc được định nghĩa là có những cảm giác như quan tâm, trách nhiệm hoặc tình yêu đối với ai đó hoặc điều gì đó."
+        },
+        {
+            "pos": "suffix",
+            "en": "Used to denote a plan that provides health care services.",
+            "vi": "Được sử dụng để biểu thị một chương trình cung cấp các dịch vụ chăm sóc sức khỏe."
+        },
+        {
+            "pos": "noun",
+            "en": "A liking or regard (for)",
+            "vi": "Một sự thích hoặc sự quan tâm (đối với)"
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Cooperative for American Relief Everywhere.",
+            "vi": "Hợp tác cứu trợ người Mỹ ở mọi nơi."
+        },
+        {
+            "pos": "idiom",
+            "en": "could care less  feel(s) no interest, sympathy, etc. about something",
+            "vi": "có thể ít quan tâm đến (các) cảm giác không quan tâm, thông cảm, v.v. về điều gì đó"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He had been taking care of her for nearly a year now.",
+            "vi": "Anh đã chăm sóc cô gần một năm nay."
+        },
+        {
+            "en": "We'll take care of them together.",
+            "vi": "Chúng ta sẽ cùng nhau chăm sóc chúng."
+        }
+    ],
+    "words_form": [
+        "cared",
+        "cares",
+        "caring"
+    ],
+    "meaning_vi": "chăm sóc"
+}

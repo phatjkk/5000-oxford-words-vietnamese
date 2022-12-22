@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌvɛriˈeɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "fluctuation",
+        "variety",
+        "discrepancy",
+        "correlation",
+        "deflection"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Variation is how much something differs from another.",
+            "vi": "Sự khác biệt là cái gì đó khác với cái khác bao nhiêu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is a good deal of variation in the colour of the fur, the prevailing tint being grey.",
+            "vi": "Có rất nhiều sự thay đổi về màu sắc của bộ lông, màu phổ biến là màu xám."
+        },
+        {
+            "en": "The greatest variation, however, is seen in the tentacles.",
+            "vi": "Tuy nhiên, sự biến đổi lớn nhất được nhìn thấy ở các xúc tu."
+        }
+    ],
+    "words_form": [
+        "variations"
+    ],
+    "meaning_vi": "biến thể"
+}

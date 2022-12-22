@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈstændərd/"
+    ],
+    "synonyms": [
+        "common",
+        "sanctioned",
+        "calibrate",
+        "model",
+        "classic"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a standard is something established as a rule, example or basis of comparison.",
+            "vi": "Định nghĩa của một tiêu chuẩn là một cái gì đó được thiết lập như một quy tắc, ví dụ hoặc cơ sở để so sánh."
+        },
+        {
+            "pos": "adjective",
+            "en": "Normal, familiar, or usual.",
+            "vi": "Bình thường, quen thuộc, hoặc bình thường."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The standard day is longer than ours, about thirty hours instead of twenty-four, with that divided evenly between day and night.",
+            "vi": "Ngày tiêu chuẩn dài hơn của chúng ta, khoảng ba mươi giờ thay vì hai mươi tư, với thời gian đó được chia đều giữa ngày và đêm."
+        },
+        {
+            "en": "Gabriel understood why the old standard was gone.",
+            "vi": "Gabriel hiểu tại sao tiêu chuẩn cũ không còn nữa."
+        }
+    ],
+    "words_form": [
+        "standards"
+    ],
+    "meaning_vi": "tiêu chuẩn"
+}

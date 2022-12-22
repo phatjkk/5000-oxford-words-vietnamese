@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɡeɪz/"
+    ],
+    "synonyms": [
+        "stare",
+        "contemplate",
+        "admire",
+        "eye",
+        "glance"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To gaze is defined as to stare or look at something with a steady look.",
+            "vi": "Nhìn chằm chằm được định nghĩa là nhìn chằm chằm hoặc nhìn vào thứ gì đó với ánh mắt kiên định."
+        },
+        {
+            "pos": "noun",
+            "en": "A fixed look; a look of eagerness, wonder, or admiration; a continued look of attention.",
+            "vi": "Một cái nhìn cố định; một cái nhìn háo hức, ngạc nhiên, hoặc ngưỡng mộ; một cái nhìn tiếp tục của sự chú ý."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His gaze shifted away from her.",
+            "vi": "Ánh mắt anh rời xa cô."
+        },
+        {
+            "en": "Her wandering gaze came up to his face and warmth shot painfully up her neck.",
+            "vi": "Ánh mắt lang thang của cô nhìn lên mặt anh và hơi ấm phả lên cổ cô một cách đau đớn."
+        }
+    ],
+    "words_form": [
+        "gazed",
+        "gazes",
+        "gazing"
+    ],
+    "meaning_vi": "ánh mắt"
+}

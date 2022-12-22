@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/əˈdəlt/",
+        "/ˈædˌəlt/"
+    ],
+    "synonyms": [
+        "mature",
+        "grown-up",
+        "full-grown",
+        "grown",
+        "elderly"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(biology) A fully grown, mature organism.",
+            "vi": "(sinh học) Một sinh vật trưởng thành hoàn toàn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Containing or dealing in explicitly sexual material; pornographic.",
+            "vi": "Chứa hoặc xử lý tài liệu khiêu dâm rõ ràng; khiêu dâm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Who's the adult here?",
+            "vi": "Ai là người lớn ở đây?"
+        },
+        {
+            "en": "Two of the cats, young and small enough to be kittens or perfectly sized adult tarantulas, detangled and darted from her pillow to the table.",
+            "vi": "Hai trong số những con mèo, đủ nhỏ và nhỏ để trở thành mèo con hoặc mèo trưởng thành có kích thước hoàn hảo, bị tách ra và lao khỏi gối của cô ấy xuống bàn."
+        }
+    ],
+    "words_form": [
+        "adults"
+    ],
+    "meaning_vi": "người lớn"
+}

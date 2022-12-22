@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/boʊθ/"
+    ],
+    "synonyms": [
+        "each",
+        "either",
+        "two",
+        "various",
+        "one"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of both is one and the other one.",
+            "vi": "Định nghĩa của cả hai là cái này và cái kia."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Both means the one and the other one.",
+            "vi": "Cả hai đều có nghĩa là cái này và cái kia."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Together; equally; as well.",
+            "vi": "Cùng nhau; bằng nhau; cũng."
+        },
+        {
+            "pos": "determiner",
+            "en": "Each of the two; one and the other.",
+            "vi": "Mỗi người trong số hai; cái này và cái kia."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I liked them both very much.",
+            "vi": "Tôi thích cả hai rất nhiều."
+        },
+        {
+            "en": "It was both relaxing and exciting.",
+            "vi": "Đó là cả hai thư giãn và thú vị."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "cả hai"
+}

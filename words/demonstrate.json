@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈdɛmənˌstreɪt/"
+    ],
+    "synonyms": [
+        "illustrate",
+        "display",
+        "show",
+        "explain",
+        "indicate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To demonstrate is defined as to show something by example.",
+            "vi": "Để chứng minh được định nghĩa là để hiển thị một cái gì đó bằng ví dụ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I tried to demonstrate the panic I felt.",
+            "vi": "Tôi cố gắng thể hiện sự hoảng sợ mà tôi cảm thấy."
+        },
+        {
+            "en": "I offer these stories not to demonstrate that people can be cruel.",
+            "vi": "Tôi đưa ra những câu chuyện này không phải để chứng minh rằng con người có thể tàn nhẫn."
+        }
+    ],
+    "words_form": [
+        "demonstrated",
+        "demonstrates",
+        "demonstrating"
+    ],
+    "meaning_vi": "chứng minh"
+}

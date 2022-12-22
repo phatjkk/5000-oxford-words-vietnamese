@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈdɛkəˌreɪt/"
+    ],
+    "synonyms": [
+        "emboss",
+        "garnish",
+        "ornament",
+        "dress up",
+        "bejewel"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(computing) (In some programming languages) To extend a method, etc. by attaching some further code item.",
+            "vi": "(máy tính) (Trong một số ngôn ngữ lập trình) Để mở rộng một phương thức, v.v. bằng cách đính kèm thêm một số mục mã."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Mosaics are employed to decorate the spandrils of the arches.",
+            "vi": "Tranh khảm được sử dụng để trang trí các dải của mái vòm."
+        },
+        {
+            "en": "Rule one: I get to decorate your apartment next time.",
+            "vi": "Quy tắc một: Tôi sẽ trang trí căn hộ của bạn vào lần tới."
+        }
+    ],
+    "words_form": [
+        "decorated",
+        "decorates",
+        "decorating"
+    ],
+    "meaning_vi": "Trang trí"
+}

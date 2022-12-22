@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/pərˈmɪt/"
+    ],
+    "synonyms": [
+        "allow",
+        "favor",
+        "authorization",
+        "grant",
+        "toleration"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Permit is defined as an official document that allows you to do or have something.",
+            "vi": "Giấy phép được định nghĩa là một tài liệu chính thức cho phép bạn làm hoặc có một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To allow; consent to; tolerate.",
+            "vi": "Cho phép; tán thành; tha thứ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The permit is withdrawn if the clearance is not obtained within three years.",
+            "vi": "Giấy phép sẽ bị thu hồi nếu không được thông quan trong vòng ba năm."
+        },
+        {
+            "en": "His companions refused to permit him to surrender and were resolved to die.",
+            "vi": "Những người bạn đồng hành của anh ta từ chối cho phép anh ta đầu hàng và quyết định chết."
+        }
+    ],
+    "words_form": [
+        "permits",
+        "permitted",
+        "permitting"
+    ],
+    "meaning_vi": "giấy phép"
+}

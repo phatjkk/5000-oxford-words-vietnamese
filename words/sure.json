@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/ʃʊr/"
+    ],
+    "synonyms": [
+        "certain",
+        "absolutely",
+        "indisputable",
+        "surely",
+        "unfailing"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Impossible to doubt or dispute; certain.",
+            "vi": "Không thể nghi ngờ hoặc tranh chấp; chắc chắn."
+        },
+        {
+            "pos": "adverb",
+            "en": "Surely; certainly.",
+            "vi": "Chắc chắn; chắc chắn."
+        },
+        {
+            "pos": "interjection",
+            "en": "(informal) Of course; I understand; OK.",
+            "vi": "(không chính thức) Tất nhiên; Tôi hiểu; VÂNG."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) for sure  Certainly; unquestionably: We'll win for sure.",
+            "vi": "(không chính thức) chắc chắn Chắc chắn; không nghi ngờ gì nữa: Chúng tôi chắc chắn sẽ thắng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He sure is a nice guy.",
+            "vi": "Anh ấy chắc chắn là một chàng trai tốt."
+        },
+        {
+            "en": "Sure. Is it someone your family knew?",
+            "vi": "Chắc chắn. Đó có phải là người mà gia đình bạn biết không?"
+        }
+    ],
+    "words_form": [
+        "surer",
+        "surest"
+    ],
+    "meaning_vi": "Chắc chắn"
+}

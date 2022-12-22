@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/ist/"
+    ],
+    "synonyms": [
+        "asia",
+        "east side",
+        "eastward",
+        "easterly",
+        "westbound"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An area or region lying in the east.",
+            "vi": "Một khu vực hoặc khu vực nằm ở phía đông."
+        },
+        {
+            "pos": "anagrams",
+            "en": "AEST, eats, ESTA, etas, sate, saté, seat, SEAT, seta, tase, teas.",
+            "vi": "AEST, ăn, ESTA, etas, sate, saté, chỗ ngồi, SEAT, seta, tase, trà."
+        },
+        {
+            "pos": "adjective",
+            "en": "To, toward, of, facing, or in the east.",
+            "vi": "Tới, về phía, của, đối mặt, hoặc ở phía đông."
+        },
+        {
+            "pos": "adverb",
+            "en": "In, from, or toward the east.",
+            "vi": "Vào, từ, hoặc về phía đông."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(personification) The wind from the east.",
+            "vi": "(nhân cách hóa) Gió từ phương đông."
+        },
+        {
+            "pos": "idiom",
+            "en": "the East  the eastern part of the U.S. the Eastern Hemisphere; specif., Asia and the nearby islands",
+            "vi": "phía Đông là phần phía đông của Hoa Kỳ, Đông bán cầu; specif., Châu Á và các đảo lân cận"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Sun rises in the east and sets in the west.",
+            "vi": "Mặt trời mọc ở phía đông và lặn ở phía tây."
+        },
+        {
+            "en": "Lightening flashed in the east and thunder rumbled a posthumous threat.",
+            "vi": "Ánh sáng lóe lên ở phía đông và sấm rền vang lên một mối đe dọa hậu hĩnh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "phía đông"
+}

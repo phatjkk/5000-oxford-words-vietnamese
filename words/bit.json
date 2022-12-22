@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/bɪt/"
+    ],
+    "synonyms": [
+        "piece",
+        "scintilla",
+        "tittle",
+        "splinter",
+        "iota"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A brief amount of time; a moment.",
+            "vi": "Một khoảng thời gian ngắn; một khoảnh khắc."
+        },
+        {
+            "pos": "verb",
+            "en": "To place a bit in the mouth of (a horse, for example).",
+            "vi": "Để đặt một chút vào miệng của (ví dụ: một con ngựa)."
+        },
+        {
+            "pos": "adjective",
+            "en": "Very small.",
+            "vi": "Rất nhỏ."
+        },
+        {
+            "pos": "adverb",
+            "en": "To a small extent; in a small amount (usually with \"a\").",
+            "vi": "Ở một mức độ nhỏ; với một số lượng nhỏ (thường là \"a\")."
+        },
+        {
+            "pos": "idiom",
+            "en": "a bit  To a small degree; somewhat: A bit warm.",
+            "vi": "một chút Ở một mức độ nhỏ; phần nào: Hơi ấm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The trip back was every bit as exciting.",
+            "vi": "Chuyến đi trở lại thật thú vị."
+        },
+        {
+            "en": "I just wanted to see a bit of your city before I drive to your car.",
+            "vi": "Tôi chỉ muốn xem một chút thành phố của bạn trước khi tôi lái xe đến xe của bạn."
+        }
+    ],
+    "words_form": [
+        "bits",
+        "bitted",
+        "bitting"
+    ],
+    "meaning_vi": "chút"
+}

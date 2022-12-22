@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/dəˈzaɪnər/"
+    ],
+    "synonyms": [
+        "stylist",
+        "creator",
+        "planner",
+        "architect",
+        "shaper"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One that produces designs.",
+            "vi": "Một trong những sản xuất thiết kế."
+        },
+        {
+            "pos": "adjective",
+            "en": "Bearing the name, signature, or identifying pattern of a specific designer.",
+            "vi": "Mang tên, chữ ký hoặc mẫu nhận dạng của một nhà thiết kế cụ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Tables with designer shoes on them stood beside the truck.",
+            "vi": "Những chiếc bàn với đôi giày hàng hiệu đứng bên cạnh chiếc xe tải."
+        },
+        {
+            "en": "The designer was Sir Joseph Paxton.",
+            "vi": "Người thiết kế là Ngài Joseph Paxton."
+        }
+    ],
+    "words_form": [
+        "designers"
+    ],
+    "meaning_vi": "nhà thiết kế"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈwərid/"
+    ],
+    "synonyms": [
+        "concerned",
+        "nervous",
+        "afraid",
+        "fretful",
+        "tense"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Thinking about unpleasant things that have happened or that might happen; feeling afraid and unhappy.",
+            "vi": "Nghĩ về những điều khó chịu đã xảy ra hoặc điều đó có thể xảy ra; cảm thấy lo sợ và không vui."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of worry.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ lo lắng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He won't go see a doctor, and Mom's worried about him.",
+            "vi": "Anh ấy sẽ không đi gặp bác sĩ, và mẹ lo lắng cho anh ấy."
+        },
+        {
+            "en": "She worried that Elisabeth might get hurt.",
+            "vi": "Cô ấy lo lắng rằng Elisabeth có thể bị thương."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "lo lắng"
+}

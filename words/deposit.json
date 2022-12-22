@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dəˈpɑzət/"
+    ],
+    "synonyms": [
+        "put down",
+        "drop",
+        "insert",
+        "down payment",
+        "payment"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To lay down or leave behind by a natural process.",
+            "vi": "Nằm xuống hoặc bỏ lại sau một quá trình tự nhiên."
+        },
+        {
+            "pos": "noun",
+            "en": "A depository.",
+            "vi": "Một kho lưu ký."
+        },
+        {
+            "pos": "idiom",
+            "en": "on deposit  placed or entrusted for safekeeping",
+            "vi": "trên tiền ký quỹ được đặt hoặc ủy thác để giữ an toàn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Payment through a banker or by written draft against deposit was frequent.",
+            "vi": "Việc thanh toán thông qua một nhân viên ngân hàng hoặc bằng hối phiếu bằng văn bản so với tiền gửi là thường xuyên."
+        },
+        {
+            "en": "Potassium ruthenate, K2Ru04 H20, obtained by fusion of the metal with caustic potash and nitre, crystallizes in prisms which become covered with a black deposit on exposure to moist air.",
+            "vi": "Kali ruthenat, K2Ru04 H20, thu được bằng cách nung chảy kim loại với muối ăn da và nitre, kết tinh trong lăng kính bị đóng cặn màu đen khi tiếp xúc với không khí ẩm."
+        }
+    ],
+    "words_form": [
+        "deposited",
+        "depositing",
+        "deposits"
+    ],
+    "meaning_vi": "tiền đặt cọc"
+}

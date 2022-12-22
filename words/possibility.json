@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌpɑsəˈbɪlədi/"
+    ],
+    "synonyms": [
+        "contingency",
+        "potentiality",
+        "possible",
+        "circumstance",
+        "latent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something that is possible.",
+            "vi": "Một cái gì đó có thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The possibility has crossed my mind.",
+            "vi": "Khả năng đã xuất hiện trong đầu tôi."
+        },
+        {
+            "en": "\"Don't even think about moving up here and leaving me in New York,\" my new wife snarled, removing that possibility from consideration.",
+            "vi": "\"Thậm chí đừng nghĩ đến việc chuyển lên đây và để tôi ở New York,\" vợ mới của tôi gầm gừ, loại bỏ khả năng đó ra khỏi sự cân nhắc."
+        }
+    ],
+    "words_form": [
+        "possibilities"
+    ],
+    "meaning_vi": "khả năng"
+}

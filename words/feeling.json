@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ˈfilɪŋ/"
+    ],
+    "synonyms": [
+        "feel",
+        "impression",
+        "excitability",
+        "affection",
+        "sense"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The sensation involving perception by touch.",
+            "vi": "Cảm giác liên quan đến nhận thức bằng xúc giác."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of feeling is sympathetic or having emotion.",
+            "vi": "Định nghĩa của cảm giác là cảm thông hoặc có cảm xúc."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of feel.",
+            "vi": "Hiện tại phân từ cảm nhận."
+        },
+        {
+            "pos": "idiom",
+            "en": "have feelings for  to feel romantically about (someone); be in love with or be infatuated with",
+            "vi": "có cảm xúc để cảm thấy lãng mạn về (một người nào đó); yêu hoặc say mê"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't want you to start feeling neglected.",
+            "vi": "Tôi không muốn bạn bắt đầu cảm thấy bị bỏ rơi."
+        },
+        {
+            "en": "I do think I could work all day long without feeling tired if they would let me.",
+            "vi": "Tôi nghĩ rằng tôi có thể làm việc cả ngày dài mà không cảm thấy mệt mỏi nếu họ cho phép tôi."
+        }
+    ],
+    "words_form": [
+        "feelings"
+    ],
+    "meaning_vi": "cảm giác"
+}

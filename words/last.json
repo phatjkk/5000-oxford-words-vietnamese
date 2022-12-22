@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/læst/"
+    ],
+    "synonyms": [
+        "end",
+        "utmost",
+        "latest",
+        "conclusive",
+        "lowest"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Only remaining.",
+            "vi": "Chỉ còn lại."
+        },
+        {
+            "pos": "verb",
+            "en": "Last is to go on or continue for awhile.",
+            "vi": "Cuối cùng là tiếp tục hoặc tiếp tục trong một thời gian."
+        },
+        {
+            "pos": "adverb",
+            "en": "Most recently.",
+            "vi": "Gần đây nhất."
+        },
+        {
+            "pos": "noun",
+            "en": "One that is at the end or last.",
+            "vi": "Một cái ở cuối hoặc cuối cùng."
+        },
+        {
+            "pos": "determiner",
+            "en": "The (one) immediately before the present.",
+            "vi": "Cái (một) ngay trước hiện tại."
+        },
+        {
+            "pos": "idiom",
+            "en": "at last  After a considerable length of time; finally.",
+            "vi": "cuối cùng Sau một khoảng thời gian đáng kể; cuối cùng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Their last name is Anderson.",
+            "vi": "Họ của họ là Anderson."
+        },
+        {
+            "en": "I hope not the way they did the last time.",
+            "vi": "Tôi hy vọng không phải như cách họ đã làm lần trước."
+        }
+    ],
+    "words_form": [
+        "lasted",
+        "lastest",
+        "lasts"
+    ],
+    "meaning_vi": "cuối"
+}

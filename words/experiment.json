@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɪkˈspɛrəmənt/"
+    ],
+    "synonyms": [
+        "test",
+        "explore",
+        "verification",
+        "investigation",
+        "try"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an experiment is a test or the act of trying out a new course of action.",
+            "vi": "Định nghĩa của một thử nghiệm là một thử nghiệm hoặc hành động thử một hướng hành động mới."
+        },
+        {
+            "pos": "verb",
+            "en": "To conduct an experiment.",
+            "vi": "Để tiến hành một cuộc thử nghiệm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I shut down my experiment at six o'clock.",
+            "vi": "Tôi đóng cửa thử nghiệm của mình lúc sáu giờ."
+        },
+        {
+            "en": "Quinn's experiment is very important to him.",
+            "vi": "Thí nghiệm của Quinn rất quan trọng đối với anh ấy."
+        }
+    ],
+    "words_form": [
+        "experimented",
+        "experimenting",
+        "experiments"
+    ],
+    "meaning_vi": "cuộc thử nghiệm"
+}

@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈlɪmədəd/"
+    ],
+    "synonyms": [
+        "restrained",
+        "restricted",
+        "limited",
+        "bounded",
+        "sufficient"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of limit.",
+            "vi": "Quá khứ đơn và quá khứ phân từ giới hạn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Confined or restricted within certain limits.",
+            "vi": "Hạn chế hoặc hạn chế trong giới hạn nhất định."
+        },
+        {
+            "pos": "noun",
+            "en": "A limited train or bus.",
+            "vi": "Một chuyến tàu hoặc xe buýt hạn chế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "After a few hours of limited rest, they were back in the saddle again.",
+            "vi": "Sau một vài giờ nghỉ ngơi hạn chế, họ trở lại yên xe một lần nữa."
+        },
+        {
+            "en": "Their time was limited if they were to visit the disputed property.",
+            "vi": "Thời gian của họ bị hạn chế nếu họ đến thăm khu đất đang tranh chấp."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "giới hạn"
+}

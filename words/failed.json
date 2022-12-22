@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/feɪld/"
+    ],
+    "synonyms": [
+        "fruitless",
+        "futile",
+        "unsuccessful",
+        "failing",
+        "ineffective"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having undergone failure.",
+            "vi": "Đã trải qua thất bại."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of fail.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ của fail."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I failed you and Katie both.",
+            "vi": "Tôi đã thất bại cả bạn và Katie."
+        },
+        {
+            "en": "Carmen was so tired that the icy wind failed to keep her awake.",
+            "vi": "Carmen quá mệt mỏi nên cơn gió băng giá không thể làm cô tỉnh táo."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "adjective",
+            "en": "Having undergone failure.",
+            "vi": "Đã trải qua thất bại."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of fail.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ của fail."
+        }
+    ]
+}

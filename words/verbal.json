@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈvərbəl/"
+    ],
+    "synonyms": [
+        "oral",
+        "linguistic",
+        "lexical",
+        "titular",
+        "spoken"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Verbal means relating to words or speech.",
+            "vi": "Bằng lời nói có nghĩa là liên quan đến lời nói hoặc lời nói."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a verbal is a word, usually a noun or adjective, that is created from a verb.",
+            "vi": "Định nghĩa của một động từ là một từ, thường là một danh từ hoặc tính từ, được tạo ra từ một động từ."
+        },
+        {
+            "pos": "verb",
+            "en": "(UK, Australia) To fabricate a confession.",
+            "vi": "(Anh, Úc) Để bịa đặt một lời thú tội."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "- A verbal lease for a year is good.",
+            "vi": "- Hợp đồng cho thuê miệng trong một năm là tốt."
+        },
+        {
+            "en": "He gave verbal abuse to people for no good reason.",
+            "vi": "Anh ta đã chửi mắng mọi người mà không có lý do chính đáng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bằng lời nói"
+}

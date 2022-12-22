@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/mɪˈkænɪkəl/"
+    ],
+    "synonyms": [
+        "automated",
+        "automatic",
+        "cold",
+        "cursory",
+        "emotionless"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of or relating to machines or tools.",
+            "vi": "Của hoặc liên quan đến máy móc hoặc công cụ."
+        },
+        {
+            "pos": "noun",
+            "en": "A layout consisting of type proofs, artwork, or both, exactly positioned and prepared for making an offset or other printing plate.",
+            "vi": "Một bố cục bao gồm các bản in thử kiểu, tác phẩm nghệ thuật hoặc cả hai, được định vị chính xác và chuẩn bị cho việc tạo ra một tấm in offset hoặc các tấm in khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The advances were not merely mechanical but chemical as well.",
+            "vi": "Những tiến bộ không chỉ đơn thuần là cơ học mà còn là hóa học."
+        },
+        {
+            "en": "Even then it looked more like a mechanical toy than a living creature.",
+            "vi": "Thậm chí sau đó nó trông giống một món đồ chơi máy móc hơn là một sinh vật sống."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "adjective",
+            "en": "Of or relating to machines or tools.",
+            "vi": "Của hoặc liên quan đến máy móc hoặc công cụ."
+        },
+        {
+            "pos": "noun",
+            "en": "A layout consisting of type proofs, artwork, or both, exactly positioned and prepared for making an offset or other printing plate.",
+            "vi": "Một bố cục bao gồm các bản in thử kiểu, tác phẩm nghệ thuật hoặc cả hai, được định vị chính xác và chuẩn bị cho việc tạo ra một tấm in offset hoặc các tấm in khác."
+        }
+    ]
+}

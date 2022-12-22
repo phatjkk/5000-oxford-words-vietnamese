@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈɪmɪdʒ/"
+    ],
+    "synonyms": [
+        "copy",
+        "memory",
+        "concept",
+        "icon",
+        "effigy"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an image is a representation of something or someone or a photograph or an idea you're picturing in your head or the way you or others think of you.",
+            "vi": "Định nghĩa của một hình ảnh là đại diện của một cái gì đó hoặc một người nào đó hoặc một bức ảnh hoặc một ý tưởng mà bạn đang hình dung trong đầu hoặc cách bạn hoặc những người khác nghĩ về bạn."
+        },
+        {
+            "pos": "verb",
+            "en": "To represent symbolically.",
+            "vi": "Để biểu thị một cách tượng trưng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They stood there for a moment, watching their image in the mirror.",
+            "vi": "Họ đứng đó một lúc, ngắm nhìn hình ảnh của mình trong gương."
+        },
+        {
+            "en": "An image flashed, that of Damian chained to a wall.",
+            "vi": "Một hình ảnh lóe lên, Damian bị xích vào tường."
+        }
+    ],
+    "words_form": [
+        "imaged",
+        "images",
+        "imaging"
+    ],
+    "meaning_vi": "hình ảnh"
+}

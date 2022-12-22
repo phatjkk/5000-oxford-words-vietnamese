@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈkɔrəˌleɪt/"
+    ],
+    "synonyms": [
+        "connect",
+        "parallel",
+        "relate",
+        "coordinate",
+        "coincident"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of correlate refers to things that go together or relate to each other in some way.",
+            "vi": "Định nghĩa về mối tương quan dùng để chỉ những thứ đi cùng nhau hoặc liên quan đến nhau theo một cách nào đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Either of two interrelated things, esp. if one implies the other.",
+            "vi": "Một trong hai thứ có liên quan với nhau, đặc biệt. nếu cái này ám chỉ cái kia."
+        },
+        {
+            "pos": "adjective",
+            "en": "Closely and naturally related.",
+            "vi": "Liên quan mật thiết và tự nhiên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "More and more the science seeks to discover periodicities and to correlate these with others.",
+            "vi": "Ngày càng có nhiều ngành khoa học tìm cách khám phá các chu kỳ và mối tương quan giữa những điều này với những điều khác."
+        },
+        {
+            "en": "Many attempts have been made to correlate the results of the analyses of a soil with its known cropping power, but there is yet much to be learnt in regard to these matters.",
+            "vi": "Nhiều nỗ lực đã được thực hiện để so sánh các kết quả phân tích đất với khả năng trồng trọt đã biết của nó, nhưng vẫn chưa có nhiều điều cần học hỏi về những vấn đề này."
+        }
+    ],
+    "words_form": [
+        "correlated",
+        "correlates",
+        "correlating"
+    ],
+    "meaning_vi": "tương quan"
+}

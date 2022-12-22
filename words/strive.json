@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/straɪv/"
+    ],
+    "synonyms": [
+        "attempt",
+        "aspire",
+        "try",
+        "desire",
+        "emulate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make great efforts; try very hard.",
+            "vi": "Để nỗ lực rất nhiều; cố gắng rất nhiều."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) An effort; a striving.",
+            "vi": "(lỗi thời) Một nỗ lực; một sự phấn đấu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I will strive to achieve individuality in every project we do.",
+            "vi": "Tôi sẽ cố gắng đạt được tính cá nhân trong mọi dự án mà chúng tôi thực hiện."
+        },
+        {
+            "en": "I will strive to overcome these problems.",
+            "vi": "Tôi sẽ cố gắng vượt qua những vấn đề này."
+        }
+    ],
+    "words_form": [
+        "strived",
+        "striven",
+        "strives",
+        "striving",
+        "strove"
+    ],
+    "meaning_vi": "phấn đấu"
+}

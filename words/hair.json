@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/hɛr/"
+    ],
+    "synonyms": [
+        "locks",
+        "thatch",
+        "streak",
+        "eyebrow",
+        "hirsute"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Material woven from hair.",
+            "vi": "Chất liệu dệt từ tóc."
+        },
+        {
+            "pos": "adjective",
+            "en": "For the care of the hair.",
+            "vi": "Để chăm sóc tóc."
+        },
+        {
+            "pos": "idiom",
+            "en": "get in someone's hair  to annoy someone",
+            "vi": "túm tóc ai đó để làm phiền ai đó"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Long dark lashes and black curly hair - he had it all.",
+            "vi": "Hàng mi đen dài và mái tóc xoăn đen - anh ấy có tất cả."
+        },
+        {
+            "en": "She felt the hair rising on the back of her neck.",
+            "vi": "Cô cảm thấy tóc gáy dựng lên."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tóc"
+}

@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈpraɪˌmɛri/",
+        "/ˈpraɪm(ə)ri/"
+    ],
+    "synonyms": [
+        "basic",
+        "secondary",
+        "elemental",
+        "central",
+        "prime"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of primary is something that is the most important, among the most important, something that comes early in development or that is original and not derived from something else.",
+            "vi": "Định nghĩa về sơ cấp là thứ quan trọng nhất, trong số những thứ quan trọng nhất, là thứ có từ sớm trong quá trình phát triển hoặc là thứ nguyên bản và không có nguồn gốc từ thứ khác."
+        },
+        {
+            "pos": "noun",
+            "en": "Primary is defined as a special election that is used to choose candidates from among a political party for a more major election.",
+            "vi": "Sơ bộ được định nghĩa là một cuộc bầu cử đặc biệt được sử dụng để chọn các ứng cử viên trong số một đảng chính trị cho một cuộc bầu cử lớn hơn."
+        },
+        {
+            "pos": "verb",
+            "en": "(US, intransitive) To take part in a primary election.",
+            "vi": "(US, intransitive) Để tham gia một cuộc bầu cử sơ bộ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Support was heavy for the school's primary sport.",
+            "vi": "Hỗ trợ rất nhiều cho môn thể thao chính của trường."
+        },
+        {
+            "en": "You guys are his primary target and don't ever forget it for a minute.",
+            "vi": "Các bạn là mục tiêu chính của anh ấy và đừng bao giờ quên điều đó trong một phút."
+        }
+    ],
+    "words_form": [
+        "primaries"
+    ],
+    "meaning_vi": "sơ cấp"
+}

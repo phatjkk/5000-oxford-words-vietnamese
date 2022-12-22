@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈnaɪ/"
+    ],
+    "synonyms": [
+        "refuse",
+        "disallow",
+        "reject",
+        "contradict",
+        "dispute"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To declare untrue; assert to be false.",
+            "vi": "Khai báo sai sự thật; khẳng định là sai."
+        },
+        {
+            "pos": "idiom",
+            "en": "deny oneself  to do without desired things to abstain from",
+            "vi": "từ chối bản thân làm mà không có những điều mong muốn để kiêng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Carmen couldn't deny that fact.",
+            "vi": "Carmen không thể phủ nhận sự thật đó."
+        },
+        {
+            "en": "It was getting harder and harder to deny what she felt toward him.",
+            "vi": "Càng ngày càng khó để từ chối những gì cô cảm thấy đối với anh."
+        }
+    ],
+    "words_form": [
+        "denied",
+        "denies",
+        "denying"
+    ],
+    "meaning_vi": "từ chối"
+}

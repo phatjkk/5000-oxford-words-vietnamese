@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ənˈfɔrsmənt/"
+    ],
+    "synonyms": [
+        "requirement",
+        "regulatory",
+        "coercion",
+        "enforcing",
+        "exaction"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A giving force to; a putting in execution.",
+            "vi": "Một lực lượng cho; một cuộc thi hành."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That's something the law enforcement people don't want to do.",
+            "vi": "Đó là điều mà những người thực thi pháp luật không muốn làm."
+        },
+        {
+            "en": "It can lessen its enforcement of private property rights.",
+            "vi": "Nó có thể làm giảm bớt việc thực thi quyền sở hữu tư nhân."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thực thi"
+}

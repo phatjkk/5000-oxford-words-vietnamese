@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/kaʊ/"
+    ],
+    "synonyms": [
+        "calf",
+        "bludgeon",
+        "bull",
+        "critter",
+        "menace"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(derogatory, informal) A woman who is considered despicable in some way, especially one considered to be fat, lazy, ugly, argumentative, mean or spiteful.",
+            "vi": "(xúc phạm, không chính thức) Một phụ nữ bị coi là đáng khinh theo một cách nào đó, đặc biệt là một phụ nữ bị coi là béo, lười biếng, xấu xí, hay cãi, xấu tính hoặc cay cú."
+        },
+        {
+            "pos": "verb",
+            "en": "To frighten or subdue with threats or a show of force.",
+            "vi": "Để sợ hãi hoặc khuất phục trước những lời đe dọa hoặc biểu hiện vũ lực."
+        },
+        {
+            "pos": "acronym",
+            "en": "(computing) Acronym of copy-on-write.",
+            "vi": "(điện toán) Từ viết tắt của copy-on-write."
+        },
+        {
+            "pos": "idiom",
+            "en": "have a cow  To become amazed, angered, or upset: He had a cow when he saw the mess we made.",
+            "vi": "có một con bò Trở nên ngạc nhiên, tức giận hoặc khó chịu: Anh ta có một con bò khi anh ta nhìn thấy sự lộn xộn của chúng tôi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The Latin word for \"cow\" is vacca.",
+            "vi": "Từ tiếng Latinh cho \"con bò\" là vacca."
+        },
+        {
+            "en": "Can't you eat a cow or a rabbit or something?",
+            "vi": "Bạn không thể ăn một con bò hoặc một con thỏ hoặc một cái gì đó?"
+        }
+    ],
+    "words_form": [
+        "cowed",
+        "cows"
+    ],
+    "meaning_vi": "Con bò"
+}

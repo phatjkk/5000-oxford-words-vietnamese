@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tətʃ/"
+    ],
+    "synonyms": [
+        "feeling",
+        "touching",
+        "pat",
+        "rubbing",
+        "cuddling"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be or come into contact.",
+            "vi": "Được hoặc tiếp xúc."
+        },
+        {
+            "pos": "noun",
+            "en": "Touch, one of the five senses along with taste, smell, hearing and seeing, is defined as the act you do when you hold, caress, feel or otherwise encounter something with your hand.",
+            "vi": "Chạm vào, một trong năm giác quan cùng với vị giác, khứu giác, nghe và nhìn, được định nghĩa là hành động bạn thực hiện khi cầm, vuốt ve, cảm nhận hoặc chạm vào vật gì đó bằng tay."
+        },
+        {
+            "pos": "idiom",
+            "en": "in touch  Aware of the latest developments, as in current events or an area of interest. Able to appreciate or understand the concerns or difficulties of others. Able to be contacted, as by telephone or e-mail: I will be in touch by phone after I arrive at the hotel.",
+            "vi": "liên lạc Nhận thức về những phát triển mới nhất, như trong các sự kiện hiện tại hoặc một lĩnh vực quan tâm. Có khả năng đánh giá cao hoặc hiểu những mối quan tâm hoặc khó khăn của người khác. Có thể liên lạc qua điện thoại hoặc e-mail: Tôi sẽ liên lạc qua điện thoại sau khi tôi đến khách sạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I will not advise getting in touch with our feelings or even group hugs.",
+            "vi": "Tôi sẽ không khuyên bạn nên liên lạc với tình cảm của chúng tôi hoặc thậm chí là những cái ôm nhóm."
+        },
+        {
+            "en": "Sir, is there some way we can get in touch with you?",
+            "vi": "Thưa ông, có cách nào để chúng tôi có thể liên lạc với ông không?"
+        }
+    ],
+    "words_form": [
+        "touched",
+        "touches",
+        "touching"
+    ],
+    "meaning_vi": "xúc giác"
+}

@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈklæsˌrum/",
+        "/ˈklæsˌrʊm/"
+    ],
+    "synonyms": [
+        "schoolroom",
+        "teaching",
+        "whole-class",
+        "teacher",
+        "pupil"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a classroom is the room at a school or college where classes are taught.",
+            "vi": "Định nghĩa của một lớp học là căn phòng tại một trường học hoặc trường cao đẳng nơi các lớp học được giảng dạy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It can be implemented face-to-face in the classroom or virtually.",
+            "vi": "Nó có thể được thực hiện trực tiếp trong lớp học hoặc ảo."
+        },
+        {
+            "en": "Then the teacher can move from that to a classroom context.",
+            "vi": "Sau đó, giáo viên có thể chuyển từ ngữ cảnh đó sang bối cảnh lớp học."
+        }
+    ],
+    "words_form": [
+        "classrooms"
+    ],
+    "meaning_vi": "lớp học"
+}

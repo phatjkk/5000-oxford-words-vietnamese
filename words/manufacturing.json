@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˌmæn(j)əˈfæktʃərɪŋ/"
+    ],
+    "synonyms": [
+        "producing",
+        "production",
+        "tooling",
+        "industrial",
+        "forging"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The action of the verb to manufacture.",
+            "vi": "Hành động của động từ sản xuất."
+        },
+        {
+            "pos": "adjective",
+            "en": "Used in manufacturing.",
+            "vi": "Được sử dụng trong sản xuất."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of manufacture.",
+            "vi": "Trình bày phân từ sản xuất."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The manufacturing interests of Nevada are unimportant.",
+            "vi": "Lợi ích sản xuất của Nevada là không quan trọng."
+        },
+        {
+            "en": "Manufacturing is largely localized in the northwestern part of the state along the Ohio river.",
+            "vi": "Sản xuất phần lớn được bản địa hóa ở phần tây bắc của bang dọc theo sông Ohio."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sự sản xuất; sự chế tạo"
+}

@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈɪnstrəmənt/"
+    ],
+    "synonyms": [
+        "equipment",
+        "intermediary",
+        "utensil",
+        "instrumentality",
+        "instrumentation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an instrument is a tool for doing work, particularly for scientific or artistic purposes.",
+            "vi": "Định nghĩa của một nhạc cụ là một công cụ để thực hiện công việc, đặc biệt là cho các mục đích khoa học hoặc nghệ thuật."
+        },
+        {
+            "pos": "verb",
+            "en": "To perform upon an instrument; to prepare for an instrument.",
+            "vi": "Để biểu diễn trên một nhạc cụ; để chuẩn bị cho một nhạc cụ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or having to do with instrument flying.",
+            "vi": "Liên quan đến hoặc liên quan đến nhạc cụ bay."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She knew the essential conditions of the instrument.",
+            "vi": "Cô biết những điều kiện thiết yếu của cây đàn."
+        },
+        {
+            "en": "I think the bell is an instrument, too.",
+            "vi": "Tôi nghĩ chuông cũng là một nhạc cụ."
+        }
+    ],
+    "words_form": [
+        "instrumented",
+        "instruments"
+    ],
+    "meaning_vi": "nhạc cụ"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kənˈvərt/"
+    ],
+    "synonyms": [
+        "transform",
+        "reform",
+        "save",
+        "disciple",
+        "restore"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To convert is to change, to cause someone or something to change, or to alter your beliefs.",
+            "vi": "Chuyển đổi là thay đổi, khiến ai đó hoặc điều gì đó thay đổi, hoặc thay đổi niềm tin của bạn."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a convert is a person who has come around to a new way of thinking or who has been persuaded to change his religion or beliefs.",
+            "vi": "Định nghĩa về một người cải đạo là một người đã chuyển sang một lối suy nghĩ mới hoặc người đã được thuyết phục để thay đổi tôn giáo hoặc tín ngưỡng của mình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She'd not yet figured out how to convert their measures of distance to miles.",
+            "vi": "Cô vẫn chưa tìm ra cách chuyển đổi số đo khoảng cách của họ sang dặm."
+        },
+        {
+            "en": "According to Christian writers, he was a convert to Christianity.",
+            "vi": "Theo các tác giả Cơ đốc giáo, ông là một người cải đạo sang Cơ đốc giáo."
+        }
+    ],
+    "words_form": [
+        "converted",
+        "converting",
+        "converts"
+    ],
+    "meaning_vi": "đổi"
+}

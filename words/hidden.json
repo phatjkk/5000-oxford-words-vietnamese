@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˈhɪdn/"
+    ],
+    "synonyms": [
+        "buried",
+        "clandestine",
+        "concealed",
+        "covered",
+        "covert"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Hide.",
+            "vi": "Giấu."
+        },
+        {
+            "pos": "adjective",
+            "en": "Concealed; secret.",
+            "vi": "Giấu; bí mật."
+        },
+        {
+            "pos": "",
+            "en": "Not visible to the user or to software. See hidden file extensions, hidden disk areas, hidden file and hidden network.",
+            "vi": "Không hiển thị cho người dùng hoặc phần mềm. Xem phần mở rộng tệp ẩn, vùng đĩa ẩn, tệp ẩn và mạng ẩn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The hidden stranger lashed out at him.",
+            "vi": "Kẻ lạ mặt đã ra mặt tấn công anh."
+        },
+        {
+            "en": "The gate was again hidden by smoke.",
+            "vi": "Cánh cổng lại bị khói che khuất."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "verb",
+            "en": "Hide.",
+            "vi": "Giấu."
+        },
+        {
+            "pos": "adjective",
+            "en": "Concealed; secret.",
+            "vi": "Giấu; bí mật."
+        },
+        {
+            "pos": "",
+            "en": "Not visible to the user or to software. See hidden file extensions, hidden disk areas, hidden file and hidden network.",
+            "vi": "Không hiển thị cho người dùng hoặc phần mềm. Xem phần mở rộng tệp ẩn, vùng đĩa ẩn, tệp ẩn và mạng ẩn."
+        }
+    ]
+}

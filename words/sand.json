@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/sænd/"
+    ],
+    "synonyms": [
+        "os",
+        "earth",
+        "backbone",
+        "natural",
+        "strand"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Sand is defined as small, loose, gritty particles of rock, or an area with these small particles.",
+            "vi": "Cát được định nghĩa là các hạt đá nhỏ, rời rạc, hoặc một khu vực có các hạt nhỏ này."
+        },
+        {
+            "pos": "verb",
+            "en": "Sand means to sprinkle with sand, or to smooth the surface using sand particles or sandpaper.",
+            "vi": "Cát có nghĩa là rắc cát, hoặc để làm phẳng bề mặt bằng cách sử dụng hạt cát hoặc giấy nhám."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of sand is the color that is a light grayish brown to a yellowish tan.",
+            "vi": "Định nghĩa của cát là màu từ nâu xám nhạt đến nâu vàng."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) (pseud. of Amandine Aurore Lucie Dupin, Baronne Dudevant) 1804-76; Fr. novelist.",
+            "vi": "(người) (bút danh của Amandine Aurore Lucie Dupin, Baronne Dudevant) 1804-76; NS. tiểu thuyết gia."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The white sand was almost as blinding as snow.",
+            "vi": "Bãi cát trắng gần như mù mịt như tuyết."
+        },
+        {
+            "en": "He scraped sand over the scorpion, burying it from her view.",
+            "vi": "Anh cào cát lên con bọ cạp, chôn nó khỏi tầm nhìn của cô."
+        }
+    ],
+    "words_form": [
+        "sanded",
+        "sanding",
+        "sands"
+    ],
+    "meaning_vi": "cát"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dɪʃ/"
+    ],
+    "synonyms": [
+        "platter",
+        "entree",
+        "serving",
+        "ceramic",
+        "bowl"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a dish is a container used for holding and serving food.",
+            "vi": "Định nghĩa về một món ăn là một vật chứa được sử dụng để đựng và phục vụ thức ăn."
+        },
+        {
+            "pos": "verb",
+            "en": "To dish is defined as to serve food.",
+            "vi": "Món ăn được định nghĩa là để phục vụ thức ăn."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) dish it out  To deal out criticism or abuse.",
+            "vi": "(tiếng lóng) món ăn ra Để đối phó với những lời chỉ trích hoặc lạm dụng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"I'll make it a dinner dish,\" said Jim.",
+            "vi": "Jim nói: “Tôi sẽ biến nó thành một món ăn tối."
+        },
+        {
+            "en": "Katie washed a dish and rinsed it in silence.",
+            "vi": "Katie rửa một chiếc đĩa và tráng nó trong im lặng."
+        }
+    ],
+    "words_form": [
+        "dished",
+        "dishes",
+        "dishing"
+    ],
+    "meaning_vi": "món ăn"
+}

@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/ˈbɛdər/"
+    ],
+    "synonyms": [
+        "preferred",
+        "greater",
+        "surpassing",
+        "finer",
+        "improved"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Better is to make something more acceptable.",
+            "vi": "Tốt hơn là làm cho một cái gì đó dễ chấp nhận hơn."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a more excellent way.",
+            "vi": "Theo một cách tuyệt vời hơn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Compar. of good.",
+            "vi": "So sánh. tốt."
+        },
+        {
+            "pos": "noun",
+            "en": "A person superior in authority, position, etc.",
+            "vi": "Một người cấp trên về quyền hạn, chức vụ, v.v."
+        },
+        {
+            "pos": "idiom",
+            "en": "better off  In a better or more prosperous condition: Would be better off taking the train instead of driving; felt better off after the rise in stock prices.",
+            "vi": "tốt hơn Trong điều kiện tốt hơn hoặc sung túc hơn: Sẽ tốt hơn nếu đi tàu thay vì lái xe; cảm thấy tốt hơn sau khi giá cổ phiếu tăng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Better stop by and get Howard Spencer.",
+            "vi": "Tốt hơn hãy ghé qua và gặp Howard Spencer."
+        },
+        {
+            "en": "We'd better go down for breakfast.",
+            "vi": "Tốt hơn chúng ta nên xuống ăn sáng."
+        }
+    ],
+    "words_form": [
+        "betters"
+    ],
+    "meaning_vi": "tốt hơn"
+}

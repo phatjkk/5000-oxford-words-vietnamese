@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɛdʒ/"
+    ],
+    "synonyms": [
+        "rim",
+        "verge",
+        "end",
+        "boundary",
+        "selvage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The thin, sharp, cutting part of a blade.",
+            "vi": "Phần cắt mỏng, sắc bén của lưỡi dao."
+        },
+        {
+            "pos": "verb",
+            "en": "To edge is defined as to give something a border or to slowly move in a specific direction.",
+            "vi": "To edge được định nghĩa là tạo đường viền cho vật gì đó hoặc di chuyển từ từ theo một hướng cụ thể."
+        },
+        {
+            "pos": "idiom",
+            "en": "on edge  Highly tense or nervous; irritable.",
+            "vi": "trên cạnh Căng thẳng cao độ hoặc lo lắng; dễ cáu bẳn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He stood and walked to the edge of the pond.",
+            "vi": "Anh đứng và đi ra bờ ao."
+        },
+        {
+            "en": "He sat down on the edge of the bed, staring at his feet... and then keeled over on the bed.",
+            "vi": "Anh ngồi xuống mép giường, nhìn chằm chằm vào chân mình ... rồi cúi xuống giường."
+        }
+    ],
+    "words_form": [
+        "edged",
+        "edges",
+        "edging"
+    ],
+    "meaning_vi": "cạnh"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈpəzəl/"
+    ],
+    "synonyms": [
+        "puzzlement",
+        "issue",
+        "intricacy",
+        "question mark",
+        "bewilderment"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a puzzle is game to exercise the brain by fitting different pieces together.",
+            "vi": "Định nghĩa của câu đố là trò chơi vận động trí não bằng cách lắp các mảnh ghép khác nhau lại với nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "To puzzle is defined as to confuse.",
+            "vi": "Câu đố được định nghĩa là nhầm lẫn."
+        },
+        {
+            "pos": "idiom",
+            "en": "puzzle out  to solve by deep thought or study",
+            "vi": "câu đố để giải quyết bằng cách suy nghĩ sâu sắc hoặc nghiên cứu"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The pieces of the puzzle simply didn't fit together.",
+            "vi": "Các mảnh ghép đơn giản là không khớp với nhau."
+        },
+        {
+            "en": "Each still held the final pieces to the puzzle they left behind.",
+            "vi": "Mỗi người vẫn giữ những mảnh ghép cuối cùng của câu đố mà họ để lại."
+        }
+    ],
+    "words_form": [
+        "puzzled",
+        "puzzles",
+        "puzzling"
+    ],
+    "meaning_vi": "câu đố"
+}

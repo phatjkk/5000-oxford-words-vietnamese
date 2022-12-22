@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/steɪ/"
+    ],
+    "synonyms": [
+        "sojourn",
+        "wait",
+        "hold",
+        "remain",
+        "truss"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a stay is a visit somewhere.",
+            "vi": "Định nghĩa của một kỳ nghỉ là một chuyến thăm đến một nơi nào đó."
+        },
+        {
+            "pos": "verb",
+            "en": "(games) To meet a bet in poker without raising it.",
+            "vi": "(trò chơi) Để đặt cược trong poker mà không cần nâng nó lên."
+        },
+        {
+            "pos": "adjective",
+            "en": "(UK dialectal) Steep; ascending.",
+            "vi": "(Phương ngữ Anh) Dốc; tăng dần."
+        },
+        {
+            "pos": "adverb",
+            "en": "(UK dialectal) Steeply.",
+            "vi": "(Phương ngữ Anh) Dốc."
+        },
+        {
+            "pos": "idiom",
+            "en": "stay put  To remain in a fixed or established position.",
+            "vi": "giữ nguyên Để duy trì một vị trí cố định hoặc đã được thiết lập."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They wanted to stay at the party.",
+            "vi": "Họ muốn ở lại bữa tiệc."
+        },
+        {
+            "en": "You can go with me or stay here.",
+            "vi": "Bạn có thể đi với tôi hoặc ở lại đây."
+        }
+    ],
+    "words_form": [
+        "stayed",
+        "staying",
+        "stays"
+    ],
+    "meaning_vi": "Ở lại!"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈfɪɡjər/"
+    ],
+    "synonyms": [
+        "dash",
+        "symbol",
+        "development",
+        "drawing",
+        "structure"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To figure is defined as to play an important role in something.",
+            "vi": "To figure được định nghĩa là đóng một vai trò quan trọng trong một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "(music) A brief melodic or harmonic unit often constituting the basis of a larger phrase or structure.",
+            "vi": "(âm nhạc) Một đơn vị giai điệu hoặc giai điệu ngắn gọn thường tạo thành cơ sở của một cụm từ hoặc cấu trúc lớn hơn."
+        },
+        {
+            "pos": "idiom",
+            "en": "go figure  Used in the imperative to indicate the unexpectedness or absurdity of something.",
+            "vi": "go figure Được sử dụng trong mệnh lệnh để chỉ sự bất ngờ hoặc phi lý của một điều gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We can't figure it out.",
+            "vi": "Chúng tôi không thể tìm ra nó."
+        },
+        {
+            "en": "She's smart enough to figure out what to do.",
+            "vi": "Cô ấy đủ thông minh để tìm ra những gì cần làm."
+        }
+    ],
+    "words_form": [
+        "figured",
+        "figures",
+        "figuring"
+    ],
+    "meaning_vi": "hình"
+}

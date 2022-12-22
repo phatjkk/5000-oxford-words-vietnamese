@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/floʊt/"
+    ],
+    "synonyms": [
+        "drift",
+        "raft",
+        "outrigger",
+        "levitation",
+        "bobber"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To move easily or lightly.",
+            "vi": "Để di chuyển dễ dàng hoặc nhẹ nhàng."
+        },
+        {
+            "pos": "noun",
+            "en": "The number of shares of a security that are publicly owned and traded.",
+            "vi": "Số lượng cổ phiếu của một chứng khoán được sở hữu và giao dịch công khai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I am not afraid to float now.",
+            "vi": "Tôi không sợ phải nổi bây giờ."
+        },
+        {
+            "en": "Her head felt like it could float off her body.",
+            "vi": "Đầu cô như có thể trôi ra khỏi cơ thể."
+        }
+    ],
+    "words_form": [
+        "floated",
+        "floating",
+        "floats"
+    ],
+    "meaning_vi": "phao"
+}

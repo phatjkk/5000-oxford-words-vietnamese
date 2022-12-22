@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈkərtn/"
+    ],
+    "synonyms": [
+        "drapery",
+        "screen",
+        "barrier",
+        "hanging",
+        "blind"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a curtain is any sort of covering, especially a piece of cloth that covers a window or opening.",
+            "vi": "Định nghĩa của rèm là bất kỳ loại vật liệu che phủ nào, đặc biệt là một mảnh vải che cửa sổ hoặc cửa ra vào."
+        },
+        {
+            "pos": "verb",
+            "en": "Curtain is described as to cover with or decorate with fabric.",
+            "vi": "Rèm được mô tả là để phủ hoặc trang trí bằng vải."
+        },
+        {
+            "pos": "idiom",
+            "en": "bring down the curtain on  to end to conceal",
+            "vi": "kéo rèm xuống để che giấu"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Lisa pulled a curtain back to examine the sky.",
+            "vi": "Lisa kéo rèm lại để xem xét bầu trời."
+        },
+        {
+            "en": "He lowered the curtain, dropping the room into darkness.",
+            "vi": "Anh hạ rèm, thả cả căn phòng vào bóng tối."
+        }
+    ],
+    "words_form": [
+        "curtained",
+        "curtains"
+    ],
+    "meaning_vi": "tấm màn"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/hæt/"
+    ],
+    "synonyms": [
+        "cap",
+        "millinery",
+        "chapeau",
+        "lid",
+        "helmet"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To supply or cover with a hat.",
+            "vi": "Để cung cấp hoặc che phủ bằng một chiếc mũ."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a hat is a covering for the head, or someone's role in a job or in life.",
+            "vi": "Định nghĩa của một chiếc mũ là một vật che phủ cho đầu, hoặc vai trò của một người nào đó trong công việc hoặc trong cuộc sống."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "See also headgear.",
+            "vi": "Xem thêm mũ đội đầu."
+        },
+        {
+            "pos": "idiom",
+            "en": "at the drop of a hat  At the slightest pretext or provocation.",
+            "vi": "khi đánh rơi mũ Với lý do hoặc khiêu khích nhỏ nhất."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He pulled his hat over his eyes.",
+            "vi": "Anh kéo mũ che mắt."
+        },
+        {
+            "en": "Take your hat off at the table.",
+            "vi": "Bỏ mũ ra bàn."
+        }
+    ],
+    "words_form": [
+        "hats",
+        "hatted",
+        "hatting"
+    ],
+    "meaning_vi": "cái nón"
+}

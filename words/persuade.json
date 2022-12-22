@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/pərˈsweɪd/"
+    ],
+    "synonyms": [
+        "convince",
+        "induce",
+        "move",
+        "coax",
+        "influence"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of persuade is to convince someone to do or think something.",
+            "vi": "Định nghĩa của thuyết phục là thuyết phục ai đó làm hoặc suy nghĩ điều gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "How did you persuade Mother to agree to this?",
+            "vi": "Bạn đã thuyết phục Mẹ đồng ý điều này như thế nào?"
+        },
+        {
+            "en": "He would not listen to anyone who tried to persuade him to stay at home.",
+            "vi": "Anh ta sẽ không nghe bất cứ ai cố gắng thuyết phục anh ta ở nhà."
+        }
+    ],
+    "words_form": [
+        "persuaded",
+        "persuades",
+        "persuading"
+    ],
+    "meaning_vi": "thuyết phục"
+}

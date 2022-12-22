@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/daɪˈnæmɪk/"
+    ],
+    "synonyms": [
+        "energetic",
+        "powerful",
+        "changing",
+        "intense",
+        "forcible"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of dynamic is constant change or motion.",
+            "vi": "Định nghĩa của động là sự thay đổi liên tục hoặc chuyển động."
+        },
+        {
+            "pos": "noun",
+            "en": "An interactive system or process, especially one involving competing or conflicting forces.",
+            "vi": "Một hệ thống hoặc quy trình tương tác, đặc biệt là quy trình liên quan đến các lực lượng cạnh tranh hoặc xung đột."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The city is a dynamic metropolitan area, and major financial center.",
+            "vi": "Thành phố là một khu vực đô thị năng động và trung tâm tài chính lớn."
+        },
+        {
+            "en": "The great thing about the Internet is its dynamic nature.",
+            "vi": "Điều tuyệt vời của Internet là tính năng động của nó."
+        }
+    ],
+    "words_form": [
+        "dynamical"
+    ],
+    "meaning_vi": "năng động"
+}

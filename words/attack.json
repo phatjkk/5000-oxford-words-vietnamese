@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/əˈtæk/"
+    ],
+    "synonyms": [
+        "lunge",
+        "assault",
+        "onslaught",
+        "strike",
+        "open-fire"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To criticize strongly or in a hostile manner.",
+            "vi": "Chỉ trích mạnh mẽ hoặc theo thái độ thù địch."
+        },
+        {
+            "pos": "noun",
+            "en": "Attack is defined as the act of making a physical or verbal attempt to hurt or destroy, sometimes in a purposefully hurtful manner.",
+            "vi": "Tấn công được định nghĩa là hành động thực hiện một nỗ lực bằng lời nói hoặc thể chất để làm tổn thương hoặc phá hủy, đôi khi có mục đích gây tổn thương."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designed or used for carrying out a hostile or aggressive attack.",
+            "vi": "Được thiết kế hoặc sử dụng để thực hiện một cuộc tấn công thù địch hoặc gây hấn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "For whatever reason, people like to attack me.",
+            "vi": "Vì bất cứ lý do gì, mọi người thích tấn công tôi."
+        },
+        {
+            "en": "It wasn't as if she was going to allow Brutus to attack their guest.",
+            "vi": "Nó không giống như thể cô ấy sẽ cho phép Brutus tấn công khách của họ."
+        }
+    ],
+    "words_form": [
+        "attacked",
+        "attacking",
+        "attacks"
+    ],
+    "meaning_vi": "tấn công"
+}

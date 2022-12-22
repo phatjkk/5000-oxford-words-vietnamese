@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈdædə/",
+        "/ˈdeɪdə/"
+    ],
+    "synonyms": [
+        "details",
+        "information",
+        "facts",
+        "notes",
+        "numbers"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Data is defined as facts or figures, or information that's stored in or used by a computer.",
+            "vi": "Dữ liệu được định nghĩa là dữ kiện hoặc số liệu, hoặc thông tin được máy tính lưu trữ hoặc sử dụng."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "Facts that can be analyzed or used in an effort to gain knowledge or make decisions; information.",
+            "vi": "Sự kiện có thể được phân tích hoặc sử dụng trong nỗ lực thu thập kiến ​​thức hoặc đưa ra quyết định; thông tin."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You have some access to data bases that could be helpful.",
+            "vi": "Bạn có một số quyền truy cập vào các cơ sở dữ liệu có thể hữu ích."
+        },
+        {
+            "en": "The machine will figure this out as it collects more data and incorporates more variables, and then experiments on people to see which combinations of factors work the best.",
+            "vi": "Máy sẽ tìm ra điều này khi nó thu thập nhiều dữ liệu hơn và kết hợp nhiều biến hơn, sau đó thử nghiệm trên con người để xem sự kết hợp của các yếu tố nào hoạt động tốt nhất."
+        }
+    ],
+    "words_form": [
+        "datum"
+    ],
+    "meaning_vi": "dữ liệu"
+}

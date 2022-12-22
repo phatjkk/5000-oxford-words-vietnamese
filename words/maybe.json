@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈmeɪbi/"
+    ],
+    "synonyms": [
+        "possibly",
+        "perhaps",
+        "probably",
+        "conceivable",
+        "definitely"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Maybe is defined as possibly or perhaps.",
+            "vi": "Có thể được định nghĩa là có thể hoặc có thể."
+        },
+        {
+            "pos": "noun",
+            "en": "An uncertainty.",
+            "vi": "Một sự không chắc chắn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Possible; uncertain.",
+            "vi": "Khả thi; không chắc chắn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maybe he should see a doctor.",
+            "vi": "Có lẽ anh ta nên đi khám bác sĩ."
+        },
+        {
+            "en": "Maybe he thought she would change her mind, but it wasn't going to happen.",
+            "vi": "Có thể anh nghĩ cô sẽ thay đổi quyết định, nhưng điều đó sẽ không xảy ra."
+        }
+    ],
+    "words_form": [
+        "maybes"
+    ],
+    "meaning_vi": "Có thể!"
+}

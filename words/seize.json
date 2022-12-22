@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/siz/"
+    ],
+    "synonyms": [
+        "take",
+        "confiscate",
+        "offer",
+        "subdue",
+        "steal"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To seize is to take something eagerly, aggressively or by force.",
+            "vi": "Nắm bắt là lấy một thứ gì đó một cách háo hức, mạnh mẽ hoặc bằng vũ lực."
+        },
+        {
+            "pos": "idiom",
+            "en": "seize on  to take hold of suddenly and forcibly to take possession of to turn eagerly to (an idea, etc.)",
+            "vi": "nắm bắt để nắm giữ bất ngờ và buộc phải chiếm hữu để háo hức chuyển sang (một ý tưởng, v.v.)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Dean decided to seize the moment.",
+            "vi": "Dean quyết định nắm bắt thời điểm."
+        },
+        {
+            "en": "Seize the moments of happiness, love and be loved!",
+            "vi": "Nắm bắt những khoảnh khắc hạnh phúc, yêu thương và được yêu thương!"
+        }
+    ],
+    "words_form": [
+        "seized",
+        "seizes",
+        "seizing"
+    ],
+    "meaning_vi": "nắm bắt"
+}

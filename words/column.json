@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈkɑləm/"
+    ],
+    "synonyms": [
+        "monolith",
+        "pillar",
+        "support",
+        "cylinder",
+        "pedestal"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A feature article that appears regularly in a publication, such as a newspaper.",
+            "vi": "Một bài báo nổi bật xuất hiện thường xuyên trong một ấn phẩm, chẳng hạn như một tờ báo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The head of the column had already descended into the hollow.",
+            "vi": "Đầu cột đã chui xuống hốc."
+        },
+        {
+            "en": "He touched his horse and having called Miloradovich, the commander of the column, gave him the order to advance.",
+            "vi": "Anh ta chạm vào con ngựa của mình và gọi Miloradovich, chỉ huy của cột, ra lệnh cho anh ta tiến lên."
+        }
+    ],
+    "words_form": [
+        "columns"
+    ],
+    "meaning_vi": "cột"
+}

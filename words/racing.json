@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈreɪsɪŋ/"
+    ],
+    "synonyms": [
+        "speeding",
+        "rushing",
+        "darting",
+        "dashing",
+        "hurtling"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The sport of competing in races.",
+            "vi": "Các môn thể thao cạnh tranh trong các cuộc đua."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of race.",
+            "vi": "Hiện tại phân từ của cuộc đua."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He turned in time to see someone racing away.",
+            "vi": "Anh quay lại đúng lúc thì thấy ai đó đang chạy đi."
+        },
+        {
+            "en": "Heart racing, Taran went.",
+            "vi": "Tim đập loạn nhịp, Taran đã đi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "cuộc đua"
+}

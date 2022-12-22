@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈfɪzɪks/"
+    ],
+    "synonyms": [
+        "physic",
+        "science",
+        "cures",
+        "remedies",
+        "astrophysics"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Physics is the science of energy and matter and how they relate to each other.",
+            "vi": "Vật lý là khoa học về năng lượng và vật chất và cách chúng liên hệ với nhau."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "Physical properties or processes.",
+            "vi": "Các tính chất vật lý hoặc các quá trình."
+        },
+        {
+            "pos": "verb",
+            "en": "Third-person singular simple present indicative form of physic.",
+            "vi": "Ngôi thứ ba số ít thì hiện tại đơn dạng biểu thị của vật lý."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His whole theory appears to be vitiated by the confusion of physics and psychology.",
+            "vi": "Toàn bộ lý thuyết của ông dường như được chứng minh bởi sự nhầm lẫn giữa vật lý và tâm lý học."
+        },
+        {
+            "en": "This makes a great deal of sense: If nutrition isn't governed by universal laws (as physics is) and instead affects different people differently, then the way you will know certain things is by learning through trial and error, through your own experience.",
+            "vi": "Điều này rất có ý nghĩa: Nếu dinh dưỡng không bị chi phối bởi các quy luật phổ quát (như vật lý học) và thay vào đó ảnh hưởng đến những người khác nhau theo cách khác nhau, thì cách bạn sẽ biết những điều nhất định là học qua thử và sai, thông qua kinh nghiệm của chính bạn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "vật lý"
+}

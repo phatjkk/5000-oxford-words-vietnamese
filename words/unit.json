@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈjunət/"
+    ],
+    "synonyms": [
+        "digit",
+        "complement",
+        "gallon",
+        "totality",
+        "assemblage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A group regarded as a distinct entity within a larger group.",
+            "vi": "Một nhóm được coi là một thực thể riêng biệt trong một nhóm lớn hơn."
+        },
+        {
+            "pos": "adjective",
+            "en": "(mathematics) Having a size or magnitude of one.",
+            "vi": "(toán học) Có kích thước hoặc độ lớn của một."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Unitarian.",
+            "vi": "Đơn nguyên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The medical unit has healed me.",
+            "vi": "Đơn vị y tế đã chữa lành cho tôi."
+        },
+        {
+            "en": "This is Lieutenant George with the intel unit assigned to your command.",
+            "vi": "Đây là Trung úy George với đơn vị tình báo được giao cho chỉ huy của bạn."
+        }
+    ],
+    "words_form": [
+        "units"
+    ],
+    "meaning_vi": "đơn vị"
+}

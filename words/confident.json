@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈkɑnfədənt/"
+    ],
+    "synonyms": [
+        "assured",
+        "positive",
+        "convinced",
+        "self-assured",
+        "self-confident"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of confident is to be certain about something or feeling sure of yourself and your abilities.",
+            "vi": "Định nghĩa của tự tin là chắc chắn về điều gì đó hoặc cảm thấy chắc chắn về bản thân và khả năng của mình."
+        },
+        {
+            "pos": "noun",
+            "en": "Confidant.",
+            "vi": "Tâm sự."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The speakers were confident communicators.",
+            "vi": "Các diễn giả là những người giao tiếp tự tin."
+        },
+        {
+            "en": "She was a confident swimmer.",
+            "vi": "Cô ấy là một vận động viên bơi lội tự tin."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tự tin"
+}

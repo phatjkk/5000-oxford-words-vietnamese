@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈskəvər/"
+    ],
+    "synonyms": [
+        "detect",
+        "discovery",
+        "encounter",
+        "explore",
+        "identify"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To find out; learn of the existence of; realize.",
+            "vi": "Tim ra; tìm hiểu về sự tồn tại của; nhận ra."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(US) Discover Card, a brand of credit card.",
+            "vi": "(US) Discover Card, một thương hiệu thẻ tín dụng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I want to discover what I can do.",
+            "vi": "Tôi muốn khám phá những gì tôi có thể làm."
+        },
+        {
+            "en": "She woke in the morning to discover she was alone.",
+            "vi": "Cô tỉnh dậy vào buổi sáng và phát hiện ra mình chỉ có một mình."
+        }
+    ],
+    "words_form": [
+        "discovered",
+        "discovering",
+        "discovers"
+    ],
+    "meaning_vi": "khám phá"
+}

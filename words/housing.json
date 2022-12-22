@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈhaʊzɪŋ/"
+    ],
+    "synonyms": [
+        "habitation",
+        "protection",
+        "sheltering",
+        "installation",
+        "covering"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A hole, groove, or slot in a piece of wood into which another piece is inserted.",
+            "vi": "Một lỗ, rãnh hoặc khe trên miếng gỗ mà miếng khác được chèn vào."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of house.",
+            "vi": "Hiện tại phân từ của ngôi nhà."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Dean spent a pocket full of coins before he found the one housing the person for whom he was searching.",
+            "vi": "Dean đã tiêu một túi đầy xu trước khi anh ta tìm thấy một trong những nơi ở của người mà anh ta đang tìm kiếm."
+        },
+        {
+            "en": "Housing is a huge industry that will reward innovative products.",
+            "vi": "Nhà ở là một ngành công nghiệp khổng lồ sẽ thưởng cho các sản phẩm sáng tạo."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nhà ở"
+}

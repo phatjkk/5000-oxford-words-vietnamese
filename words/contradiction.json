@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌkɑntrəˈdɪkʃ(ə)n/"
+    ],
+    "synonyms": [
+        "verification",
+        "opposite",
+        "conflict",
+        "gainsaying",
+        "difference"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of contradiction is a statement that is different than another statement.",
+            "vi": "Định nghĩa về sự mâu thuẫn là một tuyên bố khác với một tuyên bố khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The contradiction confused her.",
+            "vi": "Sự mâu thuẫn khiến cô bối rối."
+        },
+        {
+            "en": "This was in direct contradiction with the instructions Napoleon had given him on the 28th of March in view of this very emergency.",
+            "vi": "Điều này hoàn toàn trái ngược với những chỉ dẫn mà Napoléon đã đưa ra vào ngày 28 tháng 3 về tình hình rất khẩn cấp này."
+        }
+    ],
+    "words_form": [
+        "contradictions"
+    ],
+    "meaning_vi": "sự mâu thuẫn, sự trái ngược"
+}

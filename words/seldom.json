@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈsɛldəm/"
+    ],
+    "synonyms": [
+        "rarely",
+        "unusually",
+        "frequently",
+        "occasionally",
+        "often"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Not often; infrequently or rarely.",
+            "vi": "Không thường xuyên; không thường xuyên hoặc hiếm khi."
+        },
+        {
+            "pos": "adjective",
+            "en": "Infrequent; rare.",
+            "vi": "Không thường xuyên; hiếm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The same people seldom show up twice.",
+            "vi": "Những người giống nhau hiếm khi xuất hiện hai lần."
+        },
+        {
+            "en": "He seldom offered an opinion, much less began a conversation.",
+            "vi": "Anh ấy hiếm khi đưa ra ý kiến, ít khi bắt đầu một cuộc trò chuyện."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hiếm khi"
+}

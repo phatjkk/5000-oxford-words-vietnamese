@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/feɪt/"
+    ],
+    "synonyms": [
+        "destiny",
+        "luck",
+        "end",
+        "fortune",
+        "outcome"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Fate is defined as forces outside of your control that make things happen.",
+            "vi": "Số phận được định nghĩa là những lực lượng nằm ngoài tầm kiểm soát của bạn làm cho mọi thứ xảy ra."
+        },
+        {
+            "pos": "verb",
+            "en": "To foreordain or predetermine, to make inevitable.",
+            "vi": "Để biết trước hoặc xác định trước, để làm cho tất yếu."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A personification of fate (the cause that predetermines events).",
+            "vi": "Một sự hiện thân của số phận (nguyên nhân xác định trước các sự kiện)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's your fate, but I feel like you know this.",
+            "vi": "Đó là số phận của bạn, nhưng tôi cảm thấy như bạn biết điều này."
+        },
+        {
+            "en": "A person couldn't avoid fate, but they could control the way they responded to it.",
+            "vi": "Một người không thể trốn tránh số phận, nhưng họ có thể kiểm soát cách họ phản ứng với nó."
+        }
+    ],
+    "words_form": [
+        "fated",
+        "fating"
+    ],
+    "meaning_vi": "số phận"
+}

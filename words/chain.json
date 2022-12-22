@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/tʃeɪn/"
+    ],
+    "synonyms": [
+        "bind",
+        "hamstring",
+        "necklace",
+        "connection",
+        "hold"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a chain is a series of objects, people or events which are connected to one another, or a flexible series of metal links.",
+            "vi": "Định nghĩa về dây chuyền là một chuỗi các đồ vật, con người hoặc sự kiện được kết nối với nhau hoặc một chuỗi liên kết kim loại linh hoạt."
+        },
+        {
+            "pos": "verb",
+            "en": "Chain is defined as to fasten, secure or confine.",
+            "vi": "Chuỗi được định nghĩa là để buộc chặt, an toàn hoặc giam giữ."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1906-79; Brit. biochemist, born in Germany.",
+            "vi": "(người) 1906-79; Người Anh. nhà hóa sinh, sinh ra ở Đức."
+        },
+        {
+            "pos": "idiom",
+            "en": "pull  To take unfair advantage of someone; deceive or manipulate someone.",
+            "vi": "kéo Để tận dụng lợi thế không công bằng của một người nào đó; lừa dối hoặc thao túng ai đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That's the real chain of events.",
+            "vi": "Đó là chuỗi sự kiện thực sự."
+        },
+        {
+            "en": "That was one chain of events.",
+            "vi": "Đó là một chuỗi sự kiện."
+        }
+    ],
+    "words_form": [
+        "chained",
+        "chains"
+    ],
+    "meaning_vi": "chuỗi"
+}

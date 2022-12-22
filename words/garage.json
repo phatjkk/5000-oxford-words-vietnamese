@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ɡəˈrɑʒ/",
+        "/ɡəˈrɑdʒ/"
+    ],
+    "synonyms": [
+        "parking",
+        "bungalow",
+        "hardstanding",
+        "carport",
+        "service-station"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A closed shelter for a motor vehicle or vehicles.",
+            "vi": "Nơi trú ẩn kín dành cho xe cơ giới hoặc các phương tiện giao thông."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a kind of loud, fast rock music originating in the U.S. in the 1960s, characterized by crude instrumental and vocal techniques associated with young, amateur musicians.",
+            "vi": "Chỉ định hoặc một loại nhạc rock lớn, nhanh, bắt nguồn từ Hoa Kỳ vào những năm 1960, đặc trưng bởi các kỹ thuật thanh nhạc và nhạc cụ thô sơ gắn liền với các nhạc sĩ trẻ, nghiệp dư."
+        },
+        {
+            "pos": "verb",
+            "en": "To put or keep in a garage.",
+            "vi": "Để đặt hoặc giữ trong nhà để xe."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In the garage, she paused at the old car.",
+            "vi": "Vào ga ra, cô dừng lại ở chiếc xe cũ."
+        },
+        {
+            "en": "The ground rumbled suddenly and the garage walls shook.",
+            "vi": "Mặt đất đột ngột đổ ầm ầm và các bức tường nhà để xe rung chuyển."
+        }
+    ],
+    "words_form": [
+        "garaged",
+        "garages",
+        "garaging"
+    ],
+    "meaning_vi": "nhà để xe"
+}

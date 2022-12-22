@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rəˈfɔrm/"
+    ],
+    "synonyms": [
+        "improve",
+        "correct",
+        "cure",
+        "remedy",
+        "betterment"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To improve by alteration, correction of error, or removal of defects; put into a better form or condition.",
+            "vi": "Để cải thiện bằng cách thay đổi, sửa lỗi hoặc loại bỏ các khuyết tật; đưa vào một hình thức hoặc điều kiện tốt hơn."
+        },
+        {
+            "pos": "noun",
+            "en": "Action to improve or correct what is wrong or defective in something.",
+            "vi": "Hành động để cải thiện hoặc sửa chữa những gì sai hoặc khiếm khuyết trong một cái gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Relating to or favoring reform.",
+            "vi": "Liên quan đến hoặc ủng hộ cải cách."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Moral reform is the effort to throw off sleep.",
+            "vi": "Cải cách đạo đức là nỗ lực để ngủ quên."
+        },
+        {
+            "en": "This constitutional reform was severely criticized by contemporary political experts.",
+            "vi": "Cuộc cải cách hiến pháp này đã bị chỉ trích gay gắt bởi các chuyên gia chính trị đương thời."
+        }
+    ],
+    "words_form": [
+        "reformed",
+        "reforming",
+        "reforms"
+    ],
+    "meaning_vi": "cải cách"
+}

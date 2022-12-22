@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈsuəˌsaɪd/"
+    ],
+    "synonyms": [
+        "hara-kiri",
+        "self-destruction",
+        "kamikaze",
+        "murder",
+        "homicide"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or an instance of intentionally killing oneself.",
+            "vi": "Hành động hoặc một trường hợp cố ý giết chính mình."
+        },
+        {
+            "pos": "verb",
+            "en": "To kill oneself; commit suicide.",
+            "vi": "Để giết chính mình; tự tử."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to the act or an instance of suicide.",
+            "vi": "Về hoặc liên quan đến hành động hoặc một trường hợp tự sát."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The suicide note cut off any reason for investigation.",
+            "vi": "Bức thư tuyệt mệnh cắt bỏ mọi lý do để điều tra."
+        },
+        {
+            "en": "There are only four possibilities—accident, suicide, murder or skip.",
+            "vi": "Chỉ có bốn khả năng - tai nạn, tự tử, giết người hoặc bỏ qua."
+        }
+    ],
+    "words_form": [
+        "suicided",
+        "suicides",
+        "suiciding"
+    ],
+    "meaning_vi": "tự sát"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˌoʊvərˈnaɪt/"
+    ],
+    "synonyms": [
+        "one-night",
+        "late",
+        "all-night",
+        "early-morning",
+        "en-route"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Lasting for, extending over, or remaining during a night.",
+            "vi": "Kéo dài, kéo dài hơn hoặc duy trì trong một đêm."
+        },
+        {
+            "pos": "adverb",
+            "en": "During or for the length of the night.",
+            "vi": "Trong hoặc trong suốt thời gian của đêm."
+        },
+        {
+            "pos": "noun",
+            "en": "An overnight stay or trip.",
+            "vi": "Một kỳ nghỉ qua đêm hoặc chuyến đi."
+        },
+        {
+            "pos": "verb",
+            "en": "To spend the night.",
+            "vi": "Để qua đêm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They had never been anywhere else overnight together.",
+            "vi": "Họ chưa bao giờ đến bất cứ nơi nào khác qua đêm cùng nhau."
+        },
+        {
+            "en": "He seemed embarrassed by his overnight absence.",
+            "vi": "Anh ấy có vẻ xấu hổ vì sự vắng mặt qua đêm của mình."
+        }
+    ],
+    "words_form": [
+        "overnighted",
+        "overnighting",
+        "overnights"
+    ],
+    "meaning_vi": "qua đêm"
+}

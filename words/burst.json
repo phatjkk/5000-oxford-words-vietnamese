@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/bərst/"
+    ],
+    "synonyms": [
+        "rush",
+        "blast",
+        "rupture",
+        "flash",
+        "explode"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To burst is defined as to break apart suddenly and with force.",
+            "vi": "Bùng nổ được định nghĩa là phá vỡ đột ngột và bằng lực."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a burst is a sudden and violent breaking or a sudden display of energy or emotion.",
+            "vi": "Định nghĩa về sự bùng nổ là sự phá vỡ đột ngột và dữ dội hoặc sự thể hiện đột ngột của năng lượng hoặc cảm xúc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Tammy burst through the door and saw Lisa sitting on the counter.",
+            "vi": "Tammy xông qua cửa và thấy Lisa đang ngồi trên quầy."
+        },
+        {
+            "en": "He released a small burst of power into her.",
+            "vi": "Anh phóng ra một luồng sức mạnh nhỏ vào cô."
+        }
+    ],
+    "words_form": [
+        "bursting",
+        "bursts"
+    ],
+    "meaning_vi": "nổ"
+}

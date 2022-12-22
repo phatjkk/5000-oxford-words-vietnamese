@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈaʊtˌfɪt/"
+    ],
+    "synonyms": [
+        "trappings",
+        "dress",
+        "fit out",
+        "furnish",
+        "equipment"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an outfit is a set of clothes that are worn together, or a group of people.",
+            "vi": "Định nghĩa về trang phục là một bộ quần áo được mặc cùng nhau, hoặc một nhóm người."
+        },
+        {
+            "pos": "verb",
+            "en": "Outfit is defined as to provide with or get clothes.",
+            "vi": "Outfit được định nghĩa là để cung cấp hoặc lấy quần áo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's the outfit my mom sent for Christmas.",
+            "vi": "Đó là bộ đồ mà mẹ tôi gửi cho dịp Giáng sinh."
+        },
+        {
+            "en": "She picked out an outfit right down to the shoes.",
+            "vi": "Cô chọn một bộ trang phục cho đến đôi giày."
+        }
+    ],
+    "words_form": [
+        "outfits",
+        "outfitted",
+        "outfitting"
+    ],
+    "meaning_vi": "trang phục"
+}

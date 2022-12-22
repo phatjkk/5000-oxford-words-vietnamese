@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈsaɪəntəst/"
+    ],
+    "synonyms": [
+        "investigator",
+        "expert",
+        "explorer",
+        "researcher",
+        "biochemist"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a scientist is a person who is an expert in one of the natural or physical sciences.",
+            "vi": "Định nghĩa nhà khoa học là một người là chuyên gia về một trong các ngành khoa học tự nhiên hoặc vật lý."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The scientist hopped up with a cheerful salute.",
+            "vi": "Nhà khoa học nhảy lên với một lời chào vui vẻ."
+        },
+        {
+            "en": "The mad scientist is right-- we can't let anything living out of this town.",
+            "vi": "Nhà khoa học điên nói đúng-- chúng ta không thể để bất cứ thứ gì sống sót ra khỏi thị trấn này."
+        }
+    ],
+    "words_form": [
+        "scientists"
+    ],
+    "meaning_vi": "nhà khoa học"
+}

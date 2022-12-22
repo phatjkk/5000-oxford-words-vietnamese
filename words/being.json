@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ˈbiɪŋ/"
+    ],
+    "synonyms": [
+        "essence",
+        "human",
+        "actuality",
+        "existence",
+        "reality"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Being is defined as the state of existing or living or something that exists.",
+            "vi": "Hiện hữu được định nghĩa là trạng thái tồn tại hoặc đang sống hoặc một cái gì đó tồn tại."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of be.",
+            "vi": "Hiện tại phân từ của be."
+        },
+        {
+            "pos": "conjunction",
+            "en": "The definition of being is since or because.",
+            "vi": "Định nghĩa của hiện hữu là kể từ khi hoặc bởi vì."
+        },
+        {
+            "pos": "idiom",
+            "en": "being as  since; because",
+            "vi": "là như vậy kể từ khi; tại vì"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was being positively rude.",
+            "vi": "Anh ta đang tỏ ra thô lỗ một cách tích cực."
+        },
+        {
+            "en": "He was caught being drunk in the back of a cab.",
+            "vi": "Anh ta bị bắt gặp khi đang say rượu ở phía sau một chiếc taxi."
+        }
+    ],
+    "words_form": [
+        "beings"
+    ],
+    "meaning_vi": "bị"
+}

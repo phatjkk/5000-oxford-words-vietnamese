@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈɔrədʒən/"
+    ],
+    "synonyms": [
+        "genesis",
+        "dawn",
+        "source",
+        "rise",
+        "end"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "That in which something has its beginning; source; root; cause.",
+            "vi": "Rằng trong đó một cái gì đó có sự khởi đầu của nó; nguồn; nguồn gốc; nguyên nhân."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The dust is chiefly of local origin, but partly comes from the Sahara.",
+            "vi": "Bụi chủ yếu có nguồn gốc địa phương, nhưng một phần đến từ sa mạc Sahara."
+        },
+        {
+            "en": "The origin of the blotched as a special type is wholly unknown.",
+            "vi": "Nguồn gốc của blotched là một loại đặc biệt hoàn toàn không được biết."
+        }
+    ],
+    "words_form": [
+        "origins"
+    ],
+    "meaning_vi": "nguồn gốc"
+}

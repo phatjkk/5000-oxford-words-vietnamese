@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈrizən/"
+    ],
+    "synonyms": [
+        "cause",
+        "motive",
+        "mind",
+        "excuse",
+        "conclude"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Reason is the cause for something to happen or the power of your brain to think, understand and engage in logical thought.",
+            "vi": "Lý trí là nguyên nhân để điều gì đó xảy ra hoặc sức mạnh của bộ não của bạn để suy nghĩ, hiểu và tham gia vào suy nghĩ logic."
+        },
+        {
+            "pos": "verb",
+            "en": "To persuade or dissuade (someone) with reasons.",
+            "vi": "Để thuyết phục hoặc khuyên can (ai đó) với lý do."
+        },
+        {
+            "pos": "idiom",
+            "en": "by reason of  Because of.",
+            "vi": "bởi vì lý do của Vì."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He had no reason to worry.",
+            "vi": "Anh không có lý do gì để lo lắng."
+        },
+        {
+            "en": "For some reason, he experienced a very realistic vision.",
+            "vi": "Vì lý do nào đó, anh ấy đã trải nghiệm một tầm nhìn rất thực tế."
+        }
+    ],
+    "words_form": [
+        "reasoned",
+        "reasoning",
+        "reasons"
+    ],
+    "meaning_vi": "lý do"
+}

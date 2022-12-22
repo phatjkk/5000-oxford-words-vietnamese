@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/əˈkwɪp/"
+    ],
+    "synonyms": [
+        "furnish",
+        "furnished",
+        "outfit",
+        "implement",
+        "adorn"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Equip is defined as to provide necessary items, training, etc. for a certain purpose.",
+            "vi": "Trang bị được định nghĩa là cung cấp các vật dụng cần thiết, đào tạo, v.v. cho một mục đích nhất định."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Equipment.",
+            "vi": "Trang thiết bị."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Pique, piqué",
+            "vi": "Pique, piqué"
+        },
+        {
+            "pos": "noun",
+            "en": "(law) Abbreviation of equipment.",
+            "vi": "(luật) Tên viết tắt của thiết bị."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I shall not be able to equip him.",
+            "vi": "Tôi sẽ không thể trang bị cho anh ta."
+        },
+        {
+            "en": "Night and day he laboured to levy armies and equip fleets.",
+            "vi": "Anh ta làm việc cả ngày lẫn đêm để đánh quân đội và trang bị cho các hạm đội."
+        }
+    ],
+    "words_form": [
+        "equipped",
+        "equipping",
+        "equips"
+    ],
+    "meaning_vi": "trang bị"
+}

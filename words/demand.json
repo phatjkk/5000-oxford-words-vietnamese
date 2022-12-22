@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dəˈmænd/"
+    ],
+    "synonyms": [
+        "command",
+        "request",
+        "want",
+        "desire",
+        "importunate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a demand is a strong or urgent command or request.",
+            "vi": "Định nghĩa của một nhu cầu là một mệnh lệnh hoặc yêu cầu mạnh mẽ và khẩn cấp."
+        },
+        {
+            "pos": "verb",
+            "en": "To ask to be informed of.",
+            "vi": "Để yêu cầu được thông báo về."
+        },
+        {
+            "pos": "idiom",
+            "en": "on demand  When presented for payment: A note payable on demand.When needed or asked for: Fed the baby on demand.",
+            "vi": "theo yêu cầu Khi được xuất trình để thanh toán: Một tờ giấy thanh toán theo yêu cầu. Khi cần hoặc được yêu cầu: Cho em bé bú theo yêu cầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If you don't stand up and demand a change, he'll keep on doing it.",
+            "vi": "Nếu bạn không đứng lên và yêu cầu thay đổi, anh ấy sẽ tiếp tục làm điều đó."
+        },
+        {
+            "en": "An undisclosed ransom demand was made.",
+            "vi": "Một yêu cầu tiền chuộc không được tiết lộ đã được đưa ra."
+        }
+    ],
+    "words_form": [
+        "demanded",
+        "demanding",
+        "demands"
+    ],
+    "meaning_vi": "nhu cầu"
+}

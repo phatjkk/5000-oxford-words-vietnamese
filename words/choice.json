@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tʃɔɪs/"
+    ],
+    "synonyms": [
+        "decision",
+        "opinion",
+        "preference",
+        "choosing",
+        "selection"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of choosing; selection.",
+            "vi": "Hành động lựa chọn; sự lựa chọn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of very fine quality.",
+            "vi": "Chất lượng rất tốt."
+        },
+        {
+            "pos": "idiom",
+            "en": "of choice  Preferred above others of the same kind or set:",
+            "vi": "của sự lựa chọn Được ưu tiên hơn những người khác cùng loại hoặc bộ:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "At that moment there was a choice to make.",
+            "vi": "Tại thời điểm đó, có một sự lựa chọn để thực hiện."
+        },
+        {
+            "en": "\"If he wants to have a relationship with her, it's his choice,\" she said with a shrug.",
+            "vi": "“Nếu anh ấy muốn có một mối quan hệ với cô ấy, đó là sự lựa chọn của anh ấy,” cô nhún vai nói."
+        }
+    ],
+    "words_form": [
+        "choicer",
+        "choices",
+        "choicest"
+    ],
+    "meaning_vi": "sự lựa chọn"
+}

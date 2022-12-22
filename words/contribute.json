@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kənˈtrɪbjut/"
+    ],
+    "synonyms": [
+        "add",
+        "donate",
+        "chip in",
+        "give away",
+        "give"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To contribute is to give something or to help make something happen.",
+            "vi": "Đóng góp là để cho một cái gì đó hoặc để giúp làm cho một cái gì đó xảy ra."
+        },
+        {
+            "pos": "idiom",
+            "en": "contribute to  to have a share in bringing about (a result); be partly responsible for Fatigue contributed to his defeat.",
+            "vi": "đóng góp để có một phần trong việc mang lại (một kết quả); chịu một phần trách nhiệm cho Mệt mỏi góp phần vào thất bại của mình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You all contribute to what we're doing.",
+            "vi": "Tất cả các bạn đều đóng góp cho những gì chúng tôi đang làm."
+        },
+        {
+            "en": "I want someone who can contribute intelligent conversation, not grovel at my feet.",
+            "vi": "Tôi muốn một người có thể đóng góp vào cuộc trò chuyện thông minh, chứ không phải là người dưới chân tôi."
+        }
+    ],
+    "words_form": [
+        "contributed",
+        "contributes",
+        "contributing"
+    ],
+    "meaning_vi": "đóng góp; góp phần"
+}

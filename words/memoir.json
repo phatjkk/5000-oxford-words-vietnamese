@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈmɛmˌwɑr/"
+    ],
+    "synonyms": [
+        "life-story",
+        "diary",
+        "reminiscence",
+        "autobiography",
+        "biography"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a memoir is a retelling or recount of a life lived, often in book or movie form.",
+            "vi": "Định nghĩa của hồi ký là sự kể lại hoặc kể lại cuộc đời đã sống, thường ở dạng sách hoặc phim."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A memoir of his life by his eldest son appeared in 1834.",
+            "vi": "Một cuốn hồi ký về cuộc đời của ông bởi con trai cả của ông xuất hiện vào năm 1834."
+        },
+        {
+            "en": "Stevenson's well-known Memoir is a sympathetic tribute to his ability and character.",
+            "vi": "Cuốn Hồi ký nổi tiếng của Stevenson là một sự tôn vinh đồng cảm với khả năng và tính cách của ông."
+        }
+    ],
+    "words_form": [
+        "memoirs"
+    ],
+    "meaning_vi": "hồi ký"
+}

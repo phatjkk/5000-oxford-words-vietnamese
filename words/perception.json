@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/pərˈsɛpʃ(ə)n/"
+    ],
+    "synonyms": [
+        "viewpoint",
+        "opinion",
+        "acumen",
+        "concept",
+        "understanding"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Perception is awareness, comprehension or an understanding of something.",
+            "vi": "Nhận thức là nhận thức, sự hiểu biết hoặc sự hiểu biết về một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "When sight in one eye is affected, it can affect our depth perception.",
+            "vi": "Khi thị lực ở một mắt bị ảnh hưởng, nó có thể ảnh hưởng đến nhận thức chiều sâu của chúng ta."
+        },
+        {
+            "en": "Several experiments were tried, to determine positively whether or not she had any perception of sound.",
+            "vi": "Một số thí nghiệm đã được thử để xác định một cách tích cực xem cô ấy có nhận thức được âm thanh hay không."
+        }
+    ],
+    "words_form": [
+        "perceptions"
+    ],
+    "meaning_vi": "nhận thức"
+}

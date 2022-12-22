@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈflaʊ(ə)r/"
+    ],
+    "synonyms": [
+        "floret",
+        "bud",
+        "blossom",
+        "efflorescence",
+        "pompon"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Rose blooms are edible.",
+            "vi": "Hoa hồng nở có thể ăn được."
+        },
+        {
+            "pos": "verb",
+            "en": "To put forth blooms.",
+            "vi": "Để nở hoa."
+        },
+        {
+            "pos": "idiom",
+            "en": "in flower  in a state of flowering",
+            "vi": "ở trạng thái đang nở hoa"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She stared at a flower pattern on the wall.",
+            "vi": "Cô nhìn chằm chằm vào một hình bông hoa trên tường."
+        },
+        {
+            "en": "She picked the flower up and poked it over her left ear.",
+            "vi": "Cô nhặt bông hoa lên và chọc vào tai trái."
+        }
+    ],
+    "words_form": [
+        "flowered",
+        "flowering",
+        "flowers"
+    ],
+    "meaning_vi": "Bông hoa"
+}

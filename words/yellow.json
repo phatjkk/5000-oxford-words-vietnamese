@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈjɛloʊ/"
+    ],
+    "synonyms": [
+        "golden",
+        "amber",
+        "saffron",
+        "ocherous",
+        "yellowish"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Yellow is a lemony color between orange and green on the spectrum.",
+            "vi": "Màu vàng là một màu chanh giữa cam và xanh lá cây trên quang phổ."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of yellow is of the color between orange and green on the spectrum which is a buttery, golden shade.",
+            "vi": "Định nghĩa về màu vàng là màu giữa màu cam và màu xanh lá cây trên quang phổ là màu vàng bơ."
+        },
+        {
+            "pos": "verb",
+            "en": "To make or become yellow.",
+            "vi": "Để làm cho hoặc trở thành màu vàng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "One of the yellow portals beckoned her.",
+            "vi": "Một trong những cánh cổng màu vàng ra hiệu cho cô ấy."
+        },
+        {
+            "en": "The plate was yellow with black number; two digits, a space, and three digits.",
+            "vi": "Biển số màu vàng với số màu đen; hai chữ số, một khoảng trắng và ba chữ số."
+        }
+    ],
+    "words_form": [
+        "yellowed",
+        "yellowest",
+        "yellows"
+    ],
+    "meaning_vi": "Màu vàng"
+}

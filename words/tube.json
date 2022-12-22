@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/t(j)ub/"
+    ],
+    "synonyms": [
+        "conduit",
+        "television",
+        "underground",
+        "loom",
+        "tunnel"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Tube means a hollow cylinder.",
+            "vi": "Tube có nghĩa là một hình trụ rỗng."
+        },
+        {
+            "pos": "verb",
+            "en": "To provide with a tube; insert a tube in.",
+            "vi": "Để cung cấp với một ống; đưa một ống vào."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(informal) The London Underground.",
+            "vi": "(không chính thức) The London Underground."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) down the tubes  Into a state of failure or ruin: Saw her plans go down the tubes.",
+            "vi": "(tiếng lóng) xuống các ống Chuyển sang trạng thái thất bại hoặc hủy hoại: Thấy các kế hoạch của cô ấy đi xuống các ống."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This time he created enough suction to pull her nipple well into his mouth - feeding tube and all.",
+            "vi": "Lần này anh tạo đủ lực hút để kéo núm vú của cô vào miệng anh - ống bú và tất cả."
+        },
+        {
+            "en": "I think the tube must have injured my larynx.",
+            "vi": "Tôi nghĩ chắc hẳn cái ống này đã làm thanh quản của tôi bị thương."
+        }
+    ],
+    "words_form": [
+        "tubed",
+        "tubes",
+        "tubing"
+    ],
+    "meaning_vi": "ống"
+}

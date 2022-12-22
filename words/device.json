@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/dəˈvaɪs/"
+    ],
+    "synonyms": [
+        "gear",
+        "tool",
+        "mechanism",
+        "invention",
+        "harness"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a device is a tool or technique used to do a task.",
+            "vi": "Định nghĩa của một thiết bị là một công cụ hoặc kỹ thuật được sử dụng để thực hiện một nhiệm vụ."
+        },
+        {
+            "pos": "idiom",
+            "en": "leave to (one's) own devices  To allow (someone) to do as he or she pleases: Left the child to her own devices for an hour.To force (someone) to cope or manage without assistance: Most people would die in the desert if left to their own devices.",
+            "vi": "để cho (ai đó) thiết bị của riêng mình Để cho phép (ai đó) làm theo ý mình: Để trẻ tự sử dụng thiết bị của mình trong một giờ. Buộc (ai đó) đối phó hoặc xoay xở mà không có sự trợ giúp: Hầu hết mọi người sẽ chết trong sa mạc nếu để thiết bị của riêng họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He handed the device to her.",
+            "vi": "Anh đưa máy cho cô."
+        },
+        {
+            "en": "That device can track where you are at any time.",
+            "vi": "Thiết bị đó có thể theo dõi bạn đang ở đâu bất kỳ lúc nào."
+        }
+    ],
+    "words_form": [
+        "devices"
+    ],
+    "meaning_vi": "thiết bị"
+}

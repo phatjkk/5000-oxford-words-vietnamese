@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɡæp/"
+    ],
+    "synonyms": [
+        "gaps",
+        "recess",
+        "passage",
+        "lacuna",
+        "pause"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a gap is a hole, opening or space between two solid objects or surfaces or in something solid.",
+            "vi": "Định nghĩa của một khoảng trống là một lỗ, khe hở hoặc khoảng trống giữa hai vật thể rắn hoặc bề mặt hoặc trong vật thể rắn."
+        },
+        {
+            "pos": "verb",
+            "en": "To make an opening or openings in.",
+            "vi": "Để mở hoặc mở cửa vào."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was already a sizable gap between her wagon and the one in front of her.",
+            "vi": "Đã có một khoảng cách khá lớn giữa toa xe của cô ấy và toa xe phía trước cô ấy."
+        },
+        {
+            "en": "In the interest of euphony some harmonious sound is needed to bridge the great gap which almost always exists between the bass and the upper instruments, but this filling out must be of the softest and most atmospheric kind.",
+            "vi": "Vì lợi ích của giao hưởng, một số âm thanh hài hòa là cần thiết để thu hẹp khoảng cách tuyệt vời mà hầu như luôn tồn tại giữa âm trầm và các nhạc cụ phía trên, nhưng phần lấp đầy này phải là loại mềm nhất và khí quyển nhất."
+        }
+    ],
+    "words_form": [
+        "gapped",
+        "gapping",
+        "gaps"
+    ],
+    "meaning_vi": "khoảng cach"
+}

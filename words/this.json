@@ -1,0 +1,58 @@
+{
+    "spelling": [
+        "/ðɪs/"
+    ],
+    "synonyms": [
+        "that",
+        "aforementioned",
+        "here",
+        "the",
+        "these"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(informal) Used as a substitute for the indefinite article.",
+            "vi": "(không chính thức) Dùng thay thế cho mạo từ không xác định."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The person or thing mentioned or understood.",
+            "vi": "Người hoặc vật được đề cập hoặc hiểu rõ."
+        },
+        {
+            "pos": "adverb",
+            "en": "To this extent; so.",
+            "vi": "Đến mức độ này; vì thế."
+        },
+        {
+            "pos": "determiner",
+            "en": "The (thing) here (used in indicating something or someone nearby).",
+            "vi": "The (thing) ở đây (được sử dụng để chỉ cái gì đó hoặc ai đó ở gần)."
+        },
+        {
+            "pos": "noun",
+            "en": "(philosophy) Something being indicated that is here; one of these.",
+            "vi": "(triết học) Một cái gì đó đang được chỉ ra rằng ở đây; một trong số này."
+        },
+        {
+            "pos": "interjection",
+            "en": "(Internet slang) Indicates the speaker's strong approval or agreement with the previous material.",
+            "vi": "(Tiếng lóng trên Internet) Biểu thị sự tán thành hoặc đồng ý mạnh mẽ của người nói với tài liệu trước đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This is our planting-ground.",
+            "vi": "Đây là bãi trồng của chúng tôi."
+        },
+        {
+            "en": "This is our home.",
+            "vi": "Đây là nhà của chúng tôi."
+        }
+    ],
+    "words_form": [
+        "these"
+    ],
+    "meaning_vi": "điều này"
+}

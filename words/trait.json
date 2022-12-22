@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/treɪt/"
+    ],
+    "synonyms": [
+        "characteristic",
+        "habit",
+        "quality",
+        "attribute",
+        "feature"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A distinguishing feature, as of a person's character.",
+            "vi": "Một đặc điểm phân biệt, như tính cách của một người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She recognized this trait and would accept rules she herself would never be able to make.",
+            "vi": "Cô nhận ra đặc điểm này và sẽ chấp nhận những quy tắc mà bản thân cô sẽ không bao giờ có thể thực hiện được."
+        },
+        {
+            "en": "That and her beauty – but that's not a character trait, is it?",
+            "vi": "Điều đó và vẻ đẹp của cô ấy - nhưng đó không phải là một đặc điểm của tính cách, phải không?"
+        }
+    ],
+    "words_form": [
+        "traits"
+    ],
+    "meaning_vi": "đặc điểm"
+}

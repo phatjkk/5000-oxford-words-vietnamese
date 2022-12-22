@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ɒdz/"
+    ],
+    "synonyms": [
+        "difference",
+        "allowance",
+        "benefit",
+        "bulge",
+        "disparity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Odds are points giving an advantage to the weaker opponent in a contest, or the likelihood that something will happen.",
+            "vi": "Hình thức tổ chức phi lợi nhuận thay thế."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "A certain number of points given beforehand to a weaker side in a contest to equalize the chances of all participants.",
+            "vi": "Đáng được thông báo; đáng chú ý; vượt trội."
+        },
+        {
+            "pos": "idiom",
+            "en": "at odds  In disagreement; in conflict:",
+            "vi": "Một người của sự khác biệt hoặc danh tiếng lớn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I strained not to be at odds with my bride.",
+            "vi": "Tôi cố gắng không mâu thuẫn với cô dâu của mình."
+        },
+        {
+            "en": "The odds must be astronomical.",
+            "vi": "Tỷ lệ cược phải là thiên văn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "Odds are points giving an advantage to the weaker opponent in a contest, or the likelihood that something will happen.",
+            "vi": "Hình thức tổ chức phi lợi nhuận thay thế."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "A certain number of points given beforehand to a weaker side in a contest to equalize the chances of all participants.",
+            "vi": "Đáng được thông báo; đáng chú ý; vượt trội."
+        },
+        {
+            "pos": "idiom",
+            "en": "at odds  In disagreement; in conflict:",
+            "vi": "Một người của sự khác biệt hoặc danh tiếng lớn."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/əˈlaɪk/"
+    ],
+    "synonyms": [
+        "like",
+        "same",
+        "facsimile",
+        "duplicate",
+        "matched"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In the same manner or to the same degree.",
+            "vi": "Theo cùng một cách thức hoặc cùng một mức độ."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of alike is having similarities.",
+            "vi": "Định nghĩa của giống nhau là có những điểm tương đồng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They looked enough alike to be twins.",
+            "vi": "Họ trông đủ giống nhau để trở thành anh em sinh đôi."
+        },
+        {
+            "en": "They looked a lot alike in some ways.",
+            "vi": "Họ trông rất giống nhau theo một số cách."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "như nhau"
+}

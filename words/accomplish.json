@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/əˈkɑmplɪʃ/"
+    ],
+    "synonyms": [
+        "achieve",
+        "succeed",
+        "perform",
+        "fulfill",
+        "expert"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To finish successfully.",
+            "vi": "Để kết thúc thành công."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It seemed very doubtful whether he would accomplish his desire.",
+            "vi": "Dường như rất nghi ngờ liệu anh ta có thực hiện được mong muốn của mình hay không."
+        },
+        {
+            "en": "Did you accomplish everything you needed to today?",
+            "vi": "Bạn đã hoàn thành mọi thứ bạn cần cho ngày hôm nay?"
+        }
+    ],
+    "words_form": [
+        "accomplished",
+        "accomplishes"
+    ],
+    "meaning_vi": "đạt được (qua nỗ lực)"
+}

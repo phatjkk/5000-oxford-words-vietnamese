@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈvaɪrəs/"
+    ],
+    "synonyms": [
+        "sickness",
+        "poison",
+        "disease",
+        "contagion",
+        "infection"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a virus is an extremely tiny parasite that can only reproduce if it is within a living being, or anything that corrupts something else.",
+            "vi": "Định nghĩa về virus là một loại ký sinh trùng cực kỳ nhỏ bé chỉ có thể sinh sản nếu nó ở trong cơ thể sống hoặc bất cứ thứ gì làm hỏng thứ khác."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The taxonomic kingdom made up of the viruses.",
+            "vi": "Vương quốc phân loại được tạo thành từ vi rút."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The virus cannot live in immunized individuals, nor in nature.",
+            "vi": "Vi rút không thể sống trong các cá thể được chủng ngừa, cũng như trong tự nhiên."
+        },
+        {
+            "en": "The virus is transmitted to humans by mosquito bites.",
+            "vi": "Virus này được truyền sang người do muỗi đốt."
+        }
+    ],
+    "words_form": [
+        "viruses"
+    ],
+    "meaning_vi": "vi rút"
+}

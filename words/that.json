@@ -1,0 +1,64 @@
+{
+    "spelling": [
+        "/ðæt/",
+        "/ðət/"
+    ],
+    "synonyms": [
+        "which",
+        "such",
+        "the",
+        "because",
+        "who"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of that is being the thing, person, or place indicated.",
+            "vi": "Định nghĩa của điều đó là vật, người hoặc địa điểm được chỉ ra."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Used to indicate an unspecified number of people.",
+            "vi": "Được sử dụng để chỉ một số lượng người không xác định."
+        },
+        {
+            "pos": "conjunction",
+            "en": "That is defined as a way to introduce a noun clause.",
+            "vi": "Đó được định nghĩa là một cách để giới thiệu một mệnh đề danh từ."
+        },
+        {
+            "pos": "adverb",
+            "en": "To a high degree; very.",
+            "vi": "Ở mức độ cao; hết sức."
+        },
+        {
+            "pos": "determiner",
+            "en": "The (thing) being indicated (at a distance from the speaker, or previously mentioned, or at another time).",
+            "vi": "(Điều) đang được chỉ ra (ở một khoảng cách từ người nói, hoặc được đề cập trước đó, hoặc vào một thời điểm khác)."
+        },
+        {
+            "pos": "noun",
+            "en": "(philosophy) Something being indicated that is there; one of those.",
+            "vi": "(triết học) Một cái gì đó đang được chỉ ra rằng ở đó; một trong số đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "at that  In addition; besides: Lived in one room, and a small room at that.Regardless of what has been said or implied: A long shot, but she just might win at that.",
+            "vi": "tại đó Ngoài ra; Bên cạnh đó: Sống trong một căn phòng, và một căn phòng nhỏ ở đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I thought that was the best way to carry her.",
+            "vi": "Tôi nghĩ đó là cách tốt nhất để bế cô ấy."
+        },
+        {
+            "en": "I can't imagine what he was thinking to hide a thing like that from you.",
+            "vi": "Tôi không thể tưởng tượng được anh ta đang nghĩ gì để giấu bạn một chuyện như vậy."
+        }
+    ],
+    "words_form": [
+        "those"
+    ],
+    "meaning_vi": "cái đó"
+}

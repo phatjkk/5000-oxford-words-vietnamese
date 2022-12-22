@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈɛn(t)ərˌpraɪz/"
+    ],
+    "synonyms": [
+        "emprise",
+        "performance",
+        "task",
+        "engagement",
+        "adventure"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A business organization.",
+            "vi": "Một tổ chức kinh doanh."
+        },
+        {
+            "pos": "verb",
+            "en": "To undertake; to begin and attempt to perform; to venture upon.",
+            "vi": "Đảm nhận; để bắt đầu và cố gắng thực hiện; để mạo hiểm."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) Town in SE Nev., near Las Vegas.",
+            "vi": "(địa điểm) Thị trấn ở SE Nev., gần Las Vegas."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What recommends commerce to me is its enterprise and bravery.",
+            "vi": "Điều khuyến nghị thương mại đối với tôi là doanh nghiệp và bản lĩnh của nó."
+        },
+        {
+            "en": "Everywhere capital and enterprise are lacking.",
+            "vi": "Nơi nào cũng thiếu vốn và doanh nghiệp."
+        }
+    ],
+    "words_form": [
+        "enterprises"
+    ],
+    "meaning_vi": "doanh nghiệp"
+}

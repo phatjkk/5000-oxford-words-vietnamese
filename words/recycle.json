@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/riˈsaɪk(ə)l/"
+    ],
+    "synonyms": [
+        "reuse",
+        "recover",
+        "salvage",
+        "reprocess",
+        "reclaim"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To recycle is to use again or to reuse waste material by converting it into something new.",
+            "vi": "Tái chế là sử dụng lại hoặc tái sử dụng chất thải bằng cách chuyển chúng thành một thứ mới."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We return the plastic bags to the grocery store for them to recycle.",
+            "vi": "Chúng tôi trả lại túi nhựa cho cửa hàng tạp hóa để họ tái chế."
+        },
+        {
+            "en": "Recycle your glass, paper, metal, and plastic products to reduce pollution, save trees, prevent wildlife habitat destruction, conserve energy and natural resources, and divert materials from incinerators and landfills.",
+            "vi": "Tái chế các sản phẩm thủy tinh, giấy, kim loại và nhựa của bạn để giảm ô nhiễm, tiết kiệm cây cối, ngăn chặn sự tàn phá môi trường sống của động vật hoang dã, bảo tồn năng lượng và tài nguyên thiên nhiên, đồng thời chuyển hướng vật liệu khỏi lò đốt và bãi chôn lấp."
+        }
+    ],
+    "words_form": [
+        "recycled",
+        "recycles",
+        "recycling"
+    ],
+    "meaning_vi": "tái chế"
+}

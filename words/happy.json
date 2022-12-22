@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈhæpi/"
+    ],
+    "synonyms": [
+        "cheerful",
+        "joyful",
+        "glad",
+        "delighted",
+        "mirthful"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of happy is someone or something that is feeling great pleasure or joy.",
+            "vi": "Định nghĩa của hạnh phúc là một ai đó hoặc một cái gì đó đang cảm thấy rất vui hoặc hạnh phúc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Are you trying to say that you're not happy with your success?",
+            "vi": "Bạn đang cố gắng nói rằng bạn không hài lòng với thành công của mình?"
+        },
+        {
+            "en": "Happy to meet you at last, Yully.",
+            "vi": "Cuối cùng rất vui khi được gặp em, Yully."
+        }
+    ],
+    "words_form": [
+        "happier",
+        "happiest"
+    ],
+    "meaning_vi": "vui; hạnh phúc"
+}

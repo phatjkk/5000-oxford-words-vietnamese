@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/neɪm/"
+    ],
+    "synonyms": [
+        "moniker",
+        "title",
+        "hero",
+        "cognomen",
+        "honor"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Name is defined as to give a title to a person, place or thing.",
+            "vi": "Tên được định nghĩa là để đặt một danh hiệu cho một người, địa điểm hoặc sự vật."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a name is a word or phrase that labels a person, place or thing.",
+            "vi": "Định nghĩa của tên là một từ hoặc cụm từ gắn nhãn một người, địa điểm hoặc sự vật."
+        },
+        {
+            "pos": "adjective",
+            "en": "Well-known by a name.",
+            "vi": "Nổi tiếng bởi một cái tên."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Abbreviation of North American English.",
+            "vi": "Viết tắt của tiếng Anh Bắc Mỹ."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the name of  By the authority of: Open up in the name of the law!.For the reason of; using as a reason: Grisly experiments performed in the name of science.",
+            "vi": "nhân danh Bởi thẩm quyền của: Mở ra nhân danh luật pháp!. Vì lý do; sử dụng như một lý do: Các thí nghiệm ghê rợn được thực hiện nhân danh khoa học."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I had already searched for the name Yancey Giddon, but found nothing.",
+            "vi": "Tôi đã tìm kiếm cái tên Yancey Giddon, nhưng không tìm thấy gì."
+        },
+        {
+            "en": "Her name is Allie.",
+            "vi": "Tên cô ấy là Allie."
+        }
+    ],
+    "words_form": [
+        "named",
+        "names",
+        "naming"
+    ],
+    "meaning_vi": "tên"
+}

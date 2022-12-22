@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈbɑdl/"
+    ],
+    "synonyms": [
+        "urn",
+        "vial",
+        "jar",
+        "container",
+        "decanter"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Milk from an infant's nursing bottle.",
+            "vi": "Sữa từ bình bú của trẻ sơ sinh."
+        },
+        {
+            "pos": "verb",
+            "en": "To put into a bottle or bottles.",
+            "vi": "Để đưa vào một chai hoặc chai."
+        },
+        {
+            "pos": "idiom",
+            "en": "bottle up  to shut in, as enemy troops to hold in or suppress, as emotions",
+            "vi": "đóng chai để đóng cửa, như quân địch để giữ hoặc đàn áp, như cảm xúc"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Another bottle! he shouted.",
+            "vi": "Một chai khác! anh ta đã hét lên."
+        },
+        {
+            "en": "Dean grabbed a bottle of inexpensive merlot and three glasses.",
+            "vi": "Dean chộp lấy một chai rượu merlot rẻ tiền và ba chiếc ly."
+        }
+    ],
+    "words_form": [
+        "bottled",
+        "bottles",
+        "bottling"
+    ],
+    "meaning_vi": "chai"
+}

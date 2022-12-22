@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˈɪnfəʊ/"
+    ],
+    "synonyms": [
+        "conversation",
+        "information",
+        "intelligence",
+        "account",
+        "advice"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Information.",
+            "vi": "Thông tin."
+        },
+        {
+            "pos": "",
+            "en": "(.INFOrmation) A top-level Internet domain used by companies and individuals that provide general information. The dot-info name was added in 2000. See Internet domain name.",
+            "vi": "(.INFOrmation) Một miền Internet cấp cao nhất được sử dụng bởi các công ty và cá nhân cung cấp thông tin chung. Tên dot-info đã được thêm vào năm 2000. Xem Tên miền Internet."
+        },
+        {
+            "pos": "prefix",
+            "en": "Relating to information.",
+            "vi": "Liên quan đến thông tin."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Getting a lot of good info out of this one.",
+            "vi": "Nhận được nhiều thông tin tốt từ cái này."
+        },
+        {
+            "en": "I took a look at the logistics info you showed me.",
+            "vi": "Tôi đã xem qua thông tin hậu cần mà bạn đã cho tôi xem."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "Information.",
+            "vi": "Thông tin."
+        },
+        {
+            "pos": "",
+            "en": "(.INFOrmation) A top-level Internet domain used by companies and individuals that provide general information. The dot-info name was added in 2000. See Internet domain name.",
+            "vi": "(.INFOrmation) Một miền Internet cấp cao nhất được sử dụng bởi các công ty và cá nhân cung cấp thông tin chung. Tên dot-info đã được thêm vào năm 2000. Xem Tên miền Internet."
+        },
+        {
+            "pos": "prefix",
+            "en": "Relating to information.",
+            "vi": "Liên quan đến thông tin."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈkɑmpləmənt/"
+    ],
+    "synonyms": [
+        "supplement",
+        "obverse",
+        "part",
+        "accompaniment",
+        "compliment"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Complement means to make something complete.",
+            "vi": "Bổ sung có nghĩa là làm cho một cái gì đó hoàn thành."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a complement is something that makes something else complete.",
+            "vi": "Định nghĩa của một bổ sung là một cái gì đó làm cho một cái gì đó khác hoàn chỉnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Each of his twenty-four topics has its complement of stories.",
+            "vi": "Mỗi chủ đề trong số 24 chủ đề của ông đều có phần bổ sung của các câu chuyện."
+        },
+        {
+            "en": "When painting the kitchen cabinets, Anna picked a color that would complement her floors.",
+            "vi": "Khi sơn tủ bếp, Anna đã chọn một màu sắc phù hợp với sàn nhà của cô."
+        }
+    ],
+    "words_form": [
+        "complemented",
+        "complements"
+    ],
+    "meaning_vi": "bổ sung"
+}

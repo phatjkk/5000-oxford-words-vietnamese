@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ˈhɑləˌdeɪ/"
+    ],
+    "synonyms": [
+        "vacation",
+        "fete",
+        "weekend",
+        "feast-day",
+        "festival"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Holy day.",
+            "vi": "Ngày thánh."
+        },
+        {
+            "pos": "adjective",
+            "en": "Suited to a holiday; merry, festive, etc.",
+            "vi": "Phù hợp với một kỳ nghỉ; vui vẻ, lễ hội, v.v."
+        },
+        {
+            "pos": "verb",
+            "en": "To pass a holiday or vacation.",
+            "vi": "Để vượt qua một kỳ nghỉ hoặc kỳ nghỉ."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) (born Eleonora Fagan Holiday) 1915-59; U.S. jazz singer.",
+            "vi": "(người) (sinh Eleonora Fagan Holiday) 1915-59; Ca sĩ nhạc jazz Hoa Kỳ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The holiday weekend passed pleasantly.",
+            "vi": "Kỳ nghỉ cuối tuần trôi qua một cách dễ chịu."
+        },
+        {
+            "en": "He was one of the founders of the Rochdale Literary and Philosophical Society, took a leading part in its debates, and on returning from a holiday journey in the East, gave the society a lecture on his travels.",
+            "vi": "Ông là một trong những người sáng lập Hiệp hội Văn học và Triết học Rochdale, tham gia dẫn đầu các cuộc tranh luận của nó, và khi trở về sau một chuyến đi nghỉ ở phương Đông, đã thuyết trình cho xã hội về chuyến đi của mình."
+        }
+    ],
+    "words_form": [
+        "holidays"
+    ],
+    "meaning_vi": "ngày lễ"
+}

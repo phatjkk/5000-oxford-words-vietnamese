@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/əˈmɛnd/"
+    ],
+    "synonyms": [
+        "meliorate",
+        "revise",
+        "alter",
+        "improve",
+        "repair"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make better; improve.",
+            "vi": "Để làm cho tốt hơn; cải thiện."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Ad-men, admen, maned, Medan, named.",
+            "vi": "Ad-men, admen, maned, Medan, được đặt tên."
+        },
+        {
+            "pos": "noun",
+            "en": "(law) Abbreviation of amendment.",
+            "vi": "(luật) Viết tắt của sửa đổi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Bills may originate in either house, and either house may amend the bills of the other house.",
+            "vi": "Hóa đơn có thể bắt nguồn từ một trong hai nhà, và một trong hai nhà có thể sửa đổi các hóa đơn của nhà kia."
+        },
+        {
+            "en": "Every attempt to amend or revise the present constitution has, however, been unsuccessful.",
+            "vi": "Tuy nhiên, mọi nỗ lực sửa đổi hoặc sửa đổi hiến pháp hiện hành đều không thành công."
+        }
+    ],
+    "words_form": [
+        "amended",
+        "amending",
+        "amends"
+    ],
+    "meaning_vi": "Sửa đổi"
+}

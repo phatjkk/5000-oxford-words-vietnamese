@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/noʊ/"
+    ],
+    "synonyms": [
+        "recognize",
+        "love",
+        "misunderstand",
+        "fathom",
+        "grasp"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To possess knowledge, understanding, or information.",
+            "vi": "Để sở hữu kiến ​​thức, hiểu biết hoặc thông tin."
+        },
+        {
+            "pos": "noun",
+            "en": "Knowledge.",
+            "vi": "Hiểu biết."
+        },
+        {
+            "pos": "idiom",
+            "en": "know (someone) in the biblical sense  To have sexual relations with (someone).",
+            "vi": "biết (ai đó) theo nghĩa Kinh thánh Để có quan hệ tình dục với (ai đó)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I know you must be tired, so I will let you rest.",
+            "vi": "Anh biết chắc em mệt nên để anh nghỉ ngơi."
+        },
+        {
+            "en": "I know they don't like me.",
+            "vi": "Tôi biết họ không thích tôi."
+        }
+    ],
+    "words_form": [
+        "knew",
+        "knowing",
+        "known",
+        "knows"
+    ],
+    "meaning_vi": "biết"
+}

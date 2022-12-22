@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈlaɪkli/"
+    ],
+    "synonyms": [
+        "expected",
+        "possible",
+        "reasonable",
+        "presumable",
+        "feasible"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of likely is something that has a very high chance, that is probably true or that may be suitable.",
+            "vi": "Định nghĩa về khả năng xảy ra là một thứ có khả năng xảy ra rất cao, điều đó có thể đúng hoặc điều đó có thể phù hợp."
+        },
+        {
+            "pos": "adverb",
+            "en": "Probably.",
+            "vi": "Có lẽ."
+        },
+        {
+            "pos": "noun",
+            "en": "Something or somebody considered likely.",
+            "vi": "Một cái gì đó hoặc ai đó được coi là có khả năng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was likely a deer trail.",
+            "vi": "Đó có thể là một con đường mòn của hươu."
+        },
+        {
+            "en": "\"It's not the only answer, but it's the most likely,\" Sofi replied.",
+            "vi": "“Đó không phải là câu trả lời duy nhất, nhưng rất có thể,” Sofi trả lời."
+        }
+    ],
+    "words_form": [
+        "likelier",
+        "likeliest"
+    ],
+    "meaning_vi": "có khả năng"
+}

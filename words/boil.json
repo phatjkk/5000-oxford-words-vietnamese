@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/bɔɪl/"
+    ],
+    "synonyms": [
+        "brew",
+        "seethe",
+        "evaporate",
+        "simmer",
+        "bubble"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be stirred up or greatly excited, especially in anger.",
+            "vi": "Bị khuấy động hoặc bị kích động mạnh, đặc biệt là trong cơn tức giận."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of boil is the act of becoming very angry or changing from liquid to gas, or a boil is a swelling on the skin full of pus.",
+            "vi": "Định nghĩa của nhọt là hành động trở nên rất tức giận hoặc chuyển từ thể lỏng sang thể khí, hoặc nhọt là một vết sưng tấy trên da đầy mủ."
+        },
+        {
+            "pos": "idiom",
+            "en": "boil away  to evaporate as a result of boiling",
+            "vi": "đun sôi để bay hơi do sôi"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Go and get the samovar to boil for your grandfather.",
+            "vi": "Đi lấy samovar để đun sôi cho ông của bạn."
+        },
+        {
+            "en": "\"Tell Rhyn what you told me, Jade,\" Kris said with calmness that made Rhyn.s blood boil more.",
+            "vi": "“Nói cho Rhyn nghe những gì em đã nói với anh, Jade,” Kris nói với vẻ điềm tĩnh khiến máu Rhyn sôi lên."
+        }
+    ],
+    "words_form": [
+        "boiled",
+        "boiling",
+        "boils"
+    ],
+    "meaning_vi": "sôi lên"
+}

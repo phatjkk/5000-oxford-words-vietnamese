@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈleɪdɪst/"
+    ],
+    "synonyms": [
+        "last",
+        "newest",
+        "up-to-the-minute",
+        "earliest",
+        "fastest"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Late.",
+            "vi": "Muộn."
+        },
+        {
+            "pos": "noun",
+            "en": "Something that is the most recent or current of its kind.",
+            "vi": "Một cái gì đó là gần đây nhất hoặc hiện tại của loại hình này."
+        },
+        {
+            "pos": "adverb",
+            "en": "Superlative form of late: most late.",
+            "vi": "Dạng so sánh nhất của late: muộn nhất."
+        },
+        {
+            "pos": "idiom",
+            "en": "at the latest  No later than: Have it done by Tuesday at the latest.",
+            "vi": "chậm nhất là: Hoàn thành chậm nhất là vào thứ Ba."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Allow me to sing to you my latest and best song.",
+            "vi": "Cho phép tôi hát cho bạn nghe bài hát mới nhất và hay nhất của tôi."
+        },
+        {
+            "en": "Her dresses were always of the latest fashion.",
+            "vi": "Những bộ váy của cô luôn là những bộ đồ thời trang mới nhất."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "muộn nhất"
+}

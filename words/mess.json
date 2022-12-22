@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/mɛs/"
+    ],
+    "synonyms": [
+        "combination",
+        "conglomeration",
+        "confusion",
+        "disorder",
+        "fiasco"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Mess is defined as to create a dirty or untidy situation.",
+            "vi": "Mess được định nghĩa là tạo ra một tình huống bẩn thỉu hoặc bừa bộn."
+        },
+        {
+            "pos": "noun",
+            "en": "A portion of soft or semiliquid food, as porridge.",
+            "vi": "Một phần thức ăn mềm hoặc dạng bột như cháo."
+        },
+        {
+            "pos": "idiom",
+            "en": "mess around  to be busy in a desultory way; putter around to become involved (with)",
+            "vi": "lộn xộn để bận rộn một cách vô văn hóa; putter xung quanh để tham gia (với)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Rule number two: if you make a mess, clean it up.",
+            "vi": "Quy tắc số hai: nếu bạn làm lộn xộn, hãy dọn dẹp nó."
+        },
+        {
+            "en": "I can deal with the mess in my head.",
+            "vi": "Tôi có thể đối phó với mớ hỗn độn trong đầu."
+        }
+    ],
+    "words_form": [
+        "messed",
+        "messes",
+        "messing"
+    ],
+    "meaning_vi": "lộn xộn"
+}

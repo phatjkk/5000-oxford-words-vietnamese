@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɪnˈʃʊr/",
+        "/ɛnˈʃʊr/"
+    ],
+    "synonyms": [
+        "secure",
+        "check",
+        "clinch",
+        "guarantee",
+        "certify"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make sure or certain; insure.",
+            "vi": "Để chắc chắn hoặc chắc chắn; bảo hiểm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She froze then looked around to ensure no one was there to overhear them.",
+            "vi": "Sau đó cô sững người nhìn xung quanh để đảm bảo rằng không có ai ở đó để nghe lén họ."
+        },
+        {
+            "en": "\"You can ensure she stays alive and relatively okay,\" he offered.",
+            "vi": "\"Bạn có thể đảm bảo cô ấy vẫn còn sống và tương đối ổn\", anh ấy đề nghị."
+        }
+    ],
+    "words_form": [
+        "ensured",
+        "ensures",
+        "ensuring"
+    ],
+    "meaning_vi": "đảm bảo"
+}

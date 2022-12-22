@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/hoʊp/"
+    ],
+    "synonyms": [
+        "faith",
+        "assume",
+        "wish",
+        "pray",
+        "desire"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of hope is a feeling of optimism or a desire that something will happen.",
+            "vi": "Định nghĩa của hy vọng là cảm giác lạc quan hoặc mong muốn điều gì đó sẽ xảy ra."
+        },
+        {
+            "pos": "verb",
+            "en": "(archaic) To have confidence; trust.",
+            "vi": "(cổ xưa) Để có sự tự tin; Lòng tin."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A town in British Columbia.",
+            "vi": "Một thị trấn ở British Columbia."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) (born Leslie Townes Hope) 1903-2003; U.S. comedian & actor, born in England.",
+            "vi": "(người) (sinh Leslie Townes Hope) 1903-2003; Diễn viên hài và diễn viên Hoa Kỳ, sinh ra ở Anh."
+        },
+        {
+            "pos": "idiom",
+            "en": "hope against hope  To hope with little reason or justification.",
+            "vi": "hy vọng chống lại hy vọng Để hy vọng với ít lý do hoặc biện minh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I hope you like it.",
+            "vi": "Tôi hy vọng bạn thích nó."
+        },
+        {
+            "en": "I hope to have a love like yours some day.",
+            "vi": "Em mong một ngày nào đó sẽ có một tình yêu như của anh."
+        }
+    ],
+    "words_form": [
+        "hoped",
+        "hopes",
+        "hoping"
+    ],
+    "meaning_vi": "hy vọng"
+}

@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/bəˈhaɪnd/"
+    ],
+    "synonyms": [
+        "after",
+        "following",
+        "tardy",
+        "underdeveloped",
+        "trailing"
+    ],
+    "meaning": [
+        {
+            "pos": "preposition",
+            "en": "Behind is the back of something or later than.",
+            "vi": "Phía sau là phía sau của một cái gì đó hoặc muộn hơn."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a place or condition that has been passed or left.",
+            "vi": "Ở một địa điểm hoặc điều kiện đã được vượt qua hoặc rời đi."
+        },
+        {
+            "pos": "noun",
+            "en": "Behind means the buttocks.",
+            "vi": "Phía sau có nghĩa là phần mông."
+        },
+        {
+            "pos": "adjective",
+            "en": "That follows, as in a line.",
+            "vi": "Điều đó sau đây, như trong một dòng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He peered behind her.",
+            "vi": "Anh chăm chú nhìn sau lưng cô."
+        },
+        {
+            "en": "The boy got up at once, and sat behind the king.",
+            "vi": "Cậu bé đứng dậy ngay lập tức, và ngồi sau nhà vua."
+        }
+    ],
+    "words_form": [
+        "behinds"
+    ],
+    "meaning_vi": "phía sau"
+}

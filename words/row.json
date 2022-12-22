@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/roʊ/"
+    ],
+    "synonyms": [
+        "argument",
+        "quarrel",
+        "agree",
+        "agreement",
+        "group"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To propel a boat with oars.",
+            "vi": "Để đẩy thuyền bằng mái chèo."
+        },
+        {
+            "pos": "noun",
+            "en": "A noisy or quarrel or disturbance.",
+            "vi": "Ồn ào hoặc cãi vã hoặc xáo trộn."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) a tough row to hoe  A difficult situation to endure.",
+            "vi": "(không chính thức) một hàng khó khăn để cuốc Một hoàn cảnh khó khăn để chịu đựng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She pointed down the row of stalls.",
+            "vi": "Cô chỉ xuống dãy quầy hàng."
+        },
+        {
+            "en": "Three bodies were laid out in a row beside it.",
+            "vi": "Ba thi thể được đặt thành một hàng bên cạnh nó."
+        }
+    ],
+    "words_form": [
+        "rowed",
+        "rowing",
+        "rows"
+    ],
+    "meaning_vi": "hàng"
+}

@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˌrɛfəˈrɛndəm/"
+    ],
+    "synonyms": [
+        "election",
+        "choice",
+        "poll",
+        "national-assembly",
+        "plebiscite"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Referendum is the submission of a law to the direct vote of the people.",
+            "vi": "Trưng cầu dân ý là việc trình một đạo luật trước sự biểu quyết trực tiếp của người dân."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The referendum has been sparingly used in matters of local concern.",
+            "vi": "Cuộc trưng cầu dân ý đã được sử dụng ít trong các vấn đề địa phương quan tâm."
+        },
+        {
+            "en": "In 1902 thirteen amendments were adopted, including provisions for the initiative, the referendum and the recall.",
+            "vi": "Năm 1902, mười ba sửa đổi đã được thông qua, bao gồm các điều khoản cho sáng kiến, trưng cầu dân ý và thu hồi."
+        }
+    ],
+    "words_form": [
+        "referenda",
+        "referendums"
+    ],
+    "meaning_vi": "trưng cầu dân ý"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/bim/"
+    ],
+    "synonyms": [
+        "ray",
+        "send",
+        "gleam",
+        "scintillate",
+        "radiate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To smile expansively.",
+            "vi": "Để mỉm cười một cách rộng rãi."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of beam is a piece of wood, metal or steel which is typically long and squared that can be used as a building material.",
+            "vi": "Định nghĩa của dầm là một mảnh gỗ, kim loại hoặc thép thường dài và hình vuông có thể được sử dụng làm vật liệu xây dựng."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the beam  Following a radio beam. Used of aircraft. On the right track; operating correctly.",
+            "vi": "trên chùm Theo một chùm vô tuyến. Đã sử dụng máy bay. Đi đúng hướng; hoạt động chính xác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I lifted the heavy wood beam that crossed their door, securing it.",
+            "vi": "Tôi nhấc thanh gỗ nặng vượt qua cửa nhà họ, cố định nó."
+        },
+        {
+            "en": "He turned the beam around the yard and then shut the door.",
+            "vi": "Anh xoay cây xà mâu quanh sân rồi đóng cửa lại."
+        }
+    ],
+    "words_form": [
+        "beamed",
+        "beaming",
+        "beams"
+    ],
+    "meaning_vi": "chùm tia"
+}

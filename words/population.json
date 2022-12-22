@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌpɑpjəˈleɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "community",
+        "populace",
+        "society",
+        "dwellers",
+        "people"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Population is the number of people or animals in a particular place.",
+            "vi": "Dân số là số lượng người hoặc động vật ở một nơi cụ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The population of the nearest big city was growing.",
+            "vi": "Dân số của thành phố lớn gần nhất đang tăng lên."
+        },
+        {
+            "en": "Half the population of his planet had been decimated by famine and war.",
+            "vi": "Một nửa dân số trên hành tinh của anh ta đã bị tàn phá bởi nạn đói và chiến tranh."
+        }
+    ],
+    "words_form": [
+        "populations"
+    ],
+    "meaning_vi": "dân số"
+}

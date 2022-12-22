@@ -1,0 +1,32 @@
+{
+    "spelling": [
+        "/ɔlˈbiɪt/",
+        "/ælˈbiɪt/"
+    ],
+    "synonyms": [
+        "although",
+        "though",
+        "while",
+        "but",
+        "admitting"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "Even though; although; notwithstanding.",
+            "vi": "Mặc dù; Mặc du; mặc dù vậy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She rose, albeit unsteadily, and he grasped her in the now familiar position of his supporting arm about her waist.",
+            "vi": "Cô đứng dậy, mặc dù không vững, và anh nắm lấy cô ở vị trí quen thuộc của cánh tay đỡ ngang eo cô."
+        },
+        {
+            "en": "It was an interesting conversation, albeit one-way.",
+            "vi": "Đó là một cuộc trò chuyện thú vị, mặc dù một chiều."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "mặc dù"
+}

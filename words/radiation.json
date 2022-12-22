@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˌreɪdɪˈeɪʃən/"
+    ],
+    "synonyms": [
+        "emission",
+        "broadcast",
+        "circulation",
+        "diffraction",
+        "diffusion"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or process of radiating.",
+            "vi": "Hành động hoặc quá trình phát xạ."
+        },
+        {
+            "pos": "",
+            "en": "The use of such energy, especially x-rays, in medical diagnosis and treatment.",
+            "vi": "Việc sử dụng năng lượng như vậy, đặc biệt là tia X, trong chẩn đoán và điều trị y tế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They got a dose of radiation poisoning.",
+            "vi": "Họ bị nhiễm độc phóng xạ."
+        },
+        {
+            "en": "We've gotta treat as many people as we can who are suffering from radiation poisoning.",
+            "vi": "Chúng ta phải chữa trị cho càng nhiều người bị nhiễm độc phóng xạ càng tốt."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The act or process of radiating.",
+            "vi": "Hành động hoặc quá trình phát xạ."
+        },
+        {
+            "pos": "",
+            "en": "The use of such energy, especially x-rays, in medical diagnosis and treatment.",
+            "vi": "Việc sử dụng năng lượng như vậy, đặc biệt là tia X, trong chẩn đoán và điều trị y tế."
+        }
+    ]
+}

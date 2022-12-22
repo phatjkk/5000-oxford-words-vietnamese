@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈɡɪlti/"
+    ],
+    "synonyms": [
+        "sentenced",
+        "at-fault",
+        "censured",
+        "sinful",
+        "doomed"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of guilty is feeling bad about something you have done, or is someone who committed and was proved responsible for a crime or wrongdoing.",
+            "vi": "Định nghĩa tội lỗi là cảm thấy tồi tệ về điều gì đó bạn đã làm, hoặc một người nào đó đã vi phạm và bị chứng minh là phải chịu trách nhiệm về một tội ác hoặc hành vi sai trái."
+        },
+        {
+            "pos": "noun",
+            "en": "The state of being deemed responsible for the commission of a crime, either as a result of a plea or the adjudication of a judge or jury.",
+            "vi": "Tình trạng được coi là chịu trách nhiệm về việc thực hiện tội phạm, do kết quả của lời nhận tội hoặc sự phân xử của thẩm phán hoặc bồi thẩm đoàn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The men are as guilty as she is.",
+            "vi": "Đàn ông cũng tội như cô ấy."
+        },
+        {
+            "en": "The old man feels he is guilty, but cannot change himself.",
+            "vi": "Ông già cảm thấy mình có lỗi, nhưng không thể thay đổi bản thân."
+        }
+    ],
+    "words_form": [
+        "guiltier",
+        "guiltiest"
+    ],
+    "meaning_vi": "có tội"
+}

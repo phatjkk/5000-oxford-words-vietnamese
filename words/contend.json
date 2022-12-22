@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/kənˈtɛnd/"
+    ],
+    "synonyms": [
+        "contest",
+        "battle",
+        "dispute",
+        "fight",
+        "contestation"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To contend is to believe something is a fact or to deal with a challenge.",
+            "vi": "Tranh chấp là tin một điều gì đó là sự thật hoặc để đối phó với một thách thức."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The new governor had great difficulties to contend with.",
+            "vi": "Vị thống đốc mới gặp nhiều khó khăn để tranh chấp."
+        },
+        {
+            "en": "I like to contend with wind and wave.",
+            "vi": "Tôi thích tranh với gió và sóng."
+        }
+    ],
+    "words_form": [
+        "contended",
+        "contends"
+    ],
+    "meaning_vi": "tranh luận"
+}

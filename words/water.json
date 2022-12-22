@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/ˈwɔdər/",
+        "/ˈwɑdər/"
+    ],
+    "synonyms": [
+        "liquid",
+        "aquatic",
+        "weewee",
+        "piss",
+        "sea"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Water is a liquid found on Earth which is known as H20 that has no odor or taste.",
+            "vi": "Nước là một chất lỏng được tìm thấy trên Trái đất, được gọi là H20, không có mùi hoặc vị."
+        },
+        {
+            "pos": "verb",
+            "en": "Water is defined as to wet something with H20.",
+            "vi": "Nước được định nghĩa là làm ướt thứ gì đó bằng H20."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or having to do with water.",
+            "vi": "Của hoặc phải làm với nước."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(chemical having the formula Hâ‚‚O): heavy water; ice, steam, water vapor/water vapour.",
+            "vi": "(hóa chất có công thức Hâ‚‚O): nước nặng; nước đá, hơi nước, hơi nước / hơi nước."
+        },
+        {
+            "pos": "idiom",
+            "en": "above water  Being or holding an asset that is worth more than its purchase price or the debt owed on it. Making more than enough money to meet financial obligations.",
+            "vi": "trên mặt nước Đang hoặc nắm giữ một tài sản có giá trị hơn giá mua của nó hoặc khoản nợ trên nó. Kiếm nhiều tiền hơn đủ để đáp ứng các nghĩa vụ tài chính."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The water felt delightful.",
+            "vi": "Nước có cảm giác thú vị."
+        },
+        {
+            "en": "She heard the gurgling water before the creek came into view.",
+            "vi": "Cô nghe thấy tiếng nước chảy róc rách trước khi nhìn thấy con lạch."
+        }
+    ],
+    "words_form": [
+        "watered",
+        "watering",
+        "waters"
+    ],
+    "meaning_vi": "nước"
+}

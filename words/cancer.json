@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈkænsər/"
+    ],
+    "synonyms": [
+        "tumor",
+        "metastasis",
+        "sickness",
+        "malignancy",
+        "carcinoma"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Anything bad or harmful that spreads and destroys.",
+            "vi": "Bất cứ điều gì xấu hoặc có hại lây lan và phá hủy."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(astronomy) A constellation of the zodiac supposedly shaped like a crab.",
+            "vi": "(thiên văn học) Một chòm sao hoàng đạo được cho là có hình dạng giống như một con cua."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Cancer of the Stomach is a common disease.",
+            "vi": "Ung thư dạ dày là một căn bệnh phổ biến."
+        },
+        {
+            "en": "Its favourite situation is the outlet (pyloric cancer), where a hard, fibrous growth forms a contracting ring of the scirrhous variety.",
+            "vi": "Tình huống ưa thích của nó là lỗ thoát (ung thư môn vị), nơi một khối xơ cứng phát triển tạo thành một vòng co của giống scirrhous."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ung thư"
+}

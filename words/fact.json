@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/fækt/"
+    ],
+    "synonyms": [
+        "truth",
+        "naked truth",
+        "de facto",
+        "reality",
+        "matter"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a fact is something that is true or something that has occurred or has been proven correct.",
+            "vi": "Định nghĩa của một sự kiện là một cái gì đó đúng hoặc một cái gì đó đã xảy ra hoặc đã được chứng minh là đúng."
+        },
+        {
+            "pos": "initialism",
+            "en": "Federation Against Copyright Theft.",
+            "vi": "Liên đoàn Chống Trộm cắp Bản quyền."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used before making a statement to introduce it as a trustworthy one.",
+            "vi": "Được sử dụng trước khi đưa ra một tuyên bố để giới thiệu nó như một người đáng tin cậy."
+        },
+        {
+            "pos": "idiom",
+            "en": "in (point of) fact  In reality or in truth; actually.",
+            "vi": "trong (điểm của) thực tế Trong thực tế hoặc trong sự thật; thực ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In fact, now she felt nothing.",
+            "vi": "Trên thực tế, bây giờ cô không cảm thấy gì."
+        },
+        {
+            "en": "It is hard to tell fact from fiction!",
+            "vi": "Thật khó để phân biệt sự thật từ hư cấu!"
+        }
+    ],
+    "words_form": [
+        "facts"
+    ],
+    "meaning_vi": "thực tế"
+}

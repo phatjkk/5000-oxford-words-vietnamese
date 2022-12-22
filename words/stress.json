@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/strɛs/"
+    ],
+    "synonyms": [
+        "tensity",
+        "strain",
+        "passion",
+        "emphasis",
+        "significance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Stress means physical or mental tension.",
+            "vi": "Căng thẳng có nghĩa là căng thẳng về thể chất hoặc tinh thần."
+        },
+        {
+            "pos": "verb",
+            "en": "Stress is defined as causing mental and physical strain or tension.",
+            "vi": "Căng thẳng được định nghĩa là gây ra căng thẳng hoặc căng thẳng về tinh thần và thể chất."
+        },
+        {
+            "pos": "affix",
+            "en": "A female person associated with (something specified)",
+            "vi": "Một người phụ nữ được liên kết với (một cái gì đó được chỉ định)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But I stress the word \"reasonably.\"",
+            "vi": "Nhưng tôi nhấn mạnh từ \"hợp lý.\""
+        },
+        {
+            "en": "Just don't put stress on yourself trying to be frugal.",
+            "vi": "Chỉ cần không tạo áp lực cho bản thân khi cố gắng tiết kiệm."
+        }
+    ],
+    "words_form": [
+        "stressed",
+        "stresses",
+        "stressing"
+    ],
+    "meaning_vi": "căng thẳng"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈbæləns/"
+    ],
+    "synonyms": [
+        "prove",
+        "oppose",
+        "even",
+        "tension",
+        "surplus"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Balance is defined as being able to remain upright and walk gracefully, or a state of equality, an emotionally and mentally stable mind or the presentation of both sides of an issue.",
+            "vi": "Cân bằng được định nghĩa là khả năng đứng thẳng và bước đi một cách duyên dáng, hoặc trạng thái bình đẳng, tâm trí ổn định về mặt cảm xúc và tinh thần hoặc sự trình bày của cả hai mặt của một vấn đề."
+        },
+        {
+            "pos": "verb",
+            "en": "To be equal or equivalent.",
+            "vi": "Bằng hoặc tương đương."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the balance  In an undetermined and often critical position: Our plans were left hanging in the balance. Resolution of that item is still in the balance.",
+            "vi": "trong cán cân Ở một vị trí không xác định và thường là quan trọng: Các kế hoạch của chúng tôi bị treo trong cán cân. Phân giải của mặt hàng đó vẫn còn trong số dư."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The balance of the weekend went well after a slow start.",
+            "vi": "Sự cân bằng của cuối tuần diễn ra tốt đẹp sau một khởi đầu chậm chạp."
+        },
+        {
+            "en": "The balance will be maintained.",
+            "vi": "Số dư sẽ được duy trì."
+        }
+    ],
+    "words_form": [
+        "balanced",
+        "balances",
+        "balancing"
+    ],
+    "meaning_vi": "sự cân bằng"
+}

@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/kwɪt/"
+    ],
+    "synonyms": [
+        "leave",
+        "relinquish",
+        "give up",
+        "lay off",
+        "stop"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To quit is to stop doing something, or to formally leave a job.",
+            "vi": "Bỏ việc là ngừng làm một việc gì đó, hoặc chính thức rời bỏ một công việc."
+        },
+        {
+            "pos": "adjective",
+            "en": "Absolved of a duty or an obligation; free.",
+            "vi": "Không có nghĩa vụ hoặc nghĩa vụ; miễn phí."
+        },
+        {
+            "pos": "noun",
+            "en": "Any of numerous species of small passerine birds native to tropical America.",
+            "vi": "Bất kỳ loài chim chuyền nhỏ nào có nguồn gốc từ châu Mỹ nhiệt đới."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm ready to quit already.",
+            "vi": "Tôi đã sẵn sàng để bỏ thuốc lá rồi."
+        },
+        {
+            "en": "Yeah, yeah, quit your nagging.",
+            "vi": "Vâng, vâng, bỏ cằn nhằn của bạn."
+        }
+    ],
+    "words_form": [
+        "quits",
+        "quitting"
+    ],
+    "meaning_vi": "từ bỏ"
+}

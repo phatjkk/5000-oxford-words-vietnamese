@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/smɛl/"
+    ],
+    "synonyms": [
+        "fragrance",
+        "scent",
+        "aroma",
+        "odor",
+        "redolence"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To smell is defined as to take in or give off a scent.",
+            "vi": "Khứu giác được định nghĩa là hấp thụ hoặc tỏa ra mùi hương."
+        },
+        {
+            "pos": "noun",
+            "en": "That one of the five senses of the body by which a substance is perceived through the chemical stimulation of the olfactory nerves in the nasal cavity by particles given off by that substance.",
+            "vi": "Đó là một trong năm giác quan của cơ thể mà chất đó được cảm nhận thông qua sự kích thích hóa học của các dây thần kinh khứu giác trong khoang mũi bởi các hạt do chất đó phát ra."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) smell a rat  To suspect that something is wrong.",
+            "vi": "(tiếng lóng) ngửi thấy mùi chuột Để nghi ngờ rằng có điều gì đó không ổn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I love the smell of the ocean.",
+            "vi": "Tôi yêu mùi của đại dương."
+        },
+        {
+            "en": "I could smell coffee.",
+            "vi": "Tôi có thể ngửi thấy mùi cà phê."
+        }
+    ],
+    "words_form": [
+        "smelled",
+        "smelling",
+        "smells",
+        "smelt"
+    ],
+    "meaning_vi": "khứu giác"
+}

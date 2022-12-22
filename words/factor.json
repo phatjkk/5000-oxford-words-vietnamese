@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈfæktər/"
+    ],
+    "synonyms": [
+        "element",
+        "circumstance",
+        "component",
+        "portion",
+        "factors"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One that actively contributes to an accomplishment, result, or process.",
+            "vi": "Một trong những đóng góp tích cực vào một thành tựu, kết quả hoặc quá trình."
+        },
+        {
+            "pos": "verb",
+            "en": "To determine or indicate explicitly the factors of.",
+            "vi": "Để xác định hoặc chỉ ra rõ ràng các yếu tố của."
+        },
+        {
+            "pos": "idiom",
+            "en": "factor in (or into)  to include as a factor",
+            "vi": "yếu tố trong (hoặc vào) để bao gồm như một yếu tố"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The other factor was that he was doing what he had always dreamed of doing.",
+            "vi": "Yếu tố khác là anh ấy đang làm điều mà anh ấy luôn mơ ước."
+        },
+        {
+            "en": "Another factor was caffeine.",
+            "vi": "Một yếu tố khác là caffeine."
+        }
+    ],
+    "words_form": [
+        "factored",
+        "factoring",
+        "factors"
+    ],
+    "meaning_vi": "hệ số"
+}

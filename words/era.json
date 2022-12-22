@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/ˈɪrə/",
+        "/ˈɛrə/"
+    ],
+    "synonyms": [
+        "age",
+        "period",
+        "time",
+        "cycle",
+        "date"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an era is a period of time in history that is unified by cultural or historical factors.",
+            "vi": "Định nghĩa thời đại là một khoảng thời gian trong lịch sử được thống nhất bởi các yếu tố văn hóa hoặc lịch sử."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Earned run average.",
+            "vi": "Mức trung bình đã kiếm được."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The era of fractured power and corruption is about to end.",
+            "vi": "Kỷ nguyên quyền lực rạn nứt và tham nhũng sắp kết thúc."
+        },
+        {
+            "en": "- In Josiah's reign a new era was beginning in the history of the world.",
+            "vi": "- Trong triều đại của Giô-si-a, một kỷ nguyên mới đã bắt đầu trong lịch sử thế giới."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "kỷ nguyên"
+}

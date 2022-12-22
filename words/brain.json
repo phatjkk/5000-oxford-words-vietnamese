@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/breɪn/"
+    ],
+    "synonyms": [
+        "wit",
+        "cerebellum",
+        "cerebrum",
+        "mind",
+        "thoughts"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a brain is the mass of nerve tissue located in the head of animals with spinal cords; it is the center of thought and controls movement.",
+            "vi": "Định nghĩa về bộ não là khối lượng mô thần kinh nằm trong đầu của động vật có tủy sống; nó là trung tâm của suy nghĩ và điều khiển chuyển động."
+        },
+        {
+            "pos": "verb",
+            "en": "To dash out the brains of; to kill by smashing the skull.",
+            "vi": "Để lướt qua bộ não của; để giết bằng cách đập vỡ hộp sọ."
+        },
+        {
+            "pos": "idiom",
+            "en": "beat (one's) brains (out)  To exert or expend great mental effort: She beat her brains out during the examination.",
+            "vi": "đánh bại não của (một người) (ra ngoài) Để sử dụng hoặc tiêu tốn nhiều nỗ lực tinh thần: Cô ấy đánh bại não của mình trong khi kiểm tra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "An idea flashed through her brain and left a frown on her face.",
+            "vi": "Một ý tưởng chợt lóe lên trong não cô và để lại nét cau có trên khuôn mặt cô."
+        },
+        {
+            "en": "I have a terminal brain tumor.",
+            "vi": "Tôi bị u não giai đoạn cuối."
+        }
+    ],
+    "words_form": [
+        "brained",
+        "brains"
+    ],
+    "meaning_vi": "óc"
+}

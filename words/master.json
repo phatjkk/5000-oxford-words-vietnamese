@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈmæstər/"
+    ],
+    "synonyms": [
+        "sage",
+        "expert",
+        "preceptor",
+        "adept",
+        "beginner"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The captain of a merchant ship.",
+            "vi": "Thuyền trưởng của một tàu buôn."
+        },
+        {
+            "pos": "verb",
+            "en": "To master is defined as to become an expert in something or to gain control over something or someone.",
+            "vi": "Làm chủ được định nghĩa là trở thành chuyên gia về một thứ gì đó hoặc giành quyền kiểm soát một thứ gì đó hoặc một người nào đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Controlling all other parts of a mechanism.",
+            "vi": "Kiểm soát tất cả các phần khác của cơ chế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The master bedroom had wooden patio doors that opened on a balcony facing east.",
+            "vi": "Phòng ngủ chính có cửa ra vào sân trong bằng gỗ mở ra ban công quay về hướng đông."
+        },
+        {
+            "en": "Born to betray any master he served.",
+            "vi": "Sinh ra để phản bội bất kỳ chủ nhân nào mà anh ta phục vụ."
+        }
+    ],
+    "words_form": [
+        "mastered",
+        "mastering",
+        "masters"
+    ],
+    "meaning_vi": "thạc sĩ"
+}

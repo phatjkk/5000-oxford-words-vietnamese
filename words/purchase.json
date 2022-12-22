@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈpərtʃəs/"
+    ],
+    "synonyms": [
+        "buy",
+        "property",
+        "marketing",
+        "acquirement",
+        "earn"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Purchase is defined as to obtain something by paying for it.",
+            "vi": "Mua hàng được định nghĩa là để có được thứ gì đó bằng cách trả tiền cho nó."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a purchase is something bought or paid for.",
+            "vi": "Định nghĩa của một mua hàng là một cái gì đó được mua hoặc trả tiền cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They would purchase a few things for Christmas tomorrow.",
+            "vi": "Họ sẽ mua một vài thứ cho lễ Giáng sinh vào ngày mai."
+        },
+        {
+            "en": "Later he took her to town to purchase a car.",
+            "vi": "Sau đó, anh đưa cô đến thị trấn để mua một chiếc xe hơi."
+        }
+    ],
+    "words_form": [
+        "purchased",
+        "purchases",
+        "purchasing"
+    ],
+    "meaning_vi": "mua, tựa vào, bám vào"
+}

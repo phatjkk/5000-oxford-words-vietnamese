@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈɛmfəsəs/"
+    ],
+    "synonyms": [
+        "focus",
+        "importance",
+        "attention",
+        "stress",
+        "accent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of emphasis is special attention put on something to give it importance.",
+            "vi": "Định nghĩa của sự nhấn mạnh là sự chú ý đặc biệt vào một thứ gì đó để làm cho nó quan trọng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was an emphasis on student participation.",
+            "vi": "Có một sự nhấn mạnh vào sự tham gia của học sinh."
+        },
+        {
+            "en": "The school had an emphasis on collaborative learning.",
+            "vi": "Trường đã nhấn mạnh vào việc học tập hợp tác."
+        }
+    ],
+    "words_form": [
+        "emphases"
+    ],
+    "meaning_vi": "nhấn mạnh"
+}

@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈdeɪndʒ(ə)rəs/"
+    ],
+    "synonyms": [
+        "hazardous",
+        "unsafe",
+        "treacherous",
+        "risky",
+        "perilous"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Being able or likely to do harm.",
+            "vi": "Có thể hoặc có khả năng gây hại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You're treading on dangerous ground.",
+            "vi": "Bạn đang giẫm chân trên mặt đất nguy hiểm."
+        },
+        {
+            "en": "It would be dangerous to move now.",
+            "vi": "Sẽ rất nguy hiểm nếu di chuyển ngay bây giờ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nguy hiểm"
+}

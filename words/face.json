@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/feɪs/"
+    ],
+    "synonyms": [
+        "countenance",
+        "physiognomy",
+        "impertinence",
+        "brook",
+        "avoid"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To occupy a position with the face toward.",
+            "vi": "Để chiếm một vị trí với mặt hướng về."
+        },
+        {
+            "pos": "noun",
+            "en": "The end, as of a mine or tunnel, at which work is advancing.",
+            "vi": "Phần cuối, giống như một hầm mỏ hoặc đường hầm, tại đó công việc đang tiến triển."
+        },
+        {
+            "pos": "idiom",
+            "en": "face the music  To accept the unpleasant consequences, especially of one's own actions.",
+            "vi": "đối mặt với âm nhạc Để chấp nhận những hậu quả khó chịu, đặc biệt là hành động của chính mình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She made a face at him.",
+            "vi": "Cô ấy làm mặt anh ta."
+        },
+        {
+            "en": "She turned her face away from him.",
+            "vi": "Cô quay mặt đi chỗ khác."
+        }
+    ],
+    "words_form": [
+        "faced",
+        "faces",
+        "facing"
+    ],
+    "meaning_vi": "gương mặt"
+}

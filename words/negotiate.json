@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/nəˈɡoʊʃiˌeɪt/"
+    ],
+    "synonyms": [
+        "confer",
+        "higgle",
+        "consult",
+        "arrange",
+        "transact"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To arrange or settle by discussion and mutual agreement.",
+            "vi": "Để sắp xếp hoặc giải quyết bằng thảo luận và thỏa thuận chung."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I came to see if you wanted to negotiate yet.",
+            "vi": "Tôi đến để xem bạn có muốn thương lượng chưa."
+        },
+        {
+            "en": "When you're ready to negotiate, come back.",
+            "vi": "Khi bạn đã sẵn sàng đàm phán, hãy quay lại."
+        }
+    ],
+    "words_form": [
+        "negotiated",
+        "negotiates",
+        "negotiating"
+    ],
+    "meaning_vi": "đàm phán; thương lượng"
+}

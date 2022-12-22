@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/praɪz/"
+    ],
+    "synonyms": [
+        "carrot",
+        "top",
+        "award",
+        "treasure",
+        "prime"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Worthy of a prize; first-class.",
+            "vi": "Xứng đáng với một giải thưởng; lớp học đầu tiên."
+        },
+        {
+            "pos": "verb",
+            "en": "To value highly; esteem or treasure.",
+            "vi": "Để đánh giá cao; quý trọng hoặc kho báu."
+        },
+        {
+            "pos": "noun",
+            "en": "Something seized by force or taken as booty, especially an enemy ship and its cargo captured at sea during wartime.",
+            "vi": "Một thứ gì đó bị vũ lực bắt giữ hoặc bị coi là chiến lợi phẩm, đặc biệt là một con tàu của kẻ thù và hàng hóa của nó bị bắt trên biển trong thời chiến."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I've not taken a prize in weeks.",
+            "vi": "Tôi đã không nhận được giải thưởng trong nhiều tuần."
+        },
+        {
+            "en": "We will give the prize to him.",
+            "vi": "Chúng tôi sẽ trao giải thưởng cho anh ấy."
+        }
+    ],
+    "words_form": [
+        "prises",
+        "prized",
+        "prizes",
+        "prizing"
+    ],
+    "meaning_vi": "giải thưởng"
+}

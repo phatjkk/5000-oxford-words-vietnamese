@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tɛnt/"
+    ],
+    "synonyms": [
+        "shelter",
+        "pavilion",
+        "teepee",
+        "canvas",
+        "marquee"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To supply with or put up in tents.",
+            "vi": "Cung cấp hoặc dựng lều."
+        },
+        {
+            "pos": "noun",
+            "en": "A small cylindrical plug of lint or gauze used to keep open or probe a wound or an orifice.",
+            "vi": "Một nút nhỏ hình trụ bằng xơ vải hoặc gạc dùng để giữ mở hoặc thăm dò vết thương hoặc lỗ thông."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or like a tent.",
+            "vi": "Của hoặc giống như một cái lều."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He returned to his tent, deep in thought.",
+            "vi": "Anh trở về lều của mình, trầm tư."
+        },
+        {
+            "en": "Dean had opted to pitch his tent in City Park.",
+            "vi": "Dean đã chọn dựng lều của mình ở Công viên Thành phố."
+        }
+    ],
+    "words_form": [
+        "tented",
+        "tenting",
+        "tents"
+    ],
+    "meaning_vi": "lều"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈɪmˌpækt/"
+    ],
+    "synonyms": [
+        "influence",
+        "result",
+        "affect",
+        "repercussions",
+        "strike"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of impact is one thing crashing into or having an effect on another.",
+            "vi": "Định nghĩa về tác động là một thứ đâm vào hoặc có ảnh hưởng đến một thứ khác."
+        },
+        {
+            "pos": "noun",
+            "en": "The power of an event, idea, etc. to produce changes, move the feelings, etc.",
+            "vi": "Sức mạnh của một sự kiện, ý tưởng, v.v. để tạo ra thay đổi, di chuyển cảm xúc, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was realizing the impact the lie had on their relationship.",
+            "vi": "Anh ấy đang nhận ra tác động của lời nói dối đối với mối quan hệ của họ."
+        },
+        {
+            "en": "The impact knocked her back.",
+            "vi": "Cú va chạm khiến cô ngã ngửa."
+        }
+    ],
+    "words_form": [
+        "impacted",
+        "impacting",
+        "impacts"
+    ],
+    "meaning_vi": "ảnh hưởng"
+}

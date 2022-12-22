@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈdaʊnˌloʊd/"
+    ],
+    "synonyms": [
+        "transfer",
+        "downloading",
+        "downloads",
+        "downloadable",
+        "unload"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a download is the act of transferring files or a program from one computer to another computer, or something transferred to a computer.",
+            "vi": "Định nghĩa về tải xuống là hành động truyền tệp hoặc chương trình từ máy tính này sang máy tính khác hoặc một thứ gì đó được chuyển sang máy tính."
+        },
+        {
+            "pos": "verb",
+            "en": "To transfer (data or a program) from a central computer or website to a peripheral computer or device.",
+            "vi": "Để chuyển (dữ liệu hoặc chương trình) từ máy tính trung tâm hoặc trang web sang máy tính hoặc thiết bị ngoại vi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Every song you download and how many times you play it.",
+            "vi": "Mỗi bài hát bạn tải xuống và số lần bạn chơi nó."
+        },
+        {
+            "en": "You can download the abstracts of the papers as a 208 KB pdf file.",
+            "vi": "Bạn có thể tải xuống phần tóm tắt của bài báo dưới dạng tệp pdf 208 KB."
+        }
+    ],
+    "words_form": [
+        "downloaded",
+        "downloading",
+        "downloads"
+    ],
+    "meaning_vi": "tải về"
+}

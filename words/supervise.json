@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈsupərˌvaɪz/"
+    ],
+    "synonyms": [
+        "monitor",
+        "check",
+        "oversee",
+        "invigilation",
+        "surveillance"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To manage and direct; be in charge of.",
+            "vi": "Quản lý và chỉ đạo; chịu trách nhiệm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "La Marmora was appointed royal commissioner to supervise the transformation to the new regime.",
+            "vi": "La Marmora được bổ nhiệm làm ủy viên hoàng gia để giám sát việc chuyển đổi sang chế độ mới."
+        },
+        {
+            "en": "The best way to keep your child safe is to supervise him or her.",
+            "vi": "Cách tốt nhất để giữ an toàn cho con bạn là giám sát trẻ."
+        }
+    ],
+    "words_form": [
+        "supervised",
+        "supervises",
+        "supervising"
+    ],
+    "meaning_vi": "giám sát"
+}

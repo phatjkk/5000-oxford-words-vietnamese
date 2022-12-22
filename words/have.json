@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/hæv/",
+        "/həv/",
+        "/(ə)v/"
+    ],
+    "synonyms": [
+        "possess",
+        "retain",
+        "hold",
+        "beget",
+        "sleep with"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Have is defined as to contain, hold or own something.",
+            "vi": "Have được định nghĩa là chứa, giữ hoặc sở hữu một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "One enjoying especially material wealth.",
+            "vi": "Một người đặc biệt hưởng thụ của cải vật chất."
+        },
+        {
+            "pos": "idiom",
+            "en": "have a mind to  To be inclined to (do something).",
+            "vi": "have a mind to be nghiêng to (làm điều gì đó)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"You have done well\" said his grandfather.",
+            "vi": "\"Bạn đã làm tốt\" ông nội của anh ấy nói."
+        },
+        {
+            "en": "You'll all have to walk.",
+            "vi": "Tất cả các bạn sẽ phải đi bộ."
+        }
+    ],
+    "words_form": [
+        "haves"
+    ],
+    "meaning_vi": "có"
+}

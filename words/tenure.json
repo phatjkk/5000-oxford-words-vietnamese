@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈtɛnjər/"
+    ],
+    "synonyms": [
+        "occupation",
+        "residence",
+        "incumbency",
+        "ownership",
+        "grasp"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The length of time, or the conditions under which, something is held.",
+            "vi": "Khoảng thời gian, hoặc các điều kiện mà theo đó, một cái gì đó được nắm giữ."
+        },
+        {
+            "pos": "verb",
+            "en": "To grant tenure, the status of having a permanent academic position, to (someone).",
+            "vi": "Để cấp quyền hưởng dụng, tình trạng có một vị trí học tập lâu dài, cho (một người nào đó)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is impossible here to deal with the systems of land tenure in force in other countries.",
+            "vi": "Ở đây không thể đối phó với các hệ thống sở hữu đất đai đang có hiệu lực ở các nước khác."
+        },
+        {
+            "en": "His short tenure of this office calls for no remark.",
+            "vi": "Nhiệm kỳ ngắn ngủi của ông tại văn phòng này không có gì đáng chú ý."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nhiệm kỳ"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/sərˈtɪfəkət/"
+    ],
+    "synonyms": [
+        "testimony",
+        "diploma",
+        "endorsement",
+        "voucher",
+        "testimonial"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A document certifying ownership.",
+            "vi": "Một tài liệu xác nhận quyền sở hữu."
+        },
+        {
+            "pos": "verb",
+            "en": "To furnish with, testify to, or authorize by a certificate.",
+            "vi": "Để cung cấp, chứng thực hoặc ủy quyền bằng chứng chỉ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He even had a birth certificate for me.",
+            "vi": "Anh ấy thậm chí đã có một giấy khai sinh cho tôi."
+        },
+        {
+            "en": "Public primary schools include (1) icoles maternellesinfant schools for children from two to six years old; (2) elementary primary schoolsthese are the ordinary schools for children from six to thirteen; (3) higher primary schools (coles primaires suprieures) and supplementary courses; these admit pupils who have gained the certificate of primary elementary studies (cerlificat diludes primaires), offer a more advanced course and prepare for technical instruction; (4) primary technical schools (coles manuelles dapprenlissage, coles primaires suprleures professionnelles) kept by the communes or departments.",
+            "vi": "Các trường tiểu học công lập bao gồm (1) trường học cấp I cho trẻ em từ hai đến sáu tuổi; (2) trường tiểu học tiểu học là các trường bình thường dành cho trẻ em từ sáu đến mười ba tuổi; (3) các trường tiểu học cao hơn (coles primaires suprieures) và các khóa học bổ túc; những học sinh này thừa nhận những học sinh đã đạt được chứng chỉ học sơ cấp (cerlificat diludes primaires), cung cấp một khóa học nâng cao hơn và chuẩn bị cho hướng dẫn kỹ thuật; (4) các trường kỹ thuật sơ cấp (coles manuelles dapprenlissage, coles primaires suprleures craftnelles) do các xã hoặc sở quản lý."
+        }
+    ],
+    "words_form": [
+        "certificated",
+        "certificates",
+        "certificating"
+    ],
+    "meaning_vi": "chứng chỉ"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˌdɪsədˈvæn(t)ɪdʒ/"
+    ],
+    "synonyms": [
+        "limitation",
+        "weak point",
+        "downside",
+        "deprivation",
+        "handicap"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a disadvantage is an unfavorable situation or something that puts someone in an unfavorable situation.",
+            "vi": "Định nghĩa của một bất lợi là một tình huống không thuận lợi hoặc một cái gì đó đặt ai đó vào một tình huống bất lợi."
+        },
+        {
+            "pos": "verb",
+            "en": "To act to the disadvantage of.",
+            "vi": "Để hành động bất lợi của."
+        },
+        {
+            "pos": "idiom",
+            "en": "at a disadvantage  in an unfavorable situation (for doing something)",
+            "vi": "gặp bất lợi trong một tình huống bất lợi (để làm điều gì đó)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The king of Servia was killed and his army cut to pieces, though the Turks numbered but 40,000 and had all the disadvantage of the position.",
+            "vi": "Vua của Servia đã bị giết và quân đội của ông ta bị cắt thành từng mảnh, mặc dù quân Thổ Nhĩ Kỳ chỉ có 40.000 người và tất cả đều gặp bất lợi về vị trí."
+        },
+        {
+            "en": "The major disadvantage of these is the relative lack of detail you get.",
+            "vi": "Nhược điểm chính của những điều này là sự thiếu chi tiết tương đối mà bạn nhận được."
+        }
+    ],
+    "words_form": [
+        "disadvantaged",
+        "disadvantages",
+        "disadvantaging"
+    ],
+    "meaning_vi": "bất lợi"
+}

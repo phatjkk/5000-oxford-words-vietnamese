@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈʃudɪŋ/"
+    ],
+    "synonyms": [
+        "gunning",
+        "firing",
+        "blasting",
+        "discharging",
+        "gunfire"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or an instance of shooting a gun, specif., one that results in wounding or killing.",
+            "vi": "Hành động hoặc trường hợp bắn súng, cụ thể, một khẩu súng dẫn đến bị thương hoặc giết chết."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of shoot.",
+            "vi": "Trình bày phân từ của buổi chụp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Is someone shooting at us?",
+            "vi": "Có ai đó đang bắn chúng tôi?"
+        },
+        {
+            "en": "She jerked back, pain shooting through her.",
+            "vi": "Cô giật mình quay lại, cơn đau bắn khắp người."
+        }
+    ],
+    "words_form": [
+        "shootings"
+    ],
+    "meaning_vi": "bắn súng"
+}

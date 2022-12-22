@@ -1,0 +1,58 @@
+{
+    "spelling": [
+        "/draɪ/"
+    ],
+    "synonyms": [
+        "arid",
+        "drained",
+        "parched",
+        "baked",
+        "rainless"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Devoid of bias or personal concern.",
+            "vi": "Không thiên vị hoặc lo lắng cá nhân."
+        },
+        {
+            "pos": "verb",
+            "en": "To remove the moisture from; make dry.",
+            "vi": "Để loại bỏ độ ẩm từ; làm cho khô."
+        },
+        {
+            "pos": "noun",
+            "en": "A prohibitionist.",
+            "vi": "Một người theo chủ nghĩa cấm đoán."
+        },
+        {
+            "pos": "acronym",
+            "en": "(computing) Acronym of don't repeat yourself. (It is a software development principle aimed at reducing repetition.)",
+            "vi": "(điện toán) Từ viết tắt của don't repeat yourself. (Đó là một nguyên tắc phát triển phần mềm nhằm giảm sự lặp lại.)"
+        },
+        {
+            "pos": "idiom",
+            "en": "dry out  to make or become thoroughly dry to withdraw from addiction to alcohol or a narcotic",
+            "vi": "khô để tạo ra hoặc trở nên khô hoàn toàn để cai nghiện rượu hoặc ma tuý"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her mouth felt dry and her knees weak.",
+            "vi": "Miệng cô khô và đầu gối cô yếu."
+        },
+        {
+            "en": "The air was dry and hot, as if she were in a sauna.",
+            "vi": "Không khí khô và nóng, như thể cô đang ở trong một phòng tắm hơi."
+        }
+    ],
+    "words_form": [
+        "dried",
+        "drier",
+        "dries",
+        "driest",
+        "dryest",
+        "drying"
+    ],
+    "meaning_vi": "Phơi khô"
+}

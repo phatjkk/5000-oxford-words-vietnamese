@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/pruf/"
+    ],
+    "synonyms": [
+        "evidence",
+        "proved",
+        "revise",
+        "confirmation",
+        "incontrovertible"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Determination of the quality of something by testing; trial.",
+            "vi": "Xác định chất lượng của một cái gì đó bằng cách thử nghiệm; sự thử nghiệm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Fully or successfully resistant; impervious. Often used in combination.",
+            "vi": "Kháng hoàn toàn hoặc thành công; không thấm nước. Thường được sử dụng kết hợp."
+        },
+        {
+            "pos": "verb",
+            "en": "To treat so as to make resistant.",
+            "vi": "Xử lý như vậy để tạo ra sức đề kháng."
+        },
+        {
+            "pos": "affix",
+            "en": "Impervious to.",
+            "vi": "Không thấm nước với."
+        },
+        {
+            "pos": "suffix",
+            "en": "Used to form adjectives denoting an impervious or impenetrable quality.",
+            "vi": "Được sử dụng để tạo thành các tính từ biểu thị một phẩm chất không thể thấm qua hoặc không thể xuyên thủng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But no, it wasn't proof at all.",
+            "vi": "Nhưng không, nó hoàn toàn không phải bằng chứng."
+        },
+        {
+            "en": "What she saw today was proof that she needed it close by.",
+            "vi": "Những gì cô ấy thấy hôm nay là bằng chứng rằng cô ấy cần nó gần kề."
+        }
+    ],
+    "words_form": [
+        "proofed",
+        "proofing",
+        "proofs"
+    ],
+    "meaning_vi": "bằng chứng"
+}

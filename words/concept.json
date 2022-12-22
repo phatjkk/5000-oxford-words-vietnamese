@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈkɑnˌsɛpt/"
+    ],
+    "synonyms": [
+        "idea",
+        "thought",
+        "principle",
+        "theory",
+        "formalism"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A concept is defined as a general idea of something.",
+            "vi": "Một khái niệm được định nghĩa là một ý tưởng chung về một cái gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of concept is based on a main idea or a theme.",
+            "vi": "Định nghĩa của khái niệm dựa trên một ý tưởng chính hoặc một chủ đề."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The whole concept is ridiculous.",
+            "vi": "Toàn bộ khái niệm là vô lý."
+        },
+        {
+            "en": "The consideration that mere double negation leaves us precisely where we were and not upon a higher plane where the dominant concept is richer, is, of course, fatal only to certain verbal expressions of Hegel's intent.",
+            "vi": "Việc coi phủ định kép đơn thuần khiến chúng ta ở chính xác vị trí của chúng ta chứ không phải ở một bình diện cao hơn, nơi mà khái niệm chủ đạo phong phú hơn, tất nhiên, chỉ gây tử vong cho một số cách diễn đạt bằng lời nói về ý định của Hegel."
+        }
+    ],
+    "words_form": [
+        "concepts"
+    ],
+    "meaning_vi": "khái niệm"
+}

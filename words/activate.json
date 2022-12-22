@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈæktəˌveɪt/"
+    ],
+    "synonyms": [
+        "begin",
+        "initiate",
+        "impel",
+        "start",
+        "stimulate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To turn on.",
+            "vi": "Bật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He touched the communications device to activate it.",
+            "vi": "Anh chạm vào thiết bị liên lạc để kích hoạt nó."
+        },
+        {
+            "en": "Can you activate it?",
+            "vi": "Bạn có thể kích hoạt nó không?"
+        }
+    ],
+    "words_form": [
+        "activated",
+        "activates",
+        "activating"
+    ],
+    "meaning_vi": "kích hoạt"
+}

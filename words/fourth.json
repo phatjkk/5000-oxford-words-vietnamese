@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/fɔrθ/"
+    ],
+    "synonyms": [
+        "quaternary",
+        "fourthly",
+        "eighth",
+        "penultimate",
+        "4th"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The ordinal number matching the number four in a series.",
+            "vi": "Số thứ tự khớp với số bốn trong một chuỗi."
+        },
+        {
+            "pos": "adjective",
+            "en": "Preceded by three others in a series; 4th.",
+            "vi": "Trước bởi ba người khác trong một loạt; lần thứ 4."
+        },
+        {
+            "pos": "adverb",
+            "en": "In the fourth place, rank, group, etc.",
+            "vi": "Ở vị trí thứ tư, thứ hạng, nhóm, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This is the fourth event in the past few days.",
+            "vi": "Đây là sự kiện thứ tư trong vài ngày qua."
+        },
+        {
+            "en": "I love Fourth of July week.",
+            "vi": "Tôi yêu Thứ tư của tuần tháng bảy."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thứ tư"
+}

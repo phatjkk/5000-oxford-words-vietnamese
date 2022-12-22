@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/nərs/"
+    ],
+    "synonyms": [
+        "attendant",
+        "cradle",
+        "practical-nurse",
+        "registered-nurse",
+        "orderly"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person trained to provide medical care for the sick or disabled, especially one who is licensed and works in a hospital or physician's office.",
+            "vi": "Một người được đào tạo để cung cấp dịch vụ chăm sóc y tế cho người bệnh hoặc người tàn tật, đặc biệt là người được cấp phép và làm việc trong bệnh viện hoặc văn phòng bác sĩ."
+        },
+        {
+            "pos": "verb",
+            "en": "To nurse is to care for someone or something, or to feed a baby milk from the breast, or when a baby drinks milk from the breast.",
+            "vi": "Cho con bú là chăm sóc người nào đó hoặc thứ gì đó, hoặc cho trẻ bú sữa mẹ, hoặc khi trẻ bú sữa mẹ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"I've come to sit with you a bit, Masha,\" said the nurse, \"and here I've brought the prince's wedding candles to light before his saint, my angel,\" she said with a sigh.",
+            "vi": "“Tôi đến ngồi với cô một chút, Masha,” cô y tá nói, “và đây tôi đã mang những ngọn nến cưới của hoàng tử đến thắp sáng trước vị thánh của anh ấy, thiên thần của tôi,” cô nói với một tiếng thở dài."
+        },
+        {
+            "en": "Martha is a trauma nurse in a large Boston hospital.",
+            "vi": "Martha là một y tá chấn thương trong một bệnh viện lớn ở Boston."
+        }
+    ],
+    "words_form": [
+        "nursed",
+        "nurses",
+        "nursing"
+    ],
+    "meaning_vi": "Y tá"
+}

@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ɪkˈsprɛs/"
+    ],
+    "synonyms": [
+        "direct",
+        "denote",
+        "represent",
+        "expose",
+        "exhibit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To express is to convey what you are thinking and feeling, either verbally or otherwise.",
+            "vi": "Diễn đạt là truyền đạt những gì bạn đang nghĩ và cảm thấy, bằng lời nói hoặc cách khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of express is something that has a specific purpose or something that operates at a faster-than-normal speed.",
+            "vi": "Định nghĩa của express là một cái gì đó có một mục đích cụ thể hoặc một cái gì đó hoạt động với tốc độ nhanh hơn bình thường."
+        },
+        {
+            "pos": "noun",
+            "en": "A means of transport, such as a train, that travels rapidly and makes few or no stops before its destination.",
+            "vi": "Một phương tiện giao thông, chẳng hạn như tàu hỏa, di chuyển nhanh chóng và có rất ít hoặc không có điểm dừng trước điểm đến của nó."
+        },
+        {
+            "pos": "adverb",
+            "en": "By express.",
+            "vi": "Bằng cách thể hiện."
+        },
+        {
+            "pos": "idiom",
+            "en": "express oneself  to state one's thoughts to give expression to one's feelings, imagination, etc., in creative or artistic activity",
+            "vi": "thể hiện bản thân để nói lên suy nghĩ của mình để thể hiện cảm xúc, trí tưởng tượng, v.v. của mình trong hoạt động sáng tạo hoặc nghệ thuật"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I cannot find words to express to you my displeasure.",
+            "vi": "Tôi không thể tìm thấy từ ngữ nào để bày tỏ với bạn sự không hài lòng của tôi."
+        },
+        {
+            "en": "At the time she had thought he was trying to express his love.",
+            "vi": "Lúc đó cô đã nghĩ rằng anh đang cố gắng bày tỏ tình yêu của mình."
+        }
+    ],
+    "words_form": [
+        "expressed",
+        "expresses",
+        "expressing"
+    ],
+    "meaning_vi": "nhận"
+}

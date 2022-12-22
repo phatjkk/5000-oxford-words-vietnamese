@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pəmp/"
+    ],
+    "synonyms": [
+        "tap",
+        "draw out",
+        "draw up",
+        "draw",
+        "drain"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a pump is a device that forces gas or liquid into something, or pulls gas or liquid out of something.",
+            "vi": "Định nghĩa về máy bơm là một thiết bị để ép khí hoặc chất lỏng vào một thứ gì đó, hoặc kéo khí hoặc chất lỏng ra khỏi thứ gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To cause to flow by means of a pump or pumplike organ or device.",
+            "vi": "Để gây chảy bằng máy bơm hoặc cơ quan hoặc thiết bị giống như máy bơm."
+        },
+        {
+            "pos": "idiom",
+            "en": "(sports) pump iron  To lift weights.",
+            "vi": "(thể thao) bơm bàn ủi Để nâng tạ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Without a pump or two spares, they accomplished the same thing.",
+            "vi": "Không cần bơm hoặc hai phụ tùng, họ đã làm được điều tương tự."
+        },
+        {
+            "en": "If the air is just let out of your tires, do you think a bicycle pump might be enough to get you running?",
+            "vi": "Nếu không khí chỉ thoát ra khỏi lốp xe của bạn, bạn có nghĩ rằng một chiếc máy bơm xe đạp có thể đủ để bạn chạy không?"
+        }
+    ],
+    "words_form": [
+        "pumped",
+        "pumping",
+        "pumps"
+    ],
+    "meaning_vi": "bơm"
+}

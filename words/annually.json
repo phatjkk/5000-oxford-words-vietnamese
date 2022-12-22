@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈænjuəli/"
+    ],
+    "synonyms": [
+        "yearly",
+        "per year",
+        "every year",
+        "daily",
+        "seasonally"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Once every year without fail, yearly.",
+            "vi": "Mỗi năm một lần mà không thất bại, hàng năm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The value of the ore reduced annually is about $10,000,000.",
+            "vi": "Giá trị của quặng giảm hàng năm là khoảng $ 10.000.000."
+        },
+        {
+            "en": "The only product is cocoa-nut oil, of which about 106,000 gallons are annually exported.",
+            "vi": "Sản phẩm duy nhất là dầu hạt ca cao, trong đó khoảng 106.000 gallon được xuất khẩu hàng năm."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hàng năm, từng năm"
+}

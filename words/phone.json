@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/foʊn/"
+    ],
+    "synonyms": [
+        "telephone",
+        "call",
+        "handset",
+        "words",
+        "speech sound"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Phone is short for telephone, meaning the instrument used to call others.",
+            "vi": "Phone là viết tắt của điện thoại, có nghĩa là công cụ dùng để gọi cho người khác."
+        },
+        {
+            "pos": "suffix",
+            "en": "Device that receives or emits sound.",
+            "vi": "Thiết bị nhận hoặc phát ra âm thanh."
+        },
+        {
+            "pos": "verb",
+            "en": "To impart (information or news, for example) by telephone.",
+            "vi": "Để truyền đạt (thông tin hoặc tin tức, chẳng hạn) qua điện thoại."
+        },
+        {
+            "pos": "affix",
+            "en": "A device producing or transmitting sound.",
+            "vi": "Một thiết bị tạo ra hoặc truyền âm thanh."
+        },
+        {
+            "pos": "idiom",
+            "en": "phone it in  To do something in a perfunctory way or with little interest: One of the actors in the play was just phoning it in.",
+            "vi": "Hãy gọi điện thoại vào Để làm điều gì đó một cách chiếu lệ hoặc không mấy quan tâm: Một trong những diễn viên trong vở kịch vừa gọi điện cho nó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The phone woke me up, even though it wasn't very loud.",
+            "vi": "Điện thoại đánh thức tôi, mặc dù nó không lớn lắm."
+        },
+        {
+            "en": "Is he listening to your phone call?",
+            "vi": "Anh ấy có đang nghe điện thoại của bạn không?"
+        }
+    ],
+    "words_form": [
+        "phoned",
+        "phones",
+        "phoning"
+    ],
+    "meaning_vi": "điện thoại"
+}

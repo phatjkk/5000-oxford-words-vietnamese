@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˈwɛpən/"
+    ],
+    "synonyms": [
+        "ammunition",
+        "bomb",
+        "cannon",
+        "firearm",
+        "gun"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An instrument of attack or defense in combat, as a gun, missile, or sword.",
+            "vi": "Một công cụ tấn công hoặc phòng thủ trong chiến đấu, như súng, tên lửa hoặc kiếm."
+        },
+        {
+            "pos": "verb",
+            "en": "To supply with weapons or a weapon; arm.",
+            "vi": "Cung cấp vũ khí hoặc một vũ khí; cánh tay."
+        },
+        {
+            "pos": "",
+            "en": "A weapon that is carried by someone but is not visible to the ordinary observer’s eye.",
+            "vi": "Một loại vũ khí được người nào đó mang theo nhưng mắt của người quan sát thông thường không nhìn thấy được."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It wasn't a weapon; it was a key.",
+            "vi": "Nó không phải là một vũ khí; nó là một chìa khóa."
+        },
+        {
+            "en": "He reached for the weapon with a shaking hand.",
+            "vi": "Anh ta với lấy vũ khí với một bàn tay run rẩy."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "An instrument of attack or defense in combat, as a gun, missile, or sword.",
+            "vi": "Một công cụ tấn công hoặc phòng thủ trong chiến đấu, như súng, tên lửa hoặc kiếm."
+        },
+        {
+            "pos": "verb",
+            "en": "To supply with weapons or a weapon; arm.",
+            "vi": "Cung cấp vũ khí hoặc một vũ khí; cánh tay."
+        },
+        {
+            "pos": "",
+            "en": "A weapon that is carried by someone but is not visible to the ordinary observer’s eye.",
+            "vi": "Một loại vũ khí được người nào đó mang theo nhưng mắt của người quan sát thông thường không nhìn thấy được."
+        }
+    ]
+}

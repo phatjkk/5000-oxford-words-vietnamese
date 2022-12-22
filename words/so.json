@@ -1,0 +1,71 @@
+{
+    "spelling": [
+        "/soʊ/"
+    ],
+    "synonyms": [
+        "therefore",
+        "thus",
+        "extremely",
+        "hence",
+        "consequently"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "So is defined as more or less when giving a rough idea of a number or also.",
+            "vi": "Vì vậy, được định nghĩa là nhiều hơn hoặc ít hơn khi đưa ra một ý tưởng sơ bộ về một con số hoặc cũng có thể."
+        },
+        {
+            "pos": "conjunction",
+            "en": "So means with the result of something or in order that something.",
+            "vi": "Vì vậy, có nghĩa là với kết quả của một cái gì đó hoặc theo thứ tự cái gì đó."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express surprise or comprehension.",
+            "vi": "Được sử dụng để thể hiện sự ngạc nhiên hoặc hiểu."
+        },
+        {
+            "pos": "adjective",
+            "en": "True; factual.",
+            "vi": "Thật; thực tế."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Such as has already been suggested or specified; the same or roughly the same.",
+            "vi": "Chẳng hạn như đã được đề xuất hoặc chỉ định; giống nhau hoặc gần giống nhau."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Seller's option.",
+            "vi": "Tùy chọn của người bán."
+        },
+        {
+            "pos": "noun",
+            "en": "Sol.",
+            "vi": "Sol."
+        },
+        {
+            "pos": "symbol",
+            "en": "The molecular formula for sulfur dioxide.",
+            "vi": "Công thức phân tử của lưu huỳnh đioxit."
+        },
+        {
+            "pos": "idiom",
+            "en": "so as to  In order to: Mail your package early so as to ensure its timely arrival.",
+            "vi": "để: Gửi gói hàng của bạn qua đường bưu điện sớm để đảm bảo gói hàng đến kịp thời."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I know you must be tired, so I will let you rest.",
+            "vi": "Anh biết chắc em mệt nên để anh nghỉ ngơi."
+        },
+        {
+            "en": "He spoke so well that everybody was pleased.",
+            "vi": "Anh ấy nói hay đến nỗi mọi người đều hài lòng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "vì thế"
+}

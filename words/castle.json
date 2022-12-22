@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈkæsəl/"
+    ],
+    "synonyms": [
+        "palace",
+        "fortress",
+        "mansion",
+        "villa",
+        "manor"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A place of privacy, security, or refuge.",
+            "vi": "Một nơi riêng tư, an ninh hoặc nơi ẩn náu."
+        },
+        {
+            "pos": "verb",
+            "en": "(games) To move (the king in chess) by castling.",
+            "vi": "(trò chơi) Để di chuyển (vua trong cờ vua) bằng cách nhập thành."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That is my castle in the air.",
+            "vi": "Đó là lâu đài trên không của tôi."
+        },
+        {
+            "en": "That castle cost a fortune to build.",
+            "vi": "Lâu đài đó tốn một gia tài để xây dựng."
+        }
+    ],
+    "words_form": [
+        "castled",
+        "castles",
+        "castling"
+    ],
+    "meaning_vi": "lâu đài"
+}

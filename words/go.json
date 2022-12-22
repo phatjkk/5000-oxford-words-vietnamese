@@ -1,0 +1,62 @@
+{
+    "spelling": [
+        "/ɡoʊ/"
+    ],
+    "synonyms": [
+        "withdraw",
+        "wend",
+        "remain",
+        "reach",
+        "walk"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Go is defined as to move or leave.",
+            "vi": "Đi được định nghĩa là di chuyển hoặc rời đi."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or an instance of going.",
+            "vi": "Hành động hoặc một ví dụ của việc đi."
+        },
+        {
+            "pos": "adjective",
+            "en": "(informal) Functioning correctly and ready for action.",
+            "vi": "(không chính thức) Hoạt động chính xác và sẵn sàng hành động."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "General order(s)",
+            "vi": "(Các) đơn đặt hàng chung"
+        },
+        {
+            "pos": "pronoun",
+            "en": "A board game played for over 2000 years. It is played with 181 black stones and 180 white ones, typically on a board of squares 19 squares wide and 19 deep.",
+            "vi": "Một trò chơi hội đồng đã chơi hơn 2000 năm. Nó được chơi với 181 viên đá đen và 180 viên đá trắng, điển hình là trên một bảng ô vuông rộng 19 ô vuông và sâu 19 ô."
+        },
+        {
+            "pos": "idiom",
+            "en": "from the word go  From the very beginning.",
+            "vi": "from the word go Ngay từ đầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Alex would make the misery go away.",
+            "vi": "Alex sẽ làm cho đau khổ biến mất."
+        },
+        {
+            "en": "Maybe we should go home.",
+            "vi": "Có lẽ chúng ta nên về nhà."
+        }
+    ],
+    "words_form": [
+        "goes",
+        "going",
+        "gon",
+        "gone",
+        "went"
+    ],
+    "meaning_vi": "đi"
+}

@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈdeɪli/"
+    ],
+    "synonyms": [
+        "everyday",
+        "quotidian",
+        "diurnal",
+        "per diem",
+        "journal"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of daily is done, published or calculated every day.",
+            "vi": "Định nghĩa của hàng ngày được thực hiện, xuất bản hoặc tính toán mỗi ngày."
+        },
+        {
+            "pos": "adverb",
+            "en": "Every day; day after day.",
+            "vi": "Hằng ngày; ngay qua ngay."
+        },
+        {
+            "pos": "noun",
+            "en": "(UK, slang) A daily disposable.",
+            "vi": "(Anh, tiếng lóng) Dùng một lần hàng ngày."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He thanked me and went about his daily business.",
+            "vi": "Anh ấy cảm ơn tôi và đi về công việc hàng ngày của anh ấy."
+        },
+        {
+            "en": "There is daily steam communication (often interrupted in bad weather) with Civitavecchia from Golfo degli Aranci (the mail route), and weekly steamers run from Cagliari to Naples, Genoa (via the east coast of the island), Palermo and Tunis, and from Porto Torres to Genoa (calling at Bastia in Corsica and Leghorn) and Leghorn direct.",
+            "vi": "Có liên lạc hơi nước hàng ngày (thường bị gián đoạn khi thời tiết xấu) với Civitavecchia từ Golfo degli Aranci (tuyến đường thư), và các tàu hơi nước hàng tuần chạy từ Cagliari đến Naples, Genoa (qua bờ biển phía đông của đảo), Palermo và Tunis, và từ Porto Torres đến Genoa (ghé Bastia ở Corsica và Leghorn) và trực tiếp Leghorn."
+        }
+    ],
+    "words_form": [
+        "dailies"
+    ],
+    "meaning_vi": "hằng ngày"
+}

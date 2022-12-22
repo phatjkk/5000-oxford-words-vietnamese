@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/mi/"
+    ],
+    "synonyms": [
+        "i",
+        "myself",
+        "them",
+        "maine",
+        "but"
+    ],
+    "meaning": [
+        {
+            "pos": "abbreviation",
+            "en": "Most Excellent.",
+            "vi": "Xuất sắc nhất."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Used as the indirect object of a verb.",
+            "vi": "Được sử dụng như tân ngữ gián tiếp của động từ."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Em, 'em, Em.",
+            "vi": "Em, Em, Em."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Just give me a minute.",
+            "vi": "Chỉ cần cho tôi một phút."
+        },
+        {
+            "en": "\"I have no money with me,\" said the Wizard, evasively.",
+            "vi": "\"Tôi không có tiền với tôi,\" Wizard nói, lảng tránh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tôi"
+}

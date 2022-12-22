@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tʃɑp/"
+    ],
+    "synonyms": [
+        "dice",
+        "barter",
+        "cut up",
+        "mince",
+        "change"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of chopping.",
+            "vi": "Hành động chặt."
+        },
+        {
+            "pos": "verb",
+            "en": "(sports) To hit or swing at (a pitched ball) with a short downward stroke.",
+            "vi": "(thể thao) Đánh hoặc xoay người (bóng ném) với một cú đánh xuống ngắn."
+        },
+        {
+            "pos": "idiom",
+            "en": "chop logic  to argue, esp. in a hairsplitting way",
+            "vi": "chặt chẽ logic để tranh luận, đặc biệt. trong một cách cắt tóc"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Fine. You chop the wood and I'll make us some iced tea.",
+            "vi": "Tốt. Bạn chặt củi và tôi sẽ pha trà đá cho chúng tôi."
+        },
+        {
+            "en": "I'll stab and slash and chop off their heads!",
+            "vi": "Tôi sẽ đâm và chém và chặt đầu họ!"
+        }
+    ],
+    "words_form": [
+        "chopped",
+        "chopping",
+        "chops"
+    ],
+    "meaning_vi": "chặt"
+}

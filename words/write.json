@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/raɪt/"
+    ],
+    "synonyms": [
+        "indite",
+        "pen",
+        "subscribe",
+        "scratch",
+        "scribble"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To write is defined as to form letters, words or symbols on a surface such as paper or to create something that can be read.",
+            "vi": "Viết được định nghĩa là tạo thành các chữ cái, từ hoặc ký hiệu trên một bề mặt như giấy hoặc để tạo ra thứ gì đó có thể đọc được."
+        },
+        {
+            "pos": "noun",
+            "en": "(computing) The operation of storing data, as in memory or onto disk.",
+            "vi": "(máy tính) Hoạt động lưu trữ dữ liệu, như trong bộ nhớ hoặc trên đĩa."
+        },
+        {
+            "pos": "idiom",
+            "en": "write (one's) own ticket  To set one's own terms or course of action entirely according to one's own needs or wishes: An open-ended and generous scholarship that lets recipients write their own ticket.",
+            "vi": "ghi vé của riêng (một người) Để thiết lập các điều khoản hoặc cách hành động của chính mình hoàn toàn theo nhu cầu hoặc mong muốn của bản thân: Một học bổng rộng mở và rộng rãi cho phép người nhận viết phiếu của riêng họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll write something every day.",
+            "vi": "Tôi sẽ viết một cái gì đó mỗi ngày."
+        },
+        {
+            "en": "\"Quick, write down the plate number,\" I said.",
+            "vi": "\"Nhanh, viết ra biển số,\" tôi nói."
+        }
+    ],
+    "words_form": [
+        "writes",
+        "writing",
+        "written",
+        "wrote"
+    ],
+    "meaning_vi": "viết"
+}

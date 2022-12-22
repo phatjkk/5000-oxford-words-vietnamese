@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈmɛn(t)l/"
+    ],
+    "synonyms": [
+        "cerebral",
+        "thinking",
+        "subjective",
+        "deranged",
+        "reasoning"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of or relating to the mind; intellectual.",
+            "vi": "Của hoặc liên quan đến tâm trí; trí thức."
+        },
+        {
+            "pos": "noun",
+            "en": "(zoology) A plate or scale covering the mentum or chin of a fish or reptile.",
+            "vi": "(động vật học) Một mảng hoặc vảy bao phủ lên phần đầu hoặc cằm của cá hoặc loài bò sát."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This question absorbed all his mental powers.",
+            "vi": "Câu hỏi này đã hấp thụ tất cả sức mạnh tinh thần của anh ta."
+        },
+        {
+            "en": "He had a mental list of what they should take when they left.",
+            "vi": "Anh ấy đã có một danh sách tinh thần về những gì họ nên mang theo khi rời đi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tâm thần"
+}

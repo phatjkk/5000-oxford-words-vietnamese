@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈvil/"
+    ],
+    "synonyms": [
+        "inform",
+        "expose",
+        "betray",
+        "unveil",
+        "disclose"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make known by supernatural or divine means.",
+            "vi": "Để được biết đến bằng các phương tiện siêu nhiên hoặc thần thánh."
+        },
+        {
+            "pos": "noun",
+            "en": "(slang) The act or an instance of revealing something, esp. as part of a dramatic climax.",
+            "vi": "(tiếng lóng) Hành động hoặc một trường hợp tiết lộ điều gì đó, đặc biệt là. như một phần của cao trào kịch tính."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She opened her hand to reveal its contents, a marble.",
+            "vi": "Cô mở tay để lộ ra bên trong, một viên bi."
+        },
+        {
+            "en": "She unwrapped the paper to reveal seven gold coins.",
+            "vi": "Cô mở tờ giấy để lộ ra bảy đồng tiền vàng."
+        }
+    ],
+    "words_form": [
+        "revealed",
+        "revealing",
+        "reveals"
+    ],
+    "meaning_vi": "tiết lộ"
+}

@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈðɛrˌfɔr/"
+    ],
+    "synonyms": [
+        "since",
+        "consequently",
+        "because",
+        "hence",
+        "moreover"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "(conjunctive) For that or this purpose, referring to something previously stated.",
+            "vi": "(liên từ) Với mục đích đó hoặc mục đích này, đề cập đến điều gì đó đã nêu trước đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The storm made the forest pitch dark; therefore, searching was useless until it abated.",
+            "vi": "Cơn bão làm cho cả khu rừng tối sầm lại; do đó, việc tìm kiếm là vô ích cho đến khi nó giảm bớt."
+        },
+        {
+            "en": "\"My men have been scattered,\" said the king, \"and therefore, no one is with me.\"",
+            "vi": "\"Người của ta đã bị phân tán,\" nhà vua nói, \"và do đó, không có ai ở với ta.\""
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "vì thế"
+}

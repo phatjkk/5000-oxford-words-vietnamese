@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˌaɪˈdɛn(t)ək(ə)l/"
+    ],
+    "synonyms": [
+        "equal",
+        "different",
+        "dissimilar",
+        "congruent",
+        "indistinguishable"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The very same.",
+            "vi": "Giống nhau."
+        },
+        {
+            "pos": "noun",
+            "en": "(usually pluralized, chiefly philosophy) Something which has exactly the same properties as something else.",
+            "vi": "(thường là triết học đa nguyên, chủ yếu)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"They're not identical twins,\" he answered.",
+            "vi": "\"Họ không phải là anh em sinh đôi giống hệt nhau,\" anh trả lời."
+        },
+        {
+            "en": "The chromatin is practically identical with nuclein.",
+            "vi": "Chất nhiễm sắc thực tế giống với nuclein."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "giống hệt nhau"
+}

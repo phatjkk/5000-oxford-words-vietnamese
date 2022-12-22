@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/kənˈfɛs/"
+    ],
+    "synonyms": [
+        "admit",
+        "concede",
+        "acknowledge",
+        "own",
+        "state"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To admit or acknowledge something damaging or inconvenient to oneself.",
+            "vi": "Thừa nhận hoặc thừa nhận điều gì đó gây tổn hại hoặc bất tiện cho bản thân."
+        },
+        {
+            "pos": "idiom",
+            "en": "confess to  to admit or admit having; acknowledge",
+            "vi": "thú nhận để thừa nhận hoặc thừa nhận có; thừa nhận"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Perhaps you think,\" he exclaimed, \"that this is not parliamentary language; I confess it is not, neither are you to expect any such from me.\"",
+            "vi": "\"Có lẽ bạn nghĩ rằng,\" anh ta thốt lên, \"rằng đây không phải là ngôn ngữ của nghị viện; tôi thú nhận là không, bạn cũng không mong đợi bất kỳ điều gì như vậy từ tôi.\""
+        },
+        {
+            "en": "I don't confess to understanding what happened but it's fascinating.",
+            "vi": "Thú thực là tôi không hiểu chuyện gì đã xảy ra nhưng nó thật hấp dẫn."
+        }
+    ],
+    "words_form": [
+        "confessed",
+        "confesses"
+    ],
+    "meaning_vi": "xưng"
+}

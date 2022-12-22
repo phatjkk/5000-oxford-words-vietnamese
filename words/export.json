@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ɪkˈspɔrt/",
+        "/ˈɛkspɔrt/"
+    ],
+    "synonyms": [
+        "trading",
+        "shipping",
+        "exportation",
+        "commodity",
+        "transport"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an export is something that is shipped or brought to another country to be sold or traded.",
+            "vi": "Định nghĩa về xuất khẩu là một thứ được vận chuyển hoặc mang đến một quốc gia khác để bán hoặc trao đổi."
+        },
+        {
+            "pos": "verb",
+            "en": "Export is defined as to move products to another country for the purpose of trade or sale.",
+            "vi": "Xuất khẩu được định nghĩa là chuyển sản phẩm sang một quốc gia khác với mục đích thương mại hoặc bán."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or for exporting or exports.",
+            "vi": "Của hoặc để xuất khẩu hoặc xuất khẩu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is an export trade in opium.",
+            "vi": "Có một thương mại xuất khẩu thuốc phiện."
+        },
+        {
+            "en": "There is little export of the news with the only means of communication being local travelers.",
+            "vi": "Có rất ít thông tin xuất khẩu với phương tiện liên lạc duy nhất là du khách địa phương."
+        }
+    ],
+    "words_form": [
+        "exported",
+        "exporting",
+        "exports"
+    ],
+    "meaning_vi": "xuất khẩu"
+}

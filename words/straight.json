@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/streɪt/"
+    ],
+    "synonyms": [
+        "even",
+        "erect",
+        "rectilinear",
+        "exact",
+        "perpendicular"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having no waves or bends.",
+            "vi": "Không có sóng hoặc khúc cua."
+        },
+        {
+            "pos": "adverb",
+            "en": "In an honest, law-abiding, or virtuous manner.",
+            "vi": "Trung thực, tuân thủ pháp luật hoặc có đạo đức."
+        },
+        {
+            "pos": "noun",
+            "en": "A straight line.",
+            "vi": "Một đường thẳng."
+        },
+        {
+            "pos": "verb",
+            "en": "To straighten.",
+            "vi": "Để thẳng."
+        },
+        {
+            "pos": "idiom",
+            "en": "straight up  Served without ice: Whiskey straight up.",
+            "vi": "thẳng lên Phục vụ không đá: Whisky thẳng lên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She looked him straight in the eye.",
+            "vi": "Cô nhìn thẳng vào mắt anh."
+        },
+        {
+            "en": "\"I'm shocked,\" he said with a straight face.",
+            "vi": "“Tôi bị sốc,” anh nói với vẻ mặt thẳng thắn."
+        }
+    ],
+    "words_form": [
+        "straightest",
+        "straights"
+    ],
+    "meaning_vi": "thẳng; (thức uống) không pha"
+}

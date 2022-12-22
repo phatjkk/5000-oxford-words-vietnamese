@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/kəmˈplaɪəns/"
+    ],
+    "synonyms": [
+        "agreement",
+        "assiduous",
+        "concession",
+        "surrender",
+        "obedience"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of compliance means following a rule or order.",
+            "vi": "Định nghĩa về tuân thủ có nghĩa là tuân theo một quy tắc hoặc mệnh lệnh."
+        },
+        {
+            "pos": "idiom",
+            "en": "in compliance with  in accordance with",
+            "vi": "tuân thủ theo"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If you are in compliance with the law, you must prove it!",
+            "vi": "Làm đúng luật thì phải chứng minh!"
+        },
+        {
+            "en": "The company was in compliance with the various safety regulations.",
+            "vi": "Công ty đã tuân thủ các quy định an toàn khác nhau."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tuân thủ"
+}

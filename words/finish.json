@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈfɪnɪʃ/"
+    ],
+    "synonyms": [
+        "end",
+        "finishing",
+        "burnish",
+        "complete",
+        "finished"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To finish is defined as to complete, use up or give the final touches to.",
+            "vi": "Để hoàn thành được định nghĩa là hoàn thành, sử dụng hết hoặc cho những bước cuối cùng."
+        },
+        {
+            "pos": "noun",
+            "en": "Something that completes, concludes, or perfects, especially:  The last treatment or coating of a surface. Applied a shellac finish to the cabinet.The surface texture produced by such a treatment or coating. A material used in surfacing or finishing.",
+            "vi": "Một cái gì đó hoàn thiện, kết thúc hoặc hoàn thiện, đặc biệt là: Lần xử lý hoặc lớp phủ cuối cùng của bề mặt. Phủ lớp hoàn thiện shellac cho tủ. Một vật liệu được sử dụng để làm bề mặt hoặc hoàn thiện."
+        },
+        {
+            "pos": "idiom",
+            "en": "finish off  to end or complete to kill or destroy",
+            "vi": "kết thúc để kết thúc hoặc hoàn thành để giết hoặc phá hủy"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I did not have a chance to finish my letter yesterday.",
+            "vi": "Tôi đã không có cơ hội để hoàn thành bức thư của mình ngày hôm qua."
+        },
+        {
+            "en": "Care to finish that?",
+            "vi": "Bạn muốn hoàn thành nó?"
+        }
+    ],
+    "words_form": [
+        "finished",
+        "finishes",
+        "finishing"
+    ],
+    "meaning_vi": "kết thúc"
+}

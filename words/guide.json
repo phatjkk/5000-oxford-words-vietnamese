@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɡaɪd/"
+    ],
+    "synonyms": [
+        "leader",
+        "heuristic",
+        "captain",
+        "guru",
+        "guidebook"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To guide is defined as to show or direct someone in how to do something.",
+            "vi": "Hướng dẫn được định nghĩa là chỉ cho hoặc hướng dẫn ai đó cách thực hiện điều gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a guide is someone or something that instructs others or shows others the way.",
+            "vi": "Định nghĩa của một người hướng dẫn là một người nào đó hoặc một cái gì đó chỉ dẫn người khác hoặc chỉ đường cho người khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Of course, I cannot guide the boat very well.",
+            "vi": "Tất nhiên, tôi không thể hướng dẫn con thuyền tốt cho lắm."
+        },
+        {
+            "en": "He will guide her when I am gone.",
+            "vi": "Anh ấy sẽ hướng dẫn cô ấy khi tôi đi."
+        }
+    ],
+    "words_form": [
+        "guided",
+        "guides",
+        "guiding"
+    ],
+    "meaning_vi": "hướng dẫn"
+}

@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/leɪt/"
+    ],
+    "synonyms": [
+        "remiss",
+        "lagging",
+        "tardy",
+        "nocturnal",
+        "advanced"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Recently; lately.",
+            "vi": "Gần đây; gần đây."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or toward the end or more advanced part, as of a period or stage.",
+            "vi": "Của hoặc về cuối hoặc phần nâng cao hơn, kể từ một giai đoạn hoặc giai đoạn."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) A shift (scheduled work period) that takes place late in the day or at night.",
+            "vi": "(không chính thức) Một ca (thời gian làm việc theo lịch trình) diễn ra vào cuối ngày hoặc vào ban đêm."
+        },
+        {
+            "pos": "idiom",
+            "en": "of late  Recently; lately: Was feeling better of late.",
+            "vi": "của cuối Gần đây; gần đây: Đã cảm thấy tốt hơn về muộn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's late, and I'm tired.",
+            "vi": "Đã muộn, và tôi mệt mỏi."
+        },
+        {
+            "en": "It's not too late to change your mind.",
+            "vi": "Vẫn chưa muộn để thay đổi suy nghĩ của bạn."
+        }
+    ],
+    "words_form": [
+        "last",
+        "later",
+        "latest",
+        "latter"
+    ],
+    "meaning_vi": "trễ; muộn"
+}

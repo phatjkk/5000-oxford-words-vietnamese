@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/məˈnɑpəli/"
+    ],
+    "synonyms": [
+        "control",
+        "trust",
+        "exclusivity",
+        "free-trade",
+        "patent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The domination of a commercial market by only one supplier, worldwide or in a particular region.",
+            "vi": "Sự thống trị thị trường thương mại chỉ bởi một nhà cung cấp, trên toàn thế giới hoặc trong một khu vực cụ thể."
+        },
+        {
+            "pos": "proper name",
+            "en": "A game played on a special board by two or more players: they move according to the throw of dice, engaging in mock real-estate transactions with play money.",
+            "vi": "Một trò chơi được chơi trên một bảng đặc biệt bởi hai hoặc nhiều người chơi: họ di chuyển theo cách ném xúc xắc, tham gia vào các giao dịch bất động sản giả bằng tiền chơi."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A board game in which players use play money to buy and trade properties, with the objective of forcing opponents into bankruptcy.",
+            "vi": "Một trò chơi hội đồng trong đó người chơi sử dụng tiền chơi để mua và giao dịch tài sản, với mục tiêu buộc đối thủ phá sản."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The state tobacco monopoly was abolished in 1817.",
+            "vi": "Độc quyền thuốc lá của nhà nước bị bãi bỏ vào năm 1817."
+        },
+        {
+            "en": "Venice lost her monopoly of oriental traffic.",
+            "vi": "Venice mất độc quyền về giao thông phương Đông."
+        }
+    ],
+    "words_form": [
+        "monopolies"
+    ],
+    "meaning_vi": "sự độc quyền"
+}

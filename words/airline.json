@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈɛrˌlaɪn/"
+    ],
+    "synonyms": [
+        "shuttle",
+        "airway",
+        "airbus"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An organization that provides air transportation for passengers and freight.",
+            "vi": "Một tổ chức cung cấp vận tải hàng không cho hành khách và hàng hóa."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or on an airline.",
+            "vi": "Của hoặc trên một hãng hàng không."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A few airline flights went non-smoking.",
+            "vi": "Một số chuyến bay của các hãng hàng không đã cấm hút thuốc."
+        },
+        {
+            "en": "Two airline tickets were on Dean's desk.",
+            "vi": "Hai tấm vé máy bay trên bàn của Dean."
+        }
+    ],
+    "words_form": [
+        "airlines"
+    ],
+    "meaning_vi": "hãng hàng không"
+}

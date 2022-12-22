@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈvaɪz/"
+    ],
+    "synonyms": [
+        "come-up-with",
+        "design",
+        "invent",
+        "plot",
+        "arrange"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To work out or create (something) by thinking; contrive; plan; invent.",
+            "vi": "Để làm việc hoặc tạo ra (một cái gì đó) bằng cách suy nghĩ; xoay sở; kế hoạch; phát minh."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of leaving real property in a will.",
+            "vi": "Hành vi để lại tài sản bất động sản theo di chúc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I prefer to use this app because it allows me to devise my own music playlists.",
+            "vi": "Tôi thích sử dụng ứng dụng này hơn vì nó cho phép tôi tạo danh sách phát nhạc của riêng mình."
+        },
+        {
+            "en": "Great efforts have been made to devise cottonpicking machines, but, as yet, complete success has not been attained.",
+            "vi": "Những nỗ lực tuyệt vời đã được thực hiện để phát minh ra máy đánh bông, nhưng vẫn chưa đạt được thành công hoàn toàn."
+        }
+    ],
+    "words_form": [
+        "devised",
+        "devises",
+        "devising"
+    ],
+    "meaning_vi": "nghĩ ra"
+}

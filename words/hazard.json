@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈhæzərd/"
+    ],
+    "synonyms": [
+        "risk",
+        "danger",
+        "compromise",
+        "obstacle",
+        "spillage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(games) A dice game similar to craps.",
+            "vi": "(trò chơi) Một trò chơi xúc xắc tương tự như craps."
+        },
+        {
+            "pos": "verb",
+            "en": "To expose to danger or risk.",
+            "vi": "Để tiếp xúc với nguy hiểm hoặc rủi ro."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We may find a fair parallel by imagining two plays drawn at hazard from the works of the great tragic writers.",
+            "vi": "Chúng ta có thể tìm thấy một sự song song công bằng bằng cách tưởng tượng hai vở kịch nguy hiểm được rút ra từ các tác phẩm của các nhà văn bi kịch vĩ đại."
+        },
+        {
+            "en": "She stopped a dozen meters before the edge of the forest, wondering if there was any sort of hazard in being so close to whatever it was causing the lake to be green in the first place.",
+            "vi": "Cô dừng lại vài chục mét trước bìa rừng, tự hỏi liệu có bất kỳ loại nguy hiểm nào khi ở gần bất cứ thứ gì có thể khiến hồ nước có màu xanh lục ngay từ đầu hay không."
+        }
+    ],
+    "words_form": [
+        "hazarded",
+        "hazards"
+    ],
+    "meaning_vi": "mối nguy hiểm"
+}

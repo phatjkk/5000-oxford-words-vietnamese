@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/snæp/"
+    ],
+    "synonyms": [
+        "clasp",
+        "photograph",
+        "extempore",
+        "rip",
+        "free"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a snap is a sudden cracking sound, break, bite, speaking in a short and angry way or any clasp that closes with a click.",
+            "vi": "Định nghĩa của snap là một âm thanh nứt đột ngột, bẻ gãy, cắn, nói ngắn gọn và tức giận hoặc bất kỳ cái siết chặt nào đóng lại bằng một cú nhấp chuột."
+        },
+        {
+            "pos": "verb",
+            "en": "To break suddenly with a brisk, sharp, cracking sound.",
+            "vi": "Bị vỡ đột ngột với âm thanh vỡ vụn, sắc bén."
+        },
+        {
+            "pos": "adjective",
+            "en": "Made or done suddenly, with little or no preparation.",
+            "vi": "Thực hiện hoặc thực hiện đột ngột, ít hoặc không chuẩn bị."
+        },
+        {
+            "pos": "adverb",
+            "en": "With a snap.",
+            "vi": "Chỉ với một tích tắc."
+        },
+        {
+            "pos": "interjection",
+            "en": "The winning cry at a game of snap.",
+            "vi": "Tiếng kêu chiến thắng trong trò chơi búng tay."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) snap out of it  To move quickly back to one's normal condition from an undesirable condition, such as depression, grief, or self-pity.",
+            "vi": "(không chính thức) thoát khỏi nó Để nhanh chóng trở lại tình trạng bình thường của một người từ một tình trạng không mong muốn, chẳng hạn như trầm cảm, đau buồn hoặc tự thương hại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The snap of a branch pulled her from her misery.",
+            "vi": "Cái búng của một cành cây đã kéo cô ra khỏi sự khốn khổ của mình."
+        },
+        {
+            "en": "If she flinched, they'd snap in unison.",
+            "vi": "Nếu cô ấy nao núng, họ sẽ đồng thanh."
+        }
+    ],
+    "words_form": [
+        "snapped",
+        "snapping",
+        "snaps"
+    ],
+    "meaning_vi": "chụp nhanh"
+}

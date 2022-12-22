@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈsɛn(t)əns/"
+    ],
+    "synonyms": [
+        "judgment",
+        "order",
+        "pronouncement",
+        "decree",
+        "saying"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To sentence is defined as to give someone a punishment.",
+            "vi": "Để kết án được định nghĩa là đưa ra một hình phạt cho ai đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Sentence is defined as a statement or question made with group of words including a subject, verb and object.",
+            "vi": "Câu được định nghĩa là một tuyên bố hoặc câu hỏi được thực hiện với một nhóm từ bao gồm chủ ngữ, động từ và tân ngữ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He typed a short sentence, and then stopped.",
+            "vi": "Anh ta gõ một câu ngắn, và sau đó dừng lại."
+        },
+        {
+            "en": "He left the sentence hanging and winked at her.",
+            "vi": "Anh bỏ lửng câu nói và nháy mắt với cô."
+        }
+    ],
+    "words_form": [
+        "sentenced",
+        "sentences",
+        "sentencing"
+    ],
+    "meaning_vi": "kết án"
+}

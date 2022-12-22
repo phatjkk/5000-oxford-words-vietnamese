@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈdʒɛnəˌreɪt/"
+    ],
+    "synonyms": [
+        "produce",
+        "create",
+        "form",
+        "breed",
+        "beget"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To generate is defined as to produce, create or cause to be.",
+            "vi": "Để tạo ra được định nghĩa là sản xuất, tạo ra hoặc nguyên nhân."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We're building a bigger battery to store the energy we generate from the river, but … Kelli shrugged.",
+            "vi": "Chúng tôi đang chế tạo một loại pin lớn hơn để lưu trữ năng lượng mà chúng tôi tạo ra từ dòng sông, nhưng… Kelli nhún vai."
+        },
+        {
+            "en": "Set this keyboard to generate a scatter plot.",
+            "vi": "Đặt bàn phím này để tạo biểu đồ phân tán."
+        }
+    ],
+    "words_form": [
+        "generated",
+        "generates",
+        "generating"
+    ],
+    "meaning_vi": "sản sinh"
+}

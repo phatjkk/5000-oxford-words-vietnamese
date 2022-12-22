@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/t(j)un/"
+    ],
+    "synonyms": [
+        "melody",
+        "chorus",
+        "modulate",
+        "melodious",
+        "intonation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(obs.) A sound or tone.",
+            "vi": "(obs.) Một âm thanh hoặc giai điệu."
+        },
+        {
+            "pos": "verb",
+            "en": "To become attuned.",
+            "vi": "Để trở nên hòa hợp."
+        },
+        {
+            "pos": "idiom",
+            "en": "to the tune of  To the sum or extent of: Produced profits to the tune of $10 million.",
+            "vi": "theo giai điệu của Tổng hoặc mức độ: Đã tạo ra lợi nhuận theo giai điệu của $ 10 triệu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She was humming a tune I didn't recognize.",
+            "vi": "Cô ấy đang ngâm nga một giai điệu mà tôi không nhận ra."
+        },
+        {
+            "en": "Even at this hour a piano was pounding out a raucous tune in one of the three saloons.",
+            "vi": "Thậm chí vào giờ này, một cây đàn piano đang phát ra một giai điệu khàn khàn ở một trong ba quán rượu."
+        }
+    ],
+    "words_form": [
+        "tuned",
+        "tunes",
+        "tuning"
+    ],
+    "meaning_vi": "điều chỉnh"
+}

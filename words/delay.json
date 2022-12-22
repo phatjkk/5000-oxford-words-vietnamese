@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈleɪ/"
+    ],
+    "synonyms": [
+        "deferment",
+        "procrastinate",
+        "retard",
+        "discontinuation",
+        "adjournment"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To delay is defined as to postpone, make late or stop for awhile.",
+            "vi": "Trì hoãn được định nghĩa là trì hoãn, đến muộn hoặc dừng lại trong một thời gian."
+        },
+        {
+            "pos": "noun",
+            "en": "A delaying or being delayed.",
+            "vi": "Sự trì hoãn hoặc bị trì hoãn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The delay ended up being four hours.",
+            "vi": "Sự chậm trễ kết thúc là bốn giờ."
+        },
+        {
+            "en": "A'Ran approached her then, knowing his journey in the morning would delay the conversation they needed to have.",
+            "vi": "Sau đó A'Ran tiếp cận cô, biết rằng cuộc hành trình của anh vào buổi sáng sẽ làm trì hoãn cuộc trò chuyện mà họ cần phải có."
+        }
+    ],
+    "words_form": [
+        "delayed",
+        "delaying",
+        "delays"
+    ],
+    "meaning_vi": "sự chậm trễ"
+}

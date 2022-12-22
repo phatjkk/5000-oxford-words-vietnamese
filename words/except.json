@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ɪkˈsɛpt/"
+    ],
+    "synonyms": [
+        "omitting",
+        "but",
+        "than",
+        "lacking",
+        "exempting"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "(archaic) Unless.",
+            "vi": "(cổ xưa) Trừ khi."
+        },
+        {
+            "pos": "verb",
+            "en": "To leave out; exclude.",
+            "vi": "Để ra ngoài; loại trừ."
+        },
+        {
+            "pos": "preposition",
+            "en": "With the exclusion of; other than; but.",
+            "vi": "Với việc loại trừ; khác với; nhưng."
+        },
+        {
+            "pos": "idiom",
+            "en": "except for  Were it not for: I would join you except for my cold.",
+            "vi": "ngoại trừ Were it for: Tôi sẽ tham gia cùng bạn ngoại trừ cơn cảm lạnh của tôi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They won't even be together except weekends.",
+            "vi": "Họ thậm chí sẽ không ở bên nhau trừ những ngày cuối tuần."
+        },
+        {
+            "en": "Everything was in good order except the boots.",
+            "vi": "Mọi thứ đều ổn, ngoại trừ đôi ủng."
+        }
+    ],
+    "words_form": [
+        "excepted",
+        "excepting",
+        "excepts"
+    ],
+    "meaning_vi": "ngoại trừ"
+}

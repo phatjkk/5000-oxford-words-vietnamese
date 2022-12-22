@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/pis/"
+    ],
+    "synonyms": [
+        "harmony",
+        "tranquillity",
+        "calm",
+        "placidity",
+        "armistice"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Harmony in personal relations.",
+            "vi": "Sự hài hòa trong quan hệ cá nhân."
+        },
+        {
+            "pos": "interjection",
+            "en": "(slang) Shortened form of peace out; goodbye.",
+            "vi": "(tiếng lóng) Dạng rút gọn của hòa bình; Tạm biệt."
+        },
+        {
+            "pos": "verb",
+            "en": "(neologism) To make peace; to put at peace; to be at peace.",
+            "vi": "(thuyết tân học) Để tạo hòa bình; để đặt hòa bình; được bình yên."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) River in W Canada, flowing from N British Columbia east & northeast into the Slave River in NE Alberta: 945 mi (1,521 km)",
+            "vi": "(địa điểm) Sông ở W Canada, chảy từ N British Columbia về phía đông & đông bắc vào sông Slave ở NE Alberta: 945 mi (1.521 km)"
+        },
+        {
+            "pos": "idiom",
+            "en": "at peace  In a state of tranquility; serene: She is at peace with herself and her friends.Free from strife: Everyone wants to live in a world at peace.",
+            "vi": "tại hòa bình Trong trạng thái yên tĩnh; thanh thản: Cô ấy bình yên với bản thân và bạn bè của cô ấy. Không xung đột: Mọi người đều muốn sống trong một thế giới hòa bình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I shall not be at peace till you promise me this.",
+            "vi": "Tôi sẽ không được bình yên cho đến khi bạn hứa với tôi điều này."
+        },
+        {
+            "en": "I feel at peace and settled.",
+            "vi": "Tôi cảm thấy bình yên và ổn định."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hòa bình"
+}

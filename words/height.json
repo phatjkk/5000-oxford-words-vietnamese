@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/haɪt/"
+    ],
+    "synonyms": [
+        "exaltation",
+        "peak",
+        "acme",
+        "summit",
+        "pitch"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The highest point or maximum degree.",
+            "vi": "Điểm cao nhất hoặc mức độ tối đa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The mountain ridges vary in height up to 4000 ft.",
+            "vi": "Các rặng núi có độ cao khác nhau lên đến 4000 ft."
+        },
+        {
+            "en": "He's about the same height and weight but he's younger.",
+            "vi": "Anh ấy có cùng chiều cao và cân nặng nhưng anh ấy trẻ hơn."
+        }
+    ],
+    "words_form": [
+        "heights"
+    ],
+    "meaning_vi": "chiều cao"
+}

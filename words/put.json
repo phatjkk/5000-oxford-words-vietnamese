@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/pʊt/"
+    ],
+    "synonyms": [
+        "establish",
+        "install",
+        "transfer",
+        "approximate",
+        "impose"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Put is defined as to place something or cause something to happen.",
+            "vi": "Put được định nghĩa là đặt một cái gì đó hoặc gây ra một cái gì đó xảy ra."
+        },
+        {
+            "pos": "noun",
+            "en": "(sports) An act of putting the shot.",
+            "vi": "(thể thao) Một hành động thực hiện cú đánh."
+        },
+        {
+            "pos": "adjective",
+            "en": "Fixed; stationary.",
+            "vi": "Đã sửa; đứng im."
+        },
+        {
+            "pos": "acronym",
+            "en": "(software, testing) Acronym of Parameterized Unit Testing.",
+            "vi": "(phần mềm, kiểm thử) Từ viết tắt của Parameterized Unit Testing."
+        },
+        {
+            "pos": "idiom",
+            "en": "put an end  To bring to an end; terminate.",
+            "vi": "đặt một kết thúc Để đưa đến một kết thúc; chấm dứt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She put on her red dress.",
+            "vi": "Cô ấy khoác lên mình chiếc váy đỏ rực."
+        },
+        {
+            "en": "He put a spoon in her hand.",
+            "vi": "Anh đặt một chiếc thìa vào tay cô."
+        }
+    ],
+    "words_form": [
+        "puts",
+        "putting"
+    ],
+    "meaning_vi": "đặt"
+}

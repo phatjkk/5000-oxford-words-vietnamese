@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈmæɡəˌzin/",
+        "/ˌmæɡəˈzin/"
+    ],
+    "synonyms": [
+        "manual",
+        "digest",
+        "fanzine",
+        "ammunition dump",
+        "cache"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A periodical containing a collection of articles, stories, pictures, or other features.",
+            "vi": "Một tạp chí định kỳ chứa một bộ sưu tập các bài báo, câu chuyện, hình ảnh hoặc các tính năng khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to periodicals.",
+            "vi": "Của hoặc liên quan đến các tạp chí định kỳ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He tossed the magazine aside and stood.",
+            "vi": "Anh ném tạp chí sang một bên và đứng dậy."
+        },
+        {
+            "en": "Alex was sitting in his chair, reading a magazine and glanced up when she spoke.",
+            "vi": "Alex đang ngồi trên ghế, đọc tạp chí và liếc lên khi cô nói."
+        }
+    ],
+    "words_form": [
+        "magazines"
+    ],
+    "meaning_vi": "tạp chí"
+}

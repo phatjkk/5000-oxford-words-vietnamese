@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ˈnəmbər/"
+    ],
+    "synonyms": [
+        "digit",
+        "numeral",
+        "product",
+        "sum total",
+        "multiplicity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a number is a word or symbol that represents an amount of people, things or units.",
+            "vi": "Định nghĩa của một số là một từ hoặc ký hiệu đại diện cho một lượng người, sự vật hoặc đơn vị."
+        },
+        {
+            "pos": "verb",
+            "en": "To assign a number to or mark with a number.",
+            "vi": "Để gán một số cho hoặc đánh dấu bằng một số."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "See also number.",
+            "vi": "Xem thêm số."
+        },
+        {
+            "pos": "adjective",
+            "en": "Comparative form of numb: more numb.",
+            "vi": "Dạng so sánh của tê: tê hơn."
+        },
+        {
+            "pos": "idiom",
+            "en": "by the numbers  In unison as numbers are called out by a leader: Performing calisthenics by the numbers.In a strict, step-by-step or mechanical way.",
+            "vi": "bởi các con số Đồng loạt khi các con số được gọi ra bởi một nhà lãnh đạo: Thực hiện các phép trị liệu bằng các con số. một cách nghiêm ngặt, từng bước hoặc cơ học."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You have my number, don't you?",
+            "vi": "Bạn có số của tôi, phải không?"
+        },
+        {
+            "en": "Soon they came into the main road where a number of the king's men were waiting.",
+            "vi": "Chẳng bao lâu họ đi vào con đường chính, nơi có một số người của nhà vua đang đợi."
+        }
+    ],
+    "words_form": [
+        "numbered",
+        "numbering",
+        "numbers"
+    ],
+    "meaning_vi": "con số"
+}

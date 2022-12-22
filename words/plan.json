@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/plæn/"
+    ],
+    "synonyms": [
+        "strategy",
+        "draft",
+        "formulate",
+        "scheme",
+        "design"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A drawing or diagram made to scale showing the structure or arrangement of something.",
+            "vi": "Một bản vẽ hoặc sơ đồ được thực hiện để chia tỷ lệ cho thấy cấu trúc hoặc sự sắp xếp của một thứ gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To plan is defined as to develop a scheme or program to get something done.",
+            "vi": "Lập kế hoạch được định nghĩa là phát triển một kế hoạch hoặc chương trình để hoàn thành một việc gì đó."
+        },
+        {
+            "pos": "affix",
+            "en": "Plano-",
+            "vi": "Plano-"
+        },
+        {
+            "pos": "pronoun",
+            "en": "(nautical, military) The People's Liberation Army Navy.",
+            "vi": "(hải lý, quân sự) Hải quân Quân Giải phóng Nhân dân."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I plan on it.",
+            "vi": "Tôi dự định về nó."
+        },
+        {
+            "en": "Where did you plan to sleep tonight?",
+            "vi": "Bạn đã định ngủ ở đâu tối nay?"
+        }
+    ],
+    "words_form": [
+        "planned",
+        "planning",
+        "plans"
+    ],
+    "meaning_vi": "kế hoạch"
+}

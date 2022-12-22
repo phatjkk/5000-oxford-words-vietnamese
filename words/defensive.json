@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/dəˈfɛnsɪv/"
+    ],
+    "synonyms": [
+        "attacking",
+        "guarding",
+        "touchy",
+        "combative",
+        "prickly"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Constantly feeling under attack and hence quick to justify one's actions.",
+            "vi": "Thường xuyên cảm thấy bị tấn công và do đó nhanh chóng biện minh cho hành động của mình."
+        },
+        {
+            "pos": "noun",
+            "en": "A means of defense.",
+            "vi": "Một phương tiện phòng thủ."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the defensive  Prepared to withstand or counter aggression or attack.",
+            "vi": "ở thế phòng thủ Chuẩn bị để chống lại hoặc chống lại sự xâm lược hoặc tấn công."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "All I know is that he gets defensive when I mention Uncle Fabrice.",
+            "vi": "Tất cả những gì tôi biết là anh ấy tỏ ra phòng thủ khi tôi nhắc đến chú Fabrice."
+        },
+        {
+            "en": "Every time the subject of your father came up, you got defensive and I backed off because I was afraid of losing you.",
+            "vi": "Mỗi khi chủ đề của bố bạn đưa ra, bạn lại phòng thủ và tôi lùi lại vì sợ mất bạn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "phòng ngự"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/kəˈpæsədi/"
+    ],
+    "synonyms": [
+        "scope",
+        "ability",
+        "limit",
+        "room",
+        "capacitance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The quality of being suitable for or receptive to specified treatment.",
+            "vi": "Chất lượng của việc phù hợp hoặc tiếp thu với điều trị được chỉ định."
+        },
+        {
+            "pos": "adjective",
+            "en": "Filling a space with the most it can hold.",
+            "vi": "Hãy lấp đầy một khoảng trống với nhiều nhất mà nó có thể chứa được."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You didn't have the capacity to care.",
+            "vi": "Bạn không có khả năng quan tâm."
+        },
+        {
+            "en": "Energy is the capacity for doing work.",
+            "vi": "Năng lượng là năng lực để thực hiện công việc."
+        }
+    ],
+    "words_form": [
+        "capacities"
+    ],
+    "meaning_vi": "sức chứa"
+}

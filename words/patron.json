@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈpeɪtrən/"
+    ],
+    "synonyms": [
+        "protector",
+        "philanthropist",
+        "encourager",
+        "guardian",
+        "supporter"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A customer, especially a regular customer.",
+            "vi": "Một khách hàng, đặc biệt là khách hàng thường xuyên."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To be a patron of; to patronize; to favour.",
+            "vi": "(lỗi thời) Là khách hàng quen của; để bảo trợ; để ủng hộ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In 1880 he was declared patron of all Roman Catholic educational establishments.",
+            "vi": "Năm 1880, ông được tuyên bố là người bảo trợ cho tất cả các cơ sở giáo dục của Công giáo La Mã."
+        },
+        {
+            "en": "As a patron of art Pericles was a still greater force.",
+            "vi": "Là một người bảo trợ cho nghệ thuật, Pericles vẫn là một thế lực lớn hơn."
+        }
+    ],
+    "words_form": [
+        "patrons"
+    ],
+    "meaning_vi": "người bảo trợ"
+}

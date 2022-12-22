@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈbɪzi/"
+    ],
+    "synonyms": [
+        "occupied",
+        "hectic",
+        "bustling",
+        "tireless",
+        "intrusive"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Engaged in activity, as work; occupied.",
+            "vi": "Tham gia vào hoạt động, như công việc; chiếm lĩnh."
+        },
+        {
+            "pos": "verb",
+            "en": "To make or keep busy.",
+            "vi": "Để thực hiện hoặc tiếp tục bận rộn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's a large and busy hotel.",
+            "vi": "Đó là một khách sạn lớn và bận rộn."
+        },
+        {
+            "en": "He was probably too busy with school to pay attention to politics.",
+            "vi": "Anh ta có lẽ quá bận rộn với việc học để chú ý đến chính trị."
+        }
+    ],
+    "words_form": [
+        "busied",
+        "busier",
+        "busies",
+        "busiest",
+        "busying"
+    ],
+    "meaning_vi": "bận rộn"
+}

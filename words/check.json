@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/tʃɛk/"
+    ],
+    "synonyms": [
+        "squelch",
+        "bank check",
+        "remittance",
+        "control",
+        "obstruction"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A check is the bill a person receives at a restaurant, or a paper order directing your bank to pay money to a third party from your bank account.",
+            "vi": "Séc là hóa đơn mà một người nhận được tại một nhà hàng hoặc một đơn đặt hàng trên giấy hướng dẫn ngân hàng của bạn thanh toán tiền cho bên thứ ba từ tài khoản ngân hàng của bạn."
+        },
+        {
+            "pos": "verb",
+            "en": "To deposit or consign for safekeeping or shipment.",
+            "vi": "Để ký gửi hoặc ký gửi để bảo quản an toàn hoặc gửi hàng."
+        },
+        {
+            "pos": "interjection",
+            "en": "(informal) Used to express agreement or understanding.",
+            "vi": "(không chính thức) Được sử dụng để thể hiện sự đồng ý hoặc hiểu biết."
+        },
+        {
+            "pos": "adjective",
+            "en": "Used to check or verify.",
+            "vi": "Được sử dụng để kiểm tra hoặc xác minh."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Abbr. Not sufficient funds check. A check that a drawee bank may not pay because the drawer has insufficient funds on deposit to cover it when it is presented for payment. See also check kiting.",
+            "vi": "Abbr. Không đủ tiền kiểm tra. Séc mà ngân hàng bị ký phát có thể không thanh toán vì người ký phát không có đủ tiền ký quỹ để trang trải khi nó được xuất trình để thanh toán. Xem thêm kiting kiểm tra."
+        },
+        {
+            "pos": "idiom",
+            "en": "check in  to register at a hotel, convention, etc. to report, as by presenting oneself check in at the office.",
+            "vi": "kiểm tra để đăng ký tại một khách sạn, hội nghị, vv để báo cáo, như bằng cách trình bày bản thân nhận phòng tại văn phòng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Why not check it out?",
+            "vi": "Tại sao không kiểm tra nó ra?"
+        },
+        {
+            "en": "Let the police check him out!",
+            "vi": "Hãy để cảnh sát kiểm tra anh ta!"
+        }
+    ],
+    "words_form": [
+        "checked",
+        "checking",
+        "checks"
+    ],
+    "meaning_vi": "(danh từ) hóa đơn; (động từ) kiểm tra"
+}

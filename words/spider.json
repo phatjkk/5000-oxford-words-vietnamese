@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈspaɪdər/"
+    ],
+    "synonyms": [
+        "wanderer",
+        "wasp",
+        "bot or robot",
+        "tarantula",
+        "frying-pan"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Any of numerous arachnids of the order Araneae, having a body divided into a cephalothorax and an abdomen, eight legs, two chelicerae that bear venom glands, and two or more spinnerets that produce the silk used to make nests, cocoons, or webs for trapping insects.",
+            "vi": "Bất kỳ loài nhện nào trong số vô số loài nhện thuộc họ Araneae, có cơ thể được chia thành một cephalothorax và một bụng, tám chân, hai ngực mang tuyến nọc độc và hai hoặc nhiều nhện tơ tạo ra tơ dùng để làm tổ, kén hoặc mạng để bẫy côn trùng."
+        },
+        {
+            "pos": "verb",
+            "en": "(Internet, of a computer program) To follow links on the World Wide Web in order to gather information.",
+            "vi": "(Internet, của một chương trình máy tính) Theo các liên kết trên World Wide Web để thu thập thông tin."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Giddon exclaimed sharply and clawed a spider web from his face.",
+            "vi": "Giddon kêu lên gay gắt và cào một mạng nhện khỏi mặt."
+        },
+        {
+            "en": "Until maturity is reached the spider has the power to repair lost or damaged limbs.",
+            "vi": "Cho đến khi đạt đến sự trưởng thành, con nhện có sức mạnh để sửa chữa các chi bị mất hoặc bị hư hỏng."
+        }
+    ],
+    "words_form": [
+        "spiders"
+    ],
+    "meaning_vi": "nhện"
+}

@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/breɪk/"
+    ],
+    "synonyms": [
+        "shatter",
+        "dissevering",
+        "rift",
+        "fracture",
+        "come-apart"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To cause to separate into pieces suddenly or violently; smash.",
+            "vi": "Gây tách thành nhiều mảnh đột ngột hoặc dữ dội; đập phá."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or an occurrence of breaking.",
+            "vi": "Hành động hoặc sự kiện phá vỡ."
+        },
+        {
+            "pos": "idiom",
+            "en": "break a leg  Used to wish someone, such as an actor, success in a performance.",
+            "vi": "gãy chân Dùng để chúc ai đó, chẳng hạn như một diễn viên, thành công trong một buổi biểu diễn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If you break it, you replace it.",
+            "vi": "Nếu bạn phá vỡ nó, bạn thay thế nó."
+        },
+        {
+            "en": "Give yourself a break and get some rest.",
+            "vi": "Hãy cho bản thân nghỉ ngơi và nghỉ ngơi một chút."
+        }
+    ],
+    "words_form": [
+        "breaking",
+        "breaks",
+        "broke",
+        "broken"
+    ],
+    "meaning_vi": "phá vỡ"
+}

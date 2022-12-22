@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈtaɪmli/"
+    ],
+    "synonyms": [
+        "in-good-time",
+        "auspicious",
+        "well-timed",
+        "suitable",
+        "pertinent"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of timely refers to something done at a good and suitable time.",
+            "vi": "Định nghĩa của kịp thời đề cập đến một cái gì đó được thực hiện vào một thời điểm tốt và phù hợp."
+        },
+        {
+            "pos": "adverb",
+            "en": "In time; opportunely.",
+            "vi": "Đúng giờ; một cách cơ hội."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He regarded his project as a timely compromise.",
+            "vi": "Ông coi dự án của mình như một sự thỏa hiệp kịp thời."
+        },
+        {
+            "en": "We don't always get timely information ourselves.",
+            "vi": "Không phải lúc nào chúng ta cũng nhận được thông tin kịp thời."
+        }
+    ],
+    "words_form": [
+        "timelier",
+        "timeliest"
+    ],
+    "meaning_vi": "hợp thời"
+}

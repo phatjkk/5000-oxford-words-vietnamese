@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈrɛləvənt/"
+    ],
+    "synonyms": [
+        "important",
+        "related",
+        "applicable",
+        "fitting",
+        "becoming"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Directly related, connected, or pertinent to a topic.",
+            "vi": "Có liên quan trực tiếp, được kết nối hoặc liên quan đến một chủ đề."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Some children like to think that the rules are not relevant to them.",
+            "vi": "Một số trẻ thích nghĩ rằng các quy tắc không liên quan đến chúng."
+        },
+        {
+            "en": "All these things are the same today as they were in Shakespeare's time, and because of that, his stories are still very relevant to us.",
+            "vi": "Tất cả những điều này ngày nay vẫn giống như ở thời của Shakespeare, và vì thế, những câu chuyện của ông vẫn rất phù hợp với chúng ta."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "có liên quan"
+}

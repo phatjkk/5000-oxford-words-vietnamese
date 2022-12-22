@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/hɪnt/"
+    ],
+    "synonyms": [
+        "trace",
+        "innuendo",
+        "clue",
+        "tinge",
+        "connotation"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make a hint or hints.",
+            "vi": "Để thực hiện một gợi ý hoặc gợi ý."
+        },
+        {
+            "pos": "noun",
+            "en": "(archaic) An occasion; an opportunity.",
+            "vi": "(cổ xưa) Một dịp; một cơ hội."
+        },
+        {
+            "pos": "idiom",
+            "en": "hint at  to suggest indirectly; intimate",
+            "vi": "gợi ý tại để gợi ý gián tiếp; thân mật"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Brennan offered a hint of information.",
+            "vi": "Brennan đưa ra một gợi ý thông tin."
+        },
+        {
+            "en": "The kind man's face held a hint of sympathy.",
+            "vi": "Khuôn mặt của người đàn ông tốt bụng ẩn chứa một chút thiện cảm."
+        }
+    ],
+    "words_form": [
+        "hinted",
+        "hinting",
+        "hints"
+    ],
+    "meaning_vi": "dấu"
+}

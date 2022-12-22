@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/steɪdʒ/"
+    ],
+    "synonyms": [
+        "staging",
+        "drama",
+        "contrived",
+        "scaffold",
+        "grade"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a stage is a platform or an area of raised floor.",
+            "vi": "Định nghĩa của một sân khấu là một nền tảng hoặc một khu vực của sàn nâng."
+        },
+        {
+            "pos": "verb",
+            "en": "To present, represent, or exhibit on or as on a stage.",
+            "vi": "Trình bày, đại diện hoặc triển lãm trên hoặc trên sân khấu."
+        },
+        {
+            "pos": "idiom",
+            "en": "by easy stages  traveling only a short distance at a time working or acting unhurriedly, with stops for rest",
+            "vi": "bởi các chặng dễ dàng chỉ di chuyển một khoảng cách ngắn tại một thời điểm làm việc hoặc hoạt động không vội vàng, có các điểm dừng để nghỉ ngơi"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was in the stage play Boo!",
+            "vi": "Anh ấy đã tham gia vở kịch trên sân khấu Boo!"
+        },
+        {
+            "en": "She has now reached the question stage of her development.",
+            "vi": "Bây giờ cô ấy đã đạt đến giai đoạn câu hỏi về sự phát triển của mình."
+        }
+    ],
+    "words_form": [
+        "staged",
+        "stages",
+        "staging"
+    ],
+    "meaning_vi": "giai đoạn"
+}

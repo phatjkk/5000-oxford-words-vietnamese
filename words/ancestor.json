@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈænˌsɛstər/"
+    ],
+    "synonyms": [
+        "forefather",
+        "progenitor",
+        "root",
+        "forerunner",
+        "originator"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an ancestor is a person or creature from whom one is descended or who lived in the past, or a person who came before.",
+            "vi": "Định nghĩa về tổ tiên là một người hoặc sinh vật mà một người là con cháu hoặc người đã sống trong quá khứ, hoặc một người đến trước đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To be an ancestor of.",
+            "vi": "Để trở thành tổ tiên của."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was their ancestor who wrote the letters I've got!",
+            "vi": "Chính tổ tiên của họ đã viết những bức thư mà tôi có được!"
+        },
+        {
+            "en": "It's important for 'em to stay here—in the same place where ancestor Annie lived.",
+            "vi": "Điều quan trọng là họ phải ở lại đây - cùng một nơi mà tổ tiên Annie đã sống."
+        }
+    ],
+    "words_form": [
+        "ancestors"
+    ],
+    "meaning_vi": "tổ tiên"
+}

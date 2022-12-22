@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/feɪd/"
+    ],
+    "synonyms": [
+        "glow",
+        "evaporate",
+        "fleet",
+        "tone down",
+        "tarnish"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To lose brightness, loudness, or brilliance gradually.",
+            "vi": "Để giảm dần độ sáng, độ to hoặc độ chói."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of fading.",
+            "vi": "Hành động phai nhạt."
+        },
+        {
+            "pos": "adjective",
+            "en": "(archaic) Strong; bold; doughty.",
+            "vi": "(cổ xưa) Mạnh mẽ; in đậm; cường tráng."
+        },
+        {
+            "pos": "idiom",
+            "en": "fade back  to move back from the line of scrimmage, as in order to throw a forward pass",
+            "vi": "mờ dần trở lại để di chuyển trở lại dòng kịch bản, như để ném một đường chuyền về phía trước"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He stood over her, watching the life fade from her eyes.",
+            "vi": "Anh đứng bên cô, nhìn sự sống đang mờ dần trong mắt cô."
+        },
+        {
+            "en": "The blue glazes, on the other hand, fade into white.",
+            "vi": "Mặt khác, men màu xanh lam nhạt dần thành màu trắng."
+        }
+    ],
+    "words_form": [
+        "faded",
+        "fades",
+        "fading"
+    ],
+    "meaning_vi": "phai màu"
+}

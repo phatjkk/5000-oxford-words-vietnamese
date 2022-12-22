@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/stip/"
+    ],
+    "synonyms": [
+        "soak",
+        "abrupt",
+        "perpendicular",
+        "inclined",
+        "extreme"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Steep is defined as a place that has an almost vertical incline.",
+            "vi": "Dốc được định nghĩa là một nơi có độ nghiêng gần như thẳng đứng."
+        },
+        {
+            "pos": "verb",
+            "en": "To soak in liquid in order to cleanse, soften, or extract a given property from.",
+            "vi": "Ngâm trong chất lỏng để làm sạch, làm mềm hoặc chiết xuất một đặc tính nhất định từ đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "At a rapid or precipitous rate.",
+            "vi": "Với tốc độ nhanh hoặc kết tủa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She screamed again as she tumbled down a steep hill.",
+            "vi": "Cô lại hét lên khi ngã xuống một ngọn đồi dốc."
+        },
+        {
+            "en": "Down these steep slopes we used to coast.",
+            "vi": "Xuống những con dốc mà chúng tôi đã từng đi qua."
+        }
+    ],
+    "words_form": [
+        "steeped",
+        "steeper",
+        "steepest",
+        "steeps"
+    ],
+    "meaning_vi": "dốc"
+}

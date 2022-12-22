@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/əˈwɔrd/"
+    ],
+    "synonyms": [
+        "reward",
+        "prize",
+        "bestow",
+        "trophy",
+        "respect"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Award is defined as to present something like a prize or certificate to a person who has earned it.",
+            "vi": "Giải thưởng được định nghĩa là để trao tặng một thứ gì đó giống như một giải thưởng hoặc chứng chỉ cho một người đã giành được nó."
+        },
+        {
+            "pos": "noun",
+            "en": "Something awarded or granted, as for merit.",
+            "vi": "Một cái gì đó được trao tặng hoặc ban tặng, như cho công trạng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The first award was made in 1831.",
+            "vi": "Giải thưởng đầu tiên được thực hiện vào năm 1831."
+        },
+        {
+            "en": "The question was referred for arbitration to the emperor of Austria, whose award published in 1880, upheld the contention of the Indians, and affirmed that the suzerainty of Nicaragua was limited by their right of self-government.",
+            "vi": "Câu hỏi đã được chuyển đến trọng tài cho hoàng đế của Áo, người có phán quyết được công bố vào năm 1880, ủng hộ sự tranh cãi của người da đỏ, và khẳng định rằng quyền tự trị của Nicaragua bị hạn chế bởi quyền tự chính của họ."
+        }
+    ],
+    "words_form": [
+        "awarded",
+        "awards"
+    ],
+    "meaning_vi": "giải thưởng"
+}

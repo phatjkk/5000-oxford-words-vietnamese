@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/rəˈlɪdʒən/"
+    ],
+    "synonyms": [
+        "faith",
+        "domination",
+        "ceremony",
+        "pietism",
+        "church"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Religion is a set of beliefs about God or the supernatural.",
+            "vi": "Tôn giáo là một tập hợp các niềm tin về Thượng đế hoặc siêu nhiên."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) get religion  To become religious or devout. To resolve to end one's immoral behavior.",
+            "vi": "(không chính thức) có được tôn giáo Để trở thành tôn giáo hoặc sùng đạo. Để quyết tâm chấm dứt hành vi trái đạo đức của một người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Thus the ancient Greek religion was especially disposed to belief in heroes and demigods.",
+            "vi": "Do đó, tôn giáo Hy Lạp cổ đại đặc biệt tin tưởng vào các anh hùng và á thần."
+        },
+        {
+            "en": "The test of religion is its effect on conduct.",
+            "vi": "Sự thử thách của tôn giáo là ảnh hưởng của nó đối với hạnh kiểm."
+        }
+    ],
+    "words_form": [
+        "religions"
+    ],
+    "meaning_vi": "tôn giáo"
+}

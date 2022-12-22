@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈloʊɡoʊ/"
+    ],
+    "synonyms": [
+        "icon",
+        "logotype",
+        "banner",
+        "sticker",
+        "letterhead"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a logo is a sign or symbol that identifies a company or a brand.",
+            "vi": "Định nghĩa của logo là một dấu hiệu hoặc biểu tượng xác định một công ty hoặc một thương hiệu."
+        },
+        {
+            "pos": "prefix",
+            "en": "Word; speech.",
+            "vi": "Từ; phát biểu."
+        },
+        {
+            "pos": "affix",
+            "en": "Word, speech, discourse.",
+            "vi": "Lời nói, bài phát biểu, bài nghị luận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her logo was painted on a white awning above the shop, the word Chanel in black lettering.",
+            "vi": "Logo của cô ấy được vẽ trên một mái hiên màu trắng phía trên cửa hàng, chữ Chanel màu đen."
+        },
+        {
+            "en": "In fact, the counterfeit fashion business is a billion dollar industry partly because many buyers care more about the logo of a product than its authenticity and also because many consumers remain unaware of the source of their merchandise.",
+            "vi": "Trên thực tế, kinh doanh thời trang hàng giả là một ngành công nghiệp tỷ đô một phần vì nhiều người mua quan tâm đến logo của sản phẩm hơn là tính xác thực của nó và cũng bởi vì nhiều người tiêu dùng vẫn không biết về nguồn gốc của hàng hóa của họ."
+        }
+    ],
+    "words_form": [
+        "logos"
+    ],
+    "meaning_vi": "biểu tượng"
+}

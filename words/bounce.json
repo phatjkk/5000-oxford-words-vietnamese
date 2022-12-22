@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/baʊns/"
+    ],
+    "synonyms": [
+        "jump",
+        "jounce",
+        "hop",
+        "leap",
+        "pliancy"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To rebound after having struck an object or a surface.",
+            "vi": "Để phục hồi sau khi va chạm vào một vật thể hoặc một bề mặt."
+        },
+        {
+            "pos": "noun",
+            "en": "Cheerfulness or liveliness.",
+            "vi": "Vui vẻ hoặc hoạt bát."
+        },
+        {
+            "pos": "idiom",
+            "en": "bounce back  to recover strength, good humor, etc. quickly",
+            "vi": "trả lại để phục hồi sức mạnh, hài hước tốt, v.v. một cách nhanh chóng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Then they'll bounce me to some other place in Denver, like Little Orphan Annie.",
+            "vi": "Sau đó, họ sẽ đưa tôi đến một số nơi khác ở Denver, như Little Orphan Annie."
+        },
+        {
+            "en": "It's nice to have someone to bounce things off of, but don't lose yourself in her identity.",
+            "vi": "Thật tuyệt khi có một ai đó giúp đỡ mọi thứ, nhưng đừng đánh mất bản sắc của cô ấy."
+        }
+    ],
+    "words_form": [
+        "bounced",
+        "bounces",
+        "bouncing"
+    ],
+    "meaning_vi": "tung lên"
+}

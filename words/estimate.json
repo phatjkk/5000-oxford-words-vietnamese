@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈɛstəˌmeɪt/"
+    ],
+    "synonyms": [
+        "guesstimate",
+        "measure",
+        "suppose",
+        "approximate",
+        "estimation"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To calculate approximately (the amount, extent, magnitude, position, or value of something).",
+            "vi": "Để tính toán gần đúng (số lượng, mức độ, độ lớn, vị trí hoặc giá trị của thứ gì đó)."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of an estimate is an opinion or a guess of the size, worth or cost of something.",
+            "vi": "Định nghĩa của một ước tính là một ý kiến ​​hoặc một phỏng đoán về quy mô, giá trị hoặc chi phí của một thứ gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The realtor's estimate of the value of the property pleased her.",
+            "vi": "Ước tính của người môi giới về giá trị của bất động sản làm cô hài lòng."
+        },
+        {
+            "en": "Gerdien's estimate of the convection current is for fine weather conditions.",
+            "vi": "Ước tính của Gerdien về dòng đối lưu dành cho các điều kiện thời tiết tốt."
+        }
+    ],
+    "words_form": [
+        "estimated",
+        "estimates",
+        "estimating"
+    ],
+    "meaning_vi": "ước tính"
+}

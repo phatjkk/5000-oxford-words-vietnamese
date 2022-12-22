@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈkəntri/"
+    ],
+    "synonyms": [
+        "people",
+        "unsophisticated",
+        "rude",
+        "city",
+        "back-country"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The whole land or territory of a nation or state.",
+            "vi": "Toàn bộ đất đai hoặc lãnh thổ của một quốc gia hoặc tiểu bang."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of country is relating to rural life.",
+            "vi": "Định nghĩa về quốc gia có liên quan đến cuộc sống nông thôn."
+        },
+        {
+            "pos": "idiom",
+            "en": "in country  In Vietnam during the period of US military operations there:",
+            "vi": "trong nước Tại Việt Nam trong thời gian quân đội Hoa Kỳ hoạt động ở đó:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The country was wild and beautiful.",
+            "vi": "Đất nước hoang sơ và xinh đẹp."
+        },
+        {
+            "en": "His birth father already suspected she was a country bumpkin.",
+            "vi": "Cha đẻ của anh đã nghi ngờ cô là một cô gái quê mùa."
+        }
+    ],
+    "words_form": [
+        "countries"
+    ],
+    "meaning_vi": "đất nước"
+}

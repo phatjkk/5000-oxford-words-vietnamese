@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈwɑndər/"
+    ],
+    "synonyms": [
+        "ramble",
+        "walk",
+        "rove",
+        "roam",
+        "digress"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To move about without a definite destination or purpose.",
+            "vi": "Để di chuyển mà không có đích hoặc mục đích xác định."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or instance of wandering.",
+            "vi": "Hành động hoặc trường hợp đi lang thang."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Hopefully he wouldn't wander off and get lost.",
+            "vi": "Hy vọng rằng anh ấy sẽ không đi lang thang và bị lạc."
+        },
+        {
+            "en": "I hope it.s okay if I wander around for awhile.",
+            "vi": "Tôi hy vọng nó sẽ ổn nếu tôi đi lang thang trong một thời gian."
+        }
+    ],
+    "words_form": [
+        "wandered",
+        "wandering",
+        "wanders"
+    ],
+    "meaning_vi": "đi lang thang; sự đi lang thang"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/praɪm/"
+    ],
+    "synonyms": [
+        "florescence",
+        "start",
+        "first-class",
+        "excellent",
+        "earliest"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The first position of thrust and parry in fencing.",
+            "vi": "Vị trí đầu tiên của lực đẩy và ngang trong đấu kiếm."
+        },
+        {
+            "pos": "verb",
+            "en": "To make ready; prepare.",
+            "vi": "Chuẩn bị sẵn sàng; chuẩn bị."
+        },
+        {
+            "pos": "adjective",
+            "en": "(mathematics) Of, relating to, or being a prime number.",
+            "vi": "(toán học) Của, liên quan đến, hoặc là một số nguyên tố."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) prime the pump  To encourage the growth or action of something.",
+            "vi": "(không chính thức) đầu máy bơm Để khuyến khích sự phát triển hoặc hành động của một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I think I might get the prime rib.",
+            "vi": "Tôi nghĩ rằng tôi có thể có được xương sườn nguyên bản."
+        },
+        {
+            "en": "When a person dies, the prime suspect is always the surviving spouse.",
+            "vi": "Khi một người chết, nghi phạm chính luôn là người phối ngẫu còn sống."
+        }
+    ],
+    "words_form": [
+        "primed",
+        "primes",
+        "priming"
+    ],
+    "meaning_vi": "nguyên tố"
+}

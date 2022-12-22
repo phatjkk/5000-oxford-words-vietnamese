@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈkɑmpləˌkeɪdəd/"
+    ],
+    "synonyms": [
+        "complex",
+        "sophisticated",
+        "difficult",
+        "abstruse",
+        "intricacy"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Not easy to understand or analyze because of being intricate.",
+            "vi": "Không dễ hiểu hoặc không dễ phân tích vì phức tạp."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of complicate.",
+            "vi": "Quá khứ đơn và quá khứ phân từ phức tạp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If it doesn't look too complicated, maybe I can fix it.",
+            "vi": "Nếu nó trông không quá phức tạp, có lẽ tôi có thể sửa chữa nó."
+        },
+        {
+            "en": "The dispositions were very complicated and difficult.",
+            "vi": "Các vị trí rất phức tạp và khó khăn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "phức tạp"
+}

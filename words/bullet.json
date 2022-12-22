@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈbʊlət/"
+    ],
+    "synonyms": [
+        "ammo",
+        "pellet",
+        "projectile",
+        "cartridge",
+        "shell"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An object resembling a projectile in shape, action, or effect.",
+            "vi": "Một vật thể giống đường đạn về hình dạng, hành động hoặc hiệu ứng."
+        },
+        {
+            "pos": "verb",
+            "en": "(informal) To draw attention to (text) by, or as if by, placing a graphic bullet in front of it.",
+            "vi": "(không chính thức) Để thu hút sự chú ý đến (văn bản) bằng cách đặt một dấu đầu dòng đồ họa trước nó."
+        },
+        {
+            "pos": "idiom",
+            "en": "bite the bullet  to confront a painful situation with fortitude or stoicism",
+            "vi": "cắn viên đạn để đối mặt với một tình huống đau đớn bằng sự kiên cường hoặc chủ nghĩa khắc kỷ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A bullet had pierced his skull.",
+            "vi": "Một viên đạn đã xuyên qua hộp sọ của anh ta."
+        },
+        {
+            "en": "He was shot dead by a musket bullet in the retreat.",
+            "vi": "Anh ta bị bắn chết bởi một viên đạn súng hỏa mai trong cuộc rút lui."
+        }
+    ],
+    "words_form": [
+        "bullets"
+    ],
+    "meaning_vi": "viên đạn"
+}

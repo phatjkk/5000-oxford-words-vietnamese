@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌnɑməˈneɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "nominations",
+        "appointment",
+        "designation",
+        "nominator",
+        "submission"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The state of being nominated.",
+            "vi": "Tình trạng được đề cử."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His services were acknowledged by a nomination as C.B.",
+            "vi": "Dịch vụ của anh ấy đã được công nhận bởi một đề cử là CB"
+        },
+        {
+            "en": "Nomination is by the king for life.",
+            "vi": "Đề cử là do vua suốt đời."
+        }
+    ],
+    "words_form": [
+        "nominations"
+    ],
+    "meaning_vi": "đề cử"
+}

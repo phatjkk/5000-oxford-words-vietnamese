@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/peɪl/"
+    ],
+    "synonyms": [
+        "faint",
+        "dim",
+        "ashen",
+        "deathlike",
+        "anemic"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To pale is to lose the color from your face.",
+            "vi": "Tái nhợt là làm mất đi màu sắc trên khuôn mặt của bạn."
+        },
+        {
+            "pos": "noun",
+            "en": "(by extension) Limits, bounds (especially before of).",
+            "vi": "(bằng cách mở rộng) Giới hạn, giới hạn (đặc biệt là trước của)."
+        },
+        {
+            "pos": "affix",
+            "en": "Paleo-",
+            "vi": "Paleo-"
+        },
+        {
+            "pos": "adjective",
+            "en": "Whitish in complexion; pallid.",
+            "vi": "Màu trắng trong nước da; xanh xao."
+        },
+        {
+            "pos": "idiom",
+            "en": "beyond the pale  Irrevocably unacceptable or unreasonable: Behavior that was quite beyond the pale.",
+            "vi": "Vượt quá sự nhợt nhạt Không thể chấp nhận được hoặc không hợp lý: Hành vi đã khá vượt quá sự nhợt nhạt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His face looked pale and he rode with an alien stiffness.",
+            "vi": "Mặt anh ta trông nhợt nhạt và anh ta cưỡi ngựa với vẻ cứng cỏi của người ngoài hành tinh."
+        },
+        {
+            "en": "Her face was pale and rigid.",
+            "vi": "Mặt cô tái mét và cứng nhắc."
+        }
+    ],
+    "words_form": [
+        "paled",
+        "paler",
+        "pales",
+        "palest",
+        "paling"
+    ],
+    "meaning_vi": "nhợt nhạt"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈʃoʊldər/"
+    ],
+    "synonyms": [
+        "refuse",
+        "neck",
+        "push aside",
+        "ledge",
+        "buttock"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The shoulder is the joint that connects the arm with the body, or the part of body that includes this joint and the muscles up to the base of the neck.",
+            "vi": "Vai là khớp nối cánh tay với cơ thể, hoặc một phần của cơ thể bao gồm khớp này và các cơ cho đến cổ."
+        },
+        {
+            "pos": "verb",
+            "en": "To carry or place (a burden, for example) on a shoulder or on the shoulders.",
+            "vi": "Mang hoặc đặt (ví dụ như gánh nặng) trên vai hoặc trên vai."
+        },
+        {
+            "pos": "idiom",
+            "en": "put (one's) shoulder to the wheel  To apply oneself vigorously; make a concentrated effort.",
+            "vi": "đặt (một) vai vào bánh xe Để áp dụng bản thân một cách mạnh mẽ; nỗ lực tập trung."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She threw the rifle to her shoulder and took aim.",
+            "vi": "Cô ném khẩu súng trường lên vai và ngắm bắn."
+        },
+        {
+            "en": "He carried the child over his shoulder like a Santa sack.",
+            "vi": "Anh ta cõng đứa trẻ trên vai như một chiếc bao tải của ông già Noel."
+        }
+    ],
+    "words_form": [
+        "shouldered",
+        "shouldering",
+        "shoulders"
+    ],
+    "meaning_vi": "vai"
+}

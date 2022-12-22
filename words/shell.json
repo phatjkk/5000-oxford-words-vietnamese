@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ʃɛl/"
+    ],
+    "synonyms": [
+        "crust",
+        "nut",
+        "defeat",
+        "husk",
+        "exfoliate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Shell is defined as to remove the outside cover of something.",
+            "vi": "Shell được định nghĩa là loại bỏ lớp vỏ bên ngoài của một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "A small glass for beer.",
+            "vi": "Một ly bia nhỏ."
+        },
+        {
+            "pos": "idiom",
+            "en": "shell out  to pay out (money)",
+            "vi": "bỏ ra để trả (tiền)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Nothing... only a shell...\" he answered.",
+            "vi": "\"Không có gì ... chỉ có cái vỏ ...\" anh ta trả lời."
+        },
+        {
+            "en": "Shell solid, piriform, with thick folded columella; lateral teeth of radula bicuspidate.",
+            "vi": "Vỏ rắn, hình piriform, có hình cột gấp nếp dày; răng bên của radula bicuspidat."
+        }
+    ],
+    "words_form": [
+        "shelled",
+        "shelling",
+        "shells"
+    ],
+    "meaning_vi": "vỏ"
+}

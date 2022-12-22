@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɡɪɡ/"
+    ],
+    "synonyms": [
+        "office",
+        "situation",
+        "appointment",
+        "spear",
+        "booking"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A light, two-wheeled carriage drawn by one horse.",
+            "vi": "Một chiếc xe hai bánh nhẹ do một con ngựa kéo."
+        },
+        {
+            "pos": "verb",
+            "en": "To ride in a gig.",
+            "vi": "Để đi trong một hợp đồng biểu diễn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"It's a temporary gig,\" Jessi said.",
+            "vi": "\"Đó là một hợp đồng biểu diễn tạm thời,\" Jessi nói."
+        },
+        {
+            "en": "Just played a slightly surreal gig at 5:30pm at the Cardiff.",
+            "vi": "Vừa chơi một buổi biểu diễn hơi kỳ quái lúc 5:30 chiều tại Cardiff."
+        }
+    ],
+    "words_form": [
+        "gigged",
+        "gigging",
+        "gigs"
+    ],
+    "meaning_vi": "hợp đồng biểu diễn"
+}

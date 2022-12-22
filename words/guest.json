@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ɡɛst/"
+    ],
+    "synonyms": [
+        "customer",
+        "visitant",
+        "confidant",
+        "fellow",
+        "inmate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a guest is a person welcomed into someone's home or a customer at a restaurant or hotel.",
+            "vi": "Định nghĩa về khách là một người được chào đón vào nhà của ai đó hoặc khách hàng tại nhà hàng hoặc khách sạn."
+        },
+        {
+            "pos": "verb",
+            "en": "To appear as a guest.",
+            "vi": "Để xuất hiện với tư cách khách."
+        },
+        {
+            "pos": "adjective",
+            "en": "Participating as a guest.",
+            "vi": "Tham gia với tư cách khách mời."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was only a guest until they reached Ashley.",
+            "vi": "Anh ta chỉ là khách cho đến khi họ đến được Ashley."
+        },
+        {
+            "en": "He was just a guest at Bird Song.",
+            "vi": "Anh ấy chỉ là khách mời tại Bird Song."
+        }
+    ],
+    "words_form": [
+        "guested",
+        "guesting",
+        "guests"
+    ],
+    "meaning_vi": "khách; khách mời"
+}

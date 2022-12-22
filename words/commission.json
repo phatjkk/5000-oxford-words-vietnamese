@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/kəˈmɪʃən/"
+    ],
+    "synonyms": [
+        "authorization",
+        "empowering",
+        "delegation",
+        "entrusting",
+        "committing"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Commission means to send on a mission or make an order.",
+            "vi": "Hoa hồng có nghĩa là gửi đi một nhiệm vụ hoặc thực hiện một đơn đặt hàng."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a commission is an order or direction.",
+            "vi": "Định nghĩa của hoa hồng là một đơn đặt hàng hoặc chỉ đạo."
+        },
+        {
+            "pos": "idiom",
+            "en": "in commission  In active service. Used of a ship. In use or in usable condition.",
+            "vi": "trong hoa hồng Đang tại ngũ. Được sử dụng của một con tàu. Đang sử dụng hoặc trong tình trạng có thể sử dụng được."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This was the last commission entrusted to him.",
+            "vi": "Đây là ủy ban cuối cùng được giao cho anh ta."
+        },
+        {
+            "en": "That same evening Pierre went to the Rostovs' to fulfill the commission entrusted to him.",
+            "vi": "Cùng buổi tối hôm đó, Pierre đến nhà Rostov để thực hiện nhiệm vụ được giao phó."
+        }
+    ],
+    "words_form": [
+        "commissioned",
+        "commissions"
+    ],
+    "meaning_vi": "uỷ ban"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈvɛsəl/"
+    ],
+    "synonyms": [
+        "boat",
+        "artery",
+        "ship",
+        "crucible",
+        "vase"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a vessel is a large ship or boat. It also refers to a container, especially one that is used to hold liquids.",
+            "vi": "Định nghĩa về tàu là một con tàu hoặc thuyền lớn. Nó cũng đề cập đến một vật chứa, đặc biệt là một vật được sử dụng để chứa chất lỏng."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To put into a vessel.",
+            "vi": "(lỗi thời) Để đưa vào tàu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "After Lincoln was elected in 1860 he chose Seward for his secretary 1 In 1837 the vessel `\"Caroline,\" which had been used by the Canadian insurgents, was seized by the Canadian authorities in American territory and was destroyed.",
+            "vi": "Sau khi Lincoln đắc cử vào năm 1860, ông đã chọn Seward làm thư ký của mình. 1 Năm 1837, con tàu \"Caroline\" từng được quân nổi dậy Canada sử dụng, bị chính quyền Canada bắt giữ trên lãnh thổ Mỹ và bị phá hủy."
+        },
+        {
+            "en": "The subject was how Mary had been a vessel to carry the son of god.",
+            "vi": "Chủ đề là Mary đã trở thành vật chứa đựng con trai của thần như thế nào."
+        }
+    ],
+    "words_form": [
+        "vessels"
+    ],
+    "meaning_vi": "tàu"
+}

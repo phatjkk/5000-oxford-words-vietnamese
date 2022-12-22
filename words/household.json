@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈhaʊsˌ(h)oʊld/"
+    ],
+    "synonyms": [
+        "house",
+        "home",
+        "family",
+        "domestic",
+        "menage"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Household is defined as common or known to everyone.",
+            "vi": "Hộ gia đình được định nghĩa là chung hoặc được mọi người biết đến."
+        },
+        {
+            "pos": "noun",
+            "en": "The person or persons who live in one house, apartment, etc.; variously, one person or a group, esp. a family.",
+            "vi": "Người hoặc những người sống trong một ngôi nhà, căn hộ, v.v.; khác nhau, một người hoặc một nhóm, đặc biệt. một gia đình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Oswulf was slain by his household at a place called Mechil Wongtun in 759.",
+            "vi": "Oswulf đã bị giết bởi gia đình của mình tại một nơi gọi là Mechil Wongtun vào năm 759."
+        },
+        {
+            "en": "The phone was as busy as the Bird Song household this Monday morning.",
+            "vi": "Điện thoại bận như hộ Bird Song vào sáng thứ Hai này."
+        }
+    ],
+    "words_form": [
+        "households"
+    ],
+    "meaning_vi": "hộ gia đình"
+}

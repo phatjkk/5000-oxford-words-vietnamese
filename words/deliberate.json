@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈlɪb(ə)rət/"
+    ],
+    "synonyms": [
+        "intentional",
+        "considered",
+        "accidental",
+        "thought-out",
+        "intended"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To consider (a matter) carefully and often slowly, as by weighing alternatives.",
+            "vi": "Để xem xét (một vấn đề) một cách cẩn thận và thường từ từ, như bằng cách cân nhắc các lựa chọn thay thế."
+        },
+        {
+            "pos": "adjective",
+            "en": "Unhurried and careful.",
+            "vi": "Không vội vàng và cẩn thận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Sure she was thin, but it wasn't a deliberate condition.",
+            "vi": "Chắc chắn là cô ấy gầy, nhưng đó không phải là một tình trạng cố ý."
+        },
+        {
+            "en": "His movements were deliberate as he walked toward her - as if he were measuring every word he was about to say.",
+            "vi": "Những chuyển động của anh có chủ ý khi anh đi về phía cô - như thể anh đang cân nhắc từng lời mình định nói."
+        }
+    ],
+    "words_form": [
+        "deliberated",
+        "deliberates",
+        "deliberating"
+    ],
+    "meaning_vi": "cố tình"
+}

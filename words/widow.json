@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈwɪdoʊ/"
+    ],
+    "synonyms": [
+        "dowager",
+        "wife",
+        "mantrap",
+        "relict",
+        "survivor"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a widow is a woman who is alive after her husband’s death.",
+            "vi": "Định nghĩa về một góa phụ là một phụ nữ còn sống sau khi chồng qua đời."
+        },
+        {
+            "pos": "verb",
+            "en": "To cause to become a widow or widower.",
+            "vi": "Để trở thành góa phụ hoặc góa vợ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Ranulf married Constance, widow of Henry II.",
+            "vi": "Ranulf kết hôn với Constance, góa phụ của Henry II."
+        },
+        {
+            "en": "His young widow took command of the survivors and brought them safely to Manila.",
+            "vi": "Người vợ góa trẻ của anh đã chỉ huy những người sống sót và đưa họ đến Manila an toàn."
+        }
+    ],
+    "words_form": [
+        "widowed",
+        "widows"
+    ],
+    "meaning_vi": "người đàn bà góa"
+}

@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/tɛn/"
+    ],
+    "synonyms": [
+        "tenth",
+        "tenner",
+        "tenfold",
+        "10",
+        "denary"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The cardinal number equal to 9 + 1.",
+            "vi": "Số cuối cùng bằng 9 + 1."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Tenor.",
+            "vi": "Kỳ hạn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Totaling one more than nine.",
+            "vi": "Tổng cộng một hơn chín."
+        },
+        {
+            "pos": "affix",
+            "en": "Teno-",
+            "vi": "Teno-"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What she knew was that her father and his lies had skewed her outlook on her world for ten years.",
+            "vi": "Những gì cô biết là cha cô và những lời nói dối của ông đã làm lệch cách nhìn của cô về thế giới của cô trong mười năm."
+        },
+        {
+            "en": "The way things are going now, I'm lucky to save ten dollars a week.",
+            "vi": "Mọi thứ đang diễn ra như bây giờ, tôi may mắn tiết kiệm được mười đô la một tuần."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "số mười"
+}

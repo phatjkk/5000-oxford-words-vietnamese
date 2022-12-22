@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˌmæn(j)əˈfæk(t)ʃər/"
+    ],
+    "synonyms": [
+        "assembling",
+        "fashioning",
+        "forming",
+        "fabrication",
+        "fabricate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make by hand or, esp., by machinery, often on a large scale and with division of labor.",
+            "vi": "Sản xuất thủ công hoặc đặc biệt là bằng máy móc, thường ở quy mô lớn và có sự phân công lao động."
+        },
+        {
+            "pos": "noun",
+            "en": "The making of goods and articles by hand or, esp., by machinery, often on a large scale and with division of labor.",
+            "vi": "Việc sản xuất hàng hóa và vật phẩm bằng tay hoặc, đặc biệt là bằng máy móc, thường ở quy mô lớn và có sự phân công lao động."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The subsidiary industries, such as the manufacture of machinery and wire fabric, are of considerable importance.",
+            "vi": "Các ngành công nghiệp phụ, chẳng hạn như sản xuất máy móc và vải sợi, có tầm quan trọng đáng kể."
+        },
+        {
+            "en": "For instance, you may manufacture widgets from lightweight plastic.",
+            "vi": "Ví dụ, bạn có thể sản xuất các vật dụng từ nhựa nhẹ."
+        }
+    ],
+    "words_form": [
+        "manufactured",
+        "manufactures",
+        "manufacturing"
+    ],
+    "meaning_vi": "sản xuất"
+}

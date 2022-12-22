@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈdɪstəns/"
+    ],
+    "synonyms": [
+        "background",
+        "big",
+        "extent",
+        "outlying",
+        "long haul"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Distance is defined as the amount of space between two things or the state of being far apart.",
+            "vi": "Khoảng cách được định nghĩa là khoảng không gian giữa hai vật hoặc trạng thái ở xa nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "To distance is defined as to leave behind.",
+            "vi": "Khoảng cách đến được định nghĩa là bỏ lại phía sau."
+        },
+        {
+            "pos": "adjective",
+            "en": "(track & field) That covers a middle distance or a long distance.",
+            "vi": "(điền kinh) Bao gồm khoảng cách trung bình hoặc khoảng cách xa."
+        },
+        {
+            "pos": "idiom",
+            "en": "go the distance  to last through an activity; specif., to pitch an entire baseball game without being replaced",
+            "vi": "đi khoảng cách để kéo dài thông qua một hoạt động; specif., để ném cả một trận bóng chày mà không bị thay thế"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She kept her distance from him.",
+            "vi": "Cô giữ khoảng cách với anh."
+        },
+        {
+            "en": "We were sitting together in a hammock which swung from two solemn pines at a short distance from the house.",
+            "vi": "Chúng tôi đang ngồi cùng nhau trên chiếc võng đu đưa từ hai cây thông trang trọng cách nhà không xa."
+        }
+    ],
+    "words_form": [
+        "distanced",
+        "distances",
+        "distancing"
+    ],
+    "meaning_vi": "khoảng cách"
+}

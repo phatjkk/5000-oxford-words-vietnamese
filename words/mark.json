@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/mɑrk/"
+    ],
+    "synonyms": [
+        "imprint",
+        "nick",
+        "trace",
+        "butt",
+        "bull-s-eye"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a mark is a sign, symbol, indication or a stain.",
+            "vi": "Định nghĩa nhãn hiệu là một dấu hiệu, ký hiệu, chỉ dẫn hoặc một vết bẩn."
+        },
+        {
+            "pos": "verb",
+            "en": "Mark is defined as to put an indication or symbol on something in order to identify it.",
+            "vi": "Mark được định nghĩa là đặt một chỉ dẫn hoặc ký hiệu lên một thứ gì đó để xác định nó."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Alternative form of Mark.",
+            "vi": "Hình thức thay thế của Mark."
+        },
+        {
+            "pos": "idiom",
+            "en": "beside the mark  Beside the point; irrelevant.",
+            "vi": "bên cạnh dấu Bên cạnh điểm; không liên quan."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His mark is inconsequential.",
+            "vi": "Dấu ấn của anh ấy là không quan trọng."
+        },
+        {
+            "en": "I saw the mark with my own eyes.",
+            "vi": "Tôi đã tận mắt nhìn thấy dấu vết."
+        }
+    ],
+    "words_form": [
+        "marked",
+        "marking",
+        "marks"
+    ],
+    "meaning_vi": "hiệu"
+}

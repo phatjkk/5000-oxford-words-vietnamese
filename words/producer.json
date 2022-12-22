@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/prəˈd(j)usər/"
+    ],
+    "synonyms": [
+        "manufacturer",
+        "farmer",
+        "assembler",
+        "constructor",
+        "co-producer"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person or thing that produces; specif., one who produces goods and services.",
+            "vi": "Một người hoặc một vật tạo ra; specif., một người sản xuất hàng hóa và dịch vụ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Of the less important minerals, Canada is the world's chief producer of asbestos and corundum.",
+            "vi": "Trong số các khoáng sản ít quan trọng hơn, Canada là nhà sản xuất amiăng và corundum chính trên thế giới."
+        },
+        {
+            "en": "The state of Virginia is the chief producer, followed successively by Georgia, North Carolina, Colorado, Massachusetts, California, Missouri, New York, &c. From Indiana and Ohio a quantity of pyrites is obtained as a by-product in coalmining.",
+            "vi": "Bang Virginia là nhà sản xuất chính, tiếp theo là Georgia, North Carolina, Colorado, Massachusetts, California, Missouri, New York, & c. Từ Indiana và Ohio, một lượng pyrit thu được như một sản phẩm phụ trong quá trình khai thác than đá."
+        }
+    ],
+    "words_form": [
+        "producers"
+    ],
+    "meaning_vi": "nhà sản xuất"
+}

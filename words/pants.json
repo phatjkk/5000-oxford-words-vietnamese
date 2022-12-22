@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/pæn(t)s/"
+    ],
+    "synonyms": [
+        "breeches",
+        "bermuda-shorts",
+        "shorts",
+        "breathes",
+        "underwear"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Pants are trousers or clothing that you wear to cover your legs and bottom.",
+            "vi": "Quần là quần dài hoặc quần áo bạn mặc để che chân và mông."
+        },
+        {
+            "pos": "verb",
+            "en": "To pull someone's pants down; to forcibly remove someone's pants ; an Americanism for debag.",
+            "vi": "Để kéo quần của ai đó xuống; cưỡng bức cởi quần của ai đó; một chủ nghĩa Mỹ để gỡ rối."
+        },
+        {
+            "pos": "adjective",
+            "en": "(UK, slang) Of inferior quality, rubbish.",
+            "vi": "(Anh, tiếng lóng) Chất lượng kém, rác rưởi."
+        },
+        {
+            "pos": "suffix",
+            "en": "(informal, usually pejorative) Used with adjectives ending in -y to form nicknames based on a negative quality of a person.",
+            "vi": "(thân mật, thường là buồn cười) Được sử dụng với các tính từ kết thúc bằng -y để tạo thành biệt danh dựa trên phẩm chất tiêu cực của một người."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "An outer garment extending from the waist to the knees or ankles and divided into separate coverings for the legs.",
+            "vi": "Một chiếc áo khoác bên ngoài kéo dài từ thắt lưng đến đầu gối hoặc mắt cá chân và được chia thành các lớp phủ riêng biệt cho chân."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Then I slipped trying to rub mud on my pants to cover it up.",
+            "vi": "Sau đó tôi trượt chân cố gắng xoa bùn lên quần để che nó đi."
+        },
+        {
+            "en": "He jammed his hands into his pants pockets.",
+            "vi": "Anh đút tay vào túi quần."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "Quần dài."
+}

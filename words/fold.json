@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/foʊld/"
+    ],
+    "synonyms": [
+        "fold-up",
+        "pleat",
+        "lapel",
+        "doubling",
+        "bow"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be or become folded.",
+            "vi": "Để được hoặc trở nên gấp lại."
+        },
+        {
+            "pos": "noun",
+            "en": "(brit.) A hollow; small valley.",
+            "vi": "(giòn.) Một cái rỗng; thung lũng nhỏ."
+        },
+        {
+            "pos": "suffix",
+            "en": "Having (a specified number of) parts.",
+            "vi": "Có (một số) bộ phận cụ thể."
+        },
+        {
+            "pos": "affix",
+            "en": "Having (a specified number of) parts.",
+            "vi": "Có (một số) bộ phận cụ thể."
+        },
+        {
+            "pos": "idiom",
+            "en": "fold in  to blend (an ingredient) into a mixture, using gentle, cutting strokes",
+            "vi": "gấp vào để trộn (một thành phần) thành một hỗn hợp, sử dụng các nét cắt nhẹ nhàng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I took it off so I could fold these towels.",
+            "vi": "Tôi đã cởi nó ra để tôi có thể gấp những chiếc khăn này."
+        },
+        {
+            "en": "Cassie played with a fold in her dress.",
+            "vi": "Cassie đã chơi với một nếp gấp trong chiếc váy của mình."
+        }
+    ],
+    "words_form": [
+        "folded",
+        "folding",
+        "folds"
+    ],
+    "meaning_vi": "gập lại"
+}

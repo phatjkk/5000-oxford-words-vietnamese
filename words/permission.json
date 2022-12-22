@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/pərˈmɪʃən/"
+    ],
+    "synonyms": [
+        "consent",
+        "authorization",
+        "agreement",
+        "assent",
+        "acceptance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Permission is defined as giving consent or authority or allowing someone to do something.",
+            "vi": "Sự cho phép được định nghĩa là sự đồng ý hoặc quyền hạn hoặc cho phép ai đó làm điều gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She politely asked her mother for permission, which was granted.",
+            "vi": "Cô lịch sự xin phép mẹ, điều đó đã được chấp thuận."
+        },
+        {
+            "en": "Will you get permission for me?",
+            "vi": "Bạn sẽ xin phép cho tôi?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sự cho phép"
+}

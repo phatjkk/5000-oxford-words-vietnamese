@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈlɔɪər/"
+    ],
+    "synonyms": [
+        "counsel",
+        "attorney",
+        "counselor",
+        "jurisprudent",
+        "advocate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To perform, or attempt to perform, the work of a lawyer.",
+            "vi": "Để thực hiện hoặc cố gắng thực hiện công việc của một luật sư."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a lawyer is someone who gives legal advice and represents people in legal matters.",
+            "vi": "Định nghĩa luật sư là người đưa ra lời khuyên pháp lý và đại diện cho mọi người trong các vấn đề pháp lý."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maybe she wanted to talk to a lawyer first.",
+            "vi": "Có lẽ cô ấy muốn nói chuyện với một luật sư trước."
+        },
+        {
+            "en": "I'll have to talk to my lawyer about this.",
+            "vi": "Tôi sẽ phải nói chuyện với luật sư của tôi về việc này."
+        }
+    ],
+    "words_form": [
+        "lawyered",
+        "lawyers"
+    ],
+    "meaning_vi": "luật sư"
+}

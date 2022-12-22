@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈkrɪdək(ə)l/"
+    ],
+    "synonyms": [
+        "crucial",
+        "evaluative",
+        "important",
+        "penetrating",
+        "calumniatory"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(chemistry & physics) Of or relating to the value of a measurement, such as temperature, at which an abrupt change in a quality, property, or state occurs.",
+            "vi": "(hóa học & vật lý) Có hoặc liên quan đến giá trị của phép đo, chẳng hạn như nhiệt độ, tại đó xảy ra sự thay đổi đột ngột về chất lượng, đặc tính hoặc trạng thái."
+        },
+        {
+            "pos": "noun",
+            "en": "A critical value, factor, etc.",
+            "vi": "Giá trị quan trọng, hệ số, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "At least he didn't look so critical now.",
+            "vi": "Ít nhất thì bây giờ trông anh ấy không quá nghiêm trọng."
+        },
+        {
+            "en": "I didn't expect the critical infrastructure to disintegrate so fast.",
+            "vi": "Tôi không ngờ cơ sở hạ tầng quan trọng lại tan rã nhanh như vậy."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "quan trọng"
+}

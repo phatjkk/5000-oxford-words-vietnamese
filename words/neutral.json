@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈn(j)utrəl/"
+    ],
+    "synonyms": [
+        "indifferent",
+        "impartial",
+        "nonpartisan",
+        "biased",
+        "indeterminate"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of neutral is not taking part in a fight or war or having very little color.",
+            "vi": "Định nghĩa của trung lập là không tham gia vào một cuộc chiến hay chiến tranh hoặc có rất ít màu sắc."
+        },
+        {
+            "pos": "noun",
+            "en": "(mech.) A disengaged position of gears, in which they do not transmit power from the engine to the operating parts.",
+            "vi": "(mech.) Vị trí rời của các bánh răng, trong đó chúng không truyền công suất từ ​​động cơ đến các bộ phận vận hành."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Instead, he gave a more neutral response.",
+            "vi": "Thay vào đó, ông đã đưa ra một phản ứng trung lập hơn."
+        },
+        {
+            "en": "Wishing to remain neutral in the struggle between England and France, he went to fight in Italy.",
+            "vi": "Với mong muốn duy trì vị thế trung lập trong cuộc đấu tranh giữa Anh và Pháp, ông đã đi chiến đấu ở Ý."
+        }
+    ],
+    "words_form": [
+        "neutrals"
+    ],
+    "meaning_vi": "trung tính"
+}

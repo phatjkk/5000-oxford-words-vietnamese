@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/æŋˈzaɪədi/"
+    ],
+    "synonyms": [
+        "worry",
+        "misgiving",
+        "fear",
+        "uneasiness",
+        "nervousness"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An eager but often uneasy desire.",
+            "vi": "Một mong muốn háo hức nhưng thường không dễ dàng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was anxiety in her quiet voice.",
+            "vi": "Có chút lo lắng trong giọng nói trầm lắng của cô."
+        },
+        {
+            "en": "A feeling other than anxiety washed over her.",
+            "vi": "Một cảm giác khác ngoài lo lắng tràn ngập trong cô."
+        }
+    ],
+    "words_form": [
+        "anxieties"
+    ],
+    "meaning_vi": "sự lo ngại"
+}

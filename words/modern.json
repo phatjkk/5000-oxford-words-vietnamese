@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈmɑdərn/"
+    ],
+    "synonyms": [
+        "new",
+        "contemporary",
+        "recent",
+        "mod",
+        "up-to-the-minute"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of modern is having to do with the current time.",
+            "vi": "Định nghĩa của hiện đại là phải làm với thời gian hiện tại."
+        },
+        {
+            "pos": "noun",
+            "en": "Someone who lives in modern times.",
+            "vi": "Một người sống ở thời hiện đại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The road leading to the castle was modern blacktop.",
+            "vi": "Con đường dẫn đến lâu đài là mái nhà đen hiện đại."
+        },
+        {
+            "en": "Gabriel didn't need to understand modern science.",
+            "vi": "Gabriel không cần hiểu khoa học hiện đại."
+        }
+    ],
+    "words_form": [
+        "moderns"
+    ],
+    "meaning_vi": "hiện đại"
+}

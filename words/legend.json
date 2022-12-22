@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈlɛdʒənd/"
+    ],
+    "synonyms": [
+        "myth",
+        "tradition",
+        "belief",
+        "real",
+        "key"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a legend is a story handed down through generations which is believed to be historical.",
+            "vi": "Định nghĩa về truyền thuyết là một câu chuyện được lưu truyền qua nhiều thế hệ được cho là có tính lịch sử."
+        },
+        {
+            "pos": "verb",
+            "en": "(archaic) To tell or narrate; to recount.",
+            "vi": "(cổ xưa) Để kể hoặc tường thuật; để kể lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He declared the whole legend was fictitious.",
+            "vi": "Ông tuyên bố toàn bộ truyền thuyết là hư cấu."
+        },
+        {
+            "en": "The Muses also gathered up the fragments of his body and buried them at Leibethra below Olympus, where the nightingales sang over his grave, while yet another legend places his tomb at Dium, near Pydna in Macedonia.",
+            "vi": "Các Muses cũng thu thập các mảnh thi thể của ông và chôn chúng tại Leibethra bên dưới đỉnh Olympus, nơi những chú chim sơn ca hát trên mộ của ông, trong khi một truyền thuyết khác đặt lăng mộ của ông tại Dium, gần Pydna ở Macedonia."
+        }
+    ],
+    "words_form": [
+        "legends"
+    ],
+    "meaning_vi": "truyền thuyết"
+}

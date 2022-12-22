@@ -1,0 +1,61 @@
+{
+    "spelling": [
+        "/ɪˈnəf/"
+    ],
+    "synonyms": [
+        "plenty",
+        "sufficient",
+        "sufficiency",
+        "full",
+        "abundant"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Very; fully; quite.",
+            "vi": "Hết sức; đầy đủ; khá."
+        },
+        {
+            "pos": "adjective",
+            "en": "As much or as many as necessary, desirable, or tolerable; sufficient.",
+            "vi": "Nhiều hoặc nhiều đến mức cần thiết, mong muốn hoặc có thể chấp nhận được; hợp lý."
+        },
+        {
+            "pos": "noun",
+            "en": "Enough means as many as you need or are allowed.",
+            "vi": "Đủ có nghĩa là số lượng bạn cần hoặc được phép."
+        },
+        {
+            "pos": "pronoun",
+            "en": "An adequate number or quantity.",
+            "vi": "Một số lượng hoặc số lượng thích hợp."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express impatience or exasperation.",
+            "vi": "Dùng để thể hiện sự thiếu kiên nhẫn hoặc bực tức."
+        },
+        {
+            "pos": "determiner",
+            "en": "Sufficient; all that is required, needed, or appropriate.",
+            "vi": "Hợp lý; tất cả những gì được yêu cầu, cần thiết hoặc thích hợp."
+        },
+        {
+            "pos": "idiom",
+            "en": "enough said  no further explanation or discussion is needed",
+            "vi": "đủ nói không cần giải thích hoặc thảo luận thêm"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She had enough for the entire family.",
+            "vi": "Cô ấy đã có đủ cho cả gia đình."
+        },
+        {
+            "en": "I've taken up enough of his time.",
+            "vi": "Tôi đã chiếm đủ thời gian của anh ấy."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đủ"
+}

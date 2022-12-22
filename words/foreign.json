@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈfɔrən/"
+    ],
+    "synonyms": [
+        "different",
+        "colorful",
+        "exotic",
+        "alienated",
+        "estranged"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Situated outside one's own country, province, locality, etc.",
+            "vi": "Ở bên ngoài quốc gia, tỉnh, địa phương của chính mình, v.v."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal) Foreigner.",
+            "vi": "(không chính thức) Người nước ngoài."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This resignation was possibly due to his dislike of Henry's foreign policy.",
+            "vi": "Việc từ chức này có thể là do ông không thích chính sách đối ngoại của Henry."
+        },
+        {
+            "en": "Large movements in any large foreign market are newsworthy.",
+            "vi": "Các biến động lớn trên bất kỳ thị trường nước ngoài lớn nào đều đáng tin cậy."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ngoại quốc"
+}

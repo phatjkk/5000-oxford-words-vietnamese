@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/kənˈvɪns/"
+    ],
+    "synonyms": [
+        "persuade",
+        "prove",
+        "talk into",
+        "satisfy",
+        "win over"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To persuade.",
+            "vi": "Để thuyết phục."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Yes, I need to convince her to accept me.",
+            "vi": "Vâng, tôi cần thuyết phục cô ấy chấp nhận tôi."
+        },
+        {
+            "en": "None of them had been able to convince her to wait until the estate was settled.",
+            "vi": "Không ai trong số họ có thể thuyết phục cô đợi cho đến khi gia sản được giải quyết."
+        }
+    ],
+    "words_form": [
+        "convinced",
+        "convinces",
+        "convincing"
+    ],
+    "meaning_vi": "thuyết phục"
+}

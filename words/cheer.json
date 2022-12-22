@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/tʃɪr/"
+    ],
+    "synonyms": [
+        "delight",
+        "encourage",
+        "applaud",
+        "gladden",
+        "inspirit"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Lightness of spirits or mood; gaiety or joy.",
+            "vi": "Sự nhẹ nhàng của tinh thần hoặc tâm trạng; sự vui vẻ hoặc niềm vui."
+        },
+        {
+            "pos": "verb",
+            "en": "Cheer means to comfort, encourage or bring joy.",
+            "vi": "Cheer có nghĩa là an ủi, khuyến khích hoặc mang lại niềm vui."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A cheer went up from the squad room.",
+            "vi": "Một tiếng reo hò vang lên từ phòng đội."
+        },
+        {
+            "en": "Is there anything I could do to cheer you up?",
+            "vi": "Tôi có thể làm gì để cổ vũ bạn không?"
+        }
+    ],
+    "words_form": [
+        "cheered",
+        "cheering",
+        "cheers"
+    ],
+    "meaning_vi": "vui lên"
+}

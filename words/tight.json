@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/taɪt/"
+    ],
+    "synonyms": [
+        "established",
+        "taut",
+        "fast",
+        "steady",
+        "sturdy"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Fixed or fastened firmly in place.",
+            "vi": "Cố định hoặc buộc chặt tại chỗ."
+        },
+        {
+            "pos": "adverb",
+            "en": "Tight is defined as firmly or securely.",
+            "vi": "Chặt chẽ được định nghĩa là chắc chắn hoặc an toàn."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To tighten.",
+            "vi": "(lỗi thời) Để thắt chặt."
+        },
+        {
+            "pos": "affix",
+            "en": "Not letting (something specified) in or out.",
+            "vi": "Không cho phép (một cái gì đó được chỉ định) vào hoặc ra."
+        },
+        {
+            "pos": "idiom",
+            "en": "sit tight  to keep one's opinion or position and wait",
+            "vi": "ngồi chặt chẽ để giữ ý kiến ​​hoặc vị trí của một người và chờ đợi"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her throat was too tight to say more.",
+            "vi": "Cổ họng cô quá thắt lại để nói thêm."
+        },
+        {
+            "en": "Money would be tight, but they could manage.",
+            "vi": "Tiền sẽ eo hẹp, nhưng họ có thể xoay sở."
+        }
+    ],
+    "words_form": [
+        "tighter",
+        "tightest"
+    ],
+    "meaning_vi": "chật, bó, sát"
+}

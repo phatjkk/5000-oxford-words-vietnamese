@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈhidɪŋ/"
+    ],
+    "synonyms": [
+        "freezing",
+        "cooling",
+        "calefaction",
+        "steaming",
+        "boiling"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A system that raises the temperature of a room or building. Compare heater.",
+            "vi": "Một hệ thống làm tăng nhiệt độ của một căn phòng hoặc tòa nhà. So sánh lò sưởi."
+        },
+        {
+            "pos": "adjective",
+            "en": "Causing heat.",
+            "vi": "Gây nóng."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of heat.",
+            "vi": "Hiện tại phân từ nhiệt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He takes long weekends every time the weather starts heating up.",
+            "vi": "Anh ấy nghỉ cuối tuần dài mỗi khi thời tiết bắt đầu nóng lên."
+        },
+        {
+            "en": "Martha was mixing batter while Quinn stood at the stove, heating a frying pan.",
+            "vi": "Martha đang trộn bột trong khi Quinn đứng bên bếp, làm nóng chảo."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sưởi ấm"
+}

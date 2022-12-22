@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/dəˈfɪʃənsi/"
+    ],
+    "synonyms": [
+        "insufficiency",
+        "scarcity",
+        "lack",
+        "perfection",
+        "superfluity"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a deficiency is something that is lacking, or something that isn't sufficient or good enough.",
+            "vi": "Định nghĩa về sự thiếu hụt là cái gì đó bị thiếu, hoặc cái gì đó không đủ hoặc đủ tốt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "As it is a staple food with the poorer classes, the deficiency is made up through importation.",
+            "vi": "Vì nó là lương thực chính của các tầng lớp nghèo hơn nên sự thiếu hụt được tạo ra thông qua việc nhập khẩu."
+        },
+        {
+            "en": "This deficiency is made up by the addition of auxiliaries or suffixes.",
+            "vi": "Sự thiếu hụt này được tạo thành do việc bổ sung các chất bổ trợ hoặc các hậu tố."
+        }
+    ],
+    "words_form": [
+        "deficiencies"
+    ],
+    "meaning_vi": "thiếu"
+}

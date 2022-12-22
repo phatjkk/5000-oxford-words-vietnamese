@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/riˈbɪld/"
+    ],
+    "synonyms": [
+        "refurbish",
+        "reconstruct",
+        "reassemble",
+        "patch",
+        "build up"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To build again.",
+            "vi": "Để xây dựng lại."
+        },
+        {
+            "pos": "noun",
+            "en": "An act of rebuilding.",
+            "vi": "Một hành động xây dựng lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was time to fall back and rebuild another.",
+            "vi": "Đó là thời gian để giảm trở lại và xây dựng lại khác."
+        },
+        {
+            "en": "After its destruction steps were at once taken to rebuild the cathedral.",
+            "vi": "Sau khi phá hủy nó ngay lập tức đã được thực hiện để xây dựng lại nhà thờ."
+        }
+    ],
+    "words_form": [
+        "rebuilding",
+        "rebuilds",
+        "rebuilt"
+    ],
+    "meaning_vi": "xây dựng lại"
+}

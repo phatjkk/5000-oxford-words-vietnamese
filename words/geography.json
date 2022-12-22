@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/dʒiˈɑɡrəfi/"
+    ],
+    "synonyms": [
+        "geology",
+        "topography",
+        "geopolitics",
+        "mathematics",
+        "cartography"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The study of the earth and its features and of the distribution of life on the earth, including human life and the effects of human activity.",
+            "vi": "Nghiên cứu về trái đất và các đặc điểm của nó và sự phân bố của sự sống trên trái đất, bao gồm cả sự sống của con người và các tác động của hoạt động của con người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The geography of Northern Italy is described in several popular guide books.",
+            "vi": "Địa lý của miền Bắc nước Ý được mô tả trong một số cuốn sách hướng dẫn phổ biến."
+        },
+        {
+            "en": "From his sixth to his ninth year he was given over to the care of learned foreigners, who taught him history, geography, mathematics and French.",
+            "vi": "Từ năm thứ sáu đến năm thứ chín, ông được giao cho sự chăm sóc của những người nước ngoài uyên bác, những người đã dạy ông lịch sử, địa lý, toán học và tiếng Pháp."
+        }
+    ],
+    "words_form": [
+        "geographies"
+    ],
+    "meaning_vi": "môn địa lý"
+}

@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/sə(ɡ)ˈdʒɛst/"
+    ],
+    "synonyms": [
+        "imply",
+        "propose",
+        "recommend",
+        "advise",
+        "offer"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To serve as or provide a motive for; prompt or demand.",
+            "vi": "Để phục vụ hoặc cung cấp một động cơ; nhắc nhở hoặc yêu cầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I suggest you take the advice.",
+            "vi": "Tôi đề nghị bạn thực hiện lời khuyên."
+        },
+        {
+            "en": "I suggest you accompany me home.",
+            "vi": "Tôi đề nghị bạn đi cùng tôi về nhà."
+        }
+    ],
+    "words_form": [
+        "suggested",
+        "suggesting",
+        "suggests"
+    ],
+    "meaning_vi": "đề nghị"
+}

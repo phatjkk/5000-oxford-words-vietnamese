@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/əˈlɛdʒ/"
+    ],
+    "synonyms": [
+        "assert",
+        "affirm",
+        "testify",
+        "argue",
+        "claim"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of allege means to say something unproven or something without any facts to verify it.",
+            "vi": "Định nghĩa của cáo buộc có nghĩa là nói điều gì đó chưa được chứng minh hoặc điều gì đó không có bất kỳ sự kiện nào để xác minh điều đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They allege that the tenth Avatar has yet to occur and will be in the form of a white-winged horse (Kalki) who will destroy the earth.",
+            "vi": "Họ cho rằng Thế thần thứ mười vẫn chưa xuất hiện và sẽ ở dạng một con ngựa cánh trắng (Kalki), kẻ sẽ hủy diệt trái đất."
+        },
+        {
+            "en": "Unfortunately some consumers allege that the bag selection is too limited for the prices charged.",
+            "vi": "Thật không may, một số người tiêu dùng cho rằng lựa chọn túi quá hạn chế so với mức giá đã tính."
+        }
+    ],
+    "words_form": [
+        "alleged",
+        "alleges",
+        "alleging"
+    ],
+    "meaning_vi": "cáo buộc"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ɡɪr/"
+    ],
+    "synonyms": [
+        "equip",
+        "adjust",
+        "clothing",
+        "stuff",
+        "sprocket"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a gear is a simple machine with teeth that increases the force needed to push or pull something.",
+            "vi": "Định nghĩa của một bánh răng là một máy đơn giản có răng làm tăng lực cần thiết để đẩy hoặc kéo một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "Gear means to make ready or prepare.",
+            "vi": "Gear có nghĩa là chuẩn bị sẵn sàng hoặc chuẩn bị."
+        },
+        {
+            "pos": "adjective",
+            "en": "(chiefly brit., slang) Highly acceptable, attractive, etc.",
+            "vi": "(chủ yếu là tiếng Anh, tiếng lóng) Rất được chấp nhận, hấp dẫn, v.v."
+        },
+        {
+            "pos": "idiom",
+            "en": "gear down  to adjust gears so that the driven element goes slower than the driving element, with a consequent increase in torque",
+            "vi": "xuống số để điều chỉnh các bánh răng sao cho phần tử dẫn động đi chậm hơn phần tử dẫn động, do đó mô-men xoắn tăng lên"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I guess your gear is back in your car.",
+            "vi": "Tôi đoán thiết bị của bạn đã trở lại trong xe của bạn."
+        },
+        {
+            "en": "I'll just leave most of my ice climbing gear in the car.",
+            "vi": "Tôi sẽ chỉ để lại hầu hết đồ leo núi trên xe."
+        }
+    ],
+    "words_form": [
+        "geared",
+        "gearing",
+        "gears"
+    ],
+    "meaning_vi": "hộp số"
+}

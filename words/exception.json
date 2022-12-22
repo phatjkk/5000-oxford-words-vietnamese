@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ɪkˈsɛpʃ(ə)n/"
+    ],
+    "synonyms": [
+        "excusing",
+        "exclusion",
+        "demur",
+        "caveat",
+        "barring"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an exception is something that is outside of the rules or outside of the normal expectations.",
+            "vi": "Định nghĩa về một ngoại lệ là một cái gì đó nằm ngoài các quy tắc hoặc nằm ngoài những mong đợi thông thường."
+        },
+        {
+            "pos": "idiom",
+            "en": "take exception  to object; demur to resent something; feel offended",
+            "vi": "lấy ngoại lệ cho đối tượng; demur để oán giận một cái gì đó; cảm giác bị xúc phạm"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"You may be the exception,\" Yully said.",
+            "vi": "“Bạn có thể là ngoại lệ,” Yully nói."
+        },
+        {
+            "en": "We can't expect them to make an exception for us.",
+            "vi": "Chúng tôi không thể mong đợi họ tạo ra một ngoại lệ cho chúng tôi."
+        }
+    ],
+    "words_form": [
+        "exceptions"
+    ],
+    "meaning_vi": "ngoại lệ"
+}

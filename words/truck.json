@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/trək/"
+    ],
+    "synonyms": [
+        "transport",
+        "car",
+        "semi",
+        "boat",
+        "wagon"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(slang) To move or travel in a steady but easy manner.",
+            "vi": "(tiếng lóng) Để di chuyển hoặc đi lại một cách ổn định nhưng dễ dàng."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a truck is a small block or disk used as support to pull a flag or sail to the top of a pole.",
+            "vi": "Định nghĩa về xe tải là một khối hoặc đĩa nhỏ được sử dụng làm giá đỡ để kéo cờ hoặc buồm lên đỉnh cột."
+        },
+        {
+            "pos": "adjective",
+            "en": "Pertaining to a garden patch or truck garden.",
+            "vi": "Dán vào vườn vá hoặc vườn xe tải."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The blue truck was nowhere in sight.",
+            "vi": "Chiếc xe tải màu xanh không ở đâu trong tầm mắt."
+        },
+        {
+            "en": "As the truck came to a halt in front of the house, she stared up at it in awe.",
+            "vi": "Khi chiếc xe tải dừng lại trước ngôi nhà, cô kinh ngạc nhìn chằm chằm vào nó."
+        }
+    ],
+    "words_form": [
+        "trucked",
+        "trucking",
+        "trucks"
+    ],
+    "meaning_vi": "xe tải"
+}

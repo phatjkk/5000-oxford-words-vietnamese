@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/haʊ/"
+    ],
+    "synonyms": [
+        "whence",
+        "whereby",
+        "why",
+        "wherewith",
+        "so"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In what manner or way; by what means.",
+            "vi": "Theo cách thức hoặc cách thức nào; bằng phương tiện gì."
+        },
+        {
+            "pos": "conjunction",
+            "en": "That.",
+            "vi": "Điều đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The way of doing; manner; method.",
+            "vi": "Cách làm; cách thức; phương pháp."
+        },
+        {
+            "pos": "interjection",
+            "en": "Hello: a greeting attributed to, and still used, with humorous intent, in imitation of, American Indians.",
+            "vi": "Xin chào: một lời chào được cho là, và vẫn được sử dụng, với mục đích hài hước, bắt chước người Mỹ da đỏ."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) and how  Most certainly; you bet: She's a good dancer, and how!.",
+            "vi": "(không chính thức) và cách Chắc chắn nhất; bạn cá rằng: Cô ấy là một vũ công giỏi, và bằng cách nào !."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "How did you know you loved him?",
+            "vi": "Làm thế nào bạn biết bạn yêu anh ấy?"
+        },
+        {
+            "en": "\"How beautiful it is!\" he said.",
+            "vi": "\"Nó đẹp làm sao!\" anh ấy nói."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "làm sao"
+}

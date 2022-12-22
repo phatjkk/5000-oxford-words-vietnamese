@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈlæŋɡwɪdʒ/"
+    ],
+    "synonyms": [
+        "vernacular",
+        "vocabulary",
+        "tongue",
+        "cant",
+        "lexicon"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of language is speech or other forms of communication.",
+            "vi": "Định nghĩa của ngôn ngữ là lời nói hoặc các hình thức giao tiếp khác."
+        },
+        {
+            "pos": "idiom",
+            "en": "speak the same (or someone's) language  to have the same beliefs, attitudes, etc. (as another)",
+            "vi": "nói cùng một ngôn ngữ (hoặc của ai đó) để có cùng niềm tin, thái độ, v.v. (như một người khác)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Of course, she could have used sign language, but that would have been distracting - and it wouldn't have been as personal.",
+            "vi": "Tất nhiên, cô ấy có thể sử dụng ngôn ngữ ký hiệu, nhưng điều đó sẽ gây mất tập trung - và nó sẽ không mang tính cá nhân."
+        },
+        {
+            "en": "He dialed and spoke in a different language to the man on the other end.",
+            "vi": "Anh ta quay số và nói bằng một ngôn ngữ khác với người đàn ông ở đầu dây bên kia."
+        }
+    ],
+    "words_form": [
+        "languages"
+    ],
+    "meaning_vi": "ngôn ngữ"
+}

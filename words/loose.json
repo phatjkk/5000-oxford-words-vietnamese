@@ -1,0 +1,67 @@
+{
+    "spelling": [
+        "/lus/"
+    ],
+    "synonyms": [
+        "unsecure",
+        "detached",
+        "limber",
+        "unfastened",
+        "slack"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Not formal; relaxed.",
+            "vi": "Không trang trọng; thư thái."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a loose manner.",
+            "vi": "Một cách lỏng lẻo."
+        },
+        {
+            "pos": "verb",
+            "en": "To let loose; release.",
+            "vi": "Để thả lỏng; phóng thích."
+        },
+        {
+            "pos": "noun",
+            "en": "(archery) The release of an arrow.",
+            "vi": "(bắn cung) Việc thả một mũi tên."
+        },
+        {
+            "pos": "interjection",
+            "en": "(archery) Begin shooting; release your arrows.",
+            "vi": "(bắn cung) Bắt đầu bắn; thả các mũi tên của bạn."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Oleos.",
+            "vi": "Oleos."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the loose  At large; free. Acting in an uninhibited fashion.",
+            "vi": "trên lỏng Tại lớn; miễn phí. Hành động theo phong cách không bị cấm đoán."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Like a bird let loose, his horse leaped forward.",
+            "vi": "Như một con chim buông mình, con ngựa của anh ta phóng về phía trước."
+        },
+        {
+            "en": "Fortunately, the curls were now loose waves.",
+            "vi": "May mắn thay, những lọn tóc lúc này đã thành sóng lỏng."
+        }
+    ],
+    "words_form": [
+        "loosed",
+        "looser",
+        "looses",
+        "loosest",
+        "loosing"
+    ],
+    "meaning_vi": "lỏng lẻo"
+}

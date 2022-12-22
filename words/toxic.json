@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈtɑksɪk/"
+    ],
+    "synonyms": [
+        "noxious",
+        "poisonous",
+        "harmful",
+        "nontoxic",
+        "virulent"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of toxic is something poisonous, or something very harmful or bad.",
+            "vi": "Định nghĩa về chất độc hại là một thứ gì đó độc hại, hoặc một thứ gì đó rất có hại hoặc xấu."
+        },
+        {
+            "pos": "noun",
+            "en": "A toxic chemical or other substance.",
+            "vi": "Một hóa chất độc hại hoặc chất khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Bacteria can process toxic wastes and oil spills into harmless biodegradable materials.",
+            "vi": "Vi khuẩn có thể xử lý chất thải độc hại và dầu tràn vào các vật liệu phân hủy sinh học vô hại."
+        },
+        {
+            "en": "But every antiseptic, however good is more or less toxic and irritating to a wounded surface.",
+            "vi": "Nhưng mọi chất sát trùng dù tốt đến đâu cũng ít nhiều độc hại và gây khó chịu cho bề mặt bị thương."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chất độc"
+}

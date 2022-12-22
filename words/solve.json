@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/sɑlv/"
+    ],
+    "synonyms": [
+        "resolve",
+        "decode",
+        "answer",
+        "figure out",
+        "explain"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Solve is defined as to figure something out or to find an answer for something.",
+            "vi": "Giải quyết được định nghĩa là để tìm ra điều gì đó hoặc tìm ra câu trả lời cho điều gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) A solution; an explanation.",
+            "vi": "(lỗi thời) Một giải pháp; một lời giải thích."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I told you'd I'd solve it!",
+            "vi": "Tôi đã nói với bạn là tôi sẽ giải quyết nó!"
+        },
+        {
+            "en": "Your problem to solve, not mine.",
+            "vi": "Vấn đề của bạn để giải quyết, không phải của tôi."
+        }
+    ],
+    "words_form": [
+        "solved",
+        "solves",
+        "solving"
+    ],
+    "meaning_vi": "giải quyết"
+}

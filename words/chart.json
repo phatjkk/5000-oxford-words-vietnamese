@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tʃɑrt/"
+    ],
+    "synonyms": [
+        "diagram",
+        "graph",
+        "work out",
+        "document",
+        "tables"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a chart is a graph, table or diagram, or a map for air or marine navigation.",
+            "vi": "Định nghĩa của biểu đồ là một đồ thị, bảng hoặc sơ đồ, hoặc một bản đồ để điều hướng hàng không hoặc hàng hải."
+        },
+        {
+            "pos": "verb",
+            "en": "To plan (something) in detail.",
+            "vi": "Lập kế hoạch (một cái gì đó) chi tiết."
+        },
+        {
+            "pos": "idiom",
+            "en": "off the charts  in excess of normal standards or expectations",
+            "vi": "vượt ra khỏi các biểu đồ vượt quá tiêu chuẩn hoặc kỳ vọng thông thường"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He dropped her chart on the table.",
+            "vi": "Anh đánh rơi biểu đồ của cô trên bàn."
+        },
+        {
+            "en": "She focused on the chart he held up to the light.",
+            "vi": "Cô tập trung vào biểu đồ mà anh ta giơ lên ​​trước ánh sáng."
+        }
+    ],
+    "words_form": [
+        "charted",
+        "charting",
+        "charts"
+    ],
+    "meaning_vi": "đồ thị"
+}

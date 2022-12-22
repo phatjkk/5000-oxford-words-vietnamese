@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/sup/"
+    ],
+    "synonyms": [
+        "broth",
+        "gravy",
+        "gazpacho",
+        "stew",
+        "hole"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Primordial soup.",
+            "vi": "Súp nguyên thủy."
+        },
+        {
+            "pos": "verb",
+            "en": "To be in trouble or in difficulty (often passive--cf. in the soup).",
+            "vi": "Gặp rắc rối hoặc khó khăn (thường bị động - ví dụ: trong súp)."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) in the soup  Having difficulties; in trouble.",
+            "vi": "(tiếng lóng) trong món canh Gặp khó khăn; gặp rắc rối."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"I.ll get you some soup and cocoa,\" she said and rose.",
+            "vi": "\"Tôi sẽ lấy cho bạn một ít súp và ca cao,\" cô ấy nói và đứng dậy."
+        },
+        {
+            "en": "We had soup for dinner and the potatoes are grand!",
+            "vi": "Chúng tôi đã có súp cho bữa tối và khoai tây rất tuyệt!"
+        }
+    ],
+    "words_form": [
+        "souped",
+        "souping",
+        "soups"
+    ],
+    "meaning_vi": "súp"
+}

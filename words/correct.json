@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kəˈrɛkt/"
+    ],
+    "synonyms": [
+        "exact",
+        "true",
+        "right",
+        "help",
+        "remedy"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make corrections.",
+            "vi": "Để thực hiện các chỉnh sửa."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of correct is something true, right or proper.",
+            "vi": "Định nghĩa của đúng là một cái gì đó đúng, đúng hoặc thích hợp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "At least he had found the correct profession.",
+            "vi": "Ít nhất thì anh ấy đã tìm đúng nghề."
+        },
+        {
+            "en": "The government operating in its correct role is instrumental to civilization.",
+            "vi": "Chính phủ hoạt động đúng với vai trò của nó là công cụ cho nền văn minh."
+        }
+    ],
+    "words_form": [
+        "corrected",
+        "correcting",
+        "corrects"
+    ],
+    "meaning_vi": "chính xác"
+}

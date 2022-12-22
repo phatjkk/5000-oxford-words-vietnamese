@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˌoʊvərˈsiz/"
+    ],
+    "synonyms": [
+        "abroad",
+        "alien",
+        "foreign",
+        "away",
+        "across"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Overseas is defined as being across an ocean.",
+            "vi": "Ở nước ngoài được định nghĩa là vượt qua một đại dương."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, from, or to countries across the sea; foreign.",
+            "vi": "Của, từ, hoặc đến các quốc gia trên biển; ngoại quốc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The news was carried overseas to Henry, who was then in Normandy.",
+            "vi": "Tin tức được đưa ra nước ngoài cho Henry, lúc đó đang ở Normandy."
+        },
+        {
+            "en": "General Greene has spent too long at war overseas to know where Ohio is.",
+            "vi": "Tướng Greene đã trải qua thời gian chiến tranh quá lâu ở nước ngoài để biết Ohio ở đâu."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hải ngoại"
+}

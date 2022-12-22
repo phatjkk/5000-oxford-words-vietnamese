@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ʃaʊt/"
+    ],
+    "synonyms": [
+        "yell",
+        "scream",
+        "vociferation",
+        "cry",
+        "screech"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Any sudden, loud outburst or uproar.",
+            "vi": "Bất kỳ sự bộc phát hoặc náo động đột ngột, lớn tiếng nào."
+        },
+        {
+            "pos": "verb",
+            "en": "To say with or utter a shout.",
+            "vi": "Để nói hoặc thốt ra một tiếng hét."
+        },
+        {
+            "pos": "idiom",
+            "en": "shout down  to silence or overwhelm by loud shouting; shout louder than",
+            "vi": "hét xuống để im lặng hoặc áp đảo bằng cách hét lớn; hét to hơn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If only she could shout it to the world.",
+            "vi": "Giá mà cô ấy có thể hét lên với cả thế giới."
+        },
+        {
+            "en": "Suddenly a distant shout aroused him.",
+            "vi": "Đột nhiên một tiếng hét từ xa đánh thức anh."
+        }
+    ],
+    "words_form": [
+        "shouted",
+        "shouting",
+        "shouts"
+    ],
+    "meaning_vi": "la hét"
+}

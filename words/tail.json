@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/teɪl/"
+    ],
+    "synonyms": [
+        "stub",
+        "rear-end",
+        "shadow",
+        "bird-dog",
+        "brush"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person assigned or employed to follow and report on someone else's movements and actions.",
+            "vi": "Một người được giao hoặc được thuê để theo dõi và báo cáo về các chuyển động và hành động của người khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to a tail or tails.",
+            "vi": "Của hoặc liên quan đến một cái đuôi hoặc những cái đuôi."
+        },
+        {
+            "pos": "verb",
+            "en": "To provide with a tail.",
+            "vi": "Để cung cấp với một cái đuôi."
+        },
+        {
+            "pos": "idiom",
+            "en": "with (one's) tail between (one's) legs  In a state of humiliation or dejection.",
+            "vi": "với (một) đuôi giữa (một) chân Ở trạng thái bị sỉ nhục hoặc bị từ chối."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Tail long, clothed with long hairs.",
+            "vi": "Đuôi dài, có nhiều lông dài."
+        },
+        {
+            "en": "He would've turned tail and run.",
+            "vi": "Anh ta sẽ quay đầu và bỏ chạy."
+        }
+    ],
+    "words_form": [
+        "tailed",
+        "tailing",
+        "tails"
+    ],
+    "meaning_vi": "đuôi"
+}

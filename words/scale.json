@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/skeɪl/"
+    ],
+    "synonyms": [
+        "balance",
+        "covering",
+        "order",
+        "rule",
+        "trebuchet"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Scale means to climb up something or to remove in thin layers.",
+            "vi": "Quy mô có nghĩa là để leo lên một cái gì đó hoặc để loại bỏ trong các lớp mỏng."
+        },
+        {
+            "pos": "noun",
+            "en": "Scale is defined as a system or series of marks used for measuring or registering.",
+            "vi": "Thang đo được định nghĩa là một hệ thống hoặc một loạt các nhãn hiệu được sử dụng để đo lường hoặc đăng ký."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(music): tonic, supertonic, mediant, subdominant, dominant, submediant, leading note, octave interval.",
+            "vi": "(âm nhạc): âm bổ, siêu âm, trung gian, phụ âm, chi phối, phụ âm, nốt đầu, quãng tám."
+        },
+        {
+            "pos": "idiom",
+            "en": "scale back  scale down (see phrase below)",
+            "vi": "scale back scale down (xem cụm từ bên dưới)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Life existed at a scale smaller than the eye could see.",
+            "vi": "Sự sống tồn tại ở quy mô nhỏ hơn mắt có thể nhìn thấy."
+        },
+        {
+            "en": "By such a pile we may hope to scale heaven at last.",
+            "vi": "Với một đống như vậy, chúng ta có thể hy vọng cuối cùng sẽ mở rộng thiên đường."
+        }
+    ],
+    "words_form": [
+        "scaled",
+        "scales",
+        "scaling"
+    ],
+    "meaning_vi": "quy mô"
+}

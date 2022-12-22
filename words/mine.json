@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/maɪn/"
+    ],
+    "synonyms": [
+        "dike",
+        "shaft",
+        "deposit",
+        "placer",
+        "defend"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A deposit of ore or minerals in the earth or on its surface.",
+            "vi": "Một mỏ quặng hoặc khoáng chất trong trái đất hoặc trên bề mặt của nó."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Non-premodifying possessive case of I. My; belonging to me; that which belongs to me.",
+            "vi": "Trường hợp chiếm hữu không sửa đổi của I. My; thuộc về tôi; cái đó thuộc về tôi."
+        },
+        {
+            "pos": "verb",
+            "en": "To lay explosive mines in or under.",
+            "vi": "Đặt mìn nổ trong hoặc dưới."
+        },
+        {
+            "pos": "possessive pronominal adjective",
+            "en": "(archaic) My: used before a word beginning with a vowel or the letter h [mine eyes, mine honor]; also used after a noun in direct address.",
+            "vi": "(cổ) My: được sử dụng trước một từ bắt đầu bằng một nguyên âm hoặc chữ h [ánh mắt của tôi, niềm vinh dự của tôi]; cũng được sử dụng sau một danh từ trong địa chỉ trực tiếp."
+        },
+        {
+            "pos": "adjective",
+            "en": "Used instead of my before an initial vowel or the letter h.",
+            "vi": "Được sử dụng thay cho my trước một nguyên âm đầu tiên hoặc chữ h."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Mine will be taught to mind.",
+            "vi": "Của tôi sẽ được dạy cho tâm trí."
+        },
+        {
+            "en": "It was a gold mine, wasn't it?",
+            "vi": "Đó là một mỏ vàng, phải không?"
+        }
+    ],
+    "words_form": [
+        "mined",
+        "mines",
+        "mining"
+    ],
+    "meaning_vi": "của tôi"
+}

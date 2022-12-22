@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/saɪt/"
+    ],
+    "synonyms": [
+        "quote",
+        "praise",
+        "point up",
+        "present",
+        "point out"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To cite means to bring someone’s attention to a fact when making a point or giving an example.",
+            "vi": "Trích dẫn có nghĩa là thu hút sự chú ý của ai đó đến một thực tế khi đưa ra một quan điểm hoặc đưa ra một ví dụ."
+        },
+        {
+            "pos": "noun",
+            "en": "A citation or quotation.",
+            "vi": "Trích dẫn hoặc trích dẫn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We may cite an example or two.",
+            "vi": "Chúng tôi có thể trích dẫn một hoặc hai ví dụ."
+        },
+        {
+            "en": "A few fragmentary passages remain, of which it will be sufficient to cite a word or two to call them to remembrance.",
+            "vi": "Vẫn còn lại một vài đoạn văn rời rạc, trong đó sẽ đủ để trích dẫn một hoặc hai từ để gọi chúng để tưởng nhớ."
+        }
+    ],
+    "words_form": [
+        "cited",
+        "cites",
+        "citing"
+    ],
+    "meaning_vi": "trích dẫn"
+}

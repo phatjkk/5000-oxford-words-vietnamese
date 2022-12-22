@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ɡloʊb/"
+    ],
+    "synonyms": [
+        "earth",
+        "orb",
+        "sphere",
+        "ball",
+        "spheroid"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a globe is something round in the shape of a ball, especially the earth.",
+            "vi": "Định nghĩa quả địa cầu là một thứ gì đó có hình tròn giống quả bóng, đặc biệt là trái đất."
+        },
+        {
+            "pos": "verb",
+            "en": "To assume the shape of or form into a sphere.",
+            "vi": "Giả sử hình dạng của hoặc hình thành một hình cầu."
+        },
+        {
+            "pos": "pronoun",
+            "en": "An unincorporated community in Wisconsin.",
+            "vi": "Một cộng đồng chưa hợp nhất ở Wisconsin."
+        },
+        {
+            "pos": "idiom",
+            "en": "the Globe  former London theater on the S bank of the Thames: site of the original performances of many of Shakespeare's plays",
+            "vi": "nhà hát Globe cũ ở London trên bờ S của sông Thames: địa điểm trình diễn ban đầu của nhiều vở kịch của Shakespeare"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He's been globe trotting for the last three weeks.",
+            "vi": "Anh ấy đã chạy nước kiệu trên toàn cầu trong ba tuần qua."
+        },
+        {
+            "en": "The size of a globe is usually given in terms of its diameter.",
+            "vi": "Kích thước của một quả địa cầu thường được tính theo đường kính của nó."
+        }
+    ],
+    "words_form": [
+        "globed",
+        "globes",
+        "globing"
+    ],
+    "meaning_vi": "quả địa cầu"
+}

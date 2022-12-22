@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/trəˈsti/"
+    ],
+    "synonyms": [
+        "overseer",
+        "depository",
+        "legal guardian",
+        "trustees",
+        "guardian"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(law) The person in a trust relationship who holds title to property for the benefit of another.",
+            "vi": "(luật) Người trong mối quan hệ ủy thác có quyền sở hữu tài sản vì lợi ích của người khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To function or serve as a trustee.",
+            "vi": "Để hoạt động hoặc phục vụ như một người được ủy thác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The trustee is also the assessor.",
+            "vi": "Người được ủy thác cũng là người đánh giá."
+        },
+        {
+            "en": "He did not regard himself merely as the trustee of the national resources.",
+            "vi": "Ông không coi mình chỉ đơn thuần là người được ủy thác tài nguyên quốc gia."
+        }
+    ],
+    "words_form": [
+        "trustee",
+        "trustee",
+        "trustees"
+    ],
+    "meaning_vi": "ủy thác"
+}

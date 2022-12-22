@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/frɪdʒ/"
+    ],
+    "synonyms": [
+        "refrigerator",
+        "freezer",
+        "cupboard",
+        "washing-machine",
+        "tray"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A refrigerator.",
+            "vi": "Tủ lạnh."
+        },
+        {
+            "pos": "verb",
+            "en": "(archaic) To rub, chafe.",
+            "vi": "(cổ xưa) Để cọ xát, chafe."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Not much here, the fridge is empty.",
+            "vi": "Ở đây không nhiều, tủ lạnh trống trơn."
+        },
+        {
+            "en": "She moved to the fridge and opened it, still starving.",
+            "vi": "Cô chuyển đến tủ lạnh và mở nó ra, vẫn còn đói."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tủ lạnh"
+}

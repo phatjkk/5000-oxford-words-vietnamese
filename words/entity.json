@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈɛn(t)ədi/"
+    ],
+    "synonyms": [
+        "being",
+        "presence",
+        "existence",
+        "integral",
+        "existent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an entity is something that exists independently.",
+            "vi": "Định nghĩa về một thực thể là một thứ tồn tại độc lập."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The soul is not an entity, but a faculty; thought is the function of the brain.",
+            "vi": "Linh hồn không phải là một thực thể, mà là một khoa; suy nghĩ là chức năng của não."
+        },
+        {
+            "en": "She didn't have to ask which entity that was.",
+            "vi": "Cô không cần phải hỏi đó là thực thể nào."
+        }
+    ],
+    "words_form": [
+        "entities"
+    ],
+    "meaning_vi": "thực thể"
+}

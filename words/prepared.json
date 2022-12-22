@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/prəˈpɛrd/"
+    ],
+    "synonyms": [
+        "furnished",
+        "set",
+        "fitted",
+        "rehearsed",
+        "programmed"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(music) Altered for a performance in some way, as with an object placed on one of the strings, in order to modify the timbre.",
+            "vi": "(âm nhạc) Được thay đổi cho một buổi biểu diễn theo một cách nào đó, như với một đối tượng được đặt trên một trong các dây, để sửa đổi âm sắc."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of prepare.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ chuẩn bị."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You've prepared me for this day.",
+            "vi": "Bạn đã chuẩn bị cho tôi ngày hôm nay."
+        },
+        {
+            "en": "Martha prepared grilled cheese sandwiches for our lunch.",
+            "vi": "Martha đã chuẩn bị bánh mì kẹp pho mát nướng cho bữa trưa của chúng tôi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chuẩn bị"
+}

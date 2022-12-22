@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈɔf(t)ən/",
+        "/ˈɑf(t)ən/"
+    ],
+    "synonyms": [
+        "frequently",
+        "usually",
+        "regularly",
+        "oftentimes",
+        "constantly"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "The definition of often is many times or frequently.",
+            "vi": "Định nghĩa của thường là nhiều lần hoặc thường xuyên."
+        },
+        {
+            "pos": "adjective",
+            "en": "(archaic) Frequent.",
+            "vi": "(cổ xưa) Thường xuyên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Poor people are often sick.",
+            "vi": "Người nghèo thường đau ốm."
+        },
+        {
+            "en": "Oh, well, you know people often invent things.",
+            "vi": "Ồ, bạn biết đấy mọi người thường phát minh ra nhiều thứ."
+        }
+    ],
+    "words_form": [
+        "oftenest"
+    ],
+    "meaning_vi": "thường thường"
+}

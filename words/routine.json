@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ruˈtin/"
+    ],
+    "synonyms": [
+        "everyday",
+        "usual",
+        "round",
+        "ordinary",
+        "run-of-the-mill"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(computers) A set of programming instructions designed to perform a specific limited task.",
+            "vi": "(máy tính) Một tập hợp các hướng dẫn lập trình được thiết kế để thực hiện một nhiệm vụ giới hạn cụ thể."
+        },
+        {
+            "pos": "adjective",
+            "en": "Routine means being regular or customary.",
+            "vi": "Thường xuyên có nghĩa là thường xuyên hoặc theo thông lệ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In a few more weeks she could make a routine visit to the doctor.",
+            "vi": "Trong vài tuần nữa, cô có thể đến gặp bác sĩ định kỳ."
+        },
+        {
+            "en": "Still she continued the ordinary routine of her duties and occupations.",
+            "vi": "Cô vẫn tiếp tục công việc và công việc bình thường của mình."
+        }
+    ],
+    "words_form": [
+        "routines"
+    ],
+    "meaning_vi": "công việc hằng ngày"
+}

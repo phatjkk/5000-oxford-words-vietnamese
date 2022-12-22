@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈpaʊdər/"
+    ],
+    "synonyms": [
+        "dust",
+        "particles",
+        "film",
+        "cosmetic",
+        "explosive"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A dry explosive mixture, such as gunpowder.",
+            "vi": "Hỗn hợp nổ khô, chẳng hạn như thuốc súng."
+        },
+        {
+            "pos": "verb",
+            "en": "Powder is defined as to sprinkle or apply a dry, dusty substance.",
+            "vi": "Bột được định nghĩa là để rắc hoặc phủ một chất khô, bụi."
+        },
+        {
+            "pos": "idiom",
+            "en": "keep (one's) powder dry  To be ready for a challenge with little warning.",
+            "vi": "giữ cho bột (của một người) khô Để sẵn sàng cho một thử thách với một chút cảnh báo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They shall get no powder, if I can help it.",
+            "vi": "Họ sẽ không có bột, nếu tôi có thể giúp nó."
+        },
+        {
+            "en": "It is a brown powder which is readily decomposed by boiling water.",
+            "vi": "Nó là một loại bột màu nâu dễ bị phân hủy bởi nước sôi."
+        }
+    ],
+    "words_form": [
+        "powdered",
+        "powdering",
+        "powders"
+    ],
+    "meaning_vi": "bột"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/dəˈprɛʃ(ə)n/"
+    ],
+    "synonyms": [
+        "sadness",
+        "gloom",
+        "dip",
+        "low-spiritedness",
+        "despair"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A mood disorder characterized usually by anhedonia, extreme sadness, poor concentration, sleep problems, loss of appetite, and feelings of guilt, helplessness, and hopelessness.",
+            "vi": "Một rối loạn tâm trạng đặc trưng thường là chứng loạn trương lực cơ, buồn bã tột độ, kém tập trung, khó ngủ, chán ăn và cảm giác tội lỗi, bất lực và tuyệt vọng."
+        },
+        {
+            "pos": "idiom",
+            "en": "the (Great) Depression  the period of economic depression which began in 1929 and lasted through most of the 1930s",
+            "vi": "thời kỳ suy thoái (Great) là thời kỳ suy thoái kinh tế bắt đầu vào năm 1929 và kéo dài qua hầu hết những năm 1930"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She hadn't recognized it as depression then, though.",
+            "vi": "Tuy nhiên, lúc đó cô không nhận ra đó là chứng trầm cảm."
+        },
+        {
+            "en": "Physical ills were miserable, but this depression was unbearable.",
+            "vi": "Những bệnh tật về thể chất đã rất khổ sở, nhưng sự chán nản này không thể chịu đựng được."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "phiền muộn"
+}

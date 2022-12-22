@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/rɪr/"
+    ],
+    "synonyms": [
+        "raise",
+        "back",
+        "back-seat",
+        "tail end",
+        "stern"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To bring up by educating, nurturing, training, etc.; raise.",
+            "vi": "Được nuôi dưỡng bằng cách giáo dục, nuôi dưỡng, đào tạo, v.v.; nâng cao."
+        },
+        {
+            "pos": "noun",
+            "en": "Rear is defined as the back of something.",
+            "vi": "Phía sau được định nghĩa là mặt sau của một thứ gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, at, or located in the rear.",
+            "vi": "Của, tại, hoặc nằm ở phía sau."
+        },
+        {
+            "pos": "idiom",
+            "en": "bring up the rear  to come at the end, as of a procession; be last in order",
+            "vi": "đưa hậu phương đến cuối cùng, như một đám rước; là thứ tự cuối cùng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Once again the rear end was on solid ground.",
+            "vi": "Một lần nữa phần đuôi xe lại nằm trên nền đất vững chắc."
+        },
+        {
+            "en": "The rear end of the car danced sideways, bouncing like a horse kicking up its heels.",
+            "vi": "Đuôi xe múa ngang, chồm lên như con ngựa hẩy gót."
+        }
+    ],
+    "words_form": [
+        "reared",
+        "rearing",
+        "rears"
+    ],
+    "meaning_vi": "phía sau"
+}

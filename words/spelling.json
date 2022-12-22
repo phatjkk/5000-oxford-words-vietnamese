@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈspɛlɪŋ/"
+    ],
+    "synonyms": [
+        "phonetic",
+        "orthography",
+        "substituting",
+        "reading",
+        "cursing"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The way in which a word is spelled; orthography.",
+            "vi": "Cách đánh vần một từ; chỉnh hình."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of spell.",
+            "vi": "Trình bày phân từ của chính tả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The spelling also is interesting.",
+            "vi": "Chính tả cũng thú vị."
+        },
+        {
+            "en": "As regards the English spelling of the name adopted throughout the Ency.",
+            "vi": "Liên quan đến cách viết tiếng Anh của tên được thông qua trong Ency."
+        }
+    ],
+    "words_form": [
+        "spellings"
+    ],
+    "meaning_vi": "chính tả"
+}

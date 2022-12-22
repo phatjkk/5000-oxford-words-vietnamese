@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈstɔri/"
+    ],
+    "synonyms": [
+        "tale",
+        "novel",
+        "legend",
+        "recital",
+        "fiction"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To decorate with scenes representing historical or legendary events.",
+            "vi": "Để trang trí với các cảnh tượng trưng cho các sự kiện lịch sử hoặc huyền thoại."
+        },
+        {
+            "pos": "noun",
+            "en": "An account or recital of an event or a series of events, either true or fictitious, as:  An account or report regarding the facts of an event or group of events. The witness changed her story under questioning.An anecdote. Came back from the trip with some good stories.A lie. Told us a story about the dog eating the cookies.",
+            "vi": "Một tài khoản hoặc tường thuật lại một sự kiện hoặc một chuỗi sự kiện, có thể là sự thật hoặc hư cấu, như: Một tài khoản hoặc báo cáo liên quan đến các dữ kiện của một sự kiện hoặc một nhóm sự kiện. Nhân chứng đã thay đổi câu chuyện của cô ấy khi bị thẩm vấn. Trở về sau chuyến đi với một số câu chuyện hay. Kể cho chúng tôi nghe một câu chuyện về con chó ăn bánh quy."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1779-1845; associate justice, U.S. Supreme Court (1811-45)",
+            "vi": "(người) 1779-1845; liên kết tư pháp, Tòa án tối cao Hoa Kỳ (1811-45)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He told his wonderful story to the king; but the king would not believe him.",
+            "vi": "Anh ta kể câu chuyện tuyệt vời của mình cho nhà vua nghe; nhưng nhà vua sẽ không tin anh ta."
+        },
+        {
+            "en": "That's an incredible story, Martha.",
+            "vi": "Đó là một câu chuyện khó tin, Martha."
+        }
+    ],
+    "words_form": [
+        "storied",
+        "stories",
+        "storying"
+    ],
+    "meaning_vi": "câu chuyện"
+}

@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/huz/"
+    ],
+    "synonyms": [
+        "s",
+        "whom",
+        "his",
+        "who"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Of whom, belonging to whom; used as a relative pronoun.",
+            "vi": "Của ai, thuộc về ai; được sử dụng như một đại từ tương đối."
+        },
+        {
+            "pos": "possessive pronominal adjective",
+            "en": "Of, belonging to, made by, or done by whom or which.",
+            "vi": "Của, thuộc về, được thực hiện bởi hoặc được thực hiện bởi ai hoặc cái nào."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Whose goals are we talking about here, mine or yours?",
+            "vi": "Mục tiêu chúng ta đang nói đến ở đây là của ai, của tôi hay của bạn?"
+        },
+        {
+            "en": "So whose bones are they?",
+            "vi": "Vậy chúng là xương của ai?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "của ai"
+}

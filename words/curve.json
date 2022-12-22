@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/kərv/"
+    ],
+    "synonyms": [
+        "bend",
+        "crescent",
+        "arcuate",
+        "ess",
+        "screwball"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A line having no straight part; bend having no angular part.",
+            "vi": "Một đoạn thẳng không có phần thẳng; uốn cong không có phần góc cạnh."
+        },
+        {
+            "pos": "adjective",
+            "en": "(archaic) Curved.",
+            "vi": "(cổ xưa) Cong."
+        },
+        {
+            "pos": "verb",
+            "en": "To curve is defined as to move or follow in a smooth bend.",
+            "vi": "Đường cong được định nghĩa là di chuyển hoặc đi theo một khúc cua trơn."
+        },
+        {
+            "pos": "idiom",
+            "en": "ahead of the curve  anticipating (or not keeping up with) current trends, developments, etc.",
+            "vi": "đi trước đường cong dự đoán (hoặc không theo kịp) các xu hướng, sự phát triển hiện tại, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His finger left her jaw and softly followed the curve of her neck.",
+            "vi": "Ngón tay anh rời khỏi quai hàm cô và nhẹ nhàng theo đường cong trên cổ cô."
+        },
+        {
+            "en": "The sharp curve arrived before her memory of it.",
+            "vi": "Đường cong sắc nét đến trước khi cô nhớ về nó."
+        }
+    ],
+    "words_form": [
+        "curved",
+        "curves",
+        "curving"
+    ],
+    "meaning_vi": "Curve"
+}

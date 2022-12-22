@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/rɛd/"
+    ],
+    "synonyms": [
+        "ruby",
+        "rosy",
+        "ruddy",
+        "cherry",
+        "fiery"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Red is the color on the end of the spectrum before orange.",
+            "vi": "Màu đỏ là màu ở cuối quang phổ trước màu da cam."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of red is having the color on the end of the spectrum before orange.",
+            "vi": "Định nghĩa của màu đỏ là có màu ở cuối quang phổ trước màu da cam."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A nickname given to someone who has or had red hair.",
+            "vi": "Một biệt danh được đặt cho một người có hoặc có mái tóc đỏ."
+        },
+        {
+            "pos": "suffix",
+            "en": "(no longer productive) A suffix forming nouns of condition or state.",
+            "vi": "(không còn sản xuất) Hậu tố tạo thành danh từ chỉ tình trạng hoặc trạng thái."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the red  in debt or losing money",
+            "vi": "chìm trong nợ nần hoặc mất tiền"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He held out a bottle of red water.",
+            "vi": "Anh ta chìa ra một chai nước màu đỏ."
+        },
+        {
+            "en": "She has on a pretty red dress.",
+            "vi": "Cô ấy mặc một chiếc váy đỏ xinh xắn."
+        }
+    ],
+    "words_form": [
+        "redder",
+        "reddest"
+    ],
+    "meaning_vi": "màu đỏ"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/əˈkjuz/"
+    ],
+    "synonyms": [
+        "blame",
+        "sue",
+        "summon",
+        "guilty",
+        "fault"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To find at fault; blame.",
+            "vi": "Để tìm lỗi; khiển trách."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) An accusation.",
+            "vi": "(lỗi thời) Một lời buộc tội."
+        },
+        {
+            "pos": "idiom",
+            "en": "the accused  the person or persons formally charged with commission of a crime",
+            "vi": "người bị buộc tội hoặc những người chính thức bị buộc tội"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't accuse anyone.",
+            "vi": "Tôi không buộc tội ai cả."
+        },
+        {
+            "en": "It had provided the opportunity for him to accuse her of being unfaithful.",
+            "vi": "Nó đã tạo cơ hội cho anh buộc tội cô không chung thủy."
+        }
+    ],
+    "words_form": [
+        "accused",
+        "accuses",
+        "accusing"
+    ],
+    "meaning_vi": "tố cáo, buộc tội, kết tội"
+}

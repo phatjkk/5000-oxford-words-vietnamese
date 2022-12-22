@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈɑrbəˌtrɛri/"
+    ],
+    "synonyms": [
+        "unpredictable",
+        "absolute",
+        "inconsistent",
+        "reasonable",
+        "unscientific"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Arbitrary is defined as something that is determined by judgment or whim and not for any specific reason or rule.",
+            "vi": "Tùy tiện được định nghĩa là một cái gì đó được xác định bởi phán đoán hoặc ý thích và không vì bất kỳ lý do hoặc quy tắc cụ thể nào."
+        },
+        {
+            "pos": "noun",
+            "en": "Anything arbitrary, such as an arithmetical value or a fee.",
+            "vi": "Bất kỳ thứ gì tùy ý, chẳng hạn như giá trị số học hoặc phí."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The committee had arbitrary rules.",
+            "vi": "Ủy ban đã có những quy định độc đoán."
+        },
+        {
+            "en": "The assumption was arbitrary, based on no valid evidence.",
+            "vi": "Giả định là tùy tiện, không dựa trên bằng chứng xác thực."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tùy ý"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/freɪz/"
+    ],
+    "synonyms": [
+        "catchword",
+        "idiom",
+        "formulate",
+        "articulate",
+        "parlance"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Phrase is defined as to express in words.",
+            "vi": "Cụm từ được định nghĩa là để diễn đạt bằng lời."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a phrase is two or more words that express an idea and are a part of a sentence.",
+            "vi": "Định nghĩa của một cụm từ là hai hoặc nhiều từ diễn đạt một ý tưởng và là một phần của câu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She repeated the phrase over and over, searching for another meaning.",
+            "vi": "Cô ấy lặp đi lặp lại cụm từ, tìm kiếm một nghĩa khác."
+        },
+        {
+            "en": "And suddenly the whole world centered for him on anticipation of the next note, the next phrase, and everything in the world was divided into three beats: \"Oh mio crudele affetto.\"...",
+            "vi": "Và đột nhiên cả thế giới tập trung vào anh ta vì dự đoán nốt nhạc tiếp theo, cụm từ tiếp theo, và mọi thứ trên thế giới được chia thành ba nhịp: \"Oh mio crudele affetto.\" ..."
+        }
+    ],
+    "words_form": [
+        "phrased",
+        "phrases",
+        "phrasing"
+    ],
+    "meaning_vi": "cụm từ"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈɔrdər/"
+    ],
+    "synonyms": [
+        "demand",
+        "ordering",
+        "sect",
+        "classify",
+        "line-up"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A fixed or definite plan; system; law of arrangement.",
+            "vi": "Một kế hoạch cố định hoặc xác định; hệ thống; luật sắp xếp."
+        },
+        {
+            "pos": "verb",
+            "en": "(archaic, eccles.) To ordain (a priest, etc.)",
+            "vi": "(cổ xưa, giáo hội.) Phong chức (một linh mục, v.v.)"
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to call for quiet and orderly conduct, as to begin a formal meeting.",
+            "vi": "Được sử dụng để kêu gọi hành vi yên tĩnh và có trật tự, khi bắt đầu một cuộc họp chính thức."
+        },
+        {
+            "pos": "idiom",
+            "en": "in order that  So that.",
+            "vi": "để mà Vì vậy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The restraining order is for Destiny, not Alex.",
+            "vi": "Lệnh cấm dành cho Destiny, không phải Alex."
+        },
+        {
+            "en": "Restoring law and order to Ouray County.",
+            "vi": "Khôi phục luật và trật tự cho Quận Ouray."
+        }
+    ],
+    "words_form": [
+        "ordered",
+        "ordering",
+        "orders"
+    ],
+    "meaning_vi": "gọi món"
+}

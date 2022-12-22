@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈædvərˌtaɪzmənt/",
+        "/ədˈvərdɪzmənt/"
+    ],
+    "synonyms": [
+        "broadside",
+        "poster",
+        "bill",
+        "declaration",
+        "commercial"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A notice, such as a poster or a paid announcement in the print, broadcast, or electronic media, designed to attract public attention or patronage.",
+            "vi": "Một thông báo, chẳng hạn như áp phích hoặc một thông báo trả tiền trên báo in, truyền hình hoặc phương tiện truyền thông điện tử, được thiết kế để thu hút sự chú ý của công chúng hoặc sự bảo trợ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is, besides, a huge production of posters for advertisement.",
+            "vi": "Bên cạnh đó, có một lượng lớn các áp phích quảng cáo."
+        },
+        {
+            "en": "This is an advertisement for Life Alert.",
+            "vi": "Đây là một quảng cáo cho Life Alert."
+        }
+    ],
+    "words_form": [
+        "advertisements"
+    ],
+    "meaning_vi": "quảng cáo"
+}

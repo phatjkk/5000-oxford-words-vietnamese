@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/but/"
+    ],
+    "synonyms": [
+        "galosh",
+        "kick",
+        "rubber",
+        "buskin",
+        "wader"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A durable covering for the foot and part or much of the leg, usually made of leather, fabric, plastic, or rubber.",
+            "vi": "Một lớp phủ bền cho bàn chân và một phần hoặc phần lớn của chân, thường được làm bằng da, vải, nhựa hoặc cao su."
+        },
+        {
+            "pos": "verb",
+            "en": "To boot is to kick out, or to start up a computer.",
+            "vi": "Khởi động là khởi động hoặc khởi động máy tính."
+        },
+        {
+            "pos": "idiom",
+            "en": "to boot  In addition; besides: The new cruise ship was not only the biggest in the world, but the fastest to boot.",
+            "vi": "để khởi động Ngoài ra; Bên cạnh đó: Con tàu du lịch mới không chỉ lớn nhất thế giới mà còn khởi động nhanh nhất."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She kicked his boot under the table.",
+            "vi": "Cô đá giày của anh ta xuống gầm bàn."
+        },
+        {
+            "en": "She yanked her other boot on.",
+            "vi": "Cô giật mạnh chiếc ủng khác của mình."
+        }
+    ],
+    "words_form": [
+        "booted",
+        "boots"
+    ],
+    "meaning_vi": "khởi động"
+}

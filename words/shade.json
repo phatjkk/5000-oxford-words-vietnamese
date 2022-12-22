@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ʃeɪd/"
+    ],
+    "synonyms": [
+        "blackness",
+        "twilight-zone",
+        "shadows",
+        "ghost",
+        "tinge"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To shade is to protect from light or heat.",
+            "vi": "Bóng râm là để tránh ánh sáng hoặc nhiệt."
+        },
+        {
+            "pos": "noun",
+            "en": "(slang) Sunglasses.",
+            "vi": "(tiếng lóng) Kính râm."
+        },
+        {
+            "pos": "idiom",
+            "en": "a shade  A little bit; slightly: A sprinter who was a shade quicker that the rest.",
+            "vi": "bóng râm Một chút; hơi: Một vận động viên chạy nước rút nhanh hơn những người còn lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The old Apple tree spread a blanket of shade in the grass beside the pond.",
+            "vi": "Cây Táo già trải chăn che bóng mát trên bãi cỏ bên bờ ao."
+        },
+        {
+            "en": "He paused, his face turning a darker shade of red.",
+            "vi": "Anh dừng lại, mặt anh chuyển sang màu đỏ sẫm hơn."
+        }
+    ],
+    "words_form": [
+        "shaded",
+        "shades",
+        "shading"
+    ],
+    "meaning_vi": "bóng râm"
+}

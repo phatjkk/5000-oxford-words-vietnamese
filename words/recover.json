@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rɪˈkəvər/"
+    ],
+    "synonyms": [
+        "retrieve",
+        "recoup",
+        "recuperate",
+        "redeem",
+        "reacquire"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(law) To gain by legal process.",
+            "vi": "(luật) Để đạt được bằng quy trình pháp lý."
+        },
+        {
+            "pos": "noun",
+            "en": "(military) A position of holding a firearm during exercises, whereby the lock is at shoulder height and the sling facing out.",
+            "vi": "(quân sự) Vị trí cầm súng trong các bài tập, theo đó khóa ở độ cao ngang vai và dây treo hướng ra ngoài."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She nodded, trying hard to recover from the latest surprise.",
+            "vi": "Cô gật đầu, cố gắng hết sức để phục hồi sau bất ngờ mới nhất."
+        },
+        {
+            "en": "That army could not recover anywhere.",
+            "vi": "Đội quân đó không thể phục hồi ở bất cứ đâu."
+        }
+    ],
+    "words_form": [
+        "recovered",
+        "recovering",
+        "recovers"
+    ],
+    "meaning_vi": "bình phục"
+}

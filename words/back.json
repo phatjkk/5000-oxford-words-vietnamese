@@ -1,0 +1,65 @@
+{
+    "spelling": [
+        "/bæk/"
+    ],
+    "synonyms": [
+        "hind",
+        "rearward",
+        "rear",
+        "hindmost",
+        "behind"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of back is in the rear.",
+            "vi": "Định nghĩa của trở lại là ở phía sau."
+        },
+        {
+            "pos": "noun",
+            "en": "The part opposite to or behind that adapted for view or use.",
+            "vi": "Phần đối diện với hoặc phía sau được điều chỉnh để xem hoặc sử dụng."
+        },
+        {
+            "pos": "verb",
+            "en": "To adduce evidence in support of; substantiate.",
+            "vi": "Để bổ sung bằng chứng ủng hộ; chứng minh."
+        },
+        {
+            "pos": "adverb",
+            "en": "At, to, or toward the rear or back.",
+            "vi": "Tại, đến, hoặc về phía sau hoặc phía sau."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) River in N Canada, flowing northeast into the Arctic Ocean: c. 600 mi (966 km)",
+            "vi": "(địa danh) Sông ở N Canada, chảy theo hướng đông bắc vào Bắc Băng Dương: c. 600 mi (966 km)"
+        },
+        {
+            "pos": "prefix",
+            "en": "See back.",
+            "vi": "Hẹn gặp lại."
+        },
+        {
+            "pos": "idiom",
+            "en": "back and fill  To maneuver a vessel in a narrow channel by adjusting the sails so as to let the wind in and out of them in alteration. To vacillate in one's actions or decisions.",
+            "vi": "trở lại và lấp đầy Để điều động tàu trong một kênh hẹp bằng cách điều chỉnh các cánh buồm sao cho gió vào và ra khỏi chúng theo sự thay đổi. Để bỏ trống trong các hành động hoặc quyết định của một người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Do you have to go back right away?",
+            "vi": "Bạn có phải về ngay lập tức không?"
+        },
+        {
+            "en": "It was a long time back, before they were married.",
+            "vi": "Đó là một thời gian dài trở lại, trước khi họ kết hôn."
+        }
+    ],
+    "words_form": [
+        "backed",
+        "backing",
+        "backs"
+    ],
+    "meaning_vi": "mặt sau"
+}

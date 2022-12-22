@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈsədn/"
+    ],
+    "synonyms": [
+        "unexpected",
+        "swift",
+        "hurried",
+        "spur-of-the-moment",
+        "abrupt"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Happening without warning; unforeseen.",
+            "vi": "Xảy ra mà không có cảnh báo trước; không lường trước được."
+        },
+        {
+            "pos": "adverb",
+            "en": "(poetic) Suddenly.",
+            "vi": "(thơ) Đột ngột."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) An unexpected occurrence; a surprise.",
+            "vi": "(lỗi thời) Một sự cố bất ngờ xảy ra; một điều bất ngờ."
+        },
+        {
+            "pos": "idiom",
+            "en": "all of a sudden  Very quickly and unexpectedly; suddenly.",
+            "vi": "đột ngột Rất nhanh chóng và bất ngờ; đột ngột."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She smiled up at him, feeling a sudden need for levity.",
+            "vi": "Cô mỉm cười với anh, đột nhiên cảm thấy cần một sự từ tốn."
+        },
+        {
+            "en": "She had the sudden urge to assist him.",
+            "vi": "Cô đột nhiên muốn giúp đỡ anh ta."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đột nhiên"
+}

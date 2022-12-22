@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ɑpt/"
+    ],
+    "synonyms": [
+        "choose",
+        "decide",
+        "elect",
+        "pick",
+        "prefer"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make a choice or decision.",
+            "vi": "Để đưa ra lựa chọn hoặc quyết định."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Optional.",
+            "vi": "Không bắt buộc."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(linguistics) Abbreviation of Old Portuguese.",
+            "vi": "(ngôn ngữ học) Viết tắt của tiếng Bồ Đào Nha Cổ."
+        },
+        {
+            "pos": "idiom",
+            "en": "opt out (of)  to choose not to participate (in)",
+            "vi": "chọn không tham gia (trong số) để chọn không tham gia (vào)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Many women opt to use waterproof makeup.",
+            "vi": "Nhiều phụ nữ chọn sử dụng trang điểm không thấm nước."
+        },
+        {
+            "en": "To accommodate more guests, you could opt for spending less per head on the receptions.",
+            "vi": "Để chứa được nhiều khách hơn, bạn có thể chọn chi tiêu ít hơn cho mỗi đầu người cho các buổi chiêu đãi."
+        }
+    ],
+    "words_form": [
+        "opted",
+        "opting",
+        "opts"
+    ],
+    "meaning_vi": "lựa chọn"
+}

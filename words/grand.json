@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ɡrænd/"
+    ],
+    "synonyms": [
+        "rich",
+        "elevated",
+        "awful",
+        "terrific",
+        "glorious"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of grand is very large in size, or important, wonderful, fascinating or noble.",
+            "vi": "Định nghĩa về vĩ đại có kích thước rất lớn, hoặc quan trọng, tuyệt vời, hấp dẫn hoặc cao quý."
+        },
+        {
+            "pos": "noun",
+            "en": "A grand piano.",
+            "vi": "Một cây đại dương cầm."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A commune in France.",
+            "vi": "Một công xã ở Pháp."
+        },
+        {
+            "pos": "affix",
+            "en": "Of the generation older (or younger) than.",
+            "vi": "Thuộc thế hệ già hơn (hoặc trẻ hơn)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I had grand plans to build and run a large-scale horse ranch.",
+            "vi": "Tôi đã có kế hoạch lớn để xây dựng và điều hành một trang trại nuôi ngựa quy mô lớn."
+        },
+        {
+            "en": "They're going back to Grand Junction tonight.",
+            "vi": "Họ sẽ trở lại Grand Junction tối nay."
+        }
+    ],
+    "words_form": [
+        "grandest"
+    ],
+    "meaning_vi": "lớn"
+}

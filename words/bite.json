@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/baɪt/"
+    ],
+    "synonyms": [
+        "chew",
+        "munch",
+        "chaw",
+        "injury",
+        "nip"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To bite is defined as to use your teeth to dig into something, or being enticed to get interested in or involved in something.",
+            "vi": "Cắn được định nghĩa là dùng răng của bạn để ngoạm vào thứ gì đó, hoặc bị dụ dỗ để có hứng thú hoặc tham gia vào một thứ gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a bite is the act of using your teeth to dig into something, a wound inflicted by someone's teeth digging into something, a quick snack, or an amount cut off.",
+            "vi": "Định nghĩa về vết cắn là hành động dùng răng của bạn để ngoạm vào thứ gì đó, vết thương do răng của ai đó đâm vào thứ gì đó, một món ăn nhanh hoặc một số lượng bị cắt ra."
+        },
+        {
+            "pos": "idiom",
+            "en": "bite off more than (one) can chew  To decide or agree to do more than one can finally accomplish.",
+            "vi": "cắn nhiều hơn (một cái) có thể nhai Để quyết định hoặc đồng ý làm nhiều hơn một cái cuối cùng có thể hoàn thành."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Don't bite my head off.",
+            "vi": "Đừng cắn đầu tôi."
+        },
+        {
+            "en": "It did not try to bite or scratch.",
+            "vi": "Nó không cố gắng cắn hoặc cào."
+        }
+    ],
+    "words_form": [
+        "bit",
+        "bites",
+        "biting",
+        "bitten"
+    ],
+    "meaning_vi": "cắn"
+}

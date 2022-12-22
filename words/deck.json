@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dɛk/"
+    ],
+    "synonyms": [
+        "level",
+        "layer",
+        "topside",
+        "flight",
+        "story"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a deck is a floor or platform area extended from a building or ship.",
+            "vi": "Định nghĩa của boong là một khu vực sàn hoặc nền tảng được mở rộng từ một tòa nhà hoặc con tàu."
+        },
+        {
+            "pos": "verb",
+            "en": "To furnish with or as if with a deck.",
+            "vi": "Để cung cấp hoặc như thể với một bộ bài."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) clear the deck  To prepare for action.",
+            "vi": "(không chính thức) dọn bộ bài Để chuẩn bị hành động."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Every day the people went upon deck to look out for land.",
+            "vi": "Hàng ngày mọi người lên boong tàu để tìm kiếm đất."
+        },
+        {
+            "en": "Deidre wanted to deck him again.",
+            "vi": "Deidre muốn boong anh ta một lần nữa."
+        }
+    ],
+    "words_form": [
+        "decked",
+        "decking",
+        "decks"
+    ],
+    "meaning_vi": "boong"
+}

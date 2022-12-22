@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/bɛr/"
+    ],
+    "synonyms": [
+        "empty",
+        "exposed",
+        "stark",
+        "barren",
+        "simple"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To bare means to take away something that was covering something else.",
+            "vi": "Để trần có nghĩa là lấy đi một thứ gì đó đang che đậy một thứ khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Lacking the usual or appropriate covering or clothing; naked.",
+            "vi": "Thiếu lớp che phủ hoặc quần áo thông thường hoặc thích hợp; trần truồng."
+        },
+        {
+            "pos": "adverb",
+            "en": "Barely.",
+            "vi": "Vừa đủ."
+        },
+        {
+            "pos": "noun",
+            "en": "(‘the bare’) The surface, the (bare) skin.",
+            "vi": "('the bare') Bề mặt, lớp da (trần)."
+        },
+        {
+            "pos": "idiom",
+            "en": "lay bare  to open to view; uncover; expose",
+            "vi": "nằm trần để mở ra xem; phanh phui; phơi ra"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She relaxed and pressed her bare legs into the sand in front of her.",
+            "vi": "Cô thả lỏng và ấn đôi chân trần của mình xuống bãi cát trước mặt."
+        },
+        {
+            "en": "Why don't you curl up on the couch and get your bare feet off this cold floor?",
+            "vi": "Tại sao bạn không cuộn tròn trên chiếc ghế dài và đi đôi chân trần của mình khỏi sàn nhà lạnh lẽo này?"
+        }
+    ],
+    "words_form": [
+        "bared",
+        "barer",
+        "bares",
+        "barest",
+        "baring"
+    ],
+    "meaning_vi": "trần"
+}

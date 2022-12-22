@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/kraʊn/"
+    ],
+    "synonyms": [
+        "crest",
+        "tiara",
+        "coronet",
+        "vortex",
+        "pinnacle"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of crown is to give someone power, or to place a ceremonial headdress on a person's head.",
+            "vi": "Định nghĩa của vương miện là để trao cho ai đó quyền lực, hoặc để đội một chiếc mũ nghi lễ trên đầu của một người."
+        },
+        {
+            "pos": "noun",
+            "en": "Crown is defined as royalty, or a circular headdress worn by royalty, or an award, or the highest part of something.",
+            "vi": "Vương miện được định nghĩa là hoàng gia, hoặc một chiếc mũ tròn được đeo bởi hoàng gia, hoặc một giải thưởng, hoặc phần cao nhất của một thứ gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, related to, or pertaining to a crown.",
+            "vi": "Của, liên quan đến, hoặc liên quan đến vương miện."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(government) The sovereign, in a monarchic country.",
+            "vi": "(chính phủ) Chủ quyền, trong một quốc gia theo chế độ quân chủ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It did not revert to the crown till his death in 1447.",
+            "vi": "Nó đã không trở lại vương miện cho đến khi ông qua đời vào năm 1447."
+        },
+        {
+            "en": "The crown has a fall which may amount to as much as 18 in.",
+            "vi": "Vương miện có độ rơi có thể lên tới 18 inch."
+        }
+    ],
+    "words_form": [
+        "crowned",
+        "crowning",
+        "crowns"
+    ],
+    "meaning_vi": "vương miện"
+}

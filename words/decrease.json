@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dəˈkris/"
+    ],
+    "synonyms": [
+        "diminish",
+        "sink",
+        "wane",
+        "deteriorate",
+        "lighten"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make (a quantity) smaller.",
+            "vi": "Để làm cho (một số lượng) nhỏ hơn."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or process of decreasing.",
+            "vi": "Hành động hoặc quá trình giảm dần."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the decrease  decreasing",
+            "vi": "ngày càng giảm"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In one book she found a list of things that could decrease fertility.",
+            "vi": "Trong một cuốn sách, cô ấy đã tìm thấy danh sách những thứ có thể làm giảm khả năng sinh sản."
+        },
+        {
+            "en": "The decrease is most marked as saturation approaches.",
+            "vi": "Sự sụt giảm được đánh dấu rõ ràng nhất khi tiếp cận bão hòa."
+        }
+    ],
+    "words_form": [
+        "decreased",
+        "decreases",
+        "decreasing"
+    ],
+    "meaning_vi": "giảm bớt"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈfɔrˌmæt/"
+    ],
+    "synonyms": [
+        "scheme",
+        "plan",
+        "formatting",
+        "initialise",
+        "template"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a format is an arrangement or plan for something written, printed or recorded.",
+            "vi": "Định nghĩa của một định dạng là một sự sắp xếp hoặc kế hoạch cho một cái gì đó được viết, in hoặc ghi lại."
+        },
+        {
+            "pos": "verb",
+            "en": "To arrange according to a format.",
+            "vi": "Để sắp xếp theo một định dạng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"We put the numbers in a certain format that makes it easier for them to analyze,\" I said, trying to sound like I knew what I was talking about.",
+            "vi": "“Chúng tôi đặt các con số theo một định dạng nhất định để chúng dễ dàng phân tích hơn,” tôi nói, cố gắng làm ra vẻ như tôi biết mình đang nói về điều gì."
+        },
+        {
+            "en": "Advice leaflets are available which you can download in pdf format.",
+            "vi": "Bạn có thể tải về các tờ rơi tư vấn ở định dạng pdf."
+        }
+    ],
+    "words_form": [
+        "formats",
+        "formatted",
+        "formatting"
+    ],
+    "meaning_vi": "định dạng"
+}

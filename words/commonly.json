@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈkɑmənli/"
+    ],
+    "synonyms": [
+        "regularly",
+        "usually",
+        "generally",
+        "widely",
+        "frequently"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In a common manner.",
+            "vi": "Theo một cách thông thường."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He commonly went off in a rain.",
+            "vi": "Anh ấy thường đi trong mưa."
+        },
+        {
+            "en": "This is the most commonly used form.",
+            "vi": "Đây là hình thức được sử dụng phổ biến nhất."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thông thường"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/slɑt/"
+    ],
+    "synonyms": [
+        "slit",
+        "one-armed-bandit",
+        "socket",
+        "aperture",
+        "cut"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To put something (such as a coin) into a slot (narrow aperture)",
+            "vi": "Để đặt thứ gì đó (chẳng hạn như đồng xu) vào một khe (khẩu độ hẹp)"
+        },
+        {
+            "pos": "noun",
+            "en": "A gap between a main and auxiliary airfoil to provide space for airflow and facilitate the smooth passage of air over the wing.",
+            "vi": "Một khoảng trống giữa cánh gió chính và phụ để tạo khoảng trống cho luồng không khí và tạo điều kiện cho không khí đi qua cánh một cách trơn tru."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"I'm guessing Toni is Monday, which is why you offered me the Tuesday slot?\" she grumbled.",
+            "vi": "\"Tôi đoán Toni là thứ Hai, đó là lý do tại sao bạn đề nghị tôi vị trí thứ Ba?\" cô càu nhàu."
+        },
+        {
+            "en": "The journal of the axle A, is carried in a bearing or axle-box B, which is free to move vertically in the wide vertical slot G, formed in the frame and called generally \" the horns,\" under the control of the spring.",
+            "vi": "Tạp chí của trục A, được đặt trong ổ trục hoặc hộp trục B, chuyển động tự do theo phương thẳng đứng trong rãnh thẳng đứng rộng rãi G, được tạo thành trong khung và được gọi chung là \"sừng\", dưới sự điều khiển của lò xo."
+        }
+    ],
+    "words_form": [
+        "slots",
+        "slotted",
+        "slotting"
+    ],
+    "meaning_vi": "khe"
+}

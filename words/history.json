@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈhɪst(ə)ri/"
+    ],
+    "synonyms": [
+        "records",
+        "antiquity",
+        "account",
+        "change",
+        "chronology"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The branch of knowledge that deals systematically with the past; a recording, analyzing, correlating, and explaining of past events.",
+            "vi": "Nhánh kiến ​​thức liên quan đến quá khứ một cách có hệ thống; ghi lại, phân tích, tương quan và giải thích các sự kiện trong quá khứ."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To narrate or record.",
+            "vi": "(lỗi thời) Để tường thuật hoặc ghi lại."
+        },
+        {
+            "pos": "idiom",
+            "en": "make history  to be or do something important enough to be recorded",
+            "vi": "làm cho lịch sử trở thành hoặc làm điều gì đó đủ quan trọng để được ghi lại"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Is there some history I should know about?",
+            "vi": "Có một số lịch sử tôi nên biết về?"
+        },
+        {
+            "en": "I can think of a thousand scenes and places in history I'd visit!",
+            "vi": "Tôi có thể nghĩ về hàng nghìn cảnh và địa điểm trong lịch sử mà tôi sẽ đến thăm!"
+        }
+    ],
+    "words_form": [
+        "histories"
+    ],
+    "meaning_vi": "lịch sử"
+}

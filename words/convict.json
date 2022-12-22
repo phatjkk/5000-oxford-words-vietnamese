@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/kənˈvɪkt/"
+    ],
+    "synonyms": [
+        "condemn",
+        "felon",
+        "doom",
+        "prisoner",
+        "attaint"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Convict is defined as to declare someone guilty of something, especially when done formally by a judge or jury in a court of law.",
+            "vi": "Kết tội được định nghĩa là tuyên bố ai đó phạm tội gì đó, đặc biệt là khi được thực hiện một cách chính thức bởi một thẩm phán hoặc bồi thẩm đoàn tại một tòa án có luật."
+        },
+        {
+            "pos": "noun",
+            "en": "A person found or declared guilty of an offense or crime.",
+            "vi": "Một người bị phát hiện hoặc tuyên bố phạm tội hoặc phạm tội."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Convict mechanics are rarely found ready made.",
+            "vi": "Cơ chế cấu kết hiếm khi được tìm thấy sẵn sàng được thực hiện."
+        },
+        {
+            "en": "The old man was living as a convict, submitting as he should and doing no wrong.",
+            "vi": "Ông già đã sống như một tội phạm, phục tùng như những gì ông nên làm và không làm gì sai trái."
+        }
+    ],
+    "words_form": [
+        "convicted",
+        "convicts"
+    ],
+    "meaning_vi": "kết án"
+}

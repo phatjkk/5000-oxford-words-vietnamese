@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/wund/"
+    ],
+    "synonyms": [
+        "threaded",
+        "bother",
+        "anguish",
+        "affliction",
+        "blasted"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To wound is defined as to injure or harm someone either physically or emotionally.",
+            "vi": "Vết thương được định nghĩa là gây thương tích hoặc gây tổn hại cho ai đó về thể chất hoặc tình cảm."
+        },
+        {
+            "pos": "noun",
+            "en": "When a wound is healing, the new skin is very thin, so the nerves are even more sensitive. As they are healing, their signals may be affected and the brain gets a signal it may interpret as an itch.",
+            "vi": "Khi vết thương đang lành, lớp da mới rất mỏng nên các dây thần kinh càng nhạy cảm hơn. Khi chúng đang lành lại, các tín hiệu của chúng có thể bị ảnh hưởng và não nhận được tín hiệu mà nó có thể hiểu là ngứa."
+        },
+        {
+            "pos": "idiom",
+            "en": "the wounded  persons wounded, esp. in warfare",
+            "vi": "những người bị thương bị thương, đặc biệt. trong chiến tranh"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The wound healed itself.",
+            "vi": "Vết thương tự lành."
+        },
+        {
+            "en": "Natasha's wound healed in that way.",
+            "vi": "Vết thương của Natasha đã lành theo cách đó."
+        }
+    ],
+    "words_form": [
+        "wounded",
+        "wounding",
+        "wounds"
+    ],
+    "meaning_vi": "vết thương"
+}

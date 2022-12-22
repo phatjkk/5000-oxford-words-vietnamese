@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/luz/"
+    ],
+    "synonyms": [
+        "forget",
+        "miss",
+        "mislay",
+        "triumph",
+        "succumb"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be unsuccessful in retaining possession of; mislay.",
+            "vi": "Không thành công trong việc giữ lại quyền sở hữu; chơi sai."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) Fame, renown; praise.",
+            "vi": "(lỗi thời) Nổi tiếng, được biết đến; khen."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) lose it  To become very angry or emotionally upset. To become deranged or mentally disturbed. To become less capable or proficient; decline: He can still play tennis well. He hasn't lost it yet.",
+            "vi": "(tiếng lóng) mất nó Để trở nên rất tức giận hoặc buồn bã về cảm xúc. Trở nên loạn trí hoặc rối loạn tinh thần. Trở nên kém khả năng hoặc thành thạo hơn; sa sút: Anh ấy vẫn có thể chơi quần vợt tốt. Anh ấy vẫn chưa đánh mất nó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I lose some cattle every year.",
+            "vi": "Tôi mất một số gia súc mỗi năm."
+        },
+        {
+            "en": "I lose to the others but win from you.",
+            "vi": "Tôi thua những người khác nhưng giành chiến thắng từ bạn."
+        }
+    ],
+    "words_form": [
+        "loses",
+        "losing",
+        "lost"
+    ],
+    "meaning_vi": "mất"
+}

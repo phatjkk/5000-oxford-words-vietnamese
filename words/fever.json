@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈfivər/"
+    ],
+    "synonyms": [
+        "pyrexia",
+        "flush",
+        "ague",
+        "feverishness",
+        "frenzy"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To effect fever in.",
+            "vi": "Để gây sốt trong."
+        },
+        {
+            "pos": "noun",
+            "en": "Any of various diseases characterized by a high fever.",
+            "vi": "Bất kỳ bệnh nào có đặc điểm là sốt cao."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She'd felt it last night, too, before … before the fever dream about them having sex.",
+            "vi": "Cô cũng đã cảm thấy điều đó vào đêm qua, trước khi… trước khi cơn sốt mơ về việc họ quan hệ tình dục."
+        },
+        {
+            "en": "The strange fever remained, making her feel as if she'd been sitting in a sauna for hours.",
+            "vi": "Cơn sốt kỳ lạ vẫn còn, khiến cô cảm thấy như thể mình đã ngồi trong phòng tắm hơi hàng giờ liền."
+        }
+    ],
+    "words_form": [
+        "fevered",
+        "fevers"
+    ],
+    "meaning_vi": "sốt"
+}

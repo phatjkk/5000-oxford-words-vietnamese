@@ -1,0 +1,66 @@
+{
+    "spelling": [
+        "/kæmp/"
+    ],
+    "synonyms": [
+        "bungalow",
+        "cabin",
+        "chalet",
+        "shed",
+        "bivouac"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make or set up a camp.",
+            "vi": "Để thực hiện hoặc thiết lập một trại."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a camp is where people live for a short period of time.",
+            "vi": "Định nghĩa của trại là nơi mọi người sống trong một khoảng thời gian ngắn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Given to or characterized by exaggerated, effeminate mannerisms.",
+            "vi": "Được tạo ra hoặc được đặc trưng bởi phong cách phóng đại, phóng đại."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1859-1925; U.S. football authority and coach.",
+            "vi": "(người) 1859-1925; Cơ quan quản lý và huấn luyện viên bóng đá Hoa Kỳ."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Cyclic AMP.",
+            "vi": "AMP tuần hoàn."
+        },
+        {
+            "pos": "initialism",
+            "en": "Central Atlantic magmatic province.",
+            "vi": "Tỉnh magma Trung Đại Tây Dương."
+        },
+        {
+            "pos": "idiom",
+            "en": "break camp  to dismantle a camp; pack up camping equipment and go away",
+            "vi": "phá trại phá trại; đóng gói thiết bị cắm trại và đi"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They have a camp not far away.",
+            "vi": "Họ có một trại không xa."
+        },
+        {
+            "en": "They were at church camp with Katie today.",
+            "vi": "Họ đã ở trại nhà thờ với Katie hôm nay."
+        }
+    ],
+    "words_form": [
+        "camped",
+        "camper",
+        "camping",
+        "camps"
+    ],
+    "meaning_vi": "cắm trại"
+}

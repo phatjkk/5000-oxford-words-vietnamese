@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˌdɒkjʊmɛnˈteɪʃən/"
+    ],
+    "synonyms": [
+        "authentication",
+        "corroboration",
+        "declaration",
+        "evidence",
+        "proof"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The documents or references thus supplied.",
+            "vi": "Thực sự rất tồi tệ; kinh khủng."
+        },
+        {
+            "pos": "",
+            "en": "The narrative and graphical description of a system. Following are the kinds of documentation required to describe an information system for both users and systems staff. See self-documenting code, technical writer and RTFM.Operating Procedures1. Instructions for turning the system on and getting the programs initiated (loaded).2. Instructions for obtaining source documents for data entry.3. Instructions for entering data at the terminal, which includes a picture of each screen layout the user will encounter.4. A description of error messages that can occur and the alternative methods for handling them.5. A description of the defaults taken in the programs and the instructions for changing them.6. Instructions for distributing the computer's output, which includes sample pages for each type of report.System Documentation1. Data dictionary - Description of the files and databases.2. System flow chart - Description of the data as it flows from source document to report.3. Application program documentation - Description of the inputs, processing and outputs for each data entry, query, update and report program in the system.Technical Documentation1. File structures and access methods2. Program flow charts3. Program source code listings4. Machine procedures (JCL)",
+            "vi": "Xem công nghệ đột phá."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "No documentation to current day activity was listed.",
+            "vi": "Không có tài liệu về hoạt động ngày hiện tại được liệt kê."
+        },
+        {
+            "en": "Eurostat has not yet provided us with all the necessary supporting documentation.",
+            "vi": "Eurostat vẫn chưa cung cấp cho chúng tôi tất cả các tài liệu hỗ trợ cần thiết."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The documents or references thus supplied.",
+            "vi": "Thực sự rất tồi tệ; kinh khủng."
+        },
+        {
+            "pos": "",
+            "en": "The narrative and graphical description of a system. Following are the kinds of documentation required to describe an information system for both users and systems staff. See self-documenting code, technical writer and RTFM.Operating Procedures1. Instructions for turning the system on and getting the programs initiated (loaded).2. Instructions for obtaining source documents for data entry.3. Instructions for entering data at the terminal, which includes a picture of each screen layout the user will encounter.4. A description of error messages that can occur and the alternative methods for handling them.5. A description of the defaults taken in the programs and the instructions for changing them.6. Instructions for distributing the computer's output, which includes sample pages for each type of report.System Documentation1. Data dictionary - Description of the files and databases.2. System flow chart - Description of the data as it flows from source document to report.3. Application program documentation - Description of the inputs, processing and outputs for each data entry, query, update and report program in the system.Technical Documentation1. File structures and access methods2. Program flow charts3. Program source code listings4. Machine procedures (JCL)",
+            "vi": "Xem công nghệ đột phá."
+        }
+    ]
+}

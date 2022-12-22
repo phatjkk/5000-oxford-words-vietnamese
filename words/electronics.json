@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ɪlɛkˈtrɒnɪks/"
+    ],
+    "synonyms": [
+        "VCRs",
+        "camcorders",
+        "computers",
+        "radios",
+        "stereos"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The science that deals with the behavior and control of electrons in vacuums and gases, and with the use of electron tubes, photoelectric cells, transistors, etc.",
+            "vi": "Khoa học giải quyết hành vi và điều khiển của các electron trong chân không và khí, và với việc sử dụng các ống điện tử, tế bào quang điện, bóng bán dẫn, v.v."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "Electronic equipment, systems, etc.",
+            "vi": "Thiết bị, hệ thống điện tử, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I dug this out of a box of electronics upstairs and programmed it to be your new phone.",
+            "vi": "Tôi đã lấy cái này từ một hộp đồ điện tử trên lầu và lập trình nó trở thành điện thoại mới của bạn."
+        },
+        {
+            "en": "It also covers advanced circuit concepts used in analog electronics.",
+            "vi": "Nó cũng bao gồm các khái niệm mạch tiên tiến được sử dụng trong điện tử tương tự."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The science that deals with the behavior and control of electrons in vacuums and gases, and with the use of electron tubes, photoelectric cells, transistors, etc.",
+            "vi": "Khoa học giải quyết hành vi và điều khiển của các electron trong chân không và khí, và với việc sử dụng các ống điện tử, tế bào quang điện, bóng bán dẫn, v.v."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "Electronic equipment, systems, etc.",
+            "vi": "Thiết bị, hệ thống điện tử, v.v."
+        }
+    ]
+}

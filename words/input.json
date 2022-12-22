@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈɪnˌpʊt/"
+    ],
+    "synonyms": [
+        "feed in",
+        "enter",
+        "remark",
+        "insert",
+        "facts"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of input is something entered into a machine or other system, the act of entering data or other information, or input can also describe giving one's help, advice or thoughts.",
+            "vi": "Định nghĩa đầu vào là thứ được nhập vào máy hoặc hệ thống khác, hành động nhập dữ liệu hoặc thông tin khác, hoặc đầu vào cũng có thể mô tả việc đưa ra sự giúp đỡ, lời khuyên hoặc suy nghĩ của một người."
+        },
+        {
+            "pos": "verb",
+            "en": "To enter (data or a program) into a computer.",
+            "vi": "Để nhập (dữ liệu hoặc chương trình) vào máy tính."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to computer input.",
+            "vi": "Của hoặc liên quan đến đầu vào máy tính."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The good feelings about the book were engendered by visual input.",
+            "vi": "Những cảm nhận tốt đẹp về cuốn sách đã được tạo ra bằng hình ảnh đầu vào."
+        },
+        {
+            "en": "I guess I'd like a little input from you guys, if you don't mind.",
+            "vi": "Tôi đoán tôi muốn một chút ý kiến ​​đóng góp từ các bạn, nếu bạn không phiền."
+        }
+    ],
+    "words_form": [
+        "inputs",
+        "inputted",
+        "inputting"
+    ],
+    "meaning_vi": "đầu vào"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/sleɪv/"
+    ],
+    "synonyms": [
+        "servant",
+        "laborer",
+        "enslave",
+        "bondsman",
+        "bondswoman"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One who is subject to or controlled by a specified influence.",
+            "vi": "Một người chịu sự chi phối hoặc kiểm soát của một ảnh hưởng cụ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "To work very hard or doggedly; toil.",
+            "vi": "Làm việc rất chăm chỉ hoặc ngoan cố; vất vả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The slave had honor.",
+            "vi": "Người nô lệ có danh dự."
+        },
+        {
+            "en": "To do this, he had to take them to a large city where there was a slave market.",
+            "vi": "Để làm được điều này, anh phải đưa họ đến một thành phố lớn, nơi có chợ nô lệ."
+        }
+    ],
+    "words_form": [
+        "slaved",
+        "slaves",
+        "slaving"
+    ],
+    "meaning_vi": "nô lệ"
+}

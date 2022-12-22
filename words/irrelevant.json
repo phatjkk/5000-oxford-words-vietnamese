@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/əˈrɛləvənt/"
+    ],
+    "synonyms": [
+        "inconsequential",
+        "inapplicable",
+        "unimportant",
+        "impertinent",
+        "inconsequent"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Not related, not applicable, unimportant, not connected.",
+            "vi": "Không liên quan, không áp dụng, không quan trọng, không kết nối."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The strict rules of their noble births seemed irrelevant now.",
+            "vi": "Giờ đây, những quy tắc nghiêm ngặt của những bậc sinh thành cao quý của họ dường như không còn phù hợp nữa."
+        },
+        {
+            "en": "In this case it was irrelevant, but Sam wouldn't have any way of knowing that.",
+            "vi": "Trong trường hợp này, nó không liên quan, nhưng Sam sẽ không có cách nào để biết điều đó."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "không liên quan"
+}

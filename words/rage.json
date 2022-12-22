@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/reɪdʒ/"
+    ],
+    "synonyms": [
+        "explosion",
+        "bristle",
+        "outburst",
+        "wrath",
+        "furor"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Rage is an intense, uncontrolled anger or a great force.",
+            "vi": "Cơn thịnh nộ là một cơn tức giận dữ dội, không kiểm soát được hoặc một sức mạnh lớn."
+        },
+        {
+            "pos": "verb",
+            "en": "To move with great violence or intensity.",
+            "vi": "Để di chuyển với cường độ hoặc bạo lực lớn."
+        },
+        {
+            "pos": "idiom",
+            "en": "(all) the rage  anything arousing widespread enthusiasm or interest; craze; fad",
+            "vi": "(tất cả) cơn thịnh nộ bất cứ điều gì khơi dậy lòng nhiệt tình hoặc sự quan tâm rộng rãi; sự cuồng nhiệt; ham mê"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His cold rage terrified her.",
+            "vi": "Cơn thịnh nộ lạnh lùng của anh khiến cô kinh hãi."
+        },
+        {
+            "en": "He flew into an abusive rage when he saw it.",
+            "vi": "Anh ta nổi cơn thịnh nộ dữ dội khi nhìn thấy nó."
+        }
+    ],
+    "words_form": [
+        "raged",
+        "rages",
+        "raging"
+    ],
+    "meaning_vi": "cơn thịnh nộ"
+}

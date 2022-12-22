@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kəmˈpɛr/"
+    ],
+    "synonyms": [
+        "relate",
+        "juxtapose",
+        "balance",
+        "analyze",
+        "resemble"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of compare means to find the similarities or differences between two or more people or things.",
+            "vi": "Định nghĩa so sánh có nghĩa là để tìm những điểm giống nhau hoặc khác nhau giữa hai hoặc nhiều người hoặc sự vật."
+        },
+        {
+            "pos": "noun",
+            "en": "Comparison.",
+            "vi": "Sự so sánh."
+        },
+        {
+            "pos": "idiom",
+            "en": "compare notes  To exchange ideas, views, or opinions.",
+            "vi": "so sánh các ghi chú Để trao đổi ý kiến, quan điểm hoặc ý kiến."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't compare you to Josh.",
+            "vi": "Tôi không so sánh bạn với Josh."
+        },
+        {
+            "en": "Check her purse for something she wrote and compare it.",
+            "vi": "Kiểm tra ví của cô ấy xem cô ấy đã viết gì và so sánh nó."
+        }
+    ],
+    "words_form": [
+        "compared",
+        "compares",
+        "comparing"
+    ],
+    "meaning_vi": "so sánh"
+}

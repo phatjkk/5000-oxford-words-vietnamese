@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɪnˈfɔrs/",
+        "/ɛnˈfɔrs/"
+    ],
+    "synonyms": [
+        "require",
+        "compel",
+        "exact",
+        "stress",
+        "disregard"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To bring about or impose by force.",
+            "vi": "Để thực hiện hoặc áp đặt bằng vũ lực."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "All attempts to enforce the British commercial regulations were ineffectual.",
+            "vi": "Mọi nỗ lực nhằm thực thi các quy định thương mại của Anh đều không hiệu quả."
+        },
+        {
+            "en": "According to law military service is obligatory, but the government has been unable to enforce it.",
+            "vi": "Theo luật, nghĩa vụ quân sự là bắt buộc, nhưng chính phủ đã không thể thực thi."
+        }
+    ],
+    "words_form": [
+        "enforced",
+        "enforces",
+        "enforcing"
+    ],
+    "meaning_vi": "thi hành"
+}

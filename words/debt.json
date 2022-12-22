@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/dɛt/"
+    ],
+    "synonyms": [
+        "debit",
+        "beholden",
+        "arrearage",
+        "mortgage",
+        "obligation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Debt is defined as owing money, owed money that is past due or the feeling as if you owe someone something.",
+            "vi": "Nợ được định nghĩa là nợ tiền, nợ tiền đã quá hạn hoặc cảm giác như thể bạn nợ ai đó điều gì đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "be in someone's debt  to be indebted, obligated, or beholden to someone",
+            "vi": "mắc nợ ai đó là mắc nợ, có nghĩa vụ, hoặc có trách nhiệm với ai đó"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Your debt is paid.",
+            "vi": "Nợ của bạn đã được thanh toán."
+        },
+        {
+            "en": "The debt was incurred before I took over.",
+            "vi": "Khoản nợ đã phát sinh trước khi tôi tiếp quản."
+        }
+    ],
+    "words_form": [
+        "debts"
+    ],
+    "meaning_vi": "món nợ; khoản nợ"
+}

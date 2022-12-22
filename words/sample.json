@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈsæmpəl/"
+    ],
+    "synonyms": [
+        "test",
+        "example",
+        "examine",
+        "prototype",
+        "representation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(statistics) A set of data or elements drawn from a larger population and analyzed to estimate the characteristics of that population.",
+            "vi": "(thống kê) Một tập hợp dữ liệu hoặc các yếu tố được rút ra từ một quần thể lớn hơn và được phân tích để ước tính các đặc điểm của quần thể đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To take a sample or samples of, as for testing quality.",
+            "vi": "Để lấy mẫu hoặc các mẫu để kiểm tra chất lượng."
+        },
+        {
+            "pos": "initialism",
+            "en": "(emergency medicine) Initialism of signs and symptoms, allergies, medications, past pertinent history, last oral intake, events leading to present illness.",
+            "vi": "(thuốc cấp cứu) Ban đầu của các dấu hiệu và triệu chứng, dị ứng, thuốc, tiền sử thích hợp trong quá khứ, lần uống gần đây nhất, các sự kiện dẫn đến bệnh hiện tại."
+        },
+        {
+            "pos": "adjective",
+            "en": "Serving as a representative or example.",
+            "vi": "Phục vụ như một đại diện hoặc ví dụ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They probably got my blood sample mixed up.",
+            "vi": "Có thể họ đã trộn mẫu máu của tôi."
+        },
+        {
+            "en": "Tests of a sample supplied by Messrs.",
+            "vi": "Các thử nghiệm của một mẫu do Messrs cung cấp."
+        }
+    ],
+    "words_form": [
+        "sampled",
+        "samples",
+        "sampling"
+    ],
+    "meaning_vi": "mẫu vật"
+}

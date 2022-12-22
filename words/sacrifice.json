@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈsækrəˌfaɪs/"
+    ],
+    "synonyms": [
+        "oblation",
+        "give up",
+        "surrender",
+        "renounce",
+        "discount"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To sell or give away at a loss.",
+            "vi": "Bán hoặc cho đi khi bị thua lỗ."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a sacrifice is an offering or a giving up of something.",
+            "vi": "Định nghĩa của một sự hy sinh là một sự dâng hiến hoặc từ bỏ một thứ gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I admire the effort and sacrifice you put into it.",
+            "vi": "Tôi ngưỡng mộ nỗ lực và sự hy sinh mà bạn bỏ ra."
+        },
+        {
+            "en": "This sacrifice was the least he could do for his friend.",
+            "vi": "Sự hy sinh này là điều ít nhất anh có thể làm cho bạn mình."
+        }
+    ],
+    "words_form": [
+        "sacrificed",
+        "sacrifices",
+        "sacrificing"
+    ],
+    "meaning_vi": "sự hy sinh"
+}

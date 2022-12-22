@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/məˈtɪriəl/"
+    ],
+    "synonyms": [
+        "substance",
+        "palpable",
+        "tangible",
+        "body",
+        "stock"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The substance or substances out of which a thing is or can be made.",
+            "vi": "Chất hoặc các chất từ ​​đó một vật được hoặc có thể được tạo ra."
+        },
+        {
+            "pos": "adjective",
+            "en": "Significant.",
+            "vi": "Có ý nghĩa."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To form from matter; to materialize.",
+            "vi": "(lỗi thời) Để hình thành từ vật chất; để hiện thực hóa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "All scientific material from the past is making its way online.",
+            "vi": "Tất cả các tài liệu khoa học từ trước đến nay đều được đưa lên mạng."
+        },
+        {
+            "en": "She collected a handful of the material in modest protest.",
+            "vi": "Cô thu thập một số tài liệu trong sự phản đối khiêm tốn."
+        }
+    ],
+    "words_form": [
+        "materials"
+    ],
+    "meaning_vi": "vật chất"
+}

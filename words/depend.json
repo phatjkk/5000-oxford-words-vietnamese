@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/dəˈpɛnd/"
+    ],
+    "synonyms": [
+        "rely",
+        "depends",
+        "calculable",
+        "rest",
+        "bank"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To depend is defined as to be influenced by or to rely on.",
+            "vi": "Phụ thuộc được định nghĩa là chịu ảnh hưởng của hoặc dựa vào."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If I need any help, I can always depend on Josh.",
+            "vi": "Nếu tôi cần bất kỳ sự giúp đỡ nào, tôi luôn có thể phụ thuộc vào Josh."
+        },
+        {
+            "en": "Do not depend on the putty.",
+            "vi": "Đừng phụ thuộc vào bột bả."
+        }
+    ],
+    "words_form": [
+        "depended",
+        "depends"
+    ],
+    "meaning_vi": "tùy theo"
+}

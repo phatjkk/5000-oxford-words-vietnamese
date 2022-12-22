@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/wɪrd/"
+    ],
+    "synonyms": [
+        "mysterious",
+        "strange",
+        "bizarre",
+        "peculiar",
+        "abnormal"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of weird is relating to the supernatural or strange or unconventional.",
+            "vi": "Định nghĩa của kỳ lạ là liên quan đến siêu nhiên hoặc kỳ lạ hoặc độc đáo."
+        },
+        {
+            "pos": "verb",
+            "en": "(slang) To experience or cause to experience an odd, unusual, and sometimes uneasy sensation. Often used with out.",
+            "vi": "(tiếng lóng) Để trải nghiệm hoặc gây ra cảm giác kỳ lạ, bất thường và đôi khi không thoải mái. Thường được sử dụng với ra ngoài."
+        },
+        {
+            "pos": "noun",
+            "en": "Fate; destiny.",
+            "vi": "Định mệnh; vận mạng."
+        },
+        {
+            "pos": "idiom",
+            "en": "weird out  to be or cause to be overwhelmed with the bizarre aspects of an experience",
+            "vi": "kỳ lạ hoặc khiến bạn bị choáng ngợp với những khía cạnh kỳ lạ của một trải nghiệm"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's weird talking to him.",
+            "vi": "Thật kỳ lạ khi nói chuyện với anh ấy."
+        },
+        {
+            "en": "Something weird going on here.",
+            "vi": "Có điều gì đó kỳ lạ đang xảy ra ở đây."
+        }
+    ],
+    "words_form": [
+        "weirded",
+        "weirdest",
+        "weirds"
+    ],
+    "meaning_vi": "kỳ dị"
+}

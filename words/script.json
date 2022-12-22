@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/skrɪpt/"
+    ],
+    "synonyms": [
+        "cursive",
+        "dialogue",
+        "handwriting",
+        "book",
+        "writing"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Script means handwriting, handwriting with connected letters or a printed typeface that is connected like handwriting.",
+            "vi": "Script có nghĩa là chữ viết tay, chữ viết tay với các chữ cái được kết nối hoặc một kiểu chữ in được kết nối giống như chữ viết tay."
+        },
+        {
+            "pos": "verb",
+            "en": "To write the script for (a film, etc.)",
+            "vi": "Để viết kịch bản cho (một bộ phim, v.v.)"
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Scripture.",
+            "vi": "Kinh thánh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In seconds a small script appeared.",
+            "vi": "Trong vài giây, một kịch bản nhỏ xuất hiện."
+        },
+        {
+            "en": "She had rehearsed her script earlier, but now the words evaded her.",
+            "vi": "Cô ấy đã tập lại kịch bản của mình trước đó, nhưng bây giờ những lời nói đó lảng tránh cô ấy."
+        }
+    ],
+    "words_form": [
+        "scripted",
+        "scripting",
+        "scripts"
+    ],
+    "meaning_vi": "kịch bản"
+}

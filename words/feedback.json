@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈfidˌbæk/"
+    ],
+    "synonyms": [
+        "self-assessment",
+        "guidance",
+        "questionnaire",
+        "advice",
+        "information"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(elec.) The transfer of part of the output of an active circuit or device back to the input, either as an unwanted effect or in an intentional use, as to reduce distortion.",
+            "vi": "(elec.) Việc chuyển một phần đầu ra của mạch hoặc thiết bị đang hoạt động trở lại đầu vào, dưới dạng tác động không mong muốn hoặc sử dụng có chủ đích, để giảm biến dạng."
+        },
+        {
+            "pos": "verb",
+            "en": "To convey by means of specialized communications channel.",
+            "vi": "Chuyển tải bằng các kênh thông tin chuyên biệt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We appreciate all feedback from our customers.",
+            "vi": "Chúng tôi đánh giá cao tất cả các phản hồi từ khách hàng của chúng tôi."
+        },
+        {
+            "en": "Secondly the clouds, which have a high albedo, can create a negative feedback helping to cool the forest area.",
+            "vi": "Thứ hai, những đám mây có độ cao có thể tạo ra phản hồi tiêu cực giúp làm mát khu vực rừng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "phản hồi"
+}

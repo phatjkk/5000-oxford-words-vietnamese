@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˈprəʊsɛsɪŋ/"
+    ],
+    "synonyms": [
+        "clarification",
+        "cleaning",
+        "distillation",
+        "purification",
+        "rarefaction"
+    ],
+    "meaning": [
+        {
+            "pos": "",
+            "en": "Manipulating data within the computer. For an explanation of how the computer processes data, see computer and review \"The 3 C's.\" \"Processing\" is appended to a variety of terms, but the word itself always implies \"performing\" or \"doing work\" by means of a computer or computer-based device. See centralized processing, distributed processing, batch processing, transaction processing and multiprocessing.",
+            "vi": "Một người đã giải quyết một vấn đề không trực tiếp liên quan đến vấn đề."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of taking something through a set of prescribed procedures.",
+            "vi": "Tiền thu được được định nghĩa là lợi nhuận."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of process.",
+            "vi": "Tiền hoặc lợi nhuận thu được từ việc bán hàng, liên doanh kinh doanh, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Today they had conversed via a word processing program.",
+            "vi": "Hôm nay họ đã trò chuyện qua một chương trình xử lý văn bản."
+        },
+        {
+            "en": "Processing what happened took her adrenaline-fused mind a long moment.",
+            "vi": "Xử lý những gì đã xảy ra khiến tâm trí cô hợp nhất với adrenaline mất một lúc lâu."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "",
+            "en": "Manipulating data within the computer. For an explanation of how the computer processes data, see computer and review \"The 3 C's.\" \"Processing\" is appended to a variety of terms, but the word itself always implies \"performing\" or \"doing work\" by means of a computer or computer-based device. See centralized processing, distributed processing, batch processing, transaction processing and multiprocessing.",
+            "vi": "Một người đã giải quyết một vấn đề không trực tiếp liên quan đến vấn đề."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of taking something through a set of prescribed procedures.",
+            "vi": "Tiền thu được được định nghĩa là lợi nhuận."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of process.",
+            "vi": "Tiền hoặc lợi nhuận thu được từ việc bán hàng, liên doanh kinh doanh, v.v."
+        }
+    ]
+}

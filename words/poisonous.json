@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈpɔɪz(ə)nəs/"
+    ],
+    "synonyms": [
+        "toxic",
+        "deadly",
+        "venomous",
+        "noxious",
+        "dangerous"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Capable of injuring or killing by or as by poison; containing, or having the effects of, a poison; toxic; venomous.",
+            "vi": "Có khả năng gây thương tích hoặc giết chết bởi hoặc bằng chất độc; chứa, hoặc có tác dụng của một chất độc; chất độc; có nọc độc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is probably a poisonous plant, belonging, as it does, to a dangerous cohort.",
+            "vi": "Nó có lẽ là một loài thực vật độc, giống như nó, thuộc một nhóm nguy hiểm."
+        },
+        {
+            "en": "In tropical waters a sea snake is found, which, though very poisonous, rarely bites.",
+            "vi": "Ở các vùng biển nhiệt đới, một loài rắn biển được tìm thấy, mặc dù rất độc nhưng hiếm khi cắn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "độc"
+}

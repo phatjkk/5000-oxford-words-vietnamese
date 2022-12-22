@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/stɛp/"
+    ],
+    "synonyms": [
+        "tread",
+        "measure",
+        "advance",
+        "stair",
+        "footstep"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A degree in progress or a grade or rank in a scale.",
+            "vi": "Một mức độ đang tiến bộ hoặc một điểm hoặc xếp hạng trong thang điểm."
+        },
+        {
+            "pos": "verb",
+            "en": "To put or set (the foot) down.",
+            "vi": "Để đặt hoặc đặt (chân) xuống."
+        },
+        {
+            "pos": "affix",
+            "en": "Related through the remarriage of a parent.",
+            "vi": "Liên quan đến việc tái hôn của cha mẹ."
+        },
+        {
+            "pos": "prefix",
+            "en": "A prefix used before father, mother, brother, sister, son, daughter, child, and so forth, to indicate that the person being identified is not a blood relative but is related through the marriage of a parent.",
+            "vi": "Tiền tố được sử dụng trước cha, mẹ, anh, chị, em, con trai, con gái, con cái, v.v., để chỉ ra rằng người được xác định không phải là họ hàng cùng huyết thống nhưng có quan hệ huyết thống thông qua cuộc hôn nhân của cha mẹ."
+        },
+        {
+            "pos": "idiom",
+            "en": "in step  Moving in rhythm. In conformity with one's environment: In step with the times.",
+            "vi": "trong bước Chuyển động theo nhịp điệu. Phù hợp với môi trường của một người: Bước với thời đại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She faced the speaker and took a step back.",
+            "vi": "Cô ấy đối mặt với người nói và lùi lại một bước."
+        },
+        {
+            "en": "She took a quick step back.",
+            "vi": "Cô lùi lại một bước nhanh chóng."
+        }
+    ],
+    "words_form": [
+        "stepped",
+        "stepping",
+        "steps"
+    ],
+    "meaning_vi": "bậc thang"
+}

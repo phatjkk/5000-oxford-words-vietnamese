@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kəˈnɛkt/"
+    ],
+    "synonyms": [
+        "connect",
+        "join",
+        "coalesce",
+        "link-up",
+        "combine"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To join or be joined.",
+            "vi": "Để tham gia hoặc được tham gia."
+        },
+        {
+            "pos": "idiom",
+            "en": "connect the dots  To draw connecting lines between a seemingly random arrangement of numbered dots so as to produce a picture or design. To draw logical inferences connecting items of information to reveal something previously hidden or unknown.",
+            "vi": "kết nối các dấu chấm Để vẽ các đường kết nối giữa một sự sắp xếp ngẫu nhiên của các chấm được đánh số để tạo ra một bức tranh hoặc thiết kế. Để rút ra các suy luận logic kết nối các mục thông tin để tiết lộ một cái gì đó trước đây bị che giấu hoặc chưa biết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Steam tramways connect it S.E.",
+            "vi": "Tàu điện hơi nước kết nối nó SE"
+        },
+        {
+            "en": "She doesn't need to connect the dots back to me.",
+            "vi": "Cô ấy không cần kết nối các dấu chấm lại với tôi."
+        }
+    ],
+    "words_form": [
+        "connected",
+        "connecting",
+        "connects"
+    ],
+    "meaning_vi": "kết nối"
+}

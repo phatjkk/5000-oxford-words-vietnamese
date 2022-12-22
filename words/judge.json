@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/dʒədʒ/"
+    ],
+    "synonyms": [
+        "referee",
+        "accusatorial",
+        "conclude",
+        "resolve",
+        "gauge"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To act or decide as a judge.",
+            "vi": "Để hành động hoặc quyết định với tư cách là một thẩm phán."
+        },
+        {
+            "pos": "noun",
+            "en": "(jewish history) Any of the governing leaders of the Israelites after Joshua and before the time of the kings.",
+            "vi": "(lịch sử jewish) Bất kỳ nhà lãnh đạo cai trị nào của dân Y-sơ-ra-ên sau Giô-suê và trước thời các vua."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I do not allow myself to judge him and would not have others do so.",
+            "vi": "Tôi không cho phép mình đánh giá anh ấy và sẽ không để người khác làm như vậy."
+        },
+        {
+            "en": "The judge told us not to discuss the case.",
+            "vi": "Thẩm phán bảo chúng tôi không thảo luận về vụ việc."
+        }
+    ],
+    "words_form": [
+        "judged",
+        "judges",
+        "judging"
+    ],
+    "meaning_vi": "thẩm phán"
+}

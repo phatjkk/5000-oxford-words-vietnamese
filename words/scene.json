@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/sin/"
+    ],
+    "synonyms": [
+        "picture",
+        "commotion",
+        "incident",
+        "display",
+        "see"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a scene is a place where something occurs or a setting in a story.",
+            "vi": "Định nghĩa của một cảnh là một nơi mà một cái gì đó xảy ra hoặc một bối cảnh trong một câu chuyện."
+        },
+        {
+            "pos": "verb",
+            "en": "To exhibit as a scene; to make a scene of; to display.",
+            "vi": "Để trưng bày làm cảnh; để làm cho một cảnh của; để hiển thị."
+        },
+        {
+            "pos": "idiom",
+            "en": "behind the scenes  Backstage. Out of public view; in secret.",
+            "vi": "hậu trường Hậu trường. Ngoài tầm nhìn của công chúng; trong bí mật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The entire scene was surreal.",
+            "vi": "Toàn bộ khung cảnh là siêu thực."
+        },
+        {
+            "en": "We won't go anywhere near the crime scene; ever.",
+            "vi": "Chúng tôi sẽ không đi bất cứ đâu gần hiện trường vụ án; bao giờ."
+        }
+    ],
+    "words_form": [
+        "scenes"
+    ],
+    "meaning_vi": "cảnh"
+}

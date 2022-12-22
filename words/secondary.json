@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈsɛkənˌdɛri/"
+    ],
+    "synonyms": [
+        "consequent",
+        "dependent",
+        "developed",
+        "proximate",
+        "subaltern"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of secondary is below the first, or coming from something original.",
+            "vi": "Định nghĩa về thứ cấp nằm dưới định nghĩa thứ nhất, hoặc đến từ một thứ gì đó nguyên bản."
+        },
+        {
+            "pos": "noun",
+            "en": "One that acts in an auxiliary, subordinate, or inferior capacity.",
+            "vi": "Một hành động với vai trò phụ trợ, cấp dưới hoặc năng lực kém hơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Private secondary schools are subjected to state inspection.",
+            "vi": "Các trường trung học tư thục phải chịu sự kiểm tra của nhà nước."
+        },
+        {
+            "en": "It had ancestors in a flourishing condition during the Secondary epoch.",
+            "vi": "Nó có tổ tiên trong tình trạng hưng thịnh trong Kỷ nguyên thứ cấp."
+        }
+    ],
+    "words_form": [
+        "secondaries"
+    ],
+    "meaning_vi": "thứ hai"
+}

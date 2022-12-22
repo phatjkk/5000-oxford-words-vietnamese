@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/tʃɛst/"
+    ],
+    "synonyms": [
+        "treasury",
+        "crate",
+        "case",
+        "strongbox",
+        "cabinet"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Chest of drawers.",
+            "vi": "Ngăn kéo."
+        },
+        {
+            "pos": "verb",
+            "en": "To hit with one's chest (front of one's body)",
+            "vi": "Đánh vào ngực (phía trước cơ thể)"
+        },
+        {
+            "pos": "idiom",
+            "en": "get (something) off (one's) chest  To vent one's pent-up feelings.",
+            "vi": "lấy (cái gì đó) ra khỏi lồng ngực của (một người) Để trút bỏ những cảm xúc dồn nén của một người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His broad chest and shoulders looked powerful.",
+            "vi": "Ngực và vai rộng của anh ta trông rất mạnh mẽ."
+        },
+        {
+            "en": "His arms were folded across his chest, one leg thrown carelessly over the other.",
+            "vi": "Hai tay khoanh trước ngực, một chân ném qua chân kia một cách bất cẩn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ngực"
+}

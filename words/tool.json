@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/tul/"
+    ],
+    "synonyms": [
+        "instrument",
+        "vehicle",
+        "accessory",
+        "device",
+        "mechanism"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a tool is a device with a specific purpose.",
+            "vi": "Định nghĩa của một công cụ là một thiết bị với một mục đích cụ thể."
+        },
+        {
+            "pos": "verb",
+            "en": "To form, work, or decorate with a tool.",
+            "vi": "Để tạo, làm việc hoặc trang trí bằng một công cụ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The artists tool, be it brush or burin.",
+            "vi": "Công cụ nghệ sĩ, có thể là bàn chải hoặc burin."
+        },
+        {
+            "en": "Now we knew we possessed an incredible tool at our fingertips.",
+            "vi": "Bây giờ chúng tôi biết rằng chúng tôi sở hữu một công cụ đáng kinh ngạc trong tầm tay của chúng tôi."
+        }
+    ],
+    "words_form": [
+        "tooled",
+        "tooling",
+        "tools"
+    ],
+    "meaning_vi": "dụng cụ"
+}

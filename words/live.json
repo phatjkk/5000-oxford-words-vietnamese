@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/lɪv/"
+    ],
+    "synonyms": [
+        "unrehearsed",
+        "dwell",
+        "survive",
+        "alive",
+        "real"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To support oneself; subsist.",
+            "vi": "Để hỗ trợ bản thân; tồn tại."
+        },
+        {
+            "pos": "adjective",
+            "en": "Having life; alive.",
+            "vi": "Có cuộc sống; còn sống."
+        },
+        {
+            "pos": "adverb",
+            "en": "At, during, or from the time of actual occurrence or performance.",
+            "vi": "Tại, trong hoặc từ thời điểm xảy ra hoặc hoạt động thực tế."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) live it up  To engage in festive pleasures or extravagances.",
+            "vi": "(tiếng lóng) sống hết mình Để tham gia vào các thú vui lễ hội hoặc sự xa hoa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I live with my mother and daughter.",
+            "vi": "Tôi sống với mẹ con tôi."
+        },
+        {
+            "en": "You're trying to live like your parents, Carmen.",
+            "vi": "Bạn đang cố gắng sống như cha mẹ mình, Carmen."
+        }
+    ],
+    "words_form": [
+        "lived",
+        "lives",
+        "living"
+    ],
+    "meaning_vi": "trực tiếp"
+}

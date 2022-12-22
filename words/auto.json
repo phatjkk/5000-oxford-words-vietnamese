@@ -1,0 +1,97 @@
+{
+    "spelling": [
+        "/ˈɔːtəʊ/"
+    ],
+    "synonyms": [
+        "car",
+        "passenger car",
+        "vehicle",
+        "wheels",
+        "motor car"
+    ],
+    "meaning": [
+        {
+            "pos": "prefix",
+            "en": "Self; same.",
+            "vi": "Giết người hoặc giết người vì lý do chính trị."
+        },
+        {
+            "pos": "affix",
+            "en": "Automatic.",
+            "vi": "Một cái gì đó được tuyên bố hoặc tuyên bố một cách tích cực, thường không có sự hỗ trợ hoặc cố gắng chứng minh."
+        },
+        {
+            "pos": "verb",
+            "en": "To go by or ride in an automobile.",
+            "vi": "Hành động tham dự."
+        },
+        {
+            "pos": "noun",
+            "en": "An automobile.",
+            "vi": "Bản thân; giống nhau."
+        },
+        {
+            "pos": "adjective",
+            "en": "Automatic.",
+            "vi": "Tự động."
+        },
+        {
+            "pos": "",
+            "en": "A prefix meaning “oneself,” as in autoimmune, producing antibodies or immunity against oneself. It also means “by itself, automatic,” as in autonomic, governing by itself.",
+            "vi": "Đi bằng hoặc đi trên ô tô."
+        },
+        {
+            "pos": "pronoun",
+            "en": "An unincorporated community in West Virginia.",
+            "vi": "Một chiếc xe hơi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The auto charger was in the car, but she had a plug-in type at home.",
+            "vi": "Bộ sạc tự động ở trên xe, nhưng cô ấy có loại cắm ở nhà."
+        },
+        {
+            "en": "Now it would be a trip to Fayetteville so the rental agency could verify the cause of damage - and then a call to her auto insurance company.",
+            "vi": "Bây giờ đó sẽ là một chuyến đi đến Fayetteville để đại lý cho thuê có thể xác minh nguyên nhân thiệt hại - và sau đó là một cuộc gọi đến công ty bảo hiểm ô tô của cô."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "prefix",
+            "en": "Self; same.",
+            "vi": "Giết người hoặc giết người vì lý do chính trị."
+        },
+        {
+            "pos": "affix",
+            "en": "Automatic.",
+            "vi": "Một cái gì đó được tuyên bố hoặc tuyên bố một cách tích cực, thường không có sự hỗ trợ hoặc cố gắng chứng minh."
+        },
+        {
+            "pos": "verb",
+            "en": "To go by or ride in an automobile.",
+            "vi": "Hành động tham dự."
+        },
+        {
+            "pos": "noun",
+            "en": "An automobile.",
+            "vi": "Bản thân; giống nhau."
+        },
+        {
+            "pos": "adjective",
+            "en": "Automatic.",
+            "vi": "Tự động."
+        },
+        {
+            "pos": "",
+            "en": "A prefix meaning “oneself,” as in autoimmune, producing antibodies or immunity against oneself. It also means “by itself, automatic,” as in autonomic, governing by itself.",
+            "vi": "Đi bằng hoặc đi trên ô tô."
+        },
+        {
+            "pos": "pronoun",
+            "en": "An unincorporated community in West Virginia.",
+            "vi": "Một chiếc xe hơi."
+        }
+    ]
+}

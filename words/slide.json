@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/slaɪd/"
+    ],
+    "synonyms": [
+        "skid",
+        "slip",
+        "skate",
+        "toboggan",
+        "push"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A fall of a mass of rock, earth, or snow down a slope; an avalanche or landslide.",
+            "vi": "Một khối đá, đất, hoặc tuyết rơi xuống dốc; tuyết lở hoặc lở đất."
+        },
+        {
+            "pos": "verb",
+            "en": "To move in this manner on a sled, the feet, etc. in contact with a smooth surface, esp. snow or ice.",
+            "vi": "Để di chuyển theo cách này trên xe trượt, chân, v.v. tiếp xúc với bề mặt nhẵn, đặc biệt. tuyết hoặc băng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Bottleneck.",
+            "vi": "Nút cổ chai."
+        },
+        {
+            "pos": "idiom",
+            "en": "let something slide  to fail to take some expected or required action on something",
+            "vi": "để một cái gì đó trượt để không thực hiện một số hành động được mong đợi hoặc bắt buộc đối với một cái gì đó"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Would she slide back into that lost mode?",
+            "vi": "Liệu cô ấy có trượt trở lại chế độ đã mất đó không?"
+        },
+        {
+            "en": "She started to slide from the horse.",
+            "vi": "Cô ấy bắt đầu trượt khỏi con ngựa."
+        }
+    ],
+    "words_form": [
+        "slid",
+        "slides",
+        "sliding"
+    ],
+    "meaning_vi": "trượt"
+}

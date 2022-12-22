@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɑrmz/"
+    ],
+    "synonyms": [
+        "weapons",
+        "missiles",
+        "armament",
+        "armor",
+        "firearms"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(plural only) Weapons.",
+            "vi": "(chỉ số nhiều) Vũ khí."
+        },
+        {
+            "pos": "verb",
+            "en": "Third-person singular simple present indicative form of arm.",
+            "vi": "Ngôi thứ ba số ít, hiện tại đơn giản dạng biểu thị cánh tay."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She clamped her arms around his waist again.",
+            "vi": "Cô lại vòng tay qua eo anh."
+        },
+        {
+            "en": "The Prussians are up in arms now.",
+            "vi": "Quân Phổ đang cầm cự."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "cánh tay"
+}

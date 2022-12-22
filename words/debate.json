@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈbeɪt/"
+    ],
+    "synonyms": [
+        "argue",
+        "refute",
+        "argumentation",
+        "discuss",
+        "match"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a debate is a formal discussion of the opposing sides of a specific subject or a formal contest of arguments.",
+            "vi": "Định nghĩa về một cuộc tranh luận là một cuộc thảo luận chính thức về các mặt đối lập của một chủ đề cụ thể hoặc một cuộc tranh luận chính thức."
+        },
+        {
+            "pos": "verb",
+            "en": "To discuss or argue (a question, for example) formally.",
+            "vi": "Để thảo luận hoặc tranh luận (một câu hỏi chẳng hạn) một cách chính thức."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "See you at the debate tomorrow.",
+            "vi": "Hẹn gặp lại các bạn trong buổi tranh luận ngày mai."
+        },
+        {
+            "en": "This debate business was no problem when I didn't have an opponent.",
+            "vi": "Cuộc tranh luận kinh doanh này không có vấn đề gì khi tôi không có đối thủ."
+        }
+    ],
+    "words_form": [
+        "debated",
+        "debates",
+        "debating"
+    ],
+    "meaning_vi": "tranh luận"
+}

@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/peɪ/"
+    ],
+    "synonyms": [
+        "return",
+        "proceeds",
+        "satisfaction",
+        "pay off",
+        "wage"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To pay is defined as to give someone what is due, usually money, for goods or services.",
+            "vi": "Trả tiền được định nghĩa là để cung cấp cho ai đó những gì đến hạn, thường là tiền, hàng hóa hoặc dịch vụ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, giving, or receiving payments.",
+            "vi": "Của, liên quan đến, cho hoặc nhận các khoản thanh toán."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of paying or state of being paid.",
+            "vi": "Hành động trả tiền hoặc trạng thái được trả tiền."
+        },
+        {
+            "pos": "idiom",
+            "en": "pay (one's) dues  To earn a given right or position through hard work, long-term experience, or suffering: She paid her dues in small-town theaters before being cast in a Broadway play.",
+            "vi": "trả phí (của một người) Để kiếm được một quyền hoặc một vị trí nhất định thông qua làm việc chăm chỉ, kinh nghiệm lâu năm hoặc chịu đựng: Cô ấy đã trả hội phí của mình tại các rạp hát ở thị trấn nhỏ trước khi được chọn vào vở kịch Broadway."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "How much would you pay for that pan today?",
+            "vi": "Bạn sẽ trả bao nhiêu cho chiếc chảo hôm nay?"
+        },
+        {
+            "en": "She's working at the hospital to pay for her education.",
+            "vi": "Cô ấy đang làm việc tại bệnh viện để trang trải chi phí học tập."
+        }
+    ],
+    "words_form": [
+        "paid",
+        "payed",
+        "paying",
+        "pays"
+    ],
+    "meaning_vi": "trả"
+}

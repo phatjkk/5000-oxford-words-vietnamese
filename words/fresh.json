@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/frɛʃ/"
+    ],
+    "synonyms": [
+        "crisp",
+        "pure",
+        "new",
+        "refreshing",
+        "freshen"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(informal) Bold; impertinent; impudent.",
+            "vi": "(không chính thức) In đậm; không thích hợp; trơ tráo."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a fresh manner.",
+            "vi": "Một cách tươi mới."
+        },
+        {
+            "pos": "noun",
+            "en": "The early part.",
+            "vi": "Phần đầu."
+        },
+        {
+            "pos": "verb",
+            "en": "To make or become fresh.",
+            "vi": "Để làm cho hoặc trở nên tươi mới."
+        },
+        {
+            "pos": "idiom",
+            "en": "fresh out (of)  having just sold or used up the last one or part (of)",
+            "vi": "tươi mới vừa bán hoặc đã sử dụng hết phần cuối cùng hoặc một phần"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I could smell fresh muffins.",
+            "vi": "Tôi có thể ngửi thấy mùi bánh nướng xốp mới."
+        },
+        {
+            "en": "A little fresh air might clear some of the cobwebs.",
+            "vi": "Một chút không khí trong lành có thể làm sạch một số mạng nhện."
+        }
+    ],
+    "words_form": [
+        "freshest"
+    ],
+    "meaning_vi": "tươi"
+}

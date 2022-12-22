@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/tən/"
+    ],
+    "synonyms": [
+        "metric-ton",
+        "long-ton",
+        "weight",
+        "short-ton",
+        "net ton"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Style; vogue.",
+            "vi": "Phong cách; thịnh hành."
+        },
+        {
+            "pos": "initialism",
+            "en": "Threshold odor number.",
+            "vi": "Ngưỡng mùi số."
+        },
+        {
+            "pos": "suffix",
+            "en": "Place name suffix.",
+            "vi": "Hậu tố tên địa điểm."
+        },
+        {
+            "pos": "idiom",
+            "en": "the ton  fashionable society",
+            "vi": "xã hội thời trang tấn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He bought a ton of stuff.",
+            "vi": "Anh ấy đã mua rất nhiều thứ."
+        },
+        {
+            "en": "It was daylight, and there were a ton of people around.",
+            "vi": "Đó là ánh sáng ban ngày, và có rất nhiều người xung quanh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tấn"
+}

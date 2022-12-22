@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/əˈkædəmi/"
+    ],
+    "synonyms": [
+        "university",
+        "preparatory school",
+        "institute",
+        "association",
+        "council"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A school offering instruction in a special field.",
+            "vi": "Một trường học cung cấp hướng dẫn trong một lĩnh vực đặc biệt."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(classical studies, history) The school for advanced education founded by Plato; the garden where Plato taught. [First attested around 1350 to 1470.]",
+            "vi": "(nghiên cứu cổ điển, lịch sử) Trường giáo dục tiên tiến do Plato thành lập; khu vườn nơi Plato đã dạy. [Được chứng thực lần đầu vào khoảng 1350 đến 1470.]"
+        },
+        {
+            "pos": "idiom",
+            "en": "the Academy  the public park near Athens where Plato taught and founded a school for the study of philosophy this school Plato's followers or their philosophy the academic world",
+            "vi": "Học viện công viên công cộng gần Athens, nơi Plato đã dạy và thành lập một trường học để nghiên cứu triết học."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I am going to put you in the academy there.",
+            "vi": "Tôi sẽ đưa bạn vào học viện ở đó."
+        },
+        {
+            "en": "He entered the Naval Academy from New York in 1857, but resigned in March 1861.",
+            "vi": "Ông vào Học viện Hải quân từ New York năm 1857, nhưng từ chức vào tháng 3 năm 1861."
+        }
+    ],
+    "words_form": [
+        "academies"
+    ],
+    "meaning_vi": "học viện"
+}

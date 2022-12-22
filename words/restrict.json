@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈstrɪkt/"
+    ],
+    "synonyms": [
+        "limit",
+        "increase",
+        "limited",
+        "hamper",
+        "contract"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To prevent or prohibit beyond a certain limit or by restriction.",
+            "vi": "Để ngăn chặn hoặc cấm vượt quá một giới hạn nhất định hoặc hạn chế."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Restricted.",
+            "vi": "(lỗi thời) Bị hạn chế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He wasn't trying to restrict her activities.",
+            "vi": "Anh không cố gắng hạn chế các hoạt động của cô."
+        },
+        {
+            "en": "I just hate to see you restrict yourself because that's the way your parents lived.",
+            "vi": "Tôi chỉ ghét thấy bạn hạn chế bản thân bởi vì đó là cách mà cha mẹ bạn đã sống."
+        }
+    ],
+    "words_form": [
+        "restricted",
+        "restricting",
+        "restricts"
+    ],
+    "meaning_vi": "hạn chế"
+}

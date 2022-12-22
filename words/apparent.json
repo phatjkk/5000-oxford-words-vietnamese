@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/əˈpɛrənt/"
+    ],
+    "synonyms": [
+        "obvious",
+        "visible",
+        "patent",
+        "unequivocal",
+        "self-evident"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Appearing real or true without necessarily being so; seeming.",
+            "vi": "Xuất hiện thực hoặc đúng mà không nhất thiết phải như vậy; hình như."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was apparent by the look on Jackson's face.",
+            "vi": "Nó có thể thấy rõ qua vẻ mặt của Jackson."
+        },
+        {
+            "en": "In this way, she learns countless new expressions without any apparent effort.",
+            "vi": "Bằng cách này, cô ấy học được vô số cách diễn đạt mới mà không cần nỗ lực rõ ràng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "rõ ràng"
+}

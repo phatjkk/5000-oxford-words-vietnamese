@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/rɛr/"
+    ],
+    "synonyms": [
+        "uncommon",
+        "unique",
+        "exotic",
+        "scarce",
+        "limited"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Thin in density; rarefied.",
+            "vi": "Mật độ mỏng; hiếm hoi."
+        },
+        {
+            "pos": "verb",
+            "en": "(informal) To be eager, enthusiastic, etc.",
+            "vi": "(thân mật) Hăng hái, nhiệt tình, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You have a rare ability among our kind.",
+            "vi": "Bạn có một khả năng hiếm có trong số chúng ta."
+        },
+        {
+            "en": "He let a rare smile cross his face.",
+            "vi": "Anh nở một nụ cười hiếm hoi trên khuôn mặt."
+        }
+    ],
+    "words_form": [
+        "rared",
+        "rarer",
+        "rarest",
+        "raring"
+    ],
+    "meaning_vi": "hiếm hoi"
+}

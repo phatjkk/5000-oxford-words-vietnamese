@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈɪn(t)əɡrəl/",
+        "/ɪnˈtɛɡrəl/"
+    ],
+    "synonyms": [
+        "essential",
+        "requisite",
+        "fundamental",
+        "necessary",
+        "indispensable"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Necessary for completeness; essential.",
+            "vi": "Cần thiết cho sự hoàn chỉnh; thiết yếu."
+        },
+        {
+            "pos": "noun",
+            "en": "A complete unit; a whole.",
+            "vi": "Một đơn vị hoàn chỉnh; toàn bộ."
+        },
+        {
+            "pos": "initialism",
+            "en": "(space science, ESA) Initialism of INTErnational Gamma-Ray Astrophysics Laboratory. (a satellite of the European Space Agency)",
+            "vi": "(khoa học vũ trụ, ESA) Chủ nghĩa ban đầu của Phòng thí nghiệm Vật lý Thiên văn Tia Gamma INTErnational. (một vệ tinh của Cơ quan Vũ trụ Châu Âu)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It might be trivial, but it was an integral part of their marriage.",
+            "vi": "Nó có thể là tầm thường, nhưng nó là một phần không thể thiếu trong cuộc hôn nhân của họ."
+        },
+        {
+            "en": "This is the binomial theorem for a positive integral index.",
+            "vi": "Đây là định lý nhị thức cho một chỉ số tích phân dương."
+        }
+    ],
+    "words_form": [
+        "integrals"
+    ],
+    "meaning_vi": "không thể thiếu"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rəˈkwɛst/"
+    ],
+    "synonyms": [
+        "petition",
+        "prayer",
+        "request",
+        "importune",
+        "invitation"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Request means to ask for something.",
+            "vi": "Request có nghĩa là yêu cầu một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Request is defined as the act of asking for something or something you asked for.",
+            "vi": "Yêu cầu được định nghĩa là hành động yêu cầu một cái gì đó hoặc một cái gì đó mà bạn đã yêu cầu."
+        },
+        {
+            "pos": "idiom",
+            "en": "by request  In response to an expressed desire: We are offering these scarves for sale again by request.",
+            "vi": "theo yêu cầu Đáp lại mong muốn được bày tỏ: Chúng tôi đang cung cấp những chiếc khăn quàng cổ này để bán lại theo yêu cầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His request gave her an idea.",
+            "vi": "Yêu cầu của anh ấy đã cho cô ấy một ý tưởng."
+        },
+        {
+            "en": "Codes mingled with names and addresses in a request for medical assistance.",
+            "vi": "Các mã kết hợp với tên và địa chỉ trong yêu cầu hỗ trợ y tế."
+        }
+    ],
+    "words_form": [
+        "requested",
+        "requesting",
+        "requests"
+    ],
+    "meaning_vi": "yêu cầu"
+}

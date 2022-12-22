@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˌənˈkɑnʃəs/"
+    ],
+    "synonyms": [
+        "senseless",
+        "benumbed",
+        "torpid",
+        "lethargic",
+        "inanimate"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of unconscious is lacking awareness or done without realizing, or it is knocked-out, sleeping or comatose.",
+            "vi": "Định nghĩa của vô thức là thiếu nhận thức hoặc được thực hiện mà không nhận ra, hoặc nó bị đánh gục, ngủ hoặc hôn mê."
+        },
+        {
+            "pos": "noun",
+            "en": "The division of the mind in psychoanalytic theory containing elements of psychic makeup, such as memories or repressed desires, that are not subject to conscious perception or control but that often affect conscious thoughts and behavior.",
+            "vi": "Sự phân chia tâm trí trong lý thuyết phân tích tâm lý có chứa các yếu tố cấu thành từ tâm linh, chẳng hạn như ký ức hoặc ham muốn bị kìm nén, không chịu sự kiểm soát hoặc nhận thức có ý thức nhưng thường ảnh hưởng đến suy nghĩ và hành vi có ý thức."
+        },
+        {
+            "pos": "idiom",
+            "en": "the unconscious  the sum of all thoughts, memories, impulses, desires, feelings, etc. of which the individual is not conscious but which influence the emotions and behavior; that part of one's psyche which comprises repressed material of this nature",
+            "vi": "vô thức tổng hợp của tất cả những suy nghĩ, ký ức, xung động, mong muốn, cảm giác, v.v. mà cá nhân không có ý thức nhưng có ảnh hưởng đến cảm xúc và hành vi; đó là một phần trong tâm hồn của một người bao gồm vật chất bị kìm nén của bản chất này"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was unconscious and lay like a distorted corpse.",
+            "vi": "Anh ta bất tỉnh và nằm như một cái xác méo mó."
+        },
+        {
+            "en": "He was unconscious and pale.",
+            "vi": "Anh ấy đã bất tỉnh và xanh xao."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bất tỉnh"
+}

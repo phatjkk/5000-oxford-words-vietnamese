@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/pəb/"
+    ],
+    "synonyms": [
+        "public-house",
+        "saloon",
+        "taproom",
+        "tavern",
+        "pothouse"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition for pub is a place of business where a large selection of beer, ale, wine and cider are served along with a large selection of meals, appetizers and desserts. Short for Public House in England.",
+            "vi": "Định nghĩa cho quán rượu là một địa điểm kinh doanh nơi phục vụ nhiều loại bia, rượu bia, rượu vang và rượu táo cùng với một loạt các bữa ăn, món khai vị và món tráng miệng. Viết tắt của Public House ở Anh."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Public.",
+            "vi": "Công cộng."
+        },
+        {
+            "pos": "verb",
+            "en": "(intransitive) To go to one or more public houses.",
+            "vi": "(intransitive) Để đi đến một hoặc nhiều nhà công cộng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She searched the busy pub with her gaze.",
+            "vi": "Cô nhìn vào quán rượu bận rộn với ánh mắt của mình."
+        },
+        {
+            "en": "Instead, she started a third bowl of the soup and watched the pub fill with people.",
+            "vi": "Thay vào đó, cô bắt đầu ăn bát súp thứ ba và nhìn quán rượu chật kín người."
+        }
+    ],
+    "words_form": [
+        "pubs"
+    ],
+    "meaning_vi": "quán rượu"
+}

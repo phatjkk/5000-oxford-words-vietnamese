@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/wərd/"
+    ],
+    "synonyms": [
+        "term",
+        "name",
+        "advice",
+        "phrase",
+        "saying"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a word is a letter or group of letters that has meaning when spoken or written.",
+            "vi": "Định nghĩa của một từ là một chữ cái hoặc một nhóm chữ cái có nghĩa khi nói hoặc viết."
+        },
+        {
+            "pos": "verb",
+            "en": "To express in words.",
+            "vi": "Để diễn đạt bằng lời."
+        },
+        {
+            "pos": "interjection",
+            "en": "(slang) Used to express approval or an affirmative response to something. Sometimes used with up.",
+            "vi": "(tiếng lóng) Được sử dụng để bày tỏ sự tán thành hoặc một phản ứng khẳng định đối với điều gì đó. Đôi khi được sử dụng hết."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Drow.",
+            "vi": "Drow."
+        },
+        {
+            "pos": "idiom",
+            "en": "at a word  In immediate response.",
+            "vi": "tại một từ Đáp ứng ngay lập tức."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I just got word that my father had a heart attack.",
+            "vi": "Tôi vừa nhận được tin rằng bố tôi bị đau tim."
+        },
+        {
+            "en": "\"Love,\" he said, as if the one word were a full explanation.",
+            "vi": "“Tình yêu,” anh nói, như thể một từ là một lời giải thích đầy đủ."
+        }
+    ],
+    "words_form": [
+        "worded",
+        "words"
+    ],
+    "meaning_vi": "từ ngữ"
+}

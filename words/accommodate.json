@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/əˈkɑməˌdeɪt/"
+    ],
+    "synonyms": [
+        "help",
+        "indulge",
+        "serve",
+        "suit",
+        "favor"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of accommodate is to provide a place to stay.",
+            "vi": "Định nghĩa của điều chỉnh là cung cấp một nơi để ở."
+        },
+        {
+            "pos": "adjective",
+            "en": "(archaic) Suitable; fit; adapted; as, means accommodate to end. - John Tillotson.",
+            "vi": "(cổ) Thích hợp; Phù hợp; thích nghi; như, có nghĩa là thích ứng để kết thúc. - John Tillotson."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I only have one sleeping bag, and it will only accommodate one person.",
+            "vi": "Tôi chỉ có một túi ngủ, và nó sẽ chỉ chứa được một người."
+        },
+        {
+            "en": "Does the hotel accommodate pets?",
+            "vi": "Khách sạn có phục vụ vật nuôi không?"
+        }
+    ],
+    "words_form": [
+        "accommodated",
+        "accommodates",
+        "accommodating"
+    ],
+    "meaning_vi": "chứa"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈkɑmɪk/"
+    ],
+    "synonyms": [
+        "funny",
+        "humorous",
+        "laughable",
+        "ironic",
+        "comedian"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of or relating to comic strips.",
+            "vi": "Của hoặc liên quan đến các dải truyện tranh."
+        },
+        {
+            "pos": "noun",
+            "en": "A cartoon story, a graphic novel.",
+            "vi": "Một câu chuyện hoạt hình, một tiểu thuyết đồ họa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Dean handed the phone to his wife as the light went on like in the comic books—a flashing bulb of inspiration.",
+            "vi": "Dean đưa điện thoại cho vợ khi đèn bật sáng như trong truyện tranh - một bóng đèn nhấp nháy đầy cảm hứng."
+        },
+        {
+            "en": "Maccius Plautus (c. 254-184) was the greatest comic dramatist of Rome.",
+            "vi": "Maccius Plautus (khoảng 254-184) là nhà viết kịch truyện tranh vĩ đại nhất của Rome."
+        }
+    ],
+    "words_form": [
+        "comics"
+    ],
+    "meaning_vi": "hài hước"
+}

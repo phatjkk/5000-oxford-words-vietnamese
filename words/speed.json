@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/spid/"
+    ],
+    "synonyms": [
+        "speedy",
+        "alacrity",
+        "fast",
+        "adept",
+        "dash"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Speed is a way of measuring how quickly something is moving or being done, or something moving fast.",
+            "vi": "Tốc độ là một cách đo lường mức độ nhanh chóng của một thứ gì đó đang di chuyển hoặc đang hoàn thành, hoặc một thứ gì đó đang di chuyển nhanh như thế nào."
+        },
+        {
+            "pos": "verb",
+            "en": "Speed is defined as to help someone or something along, or move too quickly.",
+            "vi": "Tốc độ được định nghĩa là để giúp đỡ ai đó hoặc thứ gì đó hoặc di chuyển quá nhanh."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or having to do with speed.",
+            "vi": "Của hoặc phải làm với tốc độ."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "up to speed  Fully informed; conversant: I'm not up to speed on these issues yet.",
+            "vi": "lên đến tốc độ Thông tin đầy đủ; ngược lại: Tôi chưa bắt kịp những vấn đề này."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He drove the speed limit - no more, no less.",
+            "vi": "Anh ta đã lái xe vượt quá tốc độ - không hơn, không kém."
+        },
+        {
+            "en": "The big deal is the speed limit is fifty.",
+            "vi": "Vấn đề lớn là giới hạn tốc độ là năm mươi."
+        }
+    ],
+    "words_form": [
+        "sped",
+        "speeded",
+        "speeding",
+        "speeds"
+    ],
+    "meaning_vi": "tốc độ"
+}

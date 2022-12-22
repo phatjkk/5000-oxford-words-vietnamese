@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/sɔr/"
+    ],
+    "synonyms": [
+        "fly",
+        "glide",
+        "arise",
+        "skyrocket",
+        "plummet"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To rise or fly high into the air.",
+            "vi": "Để bay lên hoặc bay cao vào không trung."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of soaring.",
+            "vi": "Hành động bay bổng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His long wings beat the air as he rose, and it took him a short two minutes to soar over the castle.",
+            "vi": "Đôi cánh dài của anh ta đập vào không khí khi anh ta bay lên, và anh ta mất hai phút ngắn ngủi để bay qua lâu đài."
+        },
+        {
+            "en": "Owls soar through the night sky, screeching out their presence.",
+            "vi": "Những con cú bay qua bầu trời đêm, kêu lên sự hiện diện của chúng."
+        }
+    ],
+    "words_form": [
+        "soared",
+        "soaring",
+        "soars"
+    ],
+    "meaning_vi": "bay lên"
+}

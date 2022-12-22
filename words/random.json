@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈrændəm/"
+    ],
+    "synonyms": [
+        "aimless",
+        "stochastic",
+        "irregular",
+        "capricious",
+        "arbitrary"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having no specific pattern, purpose, or objective.",
+            "vi": "Không có khuôn mẫu, mục đích hoặc mục tiêu cụ thể."
+        },
+        {
+            "pos": "noun",
+            "en": "Impetuous and haphazard movement.",
+            "vi": "Chuyển động bốc đồng và lộn xộn."
+        },
+        {
+            "pos": "idiom",
+            "en": "at random  Without a governing design, method, or purpose; unsystematically: Chose a card at random from the deck.",
+            "vi": "ngẫu nhiên Không có thiết kế, phương pháp hoặc mục đích chi phối; không có hệ thống: Chọn ngẫu nhiên một lá bài từ bộ bài."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He turned Random back and headed for the camp.",
+            "vi": "Anh ta quay Random lại và đi về phía trại."
+        },
+        {
+            "en": "So you just made a random deal with Darkyn.",
+            "vi": "Vì vậy, bạn vừa thực hiện một thỏa thuận ngẫu nhiên với Darkyn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ngẫu nhiên"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/fi/"
+    ],
+    "synonyms": [
+        "dues",
+        "expense",
+        "price",
+        "remuneration",
+        "charge"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A payment invoiced or made for the performance of services; an interest in or ownership of real estate See fee simple.",
+            "vi": "Một khoản thanh toán được lập hóa đơn hoặc thực hiện cho việc thực hiện các dịch vụ; quan tâm đến hoặc quyền sở hữu bất động sản Xem phí đơn giản."
+        },
+        {
+            "pos": "verb",
+            "en": "To give a tip to.",
+            "vi": "Để đưa ra một mẹo cho."
+        },
+        {
+            "pos": "idiom",
+            "en": "hold in fee  to own; possess",
+            "vi": "giữ phí để sở hữu; sở hữu"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "On the separation of the offices of bishop and abbot in 1122, the abbot's fee was carved out of the bishop's manor, but did not include the town.",
+            "vi": "Khi các văn phòng của giám mục và tu viện trưởng được tách ra vào năm 1122, phí của viện trưởng được khắc ra khỏi trang viên của giám mục, nhưng không bao gồm thị trấn."
+        },
+        {
+            "en": "He is remunerated for his services by a fixed fee for each day the court sits.",
+            "vi": "Anh ta được trả công cho các dịch vụ của mình bằng một khoản phí cố định cho mỗi ngày tòa án ngồi."
+        }
+    ],
+    "words_form": [
+        "feed",
+        "feeing",
+        "fees"
+    ],
+    "meaning_vi": "học phí"
+}

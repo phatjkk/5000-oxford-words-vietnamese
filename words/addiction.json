@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/əˈdɪkʃ(ə)n/"
+    ],
+    "synonyms": [
+        "bag",
+        "bent",
+        "craving",
+        "dependence",
+        "enslavement"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A condition involving use of a substance, such as a drug or alcohol, or engagement in a behavior, such as gambling, in which a person has strong cravings, is unable to stop or limit the activity, continues the activity despite harmful consequences, and experiences distress upon discontinuance.",
+            "vi": "Tình trạng liên quan đến việc sử dụng chất gây nghiện, chẳng hạn như ma túy hoặc rượu, hoặc tham gia vào một hành vi, chẳng hạn như cờ bạc, trong đó một người có cảm giác thèm ăn mạnh, không thể ngừng hoặc hạn chế hoạt động, tiếp tục hoạt động bất chấp hậu quả có hại, và trải qua sự đau khổ khi ngừng sản xuất."
+        },
+        {
+            "pos": "",
+            "en": "A physical or psychological need for a habit-forming substance, such as a drug or alcohol. In physical addiction, the body adapts to the substance being used and gradually requires increased amounts to reproduce the effects originally produced by smaller doses.",
+            "vi": "Nhu cầu về thể chất hoặc tâm lý đối với chất hình thành thói quen, chẳng hạn như ma túy hoặc rượu. Trong nghiện vật lý, cơ thể thích nghi với chất được sử dụng và dần dần yêu cầu lượng tăng lên để tái tạo các tác dụng ban đầu được tạo ra bởi liều lượng nhỏ hơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Xander sat, and Gerry poured them both coffee, aware of his addiction for the bitter human drink.",
+            "vi": "Xander ngồi, và Gerry rót cà phê cho cả hai, ý thức được rằng mình nghiện thứ đồ uống đắng của con người."
+        },
+        {
+            "en": "Drinking a cup of coffee each morning can lead to an insidious addiction.",
+            "vi": "Uống một tách cà phê mỗi sáng có thể dẫn đến chứng nghiện ngấm ngầm."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "A condition involving use of a substance, such as a drug or alcohol, or engagement in a behavior, such as gambling, in which a person has strong cravings, is unable to stop or limit the activity, continues the activity despite harmful consequences, and experiences distress upon discontinuance.",
+            "vi": "Tình trạng liên quan đến việc sử dụng chất gây nghiện, chẳng hạn như ma túy hoặc rượu, hoặc tham gia vào một hành vi, chẳng hạn như cờ bạc, trong đó một người có cảm giác thèm ăn mạnh, không thể ngừng hoặc hạn chế hoạt động, tiếp tục hoạt động bất chấp hậu quả có hại, và trải qua sự đau khổ khi ngừng sản xuất."
+        },
+        {
+            "pos": "",
+            "en": "A physical or psychological need for a habit-forming substance, such as a drug or alcohol. In physical addiction, the body adapts to the substance being used and gradually requires increased amounts to reproduce the effects originally produced by smaller doses.",
+            "vi": "Nhu cầu về thể chất hoặc tâm lý đối với chất hình thành thói quen, chẳng hạn như ma túy hoặc rượu. Trong nghiện vật lý, cơ thể thích nghi với chất được sử dụng và dần dần yêu cầu lượng tăng lên để tái tạo các tác dụng ban đầu được tạo ra bởi liều lượng nhỏ hơn."
+        }
+    ]
+}

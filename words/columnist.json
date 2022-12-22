@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈkɑləmnəst/",
+        "/ˈkɑləməst/"
+    ],
+    "synonyms": [
+        "journalist",
+        "correspondent",
+        "analyst",
+        "reporter",
+        "writer"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A writer of a column in a publication, such as a newspaper.",
+            "vi": "Một nhà văn của một chuyên mục trong một ấn phẩm, chẳng hạn như một tờ báo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Perhaps the Purley Gazette & Advertiser is looking for an outspoken columnist.",
+            "vi": "Có lẽ Purley Gazette & Advertiser đang tìm kiếm một người phụ trách chuyên mục thẳng thắn."
+        },
+        {
+            "en": "Martin Lewis is journalist, author, and newspaper columnist who specializes in helping average people find ways to reduce their debt and live more frugally without sacrificing their overall quality of life.",
+            "vi": "Martin Lewis là nhà báo, tác giả và nhà báo chuyên mục giúp đỡ những người bình thường tìm cách giảm nợ và sống đạm bạc hơn mà không phải hy sinh chất lượng cuộc sống tổng thể của họ."
+        }
+    ],
+    "words_form": [
+        "columnists"
+    ],
+    "meaning_vi": "chuyên mục"
+}

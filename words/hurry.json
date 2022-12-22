@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈhəri/"
+    ],
+    "synonyms": [
+        "rush",
+        "hasten",
+        "hurry",
+        "hustle",
+        "bustle"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(intransitive) To do things quickly.",
+            "vi": "(intransitive) Để thực hiện mọi việc một cách nhanh chóng."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of hurry is a feeling of urgency.",
+            "vi": "Định nghĩa của vội vàng là một cảm giác khẩn cấp."
+        },
+        {
+            "pos": "idiom",
+            "en": "hurry it up  to do or carry out with speed or promptness",
+            "vi": "nhanh lên để làm hoặc thực hiện với tốc độ hoặc sự nhanh chóng"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Well, hurry up and wrap it.",
+            "vi": "Thôi, quấn nhanh đi."
+        },
+        {
+            "en": "\"Hurry, Iggy,\" Dusty advised.",
+            "vi": "\"Nhanh lên, Iggy,\" Dusty khuyên."
+        }
+    ],
+    "words_form": [
+        "hurried",
+        "hurries",
+        "hurrying"
+    ],
+    "meaning_vi": "vội vàng"
+}

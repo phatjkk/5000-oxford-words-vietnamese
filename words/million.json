@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈmɪljən/"
+    ],
+    "synonyms": [
+        "gazillion",
+        "1000000",
+        "multiplicity",
+        "billion",
+        "jillion"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A million monetary units, such as dollars.",
+            "vi": "Một triệu đơn vị tiền tệ, chẳng hạn như đô la."
+        },
+        {
+            "pos": "adjective",
+            "en": "Amounting to one million in number.",
+            "vi": "Lên đến một triệu con số."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was the million dollar question.",
+            "vi": "Đó là câu hỏi triệu đô la."
+        },
+        {
+            "en": "By the end of the four-month campaign, the White House would receive two million dimes.",
+            "vi": "Vào cuối chiến dịch kéo dài 4 tháng, Nhà Trắng sẽ nhận được hai triệu dimes."
+        }
+    ],
+    "words_form": [
+        "millions"
+    ],
+    "meaning_vi": "triệu"
+}

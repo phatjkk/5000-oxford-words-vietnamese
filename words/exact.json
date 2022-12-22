@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ɪɡˈzækt/"
+    ],
+    "synonyms": [
+        "precise",
+        "selfsame",
+        "impose",
+        "rigorous",
+        "conscientious"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of exact is completely true, following all guidelines or precise.",
+            "vi": "Định nghĩa của chính xác là hoàn toàn đúng, tuân theo tất cả các hướng dẫn hoặc chính xác."
+        },
+        {
+            "pos": "verb",
+            "en": "To inflict (vengeance or punishment, for example).",
+            "vi": "Để gây ra (ví dụ: báo thù hoặc trừng phạt)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't have an exact date.",
+            "vi": "Tôi không có một ngày chính xác."
+        },
+        {
+            "en": "Medicine isn't an exact science.",
+            "vi": "Y học không phải là một khoa học chính xác."
+        }
+    ],
+    "words_form": [
+        "exacted",
+        "exacts"
+    ],
+    "meaning_vi": "chính xác"
+}

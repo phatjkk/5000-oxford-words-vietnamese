@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˈprəʊgræmɪŋ/"
+    ],
+    "synonyms": [
+        "artificial intelligence",
+        "computer technology",
+        "data processing",
+        "information technology",
+        "robotics"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The programs broadcast on radio or TV.",
+            "vi": "Các chương trình phát sóng trên đài phát thanh hoặc TV."
+        },
+        {
+            "pos": "",
+            "en": "Creating a computer program. The steps are:1. Developing the program logic to solve the particular problem.2. Writing the program logic in a specific programming language (coding the program).3. Assembling or compiling the program to turn it into machine language.4. Testing and debugging the program.5. Preparing the necessary documentation.The logic is generally the most difficult part of programming. However, depending on the programming language, writing the statements may also be laborious. One thing is certain. Documenting the program is considered the most annoying activity by most programmers. See programming concepts, estimating a programming job and peer review.",
+            "vi": "Tạo một chương trình máy tính. Các bước là: 1. Phát triển logic của chương trình để giải quyết một vấn đề cụ thể. Viết chương trình logic bằng một ngôn ngữ lập trình cụ thể (mã hóa chương trình) .3. Lắp ráp hoặc biên dịch chương trình để biến nó thành ngôn ngữ máy. Kiểm tra và gỡ lỗi chương trình. Chuẩn bị các tài liệu cần thiết. Logic nói chung là phần khó nhất của lập trình. Tuy nhiên, tùy thuộc vào ngôn ngữ lập trình, việc viết các câu lệnh cũng có thể tốn công sức. Có một điều chắc chắn. Ghi lại chương trình được coi là hoạt động khó chịu nhất của hầu hết các lập trình viên. Xem các khái niệm lập trình, ước tính một công việc lập trình và đánh giá ngang hàng."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of program.",
+            "vi": "Trình bày phân từ của chương trình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You want the web server to support four of the most popular programming paradigms.",
+            "vi": "Bạn muốn máy chủ web hỗ trợ bốn mô hình lập trình phổ biến nhất."
+        },
+        {
+            "en": "It proves once again that learning low-level Apis in detail is still a good way to learn Windows programming.",
+            "vi": "Nó chứng minh một lần nữa rằng học Apis cấp thấp một cách chi tiết vẫn là một cách tốt để học lập trình Windows."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The programs broadcast on radio or TV.",
+            "vi": "Các chương trình phát sóng trên đài phát thanh hoặc TV."
+        },
+        {
+            "pos": "",
+            "en": "Creating a computer program. The steps are:1. Developing the program logic to solve the particular problem.2. Writing the program logic in a specific programming language (coding the program).3. Assembling or compiling the program to turn it into machine language.4. Testing and debugging the program.5. Preparing the necessary documentation.The logic is generally the most difficult part of programming. However, depending on the programming language, writing the statements may also be laborious. One thing is certain. Documenting the program is considered the most annoying activity by most programmers. See programming concepts, estimating a programming job and peer review.",
+            "vi": "Tạo một chương trình máy tính. Các bước là: 1. Phát triển logic của chương trình để giải quyết một vấn đề cụ thể. Viết chương trình logic bằng một ngôn ngữ lập trình cụ thể (mã hóa chương trình) .3. Lắp ráp hoặc biên dịch chương trình để biến nó thành ngôn ngữ máy. Kiểm tra và gỡ lỗi chương trình. Chuẩn bị các tài liệu cần thiết. Logic nói chung là phần khó nhất của lập trình. Tuy nhiên, tùy thuộc vào ngôn ngữ lập trình, việc viết các câu lệnh cũng có thể tốn công sức. Có một điều chắc chắn. Ghi lại chương trình được coi là hoạt động khó chịu nhất của hầu hết các lập trình viên. Xem các khái niệm lập trình, ước tính một công việc lập trình và đánh giá ngang hàng."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of program.",
+            "vi": "Trình bày phân từ của chương trình."
+        }
+    ]
+}

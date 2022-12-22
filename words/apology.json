@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˈpɑlədʒi/"
+    ],
+    "synonyms": [
+        "contrite",
+        "excuse",
+        "acknowledgment",
+        "deprecatory",
+        "regrets"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An acknowledgment of some fault, injury, insult, etc., with an expression of regret and a plea for pardon.",
+            "vi": "Sự thừa nhận về một số lỗi, thương tích, sự xúc phạm, v.v., với biểu hiện của sự hối hận và cầu xin sự tha thứ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm the one who owes you an apology, not the other way around.",
+            "vi": "Em mới là người nợ anh một lời xin lỗi chứ không phải ngược lại."
+        },
+        {
+            "en": "\"Apology accepted,\" she said and looked down.",
+            "vi": "\"Lời xin lỗi được chấp nhận,\" cô nói và nhìn xuống."
+        }
+    ],
+    "words_form": [
+        "apologies"
+    ],
+    "meaning_vi": "lời xin lỗi"
+}

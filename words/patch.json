@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pætʃ/"
+    ],
+    "synonyms": [
+        "mend",
+        "spot",
+        "bit",
+        "scrap",
+        "area"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Patch means a piece of material used to cover, fix or protect.",
+            "vi": "Bản vá có nghĩa là một phần vật liệu được sử dụng để bao phủ, cố định hoặc bảo vệ."
+        },
+        {
+            "pos": "verb",
+            "en": "Patch is defined as to repair or piece together.",
+            "vi": "Vá được định nghĩa là để sửa chữa hoặc ghép lại với nhau."
+        },
+        {
+            "pos": "idiom",
+            "en": "not a patch on  not nearly so good as; not of comparable quality as The sequel is not a patch on the original movie.",
+            "vi": "không phải là một bản vá về gần như không tốt như; không có chất lượng tương đương như Phần tiếp theo không phải là bản vá của phim gốc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Giddon swung his arm out and pointed to a patch of flowers.",
+            "vi": "Giddon vung tay ra và chỉ vào một đám hoa."
+        },
+        {
+            "en": "The square patch of light woke her.",
+            "vi": "Vầng sáng hình vuông đánh thức cô."
+        }
+    ],
+    "words_form": [
+        "patched",
+        "patches",
+        "patching"
+    ],
+    "meaning_vi": "vá"
+}

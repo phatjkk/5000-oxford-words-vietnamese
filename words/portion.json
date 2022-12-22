@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈpɔrʃ(ə)n/"
+    ],
+    "synonyms": [
+        "piece",
+        "part",
+        "entirety",
+        "all",
+        "whole"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A part separated from a whole.",
+            "vi": "Một bộ phận tách ra khỏi một tổng thể."
+        },
+        {
+            "pos": "verb",
+            "en": "Portion is defined as to divide into parts.",
+            "vi": "Phần được định nghĩa là để chia thành các phần."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I have noticed that a portion of Walden which in the state of water was green will often, when frozen, appear from the same point of view blue.",
+            "vi": "Tôi nhận thấy rằng một phần của Walden ở trạng thái nước có màu xanh lục, khi bị đóng băng, sẽ xuất hiện theo cùng một quan điểm là màu xanh lam."
+        },
+        {
+            "en": "Another portion he gave to an old servant who waited upon his grandfather.",
+            "vi": "Một phần khác anh ta đưa cho một người hầu già, người đã chờ đợi ông của anh ta."
+        }
+    ],
+    "words_form": [
+        "portioned",
+        "portions"
+    ],
+    "meaning_vi": "phần"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/prɪnt/"
+    ],
+    "synonyms": [
+        "indent",
+        "imprint",
+        "newspaper",
+        "photocopy",
+        "impression"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A picture or design printed from a plate, block, roll, etc., as an etching, woodcut, lithograph, etc.",
+            "vi": "Hình ảnh hoặc thiết kế được in từ đĩa, khối, cuộn, v.v., dưới dạng bản khắc, bản khắc gỗ, bản in thạch bản, v.v."
+        },
+        {
+            "pos": "verb",
+            "en": "To print is defined as to mark by pressing on something, to write letters by hand or to produce mechanically copy a document.",
+            "vi": "In được định nghĩa là đánh dấu bằng cách nhấn vào vật gì đó, viết chữ bằng tay hoặc sao chép tài liệu một cách máy móc."
+        },
+        {
+            "pos": "adjective",
+            "en": "Published or reproduced by printing, especially in contrast to electronic publication.",
+            "vi": "Được xuất bản hoặc sao chép bằng cách in ấn, đặc biệt là trái ngược với xuất bản điện tử."
+        },
+        {
+            "pos": "idiom",
+            "en": "in print  In printed or published form: Denials that were to be found in print.Offered for sale by a publisher: Books that are still in print.",
+            "vi": "in ấn Ở dạng đã in hoặc đã xuất bản: Từ chối những điều đã được tìm thấy trong bản in. Nhà xuất bản cung cấp để bán: Sách vẫn đang được in."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It seems to me when you practice letters, you print uppercase letters first, don't you?",
+            "vi": "Đối với tôi, dường như khi bạn luyện chữ cái, bạn viết chữ hoa đầu tiên, phải không?"
+        },
+        {
+            "en": "\"They can't print this!\" she protested finally.",
+            "vi": "\"Họ không thể in cái này!\" cuối cùng cô đã phản đối."
+        }
+    ],
+    "words_form": [
+        "printed",
+        "printing",
+        "prints"
+    ],
+    "meaning_vi": "in"
+}

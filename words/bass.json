@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/beɪs/"
+    ],
+    "synonyms": [
+        "low",
+        "faint",
+        "deep",
+        "guitar",
+        "harmonica"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of bass is the lowest part of the musical scale.",
+            "vi": "Định nghĩa của âm trầm là phần thấp nhất của thang âm nhạc."
+        },
+        {
+            "pos": "adjective",
+            "en": "Bass is defined as a very low range of musical notes or a person or instrument that produces those notes.",
+            "vi": "Âm trầm được định nghĩa là một dải rất thấp của các nốt nhạc hoặc một người hoặc một nhạc cụ tạo ra các nốt đó."
+        },
+        {
+            "pos": "pronoun",
+            "en": "An English brand of bottled pale ale.",
+            "vi": "Một nhãn hiệu bia nhạt đóng chai của Anh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"I go by myself, benefactor,\" said Ivanushka, trying to speak in a bass voice.",
+            "vi": "“Tôi tự đi, thưa ân nhân,” Ivanushka nói, cố nói bằng một giọng trầm."
+        },
+        {
+            "en": "I bass trumpet.",
+            "vi": "I bass trumpet."
+        }
+    ],
+    "words_form": [
+        "basses"
+    ],
+    "meaning_vi": "âm trầm"
+}

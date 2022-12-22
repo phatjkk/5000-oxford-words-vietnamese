@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/dəˈprɛsɪŋ/"
+    ],
+    "synonyms": [
+        "distressing",
+        "dispiriting",
+        "saddening",
+        "disturbing",
+        "frightening"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Causing especially emotional depression.",
+            "vi": "Gây suy nhược cảm xúc đặc biệt."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of depress.",
+            "vi": "Hiện tại phân từ của trầm cảm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm not overly anxious to get back on that depressing ship.",
+            "vi": "Tôi không quá lo lắng để trở lại con tàu buồn chán đó."
+        },
+        {
+            "en": "Oh. I suppose the atmosphere is a little depressing around here right now.",
+            "vi": "Ồ. Tôi cho rằng bầu không khí xung quanh đây lúc này hơi buồn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chán nản"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈkɑmˌpaʊnd/"
+    ],
+    "synonyms": [
+        "mixed",
+        "composite",
+        "union",
+        "synthesis",
+        "coalesce"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Compound means to mix multiple ingredients together or make something bigger.",
+            "vi": "Hợp chất có nghĩa là trộn nhiều thành phần với nhau hoặc làm một thứ gì đó lớn hơn."
+        },
+        {
+            "pos": "noun",
+            "en": "A building or buildings, especially a residence or group of residences, set off and enclosed by a barrier.",
+            "vi": "Một tòa nhà hoặc các tòa nhà, đặc biệt là một khu dân cư hoặc một nhóm nhà ở, được đặt ra và được bao bọc bởi một hàng rào."
+        },
+        {
+            "pos": "adjective",
+            "en": "(botany) Composed of more than one part.",
+            "vi": "(thực vật học) Bao gồm nhiều hơn một phần."
+        },
+        {
+            "pos": "idiom",
+            "en": "compound a felony (or crime)  to agree, for a bribe or repayment, not to inform about or prosecute for a felony (or crime): it is an illegal act",
+            "vi": "kết hợp một trọng tội (hoặc tội phạm) để đồng ý, hối lộ hoặc trả nợ, không thông báo về hoặc truy tố về một trọng tội (hoặc tội phạm): đó là một hành vi bất hợp pháp"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm not sure we didn't compound problems.",
+            "vi": "Tôi không chắc chúng tôi đã không gặp vấn đề phức tạp."
+        },
+        {
+            "en": "Blinded by emotion, he made his way out of the underground compound without knowing where he went.",
+            "vi": "Bị cảm xúc làm cho mù quáng, anh ta tìm đường ra khỏi khu phức hợp dưới lòng đất mà không biết mình đã đi đâu."
+        }
+    ],
+    "words_form": [
+        "compounded",
+        "compounding",
+        "compounds"
+    ],
+    "meaning_vi": "hợp chất"
+}

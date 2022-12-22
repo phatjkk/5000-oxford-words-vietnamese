@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ɪnˈdʒɔɪ/",
+        "/ɛnˈdʒɔɪ/"
+    ],
+    "synonyms": [
+        "savor",
+        "appreciate",
+        "gratifying",
+        "like",
+        "own"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To receive pleasure or satisfaction from.",
+            "vi": "Để nhận được niềm vui hoặc sự hài lòng từ."
+        },
+        {
+            "pos": "idiom",
+            "en": "enjoy oneself  To have a pleasurable or satisfactory time.",
+            "vi": "tận hưởng bản thân Để có một khoảng thời gian thú vị hoặc thỏa mãn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They would have some time to enjoy a late Christmas at home when they returned.",
+            "vi": "Họ sẽ có một chút thời gian để tận hưởng một Giáng sinh muộn ở nhà khi họ trở về."
+        },
+        {
+            "en": "I hope you enjoy the lecture.",
+            "vi": "Tôi hy vọng bạn thích bài giảng."
+        }
+    ],
+    "words_form": [
+        "enjoyed",
+        "enjoying",
+        "enjoys"
+    ],
+    "meaning_vi": "vui thích"
+}

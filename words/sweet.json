@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/swit/"
+    ],
+    "synonyms": [
+        "sugary",
+        "luscious",
+        "gooey",
+        "sour",
+        "honeyed"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Sweet means a piece of candy or another good tasting treat.",
+            "vi": "Ngọt có nghĩa là một viên kẹo hoặc một món ngon khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Not saline or salted.",
+            "vi": "Không phải nước muối hoặc nước muối."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a sweet manner; sweetly.",
+            "vi": "Một cách ngọt ngào; một cách ngọt ngào."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1845-1912; Eng. linguist.",
+            "vi": "(người) 1845-1912; Anh nhà ngôn ngữ học."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) sweet on  Enamored of; in love with.",
+            "vi": "(không chính thức) ngọt ngào trên Enamored of; yêu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It had a sweet smell.",
+            "vi": "Nó có một mùi ngọt ngào."
+        },
+        {
+            "en": "That sweet chocolate gaze softened and a smile touched the corners of his mouth.",
+            "vi": "Ánh mắt sô cô la ngọt ngào ấy dịu lại và một nụ cười chạm vào khóe miệng anh."
+        }
+    ],
+    "words_form": [
+        "sweetest",
+        "sweets"
+    ],
+    "meaning_vi": "ngọt"
+}

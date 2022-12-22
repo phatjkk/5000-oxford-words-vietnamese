@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/brif/"
+    ],
+    "synonyms": [
+        "short",
+        "scanty",
+        "brief",
+        "blurb",
+        "fleeting"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A brief is defined as a short written or spoken statement or a statement of the main points of a legal case.",
+            "vi": "Bản tóm tắt được định nghĩa là một bản văn hoặc bản nói ngắn gọn hoặc bản trình bày những điểm chính của một vụ án pháp lý."
+        },
+        {
+            "pos": "adjective",
+            "en": "Succinct; concise.",
+            "vi": "Succinct; ngắn gọn."
+        },
+        {
+            "pos": "verb",
+            "en": "To give instructions or preparatory information to.",
+            "vi": "Để cung cấp hướng dẫn hoặc thông tin chuẩn bị cho."
+        },
+        {
+            "pos": "adverb",
+            "en": "(obsolete, poetic) Briefly.",
+            "vi": "(lỗi thời, thơ mộng) Ngắn gọn."
+        },
+        {
+            "pos": "idiom",
+            "en": "in brief  In short.",
+            "vi": "trong ngắn gọn Trong ngắn hạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was a brief pause.",
+            "vi": "Có một khoảng dừng ngắn."
+        },
+        {
+            "en": "He paused for a brief flurry of clapping.",
+            "vi": "Anh dừng lại trong một tràng vỗ tay ngắn ngủi."
+        }
+    ],
+    "words_form": [
+        "briefed",
+        "briefest",
+        "briefing",
+        "briefs"
+    ],
+    "meaning_vi": "ngắn gọn"
+}

@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/tʃɑrm/"
+    ],
+    "synonyms": [
+        "voodoo",
+        "entice",
+        "entrance",
+        "attraction",
+        "delight"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be alluring or pleasing.",
+            "vi": "Để trở nên quyến rũ hoặc dễ chịu."
+        },
+        {
+            "pos": "noun",
+            "en": "Any object assumed to have such power, as an amulet or talisman.",
+            "vi": "Bất kỳ đồ vật nào được cho là có sức mạnh như vậy, như một tấm bùa hộ mệnh hoặc lá bùa hộ mệnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her father's wealth had come from his whore-daughter's ability to charm any man she chose.",
+            "vi": "Sự giàu có của cha cô đến từ khả năng mê hoặc bất kỳ người đàn ông nào mà cô chọn."
+        },
+        {
+            "en": "The Fred O'Connor charm extended beyond the blue haired set to children as well.",
+            "vi": "Sự quyến rũ của Fred O'Connor còn vượt ra ngoài giới trẻ em tóc xanh."
+        }
+    ],
+    "words_form": [
+        "charmed",
+        "charms"
+    ],
+    "meaning_vi": "quyến rũ"
+}

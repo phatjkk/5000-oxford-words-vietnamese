@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈbɛnəfɪt/"
+    ],
+    "synonyms": [
+        "advantage",
+        "bonus",
+        "gain",
+        "boon",
+        "profit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To benefit is defined as to be helpful to others, or to receive help from others.",
+            "vi": "Lợi ích được định nghĩa là giúp ích cho người khác hoặc nhận được sự giúp đỡ từ người khác."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a benefit is something that will provide an advantage for others, something you may receive as compensation from an insurance company or an event to raise money for a worthwhile cause.",
+            "vi": "Định nghĩa về quyền lợi là thứ sẽ mang lại lợi thế cho người khác, thứ mà bạn có thể nhận được như khoản bồi thường từ công ty bảo hiểm hoặc một sự kiện quyên góp tiền cho một mục đích xứng đáng."
+        },
+        {
+            "pos": "idiom",
+            "en": "benefit of the doubt  A favorable judgment granted in the absence of full evidence.",
+            "vi": "lợi ích của sự nghi ngờ Một phán quyết thuận lợi được đưa ra trong trường hợp không có đầy đủ bằng chứng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If you think you'd benefit, you probably will.",
+            "vi": "Nếu bạn nghĩ rằng bạn được lợi, bạn có thể sẽ làm được."
+        },
+        {
+            "en": "I'm giving her the benefit of the doubt that she made it all the way to the river.",
+            "vi": "Tôi đang cho cô ấy lợi ích của sự nghi ngờ rằng cô ấy đã làm mọi chuyện trôi sông."
+        }
+    ],
+    "words_form": [
+        "benefited",
+        "benefiting",
+        "benefits",
+        "benefitted",
+        "benefitting"
+    ],
+    "meaning_vi": "lợi ích"
+}

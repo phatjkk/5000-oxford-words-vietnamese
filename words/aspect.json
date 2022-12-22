@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈæspɛkt/"
+    ],
+    "synonyms": [
+        "features",
+        "part",
+        "posture",
+        "slant",
+        "heterogeneous"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of aspect refers to the way you see something or someone, either visually or mentally.",
+            "vi": "Định nghĩa về khía cạnh đề cập đến cách bạn nhìn thấy một cái gì đó hoặc một người nào đó, bằng mắt thường hoặc tinh thần."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The house had escaped the fire; it showed signs of damage but its general aspect was unchanged.",
+            "vi": "Ngôi nhà đã thoát khỏi đám cháy; nó có dấu hiệu bị hư hại nhưng khía cạnh chung của nó không thay đổi."
+        },
+        {
+            "en": "My favorite aspect of this home is the large, farmhouse style kitchen.",
+            "vi": "Khía cạnh yêu thích của tôi trong ngôi nhà này là nhà bếp lớn theo phong cách trang trại."
+        }
+    ],
+    "words_form": [
+        "aspects"
+    ],
+    "meaning_vi": "khía cạnh"
+}

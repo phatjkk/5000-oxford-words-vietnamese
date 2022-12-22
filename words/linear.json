@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈlɪniər/"
+    ],
+    "synonyms": [
+        "rectilinear",
+        "threadlike",
+        "extended",
+        "nonlinear",
+        "lineal"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of or relating to a line or lines.",
+            "vi": "Của hoặc liên quan đến một dòng hoặc các dòng."
+        },
+        {
+            "pos": "acronym",
+            "en": "(astronomy) Lincoln Near-Earth Asteroid Research program.",
+            "vi": "(thiên văn học) Chương trình Nghiên cứu Tiểu hành tinh Gần Trái đất Lincoln."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(astronomy) A comet, cataloged as “C/1999 S4\", discovered on September 27, 1999, by the Lincoln Near-Earth Asteroid Research program in New Mexico. (See ) Sometimes spelled LINEAR.",
+            "vi": "(thiên văn học) Một sao chổi, được xếp vào danh mục “C / 1999 S4” ??, được phát hiện vào ngày 27 tháng 9 năm 1999, bởi chương trình Nghiên cứu Tiểu hành tinh Gần Trái đất Lincoln ở New Mexico. (Xem) Đôi khi được đánh vần là LINEAR."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Given certain linear and angular measurements, the area must be so and so.",
+            "vi": "Với các phép đo tuyến tính và góc nhất định, diện tích phải như vậy và như vậy."
+        },
+        {
+            "en": "The partial differential coefficient of T with respect to a component of velocity, linear or angular, will be the component of momentum, linear or angular, which corresponds.",
+            "vi": "Hệ số vi phân riêng của T đối với một thành phần của vận tốc, tuyến tính hoặc góc, sẽ là thành phần của động lượng, tuyến tính hoặc góc, tương ứng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tuyến tính"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈɡroʊs(ə)ri/"
+    ],
+    "synonyms": [
+        "foodstuff",
+        "grocery-store",
+        "supermarket",
+        "food market",
+        "confectionery"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A store selling foodstuffs and various household supplies.",
+            "vi": "Một cửa hàng bán thực phẩm và đồ dùng gia đình khác nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I've seen her grocery list.",
+            "vi": "Tôi đã xem danh sách hàng tạp hóa của cô ấy."
+        },
+        {
+            "en": "Finally, rationalizing that they needed milk, she headed for the grocery store.",
+            "vi": "Cuối cùng, lý giải rằng họ cần sữa, cô đi đến cửa hàng tạp hóa."
+        }
+    ],
+    "words_form": [
+        "groceries"
+    ],
+    "meaning_vi": "cửa hàng tạp hóa"
+}

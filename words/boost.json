@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/bust/"
+    ],
+    "synonyms": [
+        "upraise",
+        "assistance",
+        "augmentation",
+        "lift",
+        "advance"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To boost is defined as to raise, push higher, increase or promote.",
+            "vi": "Tăng được định nghĩa là nâng cao, đẩy cao hơn, tăng hoặc thăng chức."
+        },
+        {
+            "pos": "noun",
+            "en": "A push upward or ahead.",
+            "vi": "Đẩy lên phía trước hoặc phía trước."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Howie, would you come over here and give me a boost?",
+            "vi": "Howie, bạn có thể đến đây và cho tôi một động lực được không?"
+        },
+        {
+            "en": "The new advertisment strategy really helped to boost production.",
+            "vi": "Chiến lược quảng cáo mới thực sự đã giúp thúc đẩy sản xuất."
+        }
+    ],
+    "words_form": [
+        "boosted",
+        "boosting",
+        "boosts"
+    ],
+    "meaning_vi": "tăng"
+}

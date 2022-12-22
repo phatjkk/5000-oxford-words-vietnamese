@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˌ(h)wɛrˈæz/"
+    ],
+    "synonyms": [
+        "while",
+        "although",
+        "though",
+        "since",
+        "when"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A statement beginning with “whereas”",
+            "vi": "Một tuyên bố bắt đầu bằng \"ngược lại\""
+        },
+        {
+            "pos": "conjunction",
+            "en": "Whereas is defined as a way to contrast or compare.",
+            "vi": "Trong khi đó được định nghĩa là một cách để đối chiếu hoặc so sánh."
+        },
+        {
+            "pos": "adverb",
+            "en": "(obsolete) Where (that).",
+            "vi": "(lỗi thời) Where (that)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Hannah had been a kept woman with no problems since meeting Gio, whereas Katie had always struggled to find her path.",
+            "vi": "Hannah đã là một người phụ nữ không có vấn đề gì kể từ khi gặp Gio, trong khi Katie luôn đấu tranh để tìm ra con đường của mình."
+        },
+        {
+            "en": "Whereas, if the child is left to himself, he will think more and better, if less showily.",
+            "vi": "Trong khi đó, nếu trẻ được để mặc cho chính mình, trẻ sẽ suy nghĩ nhiều hơn và tốt hơn, nếu ít phô trương hơn."
+        }
+    ],
+    "words_form": [
+        "whereases"
+    ],
+    "meaning_vi": "trong khi"
+}

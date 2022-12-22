@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈprɑbləm/"
+    ],
+    "synonyms": [
+        "dilemma",
+        "enigma",
+        "difficulty",
+        "issue",
+        "intricacy"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Dealing with a moral or social problem.",
+            "vi": "Đối phó với một vấn đề đạo đức hoặc xã hội."
+        },
+        {
+            "pos": "noun",
+            "en": "A question to be considered, solved, or answered.",
+            "vi": "Một câu hỏi cần được xem xét, giải quyết hoặc trả lời."
+        },
+        {
+            "pos": "idiom",
+            "en": "no problem  Used to express confirmation of or compliance with a request. Used to acknowledge an expression of gratitude.",
+            "vi": "không có vấn đề Được sử dụng để thể hiện xác nhận hoặc tuân thủ với một yêu cầu. Được sử dụng để thừa nhận một biểu hiện của lòng biết ơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The problem wasn't Dulce or his father.",
+            "vi": "Vấn đề không phải là Dulce hay cha anh ấy."
+        },
+        {
+            "en": "\"It's a big problem,\" he said.",
+            "vi": "“Đó là một vấn đề lớn,” anh nói."
+        }
+    ],
+    "words_form": [
+        "problems"
+    ],
+    "meaning_vi": "vấn đề"
+}

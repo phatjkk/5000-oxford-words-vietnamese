@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈlɛɡəsi/"
+    ],
+    "synonyms": [
+        "heritage",
+        "tradition",
+        "patrimony",
+        "foundation",
+        "inheritance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something handed down from an ancestor or a predecessor or from the past.",
+            "vi": "Một cái gì đó được truyền lại từ tổ tiên hoặc tiền nhân hoặc từ quá khứ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Legacy means an older style or system.",
+            "vi": "Kế thừa có nghĩa là một hệ thống hoặc kiểu cũ hơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "George Washington left behind a legacy of strong leadership.",
+            "vi": "George Washington đã để lại một di sản về khả năng lãnh đạo mạnh mẽ."
+        },
+        {
+            "en": "Murad died in 1595, leaving to his successor a legacy of war and anarchy.",
+            "vi": "Murad qua đời vào năm 1595, để lại cho người kế nhiệm một di sản của chiến tranh và tình trạng vô chính phủ."
+        }
+    ],
+    "words_form": [
+        "legacies"
+    ],
+    "meaning_vi": "di sản"
+}

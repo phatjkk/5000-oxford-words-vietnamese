@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈtərnˌoʊvər/"
+    ],
+    "synonyms": [
+        "upset",
+        "profit",
+        "turn over",
+        "overturn",
+        "profitability"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Turnover is the rate at which employees leave or the amount of time that it takes for a store to sell all of its inventory.",
+            "vi": "Doanh thu là tỷ lệ nhân viên nghỉ việc hoặc khoảng thời gian cần thiết để một cửa hàng bán hết hàng tồn kho của mình."
+        },
+        {
+            "pos": "adjective",
+            "en": "Capable of being turned or folded down or over.",
+            "vi": "Có khả năng xoay hoặc gấp lại hoặc lật ngược."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was reluctant to invest in a venture that has a slow turnover.",
+            "vi": "Ông không muốn đầu tư vào một dự án kinh doanh có doanh thu chậm."
+        },
+        {
+            "en": "The total turnover of goods sold and \"ordered\" amounts to nearly 362 millions sterling annually.",
+            "vi": "Tổng doanh thu hàng hóa bán ra và \"đặt hàng\" lên tới gần 362 triệu bảng Anh hàng năm."
+        }
+    ],
+    "words_form": [
+        "turnovers"
+    ],
+    "meaning_vi": "doanh số"
+}

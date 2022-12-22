@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌdɛkləˈreɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "announcement",
+        "utterance",
+        "affirmation",
+        "exposition",
+        "canon"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or process of declaring.",
+            "vi": "Hành động hoặc quá trình khai báo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Xander heard her declaration of it being her last day.",
+            "vi": "Xander nghe cô ấy tuyên bố đây là ngày cuối cùng của cô ấy."
+        },
+        {
+            "en": "On the occasion of the Metrical Congress, which met in Paris in 1872, he, however, successfully protested against the recognition of the Vatican delegate, Father Secchi, as a representative of a state, and obtained from Count de Rmusat, French foreign minister, a formal declaration that the presence of Father Secchi on that occasion could not constitute a diplomatic precedent.",
+            "vi": "Tuy nhiên, trong dịp Đại hội Metrical họp tại Paris năm 1872, ông đã phản đối thành công việc công nhận đại diện của Vatican, Cha Secchi, là đại diện của một bang, và được Bá tước de Rmusat, ngoại trưởng Pháp, một tuyên bố chính thức rằng sự hiện diện của Cha Secchi vào dịp đó không thể tạo thành một tiền lệ ngoại giao."
+        }
+    ],
+    "words_form": [
+        "declarations"
+    ],
+    "meaning_vi": "tờ khai"
+}

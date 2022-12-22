@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈfɛd(ə)rəl/"
+    ],
+    "synonyms": [
+        "governmental",
+        "national",
+        "general",
+        "central",
+        "union"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of federal is something relating to a form of government where states recognize the power of a central government while still keeping certain state-level governmental powers.",
+            "vi": "Định nghĩa của liên bang là một cái gì đó liên quan đến một hình thức chính phủ mà các bang thừa nhận quyền lực của chính quyền trung ương trong khi vẫn giữ một số quyền lực của chính quyền cấp bang."
+        },
+        {
+            "pos": "noun",
+            "en": "A federal agent or official.",
+            "vi": "Một đại lý hoặc quan chức liên bang."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The postal services and the telegraphs are administered by the federal government.",
+            "vi": "Các dịch vụ bưu chính và điện báo do chính phủ liên bang quản lý."
+        },
+        {
+            "en": "It is also one of the two chief cities, or capitals, of the Federal district.",
+            "vi": "Nó cũng là một trong hai thành phố chính, hoặc thủ phủ, của quận Liên bang."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "liên bang"
+}

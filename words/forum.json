@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈfɔrəm/"
+    ],
+    "synonyms": [
+        "conference",
+        "medium",
+        "mass meeting",
+        "panel",
+        "gathering"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a forum is a place or a method for discussion.",
+            "vi": "Định nghĩa của một diễn đàn là một nơi hoặc một phương pháp để thảo luận."
+        },
+        {
+            "pos": "idiom",
+            "en": "the Forum  the forum of ancient Rome",
+            "vi": "Diễn đàn diễn đàn của La Mã cổ đại"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Of the ancient Forum Livii, which lay on the Via Aemilia, hardly anything is known.",
+            "vi": "Đối với Diễn đàn cổ Livii, nằm trên Via Aemilia, hầu như không có bất cứ điều gì được biết đến."
+        },
+        {
+            "en": "A bronze equestrian statue was set up in the Forum, now on the Capitol.",
+            "vi": "Một bức tượng cưỡi ngựa bằng đồng đã được dựng lên trong Diễn đàn, hiện nay ở Điện Capitol."
+        }
+    ],
+    "words_form": [
+        "fora",
+        "forums"
+    ],
+    "meaning_vi": "diễn đàn"
+}

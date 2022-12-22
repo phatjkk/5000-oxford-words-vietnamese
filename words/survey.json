@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/sərˈveɪ/"
+    ],
+    "synonyms": [
+        "study",
+        "poll",
+        "inspect",
+        "questionnaire",
+        "see"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A detailed study or inspection, as by gathering information through observations, questionnaires, etc. and analyzing it.",
+            "vi": "Một nghiên cứu hoặc kiểm tra chi tiết, bằng cách thu thập thông tin thông qua các quan sát, bảng câu hỏi, v.v. và phân tích nó."
+        },
+        {
+            "pos": "verb",
+            "en": "The definition of survey is to carefully review, make a detailed report of, or measure a piece of land to find out its boundaries.",
+            "vi": "Định nghĩa của khảo sát là xem xét cẩn thận, lập báo cáo chi tiết hoặc đo đạc một mảnh đất để tìm ra ranh giới của nó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A general was sent to survey the position.",
+            "vi": "Một vị tướng được cử đến khảo sát vị trí."
+        },
+        {
+            "en": "His survey covered an area 900 m.",
+            "vi": "Cuộc khảo sát của ông có diện tích 900 m."
+        }
+    ],
+    "words_form": [
+        "surveyed",
+        "surveying",
+        "surveys"
+    ],
+    "meaning_vi": "khảo sát"
+}

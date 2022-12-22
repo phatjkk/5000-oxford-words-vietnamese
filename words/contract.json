@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈkɑntrækt/"
+    ],
+    "synonyms": [
+        "agreement",
+        "settle",
+        "negotiate",
+        "commitment",
+        "expand"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a contract is an agreement between two or more people to do something.",
+            "vi": "Định nghĩa của hợp đồng là sự thỏa thuận giữa hai hoặc nhiều người để thực hiện một việc gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "Contract is defined as to acquire something or to hire someone to do work.",
+            "vi": "Hợp đồng được định nghĩa là mua một thứ gì đó hoặc thuê một người nào đó làm công việc."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Contracted; affianced; betrothed.",
+            "vi": "(lỗi thời) Đã ký hợp đồng; có lòng tin; đã hứa hôn."
+        },
+        {
+            "pos": "idiom",
+            "en": "contract out  to assign (a job) by contract; specif., to subcontract to withdraw from a contract or agreement",
+            "vi": "giao khoán (một công việc) theo hợp đồng; cụ thể., để hợp đồng phụ rút khỏi hợp đồng hoặc thỏa thuận"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Your contract goes on for years.",
+            "vi": "Hợp đồng của bạn kéo dài trong nhiều năm."
+        },
+        {
+            "en": "There's stuff I know...I don't want to be a squealer, but they got a contract on me, for God's sake!",
+            "vi": "Có những điều tôi biết ... Tôi không muốn trở thành một kẻ kêu gào, nhưng họ đã ký hợp đồng với tôi, vì Chúa!"
+        }
+    ],
+    "words_form": [
+        "contracted",
+        "contracting",
+        "contracts"
+    ],
+    "meaning_vi": "(bản) hợp đồng"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈskɛdʒəl/"
+    ],
+    "synonyms": [
+        "routine",
+        "agenda",
+        "planned",
+        "appointments",
+        "itinerary"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A plan for performing work or achieving an objective, specifying the order and allotted time for each part.",
+            "vi": "Một kế hoạch để thực hiện công việc hoặc đạt được một mục tiêu, nêu rõ thứ tự và thời gian phân bổ cho từng phần."
+        },
+        {
+            "pos": "verb",
+            "en": "To schedule is to set up a specific time when something will occur.",
+            "vi": "Lập lịch trình là thiết lập một thời gian cụ thể khi một việc gì đó sẽ xảy ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Their schedule seems pretty consistent.",
+            "vi": "Lịch trình của họ có vẻ khá nhất quán."
+        },
+        {
+            "en": "Pick up a copy of your schedule as you head out.",
+            "vi": "Nhận một bản sao của lịch trình của bạn khi bạn đi ra ngoài."
+        }
+    ],
+    "words_form": [
+        "scheduled",
+        "schedules",
+        "scheduling"
+    ],
+    "meaning_vi": "lịch trình"
+}

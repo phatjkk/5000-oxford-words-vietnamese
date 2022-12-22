@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/drɪŋk/"
+    ],
+    "synonyms": [
+        "beverage",
+        "libation",
+        "swill",
+        "gulp",
+        "drop"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To take in eagerly through the senses or intellect.",
+            "vi": "Tham gia một cách háo hức thông qua các giác quan hoặc trí tuệ."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a drink is a liquid made for swallowing.",
+            "vi": "Định nghĩa của đồ uống là một chất lỏng được tạo ra để nuốt."
+        },
+        {
+            "pos": "idiom",
+            "en": "drink deep (of)  to take in a large amount (of) by or as by drinking",
+            "vi": "uống sâu (của) để uống một lượng lớn (của) bằng hoặc bằng cách uống"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She can drink milk like a real baby.",
+            "vi": "Cô ấy có thể uống sữa như một đứa trẻ thực sự."
+        },
+        {
+            "en": "He does not drink merely to be drinking.",
+            "vi": "Anh ta không uống chỉ để uống."
+        }
+    ],
+    "words_form": [
+        "drank",
+        "drinking",
+        "drinks",
+        "drunk"
+    ],
+    "meaning_vi": "uống"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈpɑləˌtɪks/"
+    ],
+    "synonyms": [
+        "statesmanship",
+        "government",
+        "diplomacy",
+        "political-science",
+        "political"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of politics are the methods and tactics used to run a government or an organization.",
+            "vi": "Định nghĩa của chính trị là các phương pháp và chiến thuật được sử dụng để điều hành một chính phủ hoặc một tổ chức."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "Factional scheming for power and status within a group.",
+            "vi": "Lập kế hoạch phe nhóm để giành quyền lực và địa vị trong một nhóm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The politics are changing slowly.",
+            "vi": "Chính trị đang thay đổi chậm chạp."
+        },
+        {
+            "en": "Everything we understood about the world and politics changed.",
+            "vi": "Mọi thứ chúng tôi hiểu về thế giới và chính trị đã thay đổi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chính trị"
+}

@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈvækˌju(ə)m/"
+    ],
+    "synonyms": [
+        "emptiness",
+        "void",
+        "space",
+        "exhaustion",
+        "sweep"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A state of emptiness; a void.",
+            "vi": "Một trạng thái trống rỗng; tránh xa."
+        },
+        {
+            "pos": "verb",
+            "en": "To vacuum is to clean using a tool that sucks dirt or other elements into a storage container.",
+            "vi": "Hút bụi là làm sạch bằng dụng cụ hút bụi bẩn hoặc các yếu tố khác vào thùng chứa."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or used to create a vacuum.",
+            "vi": "Của, liên quan đến, hoặc được sử dụng để tạo chân không."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The liquid is then evaporated under a vacuum of 27 to 28 in.",
+            "vi": "Chất lỏng sau đó được làm bay hơi trong chân không từ 27 đến 28 in."
+        },
+        {
+            "en": "There is no such thing really as a vacuum, any more than there are atoms or ultimate indivisible particles.",
+            "vi": "Không có cái gì thực sự gọi là chân không, ngoài ra còn có các nguyên tử hoặc các hạt cuối cùng không thể phân chia được."
+        }
+    ],
+    "words_form": [
+        "vacua",
+        "vacuumed",
+        "vacuuming",
+        "vacuums"
+    ],
+    "meaning_vi": "máy hút bụi"
+}

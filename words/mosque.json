@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/mɑsk/"
+    ],
+    "synonyms": [
+        "masjid",
+        "church",
+        "shrine",
+        "temple",
+        "synagogue"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A building used as a place of Muslim worship.",
+            "vi": "Một tòa nhà được sử dụng làm nơi thờ cúng của người Hồi giáo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her mosque was built in 1418.",
+            "vi": "Nhà thờ Hồi giáo của bà được xây dựng vào năm 1418."
+        },
+        {
+            "en": "He must not sit in a mosque, except under necessity, but in some open, accessible place.",
+            "vi": "Anh ta không được ngồi trong nhà thờ Hồi giáo, trừ khi cần thiết, nhưng phải ở một số nơi thoáng đãng, dễ tiếp cận."
+        }
+    ],
+    "words_form": [
+        "mosques"
+    ],
+    "meaning_vi": "nhà thờ hồi giáo"
+}

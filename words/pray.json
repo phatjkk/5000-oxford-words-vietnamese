@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/preɪ/"
+    ],
+    "synonyms": [
+        "supplicate",
+        "entreat",
+        "implore",
+        "plead",
+        "petition"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To humbly beg a person for aid or their time.",
+            "vi": "Khiêm tốn cầu xin một người giúp đỡ hoặc thời gian của họ."
+        },
+        {
+            "pos": "adverb",
+            "en": "Please; used to make a polite request.",
+            "vi": "Vui lòng; được sử dụng để đưa ra một yêu cầu lịch sự."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In peace let us pray unto the Lord.",
+            "vi": "Trong hòa bình, chúng ta hãy cầu nguyện với Chúa."
+        },
+        {
+            "en": "I thank you for it, and pray that God will bless you.",
+            "vi": "Tôi cảm ơn bạn vì điều đó, và cầu nguyện rằng Chúa sẽ ban phước cho bạn."
+        }
+    ],
+    "words_form": [
+        "prayed",
+        "praying",
+        "prays"
+    ],
+    "meaning_vi": "cầu nguyện"
+}

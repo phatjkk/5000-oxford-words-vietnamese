@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/wɪʃ/"
+    ],
+    "synonyms": [
+        "pleasure",
+        "hope",
+        "desire",
+        "dream",
+        "prayer"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To order, entreat, or request.",
+            "vi": "Để đặt hàng, yêu cầu hoặc yêu cầu."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a wish is a desire for something.",
+            "vi": "Định nghĩa của một điều ước là một mong muốn cho một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I wish you had called me.",
+            "vi": "Tôi ước gì bạn đã gọi cho tôi."
+        },
+        {
+            "en": "I wish you could hear yourself talking.",
+            "vi": "Tôi ước bạn có thể nghe thấy chính mình nói chuyện."
+        }
+    ],
+    "words_form": [
+        "wished",
+        "wishes"
+    ],
+    "meaning_vi": "muốn"
+}

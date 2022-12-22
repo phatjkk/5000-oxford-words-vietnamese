@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈplɔɪ/"
+    ],
+    "synonyms": [
+        "extend",
+        "redistribute",
+        "dispose",
+        "fan out",
+        "station"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To deploy is defined as to get into combat position.",
+            "vi": "Để triển khai được định nghĩa là vào vị trí chiến đấu."
+        },
+        {
+            "pos": "noun",
+            "en": "(military, dated) Deployment.",
+            "vi": "(quân đội, ngày tháng) Triển khai."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The advance of the third English line only made matters worse, and the sole attempt to deploy the archers was crushed with great slaughter by the charge of Keith's mounted men.",
+            "vi": "Cuộc tiến công của phòng tuyến thứ ba của Anh chỉ khiến vấn đề trở nên tồi tệ hơn, và nỗ lực duy nhất để triển khai các cung thủ đã bị dập tắt rất nhiều bởi sự tấn công của những người được gắn kết của Keith."
+        },
+        {
+            "en": "Give it half an hour and you should be ready to deploy the old spam javelin.",
+            "vi": "Hãy chờ nửa giờ và bạn sẽ sẵn sàng triển khai cuộc tấn công thư rác cũ."
+        }
+    ],
+    "words_form": [
+        "deployed",
+        "deploying",
+        "deploys"
+    ],
+    "meaning_vi": "triển khai"
+}

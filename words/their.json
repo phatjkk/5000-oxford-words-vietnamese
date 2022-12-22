@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ðɛr/"
+    ],
+    "synonyms": [
+        "theirs",
+        "he",
+        "they",
+        "both",
+        "his/her"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "(possessive) Belonging to, from, of, or relating to, them.",
+            "vi": "(sở hữu) Thuộc về, từ, của hoặc liên quan đến chúng."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of their is a person or thing that belongs to or was made by them.",
+            "vi": "Định nghĩa của họ là một người hoặc vật thuộc về hoặc được tạo ra bởi họ."
+        },
+        {
+            "pos": "possessive pronominal adjective",
+            "en": "Of, belonging to, made by, or done by them.",
+            "vi": "Của, thuộc về, được tạo ra bởi hoặc được thực hiện bởi họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "At home, presents were under the tree, waiting for their return.",
+            "vi": "Ở nhà, quà nằm dưới gốc cây, chờ họ trở về."
+        },
+        {
+            "en": "He was realizing the impact the lie had on their relationship.",
+            "vi": "Anh ấy đang nhận ra tác động của lời nói dối đối với mối quan hệ của họ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "của chúng"
+}

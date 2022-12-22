@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈprɛdʒədəs/"
+    ],
+    "synonyms": [
+        "unfairness",
+        "sexism",
+        "bigotry",
+        "prepossession",
+        "bias"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Prejudice is an opinion or judgment that disregards the facts.",
+            "vi": "Thành kiến ​​là một ý kiến ​​hoặc nhận định coi thường sự thật."
+        },
+        {
+            "pos": "verb",
+            "en": "To affect detrimentally or harmfully by a judgment or act.",
+            "vi": "Gây ảnh hưởng bất lợi hoặc có hại bởi một phán quyết hoặc hành động."
+        },
+        {
+            "pos": "idiom",
+            "en": "without prejudice  without detriment or injury without dismissal of or detriment to (a legal right, claim, etc.)",
+            "vi": "không gây phương hại mà không gây tổn hại hoặc thương tích mà không bị sa thải hoặc phương hại đến (quyền hợp pháp, yêu cầu, v.v.)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The police do not want to prejudice an investigation.",
+            "vi": "Cảnh sát không muốn làm tổn hại đến cuộc điều tra."
+        },
+        {
+            "en": "We don't want to prejudice law enforcement against doing the right thing.",
+            "vi": "Chúng tôi không muốn làm tổn hại đến việc thực thi pháp luật đối với việc làm đúng."
+        }
+    ],
+    "words_form": [
+        "prejudiced",
+        "prejudices",
+        "prejudicing"
+    ],
+    "meaning_vi": "định kiến"
+}

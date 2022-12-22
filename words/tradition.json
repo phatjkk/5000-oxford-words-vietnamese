@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/trəˈdɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "legend",
+        "heritage",
+        "culture",
+        "myth",
+        "folklore"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a tradition is a custom or belief that is passed down through the generations or that is done time after time or year after year.",
+            "vi": "Định nghĩa về truyền thống là một phong tục hoặc tín ngưỡng được truyền qua nhiều thế hệ hoặc được thực hiện hết lần này đến lần khác hoặc năm này qua năm khác."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To transmit by way of tradition; to hand down.",
+            "vi": "(lỗi thời) Để truyền bằng con đường truyền thống; để xuống tay."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's a tradition around here.",
+            "vi": "Đó là một truyền thống xung quanh đây."
+        },
+        {
+            "en": "Our family has a long tradition of self-sacrifice and charity.",
+            "vi": "Gia đình chúng tôi có truyền thống hy sinh và bác ái lâu đời."
+        }
+    ],
+    "words_form": [
+        "traditions"
+    ],
+    "meaning_vi": "truyền thống"
+}

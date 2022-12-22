@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ni/"
+    ],
+    "synonyms": [
+        "joint",
+        "knee joint",
+        "patella",
+        "genu",
+        "patellar"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of knee is the joint between the thigh and lower leg.",
+            "vi": "Định nghĩa của đầu gối là khớp giữa đùi và cẳng chân."
+        },
+        {
+            "pos": "verb",
+            "en": "Knee is defined as to hit or strike using the joint between the thigh and lower leg.",
+            "vi": "Knee được định nghĩa là đánh hoặc ra đòn bằng cách sử dụng khớp giữa đùi và cẳng chân."
+        },
+        {
+            "pos": "idiom",
+            "en": "take a knee  To kneel down on one knee. To kneel down on one knee while holding the ball so as to down the ball, as in one's own end zone for a touchback.",
+            "vi": "lấy một đầu gối để quỳ xuống bằng một đầu gối. Khuỵu một gối trong khi giữ bóng để bóng rơi xuống, như trong vùng cuối của chính mình để có một cú đánh trả bóng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She pat­ted Fred's knee playfully.",
+            "vi": "Cô ấy vỗ nhẹ vào đầu gối của Fred một cách tinh nghịch."
+        },
+        {
+            "en": "She was squatting beside a goat, one knee lower than the other.",
+            "vi": "Cô ấy đang ngồi xổm bên cạnh một con dê, thấp hơn đầu gối kia một đầu gối."
+        }
+    ],
+    "words_form": [
+        "kneed",
+        "kneeing",
+        "knees"
+    ],
+    "meaning_vi": "đầu gối"
+}

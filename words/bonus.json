@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈboʊnəs/"
+    ],
+    "synonyms": [
+        "reward",
+        "premium",
+        "prize",
+        "compensation",
+        "gravy"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a bonus is anything given beyond the required amount.",
+            "vi": "Định nghĩa của tiền thưởng là bất kỳ thứ gì được đưa ra ngoài số tiền yêu cầu."
+        },
+        {
+            "pos": "verb",
+            "en": "To pay a bonus, premium.",
+            "vi": "Để trả tiền thưởng, phí bảo hiểm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The art is a bonus, he said with a wink.",
+            "vi": "Nghệ thuật là một phần thưởng, anh nói với một cái nháy mắt."
+        },
+        {
+            "en": "This scheme included the distribution of a bonus of 25% to holders of treasury bonds.",
+            "vi": "Kế hoạch này bao gồm việc phân phối 25% tiền thưởng cho những người nắm giữ trái phiếu kho bạc."
+        }
+    ],
+    "words_form": [
+        "bonuses"
+    ],
+    "meaning_vi": "tiền thưởng"
+}

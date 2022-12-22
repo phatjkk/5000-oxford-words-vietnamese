@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/əˈsum/"
+    ],
+    "synonyms": [
+        "suppose",
+        "presume",
+        "postulate",
+        "posit",
+        "presuppose"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To take for granted; suppose.",
+            "vi": "Để cho là đương nhiên; giả sử."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Pete will assume I can take care of you.",
+            "vi": "Pete sẽ cho rằng tôi có thể chăm sóc cho bạn."
+        },
+        {
+            "en": "Alex had always taken care of his family, but was it irresponsible to assume he always would?",
+            "vi": "Alex luôn chăm lo cho gia đình, nhưng liệu có vô trách nhiệm khi cho rằng anh luôn như vậy không?"
+        }
+    ],
+    "words_form": [
+        "assumed",
+        "assumes",
+        "assuming"
+    ],
+    "meaning_vi": "giả định"
+}

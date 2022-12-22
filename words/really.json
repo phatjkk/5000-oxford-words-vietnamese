@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈri(ə)li/"
+    ],
+    "synonyms": [
+        "indeed",
+        "actually",
+        "genuinely",
+        "certainly",
+        "undoubtedly"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Really is defined as in fact or actually.",
+            "vi": "Thực sự được định nghĩa là trong thực tế hoặc thực tế."
+        },
+        {
+            "pos": "interjection",
+            "en": "Used to express surprise, skepticism, displeasure, or interest.",
+            "vi": "Được sử dụng để bày tỏ sự ngạc nhiên, hoài nghi, không hài lòng hoặc quan tâm."
+        },
+        {
+            "pos": "verb",
+            "en": "To bring together again; to ally anew.",
+            "vi": "Để mang lại cho nhau một lần nữa; để đồng minh mới."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You look really tired.",
+            "vi": "Bạn trông thực sự mệt mỏi."
+        },
+        {
+            "en": "I really like the look of wood - especially when it looks this graceful.",
+            "vi": "Tôi thực sự thích vẻ ngoài của gỗ - đặc biệt là khi nó trông duyên dáng như thế này."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "có thật không"
+}

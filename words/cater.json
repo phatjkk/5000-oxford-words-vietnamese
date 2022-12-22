@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈkeɪdər/"
+    ],
+    "synonyms": [
+        "provide",
+        "kowtow",
+        "catering",
+        "victual",
+        "pamper"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To provide food or entertainment.",
+            "vi": "Để cung cấp thức ăn hoặc giải trí."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) A provider; a purveyor; a caterer.",
+            "vi": "(lỗi thời) Một nhà cung cấp; một người cung cấp; một người phục vụ ăn uống."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The restaurant can cater for private and business gatherings.",
+            "vi": "Nhà hàng có thể phục vụ cho các cuộc họp mặt riêng tư và kinh doanh."
+        },
+        {
+            "en": "The bakery and pantry also cater special events and are available for special orders.",
+            "vi": "Tiệm bánh và phòng đựng thức ăn cũng phục vụ các sự kiện đặc biệt và luôn sẵn sàng cho những đơn đặt hàng đặc biệt."
+        }
+    ],
+    "words_form": [
+        "catered",
+        "catering",
+        "caters"
+    ],
+    "meaning_vi": "phục vụ"
+}

@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈtreɪnɪŋ/"
+    ],
+    "synonyms": [
+        "educational",
+        "forgetting",
+        "preparatory",
+        "cultivating",
+        "discipline"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The activity of imparting and acquiring skills.",
+            "vi": "Hoạt động truyền đạt và thu nhận các kỹ năng."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of train.",
+            "vi": "Hiện tại phân từ của chuyến tàu."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or for use or preparation at an early stage of learning or development.",
+            "vi": "Của hoặc để sử dụng hoặc chuẩn bị ở giai đoạn học tập hoặc phát triển ban đầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Training starts tomorrow morning at dawn.",
+            "vi": "Buổi tập huấn bắt đầu vào sáng mai lúc bình minh."
+        },
+        {
+            "en": "He touched a few buttons to take it off training mode.",
+            "vi": "Anh chạm vào một vài nút để tắt chế độ đào tạo."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đào tạo"
+}

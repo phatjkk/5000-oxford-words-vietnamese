@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/hɪm/"
+    ],
+    "synonyms": [
+        "me",
+        "he",
+        "her",
+        "myself",
+        "she"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Him is defined as he and is used with a verb.",
+            "vi": "Him được định nghĩa là anh ta và được sử dụng với một động từ."
+        },
+        {
+            "pos": "noun",
+            "en": "A male.",
+            "vi": "Một người đàn ông."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Her (or His) Imperial Majesty.",
+            "vi": "Nữ hoàng (hoặc của Ngài)."
+        },
+        {
+            "pos": "anagrams",
+            "en": "HMI.",
+            "vi": "HMI."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They could not give him any help.",
+            "vi": "Họ không thể giúp gì cho anh ta."
+        },
+        {
+            "en": "Looking down at him, she sighed.",
+            "vi": "Nhìn xuống anh, cô thở dài."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "anh ta"
+}

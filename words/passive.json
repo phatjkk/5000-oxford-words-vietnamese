@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈpæsɪv/"
+    ],
+    "synonyms": [
+        "submissive",
+        "quiet",
+        "passiveness",
+        "active",
+        "lively"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Influenced or acted upon without exerting influence or acting in return; inactive, but acted upon.",
+            "vi": "Bị ảnh hưởng hoặc hành động mà không gây ảnh hưởng hoặc hành động ngược lại; không hoạt động, nhưng đã hành động."
+        },
+        {
+            "pos": "noun",
+            "en": "Passive is defined as a sentence that is formed by a noun, then a verb then the phrase \"by (noun).\"",
+            "vi": "Bị động được định nghĩa là một câu được tạo thành bởi một danh từ, sau đó là một động từ rồi đến cụm từ \"bởi (danh từ).\""
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He took in her features with passive curiosity.",
+            "vi": "Anh tiếp thu những nét đặc trưng của cô với sự tò mò thụ động."
+        },
+        {
+            "en": "On the Internet are far fewer passive observers.",
+            "vi": "Trên Internet có ít người quan sát thụ động hơn nhiều."
+        }
+    ],
+    "words_form": [
+        "passives"
+    ],
+    "meaning_vi": "thụ động"
+}

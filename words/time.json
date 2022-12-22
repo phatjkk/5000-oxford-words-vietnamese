@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/taɪm/"
+    ],
+    "synonyms": [
+        "time",
+        "background",
+        "cadence",
+        "moment",
+        "incident"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Time is defined as the duration in which all things happen, or a precise instant that something happens.",
+            "vi": "Thời gian được định nghĩa là khoảng thời gian mà tất cả mọi thứ xảy ra, hoặc một thời điểm chính xác mà một điều gì đó xảy ra."
+        },
+        {
+            "pos": "verb",
+            "en": "To record the speed or duration of.",
+            "vi": "Để ghi lại tốc độ hoặc thời lượng của."
+        },
+        {
+            "pos": "interjection",
+            "en": "(sports) Used to signify that a period of play or activity has ended or that play is temporarily suspended.",
+            "vi": "(thể thao) Được sử dụng để biểu thị rằng một khoảng thời gian chơi hoặc hoạt động đã kết thúc hoặc cuộc chơi đó tạm thời bị tạm dừng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Constructed so as to operate at a particular moment.",
+            "vi": "Được xây dựng để hoạt động tại một thời điểm cụ thể."
+        },
+        {
+            "pos": "idiom",
+            "en": "against time  With a quickly approaching time limit: Worked against time to deliver the manuscript before the deadline.",
+            "vi": "chống lại thời gian Với thời hạn đến nhanh chóng: Đã làm việc chống lại thời gian để giao bản thảo trước thời hạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It isn't the first time I've cooked.",
+            "vi": "Đây không phải là lần đầu tiên tôi nấu ăn."
+        },
+        {
+            "en": "Did you need time away from me?",
+            "vi": "Bạn cần thời gian xa tôi?"
+        }
+    ],
+    "words_form": [
+        "timed",
+        "times",
+        "timing"
+    ],
+    "meaning_vi": "thời gian"
+}

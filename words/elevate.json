@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈɛləˌveɪt/"
+    ],
+    "synonyms": [
+        "heighten",
+        "hoist",
+        "promote",
+        "rise",
+        "lift"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To elevate is to lift something up, to promote, or to boost.",
+            "vi": "Nâng cao là nâng một cái gì đó lên, để thăng chức hoặc để thăng tiến."
+        },
+        {
+            "pos": "adjective",
+            "en": "(archaic) Elevated.",
+            "vi": "(cổ xưa) Đã nâng cao."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It made her heartbeat elevate, her body sweat.",
+            "vi": "Nó làm cho nhịp tim của cô ấy cao lên, cơ thể cô ấy đổ mồ hôi."
+        },
+        {
+            "en": "Elevate the rear, wasn't it?",
+            "vi": "Nâng cao phía sau, phải không?"
+        }
+    ],
+    "words_form": [
+        "elevated",
+        "elevates",
+        "elevating"
+    ],
+    "meaning_vi": "nâng"
+}

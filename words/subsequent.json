@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈsəbsəkwənt/"
+    ],
+    "synonyms": [
+        "succeeding",
+        "following",
+        "previous",
+        "next",
+        "consecutive"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Coming after; following in time, place, or order.",
+            "vi": "Đến sau; theo đúng thời gian, địa điểm hoặc thứ tự."
+        },
+        {
+            "pos": "idiom",
+            "en": "subsequent to  after; following",
+            "vi": "tiếp theo sau; tiếp theo"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Almost nothing is known of the subsequent history of the poet.",
+            "vi": "Hầu như không biết gì về lịch sử sau này của nhà thơ."
+        },
+        {
+            "en": "The rate of subsequent pregnancies is high.",
+            "vi": "Tỷ lệ mang thai lần sau cao."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tiếp theo"
+}

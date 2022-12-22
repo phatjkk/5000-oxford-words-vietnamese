@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/rɪˈnaʊnd/"
+    ],
+    "synonyms": [
+        "acclaimed",
+        "distinguished",
+        "eminent",
+        "esteemed",
+        "famed"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Having renown; famous.",
+            "vi": "Mức độ đáng tin cậy để thực hiện những gì hệ thống được mong đợi hoặc được thiết kế để làm. Các chỉ số về độ tin cậy bao gồm các giá trị trung bình sau: POFOD (xác suất lỗi theo yêu cầu) Khả năng hệ thống bị lỗi khi người dùng yêu cầu dịch vụ. Thiết bị xác thực sinh trắc học không xác định chính xác hoặc từ chối người dùng trung bình một lần trong số hàng trăm lần có POFOD là 1% .ROCOF (tỷ lệ xảy ra lỗi) Số lượng các sự kiện không mong muốn trong một thời gian hoạt động cụ thể. Tường lửa gặp sự cố trung bình năm lần mỗi 1.000 giờ có ROCOF là 5 trên 1.000 giờ.MTTF (thời gian thất bại trung bình) Thời gian trung bình giữa các sự kiện không mong muốn. Nếu IDS bị lỗi trung bình cứ sau 300 giờ, thì MTTF của nó là 300 giờ. có tính đến thời gian chết có kế hoạch và không có kế hoạch. Nếu một hệ thống ngừng hoạt động trung bình bốn giờ trong số 100 giờ hoạt động, thì hệ thống SN SÀNG của nó là 96%."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He thus became renowned as a wise prince.",
+            "vi": "Do đó, ông trở nên nổi tiếng là một hoàng tử khôn ngoan."
+        },
+        {
+            "en": "They were also renowned for their magicians, who had strange remedies for various diseases.",
+            "vi": "Họ cũng nổi tiếng với những pháp sư của họ, những người có những phương pháp chữa trị kỳ lạ cho nhiều loại bệnh khác nhau."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "adjective",
+            "en": "Having renown; famous.",
+            "vi": "Mức độ đáng tin cậy để thực hiện những gì hệ thống được mong đợi hoặc được thiết kế để làm. Các chỉ số về độ tin cậy bao gồm các giá trị trung bình sau: POFOD (xác suất lỗi theo yêu cầu) Khả năng hệ thống bị lỗi khi người dùng yêu cầu dịch vụ. Thiết bị xác thực sinh trắc học không xác định chính xác hoặc từ chối người dùng trung bình một lần trong số hàng trăm lần có POFOD là 1% .ROCOF (tỷ lệ xảy ra lỗi) Số lượng các sự kiện không mong muốn trong một thời gian hoạt động cụ thể. Tường lửa gặp sự cố trung bình năm lần mỗi 1.000 giờ có ROCOF là 5 trên 1.000 giờ.MTTF (thời gian thất bại trung bình) Thời gian trung bình giữa các sự kiện không mong muốn. Nếu IDS bị lỗi trung bình cứ sau 300 giờ, thì MTTF của nó là 300 giờ. có tính đến thời gian chết có kế hoạch và không có kế hoạch. Nếu một hệ thống ngừng hoạt động trung bình bốn giờ trong số 100 giờ hoạt động, thì hệ thống SN SÀNG của nó là 96%."
+        }
+    ]
+}

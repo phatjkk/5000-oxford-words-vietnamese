@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/fɪlm/"
+    ],
+    "synonyms": [
+        "plate",
+        "gauze",
+        "fabric",
+        "cellulose",
+        "veil"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A thin skin or membrane.",
+            "vi": "Một lớp da hoặc màng mỏng."
+        },
+        {
+            "pos": "verb",
+            "en": "To cover with or as if with a film.",
+            "vi": "Để che bằng hoặc như thể với một bộ phim."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The formation of a film is noted.",
+            "vi": "Sự hình thành của một bộ phim được ghi nhận."
+        },
+        {
+            "en": "\"A silent film star,\" Charlie said.",
+            "vi": "\"Một ngôi sao phim câm,\" Charlie nói."
+        }
+    ],
+    "words_form": [
+        "filmed",
+        "filming",
+        "films"
+    ],
+    "meaning_vi": "phim ảnh"
+}

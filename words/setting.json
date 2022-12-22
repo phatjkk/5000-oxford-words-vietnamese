@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈsɛdɪŋ/"
+    ],
+    "synonyms": [
+        "ambiance",
+        "ambience",
+        "framework",
+        "backdrop",
+        "surroundings"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The position, direction, or way in which something, such as an automatic control, is set.",
+            "vi": "Vị trí, hướng hoặc cách đặt một thứ gì đó, chẳng hạn như điều khiển tự động."
+        },
+        {
+            "pos": "verb",
+            "en": "Setting is the act of placing items in a certain way.",
+            "vi": "Đặt là hành động đặt các mục theo một cách nhất định."
+        },
+        {
+            "pos": "adjective",
+            "en": "That disappears below the horizon.",
+            "vi": "Điều đó biến mất bên dưới đường chân trời."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was a lovely setting for a home, secluded in wildly beautiful forested hills.",
+            "vi": "Đó là một khung cảnh tuyệt đẹp cho một ngôi nhà, nằm tách biệt trong những ngọn đồi có rừng rậm hoang sơ tuyệt đẹp."
+        },
+        {
+            "en": "You were setting me up.",
+            "vi": "Bạn đang gài bẫy tôi."
+        }
+    ],
+    "words_form": [
+        "settings"
+    ],
+    "meaning_vi": "thiết lập"
+}

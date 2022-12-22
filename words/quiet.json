@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/ˈkwaɪət/"
+    ],
+    "synonyms": [
+        "peaceful",
+        "soundless",
+        "tranquil",
+        "low",
+        "soft"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To become quiet.",
+            "vi": "Để trở nên yên tĩnh."
+        },
+        {
+            "pos": "adjective",
+            "en": "Not forward; unobtrusive.",
+            "vi": "Không chuyển tiếp; không phô trương."
+        },
+        {
+            "pos": "noun",
+            "en": "A quiet state or condition; calmness, stillness, inactivity, freedom from noise, etc.",
+            "vi": "Trạng thái hoặc tình trạng yên tĩnh; tĩnh lặng, tĩnh lặng, không hoạt động, không bị ồn ào, v.v."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a quiet manner.",
+            "vi": "Trong một cách yên lặng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You are quiet this morning, son.",
+            "vi": "Sáng nay con yên lặng, con trai."
+        },
+        {
+            "en": "He was quiet for a long moment.",
+            "vi": "Anh lặng đi một lúc lâu."
+        }
+    ],
+    "words_form": [
+        "quieted",
+        "quietest",
+        "quieting",
+        "quiets"
+    ],
+    "meaning_vi": "Yên lặng"
+}

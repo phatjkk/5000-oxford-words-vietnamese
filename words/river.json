@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ˈrɪvər/"
+    ],
+    "synonyms": [
+        "watercourse",
+        "stream",
+        "flow",
+        "tributary",
+        "effluent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a river is a natural stream of water that empties into another body of water.",
+            "vi": "Định nghĩa về sông là một dòng nước tự nhiên đổ vào một vùng nước khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To win a hand in poker by beating (someone) on the basis of the last community card that is turned up.",
+            "vi": "Để giành chiến thắng trong poker bằng cách đánh bại (ai đó) trên cơ sở lá bài cộng đồng cuối cùng được lật lên."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A male given name.",
+            "vi": "Một tên nam giới."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) up the river  In or into prison.",
+            "vi": "(lóng) lên sông Vào hay vào tù."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Everything west of the river was blank.",
+            "vi": "Mọi thứ phía tây sông đều trống rỗng."
+        },
+        {
+            "en": "Everything west of the river is fine.",
+            "vi": "Mọi thứ phía Tây sông đều ổn."
+        }
+    ],
+    "words_form": [
+        "rivers"
+    ],
+    "meaning_vi": "dòng sông"
+}

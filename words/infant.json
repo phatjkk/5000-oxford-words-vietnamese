@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈɪnfənt/"
+    ],
+    "synonyms": [
+        "baby",
+        "newborn",
+        "babe",
+        "bambino",
+        "child"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A very young nonhuman mammal, especially a primate.",
+            "vi": "Một loài động vật có vú không phải con người rất trẻ, đặc biệt là một loài linh trưởng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Intended for infants or young children.",
+            "vi": "Dành cho trẻ sơ sinh hoặc trẻ nhỏ."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To bear or bring forth (a child); to produce, in general.",
+            "vi": "(lỗi thời) Mang hoặc đẻ (một đứa trẻ); để sản xuất, nói chung."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Martha was alone with an infant and it was after nine o'clock.",
+            "vi": "Martha ở một mình với một đứa trẻ sơ sinh và đã hơn chín giờ."
+        },
+        {
+            "en": "And an infant baby cried.",
+            "vi": "Và một đứa trẻ sơ sinh đã khóc."
+        }
+    ],
+    "words_form": [
+        "infants"
+    ],
+    "meaning_vi": "trẻ sơ sinh"
+}

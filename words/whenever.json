@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/(h)wɛnˈɛvər/",
+        "/(h)wəˈnɛvər/"
+    ],
+    "synonyms": [
+        "if",
+        "once",
+        "should",
+        "when",
+        "where"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "At whatever time.",
+            "vi": "Bất cứ lúc nào."
+        },
+        {
+            "pos": "conjunction",
+            "en": "At whatever time that.",
+            "vi": "Bất cứ lúc nào mà."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He snorted whenever he mentioned him.",
+            "vi": "Anh khịt mũi mỗi khi nhắc đến anh."
+        },
+        {
+            "en": "Just remember, I'll always be there – whenever you need me.",
+            "vi": "Chỉ cần nhớ rằng, tôi sẽ luôn ở đó - bất cứ khi nào bạn cần tôi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bất cứ khi nào"
+}

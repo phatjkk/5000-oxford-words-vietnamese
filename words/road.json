@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/roʊd/"
+    ],
+    "synonyms": [
+        "highway",
+        "lane",
+        "boulevard",
+        "roadway",
+        "thruway"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of road, in sports, is being played on another team's home field.",
+            "vi": "Định nghĩa về đường, trong thể thao, đang được chơi trên sân nhà của một đội khác."
+        },
+        {
+            "pos": "noun",
+            "en": "Road is defined as a path, course or space for traveling between places.",
+            "vi": "Đường được định nghĩa là một lối đi, đường đi hoặc không gian để đi lại giữa các địa điểm."
+        },
+        {
+            "pos": "idiom",
+            "en": "down the road  In the future; at a later date.",
+            "vi": "xuống đường Trong tương lai; vào một ngày sau đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Didn't the police set up road blocks?",
+            "vi": "Cảnh sát không lập chốt chặn đường à?"
+        },
+        {
+            "en": "At the edge of the road stood an oak.",
+            "vi": "Ở mép đường có một cây sồi."
+        }
+    ],
+    "words_form": [
+        "roads"
+    ],
+    "meaning_vi": "đường"
+}

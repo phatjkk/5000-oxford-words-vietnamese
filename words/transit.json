@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈtrænzət/"
+    ],
+    "synonyms": [
+        "move",
+        "conveyance",
+        "transport",
+        "change",
+        "track"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Transit is a passage or transition through or across, or public transportation.",
+            "vi": "Quá cảnh là một đoạn đường hoặc quá trình chuyển tiếp qua hoặc qua, hoặc phương tiện giao thông công cộng."
+        },
+        {
+            "pos": "verb",
+            "en": "To pass over, across, or through.",
+            "vi": "Để vượt qua, vượt qua hoặc vượt qua."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The transit was observed on the 3rd of June 1769.",
+            "vi": "Quá cảnh được quan sát vào ngày 3 tháng 6 năm 1769."
+        },
+        {
+            "en": "Those adopted by the National Transit Company are 90 ft.",
+            "vi": "Những con được Công ty Vận tải Quốc gia chấp nhận là 90 ft."
+        }
+    ],
+    "words_form": [
+        "transiting",
+        "transits"
+    ],
+    "meaning_vi": "quá cảnh"
+}

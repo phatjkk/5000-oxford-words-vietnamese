@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/ruf/",
+        "/rʊf/"
+    ],
+    "synonyms": [
+        "ceiling",
+        "summit",
+        "rooftop",
+        "dome",
+        "awning"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The upper surface of an anatomical structure, especially one having a vaulted inner structure.",
+            "vi": "Mặt trên của cấu trúc giải phẫu, đặc biệt là có cấu trúc hình vòm bên trong."
+        },
+        {
+            "pos": "verb",
+            "en": "To furnish with a roof or cover.",
+            "vi": "Để trang trí bằng mái che hoặc mái che."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(astronomy) A Chinese constellation located near Aquarius and Pegasus, one of the 28 lunar mansions and part of the larger Black Turtle.",
+            "vi": "(thiên văn học) Một chòm sao Trung Quốc nằm gần Aquarius và Pegasus, một trong 28 dinh thự trên Mặt Trăng và là một phần của Rùa Đen lớn hơn."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) go through the roof  To grow, intensify, or rise to an enormous, often unexpected degree: Operating costs went through the roof last year.To become extremely angry: When I told her about breaking the window, she went through the roof.",
+            "vi": "(tiếng lóng) chui qua mái nhà Để phát triển, tăng cường hoặc tăng đến một mức độ to lớn, thường là bất ngờ: Chi phí vận hành đã vượt qua mái nhà vào năm ngoái. ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He tapped the roof of his truck with his fingernails.",
+            "vi": "Anh dùng móng tay gõ vào nóc xe tải."
+        },
+        {
+            "en": "A metal roof replaced the old shingles.",
+            "vi": "Một mái nhà bằng kim loại đã thay thế những tấm ván lợp cũ."
+        }
+    ],
+    "words_form": [
+        "roofed",
+        "roofing",
+        "roofs"
+    ],
+    "meaning_vi": "mái nhà"
+}

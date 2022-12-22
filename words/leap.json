@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/lip/"
+    ],
+    "synonyms": [
+        "bounce",
+        "jump",
+        "leaping",
+        "plummet",
+        "fall"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Leap is defined as to jump up from the ground.",
+            "vi": "Nhảy được định nghĩa là nhảy lên khỏi mặt đất."
+        },
+        {
+            "pos": "noun",
+            "en": "A sudden transition.",
+            "vi": "Một sự chuyển đổi đột ngột."
+        },
+        {
+            "pos": "idiom",
+            "en": "by leaps and bounds  Very quickly: Growing by leaps and bounds.",
+            "vi": "bằng cách nhảy vọt Rất nhanh chóng: Phát triển nhảy vọt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Little calf does run and leap in field.",
+            "vi": "Con bê nhỏ chạy và nhảy trên cánh đồng."
+        },
+        {
+            "en": "And when I heard it my heart did leap for joy.",
+            "vi": "Và khi tôi nghe nó, trái tim tôi đã nhảy lên vì vui sướng."
+        }
+    ],
+    "words_form": [
+        "leaped",
+        "leaping",
+        "leaps",
+        "leapt",
+        "lept"
+    ],
+    "meaning_vi": "bước nhảy vọt"
+}

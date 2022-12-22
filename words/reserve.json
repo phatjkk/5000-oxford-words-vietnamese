@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/rəˈzərv/"
+    ],
+    "synonyms": [
+        "resources",
+        "stock",
+        "savings",
+        "supply",
+        "reticence"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To keep or secure for oneself; retain.",
+            "vi": "Để giữ hoặc bảo mật cho chính mình; giữ lại."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a reserve is something kept or stored if needed.",
+            "vi": "Định nghĩa về dự trữ là thứ được giữ lại hoặc cất giữ nếu cần."
+        },
+        {
+            "pos": "adjective",
+            "en": "Held in or forming a reserve.",
+            "vi": "Tổ chức trong hoặc hình thành một khu dự trữ."
+        },
+        {
+            "pos": "idiom",
+            "en": "in reserve  Kept back, set aside, or saved.",
+            "vi": "trong dự trữ Giữ lại, đặt sang một bên hoặc lưu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Despite his reserve, he could tell Dusty liked her.",
+            "vi": "Bất chấp sự dè dặt của mình, anh có thể nói Dusty thích cô ấy."
+        },
+        {
+            "en": "Our reserve units were able to join up, and the fight was at an end.",
+            "vi": "Các đơn vị dự bị của chúng tôi đã có thể tham gia, và cuộc chiến đã kết thúc."
+        }
+    ],
+    "words_form": [
+        "reserved",
+        "reserves",
+        "reserving"
+    ],
+    "meaning_vi": "dự trữ"
+}

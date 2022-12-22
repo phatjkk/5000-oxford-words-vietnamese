@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/rəˈmɑrk/"
+    ],
+    "synonyms": [
+        "comment",
+        "notice",
+        "aside",
+        "platitudinal",
+        "note"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To remark is to make a comment or say something.",
+            "vi": "Nhận xét là đưa ra nhận xét hoặc nói điều gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a remark is a statement about something you noticed.",
+            "vi": "Định nghĩa của một nhận xét là một tuyên bố về điều gì đó mà bạn nhận thấy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His remark stung, as he'd meant it to.",
+            "vi": "Nhận xét của anh ta nhức nhối, như anh ta muốn nói vậy."
+        },
+        {
+            "en": "His remark about how she looked in the swimsuit made it obvious that he saw her as something more than a baby sitter or maid.",
+            "vi": "Nhận xét của anh ấy về cách cô ấy trông trong bộ đồ bơi cho thấy rõ ràng rằng anh ấy xem cô ấy như một thứ gì đó hơn là một người trông trẻ hay người giúp việc."
+        }
+    ],
+    "words_form": [
+        "remarked",
+        "remarks"
+    ],
+    "meaning_vi": "nhận xét"
+}

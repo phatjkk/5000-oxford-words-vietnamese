@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/daʊnˈstɛrz/"
+    ],
+    "synonyms": [
+        "ground floor",
+        "basement",
+        "first-floor",
+        "on a lower floor",
+        "living-room"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "On or to a lower floor.",
+            "vi": "Trên hoặc đến một tầng thấp hơn."
+        },
+        {
+            "pos": "noun",
+            "en": "The lower or main floor.",
+            "vi": "Tầng dưới hoặc tầng chính."
+        },
+        {
+            "pos": "adjective",
+            "en": "Located on a lower or main floor.",
+            "vi": "Nằm ở tầng dưới hoặc tầng chính."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Meet me downstairs at the restrooms.",
+            "vi": "Gặp tôi ở nhà vệ sinh ở tầng dưới."
+        },
+        {
+            "en": "He got up without saying a word and went downstairs to his own room.",
+            "vi": "Anh đứng dậy mà không nói một lời và đi xuống phòng riêng của mình."
+        }
+    ],
+    "words_form": [
+        "downstair"
+    ],
+    "meaning_vi": "tầng dưới"
+}

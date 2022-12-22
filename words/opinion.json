@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/əˈpɪnjən/"
+    ],
+    "synonyms": [
+        "impression",
+        "view",
+        "viewpoint",
+        "appraisal",
+        "suspicion"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A belief or conclusion held with confidence but not substantiated by positive knowledge or proof.",
+            "vi": "Một niềm tin hoặc kết luận được tổ chức một cách tự tin nhưng không được chứng minh bằng kiến ​​thức hoặc bằng chứng tích cực."
+        },
+        {
+            "pos": "verb",
+            "en": "(archaic) To have or express as an opinion.",
+            "vi": "(cổ xưa) Để có hoặc bày tỏ như một ý kiến."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You always did have a high opinion of yourself.",
+            "vi": "Bạn luôn có ý kiến ​​đánh giá cao về bản thân."
+        },
+        {
+            "en": "My opinion hasn't changed.",
+            "vi": "Ý kiến ​​của tôi không thay đổi."
+        }
+    ],
+    "words_form": [
+        "opinions"
+    ],
+    "meaning_vi": "ý kiến"
+}

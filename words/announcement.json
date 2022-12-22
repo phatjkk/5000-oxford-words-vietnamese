@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˈnaʊnsmənt/"
+    ],
+    "synonyms": [
+        "brief",
+        "exposition",
+        "statement",
+        "pronunciation",
+        "report"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an announcement is a public declaration of something.",
+            "vi": "Định nghĩa của một thông báo là một tuyên bố công khai về một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll make the announcement at dawn.",
+            "vi": "Tôi sẽ thông báo vào lúc bình minh."
+        },
+        {
+            "en": "I have an announcement to make.",
+            "vi": "Tôi có một thông báo."
+        }
+    ],
+    "words_form": [
+        "announcements"
+    ],
+    "meaning_vi": "thông báo"
+}

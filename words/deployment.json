@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/dɪˈplɔɪmənt/"
+    ],
+    "synonyms": [
+        "distribution",
+        "formation",
+        "stationing",
+        "categorization",
+        "classification"
+    ],
+    "meaning": [
+        {
+            "pos": "",
+            "en": "Installing, setting up, testing and running. This military term, which means the placement of troops and equipment in the field, is widely used with computers as an alternate to the word \"implementation.\" For example, \"XYZ software deployment\" is the same as saying \"XYZ software implementation.\" To \"deploy\" something is to \"get it installed and running.\"",
+            "vi": "(psychol.) Một quá trình suy nghĩ vô thức, theo đó một người biểu hiện sự lo lắng bằng cách từ chối thừa nhận một số sự kiện, cảm giác khó chịu, v.v."
+        },
+        {
+            "pos": "noun",
+            "en": "An arrangement or classification of things.",
+            "vi": "Một câu trả lời đặt câu hỏi về tất cả các cáo buộc quan trọng trong một bản kiến ​​nghị hoặc khiếu nại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The deployment completed, about 4 p.m.",
+            "vi": "Việc triển khai hoàn thành, khoảng 4 giờ chiều"
+        },
+        {
+            "en": "A chain of forts to the eastward is designed to facilitate the deployment of an army, concentrated within the fortified region, towards the Belgian frontier.",
+            "vi": "Một chuỗi pháo đài ở phía đông được thiết kế để tạo điều kiện thuận lợi cho việc triển khai quân đội, tập trung trong khu vực được củng cố, hướng tới biên giới của Bỉ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "",
+            "en": "Installing, setting up, testing and running. This military term, which means the placement of troops and equipment in the field, is widely used with computers as an alternate to the word \"implementation.\" For example, \"XYZ software deployment\" is the same as saying \"XYZ software implementation.\" To \"deploy\" something is to \"get it installed and running.\"",
+            "vi": "(psychol.) Một quá trình suy nghĩ vô thức, theo đó một người biểu hiện sự lo lắng bằng cách từ chối thừa nhận một số sự kiện, cảm giác khó chịu, v.v."
+        },
+        {
+            "pos": "noun",
+            "en": "An arrangement or classification of things.",
+            "vi": "Một câu trả lời đặt câu hỏi về tất cả các cáo buộc quan trọng trong một bản kiến ​​nghị hoặc khiếu nại."
+        }
+    ]
+}

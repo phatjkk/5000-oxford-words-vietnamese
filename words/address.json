@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/əˈdrɛs/",
+        "/ˈæˌdrɛs/"
+    ],
+    "synonyms": [
+        "lecture",
+        "number",
+        "addressable",
+        "oration",
+        "speech"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an address is a written or verbal statement, or the physical location of something.",
+            "vi": "Định nghĩa của một địa chỉ là một tuyên bố bằng văn bản hoặc bằng lời nói, hoặc vị trí thực của một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To make a formal speech to.",
+            "vi": "Để thực hiện một bài phát biểu chính thức với."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "My email address is in there, too.",
+            "vi": "Địa chỉ email của tôi cũng có trong đó."
+        },
+        {
+            "en": "We have an address and phone number.",
+            "vi": "Chúng tôi có một địa chỉ và số điện thoại."
+        }
+    ],
+    "words_form": [
+        "addressed",
+        "addresses",
+        "addressing"
+    ],
+    "meaning_vi": "địa chỉ, đề địa chỉ"
+}

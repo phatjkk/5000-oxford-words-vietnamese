@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈlɑdəri/"
+    ],
+    "synonyms": [
+        "drawing",
+        "raffle",
+        "chance",
+        "contest",
+        "gamble"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A contest in which tokens are distributed or sold, the winning token or tokens being secretly predetermined or ultimately selected in a random drawing.",
+            "vi": "Một cuộc thi trong đó mã thông báo được phân phối hoặc bán, mã thông báo chiến thắng hoặc các mã thông báo được xác định trước một cách bí mật hoặc cuối cùng được chọn trong một bản vẽ ngẫu nhiên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I used to play the lottery too.",
+            "vi": "Tôi cũng đã từng chơi xổ số."
+        },
+        {
+            "en": "He was full of literary projects, and immediately after his return he is said to have increased his fortune immensely by a lucky lottery speculation.",
+            "vi": "Anh ấy đã có đầy đủ các dự án văn học, và ngay sau khi trở lại, anh ấy được cho là đã gia tăng tài sản kếch xù nhờ một vụ đầu cơ xổ số may mắn."
+        }
+    ],
+    "words_form": [
+        "lotteries"
+    ],
+    "meaning_vi": "vé số"
+}

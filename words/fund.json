@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/fənd/"
+    ],
+    "synonyms": [
+        "reserve",
+        "supply",
+        "accumulation",
+        "capital",
+        "support"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To fund is defined as to provide money for.",
+            "vi": "Quỹ được định nghĩa là cung cấp tiền cho."
+        },
+        {
+            "pos": "noun",
+            "en": "A supply that can be drawn upon; stock; store.",
+            "vi": "Một nguồn cung cấp có thể được rút ra; Cổ phần; cửa hàng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I certainly couldn't fund the whole group.",
+            "vi": "Tôi chắc chắn không thể tài trợ cho cả nhóm."
+        },
+        {
+            "en": "There was no college fund, either.",
+            "vi": "Cũng không có quỹ đại học."
+        }
+    ],
+    "words_form": [
+        "funded",
+        "funding",
+        "funds"
+    ],
+    "meaning_vi": "quỹ"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈmɛʒərmənt/"
+    ],
+    "synonyms": [
+        "height",
+        "estimation",
+        "mensuration",
+        "calculation",
+        "estimate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A system of measuring or of measures.",
+            "vi": "Một hệ thống đo lường hoặc các biện pháp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The Measurement of Areas is easily effected if the map at our disposal is drawn on an equal area projection.",
+            "vi": "Việc đo lường các khu vực có thể dễ dàng thực hiện nếu bản đồ theo ý của chúng tôi được vẽ trên một phép chiếu có diện tích bằng nhau."
+        },
+        {
+            "en": "One important measurement is that of the wave-length emitted from an antenna.",
+            "vi": "Một phép đo quan trọng là độ dài sóng phát ra từ ăng-ten."
+        }
+    ],
+    "words_form": [
+        "measurements"
+    ],
+    "meaning_vi": "đo lường"
+}

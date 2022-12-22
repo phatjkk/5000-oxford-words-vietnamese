@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈklaɪmɪt/"
+    ],
+    "synonyms": [
+        "weather",
+        "clime",
+        "environment",
+        "atmosphere",
+        "latitude"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of climate is the weather of a location over time or the environment or mood.",
+            "vi": "Định nghĩa của khí hậu là thời tiết của một địa điểm theo thời gian hoặc môi trường hoặc tâm trạng."
+        },
+        {
+            "pos": "verb",
+            "en": "(poetic, obsolete) To dwell.",
+            "vi": "(thơ, lạc hậu) Để ở."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The climate is equable and healthy.",
+            "vi": "Khí hậu là công bằng và trong lành."
+        },
+        {
+            "en": "The climate of Sardinia is more extreme than that of Italy, but varies considerably in different districts.",
+            "vi": "Khí hậu của Sardinia khắc nghiệt hơn của Ý, nhưng thay đổi đáng kể ở các quận khác nhau."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khí hậu"
+}

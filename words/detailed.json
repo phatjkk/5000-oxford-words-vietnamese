@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/dəˈteɪld/",
+        "/ˈdiˌteɪld/"
+    ],
+    "synonyms": [
+        "intricate",
+        "elaborate",
+        "explicit",
+        "definite",
+        "complicated"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Characterized by abundant use of detail or thoroughness of treatment.",
+            "vi": "Đặc trưng bởi việc sử dụng nhiều chi tiết hoặc kỹ lưỡng của việc điều trị."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of detail.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ chi tiết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She apolo­gized that she would once again need his detailed report now that the body remained missing.",
+            "vi": "Cô xin lỗi rằng cô sẽ một lần nữa cần báo cáo chi tiết của anh ta khi thi thể vẫn mất tích."
+        },
+        {
+            "en": "We recognized her voice but I never said anything but my piece; the detailed tip.",
+            "vi": "Chúng tôi đã nhận ra giọng nói của cô ấy nhưng tôi chưa bao giờ nói bất cứ điều gì ngoài đoạn nhạc của mình; các mẹo chi tiết."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chi tiết"
+}

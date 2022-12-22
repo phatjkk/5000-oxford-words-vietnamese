@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɪmˈpɑsəb(ə)l/"
+    ],
+    "synonyms": [
+        "difficult",
+        "insurmountable",
+        "hopeless",
+        "futile",
+        "vain"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Not possible, not able to be done.",
+            "vi": "Không thể, không thể thực hiện được."
+        },
+        {
+            "pos": "noun",
+            "en": "An impossibility.",
+            "vi": "Một điều không thể xảy ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was impossible to keep Helen quiet.",
+            "vi": "Không thể giữ Helen im lặng được."
+        },
+        {
+            "en": "It was impossible to make out what he wanted.",
+            "vi": "Không thể hiểu được anh ta muốn gì."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "không thể nào"
+}

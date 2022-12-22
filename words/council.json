@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈkaʊnsəl/"
+    ],
+    "synonyms": [
+        "assembly",
+        "committee",
+        "cabinet",
+        "body",
+        "conclave"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A group of people chosen as an administrative, advisory, or legislative assembly.",
+            "vi": "Một nhóm người được chọn làm đại hội hành chính, cố vấn hoặc lập pháp."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "Synod.",
+            "vi": "Thượng hội đồng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of dwelling units built or provided by a local council.",
+            "vi": "Chỉ định hoặc các đơn vị ở do một hội đồng địa phương xây dựng hoặc cung cấp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You'll get to meet all my council members.",
+            "vi": "Bạn sẽ được gặp tất cả các thành viên hội đồng của tôi."
+        },
+        {
+            "en": "The Council is a mess.",
+            "vi": "Hội đồng là một mớ hỗn độn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hội đồng"
+}

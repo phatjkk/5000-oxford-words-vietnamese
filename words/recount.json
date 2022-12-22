@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rɪˈkaʊnt/"
+    ],
+    "synonyms": [
+        "narrate",
+        "relate",
+        "report",
+        "describe",
+        "explain"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To recount is to tally or count something again, or to tell someone about events that occurred.",
+            "vi": "Kể lại là đếm lại hoặc đếm lại một điều gì đó, hoặc kể cho ai đó về những sự kiện đã xảy ra."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a recount is a retelling of events.",
+            "vi": "Định nghĩa của kể lại là kể lại các sự kiện."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Why do I recount these stories?",
+            "vi": "Tại sao tôi kể lại những câu chuyện này?"
+        },
+        {
+            "en": "Connor began to recount the story until Jackson stopped him.",
+            "vi": "Connor bắt đầu kể lại câu chuyện cho đến khi Jackson ngăn cản."
+        }
+    ],
+    "words_form": [
+        "recounted",
+        "recounting",
+        "recounts"
+    ],
+    "meaning_vi": "kể lại"
+}

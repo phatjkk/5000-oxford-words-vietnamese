@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/twɪst/"
+    ],
+    "synonyms": [
+        "writhe",
+        "misshape",
+        "spiral",
+        "kick",
+        "wring"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To twist is defined as to wind two or more things around each other or together.",
+            "vi": "Xoắn được định nghĩa là cuộn hai hoặc nhiều thứ xung quanh nhau hoặc với nhau."
+        },
+        {
+            "pos": "noun",
+            "en": "(slang) A girl, a woman.",
+            "vi": "(tiếng lóng) Một cô gái, một phụ nữ."
+        },
+        {
+            "pos": "idiom",
+            "en": "leave to twist  To abandon (someone) to a bad situation, often as a recipient of blame:",
+            "vi": "rời bỏ để vặn vẹo Để bỏ rơi (ai đó) vào một tình huống tồi tệ, thường là người nhận lời đổ lỗi:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She tried to twist away from him.",
+            "vi": "Cô cố gắng tránh xa anh ta."
+        },
+        {
+            "en": "I don't need magic to twist you up in knots.",
+            "vi": "Tôi không cần phép thuật để vặn vẹo bạn."
+        }
+    ],
+    "words_form": [
+        "twisted",
+        "twisting",
+        "twists"
+    ],
+    "meaning_vi": "xoắn"
+}

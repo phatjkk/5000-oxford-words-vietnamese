@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ʃu/"
+    ],
+    "synonyms": [
+        "footwear",
+        "mule",
+        "cleat",
+        "buskin",
+        "clog"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a shoe is a covering for a foot with a sole and a heel.",
+            "vi": "Định nghĩa của một đôi giày là một lớp phủ cho bàn chân với đế và gót."
+        },
+        {
+            "pos": "verb",
+            "en": "Shoe is defined as to fit for a metal cap or provide with a foot covering.",
+            "vi": "Giày được định nghĩa là để vừa với mũ kim loại hoặc có lớp che chân."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) the shoe is on the other foot  The circumstances have been reversed; an unequal relationship has been inverted.",
+            "vi": "(không chính thức) chiếc giày đang ở bên chân khác Tình huống đã được đảo ngược; một mối quan hệ bất bình đẳng đã bị đảo ngược."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Maybe he was wondering when the other shoe would fall.",
+            "vi": "Có lẽ anh đang tự hỏi khi nào chiếc giày kia sẽ rơi."
+        },
+        {
+            "en": "He owned a shoe store at one time—back in the seventies, I think.",
+            "vi": "Ông ấy đã từng sở hữu một cửa hàng giày - tôi nghĩ là vào những năm bảy mươi."
+        }
+    ],
+    "words_form": [
+        "shod",
+        "shoed",
+        "shoeing",
+        "shoes"
+    ],
+    "meaning_vi": "giày"
+}

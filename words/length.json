@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/lɛŋ(k)θ/",
+        "/lɛnth/"
+    ],
+    "synonyms": [
+        "distance",
+        "space",
+        "stretch",
+        "reach",
+        "width"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A piece, often of a standard size, that is normally measured along its greatest dimension.",
+            "vi": "Một mảnh, thường có kích thước tiêu chuẩn, thường được đo dọc theo kích thước lớn nhất của nó."
+        },
+        {
+            "pos": "affix",
+            "en": "Of a (specified) length, of such length as to reach a (specified) point or part.",
+            "vi": "Có độ dài (cụ thể), độ dài sao cho đạt đến một điểm hoặc một phần (cụ thể)."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To lengthen.",
+            "vi": "(lỗi thời) Để kéo dài."
+        },
+        {
+            "pos": "idiom",
+            "en": "at length  After some time; eventually: At length we arrived at our destination.For a considerable time; fully: Spoke at length about the court ruling.",
+            "vi": "ở độ dài Sau một thời gian; cuối cùng: Chúng tôi đã đến đích trong một khoảng thời gian dài; đầy đủ: Nói dài dòng về phán quyết của tòa án."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His canines were four times the length of hers.",
+            "vi": "Răng nanh của anh dài gấp bốn lần răng của cô."
+        },
+        {
+            "en": "To what length can the human lifespan be extended?",
+            "vi": "Tuổi thọ của con người có thể được kéo dài đến độ nào?"
+        }
+    ],
+    "words_form": [
+        "lengths"
+    ],
+    "meaning_vi": "độ dài; chiều dài"
+}

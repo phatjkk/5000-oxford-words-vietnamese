@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/skrætʃ/"
+    ],
+    "synonyms": [
+        "strike",
+        "start",
+        "mar",
+        "heal",
+        "rub"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To use the nails or claws to dig, scrape, or wound.",
+            "vi": "Dùng móng tay hoặc móng vuốt để đào, cạo hoặc làm vết thương."
+        },
+        {
+            "pos": "noun",
+            "en": "A hasty scribble.",
+            "vi": "Một nét vẽ vội vàng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Done haphazardly or by chance.",
+            "vi": "Thực hiện một cách ngẫu nhiên hoặc tình cờ."
+        },
+        {
+            "pos": "idiom",
+            "en": "from scratch  From the very beginning.",
+            "vi": "từ đầu Ngay từ đầu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You told me you were tired of trying to scratch out a living from this ranch.",
+            "vi": "Bạn đã nói với tôi rằng bạn đã mệt mỏi với việc cố gắng kiếm sống từ trang trại này."
+        },
+        {
+            "en": "Was he telling her to scratch Josh's name off her list?",
+            "vi": "Có phải anh ấy bảo cô ấy gạch tên Josh ra khỏi danh sách của cô ấy không?"
+        }
+    ],
+    "words_form": [
+        "scratched",
+        "scratches",
+        "scratching"
+    ],
+    "meaning_vi": "vết trầy"
+}

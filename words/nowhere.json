@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈnoʊˌ(h)wɛr/"
+    ],
+    "synonyms": [
+        "everything",
+        "somewhere",
+        "nothing",
+        "everywhere"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "No particular place, noplace.",
+            "vi": "Không có nơi cụ thể, không nơi nào."
+        },
+        {
+            "pos": "adverb",
+            "en": "Not anywhere.",
+            "vi": "Không ở đâu cả."
+        },
+        {
+            "pos": "idiom",
+            "en": "miles from nowhere  In a very remote place.",
+            "vi": "dặm từ hư không Ở một nơi rất xa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The blue truck was nowhere in sight.",
+            "vi": "Chiếc xe tải màu xanh không ở đâu trong tầm mắt."
+        },
+        {
+            "en": "I have nowhere else to go.",
+            "vi": "Tôi không có nơi nào khác để đi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hư không"
+}

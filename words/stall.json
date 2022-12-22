@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/stɔl/"
+    ],
+    "synonyms": [
+        "delay",
+        "help",
+        "allow",
+        "stay",
+        "conk out"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A compartment for one domestic animal in a barn or shed.",
+            "vi": "Ngăn dành cho một con vật nuôi trong chuồng hoặc chuồng."
+        },
+        {
+            "pos": "verb",
+            "en": "To put or lodge in a stall.",
+            "vi": "Để đặt hoặc thuê trong một quầy hàng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She paused at the last stall and smiled.",
+            "vi": "Cô dừng lại ở quầy hàng cuối cùng và mỉm cười."
+        },
+        {
+            "en": "When they reached the stall, Casper's flanks were wet with sweat.",
+            "vi": "Khi họ đến quầy hàng, hai bên sườn của Casper ướt đẫm mồ hôi."
+        }
+    ],
+    "words_form": [
+        "stalled",
+        "stalling",
+        "stalls"
+    ],
+    "meaning_vi": "gian hàng"
+}

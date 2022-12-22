@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/straɪk/"
+    ],
+    "synonyms": [
+        "walkout",
+        "beat",
+        "buffet",
+        "assail",
+        "exposure"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To set out or proceed, especially in a new direction.",
+            "vi": "Để đặt ra hoặc tiếp tục, đặc biệt là theo một hướng mới."
+        },
+        {
+            "pos": "noun",
+            "en": "Strike is a term used in baseball for a pitched ball that is counted against the batter.",
+            "vi": "Cú đánh là một thuật ngữ được sử dụng trong bóng chày để chỉ một quả bóng ném được tính vào người đánh bóng."
+        },
+        {
+            "pos": "idiom",
+            "en": "on strike  Engaged in a work stoppage: Most of the employees were on strike.",
+            "vi": "đình công Đình công ngừng việc: Hầu hết các nhân viên đã đình công."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He heard the clock strike ten.",
+            "vi": "Anh nghe thấy đồng hồ điểm mười."
+        },
+        {
+            "en": "He saw his sister drop after the strike of a sword.",
+            "vi": "Anh nhìn thấy em gái mình gục xuống sau khi bị kiếm."
+        }
+    ],
+    "words_form": [
+        "strikes",
+        "striking",
+        "struck"
+    ],
+    "meaning_vi": "đình công"
+}

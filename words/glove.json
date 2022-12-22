@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɡləv/"
+    ],
+    "synonyms": [
+        "gauntlet",
+        "mitten",
+        "gage",
+        "mitt",
+        "baseball-glove"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To cover with or as if with a glove.",
+            "vi": "Để che bằng hoặc như thể bằng găng tay."
+        },
+        {
+            "pos": "noun",
+            "en": "(baseball) Fielding ability.",
+            "vi": "(bóng chày) Khả năng đánh bóng."
+        },
+        {
+            "pos": "idiom",
+            "en": "fit like a glove  to fit perfectly",
+            "vi": "vừa vặn như một chiếc găng tay để vừa vặn hoàn hảo"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There was an old-school cell phone in the glove box.",
+            "vi": "Có một chiếc điện thoại di động cũ trong hộp găng tay."
+        },
+        {
+            "en": "He wiped the tear away with a thumb and then opened the glove compartment.",
+            "vi": "Anh dùng ngón tay cái lau đi vết rách rồi mở ngăn đựng găng tay."
+        }
+    ],
+    "words_form": [
+        "gloved",
+        "gloves",
+        "gloving"
+    ],
+    "meaning_vi": "găng tay"
+}

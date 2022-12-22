@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈstætʃu/"
+    ],
+    "synonyms": [
+        "sculpture",
+        "statuette",
+        "monument",
+        "image",
+        "likeness"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A three-dimensional form or likeness sculpted, modeled, carved, or cast in material such as stone, clay, wood, or bronze.",
+            "vi": "Một dạng ba chiều hoặc tương tự được điêu khắc, tạo mẫu, chạm khắc hoặc đúc bằng vật liệu như đá, đất sét, gỗ hoặc đồng."
+        },
+        {
+            "pos": "verb",
+            "en": "To form a statue of; to make into a statue.",
+            "vi": "Để tạo thành một bức tượng của; để làm thành một bức tượng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His gaze went to the statue of him.",
+            "vi": "Ánh mắt anh hướng về bức tượng anh."
+        },
+        {
+            "en": "He looked amused, if a statue could look amused.",
+            "vi": "Anh ta trông thích thú, nếu một bức tượng có thể trông thích thú."
+        }
+    ],
+    "words_form": [
+        "statues"
+    ],
+    "meaning_vi": "bức tượng"
+}

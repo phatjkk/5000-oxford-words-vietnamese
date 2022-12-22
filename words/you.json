@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ju/",
+        "/jə/"
+    ],
+    "synonyms": [
+        "thee",
+        "yourself",
+        "thou",
+        "y-all",
+        "anybody"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Any person.",
+            "vi": "Bất kỳ người nào."
+        },
+        {
+            "pos": "determiner",
+            "en": "The individual or group spoken or written to.",
+            "vi": "Cá nhân hoặc nhóm đã nói hoặc viết thư cho."
+        },
+        {
+            "pos": "verb",
+            "en": "To address (a person) using the pronoun you, rather than thou.",
+            "vi": "Để xưng hô với (một người) bằng cách sử dụng đại từ bạn, thay vì bạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I love you so much.",
+            "vi": "Anh yêu em rất nhiều."
+        },
+        {
+            "en": "I remember you very well.",
+            "vi": "Tôi nhớ bạn rất rõ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bạn"
+}

@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ˈproʊˌɡræm/"
+    ],
+    "synonyms": [
+        "curriculum",
+        "bill",
+        "prioritize",
+        "happenings",
+        "schedule"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To provide (a machine) with a set of coded working instructions.",
+            "vi": "Để cung cấp cho (một máy) một tập hợp các hướng dẫn làm việc được mã hóa."
+        },
+        {
+            "pos": "noun",
+            "en": "A system of services, opportunities, or projects, usually designed to meet a social need.",
+            "vi": "Một hệ thống các dịch vụ, cơ hội hoặc dự án, thường được thiết kế để đáp ứng nhu cầu xã hội."
+        },
+        {
+            "pos": "idiom",
+            "en": "get with the program  To follow or conform to a set of guidelines or expectations.",
+            "vi": "tham gia chương trình Để tuân theo hoặc tuân theo một bộ các nguyên tắc hoặc kỳ vọng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Jessi watched her program a new contact into it.",
+            "vi": "Jessi đã xem chương trình của cô ấy một liên hệ mới trong đó."
+        },
+        {
+            "en": "Judging by the training program, you've reached my level already.",
+            "vi": "Đánh giá theo chương trình đào tạo, bạn đã đạt đến trình độ của tôi rồi."
+        }
+    ],
+    "words_form": [
+        "programed",
+        "programing",
+        "programmed",
+        "programming",
+        "programs"
+    ],
+    "meaning_vi": "chương trình"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/poʊˈspoʊn/",
+        "/poʊstˈpoʊn/"
+    ],
+    "synonyms": [
+        "put off",
+        "procrastination",
+        "delay",
+        "prorogation",
+        "adjourn"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Postpone is defined as to put off to or place in a later time.",
+            "vi": "Hoãn được định nghĩa là tạm dừng hoặc đặt trong một thời gian sau đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She released her breath, satisfied on more than one level, to postpone her return to the human world.",
+            "vi": "Cô thở ra, thỏa mãn ở hơn một cấp độ, để hoãn việc trở lại thế giới loài người."
+        },
+        {
+            "en": "The country was at war, and it seemed best to postpone the new constitution until peace should be concluded.",
+            "vi": "Đất nước đang có chiến tranh, và có vẻ như tốt nhất là nên hoãn việc xây dựng hiến pháp mới cho đến khi hòa bình được ký kết."
+        }
+    ],
+    "words_form": [
+        "postponed",
+        "postpones",
+        "postponing"
+    ],
+    "meaning_vi": "hoãn lại"
+}

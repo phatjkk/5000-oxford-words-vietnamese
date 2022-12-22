@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈsi(ə)l/"
+    ],
+    "synonyms": [
+        "authorization",
+        "permission",
+        "sticker",
+        "tie",
+        "open"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Leather made from the hide of one of these animals.",
+            "vi": "Da được làm từ da của một trong những loài động vật này."
+        },
+        {
+            "pos": "verb",
+            "en": "Seal is defined as to close something shut.",
+            "vi": "Seal được định nghĩa là để đóng một cái gì đó đóng lại."
+        },
+        {
+            "pos": "acronym",
+            "en": "Sea, Air, Land (used as a name of a military unit)",
+            "vi": "Sea, Air, Land (được sử dụng làm tên của một đơn vị quân đội)"
+        },
+        {
+            "pos": "idiom",
+            "en": "(one's) lips are sealed  Used to indicate that one will not disclose a piece of information.",
+            "vi": "Môi của (một người) được niêm phong Được sử dụng để biểu thị rằng một người sẽ không tiết lộ một thông tin nào."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I had to seal the hemispheres.",
+            "vi": "Tôi đã phải niêm phong các bán cầu."
+        },
+        {
+            "en": "Than an idea struck me; if we were sealed in, why not seal him out?",
+            "vi": "Hơn một ý tưởng đập vào mắt tôi; nếu chúng ta bị phong ấn, tại sao không phong ấn anh ta?"
+        }
+    ],
+    "words_form": [
+        "sealed",
+        "sealing",
+        "seals"
+    ],
+    "meaning_vi": "niêm phong"
+}

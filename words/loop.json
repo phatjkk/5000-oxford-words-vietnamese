@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/lup/"
+    ],
+    "synonyms": [
+        "circuit",
+        "swag",
+        "circle",
+        "curl",
+        "coil"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(elec.) To join (conductors) so as to complete a circuit.",
+            "vi": "(elec.) để nối (dây dẫn) để hoàn thành một mạch."
+        },
+        {
+            "pos": "noun",
+            "en": "A length of thread, line or rope that is doubled over to make an opening.",
+            "vi": "Chiều dài của chỉ, dây hoặc dây thừng được gấp đôi lại để tạo lỗ mở."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the loop  Part of a group that is kept up-to-date with information about something: Knew about the merger because she's in the loop.",
+            "vi": "trong vòng lặp Một phần của nhóm được cập nhật thông tin về điều gì đó: Biết về việc sáp nhập vì cô ấy đang ở trong vòng lặp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She turned and captured his neck in the loop of her arms.",
+            "vi": "Cô quay lại và bắt lấy cổ anh trong vòng tay của mình."
+        },
+        {
+            "en": "Something tugged on her belt loop and Alex swung her around, jerking her into his embrace.",
+            "vi": "Có thứ gì đó kéo mạnh vòng thắt lưng của cô và Alex xoay người cô lại, đẩy cô vào lòng."
+        }
+    ],
+    "words_form": [
+        "looped",
+        "looping",
+        "loops"
+    ],
+    "meaning_vi": "vòng lặp"
+}

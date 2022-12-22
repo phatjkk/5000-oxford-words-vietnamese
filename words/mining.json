@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/ˈmaɪnɪŋ/"
+    ],
+    "synonyms": [
+        "drilling",
+        "boring",
+        "burrowing",
+        "digging",
+        "hollowing"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The process or business of extracting ore or minerals from the ground.",
+            "vi": "Phục vụ như một sự tưởng nhớ về một người hoặc một sự kiện; kỷ niệm."
+        },
+        {
+            "pos": "",
+            "en": "See data mining, text mining, Web mining and Bitcoin mining.",
+            "vi": "Tưởng niệm được định nghĩa là một bức tượng, ngày lễ hoặc tuyên bố để vinh danh một sự kiện hoặc một người nào đó đã qua đời."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of mine.",
+            "vi": "Một nhóm di cư cùng nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Pa never did any mining himself.",
+            "vi": "Pa chưa bao giờ tự mình khai thác."
+        },
+        {
+            "en": "Charlie asked, mentioning the area's last major mining operation.",
+            "vi": "Charlie hỏi, đề cập đến hoạt động khai thác lớn cuối cùng của khu vực."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The process or business of extracting ore or minerals from the ground.",
+            "vi": "Phục vụ như một sự tưởng nhớ về một người hoặc một sự kiện; kỷ niệm."
+        },
+        {
+            "pos": "",
+            "en": "See data mining, text mining, Web mining and Bitcoin mining.",
+            "vi": "Tưởng niệm được định nghĩa là một bức tượng, ngày lễ hoặc tuyên bố để vinh danh một sự kiện hoặc một người nào đó đã qua đời."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of mine.",
+            "vi": "Một nhóm di cư cùng nhau."
+        }
+    ]
+}

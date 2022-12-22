@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/skim/"
+    ],
+    "synonyms": [
+        "design",
+        "conspiracy",
+        "plot",
+        "plan",
+        "project"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A secret or devious plan; a plot.",
+            "vi": "Một kế hoạch bí mật hoặc quanh co; một âm mưu."
+        },
+        {
+            "pos": "verb",
+            "en": "To contrive a plan or scheme for; plot.",
+            "vi": "Để xây dựng một kế hoạch hoặc chương trình cho; âm mưu."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A programming language, one of the two major dialects of Lisp.",
+            "vi": "Một ngôn ngữ lập trình, một trong hai phương ngữ chính của Lisp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The new scheme works splendidly.",
+            "vi": "Đề án mới hoạt động tuyệt vời."
+        },
+        {
+            "en": "The color scheme was simple, but was turning out elegant the way the women worked with it.",
+            "vi": "Cách phối màu đơn giản nhưng lại toát lên vẻ thanh lịch theo cách mà phụ nữ làm việc với nó."
+        }
+    ],
+    "words_form": [
+        "schemed",
+        "schemes",
+        "scheming"
+    ],
+    "meaning_vi": "kế hoạch"
+}

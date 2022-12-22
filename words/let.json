@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/lɛt/"
+    ],
+    "synonyms": [
+        "allow",
+        "lease",
+        "permit",
+        "grant",
+        "repudiate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To give permission or opportunity to; allow.",
+            "vi": "Để cho phép hoặc cơ hội để; cho phép."
+        },
+        {
+            "pos": "noun",
+            "en": "Something that hinders; an obstacle.",
+            "vi": "Một cái gì đó cản trở; một chướng ngại vật."
+        },
+        {
+            "pos": "suffix",
+            "en": "Small one.",
+            "vi": "Một cái nhỏ."
+        },
+        {
+            "pos": "affix",
+            "en": "Small.",
+            "vi": "Nhỏ."
+        },
+        {
+            "pos": "idiom",
+            "en": "let alone  Not to mention; much less:",
+            "vi": "huống chi là Không đề cập đến; ít hơn nhiều:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Let him decide the matter for us.",
+            "vi": "Hãy để anh ấy quyết định vấn đề cho chúng ta."
+        },
+        {
+            "en": "Then one of the fishermen said, \"Let us ask the governor about it and do as he shall bid us.\"",
+            "vi": "Sau đó, một trong những người đánh cá nói, \"Chúng ta hãy hỏi thống đốc về điều đó và làm như ông ta sẽ trả giá cho chúng tôi.\""
+        }
+    ],
+    "words_form": [
+        "lets",
+        "letted",
+        "letting"
+    ],
+    "meaning_vi": "để cho"
+}

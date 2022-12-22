@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ʃɑkt/"
+    ],
+    "synonyms": [
+        "startled",
+        "astounded",
+        "appalled",
+        "astonished",
+        "aghast"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Surprised, startled, confused, or taken aback.",
+            "vi": "Ngạc nhiên, giật mình, bối rối hoặc sửng sốt."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of shock.",
+            "vi": "Quá khứ đơn và quá khứ phân từ sốc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I was shocked at how harsh reality can be.",
+            "vi": "Tôi đã bị sốc trước thực tế khắc nghiệt như thế nào."
+        },
+        {
+            "en": "She noticed his shocked expression.",
+            "vi": "Cô nhận thấy vẻ mặt kinh ngạc của anh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bị sốc"
+}

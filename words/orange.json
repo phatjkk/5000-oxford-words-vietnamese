@@ -1,0 +1,59 @@
+{
+    "spelling": [
+        "/ˈɔrəndʒ/",
+        "/ˈɑrəndʒ/"
+    ],
+    "synonyms": [
+        "tangerine",
+        "apricot",
+        "coral",
+        "peach",
+        "ocherous"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Made from oranges.",
+            "vi": "Làm từ cam."
+        },
+        {
+            "pos": "noun",
+            "en": "Any of several similar plants, such as the Osage orange and the mock orange.",
+            "vi": "Bất kỳ loại cây tương tự nào, chẳng hạn như cam Osage và cam giả."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) City in SW Calif.: suburb of Los Angeles.",
+            "vi": "(địa điểm) Thành phố ở SW Calif: ngoại ô Los Angeles."
+        },
+        {
+            "pos": "verb",
+            "en": "To color orange.",
+            "vi": "Tô màu cam."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Groane, onager.",
+            "vi": "Groane, onager."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The longest river in South Africa.",
+            "vi": "Con sông dài nhất ở Nam Phi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I gave him some orange juice.",
+            "vi": "Tôi đã cho anh ta một ít nước cam."
+        },
+        {
+            "en": "Four years later East Orange was chartered as a city.",
+            "vi": "Bốn năm sau, East Orange được công nhận là thành phố."
+        }
+    ],
+    "words_form": [
+        "oranges"
+    ],
+    "meaning_vi": "quả cam; màu cam"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈsərdʒ(ə)ri/"
+    ],
+    "synonyms": [
+        "medicine",
+        "operating-theatre",
+        "incision",
+        "enucleate",
+        "excise"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Surgery is a branch of medicine that solves health problems by operating on the body, or the process of having an operation, or is a location where such an operation is performed.",
+            "vi": "Phẫu thuật là một nhánh của y học giải quyết các vấn đề sức khỏe bằng cách hoạt động trên cơ thể, hoặc quá trình phẫu thuật, hoặc là một địa điểm thực hiện một cuộc phẫu thuật đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Alex came through the surgery fine.",
+            "vi": "Alex đã vượt qua cuộc phẫu thuật tốt."
+        },
+        {
+            "en": "Alex was still in surgery when they arrived.",
+            "vi": "Alex vẫn đang phẫu thuật khi họ đến."
+        }
+    ],
+    "words_form": [
+        "surgeries"
+    ],
+    "meaning_vi": "phẫu thuật"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈfɛstəvəl/"
+    ],
+    "synonyms": [
+        "cavalcade",
+        "carnival",
+        "celebration",
+        "feast",
+        "gala"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A celebration, entertainment, or series of performances of a certain kind, often held periodically.",
+            "vi": "Một lễ kỷ niệm, giải trí, hoặc một loạt các buổi biểu diễn của một loại hình nhất định, thường được tổ chức định kỳ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or suitable for a feast or festival; festive.",
+            "vi": "Của, liên quan đến, hoặc thích hợp cho một bữa tiệc hoặc lễ hội; lễ hội."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His festival is celebrated on the 8th of July.",
+            "vi": "Lễ hội của ông được tổ chức vào ngày 8 tháng bảy."
+        },
+        {
+            "en": "A great religious festival is held here every twelfth year.",
+            "vi": "Một lễ hội tôn giáo lớn được tổ chức ở đây vào mỗi tháng mười hai hàng năm."
+        }
+    ],
+    "words_form": [
+        "festivals"
+    ],
+    "meaning_vi": "lễ hội"
+}

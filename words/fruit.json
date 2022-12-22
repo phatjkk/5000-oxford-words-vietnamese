@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/frut/"
+    ],
+    "synonyms": [
+        "fruitage",
+        "upshot",
+        "abounding",
+        "grain",
+        "nut"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a fruit is the mature ovary of a flowering plant that is edible and usually eaten raw.",
+            "vi": "Định nghĩa về trái cây là buồng trứng trưởng thành của một loài thực vật có hoa, có thể ăn được và thường ăn sống."
+        },
+        {
+            "pos": "verb",
+            "en": "To bear or cause to bear fruit.",
+            "vi": "Chịu đựng hoặc nguyên nhân dẫn đến kết quả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A great variety of industries is carried on, the chief being the manufacture of semolina and other farinaceous foods, confectionery, preserved fruit and jams, chemicals and rubber goods.",
+            "vi": "Nhiều ngành công nghiệp đang được phát triển, chủ yếu là sản xuất bột báng và các loại thực phẩm khác, bánh kẹo, trái cây bảo quản và mứt, hóa chất và hàng cao su."
+        },
+        {
+            "en": "Jackson picked up an apple from the bowl of fruit, tossed it in the air, caught it, then bit into it.",
+            "vi": "Jackson nhặt một quả táo từ bát hoa quả, ném lên không trung, bắt lấy rồi cắn vào."
+        }
+    ],
+    "words_form": [
+        "fruited",
+        "fruiting",
+        "fruits"
+    ],
+    "meaning_vi": "trái cây"
+}

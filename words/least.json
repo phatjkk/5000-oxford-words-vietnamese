@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/list/"
+    ],
+    "synonyms": [
+        "minimum",
+        "slightest",
+        "smallest",
+        "unimportant",
+        "minimal"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Lowest in importance or rank.",
+            "vi": "Mức độ quan trọng hoặc thứ hạng thấp nhất."
+        },
+        {
+            "pos": "adverb",
+            "en": "To or in the lowest or smallest degree.",
+            "vi": "Đến hoặc ở mức độ thấp nhất hoặc nhỏ nhất."
+        },
+        {
+            "pos": "noun",
+            "en": "One that is the lowest or smallest in importance, rank, magnitude, or degree.",
+            "vi": "Một trong những thứ thấp nhất hoặc nhỏ nhất về tầm quan trọng, cấp bậc, độ lớn hoặc mức độ."
+        },
+        {
+            "pos": "determiner",
+            "en": "Superlative form of little: most little;The smallest amount of [something uncountable].",
+            "vi": "Dạng so sánh nhất của ít: hầu hết ít nhất; Số lượng nhỏ nhất của [điều gì đó không thể đếm được]."
+        },
+        {
+            "pos": "idiom",
+            "en": "at least  According to the lowest possible assessment; not less than: We waited at least an hour.Regardless of what has occurred or will occur; in any case: You might at least answer the letter.Used to emphasize a somewhat positive aspect following a negative one: The results weren't encouraging, but at least they were accurate.",
+            "vi": "ít nhất Theo đánh giá thấp nhất có thể; không ít hơn: Chúng tôi đã đợi ít nhất một giờ. Trong mọi trường hợp: Ít nhất bạn cũng có thể trả lời bức thư Dùng để nhấn mạnh khía cạnh tích cực sau khía cạnh tiêu cực: Kết quả không đáng khích lệ, nhưng ít nhất chúng cũng chính xác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "At least they were talking.",
+            "vi": "Ít nhất họ đã nói chuyện."
+        },
+        {
+            "en": "They wanted her out of the way, or at least silent.",
+            "vi": "Họ muốn cô tránh xa, hoặc ít nhất là im lặng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ít nhất"
+}

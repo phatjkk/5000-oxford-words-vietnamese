@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/koʊl/"
+    ],
+    "synonyms": [
+        "cinder",
+        "fuel",
+        "coke",
+        "ember",
+        "spark"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of coal is a dark brown to black carbon-rich rock that is mined from mountains or below ground and is burned as fuel.",
+            "vi": "Định nghĩa về than đá là một loại đá giàu cacbon có màu nâu sẫm đến đen được khai thác từ núi hoặc dưới mặt đất và được đốt cháy làm nhiên liệu."
+        },
+        {
+            "pos": "verb",
+            "en": "To provide with coal.",
+            "vi": "Để cung cấp than."
+        },
+        {
+            "pos": "idiom",
+            "en": "haul over the coals  to criticize sharply; censure; scold",
+            "vi": "kéo qua than để chỉ trích gay gắt; sự chỉ trích; mắng mỏ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Coal is found in the ground, too.",
+            "vi": "Than cũng được tìm thấy trong lòng đất."
+        },
+        {
+            "en": "The city has immense coal piers.",
+            "vi": "Thành phố có những cầu tàu than mênh mông."
+        }
+    ],
+    "words_form": [
+        "coals"
+    ],
+    "meaning_vi": "than"
+}

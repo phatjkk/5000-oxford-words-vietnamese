@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/dəˈtərmən/"
+    ],
+    "synonyms": [
+        "find out",
+        "decide",
+        "ascertain",
+        "indomitable",
+        "learn"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "(mathematics) To fix or define the position, form, or configuration of.",
+            "vi": "(toán học) Để sửa chữa hoặc xác định vị trí, hình thức hoặc cấu hình của."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She couldn't determine if she'd won this round or not.",
+            "vi": "Cô không thể xác định liệu mình có thắng vòng này hay không."
+        },
+        {
+            "en": "She would determine which case had the best chance of success.",
+            "vi": "Cô ấy sẽ xác định trường hợp nào có cơ hội thành công cao nhất."
+        }
+    ],
+    "words_form": [
+        "determined",
+        "determines",
+        "determining"
+    ],
+    "meaning_vi": "xác định; quyết định; có ảnh hưởng; quyết tâm"
+}

@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈpəblɪk/"
+    ],
+    "synonyms": [
+        "crowd",
+        "people",
+        "city",
+        "township",
+        "commonalty"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of public is something that is related to, available to or known by people.",
+            "vi": "Định nghĩa của công chúng là cái gì đó liên quan đến, có sẵn hoặc được mọi người biết đến."
+        },
+        {
+            "pos": "noun",
+            "en": "Public is ordinary people or people within a community.",
+            "vi": "Công chúng là những người bình thường hoặc những người trong cộng đồng."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) go public with  To reveal to the public a previously unknown or secret piece of information: The president finally had to go public with the scandal.",
+            "vi": "(không chính thức) công khai với Để tiết lộ cho công chúng một thông tin bí mật hoặc chưa được biết trước đây: Tổng thống cuối cùng đã phải công khai vụ bê bối."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's all public record.",
+            "vi": "Tất cả đều là hồ sơ công khai."
+        },
+        {
+            "en": "I'm beginning to despise public officials.",
+            "vi": "Tôi bắt đầu coi thường các quan chức nhà nước."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "công cộng"
+}

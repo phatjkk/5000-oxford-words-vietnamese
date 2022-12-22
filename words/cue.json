@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/kju/"
+    ],
+    "synonyms": [
+        "innuendo",
+        "signal",
+        "reminder",
+        "sign",
+        "warning signal"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Anything serving as a signal to do something.",
+            "vi": "Bất cứ điều gì phục vụ như một tín hiệu để làm điều gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To give a cue to.",
+            "vi": "Để đưa ra một gợi ý cho."
+        },
+        {
+            "pos": "acronym",
+            "en": "(law) Clear and Unmistakable Error; legal standard for appeal of a decision by a Board of Veterans Appeals in the United States.",
+            "vi": "(luật) Lỗi rõ ràng và không thể nhầm lẫn; tiêu chuẩn pháp lý để kháng cáo quyết định của Ban Kháng cáo Cựu chiến binh tại Hoa Kỳ."
+        },
+        {
+            "pos": "idiom",
+            "en": "cue in  to add (dialogue, music, etc.) at a particular point in a script",
+            "vi": "gợi ý để thêm (đối thoại, âm nhạc, v.v.) tại một điểm cụ thể trong tập lệnh"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I think that's my cue to go clean up.",
+            "vi": "Tôi nghĩ đó là dấu hiệu của tôi để đi dọn dẹp."
+        },
+        {
+            "en": "Then, as if on cue, the phone began to ring.",
+            "vi": "Sau đó, như được báo trước, điện thoại bắt đầu đổ chuông."
+        }
+    ],
+    "words_form": [
+        "cued",
+        "cueing",
+        "cues",
+        "cuing"
+    ],
+    "meaning_vi": "gợi ý"
+}

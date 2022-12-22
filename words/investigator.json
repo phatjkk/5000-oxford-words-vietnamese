@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ɪnˈvɛstɪˌɡeɪdər/"
+    ],
+    "synonyms": [
+        "detective",
+        "inquisitor",
+        "agent",
+        "auditor",
+        "examiner"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person who gathers confidential information and conducts an investigation for an individual or company; private detective.",
+            "vi": "Một người thu thập thông tin bí mật và thực hiện một cuộc điều tra cho một cá nhân hoặc công ty; thám tử tư."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The outcome of the whole matter is that the investigator is still baffled in his attempt to discover what effect the use of \"futures\" is having upon prices to-day.",
+            "vi": "Kết quả của toàn bộ vấn đề là điều tra viên vẫn còn lúng túng trong nỗ lực khám phá tác dụng của việc sử dụng \"hợp đồng tương lai\" đối với giá cả hàng ngày."
+        },
+        {
+            "en": "As an investigator he kept always the scientist's attitude.",
+            "vi": "Là một nhà điều tra, ông luôn giữ thái độ của một nhà khoa học."
+        }
+    ],
+    "words_form": [
+        "investigators"
+    ],
+    "meaning_vi": "điều tra viên"
+}

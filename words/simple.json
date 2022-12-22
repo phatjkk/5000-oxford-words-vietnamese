@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈsɪmpəl/"
+    ],
+    "synonyms": [
+        "plain",
+        "easy",
+        "modest",
+        "facile",
+        "mere"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a simple is an easily misled person or an ignorant person.",
+            "vi": "Định nghĩa của một người đơn giản là một người dễ bị nhầm lẫn hoặc một người thiếu hiểu biết."
+        },
+        {
+            "pos": "adjective",
+            "en": "Pure; unadulterated.",
+            "vi": "Thuần khiết; không sai lầm."
+        },
+        {
+            "pos": "verb",
+            "en": "(intransitive, archaic) To gather simples, ie, medicinal herbs.",
+            "vi": "(intransitive, archaic) Để thu thập đơn giản, tức là, các loại dược liệu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's as simple as that.",
+            "vi": "Nó đơn giản như vậy."
+        },
+        {
+            "en": "A simple yes or no would suffice.",
+            "vi": "Có hoặc không đơn giản là đủ."
+        }
+    ],
+    "words_form": [
+        "simpler",
+        "simples",
+        "simplest"
+    ],
+    "meaning_vi": "đơn giản"
+}

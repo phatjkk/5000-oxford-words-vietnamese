@@ -1,0 +1,58 @@
+{
+    "spelling": [
+        "/flaɪ/"
+    ],
+    "synonyms": [
+        "flutter",
+        "flap",
+        "soar",
+        "housefly",
+        "maneuver"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A fly is defined as a flap of cloth in a garment that hides the closure like a zipper or buttons.",
+            "vi": "Ruồi được định nghĩa là một vạt vải trong trang phục có giấu phần đóng lại như dây kéo hoặc cúc áo."
+        },
+        {
+            "pos": "adjective",
+            "en": "(chiefly british) Mentally alert; sharp.",
+            "vi": "(chủ yếu là người Anh) Cảnh giác về mặt tinh thần; nhọn."
+        },
+        {
+            "pos": "verb",
+            "en": "To pass by swiftly.",
+            "vi": "Để đi qua một cách nhanh chóng."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) River in S New Guinea, flowing through Papua New Guinea into the Coral Sea: c. 650 mi (1,046 km)",
+            "vi": "(địa danh) Sông ở S New Guinea, chảy qua Papua New Guinea vào biển Coral: c. 650 dặm (1,046 km)"
+        },
+        {
+            "pos": "idiom",
+            "en": "fly high  To be elated: They were flying high after their first child was born.",
+            "vi": "bay cao Được phấn khởi: Họ đã bay cao sau khi đứa con đầu lòng của họ được sinh ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We can't naturally fly, so we make airplanes.",
+            "vi": "Chúng ta không thể tự nhiên bay, vì vậy chúng ta chế tạo máy bay."
+        },
+        {
+            "en": "They let him fly back to Virginia.",
+            "vi": "Họ để anh ta bay về Virginia."
+        }
+    ],
+    "words_form": [
+        "flew",
+        "flied",
+        "flier",
+        "flies",
+        "fliest",
+        "flying"
+    ],
+    "meaning_vi": "bay"
+}

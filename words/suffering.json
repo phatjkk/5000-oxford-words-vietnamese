@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈsəf(ə)rɪŋ/"
+    ],
+    "synonyms": [
+        "affliction",
+        "pain",
+        "agony",
+        "afflicted",
+        "distress"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Suffering is being or remaining in pain or misery.",
+            "vi": "Đau khổ là hiện hữu hoặc còn lại trong đau đớn hoặc khốn khổ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Experiencing pain. syn.",
+            "vi": "Trải qua nỗi đau. syn."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of suffer.",
+            "vi": "Hiện tại phân từ của đau khổ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Can't you do it more gently? said the Emperor apparently suffering more than the dying soldier, and he rode away.",
+            "vi": "Bạn không thể làm điều đó một cách nhẹ nhàng hơn? Hoàng đế nói rằng dường như Hoàng đế còn đau khổ hơn người lính sắp chết, và ông ta cưỡi ngựa đi."
+        },
+        {
+            "en": "He isn't suffering now.",
+            "vi": "Bây giờ anh ấy không đau khổ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đau khổ"
+}

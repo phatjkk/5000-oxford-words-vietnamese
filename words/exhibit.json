@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɪɡˈzɪbət/"
+    ],
+    "synonyms": [
+        "show",
+        "reveal",
+        "air",
+        "exhibition",
+        "presentation"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To put something on public display.",
+            "vi": "Để đặt một cái gì đó trên màn hình công cộng."
+        },
+        {
+            "pos": "noun",
+            "en": "(law) Something marked for identification with the purpose of being introduced as evidence.",
+            "vi": "(luật) Một cái gì đó được đánh dấu để nhận dạng với mục đích được giới thiệu làm bằng chứng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The authorities began to exhibit something of their old spirit.",
+            "vi": "Các nhà chức trách bắt đầu thể hiện một cái gì đó của tinh thần cũ của họ."
+        },
+        {
+            "en": "Integrity is an important quality for an employee to exhibit.",
+            "vi": "Chính trực là một phẩm chất quan trọng để một nhân viên thể hiện."
+        }
+    ],
+    "words_form": [
+        "exhibited",
+        "exhibiting",
+        "exhibits"
+    ],
+    "meaning_vi": "triển lãm"
+}

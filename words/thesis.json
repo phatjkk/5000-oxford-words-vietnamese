@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈθisɪs/"
+    ],
+    "synonyms": [
+        "dialectic",
+        "dissertation",
+        "reality",
+        "proof",
+        "premise"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A hypothetical proposition, especially one put forth without proof.",
+            "vi": "Một mệnh đề giả định, đặc biệt là một mệnh đề được đưa ra mà không có bằng chứng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "First, we will list the basics of my thesis about the future.",
+            "vi": "Đầu tiên, chúng tôi sẽ liệt kê những điều cơ bản trong luận án của tôi về tương lai."
+        },
+        {
+            "en": "Withers had proposed a disputation against vestments, which the university would not allow; his thesis affirming the excommunicating power of the presbytery was sustained.",
+            "vi": "Withers đã đề xuất một phản đối chống lại lễ phục, mà trường đại học sẽ không cho phép; luận điểm của ông khẳng định sức mạnh tuyệt thông của sứ giả vẫn được duy trì."
+        }
+    ],
+    "words_form": [
+        "theses"
+    ],
+    "meaning_vi": "luận án"
+}

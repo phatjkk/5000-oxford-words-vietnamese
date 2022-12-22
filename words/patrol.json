@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/pəˈtroʊl/"
+    ],
+    "synonyms": [
+        "scout",
+        "guard",
+        "watch",
+        "walk",
+        "sentinel"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Patrol is defined as to regularly guard an area.",
+            "vi": "Tuần tra được định nghĩa là thường xuyên canh gác một khu vực."
+        },
+        {
+            "pos": "noun",
+            "en": "Patrol means the act of regularly guarding an area, or someone or a group who does the guarding.",
+            "vi": "Tuần tra có nghĩa là hành động thường xuyên canh gác một khu vực, hoặc một người nào đó hoặc một nhóm người thực hiện việc canh gác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A patrol car returned him to duty.",
+            "vi": "Một chiếc xe tuần tra đã trả anh ta lại để làm nhiệm vụ."
+        },
+        {
+            "en": "The total number of patrol men in 1909 was 8562.",
+            "vi": "Tổng số người tuần tra năm 1909 là 8562 người."
+        }
+    ],
+    "words_form": [
+        "patrolled",
+        "patrolling",
+        "patrols"
+    ],
+    "meaning_vi": "tuần tra"
+}

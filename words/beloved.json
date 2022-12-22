@@ -1,0 +1,34 @@
+{
+    "spelling": [],
+    "synonyms": [
+        "precious",
+        "dearest",
+        "favorite",
+        "admired",
+        "cherished"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Loved.",
+            "vi": "Được yêu mến."
+        },
+        {
+            "pos": "noun",
+            "en": "A beloved person.",
+            "vi": "Một người được yêu quý."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But he was much beloved by his family.",
+            "vi": "Nhưng anh rất được gia đình yêu quý."
+        },
+        {
+            "en": "My beloved Betsy, my world, was in his hands.",
+            "vi": "Betsy yêu quý của tôi, thế giới của tôi, đã nằm trong tay anh ấy."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "yêu dấu"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈplænət/"
+    ],
+    "synonyms": [
+        "celestial-body",
+        "planetoid",
+        "satellite",
+        "globe",
+        "world"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a planet is a large mass that revolves around a star, such as one of the celestial bodies moving around the sun.",
+            "vi": "Định nghĩa về một hành tinh là một khối lượng lớn quay xung quanh một ngôi sao, chẳng hạn như một trong những thiên thể chuyển động quanh mặt trời."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Does human activity cause the planet to warm?",
+            "vi": "Hoạt động của con người có khiến hành tinh nóng lên không?"
+        },
+        {
+            "en": "So the problem must be that we have stretched the planet past its ability to feed its inhabitants, right?",
+            "vi": "Vì vậy, vấn đề phải là chúng ta đã kéo dài hành tinh vượt quá khả năng cung cấp thức ăn cho cư dân của nó, phải không?"
+        }
+    ],
+    "words_form": [
+        "planets"
+    ],
+    "meaning_vi": "hành tinh"
+}

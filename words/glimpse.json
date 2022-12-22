@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ɡlɪm(p)s/"
+    ],
+    "synonyms": [
+        "impression",
+        "flash",
+        "glance",
+        "scrutiny",
+        "look"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a glimpse is a fast, quick look.",
+            "vi": "Định nghĩa của một cái nhìn thoáng qua là một cái nhìn nhanh chóng, nhanh chóng."
+        },
+        {
+            "pos": "verb",
+            "en": "To appear by glimpses.",
+            "vi": "Để xuất hiện bằng những cái nhìn thoáng qua."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She got a glimpse of the horse in the trailer.",
+            "vi": "Cô ấy nhìn thoáng qua con ngựa trong xe kéo."
+        },
+        {
+            "en": "Kris caught a glimpse of what looked like a shopping mall west of them.  His gaze lingered.",
+            "vi": "Kris thoáng thấy nơi trông giống như một trung tâm mua sắm ở phía tây của họ. Ánh mắt anh lưu luyến."
+        }
+    ],
+    "words_form": [
+        "glimpsed",
+        "glimpses",
+        "glimpsing"
+    ],
+    "meaning_vi": "nhìn thoáng qua"
+}

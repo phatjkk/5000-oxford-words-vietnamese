@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/bərn/"
+    ],
+    "synonyms": [
+        "blister",
+        "scorch",
+        "scald",
+        "trauma",
+        "wound"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To brand (an animal).",
+            "vi": "Để thương hiệu (một con vật)."
+        },
+        {
+            "pos": "noun",
+            "en": "An injury or damage caused by fire, heat, radiation, wind, caustics, etc.: in medicine, burns are classified as first-degree burn, reddening, second-degree burn, blistering, and third-degree burn, destruction of the skin and the tissues under it.",
+            "vi": "Thương tích hoặc thiệt hại do lửa, nhiệt, bức xạ, gió, chất ăn da, v.v ...: trong y học, bỏng được phân loại là bỏng cấp độ một, bỏng đỏ, bỏng cấp độ hai, phồng rộp và bỏng cấp độ ba, hủy hoại da và các mô bên dưới nó."
+        },
+        {
+            "pos": "idiom",
+            "en": "burn itself out  To stop burning from lack of fuel: The brush fire finally burned itself out.",
+            "vi": "tự cháy Để ngừng cháy vì thiếu nhiên liệu: Ngọn lửa bàn chải cuối cùng cũng tự cháy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It looks like it's starting to burn good.",
+            "vi": "Có vẻ như nó đang bắt đầu cháy tốt."
+        },
+        {
+            "en": "Will they burn the bridge or not?",
+            "vi": "Liệu họ có đốt cầu hay không?"
+        }
+    ],
+    "words_form": [
+        "burned",
+        "burning",
+        "burns",
+        "burnt"
+    ],
+    "meaning_vi": "ghi"
+}

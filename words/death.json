@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/dɛθ/"
+    ],
+    "synonyms": [
+        "euthanasia",
+        "end",
+        "extinction",
+        "darkness",
+        "eternal rest"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The termination or extinction of something.",
+            "vi": "Sự chấm dứt hoặc tuyệt chủng của một cái gì đó."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The personification of death, often a skeleton with a scythe, and one of the four horsemen of the apocalypse.",
+            "vi": "Hiện thân của cái chết, thường là một bộ xương với lưỡi hái, và là một trong bốn kỵ sĩ của ngày tận thế."
+        },
+        {
+            "pos": "idiom",
+            "en": "at death's door  Near to death; gravely ill or injured.",
+            "vi": "at the death's door Gần cái chết; bị ốm hoặc bị thương nặng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I was scared to death I couldn't... get back!",
+            "vi": "Tôi sợ chết khiếp không thể ... quay lại!"
+        },
+        {
+            "en": "Some things are meant to be, and death is natural for humans.",
+            "vi": "Một số điều là có thể xảy ra, và cái chết là lẽ tự nhiên đối với con người."
+        }
+    ],
+    "words_form": [
+        "deaths"
+    ],
+    "meaning_vi": "cái chết"
+}

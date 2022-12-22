@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˌɛndʒəˈnɪrɪŋ/"
+    ],
+    "synonyms": [
+        "building",
+        "construction",
+        "manufacturing",
+        "organizing",
+        "arranging"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The area aboard a ship where the engine is located.",
+            "vi": "Khu vực trên tàu nơi đặt động cơ."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of engineer.",
+            "vi": "Hiện tại phân từ của kỹ sư."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The shipbuilding and engineering trades are active and advancing.",
+            "vi": "Các ngành công nghiệp đóng tàu và kỹ thuật đang hoạt động và phát triển."
+        },
+        {
+            "en": "While she knew his genetic engineering made him harder to kill, she'd never imagined he'd survived.",
+            "vi": "Mặc dù cô biết kỹ thuật di truyền của anh ta khiến anh ta khó giết hơn, nhưng cô chưa bao giờ tưởng tượng anh ta sẽ sống sót."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "kỹ thuật"
+}

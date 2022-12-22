@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/ˈtraɪ(ə)l/"
+    ],
+    "synonyms": [
+        "examination",
+        "case",
+        "contest",
+        "indictment",
+        "cross-examination"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a trial is a hearing in a court case, a test or a hardship.",
+            "vi": "Định nghĩa của một phiên tòa là một phiên tòa trong một phiên tòa, một thử thách hoặc một thử thách khó khăn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Made or done in the course of a trial or test.",
+            "vi": "Được thực hiện hoặc thực hiện trong quá trình thử nghiệm hoặc kiểm tra."
+        },
+        {
+            "pos": "verb",
+            "en": "To carry out a series of tests on (a new product, procedure etc.) before marketing or implementing it.",
+            "vi": "Thực hiện một loạt các thử nghiệm (một sản phẩm mới, quy trình, v.v.) trước khi tiếp thị hoặc triển khai nó."
+        },
+        {
+            "pos": "idiom",
+            "en": "on trial  In the process of being tried, as in a court of law.",
+            "vi": "đang xét xử Trong quá trình bị xét xử, như tại một tòa án của pháp luật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He would simply have to learn by trial and error.",
+            "vi": "Anh ta chỉ đơn giản là phải học bằng cách thử và sai."
+        },
+        {
+            "en": "He was sent for trial and condemned to hard labor, I believe.",
+            "vi": "Tôi tin rằng anh ta đã bị đưa ra xét xử và bị kết án lao động khổ sai."
+        }
+    ],
+    "words_form": [
+        "trialed",
+        "trialing",
+        "trialled",
+        "trials"
+    ],
+    "meaning_vi": "xét xử"
+}

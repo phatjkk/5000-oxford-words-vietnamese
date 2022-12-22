@@ -1,0 +1,34 @@
+{
+    "spelling": [],
+    "synonyms": [
+        "weary",
+        "exhausted",
+        "warmed-over",
+        "sick",
+        "timeworn"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of tired is being bored with something, or something that has become stale or being fatigued and in need of rest.",
+            "vi": "Định nghĩa của mệt mỏi là chán một thứ gì đó, hoặc một thứ gì đó đã trở nên cũ nát hoặc mệt mỏi và cần được nghỉ ngơi."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of tire.",
+            "vi": "Quá khứ đơn và quá khứ phân từ của lốp xe."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I know you must be tired, so I will let you rest.",
+            "vi": "Anh biết chắc em mệt nên để anh nghỉ ngơi."
+        },
+        {
+            "en": "The toddlers were both tired and cranky.",
+            "vi": "Những đứa trẻ mới biết đi vừa mệt mỏi vừa cáu kỉnh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "mệt mỏi"
+}

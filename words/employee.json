@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ɛmˈplɔɪi/",
+        "/ɛmˌplɔɪˈi/"
+    ],
+    "synonyms": [
+        "worker",
+        "agent",
+        "employer",
+        "operator",
+        "assistant"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an employee is one who works for someone else or a company in exchange for wages or some other agree-to compensation.",
+            "vi": "Định nghĩa về một nhân viên là một người làm việc cho người khác hoặc một công ty để đổi lấy tiền lương hoặc một số khoản thù lao theo thỏa thuận khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The employee turned to her and waved her through.",
+            "vi": "Người nhân viên quay sang cô và vẫy cô qua."
+        },
+        {
+            "en": "Of the contribution one half is paid by the employer and the other by the employee, whose duty it is to see that the amount has been properly entered in the pension book.",
+            "vi": "Trong số tiền đóng góp, một nửa do người sử dụng lao động trả và một nửa do người lao động trả, người có nhiệm vụ xem số tiền đó đã được ghi đúng vào sổ lương hưu hay chưa."
+        }
+    ],
+    "words_form": [
+        "employees"
+    ],
+    "meaning_vi": "nhân viên"
+}

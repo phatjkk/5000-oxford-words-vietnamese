@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈɔθər/"
+    ],
+    "synonyms": [
+        "reader",
+        "publisher",
+        "audience",
+        "inventor",
+        "originator"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One who writes or constructs an electronic document or system, such as a website.",
+            "vi": "Một người viết hoặc xây dựng một tài liệu hoặc hệ thống điện tử, chẳng hạn như một trang web."
+        },
+        {
+            "pos": "verb",
+            "en": "(chiefly US) To create a work as its author.",
+            "vi": "(chủ yếu là Hoa Kỳ) Để tạo ra một tác phẩm với tư cách là tác giả của nó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's a famous author named Miss Gladys Turnbull.",
+            "vi": "Đó là một tác giả nổi tiếng tên là Miss Gladys Turnbull."
+        },
+        {
+            "en": "He is the author of some commendable verses.",
+            "vi": "Ông là tác giả của một số câu thơ đáng khen ngợi."
+        }
+    ],
+    "words_form": [
+        "authored",
+        "authoring",
+        "authors"
+    ],
+    "meaning_vi": "tác giả"
+}

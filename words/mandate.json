@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈmænˌdeɪt/"
+    ],
+    "synonyms": [
+        "instruction",
+        "competence",
+        "order",
+        "words",
+        "dictate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An authoritative command or instruction.",
+            "vi": "Một lệnh hoặc hướng dẫn có thẩm quyền."
+        },
+        {
+            "pos": "verb",
+            "en": "To require as by law; make mandatory.",
+            "vi": "Yêu cầu theo quy định của pháp luật; thực hiện bắt buộc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We will not accept this attack on our electoral mandate.",
+            "vi": "Chúng tôi sẽ không chấp nhận cuộc tấn công này vào nhiệm vụ bầu cử của chúng tôi."
+        },
+        {
+            "en": "How do I change or add a dividend mandate?",
+            "vi": "Làm cách nào để thay đổi hoặc thêm một ủy quyền cổ tức?"
+        }
+    ],
+    "words_form": [
+        "mandated",
+        "mandates",
+        "mandating"
+    ],
+    "meaning_vi": "nhiệm vụ"
+}

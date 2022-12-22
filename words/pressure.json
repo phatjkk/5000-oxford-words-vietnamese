@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈprɛʃər/"
+    ],
+    "synonyms": [
+        "force",
+        "tension",
+        "stress",
+        "thrust",
+        "persuasion"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To force or try to force, as by influence or persuasion.",
+            "vi": "Để ép buộc hoặc cố gắng ép buộc, như bằng ảnh hưởng hoặc thuyết phục."
+        },
+        {
+            "pos": "noun",
+            "en": "A pressing or being pressed; compression; squeezing.",
+            "vi": "Một bức xúc hoặc bị ép; nén; ép chặt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Let me put pressure on it.",
+            "vi": "Hãy để tôi tạo áp lực cho nó."
+        },
+        {
+            "en": "She felt the pressure of a cup against her lips.",
+            "vi": "Cô cảm thấy áp lực của một chiếc cốc lên môi mình."
+        }
+    ],
+    "words_form": [
+        "pressured",
+        "pressures",
+        "pressuring"
+    ],
+    "meaning_vi": "sức ép"
+}

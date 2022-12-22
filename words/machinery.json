@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/məˈʃin(ə)ri/"
+    ],
+    "synonyms": [
+        "appliances",
+        "implements",
+        "contrivances",
+        "machinations",
+        "plans"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A system of related elements that operate in a definable manner.",
+            "vi": "Một hệ thống các yếu tố liên quan hoạt động theo cách có thể xác định được."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I used machinery to cut the pieces.",
+            "vi": "Tôi đã sử dụng máy móc để cắt các mảnh."
+        },
+        {
+            "en": "With money, you can buy machinery or hire workers to do your work.",
+            "vi": "Có tiền, bạn có thể mua máy móc hoặc thuê nhân công thực hiện công việc của mình."
+        }
+    ],
+    "words_form": [
+        "machineries"
+    ],
+    "meaning_vi": "máy móc"
+}

@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/flæt/"
+    ],
+    "synonyms": [
+        "smooth",
+        "level",
+        "prostrate",
+        "collapsed",
+        "raised"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of or relating to a horizontal line that displays no ups or downs and signifies the absence of physiological activity.",
+            "vi": "Của hoặc liên quan đến một đường ngang không hiển thị lên hoặc xuống và biểu thị sự vắng mặt của hoạt động sinh lý."
+        },
+        {
+            "pos": "noun",
+            "en": "A movable section of stage scenery, usually consisting of a wooden frame and a decorated panel of wood or cloth.",
+            "vi": "Một phần có thể di chuyển của khung cảnh sân khấu, thường bao gồm một khung gỗ và một tấm gỗ hoặc vải được trang trí."
+        },
+        {
+            "pos": "verb",
+            "en": "(dated) To make flat; to flatten; to level.",
+            "vi": "(ngày) Để làm phẳng; để làm phẳng; đến mức."
+        },
+        {
+            "pos": "adverb",
+            "en": "(with units of time, distance, etc) Not exceeding.",
+            "vi": "(với các đơn vị thời gian, khoảng cách, v.v.) Không vượt quá."
+        },
+        {
+            "pos": "idiom",
+            "en": "fall flat  to fail in the desired effect; be completely unsuccessful",
+            "vi": "rơi phẳng để không đạt được hiệu quả mong muốn; hoàn toàn không thành công"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He had just fixed a flat on his bike.",
+            "vi": "Anh ấy vừa sửa một căn hộ trên chiếc xe đạp của mình."
+        },
+        {
+            "en": "His tone was flat, almost uninterested.",
+            "vi": "Giọng anh đều đều, gần như không quan tâm."
+        }
+    ],
+    "words_form": [
+        "flats",
+        "flatted",
+        "flatter",
+        "flattest",
+        "flatting"
+    ],
+    "meaning_vi": "phẳng"
+}

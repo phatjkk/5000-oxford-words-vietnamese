@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/bæŋk/"
+    ],
+    "synonyms": [
+        "levee",
+        "edge",
+        "embankment",
+        "savings bank",
+        "series"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a bank is a place that receives, lends, exchanges and protects money.",
+            "vi": "Định nghĩa ngân hàng là nơi nhận, cho vay, trao đổi và bảo vệ tiền."
+        },
+        {
+            "pos": "verb",
+            "en": "To border or protect with a ridge or embankment.",
+            "vi": "Để biên giới hoặc bảo vệ bằng sườn núi hoặc bờ kè."
+        },
+        {
+            "pos": "idiom",
+            "en": "bank on  to depend on; rely on",
+            "vi": "ngân hàng để phụ thuộc vào; dựa vào"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A bank of clouds was building to the northeast.",
+            "vi": "Một dải mây đang hình thành ở phía đông bắc."
+        },
+        {
+            "en": "Her bank account was rarely over two hundred.",
+            "vi": "Tài khoản ngân hàng của cô hiếm khi hơn hai trăm."
+        }
+    ],
+    "words_form": [
+        "banked",
+        "banking",
+        "banks"
+    ],
+    "meaning_vi": "ngân hàng"
+}

@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/trəst/"
+    ],
+    "synonyms": [
+        "believe in",
+        "duty",
+        "mainstay",
+        "confidence",
+        "reliance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Trust is confidence in the honesty or integrity of a person or thing.",
+            "vi": "Niềm tin là sự tin tưởng vào tính trung thực hoặc tính chính trực của một người hoặc một sự vật."
+        },
+        {
+            "pos": "verb",
+            "en": "To give credence to; believe.",
+            "vi": "Để cung cấp cho; tin."
+        },
+        {
+            "pos": "adjective",
+            "en": "Relating to a trust or trusts.",
+            "vi": "Liên quan đến một ủy thác hoặc các ủy thác."
+        },
+        {
+            "pos": "idiom",
+            "en": "in trust  In the possession or care of a trustee.",
+            "vi": "trong sự tin tưởng Trong sự sở hữu hoặc chăm sóc của một người được ủy thác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I thought I could trust you.",
+            "vi": "Tôi đã nghĩ rằng tôi có thể tin tưởng bạn."
+        },
+        {
+            "en": "I can't trust her not to lie!",
+            "vi": "Tôi không thể tin rằng cô ấy không nói dối!"
+        }
+    ],
+    "words_form": [
+        "trusted",
+        "trusts"
+    ],
+    "meaning_vi": "lòng tin"
+}

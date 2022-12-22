@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/nɛkst/"
+    ],
+    "synonyms": [
+        "beside",
+        "adjoining",
+        "following",
+        "next-door",
+        "close"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Next means the one immediately following.",
+            "vi": "Tiếp theo có nghĩa là một ngay sau đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Nearest in space or position; adjacent.",
+            "vi": "Gần nhất trong không gian hoặc vị trí; liền kề."
+        },
+        {
+            "pos": "adverb",
+            "en": "Next is defined as in the space immediately before or after.",
+            "vi": "Tiếp theo được xác định là trong không gian ngay trước hoặc sau."
+        },
+        {
+            "pos": "determiner",
+            "en": "Closest to seven days (one week) in the future.",
+            "vi": "Gần nhất là bảy ngày (một tuần) trong tương lai."
+        },
+        {
+            "pos": "preposition",
+            "en": "On the side of; next to.",
+            "vi": "Về phía; kế bên."
+        },
+        {
+            "pos": "idiom",
+            "en": "next to  Adjacent to: The car next to hers.Following in order or degree: Next to skiing, she likes hiking.Almost; practically: Next to impossible.",
+            "vi": "bên cạnh Liền kề với: Chiếc ô tô bên cạnh cô ấy Theo thứ tự hoặc mức độ: Bên cạnh trượt tuyết, cô ấy thích đi bộ đường dài.Almost; Thực tế: Tiếp theo đến không thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The kids are in the next room.",
+            "vi": "Những đứa trẻ ở phòng bên cạnh."
+        },
+        {
+            "en": "Maybe he'd think about it next time.",
+            "vi": "Có lẽ anh ấy sẽ nghĩ về điều đó vào lần sau."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "kế tiếp"
+}

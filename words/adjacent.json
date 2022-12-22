@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/əˈdʒeɪs(ə)nt/"
+    ],
+    "synonyms": [
+        "nearby",
+        "near",
+        "neighboring",
+        "adjoining",
+        "beside"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of adjacent is next to or nearby.",
+            "vi": "Định nghĩa của liền kề là bên cạnh hoặc lân cận."
+        },
+        {
+            "pos": "noun",
+            "en": "Something that lies next to something else, especially the side of a right triangle that is neither the hypotenuse nor the opposite.",
+            "vi": "Một cái gì đó nằm bên cạnh một cái gì đó khác, đặc biệt là cạnh của tam giác vuông không phải là cạnh huyền hoặc ngược lại."
+        },
+        {
+            "pos": "preposition",
+            "en": "(US) Next to; adjacent to; beside.",
+            "vi": "(US) Bên cạnh; tiếp giáp với; bên cạnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A bird hide is situated adjacent to the lake.",
+            "vi": "Một nơi ẩn náu của loài chim nằm gần hồ."
+        },
+        {
+            "en": "We moved to adjacent land with a higher elevation in case there was a tsunami after the earthquake.",
+            "vi": "Chúng tôi chuyển đến vùng đất liền kề có độ cao cao hơn để đề phòng có sóng thần sau trận động đất."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "liền kề"
+}

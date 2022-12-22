@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/seɪf/"
+    ],
+    "synonyms": [
+        "secure",
+        "unscathed",
+        "supported",
+        "intact",
+        "guarded"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Free from risk; not liable to be lost; sure.",
+            "vi": "Không có rủi ro; không chịu trách nhiệm về việc bị mất; đảm bảo."
+        },
+        {
+            "pos": "noun",
+            "en": "A metal container usually having a lock, used for storing valuables.",
+            "vi": "Một hộp kim loại thường có khóa, được sử dụng để lưu trữ các vật có giá trị."
+        },
+        {
+            "pos": "suffix",
+            "en": "Void from danger or commonly associated problems.",
+            "vi": "Tránh nguy hiểm hoặc các vấn đề thường liên quan."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She felt safe and secure.",
+            "vi": "Cô cảm thấy an toàn và an toàn."
+        },
+        {
+            "en": "She'd better find a safe place until they arrived.",
+            "vi": "Tốt hơn hết cô nên tìm một nơi an toàn cho đến khi họ đến nơi."
+        }
+    ],
+    "words_form": [
+        "safer",
+        "safest"
+    ],
+    "meaning_vi": "an toàn"
+}

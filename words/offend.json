@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/əˈfɛnd/"
+    ],
+    "synonyms": [
+        "annoy",
+        "aggravate",
+        "insult",
+        "hurt",
+        "affront"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To result in displeasure.",
+            "vi": "Kết quả là không hài lòng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I didn't mean to offend you.",
+            "vi": "Tôi không có ý xúc phạm bạn."
+        },
+        {
+            "en": "Katie tried to suppress it, not wanting to offend her friend, but it escaped.",
+            "vi": "Katie cố gắng kìm nén, không muốn làm mất lòng bạn mình nhưng nó đã trốn thoát."
+        }
+    ],
+    "words_form": [
+        "offended",
+        "offends"
+    ],
+    "meaning_vi": "xúc phạm"
+}

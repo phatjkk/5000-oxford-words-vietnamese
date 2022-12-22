@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kənˈstrəkt/"
+    ],
+    "synonyms": [
+        "build",
+        "produce",
+        "create",
+        "conception",
+        "frame"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To build, form, or devise by fitting parts or elements together systematically.",
+            "vi": "Để xây dựng, hình thành hoặc phát minh bằng cách lắp các bộ phận hoặc yếu tố lại với nhau một cách có hệ thống."
+        },
+        {
+            "pos": "noun",
+            "en": "Something formed or constructed from parts.",
+            "vi": "Một cái gì đó được hình thành hoặc cấu tạo từ các bộ phận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The fishing trade had become so important by 1800 that it was necessary to construct a new dock.",
+            "vi": "Việc buôn bán đánh cá đã trở nên quan trọng vào năm 1800 đến mức cần phải xây dựng một bến tàu mới."
+        },
+        {
+            "en": "If we construct a, the spherical triangles ABC,",
+            "vi": "Nếu chúng ta dựng a, các tam giác ABC,"
+        }
+    ],
+    "words_form": [
+        "constructed",
+        "constructing",
+        "constructs"
+    ],
+    "meaning_vi": "xây dựng"
+}

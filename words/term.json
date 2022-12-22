@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/tərm/"
+    ],
+    "synonyms": [
+        "article",
+        "moniker",
+        "cycle",
+        "season",
+        "period"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a term is a word or group of words that has a special meaning, a specific time period or a condition of a contract.",
+            "vi": "Định nghĩa điều khoản là một từ hoặc một nhóm từ có nghĩa đặc biệt, một khoảng thời gian cụ thể hoặc một điều kiện của hợp đồng."
+        },
+        {
+            "pos": "verb",
+            "en": "Term is defined as to give a name to something.",
+            "vi": "Thuật ngữ được định nghĩa là để đặt tên cho một cái gì đó."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Terminal.",
+            "vi": "Phần cuối."
+        },
+        {
+            "pos": "idiom",
+            "en": "in terms of  As measured or indicated by; in units of: Distances expressed in terms of kilometers as well as miles; cheap entertainment, but costly in terms of time wasted.In relation to; with reference to:",
+            "vi": "về mặt Như được đo lường hoặc chỉ ra bởi; tính bằng đơn vị: Khoảng cách được biểu thị bằng km cũng như dặm; giải trí rẻ, nhưng tốn kém về mặt thời gian. có sự tham khảo:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Praying she hadn't missed some term of the deal, she waited for his reaction.",
+            "vi": "Cầu nguyện rằng cô đã không bỏ lỡ một số điều khoản của thỏa thuận, cô chờ đợi phản ứng của anh ta."
+        },
+        {
+            "en": "I'm sure there's a Latin term for it.",
+            "vi": "Tôi chắc rằng có một thuật ngữ Latinh cho nó."
+        }
+    ],
+    "words_form": [
+        "termed",
+        "terms"
+    ],
+    "meaning_vi": "kỳ hạn"
+}

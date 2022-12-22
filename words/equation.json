@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˈkweɪʒən/"
+    ],
+    "synonyms": [
+        "comparison",
+        "equating",
+        "par",
+        "equalization",
+        "equivalency"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Equation is defined as the state of being equal and is often shown as a math expression with equal values on either side, or refers to a problem where many things need to be taken into account.",
+            "vi": "Phương trình được định nghĩa là trạng thái bằng nhau và thường được hiển thị dưới dạng một biểu thức toán học với các giá trị bằng nhau ở hai bên hoặc đề cập đến một vấn đề cần tính đến nhiều thứ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This equation does not give us the value of the unknown factor but gives us a ratio between two unknowns.",
+            "vi": "Phương trình này không cho chúng ta giá trị của thừa số chưa biết nhưng cho chúng ta một tỷ số giữa hai ẩn số."
+        },
+        {
+            "en": "Again, the equation [2N, 0] =-18500 cal.",
+            "vi": "Một lần nữa, phương trình [2N, 0] = -18500 cal."
+        }
+    ],
+    "words_form": [
+        "equations"
+    ],
+    "meaning_vi": "phương trình"
+}

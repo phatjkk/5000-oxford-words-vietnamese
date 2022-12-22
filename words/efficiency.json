@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˈfɪʃənsi/"
+    ],
+    "synonyms": [
+        "productivity",
+        "effectiveness",
+        "competence",
+        "productiveness",
+        "ability"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Efficiency is defined as the ability to produce something with a minimum amount of effort.",
+            "vi": "Hiệu quả được định nghĩa là khả năng sản xuất một thứ gì đó với một lượng nỗ lực tối thiểu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "In order to operate at maximum efficiency, we must integrate our plans with theirs.",
+            "vi": "Để hoạt động với hiệu quả tối đa, chúng tôi phải tích hợp các kế hoạch của chúng tôi với kế hoạch của họ."
+        },
+        {
+            "en": "Hence assuming the mechanical efficiency of the engine to be and substituting !",
+            "vi": "Do đó, giả sử hiệu suất cơ học của động cơ là và thay thế!"
+        }
+    ],
+    "words_form": [
+        "efficiencies"
+    ],
+    "meaning_vi": "hiệu quả"
+}

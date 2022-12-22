@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/trɛnd/"
+    ],
+    "synonyms": [
+        "movement",
+        "lean",
+        "cast",
+        "predilection",
+        "drift"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A fad or fashion style.",
+            "vi": "Một mốt hoặc một phong cách thời trang."
+        },
+        {
+            "pos": "verb",
+            "en": "To extend, incline, or veer in a specified direction.",
+            "vi": "Để kéo dài, nghiêng hoặc xoay theo một hướng được chỉ định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was now in open conflict with the whole trend of public opinion.",
+            "vi": "Bây giờ anh ấy đang công khai xung đột với toàn bộ xu hướng của dư luận."
+        },
+        {
+            "en": "Strong mountain ranges follow the trend of the Pacific coast, 150 or 200 m.",
+            "vi": "Các dãy núi mạnh theo xu hướng của bờ biển Thái Bình Dương, 150 hoặc 200 m."
+        }
+    ],
+    "words_form": [
+        "trended",
+        "trending",
+        "trends"
+    ],
+    "meaning_vi": "khuynh hướng"
+}

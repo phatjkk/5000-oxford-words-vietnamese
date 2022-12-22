@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ænt/",
+        "/ɑnt/"
+    ],
+    "synonyms": [
+        "aunty",
+        "auntie",
+        "great-aunt",
+        "uncle",
+        "mother-in-law"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A sister of one's mother or father.",
+            "vi": "Em gái của mẹ hoặc cha của một người."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(sister of someone's father) Paternal aunt.",
+            "vi": "(em gái của bố ai đó) Dì của mẹ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We kept in touch with Aunt Clara.",
+            "vi": "Chúng tôi vẫn giữ liên lạc với dì Clara."
+        },
+        {
+            "en": "When her aunt had died, Katie had moved in with Carmen.",
+            "vi": "Khi dì của cô qua đời, Katie đã chuyển đến sống với Carmen."
+        }
+    ],
+    "words_form": [
+        "aunts"
+    ],
+    "meaning_vi": "cô, dì"
+}

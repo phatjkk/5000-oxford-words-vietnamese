@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈdɪkˌteɪt/",
+        "/ˌdɪkˈteɪt/"
+    ],
+    "synonyms": [
+        "direct",
+        "tyrannize",
+        "control",
+        "order",
+        "ordain"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To say or read aloud to be recorded or written by another.",
+            "vi": "Để nói hoặc đọc to được người khác ghi âm hoặc viết."
+        },
+        {
+            "pos": "noun",
+            "en": "An order or command.",
+            "vi": "Một mệnh lệnh hoặc mệnh lệnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Would you listen to a ruler if they made an unjust dictate?",
+            "vi": "Bạn có lắng nghe một người cai trị nếu họ đưa ra một mệnh lệnh bất công không?"
+        },
+        {
+            "en": "It was hard to stay awake as I listened to my boss dictate a long message.",
+            "vi": "Thật khó để tỉnh táo khi tôi nghe sếp đọc một tin nhắn dài."
+        }
+    ],
+    "words_form": [
+        "dictated",
+        "dictates",
+        "dictating"
+    ],
+    "meaning_vi": "ra lệnh"
+}

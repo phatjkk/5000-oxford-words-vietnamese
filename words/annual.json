@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈænj(u)əl/"
+    ],
+    "synonyms": [
+        "yearly",
+        "each year",
+        "every year",
+        "anniversary",
+        "annuity"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or determined by a year.",
+            "vi": "Của, liên quan đến, hoặc được xác định bởi một năm."
+        },
+        {
+            "pos": "noun",
+            "en": "A periodical published yearly; a yearbook.",
+            "vi": "Một tạp chí xuất bản định kỳ hàng năm; một cuốn kỷ yếu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I miss their annual calendar.",
+            "vi": "Tôi nhớ lịch hàng năm của họ."
+        },
+        {
+            "en": "At most, it tolerates one annual loon.",
+            "vi": "Tối đa, nó có thể chịu đựng một loon hàng năm."
+        }
+    ],
+    "words_form": [
+        "annuals"
+    ],
+    "meaning_vi": "hàng năm"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/əˈsɛn(t)ʃəl/"
+    ],
+    "synonyms": [
+        "required",
+        "vital",
+        "necessary",
+        "sine qua non",
+        "requirement"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Fundamentally important or necessary.",
+            "vi": "Về cơ bản là quan trọng hoặc cần thiết."
+        },
+        {
+            "pos": "noun",
+            "en": "Something necessary or indispensable.",
+            "vi": "Một cái gì đó cần thiết hoặc không thể thiếu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That is an essential condition.",
+            "vi": "Đó là điều kiện thiết yếu."
+        },
+        {
+            "en": "She knew the essential conditions of the instrument.",
+            "vi": "Cô biết những điều kiện thiết yếu của cây đàn."
+        }
+    ],
+    "words_form": [
+        "essentials"
+    ],
+    "meaning_vi": "tinh"
+}

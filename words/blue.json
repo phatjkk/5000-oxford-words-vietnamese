@@ -1,0 +1,62 @@
+{
+    "spelling": [
+        "/blu/"
+    ],
+    "synonyms": [
+        "aqua",
+        "azure",
+        "cerulean",
+        "sky",
+        "desolate"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of blue is having the color that looks like a clear day sky or being sad.",
+            "vi": "Định nghĩa của màu xanh lam có màu sắc giống như bầu trời trong xanh hoặc buồn bã."
+        },
+        {
+            "pos": "noun",
+            "en": "Blue is defined as the color between green and indigo in the rainbow that looks like the clear daytime sky.",
+            "vi": "Màu xanh lam được định nghĩa là màu giữa xanh lục và chàm trong cầu vồng trông giống như bầu trời trong xanh vào ban ngày."
+        },
+        {
+            "pos": "verb",
+            "en": "(ergative) To make or become blue.",
+            "vi": "(sai lầm) Để làm cho hoặc trở thành màu xanh lam."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Lube.",
+            "vi": "Lube."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname​. An anglicization of German Blau.",
+            "vi": "Họ. Một nỗi đau của Đức Blau."
+        },
+        {
+            "pos": "idiom",
+            "en": "blue in the face  At the point of extreme exasperation: I argued with them until I was blue in the face.",
+            "vi": "Mặt xanh đến mức cực kỳ bực tức: Tôi đã tranh cãi với họ cho đến khi mặt tái xanh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She handed him a light blue shirt.",
+            "vi": "Cô đưa cho anh một chiếc áo sơ mi màu xanh nhạt."
+        },
+        {
+            "en": "The bright blue eyes regarded her thoughtfully.",
+            "vi": "Đôi mắt xanh sáng long lanh nhìn cô đầy ân cần."
+        }
+    ],
+    "words_form": [
+        "blued",
+        "blueing",
+        "blues",
+        "bluest",
+        "bluing"
+    ],
+    "meaning_vi": "màu xanh da trời"
+}

@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/hɔrn/"
+    ],
+    "synonyms": [
+        "spike",
+        "cornet",
+        "motor horn",
+        "tusk",
+        "drum"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A hard protuberance, such as an antler or projection on the head of a giraffe or rhinoceros, that is similar to or suggestive of a horn.",
+            "vi": "Phần lồi cứng, chẳng hạn như một con hươu cao cổ hoặc hình chiếu trên đầu của một con hươu cao cổ hoặc tê giác, tương tự hoặc gợi ý đến một chiếc sừng."
+        },
+        {
+            "pos": "verb",
+            "en": "(of an animal) To assault with the horns.",
+            "vi": "(của một con vật) Để tấn công bằng sừng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Made of horn.",
+            "vi": "Làm bằng sừng."
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) Cape on an island (Horn Island) in Tierra del Fuego, Chile: southernmost point of South America.",
+            "vi": "(địa điểm) Mũi trên một hòn đảo (Đảo Sừng) ở Tierra del Fuego, Chile: điểm cực nam của Nam Mỹ."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Cape Horn, at the southern tip of South America.",
+            "vi": "Cape Horn, ở cực nam của Nam Mỹ."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) blow  To brag or boast about oneself.",
+            "vi": "(không chính thức) đòn Để khoe khoang hoặc khoe khoang về bản thân."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Somewhere in the distance a horn honked.",
+            "vi": "Đâu đó xa xa có tiếng còi xe vang lên."
+        },
+        {
+            "en": "A car horn outside woke him in less than five minutes.",
+            "vi": "Một tiếng còi xe bên ngoài đánh thức anh trong vòng chưa đầy năm phút."
+        }
+    ],
+    "words_form": [
+        "horned",
+        "horning",
+        "horns"
+    ],
+    "meaning_vi": "sừng"
+}

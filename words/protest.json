@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈproʊˌtɛst/"
+    ],
+    "synonyms": [
+        "demonstration",
+        "resist",
+        "disagree",
+        "demur",
+        "kick"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A public demonstration or organized effort to show disapproval about something, especially a governmental policy or practice.",
+            "vi": "Một cuộc biểu tình công khai hoặc nỗ lực có tổ chức để thể hiện sự không đồng tình về điều gì đó, đặc biệt là một chính sách hoặc thông lệ của chính phủ."
+        },
+        {
+            "pos": "verb",
+            "en": "To protest is to make clear you object to something, especially if you do so publicly through demonstrations.",
+            "vi": "Phản đối là nói rõ rằng bạn phản đối điều gì đó, đặc biệt nếu bạn làm như vậy một cách công khai thông qua các cuộc biểu tình."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or having to do with dissent, esp. political dissent.",
+            "vi": "Về hoặc phải làm với bất đồng quan điểm, đặc biệt. bất đồng chính kiến."
+        },
+        {
+            "pos": "idiom",
+            "en": "under protest  while expressing one's objections; unwillingly",
+            "vi": "dưới sự phản đối trong khi bày tỏ sự phản đối của một người; không muốn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She began to protest but he stopped her.",
+            "vi": "Cô bắt đầu phản đối nhưng anh đã ngăn cô lại."
+        },
+        {
+            "en": "He began to protest but she waved him aside.",
+            "vi": "Anh bắt đầu phản đối nhưng cô đã gạt anh sang một bên."
+        }
+    ],
+    "words_form": [
+        "protested",
+        "protesting",
+        "protests"
+    ],
+    "meaning_vi": "phản đối"
+}

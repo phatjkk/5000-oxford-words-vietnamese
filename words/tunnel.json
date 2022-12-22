@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈtənl/"
+    ],
+    "synonyms": [
+        "subway",
+        "burrow",
+        "shaft",
+        "bore",
+        "hole"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An underground or underwater passage.",
+            "vi": "Một lối đi ngầm hoặc dưới nước."
+        },
+        {
+            "pos": "verb",
+            "en": "To make a tunnel.",
+            "vi": "Để làm một đường hầm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There's a tunnel under here.",
+            "vi": "Có một đường hầm dưới đây."
+        },
+        {
+            "en": "The tunnel vision receded.",
+            "vi": "Tầm nhìn xa dần."
+        }
+    ],
+    "words_form": [
+        "tunneled",
+        "tunneling",
+        "tunnelled",
+        "tunnelling",
+        "tunnels"
+    ],
+    "meaning_vi": "Đường hầm"
+}

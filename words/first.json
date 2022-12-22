@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/fərst/"
+    ],
+    "synonyms": [
+        "earliest",
+        "in the beginning",
+        "premier",
+        "antecedent",
+        "initial"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of first is someone or something that happens or acts before any others.",
+            "vi": "Định nghĩa của đầu tiên là ai đó hoặc điều gì đó xảy ra hoặc hành động trước bất kỳ người nào khác."
+        },
+        {
+            "pos": "noun",
+            "en": "The ordinal number matching the number one in a series.",
+            "vi": "Số thứ tự khớp với số một trong một chuỗi."
+        },
+        {
+            "pos": "adverb",
+            "en": "Before or above all others in time, order, rank, or importance.",
+            "vi": "Trước hoặc hơn tất cả những người khác về thời gian, thứ tự, thứ hạng hoặc tầm quan trọng."
+        },
+        {
+            "pos": "idiom",
+            "en": "first off  From the start; immediately: Why wasn't I told first off? When I get to work, I have to call my lawyer first thing.",
+            "vi": "trước hết Ngay từ đầu; ngay lập tức: Tại sao tôi không nói trước? Khi tôi đi làm, điều đầu tiên tôi phải gọi cho luật sư của mình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was the first money that he had ever had.",
+            "vi": "Đó là khoản tiền đầu tiên mà anh ta có được."
+        },
+        {
+            "en": "First it was the inheritance thing.",
+            "vi": "Đầu tiên đó là thứ thừa kế."
+        }
+    ],
+    "words_form": [
+        "firsts"
+    ],
+    "meaning_vi": "thứ nhất, trước tiên"
+}

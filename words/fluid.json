@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈfluɪd/"
+    ],
+    "synonyms": [
+        "liquid",
+        "molten",
+        "lymphatic",
+        "fluent",
+        "flowing"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Fluid is defined as anything that can flow such as a liquid or gas.",
+            "vi": "Chất lỏng được định nghĩa là bất cứ thứ gì có thể chảy như chất lỏng hoặc chất khí."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of fluid is a person, thing or situation that moves or changes easily.",
+            "vi": "Định nghĩa của chất lỏng là một người, sự vật hoặc tình huống có thể di chuyển hoặc thay đổi một cách dễ dàng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He stood in one fluid movement.",
+            "vi": "Anh ta đứng trong một chuyển động linh hoạt."
+        },
+        {
+            "en": "He spat a stream of brown fluid at the ground and grinned at her.",
+            "vi": "Anh phun một dòng chất lỏng màu nâu xuống đất và cười toe toét với cô."
+        }
+    ],
+    "words_form": [
+        "fluids"
+    ],
+    "meaning_vi": "chất lỏng"
+}

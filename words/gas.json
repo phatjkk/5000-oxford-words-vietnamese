@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/ɡæs/"
+    ],
+    "synonyms": [
+        "vapor",
+        "gasoline",
+        "blab",
+        "prate",
+        "babble"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Gas is defined as an air-like substance that expands to fill the space it is in. It also refers to a substance used as fuel.",
+            "vi": "Khí được định nghĩa là một chất giống như không khí nở ra để lấp đầy không gian mà nó ở trong đó. Nó cũng đề cập đến một chất được sử dụng làm nhiên liệu."
+        },
+        {
+            "pos": "verb",
+            "en": "The definition of gas is to expose someone to gas fumes, to treat chemically with gas or to give off gas fumes.",
+            "vi": "Định nghĩa về khí là để cho ai đó tiếp xúc với khói khí, xử lý hóa học với khí hoặc tạo ra khói khí."
+        },
+        {
+            "pos": "adjective",
+            "en": "(Ireland, colloquial) Comical, zany.",
+            "vi": "(Ireland, thông tục) Truyện tranh, thú vị."
+        },
+        {
+            "pos": "idiom",
+            "en": "gas up  to put gasoline into the tank of (a vehicle)",
+            "vi": "xăng lên để đổ xăng vào thùng của (một chiếc xe)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "At the gas station there were only two cars.",
+            "vi": "Tại trạm xăng chỉ có hai chiếc ô tô."
+        },
+        {
+            "en": "The gas contains a certain amount of hydrogen and oxides of carbon, also traces of nitrogen.",
+            "vi": "Khí chứa một lượng hydro và oxit cacbon nhất định, cũng có thể là nitơ."
+        }
+    ],
+    "words_form": [
+        "gases",
+        "gassed",
+        "gasses",
+        "gassing"
+    ],
+    "meaning_vi": "khí ga"
+}

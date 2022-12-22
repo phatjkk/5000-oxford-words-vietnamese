@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/sloʊp/"
+    ],
+    "synonyms": [
+        "slant",
+        "grade",
+        "declivity",
+        "hill",
+        "tilt"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of slope is to slant up or down, or to put something into a position where it slants up or down.",
+            "vi": "Định nghĩa của độ dốc là nghiêng lên hoặc xuống, hoặc đặt vật gì đó vào vị trí mà nó nghiêng lên hoặc xuống."
+        },
+        {
+            "pos": "noun",
+            "en": "An inclined line, surface, plane, position, or direction.",
+            "vi": "Một đường nghiêng, bề mặt, mặt phẳng, vị trí hoặc hướng."
+        },
+        {
+            "pos": "adjective",
+            "en": "(old poet.) That slopes; slanting; inclined.",
+            "vi": "(nhà thơ già.) Con dốc đó; xiên; nghiêng."
+        },
+        {
+            "pos": "adverb",
+            "en": "(obsolete) Slopingly.",
+            "vi": "(lỗi thời) Dốc."
+        },
+        {
+            "pos": "idiom",
+            "en": "the slopes  an area used or reserved for downhill skiing",
+            "vi": "sườn dốc, một khu vực được sử dụng hoặc dành riêng cho trượt tuyết xuống dốc"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They waited until he climbed up the slope to where they stood.",
+            "vi": "Họ đợi cho đến khi anh leo lên dốc đến chỗ họ đứng."
+        },
+        {
+            "en": "Pierre ran down the slope once more.",
+            "vi": "Pierre chạy xuống dốc một lần nữa."
+        }
+    ],
+    "words_form": [
+        "sloped",
+        "slopes",
+        "sloping"
+    ],
+    "meaning_vi": "độ dốc"
+}

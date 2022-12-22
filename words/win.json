@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/wɪn/"
+    ],
+    "synonyms": [
+        "victory",
+        "achieve",
+        "triumph",
+        "succeed",
+        "conquer"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be successful or victorious in (a contest, game, dispute, etc.)",
+            "vi": "Để thành công hoặc chiến thắng trong (một cuộc thi, trò chơi, tranh chấp, v.v.)"
+        },
+        {
+            "pos": "noun",
+            "en": "An amount won or earned.",
+            "vi": "Một số tiền thắng hoặc kiếm được."
+        },
+        {
+            "pos": "idiom",
+            "en": "win the day  To be successful.",
+            "vi": "chiến thắng trong ngày Để thành công."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I only want to see whether you will let me win this ten, or beat it.",
+            "vi": "Tôi chỉ muốn xem liệu bạn sẽ để tôi giành chiến thắng mười này, hay đánh bại nó."
+        },
+        {
+            "en": "I can win him over.",
+            "vi": "Tôi có thể chiến thắng anh ta."
+        }
+    ],
+    "words_form": [
+        "winning",
+        "wins",
+        "won"
+    ],
+    "meaning_vi": "thắng lợi"
+}

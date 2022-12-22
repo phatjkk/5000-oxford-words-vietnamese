@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/əˈpɪrəns/"
+    ],
+    "synonyms": [
+        "looks",
+        "reality",
+        "presence",
+        "exterior",
+        "presentation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Appearance is defined as the way that someone, or something, looks.",
+            "vi": "Ngoại hình được định nghĩa là cách mà một người nào đó, hoặc một cái gì đó, nhìn."
+        },
+        {
+            "pos": "idiom",
+            "en": "keep up appearances  to maintain an outward show of being proper, decorous, well-off, etc.",
+            "vi": "tiếp tục xuất hiện để duy trì biểu hiện bên ngoài là đứng đắn, đoan trang, khá giả, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Shadows made his appearance sinister.",
+            "vi": "Bóng tối làm cho vẻ ngoài của anh ta trở nên nham hiểm."
+        },
+        {
+            "en": "He sensed the silent appearance of his friend and drew a breath.",
+            "vi": "Anh cảm nhận được sự xuất hiện im lặng của bạn mình và hít thở."
+        }
+    ],
+    "words_form": [
+        "appearances"
+    ],
+    "meaning_vi": "xuất hiện"
+}

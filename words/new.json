@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/n(j)u/"
+    ],
+    "synonyms": [
+        "current",
+        "modern",
+        "brand-new",
+        "fresh",
+        "newly"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Different from the former or the old.",
+            "vi": "Khác với cái cũ hay cái cũ."
+        },
+        {
+            "pos": "noun",
+            "en": "Something new.",
+            "vi": "Cai gi đo mơi."
+        },
+        {
+            "pos": "adverb",
+            "en": "Newly, recently.",
+            "vi": "Mới, gần đây."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To make new; to renew.",
+            "vi": "(lỗi thời) Để làm mới; đổi mới."
+        },
+        {
+            "pos": "prefix",
+            "en": "Newly, recently.",
+            "vi": "Mới, gần đây."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She helped Carmen into the new dress.",
+            "vi": "Cô ấy đã giúp Carmen mặc chiếc váy mới."
+        },
+        {
+            "en": "Is it something new for the trip?",
+            "vi": "Nó có gì mới cho chuyến đi không?"
+        }
+    ],
+    "words_form": [
+        "newest"
+    ],
+    "meaning_vi": "mới"
+}

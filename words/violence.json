@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈvaɪ(ə)ləns/"
+    ],
+    "synonyms": [
+        "clash",
+        "injury",
+        "confusion",
+        "constraint",
+        "aggression"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Violence is the use of physical force intended to harm.",
+            "vi": "Bạo lực là việc sử dụng vũ lực nhằm gây tổn hại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Where did all the anger and violence come from?",
+            "vi": "Tất cả sự tức giận và bạo lực đến từ đâu?"
+        },
+        {
+            "en": "The police blamed street violence though the neighborhood was wrong and girl had no known gang involvement.",
+            "vi": "Cảnh sát đổ lỗi cho bạo lực đường phố mặc dù khu phố đã sai và cô gái không có liên quan đến băng đảng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bạo lực"
+}

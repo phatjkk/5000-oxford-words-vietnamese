@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/baɪk/"
+    ],
+    "synonyms": [
+        "cycle",
+        "bicycle",
+        "pedal",
+        "wheel",
+        "motorcycle"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A bicycle.",
+            "vi": "Một chiếc xe đạp."
+        },
+        {
+            "pos": "verb",
+            "en": "To travel by bike.",
+            "vi": "Để đi du lịch bằng xe đạp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The bike comes out tomorrow.",
+            "vi": "Xe đạp sẽ ra mắt vào ngày mai."
+        },
+        {
+            "en": "\"In his new bike shoes,\" Dean added.",
+            "vi": "\"Trong đôi giày xe đạp mới của anh ấy,\" Dean nói thêm."
+        }
+    ],
+    "words_form": [
+        "biked",
+        "bikes",
+        "biking"
+    ],
+    "meaning_vi": "xe đạp"
+}

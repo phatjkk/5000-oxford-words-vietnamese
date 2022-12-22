@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/əˈrɛst/"
+    ],
+    "synonyms": [
+        "catch",
+        "capture",
+        "apprehension",
+        "seizure",
+        "staying"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Arrest is defined as the act of taking a person into custody for legal purposes.",
+            "vi": "Bắt giữ được định nghĩa là hành vi bắt một người bị giam giữ vì mục đích hợp pháp."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of arrest is to take a person into custody for legal purposes.",
+            "vi": "Định nghĩa của bắt giữ là bắt một người bị giam giữ vì các mục đích hợp pháp."
+        },
+        {
+            "pos": "idiom",
+            "en": "under arrest  in legal custody, as of the police",
+            "vi": "đang bị bắt giữ bởi sự giam giữ hợp pháp, cũng như của cảnh sát"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They could arrest and imprison.",
+            "vi": "Họ có thể bắt và bỏ tù."
+        },
+        {
+            "en": "Why don't you arrest both of us?",
+            "vi": "Tại sao bạn không bắt cả hai chúng ta?"
+        }
+    ],
+    "words_form": [
+        "arrested",
+        "arrests"
+    ],
+    "meaning_vi": "bắt giữ"
+}

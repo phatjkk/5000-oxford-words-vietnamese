@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/rəˈkwaɪ(ə)rmənt/"
+    ],
+    "synonyms": [
+        "pinch",
+        "essential",
+        "basis",
+        "provision",
+        "imperative"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a requirement is something that is necessary.",
+            "vi": "Định nghĩa của một yêu cầu là một cái gì đó cần thiết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "To meet this requirement, Walker in 1878 introduced the Cherub FIG.",
+            "vi": "Để đáp ứng yêu cầu này, Walker vào năm 1878 đã giới thiệu Cherub FIG."
+        },
+        {
+            "en": "(X.) Hydrostatics Hydrostatics is a science which grew originally out of a number of isolated practical problems; but it satisfies the requirement of perfect accuracy in its application to phenomena, the largest and smallest, of the behaviour of a fluid.",
+            "vi": "(X.) Thủy tĩnh học Thủy tĩnh học là một ngành khoa học ban đầu xuất phát từ một số vấn đề thực tế riêng biệt; nhưng nó đáp ứng yêu cầu về độ chính xác hoàn hảo trong ứng dụng của nó đối với các hiện tượng, lớn nhất và nhỏ nhất, về hoạt động của chất lưu."
+        }
+    ],
+    "words_form": [
+        "requirements"
+    ],
+    "meaning_vi": "yêu cầu"
+}

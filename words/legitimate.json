@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ləˈdʒɪdəmət/"
+    ],
+    "synonyms": [
+        "authentic",
+        "probable",
+        "fair",
+        "cogent",
+        "legal"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "In accordance with the law or established legal forms and requirements; lawful.",
+            "vi": "Theo quy định của pháp luật hoặc các hình thức và yêu cầu pháp lý đã được thiết lập; đúng luật."
+        },
+        {
+            "pos": "verb",
+            "en": "To make legitimate, as:  To give legal force or status to; make lawful. To sanction formally or officially; authorize. To demonstrate or declare to be justified.",
+            "vi": "Để làm cho hợp pháp, như: Để có hiệu lực pháp lý hoặc địa vị; làm cho hợp pháp. Xử phạt chính thức hoặc chính thức; ủy quyền. Để chứng minh hoặc tuyên bố là chính đáng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is a legitimate question that deserves a carefully reasoned answer.",
+            "vi": "Đó là một câu hỏi chính đáng xứng đáng có một câu trả lời được lý giải cẩn thận."
+        },
+        {
+            "en": "Pierre will get everything as the legitimate son.",
+            "vi": "Pierre sẽ có được mọi thứ như một đứa con trai hợp pháp."
+        }
+    ],
+    "words_form": [
+        "legitimated",
+        "legitimates",
+        "legitimating"
+    ],
+    "meaning_vi": "hợp pháp"
+}

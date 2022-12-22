@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈpərmənənt/"
+    ],
+    "synonyms": [
+        "perennial",
+        "old",
+        "unchanging",
+        "continuing",
+        "constant"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Lasting or remaining without essential change.",
+            "vi": "Kéo dài hoặc duy trì mà không có thay đổi cần thiết."
+        },
+        {
+            "pos": "noun",
+            "en": "Any of several long-lasting hair styles usually achieved by chemical applications that straighten, curl, or wave the hair.",
+            "vi": "Bất kỳ kiểu tóc lâu dài nào thường đạt được bằng các ứng dụng hóa chất làm thẳng, uốn hoặc sóng tóc."
+        },
+        {
+            "pos": "verb",
+            "en": "(dated) To perm (the hair).",
+            "vi": "(ngày) Để uốn (tóc)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She wanted a permanent relationship with him - marriage.",
+            "vi": "Cô muốn có một mối quan hệ lâu dài với anh - hôn nhân."
+        },
+        {
+            "en": "Maybe he didn't want a permanent relationship.",
+            "vi": "Có lẽ anh ấy không muốn một mối quan hệ lâu dài."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "dài hạn"
+}

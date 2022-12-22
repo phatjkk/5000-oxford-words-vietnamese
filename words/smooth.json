@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/smuð/"
+    ],
+    "synonyms": [
+        "smooth",
+        "soft",
+        "frictionless",
+        "suave",
+        "level"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Smooth is defined as to get rid of wrinkles, lumps or ridges in something.",
+            "vi": "Smooth được định nghĩa là loại bỏ các nếp nhăn, cục u hoặc đường gờ ở một thứ gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of smooth is even, flat and not rough.",
+            "vi": "Nét mịn đều, phẳng và không thô."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a smooth manner.",
+            "vi": "Một cách trơn tru."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of smoothing.",
+            "vi": "Hành động làm mịn."
+        },
+        {
+            "pos": "idiom",
+            "en": "smooth away  to remove (difficulties, obstacles, etc.)",
+            "vi": "suôn sẻ để tháo gỡ (khó khăn, trở ngại, v.v.)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He had no paper, but he knew where there was a smooth board.",
+            "vi": "Anh ta không có giấy, nhưng anh ta biết ở đâu có một tấm bảng nhẵn."
+        },
+        {
+            "en": "She gazed up into his smooth features.",
+            "vi": "Cô nhìn chằm chằm vào những đường nét mịn màng của anh."
+        }
+    ],
+    "words_form": [
+        "smoothed",
+        "smoothes",
+        "smoothest",
+        "smoothing"
+    ],
+    "meaning_vi": "mượt, êm, trơn tru"
+}

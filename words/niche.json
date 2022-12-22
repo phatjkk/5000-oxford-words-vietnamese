@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/nɪtʃ/",
+        "/niʃ/"
+    ],
+    "synonyms": [
+        "cavity",
+        "place",
+        "recess",
+        "alcove",
+        "space"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A place or position particularly suitable to the person or thing in it.",
+            "vi": "Một địa điểm hoặc vị trí đặc biệt phù hợp với người hoặc vật trong đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To place in a niche.",
+            "vi": "Để đặt vào một vị trí thích hợp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He never liked being on the hot seat and he'd found his niche with this job.",
+            "vi": "Anh ấy không bao giờ thích ngồi trên ghế nóng và anh ấy đã tìm thấy vị trí thích hợp của mình với công việc này."
+        },
+        {
+            "en": "His niche in the great gallery of English poets is secure.",
+            "vi": "Vị trí thích hợp của anh ấy trong phòng trưng bày lớn của các nhà thơ Anh được bảo mật."
+        }
+    ],
+    "words_form": [
+        "niched",
+        "niches",
+        "niche"
+    ],
+    "meaning_vi": "thích hợp"
+}

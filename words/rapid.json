@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈræpəd/"
+    ],
+    "synonyms": [
+        "fast",
+        "quick",
+        "hurried",
+        "speedy",
+        "winged"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Moving, acting, or occurring with great speed.",
+            "vi": "Di chuyển, hành động hoặc diễn ra với tốc độ lớn."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a rapid is a turbulent part of a river where the current flows quickly.",
+            "vi": "Định nghĩa về dòng chảy nhanh là một phần hỗn loạn của dòng sông nơi dòng điện chảy nhanh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Astonished, she watched the rapid battle.",
+            "vi": "Cô ngạc nhiên theo dõi trận chiến nhanh chóng."
+        },
+        {
+            "en": "Every year Santa Claus takes a journey over the world in a sleigh drawn by a strong and rapid steed called \"Rudolph.\"",
+            "vi": "Mỗi năm, ông già Noel sẽ thực hiện một cuộc hành trình vòng quanh thế giới trên một chiếc xe trượt tuyết được điều khiển bởi một con chiến mã mạnh mẽ và nhanh nhẹn được gọi là \"Rudolph.\""
+        }
+    ],
+    "words_form": [
+        "rapidest",
+        "rapids"
+    ],
+    "meaning_vi": "nhanh"
+}

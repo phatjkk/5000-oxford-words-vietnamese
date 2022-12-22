@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/reɪn/"
+    ],
+    "synonyms": [
+        "command",
+        "prevail",
+        "conquest",
+        "dominate",
+        "predominate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To reign is defined as to rule over a kingdom and subjects, or to be prominent.",
+            "vi": "Trị vì được định nghĩa là cai trị một vương quốc và thần dân, hoặc trở nên nổi bật."
+        },
+        {
+            "pos": "noun",
+            "en": "Dominance or widespread influence.",
+            "vi": "Sự thống trị hoặc ảnh hưởng rộng rãi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We can no longer both reign together.",
+            "vi": "Chúng ta không còn có thể trị vì cùng nhau."
+        },
+        {
+            "en": "What a splendid reign the Emperor Alexander's might have been!",
+            "vi": "Thật là một triều đại huy hoàng mà Hoàng đế Alexander có thể đã trải qua!"
+        }
+    ],
+    "words_form": [
+        "reigned",
+        "reigning",
+        "reigns"
+    ],
+    "meaning_vi": "trị vì"
+}

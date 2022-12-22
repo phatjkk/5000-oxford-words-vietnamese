@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/rəˈspɛkt/"
+    ],
+    "synonyms": [
+        "honor",
+        "deference",
+        "respect",
+        "revere",
+        "heed"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Respect is defined as to feel or show esteem or honor for someone or something.",
+            "vi": "Sự tôn trọng được định nghĩa là cảm nhận hoặc thể hiện sự quý trọng hoặc danh dự đối với ai đó hoặc điều gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Respect means a feeling or show of honor or esteem for someone or something.",
+            "vi": "Tôn trọng có nghĩa là một cảm giác hoặc thể hiện sự tôn vinh hoặc quý trọng đối với ai đó hoặc điều gì đó."
+        },
+        {
+            "pos": "interjection",
+            "en": "(Jamaica) Hello, hi.",
+            "vi": "(Jamaica) Xin chào, chào."
+        },
+        {
+            "pos": "idiom",
+            "en": "(chiefly british) in respect of  With respect to.",
+            "vi": "(chủ yếu là người Anh) đối với Đối với."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Treat them with respect and take care of them.",
+            "vi": "Đối xử với họ bằng sự tôn trọng và chăm sóc họ."
+        },
+        {
+            "en": "I'm disappointed in your decision, but I respect it.",
+            "vi": "Tôi thất vọng về quyết định của bạn, nhưng tôi tôn trọng điều đó."
+        }
+    ],
+    "words_form": [
+        "respected",
+        "respects"
+    ],
+    "meaning_vi": "sự tôn trọng"
+}

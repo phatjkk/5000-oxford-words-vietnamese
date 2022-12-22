@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/dʒəˈnɛdɪk/"
+    ],
+    "synonyms": [
+        "transmitted",
+        "inherited",
+        "generative",
+        "hereditary",
+        "gene"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of genetic is something relating to genes or to the origin of something.",
+            "vi": "Định nghĩa của di truyền là một cái gì đó liên quan đến gen hoặc nguồn gốc của một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Studying genetics can help doctors develop better medications or a cure for currently incurable diseases such as cancer and AIDS.",
+            "vi": "Nghiên cứu về di truyền học có thể giúp các bác sĩ phát triển các loại thuốc tốt hơn hoặc cách chữa các bệnh nan y hiện nay như ung thư và AIDS."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This is a form of genetic modification.",
+            "vi": "Đây là một dạng biến đổi gen."
+        },
+        {
+            "en": "Today, genetic modification efforts are much more directed.",
+            "vi": "Ngày nay, các nỗ lực chỉnh sửa gen được hướng tới nhiều hơn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "di truyền"
+}

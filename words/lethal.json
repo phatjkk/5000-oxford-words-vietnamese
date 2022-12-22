@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈliθəl/"
+    ],
+    "synonyms": [
+        "deadly",
+        "fatal",
+        "mortal",
+        "harmful",
+        "live"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Deadly; mortal; fatal.",
+            "vi": "Chết người; sinh tử; gây tử vong."
+        },
+        {
+            "pos": "noun",
+            "en": "(chemistry) One of the higher alcohols of the paraffine series obtained from spermaceti as a white crystalline solid.",
+            "vi": "(hóa học) Một trong những rượu bậc cao của dãy parafin thu được từ tinh trùng ở dạng chất rắn kết tinh màu trắng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The Watcher took a step back at his lethal tone.",
+            "vi": "The Watcher lùi lại một bước trước giọng điệu chết người của anh ta."
+        },
+        {
+            "en": "\"You get one warning,\" he said in a tone far more lethal than he'd ever used with her.",
+            "vi": "\"Bạn nhận được một lời cảnh báo,\" anh nói với giọng điệu nguy hiểm hơn nhiều so với những gì anh đã từng sử dụng với cô."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "gây chết người"
+}

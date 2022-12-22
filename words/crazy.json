@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/ˈkreɪzi/"
+    ],
+    "synonyms": [
+        "insane",
+        "absurd",
+        "cuckoo",
+        "mentally ill",
+        "nuts"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "One who is or appears to be mentally deranged.",
+            "vi": "Một người đang hoặc có vẻ như bị loạn trí."
+        },
+        {
+            "pos": "adjective",
+            "en": "(informal) Very enthusiastic or eager.",
+            "vi": "(thân mật) Rất nhiệt tình hoặc háo hức."
+        },
+        {
+            "pos": "adverb",
+            "en": "(slang) Very, extremely.",
+            "vi": "(tiếng lóng) Rất, vô cùng."
+        },
+        {
+            "pos": "interjection",
+            "en": "(slang) Used to express approval, pleasure, wonder, etc.: now rare.",
+            "vi": "(tiếng lóng) Được sử dụng để thể hiện sự tán thành, vui sướng, ngạc nhiên, v.v.: bây giờ hiếm."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) like crazy  To an exceeding degree: They were running around like crazy.",
+            "vi": "(không chính thức) như điên Ở một mức độ vượt quá: Họ chạy xung quanh như điên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The idea is as crazy as the rest of this business!",
+            "vi": "Ý tưởng điên rồ như phần còn lại của doanh nghiệp này!"
+        },
+        {
+            "en": "He's crazy... he did not want to listen.",
+            "vi": "Anh ấy điên rồi ... anh ấy không muốn nghe."
+        }
+    ],
+    "words_form": [
+        "crazier",
+        "crazies",
+        "craziest"
+    ],
+    "meaning_vi": "(bị) điên"
+}

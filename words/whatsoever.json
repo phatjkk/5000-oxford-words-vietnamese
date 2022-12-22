@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌ(h)wətsoʊˈɛvər/"
+    ],
+    "synonyms": [
+        "whatever",
+        "any"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "In any way; at all.",
+            "vi": "Bằng mọi cách; ở tất cả."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Whatever.",
+            "vi": "Sao cũng được."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There is no indication whatsoever he cares a flip about that picture.",
+            "vi": "Không có dấu hiệu nào cho thấy anh ta quan tâm đến việc lật lại bức tranh đó."
+        },
+        {
+            "en": "There was no running water, no food supplies, no energy whatsoever, just a deteriorating building with a score of insurgents and a small black box.",
+            "vi": "Không có nước sinh hoạt, không có thực phẩm, không có năng lượng, chỉ là một tòa nhà đang xuống cấp với một số điểm của quân nổi dậy và một hộp đen nhỏ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bất cứ điều gì"
+}

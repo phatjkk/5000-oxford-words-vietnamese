@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈkɑnsənˌtreɪt/"
+    ],
+    "synonyms": [
+        "gather",
+        "focus",
+        "mass",
+        "direct",
+        "examine"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To direct one's thoughts or efforts; fix one's attention (on or upon)",
+            "vi": "Định hướng suy nghĩ hoặc nỗ lực của một người; cố định sự chú ý của một người (trên hoặc dưới)"
+        },
+        {
+            "pos": "noun",
+            "en": "A product that has been concentrated, especially a food that has been reduced in volume or bulk by the removal of liquid.",
+            "vi": "Sản phẩm đã được cô đặc, đặc biệt là thực phẩm đã bị giảm khối lượng hoặc khối lượng do loại bỏ chất lỏng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It takes work to concentrate and remember.",
+            "vi": "Cần phải làm việc để tập trung và ghi nhớ."
+        },
+        {
+            "en": "We need to concentrate on reality, not what could have been.",
+            "vi": "Chúng ta cần tập trung vào thực tế, chứ không phải những gì có thể xảy ra."
+        }
+    ],
+    "words_form": [
+        "concentrated",
+        "concentrates",
+        "concentrating"
+    ],
+    "meaning_vi": "tập trung"
+}

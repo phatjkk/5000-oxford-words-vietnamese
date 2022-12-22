@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈɪn(t)ərvəl/"
+    ],
+    "synonyms": [
+        "period",
+        "break",
+        "interlude",
+        "recess",
+        "interregnum"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An amount of time between events, especially of uniform duration separating events in a series.",
+            "vi": "Khoảng thời gian giữa các sự kiện, đặc biệt là khoảng thời gian đồng nhất tách các sự kiện trong một chuỗi."
+        },
+        {
+            "pos": "idiom",
+            "en": "at intervals  In a series separated by space or time: Trees planted at intervals; coughing at intervals.",
+            "vi": "theo khoảng cách Trong một loạt cách nhau theo không gian hoặc thời gian: Cây trồng cách nhau; ho từng cơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "An interval of three years without rain has been known.",
+            "vi": "Đã biết khoảng ba năm không có mưa."
+        },
+        {
+            "en": "After an interval of two years they tried to capture him and failed.",
+            "vi": "Sau khoảng thời gian hai năm, họ cố bắt anh ta và thất bại."
+        }
+    ],
+    "words_form": [
+        "intervals"
+    ],
+    "meaning_vi": "khoảng"
+}

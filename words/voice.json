@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/vɔɪs/"
+    ],
+    "synonyms": [
+        "vox",
+        "words",
+        "sound",
+        "utterance",
+        "speech"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(linguistics) Expiration of air through vibrating vocal cords, used in the production of vowels and voiced consonants.",
+            "vi": "(ngôn ngữ học) Sự thoát khí qua các dây thanh âm rung động, được sử dụng để tạo ra các nguyên âm và phụ âm hữu thanh."
+        },
+        {
+            "pos": "verb",
+            "en": "To voice is defined as to express through words.",
+            "vi": "Giọng nói được định nghĩa là thể hiện thông qua lời nói."
+        },
+        {
+            "pos": "idiom",
+            "en": "at the top of (one's) voice  As loudly as one's voice will allow.",
+            "vi": "ở phía trên cùng của giọng nói (của một người) Như tiếng nói của một người sẽ cho phép."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His voice was controlled.",
+            "vi": "Giọng nói của anh đã được kiểm soát."
+        },
+        {
+            "en": "My voice is harsh and I cannot sing.",
+            "vi": "Giọng tôi chát chúa và tôi không thể hát được."
+        }
+    ],
+    "words_form": [
+        "voiced",
+        "voices",
+        "voicing"
+    ],
+    "meaning_vi": "tiếng nói"
+}

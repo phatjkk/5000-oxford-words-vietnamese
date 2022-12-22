@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈkɑpiˌraɪt/"
+    ],
+    "synonyms": [
+        "patents",
+        "c",
+        "disclaimer",
+        "trademarks"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a copyright is the exclusive right to make copies, sell or market works of art, music and literature.",
+            "vi": "Định nghĩa về quyền tác giả là độc quyền sao chép, bán hoặc tiếp thị các tác phẩm nghệ thuật, âm nhạc và văn học."
+        },
+        {
+            "pos": "verb",
+            "en": "Copyright is defined as obtaining the exclusive right to sell and distribute a piece of art, literature and music.",
+            "vi": "Bản quyền được định nghĩa là có được độc quyền bán và phân phối một tác phẩm nghệ thuật, văn học và âm nhạc."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to a copyright.",
+            "vi": "Của hoặc liên quan đến bản quyền."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Scanning a book creates no new copyright whatsoever.",
+            "vi": "Quét sách không tạo ra bất kỳ bản quyền mới nào."
+        },
+        {
+            "en": "Field, Personal Reminiscences of Early Days in California (privately published, copyright 1893).",
+            "vi": "Lĩnh vực, Hồi tưởng cá nhân về những ngày đầu ở California (xuất bản tư nhân, bản quyền 1893)."
+        }
+    ],
+    "words_form": [
+        "copyrights"
+    ],
+    "meaning_vi": "bản quyền"
+}

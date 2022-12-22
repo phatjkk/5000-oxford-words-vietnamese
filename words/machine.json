@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/məˈʃin/"
+    ],
+    "synonyms": [
+        "device",
+        "instrument",
+        "ring",
+        "party",
+        "line-up"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of machine is relating to a mechanical device.",
+            "vi": "Định nghĩa của máy liên quan đến một thiết bị cơ khí."
+        },
+        {
+            "pos": "noun",
+            "en": "An intricate natural system or organism, such as the human body.",
+            "vi": "Một hệ thống hoặc sinh vật tự nhiên phức tạp, chẳng hạn như cơ thể con người."
+        },
+        {
+            "pos": "verb",
+            "en": "To cut, shape, or finish by machine.",
+            "vi": "Để cắt, tạo hình hoặc hoàn thiện bằng máy."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The noise from the machine that circulated the oxygen frightened her.",
+            "vi": "Tiếng ồn từ chiếc máy luân chuyển oxy khiến cô sợ hãi."
+        },
+        {
+            "en": "No machine will be a politician.",
+            "vi": "Không có cỗ máy nào sẽ là chính trị gia."
+        }
+    ],
+    "words_form": [
+        "machined",
+        "machines",
+        "machining"
+    ],
+    "meaning_vi": "máy"
+}

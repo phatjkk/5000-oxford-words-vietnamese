@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈrɛmədi/"
+    ],
+    "synonyms": [
+        "cure",
+        "medication",
+        "antidote",
+        "redress",
+        "countermeasure"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Any medicine or treatment that cures, heals, or relieves a disease or bodily disorder or tends to restore health.",
+            "vi": "Bất kỳ loại thuốc hoặc phương pháp điều trị nào có thể chữa khỏi, chữa lành hoặc giảm bớt bệnh tật hoặc rối loạn cơ thể hoặc có xu hướng phục hồi sức khỏe."
+        },
+        {
+            "pos": "verb",
+            "en": "To cure or heal, as with medicine.",
+            "vi": "Để chữa bệnh hoặc chữa lành, như với thuốc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I intend to remedy that later today.",
+            "vi": "Tôi dự định sẽ khắc phục điều đó sau ngày hôm nay."
+        },
+        {
+            "en": "I'm taking steps to remedy those issues.",
+            "vi": "Tôi đang thực hiện các bước để khắc phục những vấn đề đó."
+        }
+    ],
+    "words_form": [
+        "remedied",
+        "remedies",
+        "remedying"
+    ],
+    "meaning_vi": "phương thuốc"
+}

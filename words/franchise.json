@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈfrænˌtʃaɪz/"
+    ],
+    "synonyms": [
+        "suffrage",
+        "privilege",
+        "vote",
+        "authorization",
+        "territory"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Franchise is defined as to grant authorization to someone to perform a service or operate a business.",
+            "vi": "Nhượng quyền thương mại được định nghĩa là cấp quyền cho một người nào đó thực hiện một dịch vụ hoặc vận hành một doanh nghiệp."
+        },
+        {
+            "pos": "noun",
+            "en": "(archaic) Freedom from some restriction, servitude, etc.",
+            "vi": "(cổ xưa) Tự do khỏi một số hạn chế, nô lệ, v.v."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating a player on a professional team who is regarded as being essential to that team's success.",
+            "vi": "Chỉ định một cầu thủ vào một đội chuyên nghiệp được coi là yếu tố cần thiết cho sự thành công của đội đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The franchise is somewhat wider than the parliamentary.",
+            "vi": "Nhượng quyền thương mại có phần rộng hơn nghị viện."
+        },
+        {
+            "en": "In the third Duma, elected on a restricted franchise, the Octobrists assumed the leading role.",
+            "vi": "Trong Duma thứ ba, được bầu chọn trên một nhượng quyền thương mại hạn chế, các Thử thách thần đồng đảm nhận vai trò hàng đầu."
+        }
+    ],
+    "words_form": [
+        "franchised",
+        "franchises",
+        "franchising"
+    ],
+    "meaning_vi": "nhượng quyền thương mại"
+}

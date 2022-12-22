@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈfrɛn(d)li/"
+    ],
+    "synonyms": [
+        "kind",
+        "brotherly",
+        "companionable",
+        "chummy",
+        "affable"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(informal) Easy to use, operate, or understand.",
+            "vi": "(không chính thức) Dễ sử dụng, vận hành hoặc hiểu."
+        },
+        {
+            "pos": "noun",
+            "en": "One fighting on or favorable to one's own side.",
+            "vi": "Một người chiến đấu theo hoặc thuận lợi cho phe của mình."
+        },
+        {
+            "pos": "adverb",
+            "en": "In the manner of a friend; amicably.",
+            "vi": "Theo cách của một người bạn; thân thiện."
+        },
+        {
+            "pos": "affix",
+            "en": "Easily used or understood by.",
+            "vi": "Dễ dàng sử dụng hoặc hiểu bởi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"No problem,\" he answered in a friendly voice.",
+            "vi": "“Không sao,” anh trả lời bằng một giọng thân thiện."
+        },
+        {
+            "en": "You weren't exactly friendly.",
+            "vi": "Bạn không thực sự thân thiện."
+        }
+    ],
+    "words_form": [
+        "friendlier",
+        "friendlies",
+        "friendliest"
+    ],
+    "meaning_vi": "thân thiện"
+}

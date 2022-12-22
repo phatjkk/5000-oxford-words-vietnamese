@@ -1,0 +1,61 @@
+{
+    "spelling": [
+        "/bət/"
+    ],
+    "synonyms": [
+        "however",
+        "on-the-other-hand",
+        "nevertheless",
+        "on-the-contrary",
+        "solely"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "Contrary to expectation; yet.",
+            "vi": "Không như mong đợi; nhưng."
+        },
+        {
+            "pos": "preposition",
+            "en": "But is defined as with the exception of.",
+            "vi": "Nhưng được định nghĩa là với ngoại lệ của."
+        },
+        {
+            "pos": "adverb",
+            "en": "The definition of but is only or merely.",
+            "vi": "Định nghĩa của nhưng là chỉ hoặc đơn thuần."
+        },
+        {
+            "pos": "noun",
+            "en": "A concern or objection.",
+            "vi": "Một mối quan tâm hoặc phản đối."
+        },
+        {
+            "pos": "prefix",
+            "en": "Containing a group of four carbon atoms.",
+            "vi": "Chứa một nhóm bốn nguyên tử cacbon."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Who . . . not; which . . . not.",
+            "vi": "Ai . . . không phải; cái mà . . . không phải."
+        },
+        {
+            "pos": "idiom",
+            "en": "but for  Were it not for: except for: We would have reached the summit but for the weather.",
+            "vi": "but for Were it for: ngoại trừ: Chúng tôi đã lên đến đỉnh nhưng vì thời tiết."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She objected at first, but finally submitted.",
+            "vi": "Ban đầu cô ấy phản đối, nhưng cuối cùng vẫn phục tùng."
+        },
+        {
+            "en": "It was going to be nice having nothing to do but enjoy their little family for the next two weeks.",
+            "vi": "Sẽ thật tuyệt nếu không có gì phải làm ngoài việc tận hưởng gia đình nhỏ của họ trong hai tuần tới."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "nhưng"
+}

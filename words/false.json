@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/fɔls/"
+    ],
+    "synonyms": [
+        "untruthful",
+        "deceitful",
+        "traitorous",
+        "fictitious",
+        "bogus"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Not keeping faith; treacherous.",
+            "vi": "Không giữ chữ tín; bội bạc."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a treacherous or faithless manner.",
+            "vi": "Theo một cách phản bội hoặc trung thành."
+        },
+        {
+            "pos": "idiom",
+            "en": "play someone false  to deceive, cheat, hoodwink, or betray someone",
+            "vi": "đóng vai ai đó giả dối để lừa dối, gian lận, lừa đảo hoặc phản bội ai đó"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Is it possible that something else could cause a false test?",
+            "vi": "Có khả năng một cái gì đó khác có thể gây ra một thử nghiệm sai?"
+        },
+        {
+            "en": "The story that Earl Godwine himself was of churlish birth, whether true or false, marks the possibility of such a rise.",
+            "vi": "Câu chuyện mà chính Bá tước Godwine đã ra đời thời kỳ, dù đúng hay sai, đều đánh dấu khả năng của một sự trỗi dậy như vậy."
+        }
+    ],
+    "words_form": [
+        "falser",
+        "falsest"
+    ],
+    "meaning_vi": "sai"
+}

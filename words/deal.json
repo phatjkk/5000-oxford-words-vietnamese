@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/dil/"
+    ],
+    "synonyms": [
+        "administer",
+        "wield",
+        "sell",
+        "buy",
+        "dole out"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a deal is an agreement, the act of distributing cards in a game and a large amount of degree.",
+            "vi": "Định nghĩa của một thỏa thuận là một thỏa thuận, hành động phân phối thẻ trong một trò chơi và một số lượng lớn mức độ."
+        },
+        {
+            "pos": "verb",
+            "en": "To sell.",
+            "vi": "Bán."
+        },
+        {
+            "pos": "adjective",
+            "en": "Made of deal.",
+            "vi": "Làm bằng thỏa thuận."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) big deal  a very important or impressive person or thing an exclamation of mock wonderment, admiration, joy, etc.",
+            "vi": "(không chính thức) đối với một người rất quan trọng hoặc ấn tượng hoặc một điều gì đó là một câu cảm thán về sự ngạc nhiên, ngưỡng mộ, vui sướng, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It meant a good deal to him to secure a home like this.",
+            "vi": "Nó có nghĩa là một thỏa thuận tốt với anh ta để đảm bảo một ngôi nhà như thế này."
+        },
+        {
+            "en": "She'd deal with him later.",
+            "vi": "Cô ấy sẽ giải quyết với anh ta sau."
+        }
+    ],
+    "words_form": [
+        "dealing",
+        "deals",
+        "dealt"
+    ],
+    "meaning_vi": "đối phó"
+}

@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˈvɛrəˌfaɪ/"
+    ],
+    "synonyms": [
+        "confirm",
+        "validate",
+        "certify",
+        "testify",
+        "back"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To demonstrate the truth or accuracy of, as by the presentation of evidence.",
+            "vi": "Để chứng minh sự thật hoặc tính chính xác của, bằng cách trình bày bằng chứng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is easy to verify this result.",
+            "vi": "Rất dễ dàng để xác minh kết quả này."
+        },
+        {
+            "en": "Did they verify I was the only survivor?",
+            "vi": "Họ có xác minh tôi là người sống sót duy nhất không?"
+        }
+    ],
+    "words_form": [
+        "verified",
+        "verifies",
+        "verifying"
+    ],
+    "meaning_vi": "kiểm chứng"
+}

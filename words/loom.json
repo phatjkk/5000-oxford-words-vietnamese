@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/lum/"
+    ],
+    "synonyms": [
+        "appear",
+        "looming",
+        "shadow",
+        "tower",
+        "weaver"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To seem imminent; impend.",
+            "vi": "Dường như sắp xảy ra; thúc giục."
+        },
+        {
+            "pos": "noun",
+            "en": "A distorted, threatening appearance of something, as through fog or darkness.",
+            "vi": "Sự xuất hiện méo mó, đe dọa của một thứ gì đó, chẳng hạn như trong sương mù hoặc bóng tối."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Loyal Order of Moose.",
+            "vi": "Trật tự trung thành của Moose."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He invented the loom for the weaving of wire-cloth.",
+            "vi": "Ông đã phát minh ra khung cửi để dệt vải sợi."
+        },
+        {
+            "en": "His first volume of poems, The Loom of Years, appeared in 1902, and his Collected Poems in 1910.",
+            "vi": "Tập thơ đầu tiên của ông, The Loom of Years, xuất hiện vào năm 1902, và những bài thơ được sưu tầm của ông vào năm 1910."
+        }
+    ],
+    "words_form": [
+        "loomed",
+        "looming",
+        "looms"
+    ],
+    "meaning_vi": "máy dệt"
+}

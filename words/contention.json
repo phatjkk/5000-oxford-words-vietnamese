@@ -1,0 +1,57 @@
+{
+    "spelling": [
+        "/kənˈtɛnʃən/"
+    ],
+    "synonyms": [
+        "argument",
+        "conflict",
+        "controversy",
+        "dispute",
+        "rivalry"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A statement or point that one argues for as true or valid.",
+            "vi": "Tuân theo, bị xử phạt hoặc được phép theo hiến pháp."
+        },
+        {
+            "pos": "",
+            "en": "A condition that arises when two devices attempt to use a single resource at the same time. See contention resolution and CSMA/CD.",
+            "vi": "Hiến pháp được định nghĩa là một bài tập thể dục lành mạnh."
+        },
+        {
+            "pos": "idiom",
+            "en": "in (or out of) contention  having a (or no) chance to win",
+            "vi": "Đe dọa hoặc sử dụng vũ lực để ngăn chặn, hạn chế hoặc ra lệnh cho hành động hoặc suy nghĩ của người khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "And yet, this latest contention was about inheritance, not love.",
+            "vi": "Tuy nhiên, cuộc tranh cãi mới nhất này là về quyền thừa kế, không phải tình yêu."
+        },
+        {
+            "en": "The correspondence was shown to Franklin by a mysterious \" member of parliament \" to back up the contention that the quartering of troops in Boston was suggested, not by the British ministry, but by Americans and Bostonians.",
+            "vi": "Bức thư được một \"thành viên quốc hội\" bí ẩn cho Franklin xem để ủng hộ luận điểm rằng việc chia quân ở Boston được đề xuất, không phải bởi Bộ Anh, mà bởi những người Mỹ và Bostonians."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "A statement or point that one argues for as true or valid.",
+            "vi": "Tuân theo, bị xử phạt hoặc được phép theo hiến pháp."
+        },
+        {
+            "pos": "",
+            "en": "A condition that arises when two devices attempt to use a single resource at the same time. See contention resolution and CSMA/CD.",
+            "vi": "Hiến pháp được định nghĩa là một bài tập thể dục lành mạnh."
+        },
+        {
+            "pos": "idiom",
+            "en": "in (or out of) contention  having a (or no) chance to win",
+            "vi": "Đe dọa hoặc sử dụng vũ lực để ngăn chặn, hạn chế hoặc ra lệnh cho hành động hoặc suy nghĩ của người khác."
+        }
+    ]
+}

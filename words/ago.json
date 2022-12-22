@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/əˈɡoʊ/"
+    ],
+    "synonyms": [
+        "past",
+        "last",
+        "since",
+        "later",
+        "gone"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Ago is defined as in the past or before.",
+            "vi": "Ago được định nghĩa là trong quá khứ hoặc trước đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of ago is before now or in the past.",
+            "vi": "Định nghĩa của từ trước là trước bây giờ hoặc trong quá khứ."
+        },
+        {
+            "pos": "symbol",
+            "en": "The ISO 3166-1 three-letter (alpha-3) code for Angola.",
+            "vi": "Mã ISO 3166-1 gồm ba chữ cái (alpha-3) cho Angola."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This came in by currier a few minutes ago, sir.",
+            "vi": "Cái này đã đến từ vài phút trước, thưa ngài."
+        },
+        {
+            "en": "How long ago did this happen?",
+            "vi": "Điều này đã xảy ra cách đây bao lâu?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đã qua"
+}

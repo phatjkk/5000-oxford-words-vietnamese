@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈn(j)uzˌpeɪpər/"
+    ],
+    "synonyms": [
+        "gazette",
+        "sheet",
+        "record",
+        "fourth estate",
+        "herald"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A publication consisting of folded, unbound sheets of newsprint containing news, editorials, advertisements, etc. and published regularly, typically daily or weekly.",
+            "vi": "Một ấn phẩm bao gồm các tờ giấy in báo gấp lại, không ràng buộc có chứa tin tức, bài xã luận, quảng cáo, v.v. và được xuất bản thường xuyên, thường là hàng ngày hoặc hàng tuần."
+        },
+        {
+            "pos": "verb",
+            "en": "(intransitive) To engage in the business of journalism (usually used only in the gerund, newspapering)",
+            "vi": "(intransitive) Tham gia vào lĩnh vực kinh doanh báo chí (thường chỉ được sử dụng trong giấy báo, giấy in báo)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I got interviewed for a newspaper in Zanesville, Ohio.",
+            "vi": "Tôi đã được phỏng vấn cho một tờ báo ở Zanesville, Ohio."
+        },
+        {
+            "en": "He picked up the newspaper she had set out for him and started to read.",
+            "vi": "Anh cầm tờ báo cô đặt cho anh và bắt đầu đọc."
+        }
+    ],
+    "words_form": [
+        "newspapers"
+    ],
+    "meaning_vi": "báo chí"
+}

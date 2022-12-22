@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/spæm/"
+    ],
+    "synonyms": [
+        "spamming",
+        "spammers",
+        "emails",
+        "malware",
+        "spambots"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of spam is to send out unsolicited mass marketing emails.",
+            "vi": "Định nghĩa của thư rác là gửi các email tiếp thị hàng loạt không được yêu cầu."
+        },
+        {
+            "pos": "noun",
+            "en": "Spam is a brand of canned ham, or mass marketing junk emails sent out to millions of recipients without their request.",
+            "vi": "Thư rác là một thương hiệu của giăm bông đóng hộp, hoặc các email rác tiếp thị hàng loạt được gửi đến hàng triệu người nhận mà không có yêu cầu của họ."
+        },
+        {
+            "pos": "proper name",
+            "en": "A kind of canned luncheon meat made from pieces of seasoned pork and ham pressed into a loaf.",
+            "vi": "Một loại thịt ăn trưa đóng hộp được làm từ những miếng thịt lợn và giăm bông tẩm gia vị ép thành một ổ bánh."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Tinned meat made mainly from ham by Hormel Foods Corporation.",
+            "vi": "Thịt hộp chủ yếu làm từ giăm bông của Hormel Foods Corporation."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The spam is becoming more insidious.",
+            "vi": "Thư rác đang trở nên xảo quyệt hơn."
+        },
+        {
+            "en": "Now press the Enable this rule button to activate the spam filter.",
+            "vi": "Bây giờ nhấn nút Bật quy tắc này để kích hoạt bộ lọc thư rác."
+        }
+    ],
+    "words_form": [
+        "spammed",
+        "spamming",
+        "spams"
+    ],
+    "meaning_vi": "thư rác"
+}

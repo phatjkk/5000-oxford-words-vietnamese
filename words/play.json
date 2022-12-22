@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/pleɪ/"
+    ],
+    "synonyms": [
+        "pleasure",
+        "game",
+        "sport",
+        "happiness",
+        "diversion"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Play is defined as to engage in activity for fun.",
+            "vi": "Chơi được định nghĩa là tham gia vào hoạt động để giải trí."
+        },
+        {
+            "pos": "noun",
+            "en": "Play means activity for fun or a dramatic performance.",
+            "vi": "Chơi có nghĩa là hoạt động để giải trí hoặc một màn trình diễn kịch tính."
+        },
+        {
+            "pos": "adjective",
+            "en": "Not real; make-believe.",
+            "vi": "Không thực sự; làm cho tin tưởng."
+        },
+        {
+            "pos": "idiom",
+            "en": "in play  In a position to be legally or feasibly played: The ball is now in play.In a position, or rumored to be in a position of possible corporate takeover: The company's stock rose in price when it was said to be in play.",
+            "vi": "đang chơi Ở một vị trí được chơi hợp pháp hoặc khả thi: Quả bóng bây giờ đang chơi. Ở một vị trí, hoặc được đồn đại là ở vị trí có thể tiếp quản công ty: Cổ phiếu của công ty đã tăng giá khi nó được cho là đang diễn ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I love to play with little sister.",
+            "vi": "Tôi thích chơi với em gái."
+        },
+        {
+            "en": "Want to play a game?",
+            "vi": "Muốn chơi một trò chơi?"
+        }
+    ],
+    "words_form": [
+        "played",
+        "playing",
+        "plays"
+    ],
+    "meaning_vi": "chơi"
+}

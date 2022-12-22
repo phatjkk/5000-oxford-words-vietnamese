@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/hi/"
+    ],
+    "synonyms": [
+        "boy",
+        "him",
+        "young-man",
+        "i",
+        "himself"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "(personal) Refers to a male person or animal already known or implied.",
+            "vi": "(cá nhân) Đề cập đến một người hoặc động vật nam đã được biết đến hoặc ngụ ý."
+        },
+        {
+            "pos": "noun",
+            "en": "A male person or animal. Sometimes used in combination.",
+            "vi": "Một người hoặc động vật nam. Đôi khi được sử dụng kết hợp."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "High explosive.",
+            "vi": "Chất nổ cao."
+        },
+        {
+            "pos": "symbol",
+            "en": "Helium.",
+            "vi": "Khí Heli."
+        },
+        {
+            "pos": "affix",
+            "en": "Male.",
+            "vi": "Nam giới."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He will save Europe!",
+            "vi": "Anh ấy sẽ cứu Châu Âu!"
+        },
+        {
+            "en": "But he paid no attention to her warning.",
+            "vi": "Nhưng anh không để ý đến lời cảnh báo của cô."
+        }
+    ],
+    "words_form": [
+        "hes",
+        "they"
+    ],
+    "meaning_vi": "Một cách để nói hoặc viết \"he is\"."
+}

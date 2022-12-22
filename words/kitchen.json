@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈkɪtʃ(ə)n/"
+    ],
+    "synonyms": [
+        "mess",
+        "pantry",
+        "culinary",
+        "cuisine",
+        "scullery"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of kitchen is a room or area a home or building where food is cooked or prepared.",
+            "vi": "Định nghĩa của nhà bếp là một căn phòng hoặc một khu vực trong nhà hoặc tòa nhà nơi thực phẩm được nấu chín hoặc chuẩn bị."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He walked across the kitchen and paused at the door.",
+            "vi": "Anh đi ngang qua bếp và dừng lại ở cửa."
+        },
+        {
+            "en": "He also brought a bottle of kvass, taken from the kitchen for them to try.",
+            "vi": "Anh ấy cũng mang theo một chai kvass, lấy từ nhà bếp để họ uống thử."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "phòng bếp"
+}

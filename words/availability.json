@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˌveɪləˈbɪlədi/"
+    ],
+    "synonyms": [
+        "accessibility",
+        "distribution",
+        "unavailability",
+        "delivery",
+        "usage"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of availability is whether someone or something can be accessed or used.",
+            "vi": "Định nghĩa về tính khả dụng là liệu ai đó hoặc thứ gì đó có thể được truy cập hoặc sử dụng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We are used to non-rationed goods, unlimited food in grocery stores, and the overall widespread availability of inexpensive quality products.",
+            "vi": "Chúng ta đã quen với hàng hóa không theo khẩu phần, thực phẩm không giới hạn trong các cửa hàng tạp hóa và sự sẵn có rộng rãi của các sản phẩm chất lượng rẻ tiền."
+        },
+        {
+            "en": "Proceed according to the needs of the agency and the availability of a social worker.",
+            "vi": "Tiến hành theo nhu cầu của cơ quan và sự sẵn sàng của một nhân viên xã hội."
+        }
+    ],
+    "words_form": [
+        "availabilities"
+    ],
+    "meaning_vi": "khả dụng"
+}

@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/səˈspɪʃən/"
+    ],
+    "synonyms": [
+        "uneasiness",
+        "apprehension",
+        "hint",
+        "feeling",
+        "caution"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Suspicion is having a feeling, thinking or believing that someone is guilty of something.",
+            "vi": "Nghi ngờ là có cảm giác, suy nghĩ hoặc tin rằng ai đó đang phạm tội gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To suspect.",
+            "vi": "Để nghi ngờ."
+        },
+        {
+            "pos": "idiom",
+            "en": "above suspicion  not to be suspected; honorable",
+            "vi": "trên không nghi ngờ; danh giá"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Suspicion touched his voice and eyes.",
+            "vi": "Sự nghi ngờ chạm vào giọng nói và đôi mắt của anh."
+        },
+        {
+            "en": "Whether he had really given any grounds for suspicion is unknown; but there is no doubt, so great was his popularity with the soldiers and such the hatred felt for Nero, that he could easily have seized the throne.",
+            "vi": "Liệu anh ta có thực sự đưa ra bất kỳ căn cứ nào để nghi ngờ hay không vẫn chưa được biết; nhưng không còn nghi ngờ gì nữa, sự nổi tiếng của anh ta đối với những người lính và sự căm ghét đối với Nero đến mức anh ta có thể dễ dàng chiếm lấy ngai vàng."
+        }
+    ],
+    "words_form": [
+        "suspicions"
+    ],
+    "meaning_vi": "sự nghi ngờ"
+}

@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/rəˈmeɪn/"
+    ],
+    "synonyms": [
+        "dwell",
+        "keep on",
+        "outlive",
+        "continue",
+        "prevail"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To be left after the removal, loss, passage, or destruction of others.",
+            "vi": "Được để lại sau khi di dời, mất mát, di chuyển hoặc phá hủy những người khác."
+        },
+        {
+            "pos": "noun",
+            "en": "State of remaining; stay.",
+            "vi": "Trạng thái còn lại; ở lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "One would argue that energy costs will remain high.",
+            "vi": "Một người cho rằng chi phí năng lượng sẽ vẫn cao."
+        },
+        {
+            "en": "All this time he had to remain strong for his mother.",
+            "vi": "Tất cả thời gian này anh ấy phải mạnh mẽ vì mẹ của mình."
+        }
+    ],
+    "words_form": [
+        "remained",
+        "remains"
+    ],
+    "meaning_vi": "vẫn"
+}

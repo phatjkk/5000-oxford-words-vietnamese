@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/əˈpɑrt/"
+    ],
+    "synonyms": [
+        "separate",
+        "separated",
+        "alone",
+        "special",
+        "asunder"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Apart is defined as a whole thing being broken down into units.",
+            "vi": "Ngoài được định nghĩa là một toàn bộ sự vật được chia nhỏ thành các đơn vị."
+        },
+        {
+            "pos": "adjective",
+            "en": "Set apart; isolated. Used after a noun or in the predicate.",
+            "vi": "Đặt riêng biệt; bị cô lập. Được sử dụng sau một danh từ hoặc trong vị ngữ."
+        },
+        {
+            "pos": "preposition",
+            "en": "(following its objective complement) Apart from.",
+            "vi": "(theo sau phần bổ sung khách quan của nó) Ngoài."
+        },
+        {
+            "pos": "idiom",
+            "en": "apart from  other than; besides",
+            "vi": "ngoài cái khác; ngoài ra"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They tore apart the palace and your cabin.",
+            "vi": "Họ xé nát cung điện và căn nhà của bạn."
+        },
+        {
+            "en": "We can't let this fall apart on us, Ben.",
+            "vi": "Chúng ta không thể để điều này đổ vỡ cho chúng ta, Ben."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "xa nhau"
+}

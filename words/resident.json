@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈrɛz(ə)dənt/"
+    ],
+    "synonyms": [
+        "inhabitant",
+        "citizen",
+        "habitant",
+        "non-resident",
+        "occupant"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a resident is a person who lives somewhere or a medical student in training.",
+            "vi": "Định nghĩa về một cư dân là một người sống ở một nơi nào đó hoặc một sinh viên y khoa đang được đào tạo."
+        },
+        {
+            "pos": "adjective",
+            "en": "Present, inherent, or intrinsic in something.",
+            "vi": "Hiện tại, vốn có, hoặc nội tại của một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Every city had a large number of resident aliens.",
+            "vi": "Mỗi thành phố đều có một số lượng lớn người ngoài hành tinh cư trú."
+        },
+        {
+            "en": "Each year a payment is made to each resident of Alaska.",
+            "vi": "Mỗi năm, mỗi cư dân của Alaska đều phải trả một khoản tiền."
+        }
+    ],
+    "words_form": [
+        "residents"
+    ],
+    "meaning_vi": "cư dân"
+}

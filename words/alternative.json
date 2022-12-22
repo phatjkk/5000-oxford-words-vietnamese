@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ɔlˈtərnədɪv/"
+    ],
+    "synonyms": [
+        "choice",
+        "option",
+        "alternate",
+        "dilemma",
+        "either"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A choice between two or among more than two things.",
+            "vi": "Một sự lựa chọn giữa hai hoặc trong số nhiều hơn hai thứ."
+        },
+        {
+            "pos": "adjective",
+            "en": "Relating to a choice between two or more possibilities.",
+            "vi": "Liên quan đến sự lựa chọn giữa hai hoặc nhiều khả năng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He had to make alternative arrangements.",
+            "vi": "Anh ấy đã phải sắp xếp thay thế."
+        },
+        {
+            "en": "He had no alternative but to leave.",
+            "vi": "Anh không còn cách nào khác ngoài việc rời đi."
+        }
+    ],
+    "words_form": [
+        "alternatives"
+    ],
+    "meaning_vi": "thay thế"
+}

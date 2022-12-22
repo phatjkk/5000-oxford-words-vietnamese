@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈlɛk(t)ʃər/"
+    ],
+    "synonyms": [
+        "homily",
+        "dissertation",
+        "address",
+        "excursus",
+        "prelection"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a lecture is a talk given on a particular subject or a scolding given after someone does something wrong.",
+            "vi": "Định nghĩa của một bài giảng là một bài nói chuyện về một chủ đề cụ thể hoặc một lời mắng mỏ được đưa ra sau khi ai đó làm sai điều gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To deliver a lecture to (a class or audience).",
+            "vi": "Để cung cấp một bài giảng cho (một lớp học hoặc khán giả)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Another lecture was imminent.",
+            "vi": "Một bài giảng khác sắp diễn ra."
+        },
+        {
+            "en": "Maybe he was supposed to lecture him about girls again.",
+            "vi": "Có lẽ anh ta phải giảng cho anh ta về con gái một lần nữa."
+        }
+    ],
+    "words_form": [
+        "lectured",
+        "lectures",
+        "lecturing"
+    ],
+    "meaning_vi": "bài học"
+}

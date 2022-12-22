@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/noʊˈtɔriəs/"
+    ],
+    "synonyms": [
+        "famous",
+        "popular",
+        "unknown",
+        "disreputable",
+        "known"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Known widely and usually unfavorably; infamous.",
+            "vi": "Được biết đến rộng rãi và thường không có lợi; khét tiếng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her life was notorious for intrigue and perfidy.",
+            "vi": "Cuộc đời cô khét tiếng mưu mô và xảo quyệt."
+        },
+        {
+            "en": "As a port it was notorious for its smuggling and illicit trade.",
+            "vi": "Là một cảng, nó nổi tiếng về buôn lậu và buôn bán bất hợp pháp."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khét tiếng"
+}

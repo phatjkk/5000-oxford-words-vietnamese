@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈmoʊmənt/"
+    ],
+    "synonyms": [
+        "minute",
+        "ephemerality",
+        "jiff",
+        "twinkling",
+        "instant"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a moment is a brief period of time, or a specific point in time.",
+            "vi": "Định nghĩa của một khoảnh khắc là một khoảng thời gian ngắn hoặc một thời điểm cụ thể."
+        },
+        {
+            "pos": "idiom",
+            "en": "the moment  the present or the immediate future",
+            "vi": "thời điểm hiện tại hoặc tương lai trước mắt"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "For a moment he studied her face.",
+            "vi": "Trong một khoảnh khắc, anh quan sát khuôn mặt của cô."
+        },
+        {
+            "en": "It was a moment of supreme happiness.",
+            "vi": "Đó là một khoảnh khắc hạnh phúc tột đỉnh."
+        }
+    ],
+    "words_form": [
+        "moments"
+    ],
+    "meaning_vi": "chốc lát"
+}

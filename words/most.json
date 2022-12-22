@@ -1,0 +1,66 @@
+{
+    "spelling": [
+        "/moʊst/"
+    ],
+    "synonyms": [
+        "largest",
+        "best",
+        "greater",
+        "very",
+        "utmost"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In or to the highest degree or extent. Used with many adjectives and adverbs to form the superlative degree.",
+            "vi": "Ở mức độ hoặc mức độ cao nhất. Được sử dụng với nhiều tính từ và trạng từ để tạo thành mức độ so sánh nhất."
+        },
+        {
+            "pos": "noun",
+            "en": "Most means the greatest number of something.",
+            "vi": "Hầu hết có nghĩa là số lượng lớn nhất của một cái gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of most is the majority or the greatest amount, degree or size.",
+            "vi": "Định nghĩa của hầu hết là phần lớn hoặc số lượng, mức độ hoặc kích thước lớn nhất."
+        },
+        {
+            "pos": "suffix",
+            "en": "Most.",
+            "vi": "Phần lớn."
+        },
+        {
+            "pos": "affix",
+            "en": "Forming superlatives.",
+            "vi": "Tạo thành so sánh nhất."
+        },
+        {
+            "pos": "determiner",
+            "en": "Superlative form of much.",
+            "vi": "Hình thức so sánh nhất của nhiều."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The greatest part or number.",
+            "vi": "Phần lớn nhất hoặc con số."
+        },
+        {
+            "pos": "idiom",
+            "en": "at (the) most  At the maximum: We saw him for ten minutes at the most. She ran two miles at most.",
+            "vi": "ở (nhiều) nhất Tối đa: Chúng tôi đã nhìn thấy anh ấy nhiều nhất là mười phút. Cô ấy đã chạy nhiều nhất là hai dặm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Most people will tell you anything you want to know.",
+            "vi": "Hầu hết mọi người sẽ cho bạn biết bất cứ điều gì bạn muốn biết."
+        },
+        {
+            "en": "He was our most famous president.",
+            "vi": "Ông ấy là chủ tịch nổi tiếng nhất của chúng tôi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "phần lớn"
+}

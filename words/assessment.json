@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˈsɛsmənt/"
+    ],
+    "synonyms": [
+        "judgment",
+        "evaluation",
+        "appraisal",
+        "self-assessment",
+        "dues"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an assessment is a test or analysis.",
+            "vi": "Định nghĩa của đánh giá là một bài kiểm tra hoặc phân tích."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Talal's assessment of there being something wrong returned to her.",
+            "vi": "Đánh giá của Talal về việc có điều gì đó không ổn đã quay trở lại với cô ấy."
+        },
+        {
+            "en": "His assessment tore through her mind, digging up memories and laying them bare on the surface.",
+            "vi": "Sự đánh giá của anh xé nát tâm trí cô, đào bới những ký ức và để chúng lộ ra trên bề mặt."
+        }
+    ],
+    "words_form": [
+        "assessments"
+    ],
+    "meaning_vi": "thẩm định, lượng định, đánh giá"
+}

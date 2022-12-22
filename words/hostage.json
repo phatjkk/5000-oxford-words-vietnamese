@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈhɑstɪdʒ/"
+    ],
+    "synonyms": [
+        "prisoner",
+        "captive",
+        "security",
+        "guaranty",
+        "pawn"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person held by one party in a conflict as security that specified terms will be met by the opposing party.",
+            "vi": "Một người bị một bên nắm giữ trong một cuộc xung đột vì bảo mật mà các điều khoản cụ thể sẽ được bên đối lập đáp ứng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He.s taken a human hostage, and we need to know where she is.",
+            "vi": "Anh ta đã bắt một con người làm con tin, và chúng ta cần biết cô ấy đang ở đâu."
+        },
+        {
+            "en": "\"She's safe, I think.  Darkyn wants her as a hostage, just in case,\" Ully whispered.",
+            "vi": "\"Cô ấy an toàn, tôi nghĩ vậy. Darkyn muốn cô ấy làm con tin, đề phòng,\" Ully thì thầm."
+        }
+    ],
+    "words_form": [
+        "hostages"
+    ],
+    "meaning_vi": "con tin"
+}

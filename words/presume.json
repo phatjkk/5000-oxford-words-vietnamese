@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/prəˈz(j)um/"
+    ],
+    "synonyms": [
+        "presumable",
+        "anticipate",
+        "surmise",
+        "presuppose",
+        "reason"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Presume is defined as to assume to be true without proof, or to dare to do something without permission.",
+            "vi": "Giả định được định nghĩa là cho là đúng mà không cần bằng chứng, hoặc dám làm điều gì đó mà không được phép."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I presume it will be tied to the call center eventually.",
+            "vi": "Tôi cho rằng cuối cùng nó sẽ được gắn với trung tâm cuộc gọi."
+        },
+        {
+            "en": "Jackson, I presume was his name, jumped up.",
+            "vi": "Jackson, tôi đoán là tên của anh ấy, đã nhảy lên."
+        }
+    ],
+    "words_form": [
+        "presumed",
+        "presumes",
+        "presuming"
+    ],
+    "meaning_vi": "giả định"
+}

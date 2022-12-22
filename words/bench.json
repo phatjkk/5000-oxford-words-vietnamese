@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/bɛn(t)ʃ/"
+    ],
+    "synonyms": [
+        "table",
+        "ledge",
+        "board",
+        "court",
+        "bar"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Bench means to provide with a long, hard seating space or work area, or to sit a player out of a sporting game.",
+            "vi": "Ghế dài có nghĩa là cung cấp một không gian ngồi dài và cứng hoặc khu vực làm việc, hoặc để người chơi ngồi ngoài một trò chơi thể thao."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a bench is a long, hard seat or work table, or an official's seat.",
+            "vi": "Định nghĩa về ghế dài là một chiếc ghế dài, cứng hoặc bàn làm việc, hoặc chỗ ngồi của quan chức."
+        },
+        {
+            "pos": "idiom",
+            "en": "on the bench  presiding in a law court; serving as a judge not taking part in the game, as an auxiliary player",
+            "vi": "trên băng ghế chủ tọa phiên tòa luật; phục vụ như một trọng tài không tham gia trò chơi, với tư cách là một người chơi phụ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She slid into the opposite bench and let her gaze drop significantly to the cup in his hand.",
+            "vi": "Cô trượt vào băng ghế đối diện và thả tầm mắt xuống chiếc cốc trên tay anh."
+        },
+        {
+            "en": "He motioned to the bench next to her.",
+            "vi": "Anh ra hiệu cho chiếc ghế dài bên cạnh cô."
+        }
+    ],
+    "words_form": [
+        "benched",
+        "benches",
+        "benching"
+    ],
+    "meaning_vi": "băng ghế"
+}

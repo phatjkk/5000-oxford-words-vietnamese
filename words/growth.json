@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ɡroʊθ/"
+    ],
+    "synonyms": [
+        "amplification",
+        "development",
+        "prosperity",
+        "enlargement",
+        "unfolding"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An increase in size, number, value, or strength.",
+            "vi": "Sự gia tăng về kích thước, số lượng, giá trị hoặc sức mạnh."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(pathology: abnormal mass such as a tum): tumor.",
+            "vi": "(bệnh lý: khối bất thường như một khối u): khối u."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or designating a stock, mutual fund, etc. or a company, industry, etc. whose value or earnings grow at a rate above average.",
+            "vi": "Của hoặc chỉ định một cổ phiếu, quỹ tương hỗ, v.v. hoặc một công ty, ngành, v.v. có giá trị hoặc thu nhập tăng với tốc độ trên mức trung bình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Two parties had developed with the growth of the Church.",
+            "vi": "Hai đảng đã phát triển cùng với sự lớn mạnh của Giáo hội."
+        },
+        {
+            "en": "After 1890 growth was slower but continuous.",
+            "vi": "Sau năm 1890 tăng trưởng chậm hơn nhưng liên tục."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sự phát triển"
+}

@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/trɪk/"
+    ],
+    "synonyms": [
+        "imposture",
+        "front",
+        "trap",
+        "deception",
+        "deceive"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a trick is a prank or a joke.",
+            "vi": "Định nghĩa của một trick là một trò đùa hoặc một trò đùa."
+        },
+        {
+            "pos": "verb",
+            "en": "To trick is defined as to make an illusion, or to play a joke or prank.",
+            "vi": "Lừa gạt được định nghĩa là tạo ra một ảo ảnh, hoặc để chơi một trò đùa hoặc chơi khăm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or involving tricks.",
+            "vi": "Của, liên quan đến, hoặc liên quan đến các thủ thuật."
+        },
+        {
+            "pos": "idiom",
+            "en": "do  To bring about the desired result.",
+            "vi": "làm Để mang lại kết quả mong muốn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was some sort of trick to get her to slip up.",
+            "vi": "Đó là một mánh khóe nào đó để khiến cô ấy trượt lên."
+        },
+        {
+            "en": "When a woman wants to know, she looks for some clever way to trick the man into disclosing the facts.",
+            "vi": "Khi một người phụ nữ muốn biết, cô ấy sẽ tìm cách thông minh nào đó để lừa người đàn ông tiết lộ sự thật."
+        }
+    ],
+    "words_form": [
+        "tricked",
+        "tricks"
+    ],
+    "meaning_vi": "lừa"
+}

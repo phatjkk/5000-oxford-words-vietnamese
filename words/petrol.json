@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/ˈpɛtrəl/"
+    ],
+    "synonyms": [
+        "fuel",
+        "gasoline",
+        "gasolene",
+        "unleaded",
+        "unlead"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Gasoline.",
+            "vi": "Xăng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "For these reasons alcohol has not been used to any extent in petrol motors.",
+            "vi": "Vì những lý do này, rượu đã không được sử dụng ở bất kỳ mức độ nào trong động cơ xăng."
+        },
+        {
+            "en": "This saves fruitless trips to store that waste time and money spent in parking, petrol and other expenses.",
+            "vi": "Điều này giúp tiết kiệm những chuyến đi không có kết quả để lưu trữ lãng phí thời gian và tiền bạc dành cho việc đậu xe, xăng dầu và các chi phí khác."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "xăng dầu"
+}

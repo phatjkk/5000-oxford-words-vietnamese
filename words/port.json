@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/pɔrt/"
+    ],
+    "synonyms": [
+        "air",
+        "manner",
+        "mien",
+        "style",
+        "be"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a port is a harbor or place on the water where ships load and unload cargo.",
+            "vi": "Định nghĩa cảng là bến cảng hoặc nơi trên mặt nước, nơi tàu xếp dỡ hàng hóa."
+        },
+        {
+            "pos": "verb",
+            "en": "(computers) To modify (software) for use on a different machine or platform.",
+            "vi": "(máy tính) Để sửa đổi (phần mềm) để sử dụng trên một máy hoặc nền tảng khác."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or on the port.",
+            "vi": "Của, liên quan đến, hoặc trên cảng."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Portugal.",
+            "vi": "Bồ Đào Nha."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He advocated the creation of a Hungarian port at Fiume.",
+            "vi": "Ông ủng hộ việc thành lập một cảng Hungary tại Fiume."
+        },
+        {
+            "en": "The naval arsenal is situated on the \" north basin \" of the Buenos Aires port, and the military port at Bahia Blanca is provided with a dry dock of the largest size, and extensive repair shops.",
+            "vi": "Kho vũ khí hải quân nằm trên \"lưu vực phía bắc\" của cảng Buenos Aires, và cảng quân sự tại Bahia Blanca được cung cấp một ụ tàu lớn nhất và các cửa hàng sửa chữa phong phú."
+        }
+    ],
+    "words_form": [
+        "ported",
+        "porting",
+        "ports"
+    ],
+    "meaning_vi": "hải cảng"
+}

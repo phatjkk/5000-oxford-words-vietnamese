@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/pəˈlɪdək(ə)l/"
+    ],
+    "synonyms": [
+        "governmental",
+        "democratic",
+        "nationalist",
+        "partisan",
+        "nationalism"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A political agent or officer.",
+            "vi": "Một đặc vụ hoặc sĩ quan chính trị."
+        },
+        {
+            "pos": "adjective",
+            "en": "(pejorative) Motivated, especially inappropriately, by political (electoral or other party political) calculation.",
+            "vi": "(tức giận) Được thúc đẩy, đặc biệt là không thích hợp, bởi tính toán chính trị (bầu cử hoặc đảng phái chính trị khác)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A man of few words, Gabriel hadn't gotten used to the political side of his job yet.",
+            "vi": "Là một người ít nói, Gabriel vẫn chưa quen với khía cạnh chính trị trong công việc của mình."
+        },
+        {
+            "en": "The conversation did not flag all evening and turned chiefly on the political news.",
+            "vi": "Cuộc trò chuyện không kéo dài suốt buổi tối và chủ yếu tập trung vào tin tức chính trị."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chính trị"
+}

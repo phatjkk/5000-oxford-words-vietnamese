@@ -1,0 +1,63 @@
+{
+    "spelling": [
+        "/ɪt/"
+    ],
+    "synonyms": [
+        "that",
+        "this",
+        "information technology",
+        "something",
+        "actually"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "Used as the subject of an impersonal verb.",
+            "vi": "Được sử dụng làm chủ ngữ của động từ mạo danh."
+        },
+        {
+            "pos": "noun",
+            "en": "An animal that has been neutered.",
+            "vi": "Một con vật đã bị vô hiệu hóa."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Information technology.",
+            "vi": "Công nghệ thông tin."
+        },
+        {
+            "pos": "adjective",
+            "en": "(colloquial) Most fashionable.",
+            "vi": "(thông tục) Thời trang nhất."
+        },
+        {
+            "pos": "verb",
+            "en": "Eye dialect spelling of hit (in the senses \"punch\", \"kill\", etc).",
+            "vi": "Đánh vần phương ngữ mắt của đòn đánh (theo nghĩa \"đấm\", \"giết\", v.v.)."
+        },
+        {
+            "pos": "symbol",
+            "en": "(music) Italian augmented sixth chord.",
+            "vi": "(âm nhạc) Hợp âm thứ sáu tăng cường tiếng Ý."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) with it  Aware of or knowledgeable about the latest trends or developments. Mentally responsive and perceptive: I'm just not with it today.",
+            "vi": "(tiếng lóng) với nó Nhận thức hoặc hiểu biết về các xu hướng hoặc sự phát triển mới nhất. Phản ứng và nhận thức về mặt tinh thần: Tôi không thích nó ngày hôm nay."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was the earthquake.",
+            "vi": "Đó là trận động đất."
+        },
+        {
+            "en": "It is a beautiful place.",
+            "vi": "Nó là một nơi tuyệt đẹp."
+        }
+    ],
+    "words_form": [
+        "they"
+    ],
+    "meaning_vi": "Cái đó, điều đó, con vật đó, nó"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/stænd/"
+    ],
+    "synonyms": [
+        "stage",
+        "attain",
+        "come to",
+        "gantry",
+        "withstand"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To remain without flowing or being disturbed; be or become stagnant.",
+            "vi": "Để duy trì mà không bị chảy hoặc bị xáo trộn; bị hoặc trở nên trì trệ."
+        },
+        {
+            "pos": "noun",
+            "en": "A ceasing of work or activity; a standstill or halt.",
+            "vi": "Ngừng làm việc hoặc hoạt động; bế tắc hoặc tạm dừng."
+        },
+        {
+            "pos": "idiom",
+            "en": "stand a chance  To have a chance, as of gaining or accomplishing something.",
+            "vi": "đứng một cơ hội Để có một cơ hội, như đạt được hoặc hoàn thành một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Don't just stand there.",
+            "vi": "Đừng chỉ đứng đó."
+        },
+        {
+            "en": "He can't stand to sit around and do nothing.",
+            "vi": "Anh ấy không thể đứng để ngồi xung quanh và không làm gì cả."
+        }
+    ],
+    "words_form": [
+        "standing",
+        "stands",
+        "stood"
+    ],
+    "meaning_vi": "đứng"
+}

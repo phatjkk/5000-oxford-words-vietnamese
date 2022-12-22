@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/eɪm/"
+    ],
+    "synonyms": [
+        "ambition",
+        "purpose",
+        "goal",
+        "plot",
+        "propose"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Aim is defined as the point, target, direction, person or thing that is meant to be hit or achieved.",
+            "vi": "Mục tiêu được định nghĩa là điểm, mục tiêu, hướng, người hoặc vật có nghĩa là để đạt được hoặc đạt được."
+        },
+        {
+            "pos": "verb",
+            "en": "The definition of aim means to point or direct or to try with a particular goal in mind.",
+            "vi": "Định nghĩa về mục tiêu có nghĩa là chỉ hoặc hướng hoặc cố gắng với một mục tiêu cụ thể trong tâm trí."
+        },
+        {
+            "pos": "initialism",
+            "en": "AIM; AOL Instant Messenger.",
+            "vi": "MỤC TIÊU; AOL Messenger tức thì."
+        },
+        {
+            "pos": "idiom",
+            "en": "take aim  To aim a weapon or object to be propelled. To direct criticism or one's attention at something.",
+            "vi": "lấy mục tiêu Để nhắm một vũ khí hoặc vật thể được đẩy. Để hướng sự chỉ trích hoặc sự chú ý của một người vào điều gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "My aim is perfect!",
+            "vi": "Mục tiêu của tôi là hoàn hảo!"
+        },
+        {
+            "en": "He was free, he had nothing but his aim to consider, and he reached it.",
+            "vi": "Anh ấy tự do, anh ấy không có gì ngoài mục tiêu của mình để xem xét, và anh ấy đã đạt được nó."
+        }
+    ],
+    "words_form": [
+        "aimed",
+        "aiming",
+        "aims"
+    ],
+    "meaning_vi": "nhằm mục đích"
+}

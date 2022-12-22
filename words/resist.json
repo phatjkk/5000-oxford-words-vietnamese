@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈzɪst/"
+    ],
+    "synonyms": [
+        "oppose",
+        "resist",
+        "stay",
+        "repel",
+        "die-hard"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To keep from giving in to, engaging in, or enjoying.",
+            "vi": "Để không nhượng bộ, tham gia hoặc tận hưởng."
+        },
+        {
+            "pos": "noun",
+            "en": "A substance that can cover and protect a surface, as from corrosion.",
+            "vi": "Một chất có thể bao phủ và bảo vệ bề mặt khỏi bị ăn mòn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I simply couldn't resist you.",
+            "vi": "Tôi chỉ đơn giản là không thể chống lại bạn."
+        },
+        {
+            "en": "She couldn't resist teasing him.",
+            "vi": "Cô không thể cưỡng lại việc trêu chọc anh."
+        }
+    ],
+    "words_form": [
+        "resisted",
+        "resisting",
+        "resists"
+    ],
+    "meaning_vi": "chống lại"
+}

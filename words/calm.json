@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/kɑ(l)m/"
+    ],
+    "synonyms": [
+        "tranquil",
+        "calm",
+        "peaceful",
+        "composed",
+        "collected"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of calm is someone or something who is peaceful and free from stress or worries.",
+            "vi": "Định nghĩa của bình tĩnh là một người nào đó hoặc một cái gì đó yên bình và không bị căng thẳng hoặc lo lắng."
+        },
+        {
+            "pos": "verb",
+            "en": "To calm means to soothe and pacify someone to make him free of stress, or to become free of stress yourself.",
+            "vi": "Bình tĩnh có nghĩa là xoa dịu và xoa dịu một người nào đó để khiến người đó không bị căng thẳng, hoặc để bản thân không bị căng thẳng."
+        },
+        {
+            "pos": "noun",
+            "en": "Calm is defined as a state of peace and tranquility.",
+            "vi": "Calm được định nghĩa là một trạng thái yên bình và tĩnh lặng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Calm, she was able to focus.",
+            "vi": "Bình tĩnh, cô ấy đã có thể tập trung."
+        },
+        {
+            "en": "The natural day is very calm, and will hardly reprove his indolence.",
+            "vi": "Ngày tự nhiên rất êm đềm, sẽ khó có thể phản bác sự lãnh đạm của hắn."
+        }
+    ],
+    "words_form": [
+        "calmed",
+        "calmer",
+        "calmest",
+        "calms"
+    ],
+    "meaning_vi": "điềm tĩnh"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kəmˈbaɪn/"
+    ],
+    "synonyms": [
+        "separate",
+        "synthesize",
+        "consolidate",
+        "disconnect",
+        "dissolve"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To have, exhibit, or involve in combination.",
+            "vi": "Để có, triển lãm hoặc liên quan đến sự kết hợp."
+        },
+        {
+            "pos": "noun",
+            "en": "An association of people or groups united for the furtherance of political or commercial interests.",
+            "vi": "Một hiệp hội của những người hoặc nhóm hợp nhất để thúc đẩy lợi ích chính trị hoặc thương mại."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(colloquial) London Underground.",
+            "vi": "(thông tục) London Underground."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He did not like to combine frivolity with the serious business of hunting.",
+            "vi": "Anh không thích kết hợp sự phù phiếm với công việc săn bắn nghiêm túc."
+        },
+        {
+            "en": "It is essential for him to combine his movements with those of the commander-in-chief.",
+            "vi": "Điều cần thiết là anh ta phải kết hợp các động tác của mình với các động tác của Tổng tư lệnh."
+        }
+    ],
+    "words_form": [
+        "combined",
+        "combines",
+        "combining"
+    ],
+    "meaning_vi": "phối hợp"
+}

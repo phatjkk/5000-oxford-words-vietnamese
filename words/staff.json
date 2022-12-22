@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/stæf/"
+    ],
+    "synonyms": [
+        "assistants",
+        "team",
+        "force",
+        "personnel",
+        "help"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a staff is a long stick used for walking or a group of workers.",
+            "vi": "Định nghĩa trượng là một cây gậy dài dùng để đi bộ hoặc cho một nhóm người lao động."
+        },
+        {
+            "pos": "verb",
+            "en": "To serve on the staff of (an organization).",
+            "vi": "Để phục vụ trên nhân viên của (một tổ chức)."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, by, for, or on a staff; specif., employed full-time, as on a magazine staff, rather than as a freelance writer.",
+            "vi": "Của, bởi, cho hoặc trên một nhân viên; specif., làm việc toàn thời gian, như một nhân viên tạp chí, thay vì như một nhà văn tự do."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "(The staff officer smiled.)",
+            "vi": "(Nhân viên phục vụ mỉm cười.)"
+        },
+        {
+            "en": "The chief of staff of the army is also a member of the council.",
+            "vi": "Tham mưu trưởng quân đội cũng là một thành viên của hội đồng."
+        }
+    ],
+    "words_form": [
+        "staffed",
+        "staffs",
+        "staves"
+    ],
+    "meaning_vi": "cán bộ"
+}

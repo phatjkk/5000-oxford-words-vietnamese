@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈɡæðər/"
+    ],
+    "synonyms": [
+        "throng",
+        "collect",
+        "unite",
+        "hang around",
+        "get-together"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To conclude or infer, as from evidence.",
+            "vi": "Để kết luận hoặc suy luận, từ bằng chứng."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or an instance of gathering.",
+            "vi": "Hành động hoặc một ví dụ của tập hợp."
+        },
+        {
+            "pos": "idiom",
+            "en": "be gathered to one's fathers  to die",
+            "vi": "được tập hợp với cha của một người để chết"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I need to gather the eggs.",
+            "vi": "Tôi cần thu thập những quả trứng."
+        },
+        {
+            "en": "I gather Alex isn't home yet.",
+            "vi": "Tôi thu thập được Alex vẫn chưa có nhà."
+        }
+    ],
+    "words_form": [
+        "gathered",
+        "gathering",
+        "gathers"
+    ],
+    "meaning_vi": "tụ họp; tập hợp lại"
+}

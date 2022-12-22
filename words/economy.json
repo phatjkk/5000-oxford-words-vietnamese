@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/əˈkɑnəmi/"
+    ],
+    "synonyms": [
+        "standard of living",
+        "management",
+        "spending",
+        "earnings",
+        "husbandry"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Economy is defined as the management of financial matters for a community, business or family.",
+            "vi": "Kinh tế được định nghĩa là quản lý các vấn đề tài chính cho một cộng đồng, doanh nghiệp hoặc gia đình."
+        },
+        {
+            "pos": "adjective",
+            "en": "Providing more of a product at a lower unit price.",
+            "vi": "Cung cấp nhiều sản phẩm hơn với đơn giá thấp hơn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The economy was affected by the establishment of a land tax.",
+            "vi": "Nền kinh tế bị ảnh hưởng bởi việc áp dụng thuế đất."
+        },
+        {
+            "en": "We wanted a firm economy, reasonable real estate costs, and a good school system.",
+            "vi": "Chúng tôi muốn có một nền kinh tế vững chắc, chi phí bất động sản hợp lý và một hệ thống trường học tốt."
+        }
+    ],
+    "words_form": [
+        "economies"
+    ],
+    "meaning_vi": "nên kinh tê"
+}

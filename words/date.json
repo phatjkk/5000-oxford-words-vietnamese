@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/deɪt/"
+    ],
+    "synonyms": [
+        "duration",
+        "point-in-time",
+        "course",
+        "dates",
+        "span"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A statement, as on a document or coin, specifying when it was made.",
+            "vi": "Một tuyên bố, như trên một tài liệu hoặc đồng xu, chỉ rõ thời điểm nó được thực hiện."
+        },
+        {
+            "pos": "verb",
+            "en": "To reckon by dates.",
+            "vi": "Để tính theo ngày tháng."
+        },
+        {
+            "pos": "idiom",
+            "en": "out of date  No longer in style; old-fashioned: Clothes that went out of date last year.",
+            "vi": "lỗi thời Không còn phong cách; lỗi thời: Quần áo đã lỗi thời vào năm ngoái."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"It's important to find out the date and place,\" she said.",
+            "vi": "\"Điều quan trọng là phải tìm ra ngày và địa điểm,\" cô nói."
+        },
+        {
+            "en": "Yancey was an attentive date, always knowing exactly what to say and do.",
+            "vi": "Yancey là một người chu đáo trong buổi hẹn hò, luôn biết chính xác những gì phải nói và làm."
+        }
+    ],
+    "words_form": [
+        "dated",
+        "dates",
+        "dating"
+    ],
+    "meaning_vi": "ngày"
+}

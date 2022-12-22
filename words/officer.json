@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈɔfəsər/",
+        "/ˈɑfəsər/"
+    ],
+    "synonyms": [
+        "manager",
+        "director",
+        "president",
+        "police officer",
+        "administrator"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an officer is a person in a position of authority in a business, the police, the military or other group.",
+            "vi": "Định nghĩa của một sĩ quan là một người có chức vụ quyền hạn trong doanh nghiệp, cảnh sát, quân đội hoặc các nhóm khác."
+        },
+        {
+            "pos": "verb",
+            "en": "Officer is defined as to command over with authority, or provide with authority figures.",
+            "vi": "Cán bộ được định nghĩa là chỉ huy với quyền hạn, hoặc cung cấp các số liệu quyền lực."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Officer David will see you now.",
+            "vi": "Sĩ quan David sẽ gặp bạn ngay bây giờ."
+        },
+        {
+            "en": "Officer Quint came from the scene of the accident.",
+            "vi": "Sĩ quan Quint đến từ hiện trường vụ tai nạn."
+        }
+    ],
+    "words_form": [
+        "officers"
+    ],
+    "meaning_vi": "nhân viên văn phòng"
+}

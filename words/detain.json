@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/dəˈteɪn/"
+    ],
+    "synonyms": [
+        "hold back",
+        "keep",
+        "confine",
+        "stall",
+        "inhibit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To keep from proceeding; delay or retard.",
+            "vi": "Để tránh tiếp tục; trì hoãn hoặc làm chậm lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I won't detain you longer, General.",
+            "vi": "Tôi sẽ không giam giữ ông lâu hơn, thưa Đại tướng."
+        },
+        {
+            "en": "The other parts of the flower need not detain us.",
+            "vi": "Các bộ phận khác của bông hoa không cần phải giam giữ chúng ta."
+        }
+    ],
+    "words_form": [
+        "detained",
+        "detains"
+    ],
+    "meaning_vi": "giam"
+}

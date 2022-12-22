@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈfæʃ(ə)nəb(ə)l/"
+    ],
+    "synonyms": [
+        "modish",
+        "faddish",
+        "style",
+        "a la mode",
+        "smart"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A stylish person.",
+            "vi": "Một người sành điệu."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of fashionable is something that is in style.",
+            "vi": "Định nghĩa của thời trang là một cái gì đó nằm trong phong cách."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I don't think it would be fashionable if I wore a ski mask.",
+            "vi": "Tôi không nghĩ nó sẽ hợp thời trang nếu tôi đeo một chiếc mặt nạ trượt tuyết."
+        },
+        {
+            "en": "He looked to be about her age and his blond hair was neatly combed into a fashionable style.",
+            "vi": "Trông anh trạc tuổi cô và mái tóc vàng được chải gọn gàng tạo nên một phong cách thời trang."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hợp thời trang"
+}

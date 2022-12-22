@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˌɪndəˈpɛndənt/"
+    ],
+    "synonyms": [
+        "self-sufficient",
+        "self-governing",
+        "fair",
+        "commutative",
+        "objective"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of independent is someone or something that is free from the influence or control of another.",
+            "vi": "Định nghĩa về độc lập là một người nào đó hoặc một cái gì đó không bị ảnh hưởng hoặc kiểm soát của người khác."
+        },
+        {
+            "pos": "noun",
+            "en": "One that is independent, especially a voter, officeholder, or political candidate who is not committed to a political party.",
+            "vi": "Một trong những người độc lập, đặc biệt là một cử tri, nhân viên văn phòng hoặc ứng cử viên chính trị không cam kết với một đảng chính trị."
+        },
+        {
+            "pos": "idiom",
+            "en": "independent of  apart from; regardless of",
+            "vi": "độc lập với ngoài; bất chấp"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'd like space to do some independent experiments too.",
+            "vi": "Tôi cũng muốn có không gian để thực hiện một số thí nghiệm độc lập."
+        },
+        {
+            "en": "Lori was certainly independent – and ambitious.",
+            "vi": "Lori chắc chắn là người độc lập - và đầy tham vọng."
+        }
+    ],
+    "words_form": [
+        "independents"
+    ],
+    "meaning_vi": "độc lập"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈfɑsəl/"
+    ],
+    "synonyms": [
+        "relic",
+        "trace",
+        "skeleton",
+        "imprint",
+        "mossback"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(figuratively) Anything extremely old, extinct, or outdated.",
+            "vi": "(nghĩa bóng) Bất cứ thứ gì cực kỳ cũ, đã tuyệt chủng hoặc đã lỗi thời."
+        },
+        {
+            "pos": "adjective",
+            "en": "Belonging to the past; antiquated.",
+            "vi": "Thuộc về quá khứ; cổ kính."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Fossil fuels are, without a doubt, scarce.",
+            "vi": "Không nghi ngờ gì nữa, nhiên liệu hóa thạch rất khan hiếm."
+        },
+        {
+            "en": "In the first two volumes fossil birds, occasionally based upon a fragmentary bone only, are also included.",
+            "vi": "Trong hai tập đầu tiên, các loài chim hóa thạch, đôi khi chỉ dựa trên một mảnh xương rời, cũng được đưa vào."
+        }
+    ],
+    "words_form": [
+        "fossils"
+    ],
+    "meaning_vi": "hóa thạch"
+}

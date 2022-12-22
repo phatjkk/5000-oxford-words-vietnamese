@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈlæn(d)ˌmɑrk/"
+    ],
+    "synonyms": [
+        "vantage-point",
+        "mark",
+        "historic",
+        "benchmark",
+        "monument"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Landmark means a location that has historical importance.",
+            "vi": "Mốc có nghĩa là một vị trí có tầm quan trọng lịch sử."
+        },
+        {
+            "pos": "verb",
+            "en": "(US) To officially designate a site or building as a landmark.",
+            "vi": "(Hoa Kỳ) Để chính thức chỉ định một địa điểm hoặc tòa nhà làm mốc."
+        },
+        {
+            "pos": "adjective",
+            "en": "Having great import or significance.",
+            "vi": "Có giá trị nhập khẩu hoặc ý nghĩa lớn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She searched around for a landmark that could be seen over the trees, but nothing was tall enough.",
+            "vi": "Cô tìm kiếm xung quanh để tìm một cột mốc có thể nhìn thấy trên những cái cây, nhưng không có gì đủ cao."
+        },
+        {
+            "en": "Ward Hill (742 ft.) is the sailors' landmark for Lerwick harbour.",
+            "vi": "Đồi Ward (742 ft.) Là cột mốc của các thủy thủ đối với bến cảng Lerwick."
+        }
+    ],
+    "words_form": [
+        "landmarks"
+    ],
+    "meaning_vi": "mốc"
+}

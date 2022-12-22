@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɑrmd/"
+    ],
+    "synonyms": [
+        "protected",
+        "girded",
+        "equipped",
+        "outfitted",
+        "loaded"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of arm.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ của cánh tay."
+        },
+        {
+            "pos": "adjective",
+            "en": "Provided with arms (weapons), armor, etc.",
+            "vi": "Được cung cấp vũ khí (vũ khí), áo giáp, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was armed with several knives, and his silver eyes were fiery.",
+            "vi": "Anh ta được trang bị vài con dao, và đôi mắt màu bạc của anh ta rực lửa."
+        },
+        {
+            "en": "Armed with her notes, she emerged from the library.",
+            "vi": "Với những ghi chú của mình, cô ấy bước ra khỏi thư viện."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "vũ trang"
+}

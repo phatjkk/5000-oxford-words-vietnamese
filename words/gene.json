@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/dʒin/"
+    ],
+    "synonyms": [
+        "germline",
+        "mutant",
+        "rna",
+        "tissue-specific",
+        "dominant"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a gene is a unit on a chromosome that determines a specific trait in an organism, or a male's name.",
+            "vi": "Định nghĩa của một gen là một đơn vị trên nhiễm sắc thể xác định một tính trạng cụ thể ở một sinh vật, hoặc tên của nam giới."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A diminutive of Eugene, also used as a formal male given name.",
+            "vi": "Một chi tiết nhỏ của Eugene, cũng được dùng làm tên chính thức cho nam giới."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That is quite a gene pool you two have.",
+            "vi": "Đó là một nguồn gen khá lớn mà hai bạn có."
+        },
+        {
+            "en": "The gene mutated accidently, but once noticed, breeders bred for it.",
+            "vi": "Gen đột biến một cách tình cờ, nhưng một khi nhận thấy, các nhà lai tạo đã lai tạo nó."
+        }
+    ],
+    "words_form": [
+        "genes"
+    ],
+    "meaning_vi": "gen"
+}

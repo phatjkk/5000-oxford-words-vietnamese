@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɪnˈstɛd/"
+    ],
+    "synonyms": [
+        "rather",
+        "alternatively",
+        "simply",
+        "equivalent",
+        "preferably"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "In the place of something previously mentioned; as a substitute or an equivalent.",
+            "vi": "Ở vị trí của một cái gì đó đã được đề cập trước đó; như một chất thay thế hoặc một chất tương đương."
+        },
+        {
+            "pos": "idiom",
+            "en": "instead of  in place of",
+            "vi": "thay vì thay cho"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I will try to make friends instead of enemies.",
+            "vi": "Tôi sẽ cố gắng kết bạn thay vì kẻ thù."
+        },
+        {
+            "en": "I always pictured myself driving a van instead of a truck.",
+            "vi": "Tôi luôn hình dung mình đang lái một chiếc xe tải thay vì một chiếc xe tải."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thay vì"
+}

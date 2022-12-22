@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈbædəri/"
+    ],
+    "synonyms": [
+        "group",
+        "storage battery",
+        "army",
+        "solar battery",
+        "electric cell"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a battery is a man-made power cell used to generate electrical energy.",
+            "vi": "Định nghĩa về pin là một tế bào điện nhân tạo được sử dụng để tạo ra năng lượng điện."
+        },
+        {
+            "pos": "idiom",
+            "en": "in battery  in firing position after recovery from the recoil of a previous discharge",
+            "vi": "trong pin ở vị trí bắn sau khi phục hồi từ độ giật của lần phóng điện trước đó"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The battery in the lantern might be dead or the fall might have broken it.",
+            "vi": "Pin trong đèn lồng có thể đã hết hoặc do rơi có thể đã làm hỏng pin."
+        },
+        {
+            "en": "Now, we know that the number of electrochemical equivalents electrolysed is proportional to the whole amount of electricity which passed through the circuit, and the product of this by the electromotive force of the battery is the work done by the latter, so that in this case also Joule showed that the heat generated was proportional to the work done.",
+            "vi": "Bây giờ, chúng ta biết rằng số lượng đương lượng điện hóa bị điện phân tỷ lệ với toàn bộ lượng điện đi qua mạch và tích của suất điện động của pin là công do chất sau thực hiện, vì vậy trong trường hợp này Joule cũng chỉ ra rằng nhiệt lượng tỏa ra tỷ lệ thuận với công việc được thực hiện."
+        }
+    ],
+    "words_form": [
+        "batteries"
+    ],
+    "meaning_vi": "ắc quy"
+}

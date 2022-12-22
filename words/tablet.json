@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈtæblət/"
+    ],
+    "synonyms": [
+        "medicine",
+        "pill",
+        "capsule",
+        "pad",
+        "marker"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A small flat pellet of medication to be taken orally.",
+            "vi": "Một viên thuốc nhỏ dẹt để uống."
+        },
+        {
+            "pos": "verb",
+            "en": "To inscribe on a tablet.",
+            "vi": "Để ghi trên máy tính bảng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She grabbed her tablet and several pencils.",
+            "vi": "Cô chộp lấy máy tính bảng và vài cây bút chì."
+        },
+        {
+            "en": "He pushed his breakfast to the side and put the tablet on the table.",
+            "vi": "Anh đẩy bữa sáng của mình sang một bên và đặt máy tính bảng lên bàn."
+        }
+    ],
+    "words_form": [
+        "tablets"
+    ],
+    "meaning_vi": "máy tính bảng"
+}

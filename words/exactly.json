@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɪɡˈzæk(t)li/"
+    ],
+    "synonyms": [
+        "correctly",
+        "specifically",
+        "precisely",
+        "certainly",
+        "absolutely"
+    ],
+    "meaning": [
+        {
+            "pos": "interjection",
+            "en": "Used in affirmation, equivalent to “I agree” or “quite true”",
+            "vi": "Được sử dụng trong câu khẳng định, tương đương với \"Tôi đồng ý\" hoặc \"hoàn toàn đúng\""
+        },
+        {
+            "pos": "adverb",
+            "en": "(manner) Without approximation; precisely.",
+            "vi": "(cách thức) Không tính gần đúng; đúng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They weren't exactly best of friends.",
+            "vi": "Họ không hẳn là bạn thân của nhau."
+        },
+        {
+            "en": "He knew exactly where to look.",
+            "vi": "Anh biết chính xác nơi để tìm."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "chính xác"
+}

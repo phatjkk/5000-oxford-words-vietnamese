@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/stil/"
+    ],
+    "synonyms": [
+        "iron",
+        "metal",
+        "rail",
+        "prepared",
+        "aluminium"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Steel is defined as to make with the strong substance made of iron and carbon, or to make something strong or tough or unfeeling.",
+            "vi": "Thép được định nghĩa là để tạo ra chất cứng được làm từ sắt và cacbon, hoặc để làm ra một thứ gì đó cứng hoặc dai hoặc không có cảm giác."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of steel is very strong.",
+            "vi": "Định nghĩa của thép là rất mạnh mẽ."
+        },
+        {
+            "pos": "noun",
+            "en": "A generally hard, strong, durable, malleable alloy of iron and carbon, usually containing between 0.2 and 1.5 percent carbon, often with other constituents such as manganese, chromium, nickel, molybdenum, copper, tungsten, cobalt, or silicon, depending on the desired alloy properties, and widely used as a structural material.",
+            "vi": "Một hợp kim thường cứng, mạnh, bền, dễ uốn của sắt và cacbon, thường chứa từ 0,2 đến 1,5% cacbon, thường chứa các thành phần khác như mangan, crom, niken, molypden, đồng, vonfram, coban hoặc silicon, tùy thuộc vào các đặc tính hợp kim mong muốn, và được sử dụng rộng rãi như một vật liệu cấu trúc."
+        },
+        {
+            "pos": "pronoun",
+            "en": "1819, J. H. Vaux, New Vocab. Flash Lang. in Mem.",
+            "vi": "1819, JH Vaux, Vocab mới. Flash Lang. trong Mem."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He emerged from the thick steel walls into the sunlight.",
+            "vi": "Anh ta ló dạng khỏi những bức tường thép dày trong ánh sáng mặt trời."
+        },
+        {
+            "en": "\"From molten metal to the tempered steel of a blade,\" Eden replied.",
+            "vi": "\"Từ kim loại nóng chảy đến thép tôi luyện của một lưỡi dao,\" Eden trả lời."
+        }
+    ],
+    "words_form": [
+        "steeled",
+        "steeling",
+        "steels"
+    ],
+    "meaning_vi": "thép"
+}

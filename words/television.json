@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈtɛləˌvɪʒən/"
+    ],
+    "synonyms": [
+        "boob-tube",
+        "video",
+        "station",
+        "color-television",
+        "television receiver"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a television is an electronic device used to receive sound and images which create television programs that people watch.",
+            "vi": "Định nghĩa tivi là một thiết bị điện tử dùng để thu nhận âm thanh và hình ảnh tạo ra các chương trình truyền hình mà mọi người xem."
+        },
+        {
+            "pos": "verb",
+            "en": "(neologism, informal) To watch television.",
+            "vi": "(neologism, không chính thức) Để xem truyền hình."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, using, used in, or sent by television.",
+            "vi": "Của, bằng cách sử dụng, được sử dụng trong, hoặc được gửi bằng truyền hình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He had been spending too much time with the television lately.",
+            "vi": "Gần đây anh ấy đã dành quá nhiều thời gian cho tivi."
+        },
+        {
+            "en": "It was like something out of a television show about castles.",
+            "vi": "Nó giống như một thứ gì đó trong một chương trình truyền hình về các lâu đài."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "vô tuyến"
+}

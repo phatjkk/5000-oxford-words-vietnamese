@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/krud/"
+    ],
+    "synonyms": [
+        "raw",
+        "undeveloped",
+        "ignorant",
+        "uncouth",
+        "refined"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A substance, especially petroleum, in its unrefined state.",
+            "vi": "Một chất, đặc biệt là dầu mỏ, ở trạng thái chưa tinh chế."
+        },
+        {
+            "pos": "adjective",
+            "en": "Lacking in sophistication or subtlety; simplistic.",
+            "vi": "Thiếu tinh tế hoặc thiếu tinh tế; đơn giản."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They were very rough and crude, but strong and serviceable.",
+            "vi": "Chúng rất thô và thô, nhưng mạnh mẽ và có thể phục vụ được."
+        },
+        {
+            "en": "Beyond them was a crude wooden floored arena hedged by rows of shouting people.",
+            "vi": "Phía sau họ là một đấu trường bằng gỗ thô sơ được rào chắn bởi những hàng người hò hét."
+        }
+    ],
+    "words_form": [
+        "cruder",
+        "crudes",
+        "crudest"
+    ],
+    "meaning_vi": "thô"
+}

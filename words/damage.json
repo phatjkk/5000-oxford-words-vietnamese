@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈdæmɪdʒ/"
+    ],
+    "synonyms": [
+        "harm",
+        "detriment",
+        "wreckage",
+        "destruction",
+        "wrong"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of damage is injury or harm to a person or thing that reduces health, value or usefulness.",
+            "vi": "Định nghĩa về thiệt hại là thương tích hoặc tổn hại cho người hoặc vật làm giảm sức khỏe, giá trị hoặc tính hữu ích."
+        },
+        {
+            "pos": "verb",
+            "en": "To cause damage to.",
+            "vi": "Để gây ra thiệt hại cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It might have done damage inside.",
+            "vi": "Nó có thể đã gây ra thiệt hại bên trong."
+        },
+        {
+            "en": "You can be thankful they didn't damage the tires.",
+            "vi": "Bạn có thể biết ơn vì họ đã không làm hỏng lốp xe."
+        }
+    ],
+    "words_form": [
+        "damaged",
+        "damages",
+        "damaging"
+    ],
+    "meaning_vi": "hư hại"
+}

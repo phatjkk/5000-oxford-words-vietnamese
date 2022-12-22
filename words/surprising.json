@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/sərˈpraɪzɪŋ/"
+    ],
+    "synonyms": [
+        "remarkable",
+        "extraordinary",
+        "ambushing",
+        "stunning",
+        "electrifying"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The action of the verb to surprise.",
+            "vi": "Hành động của động từ gây ngạc nhiên."
+        },
+        {
+            "pos": "adjective",
+            "en": "Causing surprise; amazing.",
+            "vi": "Gây bất ngờ; kinh ngạc."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of surprise.",
+            "vi": "Hiện tại phân từ của sự ngạc nhiên."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That was certainly a surprising turn of events!",
+            "vi": "Đó chắc chắn là một sự thay đổi đáng ngạc nhiên!"
+        },
+        {
+            "en": "It is not surprising that we are taking awhile to get it right.",
+            "vi": "Không có gì ngạc nhiên khi chúng tôi mất một thời gian để làm đúng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thật ngạc nhiên"
+}

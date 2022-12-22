@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/əˈkeɪʒən/"
+    ],
+    "synonyms": [
+        "reason",
+        "ceremony",
+        "moment",
+        "incident",
+        "chance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Occasion is a special event or a specific time when something is possible or when something will happen.",
+            "vi": "Nhân dịp là một sự kiện đặc biệt hoặc một thời điểm cụ thể khi điều gì đó có thể xảy ra hoặc khi điều gì đó sẽ xảy ra."
+        },
+        {
+            "pos": "verb",
+            "en": "To give occasion to; to cause; to produce; to induce; as, to occasion anxiety.",
+            "vi": "Để tặng cho; gây ra; để sản xuất; để gây ra; như, để thỉnh thoảng lo lắng."
+        },
+        {
+            "pos": "idiom",
+            "en": "on occasion  From time to time; now and then.",
+            "vi": "theo thời gian; bây giờ và sau đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He was excited to see her dressed up for the occasion.",
+            "vi": "Anh rất hào hứng khi thấy cô mặc quần áo vào dịp này."
+        },
+        {
+            "en": "Moulds have been isolated which occasion the formation of citric acid from glucose.",
+            "vi": "Khuôn đã được phân lập mà nhân dịp đó sự hình thành axit xitric từ glucose."
+        }
+    ],
+    "words_form": [
+        "occasioned",
+        "occasions"
+    ],
+    "meaning_vi": "dịp"
+}

@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ɪnˈvɛstəˌɡeɪt/"
+    ],
+    "synonyms": [
+        "explore",
+        "inspect",
+        "examine",
+        "probe",
+        "analyze"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of investigate is to look into something or someone in order to try to discover the truth or to piece together a sequence of events.",
+            "vi": "Định nghĩa của điều tra là xem xét một cái gì đó hoặc một người nào đó để cố gắng khám phá ra sự thật hoặc để ghép một chuỗi các sự kiện lại với nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I promised you I'd investigate this as thoroughly as I could.",
+            "vi": "Tôi đã hứa với bạn là tôi sẽ điều tra chuyện này kỹ càng nhất có thể."
+        },
+        {
+            "en": "He gave orders to investigate the matter.",
+            "vi": "Ông đã ra lệnh điều tra sự việc."
+        }
+    ],
+    "words_form": [
+        "investigated",
+        "investigates",
+        "investigating"
+    ],
+    "meaning_vi": "điều tra"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈlæn(d)ˌskeɪp/"
+    ],
+    "synonyms": [
+        "scene",
+        "panorama",
+        "sketch",
+        "picture",
+        "mural"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of landscape is the features of a given area of land, especially when the area of land has been improved by carefully designed planting and arrangement.",
+            "vi": "Định nghĩa cảnh quan là các đặc điểm của một khu đất nhất định, đặc biệt là khi khu đất đó đã được cải thiện bằng cách trồng và bố trí được thiết kế cẩn thận."
+        },
+        {
+            "pos": "verb",
+            "en": "To arrange grounds aesthetically or maintain grounds as a profession.",
+            "vi": "Sắp xếp mặt bằng một cách thẩm mỹ hoặc duy trì mặt bằng như một nghề nghiệp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He looked over his shoulder again at the dark landscape behind him.",
+            "vi": "Anh lại nhìn qua vai mình vào khung cảnh tối tăm phía sau."
+        },
+        {
+            "en": "In the winter the landscape is bleak and the house is drafty.",
+            "vi": "Vào mùa đông, cảnh vật thật ảm đạm và ngôi nhà ẩm thấp."
+        }
+    ],
+    "words_form": [
+        "landscaped",
+        "landscapes",
+        "landscaping"
+    ],
+    "meaning_vi": "phong cảnh"
+}

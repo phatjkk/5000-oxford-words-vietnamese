@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˌdɪsəˈpɔɪn(t)əd/"
+    ],
+    "synonyms": [
+        "downcast",
+        "dissatisfied",
+        "delighted",
+        "unsatisfied",
+        "disgruntled"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Defeated of expectation or hope; let down.",
+            "vi": "Đánh bại sự mong đợi hoặc hy vọng; để xuống."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of disappoint.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ của sự thất vọng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm disappointed in you.",
+            "vi": "Tôi thất vọng về bạn."
+        },
+        {
+            "en": "I'm disappointed in your decision, but I respect it.",
+            "vi": "Tôi thất vọng về quyết định của bạn, nhưng tôi tôn trọng điều đó."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thất vọng"
+}

@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/swɛr/"
+    ],
+    "synonyms": [
+        "pledge",
+        "avow",
+        "affirm",
+        "depose",
+        "testify"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make a solemn declaration, invoking a deity or a sacred person or thing, in confirmation of and witness to the honesty or truth of such a declaration.",
+            "vi": "Tuyên bố long trọng, cầu khẩn một vị thần hoặc một người hoặc vật linh thiêng, để xác nhận và làm chứng cho sự trung thực hoặc sự thật của tuyên bố đó."
+        },
+        {
+            "pos": "noun",
+            "en": "A swearword.",
+            "vi": "Một lời thề."
+        },
+        {
+            "pos": "idiom",
+            "en": "swear by  to name (something held sacred) in taking an oath to have great faith or confidence in",
+            "vi": "thề bằng tên (điều gì đó thiêng liêng) trong việc tuyên thệ có niềm tin hoặc sự tin tưởng tuyệt đối vào"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I swear I would have seen anyone who was nearby.",
+            "vi": "Tôi thề rằng tôi sẽ nhìn thấy bất cứ ai ở gần đây."
+        },
+        {
+            "en": "I swear to God, I've had it with all this shit.",
+            "vi": "Tôi thề có Chúa, tôi đã có nó với tất cả những thứ chết tiệt này."
+        }
+    ],
+    "words_form": [
+        "swearing",
+        "swears",
+        "swore",
+        "sworn"
+    ],
+    "meaning_vi": "xin thề"
+}

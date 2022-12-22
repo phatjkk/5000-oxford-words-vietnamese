@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈbədʒət/"
+    ],
+    "synonyms": [
+        "allowance",
+        "funds",
+        "ration",
+        "estimate",
+        "plan"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a budget is an itemized summary of planned expenses for a given period along with the estimated income for that period.",
+            "vi": "Định nghĩa của ngân sách là một bản tóm tắt thành từng khoản của các chi phí được lập kế hoạch cho một thời kỳ nhất định cùng với thu nhập ước tính cho thời kỳ đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To enter or account for in a budget.",
+            "vi": "Để nhập hoặc tính toán trong ngân sách."
+        },
+        {
+            "pos": "adjective",
+            "en": "Appropriate to a restricted budget.",
+            "vi": "Phù hợp với ngân sách hạn chế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The bike was a trophy from a time when Dean's budget contained more expendable income.",
+            "vi": "Chiếc xe đạp là một chiến tích từ thời mà ngân sách của Dean có nhiều thu nhập có thể chi tiêu hơn."
+        },
+        {
+            "en": "The first year of office passed off successfully, and it was owing to the steady support of the prime minister that Gladstone's great budget of 1853 was accepted by the cabinet.",
+            "vi": "Năm đầu tiên của nhiệm kỳ diễn ra thành công tốt đẹp, và nhờ vào sự ủng hộ ổn định của thủ tướng mà ngân sách lớn của Gladstone năm 1853 đã được nội các chấp nhận."
+        }
+    ],
+    "words_form": [
+        "budgeted",
+        "budgeting",
+        "budgets"
+    ],
+    "meaning_vi": "ngân sách"
+}

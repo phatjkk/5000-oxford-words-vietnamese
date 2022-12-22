@@ -1,0 +1,74 @@
+{
+    "spelling": [
+        "/æz/",
+        "/əz/"
+    ],
+    "synonyms": [
+        "while",
+        "since",
+        "like",
+        "because",
+        "arsenic"
+    ],
+    "meaning": [
+        {
+            "pos": "conjunction",
+            "en": "(informal) That.",
+            "vi": "(không chính thức) Đó."
+        },
+        {
+            "pos": "adverb",
+            "en": "As is defined as the same amount and is used to show comparison.",
+            "vi": "Như được định nghĩa là cùng một lượng và được sử dụng để so sánh."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "The ccTLD for American Samoa as assigned by the IANA.",
+            "vi": "CcTLD cho Samoa thuộc Mỹ theo chỉ định của IANA."
+        },
+        {
+            "pos": "pronoun",
+            "en": "That: preceded by such or the same.",
+            "vi": "That: đứng trước như vậy hoặc giống nhau."
+        },
+        {
+            "pos": "preposition",
+            "en": "In a manner similar to; the same as.",
+            "vi": "Theo cách tương tự như; giống như."
+        },
+        {
+            "pos": "noun",
+            "en": "An ancient Roman coin of copper or copper alloy.",
+            "vi": "Đồng xu La Mã cổ đại bằng đồng hoặc hợp kim đồng."
+        },
+        {
+            "pos": "symbol",
+            "en": "Arsenic.",
+            "vi": "Thạch tín."
+        },
+        {
+            "pos": "affix",
+            "en": "Ad-",
+            "vi": "Quảng cáo-"
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) as is  Just the way it is, with no changes or modifications: Bought the samovar as is from an antique dealer.",
+            "vi": "(không chính thức) như hiện tại, không có thay đổi hoặc sửa đổi: Mua samovar từ một đại lý đồ cổ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She's as perfect as she can be.",
+            "vi": "Cô ấy hoàn hảo nhất có thể."
+        },
+        {
+            "en": "Her face warmed as she thought of it.",
+            "vi": "Mặt cô nóng lên khi nghĩ đến điều đó."
+        }
+    ],
+    "words_form": [
+        "-asses"
+    ],
+    "meaning_vi": "như"
+}

@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈkɔfi/",
+        "/ˈkɑfi/"
+    ],
+    "synonyms": [
+        "java",
+        "percolated",
+        "mocha",
+        "beverage",
+        "decoction"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of coffee is a drink made from ground and roasted beans from a tropical shrub or a color that looks like this drink mixed with milk.",
+            "vi": "Định nghĩa về cà phê là thức uống được làm từ hạt rang và xay từ một loại cây bụi nhiệt đới hoặc có màu sắc trông giống như thức uống này pha với sữa."
+        },
+        {
+            "pos": "adjective",
+            "en": "Flavored with coffee.",
+            "vi": "Hương vị cà phê."
+        },
+        {
+            "pos": "verb",
+            "en": "(intransitive) To drink coffee.",
+            "vi": "(intransitive) Để uống cà phê."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She sipped her coffee and eyed him suspiciously.",
+            "vi": "Cô nhấp một ngụm cà phê và nhìn anh đầy nghi ngờ."
+        },
+        {
+            "en": "She grabbed the coffee cup and took a sip as she stepped around him.",
+            "vi": "Cô cầm lấy tách cà phê và nhấp một ngụm khi bước quanh anh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "cà phê"
+}

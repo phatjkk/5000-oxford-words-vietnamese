@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/ˈtʃɪkən/"
+    ],
+    "synonyms": [
+        "cock",
+        "roaster",
+        "hen",
+        "fowl",
+        "chick"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of chicken is a domestic bird used for meat and laying eggs, the meat that comes from such a bird, or is a slang term for someone who is fearful or cowardly.",
+            "vi": "Định nghĩa gà là một loài gia cầm được sử dụng để lấy thịt và đẻ trứng, thịt xuất phát từ một loài chim như vậy, hoặc là một thuật ngữ tiếng lóng để chỉ những người sợ hãi hoặc hèn nhát."
+        },
+        {
+            "pos": "adjective",
+            "en": "(mil. slang) Characterized by unnecessary discipline or pettiness.",
+            "vi": "(mil. tiếng lóng) Đặc trưng bởi kỷ luật hoặc sự nhỏ nhen không cần thiết."
+        },
+        {
+            "pos": "verb",
+            "en": "To act in a cowardly manner; lose one's nerve.",
+            "vi": "Hành động một cách hèn nhát; mất thần kinh của một người."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A CDP in Alaska.",
+            "vi": "Một CDP ở Alaska."
+        },
+        {
+            "pos": "idiom",
+            "en": "count one's chickens before they are hatched  to count on something that may not materialize",
+            "vi": "đếm những con gà của một người trước khi chúng được nở để đếm những thứ có thể không thành hiện thực"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It smelled of chicken and rice and something sweet.",
+            "vi": "Nó có mùi của gà và gạo và một cái gì đó ngọt ngào."
+        },
+        {
+            "en": "She left the chicken coup and broke another trail to the barn.",
+            "vi": "Cô rời khỏi cuộc đảo chính gà và phá vỡ một con đường mòn khác để đến chuồng."
+        }
+    ],
+    "words_form": [
+        "chickened",
+        "chickens"
+    ],
+    "meaning_vi": "gà; thịt gà"
+}

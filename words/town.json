@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/taʊn/"
+    ],
+    "synonyms": [
+        "village",
+        "city",
+        "society",
+        "burg",
+        "township"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a town is a residential area that is smaller than a city and larger than a village.",
+            "vi": "Định nghĩa của một thị trấn là một khu dân cư nhỏ hơn một thành phố và lớn hơn một ngôi làng."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, in, for, or characteristic of a town.",
+            "vi": "Của, trong, cho, hoặc đặc trưng của một thị trấn."
+        },
+        {
+            "pos": "suffix",
+            "en": "Used to form names of townships derived from names of persons or other things.",
+            "vi": "Được sử dụng để tạo thành tên của các thị trấn bắt nguồn từ tên của người hoặc những thứ khác."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) on the town  In spirited pursuit of the entertainment offered by a town or city.",
+            "vi": "(không chính thức) trên thị trấn Trong tinh thần theo đuổi các trò giải trí được cung cấp bởi một thị trấn hoặc thành phố."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll be back in town Friday.",
+            "vi": "Tôi sẽ trở lại thị trấn vào thứ sáu."
+        },
+        {
+            "en": "I need to go to town for something so I'd better get started.",
+            "vi": "Tôi cần đến thị trấn để làm việc gì đó nên tốt hơn là tôi nên bắt đầu."
+        }
+    ],
+    "words_form": [
+        "towns"
+    ],
+    "meaning_vi": "thị trấn"
+}

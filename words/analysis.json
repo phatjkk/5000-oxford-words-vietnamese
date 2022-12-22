@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/əˈnæləsəs/"
+    ],
+    "synonyms": [
+        "interpretation",
+        "statistical",
+        "psychotherapy",
+        "review",
+        "synthesis"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of analysis is the process of breaking down a something into its parts to learn what they do and how they relate to one another.",
+            "vi": "Định nghĩa của phân tích là quá trình chia nhỏ một thứ gì đó thành các phần của nó để tìm hiểu những gì chúng làm và cách chúng liên quan với nhau."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the last analysis  after all factors have been considered",
+            "vi": "trong lần phân tích cuối cùng sau khi tất cả các yếu tố đã được xem xét"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "After careful analysis, he decided not to go.",
+            "vi": "Sau khi phân tích kỹ lưỡng, anh quyết định không đi."
+        },
+        {
+            "en": "The atomic weight of the element has been determined by analysis.",
+            "vi": "Khối lượng nguyên tử của nguyên tố đã được xác định bằng cách phân tích."
+        }
+    ],
+    "words_form": [
+        "analyses"
+    ],
+    "meaning_vi": "phân tích"
+}

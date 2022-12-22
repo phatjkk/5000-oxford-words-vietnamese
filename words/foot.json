@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/fʊt/"
+    ],
+    "synonyms": [
+        "paw",
+        "trotter",
+        "footing",
+        "seat",
+        "arch"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A structure used for locomotion or attachment in an invertebrate animal, such as the muscular organ extending from the ventral side of a mollusk.",
+            "vi": "Một cấu trúc được sử dụng để di chuyển hoặc gắn vào động vật không xương sống, chẳng hạn như cơ quan cơ kéo dài từ phía bụng của động vật thân mềm."
+        },
+        {
+            "pos": "verb",
+            "en": "(informal) To pay (costs, expenses, etc.)",
+            "vi": "(không chính thức) Để thanh toán (chi phí, chi phí, v.v.)"
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "at (someone's) feet  Enchanted or fascinated by another.",
+            "vi": "dưới chân (của ai đó) Bị mê hoặc bởi người khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He put his foot in the stirrup.",
+            "vi": "Anh ta đặt chân vào cái kiềng."
+        },
+        {
+            "en": "Carmen put a foot on the first step and then heard voices.",
+            "vi": "Carmen đặt chân lên bậc thang đầu tiên và sau đó nghe thấy tiếng nói."
+        }
+    ],
+    "words_form": [
+        "feet",
+        "footed",
+        "footing",
+        "foots"
+    ],
+    "meaning_vi": "bàn chân"
+}

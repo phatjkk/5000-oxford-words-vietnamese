@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/əˈloʊn/"
+    ],
+    "synonyms": [
+        "single",
+        "isolate",
+        "friendless",
+        "solitary",
+        "solus"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of alone is entirely separated from others.",
+            "vi": "Định nghĩa về một mình hoàn toàn tách biệt với những người khác."
+        },
+        {
+            "pos": "adverb",
+            "en": "Without others.",
+            "vi": "Không có người khác."
+        },
+        {
+            "pos": "idiom",
+            "en": "let alone  to refrain from bothering or interfering with not to speak of We hadn't a dime, let alone a dollar.",
+            "vi": "đừng nói đến việc không làm phiền hoặc can thiệp vào việc không nói về Chúng tôi không có một xu, chứ đừng nói đến một đô la."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I spoke to her alone for twenty minutes.",
+            "vi": "Tôi đã nói chuyện với cô ấy một mình trong hai mươi phút."
+        },
+        {
+            "en": "Being alone didn't seem so bad to me after all.",
+            "vi": "Rốt cuộc, ở một mình dường như không quá tệ đối với tôi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "một mình"
+}

@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/mil/"
+    ],
+    "synonyms": [
+        "bran",
+        "farina",
+        "feast",
+        "grits",
+        "mess"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a meal is a specific or designated time or occasion at which you eat food, or is the food that is consumed.",
+            "vi": "Định nghĩa bữa ăn là thời gian hoặc dịp cụ thể hoặc được chỉ định mà bạn ăn thức ăn, hoặc là thức ăn được tiêu thụ."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "See also meal.",
+            "vi": "Xem thêm bữa ăn."
+        },
+        {
+            "pos": "affix",
+            "en": "By a (specified) amount done or used at one time.",
+            "vi": "Bằng một số tiền (được chỉ định) được thực hiện hoặc sử dụng cùng một lúc."
+        },
+        {
+            "pos": "verb",
+            "en": "To defile or taint.",
+            "vi": "Làm ô uế hoặc hư hỏng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This is a fine meal, do you think?",
+            "vi": "Đây là một bữa ăn ngon, bạn có nghĩ vậy không?"
+        },
+        {
+            "en": "After that I got to thinking how nice it would be if I had someone to cook me a meal every day.",
+            "vi": "Sau đó, tôi nghĩ sẽ thật tuyệt biết bao nếu tôi có ai đó nấu cho tôi một bữa ăn mỗi ngày."
+        }
+    ],
+    "words_form": [
+        "meals"
+    ],
+    "meaning_vi": "bữa ăn"
+}

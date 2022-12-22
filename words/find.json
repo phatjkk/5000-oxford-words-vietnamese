@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/faɪnd/"
+    ],
+    "synonyms": [
+        "locate",
+        "descry",
+        "uncover",
+        "expose",
+        "spot"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To recover the use of; regain.",
+            "vi": "Để khôi phục việc sử dụng; lấy lại."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a find is something discovered, particularly something of worth and value.",
+            "vi": "Định nghĩa của một tìm kiếm là một cái gì đó được khám phá, đặc biệt là một cái gì đó có giá trị và giá trị."
+        },
+        {
+            "pos": "idiom",
+            "en": "find oneself  to learn what one's real talents and inclinations are, and begin to apply them to become aware of being To find oneself in trouble.",
+            "vi": "tìm chính mình để biết tài năng và khuynh hướng thực sự của một người là gì, và bắt đầu áp dụng chúng để nhận thức về bản thân Để thấy mình đang gặp khó khăn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I think I shall find them helpful.",
+            "vi": "Tôi nghĩ rằng tôi sẽ thấy chúng hữu ích."
+        },
+        {
+            "en": "The enemy will find it out.",
+            "vi": "Kẻ thù sẽ tìm ra nó."
+        }
+    ],
+    "words_form": [
+        "finding",
+        "finds",
+        "found"
+    ],
+    "meaning_vi": "tìm thấy"
+}

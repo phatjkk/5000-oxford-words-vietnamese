@@ -1,0 +1,34 @@
+{
+    "spelling": [
+        "/ˈtɛmp(ə)rətʃər/",
+        "/ˈtɛmp(ə)rəˌtʃʊr/"
+    ],
+    "synonyms": [
+        "weather condition",
+        "heat",
+        "cold",
+        "ambient",
+        "centigrade"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A measure of the quantity of heat in an object, usually as measured on a thermometer.  The degree of heat of a living body. An excess of this over the normal (c. 37°C or c. 98.6°F in humans); fever. The degree of heat of the atmosphere.",
+            "vi": "Một đơn vị đo nhiệt lượng trong một vật, thường được đo trên nhiệt kế. Mức độ tỏa nhiệt của cơ thể sống. Vượt quá mức này so với mức bình thường (c. 37 ° C hoặc c. 98,6 ° F ở người); sốt. Mức độ nóng của khí quyển."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They can't keep her temperature down.",
+            "vi": "Họ không thể giữ nhiệt độ của cô ấy xuống."
+        },
+        {
+            "en": "The nights were still cold into April, but the temperature climbed into the 60's during the day.",
+            "vi": "Vào tháng Tư ban đêm vẫn còn lạnh, nhưng nhiệt độ tăng lên đến những năm 60 vào ban ngày."
+        }
+    ],
+    "words_form": [
+        "temperatures"
+    ],
+    "meaning_vi": "nhiệt độ"
+}

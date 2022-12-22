@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/veɪɡ/"
+    ],
+    "synonyms": [
+        "indefinite",
+        "ambiguous",
+        "undetermined",
+        "dim",
+        "hazy"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Not clear in meaning or expression; inexplicit.",
+            "vi": "Không rõ ràng về ý nghĩa hoặc cách diễn đạt; không rõ ràng."
+        },
+        {
+            "pos": "noun",
+            "en": "An indefinite expanse.",
+            "vi": "Gia hạn vô thời hạn."
+        },
+        {
+            "pos": "verb",
+            "en": "To wander; to roam; to stray.",
+            "vi": "Đi lang thang; đi lang thang; đi lạc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She rolled her eyes at the vague response.",
+            "vi": "Cô tròn mắt trước câu trả lời mơ hồ."
+        },
+        {
+            "en": "He was vague to say the least.",
+            "vi": "Anh ấy mơ hồ để nói rằng ít nhất."
+        }
+    ],
+    "words_form": [
+        "vaguer",
+        "vaguest"
+    ],
+    "meaning_vi": "mơ hồ"
+}

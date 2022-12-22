@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɪn(t)ʃ/"
+    ],
+    "synonyms": [
+        "measurement",
+        "length",
+        "measure",
+        "in",
+        "edge"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A unit of length in the US Customary and British Imperial systems, equal to112 of a foot (2.54 centimeters).",
+            "vi": "Một đơn vị chiều dài trong hệ thống Phong tục của Hoa Kỳ và Hoàng gia Anh, bằng 112 foot (2,54 cm)."
+        },
+        {
+            "pos": "verb",
+            "en": "Inch is defined as to slowly move closer.",
+            "vi": "Inch được định nghĩa là từ từ di chuyển đến gần hơn."
+        },
+        {
+            "pos": "idiom",
+            "en": "every inch  In every respect; entirely:",
+            "vi": "từng inch Trong mọi khía cạnh; toàn bộ:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The ax blade went about an inch into the wood.",
+            "vi": "Lưỡi rìu đâm vào gỗ khoảng một inch."
+        },
+        {
+            "en": "I am so angry at you, and if you were half an inch smaller, I'd whip your hide, dhjan or not!",
+            "vi": "Tôi rất tức giận với bạn, và nếu bạn nhỏ hơn nửa inch, tôi sẽ quất vào da của bạn, dhjan hay không!"
+        }
+    ],
+    "words_form": [
+        "inched",
+        "inches",
+        "inching"
+    ],
+    "meaning_vi": "đảo nhỏ"
+}

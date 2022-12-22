@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈkəstəm/"
+    ],
+    "synonyms": [
+        "fashion",
+        "usance",
+        "impost",
+        "habitude",
+        "precedent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Custom is defined as a tradition or a usual way to behave.",
+            "vi": "Phong tục được định nghĩa là một truyền thống hoặc một cách thông thường để cư xử."
+        },
+        {
+            "pos": "adjective",
+            "en": "Made to order.",
+            "vi": "Thực hiện để đặt hàng."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete, intransitive) To have a custom.",
+            "vi": "(lỗi thời, không liên quan) Để có một tùy chỉnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That seems to be the custom around here.",
+            "vi": "Đó dường như là phong tục ở đây."
+        },
+        {
+            "en": "Besides, it is not our custom to deliver goods.",
+            "vi": "Bên cạnh đó, nó không phải là phong tục của chúng tôi để giao hàng."
+        }
+    ],
+    "words_form": [
+        "customs"
+    ],
+    "meaning_vi": "tập quán"
+}

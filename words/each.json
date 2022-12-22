@@ -1,0 +1,56 @@
+{
+    "spelling": [
+        "/itʃ/"
+    ],
+    "synonyms": [
+        "all",
+        "any",
+        "particular",
+        "separate",
+        "individually"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of each is every one in the group.",
+            "vi": "Định nghĩa của mỗi cái là mỗi cái trong nhóm."
+        },
+        {
+            "pos": "adverb",
+            "en": "Each is defined as for every one.",
+            "vi": "Mỗi cái được định nghĩa như cho mỗi cái."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Every one of a group considered individually; each one.",
+            "vi": "Mọi người trong nhóm được xem xét riêng lẻ; mỗi cái."
+        },
+        {
+            "pos": "determiner",
+            "en": "All; every; qualifying a singular noun, indicating all examples of the thing so named seen as individual or separate items (compare every).",
+            "vi": "Tất cả các; mỗi; định tính một danh từ số ít, chỉ tất cả các ví dụ của sự vật được đặt tên được coi là các mục riêng lẻ hoặc riêng biệt (so sánh mọi thứ)."
+        },
+        {
+            "pos": "noun",
+            "en": "(operations, philosophy) An individual item: the least quantitative unit in a grouping.",
+            "vi": "(hoạt động, triết lý) Một mục riêng lẻ: đơn vị định lượng ít nhất trong một nhóm."
+        },
+        {
+            "pos": "idiom",
+            "en": "each other  each one the other My partner and I assist each other.each one the others; one another Members of the platoon look out for each other.",
+            "vi": "nhau mỗi cái khác Đối tác của tôi và tôi hỗ trợ lẫn nhau. dạy cho nhau những người khác; lẫn nhau Các thành viên của trung đội nhìn ra nhau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Each book was written with a pen or a brush.",
+            "vi": "Mỗi cuốn sách được viết bằng bút hoặc bút lông."
+        },
+        {
+            "en": "Suppose we each sing a song in turn.",
+            "vi": "Giả sử mỗi người chúng ta lần lượt hát một bài hát."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "mỗi"
+}

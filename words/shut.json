@@ -1,0 +1,49 @@
+{
+    "spelling": [
+        "/ʃət/"
+    ],
+    "synonyms": [
+        "close",
+        "closed",
+        "open",
+        "close-up",
+        "lock"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Shut is defined as to close or fasten.",
+            "vi": "Shut được định nghĩa là để đóng hoặc gắn chặt."
+        },
+        {
+            "pos": "noun",
+            "en": "The act or time of shutting.",
+            "vi": "Hành động hoặc thời gian đóng cửa."
+        },
+        {
+            "pos": "adjective",
+            "en": "Closed, fastened, or secured.",
+            "vi": "Đóng, gắn chặt hoặc bảo đảm."
+        },
+        {
+            "pos": "idiom",
+            "en": "shut (one's) eyes to  To refuse to consider or acknowledge: Administrators who shut their eyes to pervasive corruption.",
+            "vi": "nhắm mắt để từ chối xem xét hoặc thừa nhận: Các nhà quản lý nhắm mắt trước nạn tham nhũng tràn lan."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She shut the door.",
+            "vi": "Cô đóng cửa lại."
+        },
+        {
+            "en": "Carmen kissed Destiny goodnight and shut the door to their room.",
+            "vi": "Carmen hôn Destiny chúc ngủ ngon và đóng cửa phòng họ lại."
+        }
+    ],
+    "words_form": [
+        "shuts",
+        "shutting"
+    ],
+    "meaning_vi": "đóng"
+}

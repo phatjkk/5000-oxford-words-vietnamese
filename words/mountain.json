@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈmaʊnt(ə)n/"
+    ],
+    "synonyms": [
+        "isolated",
+        "peak",
+        "bluff",
+        "plateau",
+        "hollow"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a mountain is a part of Earth that is very wide, has a taller height than a hill and often has steep sides, or it is a large pile of something.",
+            "vi": "Định nghĩa núi là một phần của Trái đất rất rộng, có chiều cao hơn đồi và thường có các cạnh dốc, hoặc nó là một đống lớn của một thứ gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Situated, living, or used in the mountains.",
+            "vi": "Sống, sinh sống hoặc sử dụng trên núi."
+        },
+        {
+            "pos": "idiom",
+            "en": "the Mountain  the extreme revolutionary party of Danton and Robespierre, which occupied the highest seats in the French National Assembly in 1793",
+            "vi": "the Mountain, đảng cách mạng cực đoan của Danton và Robespierre, chiếm các ghế cao nhất trong Quốc hội Pháp năm 1793"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The cool mountain air made her shiver.",
+            "vi": "Không khí núi rừng mát lạnh khiến cô rùng mình."
+        },
+        {
+            "en": "I didn't know this mountain was so tall.",
+            "vi": "Tôi không biết ngọn núi này cao như vậy."
+        }
+    ],
+    "words_form": [
+        "mountains"
+    ],
+    "meaning_vi": "núi"
+}

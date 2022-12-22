@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈseɪlɪŋ/"
+    ],
+    "synonyms": [
+        "at-sea",
+        "sailed",
+        "boating",
+        "traveling",
+        "glide"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act of a thing or person that sails.",
+            "vi": "Hành động của một vật hoặc một người chèo thuyền."
+        },
+        {
+            "pos": "adjective",
+            "en": "Driven by wind on sails.",
+            "vi": "Được lái bởi gió trên những cánh buồm."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of sail.",
+            "vi": "Hiện tại phân từ của cánh buồm."
+        },
+        {
+            "pos": "idiom",
+            "en": "smooth sailing  progress that is free from interruptions, difficulties, etc.",
+            "vi": "tiến độ thuận buồm xuôi gió không bị gián đoạn, khó khăn, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She sent a chair sailing across the room.",
+            "vi": "Cô ấy gửi một chiếc ghế đi ngang qua phòng."
+        },
+        {
+            "en": "When only a child he liked to stand by the river and see the ships sailing past.",
+            "vi": "Khi chỉ còn là một đứa trẻ, ông thích đứng bên sông và nhìn thấy những con tàu đi qua."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "thuyền buồm"
+}

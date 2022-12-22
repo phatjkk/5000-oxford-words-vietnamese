@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/æbˈstrækt/",
+        "/ˈæbˌstrækt/"
+    ],
+    "synonyms": [
+        "summary",
+        "conceptual",
+        "general",
+        "cubist",
+        "synopsis"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Not applied or practical; theoretical.",
+            "vi": "Không áp dụng hoặc thực tế; lý thuyết."
+        },
+        {
+            "pos": "noun",
+            "en": "A statement summarizing the important points of a text.",
+            "vi": "Một tuyên bố tóm tắt những điểm quan trọng của một văn bản."
+        },
+        {
+            "pos": "verb",
+            "en": "To create artistic abstractions of (something else, such as a concrete object or another style).",
+            "vi": "Để tạo ra sự trừu tượng nghệ thuật của (một thứ khác, chẳng hạn như một vật thể cụ thể hoặc một phong cách khác)."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the abstract  In a way that is conceptual or theoretical, as opposed to actual or empirical.",
+            "vi": "theo cách trừu tượng Theo cách mang tính khái niệm hoặc lý thuyết, đối lập với thực tế hoặc thực nghiệm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They had no abstract ideas; in their minds all was concrete, visible and tangible.",
+            "vi": "Họ không có ý tưởng trừu tượng; trong tâm trí của họ, tất cả đều cụ thể, hữu hình và hữu hình."
+        },
+        {
+            "en": "His abstract submission met the deadline.",
+            "vi": "Bài nộp tóm tắt của anh ấy đã đáp ứng thời hạn."
+        }
+    ],
+    "words_form": [
+        "abstracted",
+        "abstracting",
+        "abstracts"
+    ],
+    "meaning_vi": "trừu tượng"
+}

@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈfɔrəst/"
+    ],
+    "synonyms": [
+        "wood",
+        "wilderness",
+        "timberland",
+        "grove",
+        "glade"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A forest is defined as a large area that has many trees and other plants, or a dense area that is like a forest.",
+            "vi": "Rừng được định nghĩa là một khu vực rộng lớn có nhiều cây cối và các loài thực vật khác, hoặc một khu vực rậm rạp giống như một khu rừng."
+        },
+        {
+            "pos": "verb",
+            "en": "To forest means to plant an area with trees.",
+            "vi": "Rừng có nghĩa là trồng một khu vực có cây cối."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of forest is something that is green like an area covered with trees.",
+            "vi": "Định nghĩa về rừng là một cái gì đó xanh tươi giống như một khu vực được bao phủ bởi cây cối."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She entered the forest, and the darkness was crushing, suffocating her.",
+            "vi": "Cô bước vào rừng, và bóng tối bao trùm, khiến cô ngạt thở."
+        },
+        {
+            "en": "The forest air was cool and damp.",
+            "vi": "Không khí trong rừng mát mẻ và ẩm ướt."
+        }
+    ],
+    "words_form": [
+        "forested",
+        "forests"
+    ],
+    "meaning_vi": "khu rừng"
+}

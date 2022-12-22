@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ɡrif/"
+    ],
+    "synonyms": [
+        "sorrow",
+        "depression",
+        "pine",
+        "gloom",
+        "rue"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Intense emotional suffering caused by loss, disaster, misfortune, etc.; acute sorrow; deep sadness.",
+            "vi": "Đau khổ về mặt tinh thần do mất mát, thảm họa, bất hạnh, v.v ...; nỗi buồn cấp tính; nổi buồn sầu."
+        },
+        {
+            "pos": "verb",
+            "en": "(online gaming) To deliberately harass and annoy or cause grief to other players of a game in order to interfere with their enjoyment of it; especially, to do this as one’s primary activity in the game. [from late 20th Century]",
+            "vi": "(chơi trò chơi trực tuyến) Cố ý quấy rối và làm phiền hoặc gây đau buồn cho những người chơi khác của trò chơi nhằm cản trở việc họ thưởng thức trò chơi đó; đặc biệt, để làm điều này như là hoạt động chính của một người trong trò chơi. [từ cuối thế kỷ 20]"
+        },
+        {
+            "pos": "idiom",
+            "en": "come to grief  to fail or be ruined",
+            "vi": "đi đến đau buồn để thất bại hoặc bị hủy hoại"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "To the grief of his mother he left the Roman church.",
+            "vi": "Trước sự đau buồn của mẹ mình, anh rời khỏi nhà thờ La Mã."
+        },
+        {
+            "en": "She exhibited great grief at his death.",
+            "vi": "Cô tỏ ra rất đau buồn trước cái chết của anh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đau buồn"
+}

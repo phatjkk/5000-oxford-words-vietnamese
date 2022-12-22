@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/əˈkaʊnt/"
+    ],
+    "synonyms": [
+        "record",
+        "description",
+        "history",
+        "consider",
+        "story"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An account is defined as an oral or written detail of an event or situation.",
+            "vi": "Một tài khoản được định nghĩa là một chi tiết bằng miệng hoặc bằng văn bản về một sự kiện hoặc tình huống."
+        },
+        {
+            "pos": "verb",
+            "en": "Account means to appoint a characteristic to something or someone.",
+            "vi": "Tài khoản có nghĩa là chỉ định một đặc tính cho một cái gì đó hoặc một người nào đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "call to account  To challenge or contest. To hold answerable for.",
+            "vi": "cuộc gọi đến tài khoản Để thách thức hoặc cuộc thi. Để giữ có thể trả lời cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That account has $10,000 in it.",
+            "vi": "Tài khoản đó có 10.000 đô la trong đó."
+        },
+        {
+            "en": "Mr. Howes has probably given you a full account of our doings.",
+            "vi": "Ông Howes có thể đã cung cấp cho bạn một tài khoản đầy đủ về những việc làm của chúng tôi."
+        }
+    ],
+    "words_form": [
+        "accounted",
+        "accounting",
+        "accounts"
+    ],
+    "meaning_vi": "tài khoản, kế toán; tính toán, tính đến"
+}

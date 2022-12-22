@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/əˈbəv/"
+    ],
+    "synonyms": [
+        "overhead",
+        "high",
+        "beyond",
+        "over",
+        "superior"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Above is defined as something that is higher or overhead.",
+            "vi": "Bên trên được định nghĩa là cái gì đó cao hơn hoặc trên không."
+        },
+        {
+            "pos": "preposition",
+            "en": "Over or higher than.",
+            "vi": "Trên hoặc cao hơn."
+        },
+        {
+            "pos": "noun",
+            "en": "An earlier part of a given text.",
+            "vi": "Một phần trước đó của một văn bản nhất định."
+        },
+        {
+            "pos": "adjective",
+            "en": "Appearing earlier in the same text.",
+            "vi": "Xuất hiện trước đó trong cùng một văn bản."
+        },
+        {
+            "pos": "idiom",
+            "en": "above all  Over and above all other factors or considerations: Above all, tell the truth.",
+            "vi": "Trên tất cả Hơn và trên tất cả các yếu tố hoặc cân nhắc khác: Trên tất cả, hãy nói sự thật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Yuck,\" he said barely above a whisper.",
+            "vi": "“Yuck,” anh ta vừa nói vừa thì thầm."
+        },
+        {
+            "en": "The figure above me answered.",
+            "vi": "Hình trên tôi đã trả lời."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ở trên, lên trên"
+}

@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/mɪr/"
+    ],
+    "synonyms": [
+        "only",
+        "simple",
+        "insignificant",
+        "stark",
+        "minor"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of mere is nothing more than or a small, unimportant thing or amount.",
+            "vi": "Định nghĩa của đơn thuần không hơn gì hoặc một thứ hoặc số lượng nhỏ, không quan trọng."
+        },
+        {
+            "pos": "noun",
+            "en": "(old poet.) A lake or pond.",
+            "vi": "(nhà thơ cũ.) Một cái hồ hoặc cái ao."
+        },
+        {
+            "pos": "suffix",
+            "en": "Part; segment.",
+            "vi": "Phần; bộ phận."
+        },
+        {
+            "pos": "affix",
+            "en": "Part.",
+            "vi": "Phần."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You have a great deal of freedom for a mere slave.",
+            "vi": "Bạn có rất nhiều tự do cho một nô lệ đơn thuần."
+        },
+        {
+            "en": "The mere thought filled me with terror.",
+            "vi": "Ý nghĩ đơn thuần khiến tôi kinh hoàng."
+        }
+    ],
+    "words_form": [
+        "merest"
+    ],
+    "meaning_vi": "chỉ là"
+}

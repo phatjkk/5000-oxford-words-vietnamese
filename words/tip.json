@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/tɪp/"
+    ],
+    "synonyms": [
+        "peak",
+        "clue",
+        "reward",
+        "warning",
+        "terminus"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Tip means to give a small amount of money to someone who's given a service.",
+            "vi": "Tiền boa có nghĩa là đưa một số tiền nhỏ cho người được cung cấp dịch vụ."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a tip is secret information or advice given to be helpful.",
+            "vi": "Định nghĩa của mẹo là thông tin bí mật hoặc lời khuyên hữu ích."
+        },
+        {
+            "pos": "idiom",
+            "en": "tip of the iceberg  A small evident part or aspect of something largely hidden.",
+            "vi": "phần nổi của tảng băng Một phần hoặc khía cạnh hiển nhiên nhỏ của một cái gì đó phần lớn bị che giấu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "After a silent prayer, I telephoned the tip line.",
+            "vi": "Sau một hồi âm thầm cầu nguyện, tôi gọi đến đường dây tiền boa."
+        },
+        {
+            "en": "I remember because the tip was different from most; so detailed.",
+            "vi": "Tôi nhớ vì mẹo khác với hầu hết; thật chi tiết."
+        }
+    ],
+    "words_form": [
+        "tipped",
+        "tipping",
+        "tips"
+    ],
+    "meaning_vi": "tiền boa"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈdɑkjəmənt/"
+    ],
+    "synonyms": [
+        "record",
+        "text",
+        "certificate",
+        "paper",
+        "report"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a document is a piece of paper or papers containing information often used as proof or a record of something.",
+            "vi": "Định nghĩa của một tài liệu là một mảnh giấy hoặc các giấy tờ có chứa thông tin thường được sử dụng như bằng chứng hoặc ghi lại một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "To gather and report the details of; cover or chronicle.",
+            "vi": "Để thu thập và báo cáo các chi tiết của; bìa hoặc biên niên sử."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Their government gave this document publicity.",
+            "vi": "Chính phủ của họ đã công khai tài liệu này."
+        },
+        {
+            "en": "The earliest of these was the bridge of San Zaccaria, mentioned in a document of 1170.",
+            "vi": "Đầu tiên trong số này là cầu San Zaccaria, được đề cập trong một tài liệu năm 1170."
+        }
+    ],
+    "words_form": [
+        "documented",
+        "documenting",
+        "documents"
+    ],
+    "meaning_vi": "tài liệu"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈmɪn(ə)rəl/"
+    ],
+    "synonyms": [
+        "crystal",
+        "geologic",
+        "magma",
+        "ore",
+        "rock"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An inorganic element, such as calcium, iron, potassium, sodium, or zinc, that is essential to the nutrition of humans, animals, and plants.",
+            "vi": "Một nguyên tố vô cơ, chẳng hạn như canxi, sắt, kali, natri hoặc kẽm, rất cần thiết cho dinh dưỡng của con người, động vật và thực vật."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or relating to minerals.",
+            "vi": "Của hoặc liên quan đến khoáng sản."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It is an attractively built city, and has good mineral springs.",
+            "vi": "Đây là một thành phố được xây dựng hấp dẫn và có suối khoáng tốt."
+        },
+        {
+            "en": "The mineral wealth of the duchy is not inconsiderable.",
+            "vi": "Sự giàu có về khoáng sản của công quốc không phải là không đáng kể."
+        }
+    ],
+    "words_form": [
+        "minerals"
+    ],
+    "meaning_vi": "khoáng sản"
+}

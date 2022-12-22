@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/spaɪn/"
+    ],
+    "synonyms": [
+        "thistle",
+        "prick",
+        "spinal-column",
+        "backbone",
+        "spike"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The spinal column of a vertebrate.",
+            "vi": "Cột sống của động vật có xương sống."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A cold chill crept up her spine, raising the hair on the back of her neck.",
+            "vi": "Một cơn lạnh buốt buốt sống lưng, dựng cả tóc gáy."
+        },
+        {
+            "en": "A cold shiver went down his spine just thinking about it; a primal fear of dark and dank places.",
+            "vi": "Một cơn rùng mình lạnh sống lưng khi chỉ nghĩ về điều đó; nỗi sợ hãi ban đầu về những nơi tối tăm và chìm đắm."
+        }
+    ],
+    "words_form": [
+        "spines"
+    ],
+    "meaning_vi": "xương sống"
+}

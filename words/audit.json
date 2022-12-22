@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈɔdət/"
+    ],
+    "synonyms": [
+        "check",
+        "scrutiny",
+        "accounting",
+        "checking",
+        "inspection"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an audit is the process of evaluation or analysis of something to determine its accuracy or safety, or is the document that declares the result of such an analysis or evaluation.",
+            "vi": "Định nghĩa của đánh giá là quá trình đánh giá hoặc phân tích một thứ gì đó để xác định tính chính xác hoặc an toàn của nó, hoặc là tài liệu công bố kết quả của việc phân tích hoặc đánh giá đó."
+        },
+        {
+            "pos": "verb",
+            "en": "Audit means to analyze and evaluate something.",
+            "vi": "Kiểm toán có nghĩa là để phân tích và đánh giá một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "To agree the price for the internal audit 13.",
+            "vi": "Thỏa thuận giá cho cuộc kiểm toán nội bộ 13."
+        },
+        {
+            "en": "The Group also requires members to submit to an annual payroll audit.",
+            "vi": "Tập đoàn cũng yêu cầu các thành viên phải nộp đơn kiểm tra bảng lương hàng năm."
+        }
+    ],
+    "words_form": [
+        "audited",
+        "auditing",
+        "audits"
+    ],
+    "meaning_vi": "kiểm toán"
+}

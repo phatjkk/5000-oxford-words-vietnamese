@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/əˈslip/"
+    ],
+    "synonyms": [
+        "dormant",
+        "dreaming",
+        "inert",
+        "snoring",
+        "comatose"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of asleep is a person or animal who is in the process of sleeping, or a person who is not as alert or on top of things as he should be.",
+            "vi": "Định nghĩa về giấc ngủ là một người hoặc động vật đang trong quá trình ngủ, hoặc một người không tỉnh táo hoặc không tỉnh táo."
+        },
+        {
+            "pos": "adverb",
+            "en": "In or into a state of sleep.",
+            "vi": "Đang hoặc trong trạng thái ngủ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The kids are asleep and we're alone.",
+            "vi": "Bọn trẻ đang ngủ và chúng tôi ở một mình."
+        },
+        {
+            "en": "With that she fell asleep again.",
+            "vi": "Sau đó, cô lại chìm vào giấc ngủ."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ngủ"
+}

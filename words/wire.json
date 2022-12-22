@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈwaɪ(ə)r/"
+    ],
+    "synonyms": [
+        "live wire",
+        "circuit",
+        "strand",
+        "line",
+        "barbed-wire"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Wire is metal that is in very thin threads or rods, or something made of such a substance, or is slang for a hidden recording device.",
+            "vi": "Dây là kim loại ở dạng sợi hoặc thanh rất mỏng, hoặc thứ gì đó được làm bằng chất như vậy, hoặc là tiếng lóng của một thiết bị ghi âm ẩn."
+        },
+        {
+            "pos": "verb",
+            "en": "To send a telegram.",
+            "vi": "Để gửi một bức điện."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of wire is made of metal in long, thin rods or threads.",
+            "vi": "Định nghĩa về dây được làm bằng kim loại ở dạng thanh hoặc sợi dài, mỏng."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) down to the wire  To the very end, as in a race or contest.",
+            "vi": "(không chính thức) đến tận cùng, như trong một cuộc đua hoặc cuộc thi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The coils are wound with copper wire (covered with silk), 10 mils.",
+            "vi": "Các cuộn dây được quấn bằng dây đồng (phủ lụa), 10 mils."
+        },
+        {
+            "en": "It's so much more effective than rope, or wire, or chains.",
+            "vi": "Nó hiệu quả hơn nhiều so với dây thừng, hoặc dây điện, hoặc dây xích."
+        }
+    ],
+    "words_form": [
+        "wired",
+        "wires",
+        "wiring"
+    ],
+    "meaning_vi": "dây điện"
+}

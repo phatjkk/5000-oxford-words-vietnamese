@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/ɪnˈɡeɪdʒd/",
+        "/ɛnˈɡeɪdʒd/"
+    ],
+    "synonyms": [
+        "matched",
+        "betrothed",
+        "busy",
+        "engrossed",
+        "entered"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Committed, as to a cause.",
+            "vi": "Cam kết, vì một nguyên nhân."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of engage.",
+            "vi": "Thì quá khứ đơn và quá khứ phân từ tương tác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We were engaged in locating all of their victims we could find.",
+            "vi": "Chúng tôi đã tham gia vào việc xác định vị trí của tất cả các nạn nhân của họ mà chúng tôi có thể tìm thấy."
+        },
+        {
+            "en": "You were engaged to Josh.",
+            "vi": "Bạn đã đính hôn với Josh."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "đính hôn"
+}

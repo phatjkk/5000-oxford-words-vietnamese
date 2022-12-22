@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/strɪŋ/"
+    ],
+    "synonyms": [
+        "cord",
+        "thread",
+        "leash",
+        "twist",
+        "succession"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "String is a thin cord of thread or fiber, a strip of things in a row, or a group of business opportunities which belong to one owner.",
+            "vi": "Chuỗi là một sợi dây mảnh hoặc sợi, một dải nhiều thứ liên tiếp hoặc một nhóm cơ hội kinh doanh thuộc về một chủ sở hữu."
+        },
+        {
+            "pos": "verb",
+            "en": "String is defined as to put a something or a number of things onto a thread or thin wire, or to stretch and place like a string to make something operational.",
+            "vi": "Chuỗi được định nghĩa là đặt một cái gì đó hoặc một số thứ lên một sợi chỉ hoặc một sợi dây mỏng, hoặc kéo căng và đặt như một sợi dây để làm cho một cái gì đó hoạt động."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of string is a type of musical instrument with filament, or animal gut threads stretch and bowed or strummed to create the musical sound.",
+            "vi": "Định nghĩa về dây là một loại nhạc cụ có dây tóc, hoặc những sợi dây ruột động vật được kéo căng và cung hoặc gảy để tạo ra âm thanh âm nhạc."
+        },
+        {
+            "pos": "idiom",
+            "en": "on a  Under one's complete control or influence.",
+            "vi": "trên một Dưới sự kiểm soát hoặc ảnh hưởng hoàn toàn của một người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Someone tried to string him up.",
+            "vi": "Ai đó đã cố gắng để trói anh ta."
+        },
+        {
+            "en": "The violin string is first drawn on one side.",
+            "vi": "Đầu tiên dây vĩ cầm được vẽ ở một bên."
+        }
+    ],
+    "words_form": [
+        "stringing",
+        "strings",
+        "strung"
+    ],
+    "meaning_vi": "chuỗi"
+}

@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɑnˈlaɪn/"
+    ],
+    "synonyms": [
+        "on-line",
+        "web based",
+        "internet",
+        "online-only",
+        "ebook"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "Online is defined as on or via a computer network.",
+            "vi": "Trực tuyến được định nghĩa là trên hoặc qua mạng máy tính."
+        },
+        {
+            "pos": "adjective",
+            "en": "Available on or done through the Internet or some other computer network.",
+            "vi": "Có sẵn trên hoặc được thực hiện thông qua Internet hoặc một số mạng máy tính khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"It's online?\" she exclaimed.",
+            "vi": "\"Nó trực tuyến?\" cô ấy thốt lên."
+        },
+        {
+            "en": "I'll send you the link to our online forum.",
+            "vi": "Tôi sẽ gửi cho bạn liên kết đến diễn đàn trực tuyến của chúng tôi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "trực tuyến"
+}

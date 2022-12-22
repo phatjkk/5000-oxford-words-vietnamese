@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/dəˈvaɪd/"
+    ],
+    "synonyms": [
+        "separate",
+        "split",
+        "part",
+        "disengage",
+        "quotient"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To separate or become separated into parts, sections, groups, or branches.",
+            "vi": "Để tách hoặc tách thành các bộ phận, phần, nhóm hoặc nhánh."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of dividing.",
+            "vi": "Hành động phân chia."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "These lessees are usually speculators, who divide and sub-let the estate.",
+            "vi": "Những người đi thuê này thường là những nhà đầu cơ, những người phân chia và chia nhỏ bất động sản."
+        },
+        {
+            "en": "Meanwhile the political parties which were to divide the new Duma had taken shape.",
+            "vi": "Trong khi đó, các đảng phái chính trị nhằm chia rẽ Duma mới đã thành hình."
+        }
+    ],
+    "words_form": [
+        "divided",
+        "divides",
+        "dividing"
+    ],
+    "meaning_vi": "phân chia"
+}

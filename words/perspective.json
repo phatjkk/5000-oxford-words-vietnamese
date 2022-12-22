@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/pərˈspɛktɪv/"
+    ],
+    "synonyms": [
+        "viewpoint",
+        "view",
+        "angle",
+        "outlook",
+        "aspect"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Perspective is the way that one looks at something. It is also an art technique that changes the distance or depth of an object on paper.",
+            "vi": "Phối cảnh là cách mà một người nhìn vào một cái gì đó. Nó cũng là một kỹ thuật nghệ thuật thay đổi khoảng cách hoặc độ sâu của một đối tượng trên giấy."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, seen, or represented in perspective.",
+            "vi": "Của, liên quan đến, nhìn thấy hoặc đại diện trong quan điểm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "When he spoke, his perspective surprised her.",
+            "vi": "Khi anh ấy nói, góc nhìn của anh ấy đã làm cô ngạc nhiên."
+        },
+        {
+            "en": "She had an interesting perspective, and she made him think about things differently.",
+            "vi": "Cô ấy có một góc nhìn thú vị, và cô ấy khiến anh ấy nghĩ về mọi thứ theo cách khác."
+        }
+    ],
+    "words_form": [
+        "perspectives"
+    ],
+    "meaning_vi": "quan điểm"
+}

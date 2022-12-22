@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈrəɡbi/"
+    ],
+    "synonyms": [
+        "rugger",
+        "football",
+        "netball",
+        "athletic",
+        "athletics"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(place, proper) Famous school for boys located in Rugby, England: founded 1567",
+            "vi": "(địa điểm, thích hợp) Ngôi trường nổi tiếng dành cho nam sinh nằm ở Rugby, Anh: thành lập năm 1567"
+        },
+        {
+            "pos": "proper name",
+            "en": "(place) City in Warwickshire, central England.",
+            "vi": "(địa điểm) Thành phố Warwickshire, miền trung nước Anh."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A town in Warwickshire, where the sport of rugby is thought to have originated.",
+            "vi": "Một thị trấn ở Warwickshire, nơi khởi nguồn của môn thể thao bóng bầu dục."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "After being privately educated by his mother and tutors, he entered Rugby school in 1841.",
+            "vi": "Sau khi được dạy dỗ riêng bởi mẹ và các gia sư, ông vào học tại trường Rugby vào năm 1841."
+        },
+        {
+            "en": "He took solace in the arms of rugby players.",
+            "vi": "Anh lấy làm an ủi trong vòng tay của các cầu thủ bóng bầu dục."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bóng bầu dục"
+}

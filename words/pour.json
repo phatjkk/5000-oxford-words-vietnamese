@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pɔr/"
+    ],
+    "synonyms": [
+        "splash",
+        "stream",
+        "spill",
+        "flood",
+        "issue"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a pour is a heavy rain.",
+            "vi": "Định nghĩa của một trận đổ là một cơn mưa lớn."
+        },
+        {
+            "pos": "verb",
+            "en": "To send forth, produce, express, or utter copiously, as if in a stream or flood.",
+            "vi": "Để gửi đi, sản xuất, thể hiện, hoặc hoàn toàn đa dạng, như thể trong một dòng suối hoặc lũ lụt."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) pour it on  To move or perform an activity at maximum speed or intensity. To speak or express oneself continuously or elaborately.",
+            "vi": "(không chính thức) đổ vào Để di chuyển hoặc thực hiện một hoạt động ở tốc độ hoặc cường độ tối đa. Để nói hoặc thể hiện bản thân một cách liên tục hoặc công phu."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Sit down and I'll pour some coffee,\" she said over her shoulder.",
+            "vi": "\"Ngồi xuống và tôi sẽ rót một ít cà phê,\" cô nói qua vai."
+        },
+        {
+            "en": "Dean rose to pour himself a glass of milk.",
+            "vi": "Dean đứng dậy rót cho mình một ly sữa."
+        }
+    ],
+    "words_form": [
+        "poured",
+        "pouring",
+        "pours"
+    ],
+    "meaning_vi": "đổ"
+}

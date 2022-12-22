@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈrɪtʃ(u)əl/"
+    ],
+    "synonyms": [
+        "custom",
+        "cult",
+        "observance",
+        "ritualistic",
+        "ceremonial"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Any practice, action, or procedure performed or observed regularly, consistently, etc.",
+            "vi": "Bất kỳ thực hành, hành động hoặc thủ tục nào được thực hiện hoặc quan sát thường xuyên, nhất quán, v.v."
+        },
+        {
+            "pos": "adjective",
+            "en": "Related to a rite or repeated set of actions.",
+            "vi": "Liên quan đến một nghi thức hoặc một tập hợp các hành động lặp lại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It had an absurd ritual and a strange uniform.",
+            "vi": "Nó có một nghi lễ vô lý và một bộ đồng phục kỳ lạ."
+        },
+        {
+            "en": "It was a ritual they had been performing morning and night for the past two weeks.",
+            "vi": "Đó là một nghi lễ mà họ đã thực hiện sáng và tối trong hai tuần qua."
+        }
+    ],
+    "words_form": [
+        "rituals"
+    ],
+    "meaning_vi": "nghi lễ"
+}

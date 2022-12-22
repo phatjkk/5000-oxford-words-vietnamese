@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈrɛkərd/"
+    ],
+    "synonyms": [
+        "note",
+        "report",
+        "life",
+        "story",
+        "writing"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a record is something on which sound or images has been preserved or a permanent file of something.",
+            "vi": "Định nghĩa của một bản ghi là một cái gì đó mà âm thanh hoặc hình ảnh đã được lưu giữ hoặc một tệp vĩnh viễn của một cái gì đó."
+        },
+        {
+            "pos": "verb",
+            "en": "Record is defined as to register in a permanent form for playback or to make a permanent file of something.",
+            "vi": "Bản ghi được định nghĩa là đăng ký ở dạng lâu dài để phát lại hoặc tạo một tệp vĩnh viễn của một thứ gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Establishing a record as the best, largest, etc.",
+            "vi": "Xác lập kỷ lục là tốt nhất, lớn nhất, v.v."
+        },
+        {
+            "pos": "idiom",
+            "en": "go on record  To embrace a certain position publicly: Go on record in favor of the mayor's reelection.",
+            "vi": "lập hồ sơ Để nắm lấy một vị trí nhất định một cách công khai: Lập hồ sơ ủng hộ sự tái đắc cử của thị trưởng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Well, you haven't broken your record with me.",
+            "vi": "Chà, bạn đã không phá kỷ lục của mình với tôi."
+        },
+        {
+            "en": "There's no record of this.",
+            "vi": "Không có hồ sơ nào về điều này."
+        }
+    ],
+    "words_form": [
+        "recorded",
+        "recording",
+        "records"
+    ],
+    "meaning_vi": "kỷ lục"
+}

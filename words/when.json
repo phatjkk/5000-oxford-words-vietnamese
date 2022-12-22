@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/(h)wɛn/"
+    ],
+    "synonyms": [
+        "while",
+        "during",
+        "meanwhile",
+        "although",
+        "until"
+    ],
+    "meaning": [
+        {
+            "pos": "adverb",
+            "en": "At what time.",
+            "vi": "Vào thời gian nào."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Whereas; although.",
+            "vi": "Nhưng trái lại; Mặc du."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Which time.",
+            "vi": "Thời gian đó."
+        },
+        {
+            "pos": "noun",
+            "en": "The time or date.",
+            "vi": "Thời gian hoặc ngày tháng."
+        },
+        {
+            "pos": "interjection",
+            "en": "That's enough, a command to stop adding something, especially an ingredient of food or drink.",
+            "vi": "Như vậy là đủ, một lệnh ngừng thêm một thứ gì đó, đặc biệt là một thành phần của thức ăn hoặc đồ uống."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He had climbed many a tree when he was a boy.",
+            "vi": "Anh ấy đã trèo nhiều cây khi còn là một cậu bé."
+        },
+        {
+            "en": "When she glanced at him, he was eyeing her, a wry smile twisting his lips.",
+            "vi": "Khi cô liếc nhìn anh, anh đang nhìn cô, một nụ cười gượng gạo trên môi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "khi nào"
+}

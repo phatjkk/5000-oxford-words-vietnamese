@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈæŋɡəl/"
+    ],
+    "synonyms": [
+        "right-angle",
+        "viewpoint",
+        "hook",
+        "weight",
+        "bias"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An angle is defined as a figure that is formed from two lines that meet at a common place.",
+            "vi": "Một góc được định nghĩa là một hình được tạo thành từ hai đường thẳng gặp nhau tại một điểm chung."
+        },
+        {
+            "pos": "verb",
+            "en": "To fish with a hook and line.",
+            "vi": "Để câu cá bằng lưỡi câu và dây câu."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Angel, Angel, Elgan, Galen, glean.",
+            "vi": "Thiên thần, Thiên thần, Elgan, Galen, lượm lặt."
+        },
+        {
+            "pos": "suffix",
+            "en": "(geometry, of a two-dimensional shape) Having the specified number of internal angles.",
+            "vi": "(hình học, có dạng hai chiều) Có số góc trong xác định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "From this angle, it's hard to tell you from the mules.",
+            "vi": "Từ góc độ này, thật khó để phân biệt bạn với con la."
+        },
+        {
+            "en": "It must be noticed, however, that the angle of maximum polarization would be about 76° instead of 90°.",
+            "vi": "Tuy nhiên, cần phải lưu ý rằng góc phân cực tối đa sẽ là khoảng 76 ° thay vì 90 °."
+        }
+    ],
+    "words_form": [
+        "angled",
+        "angles",
+        "angling"
+    ],
+    "meaning_vi": "góc"
+}

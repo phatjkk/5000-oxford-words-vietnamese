@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/pəls/"
+    ],
+    "synonyms": [
+        "rhythm",
+        "sounds",
+        "pulsate",
+        "palpitation",
+        "throb"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a pulse is a rhythmic beating in the arteries caused by the beating of the heart.",
+            "vi": "Định nghĩa của mạch là nhịp đập trong động mạch do nhịp đập của tim."
+        },
+        {
+            "pos": "verb",
+            "en": "To pulsate; beat.",
+            "vi": "Để đập; đánh đập."
+        },
+        {
+            "pos": "idiom",
+            "en": "take the pulse of  To judge the mood or views of (a political electorate, for example): The politician was able to take the pulse of the grass-roots voters.",
+            "vi": "bắt mạch của Để phán đoán tâm trạng hoặc quan điểm của (ví dụ: một khu vực bầu cử chính trị): Chính trị gia đã có thể bắt nhịp của các cử tri cơ sở."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A pulse of warmth dispelled the tunnel vision that had begun to form.",
+            "vi": "Một luồng hơi ấm xua tan tầm nhìn đường hầm đã bắt đầu hình thành."
+        },
+        {
+            "en": "Her pulse quickened, as did her breath.",
+            "vi": "Mạch của cô ấy nhanh hơn, và hơi thở của cô ấy cũng vậy."
+        }
+    ],
+    "words_form": [
+        "pulsed",
+        "pulses",
+        "pulsing"
+    ],
+    "meaning_vi": "mạch đập"
+}

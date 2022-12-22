@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/tʊr/"
+    ],
+    "synonyms": [
+        "safari",
+        "duty tour",
+        "trip",
+        "voyage",
+        "tour-of-duty"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A trip with visits to various places of interest for business, pleasure, or instruction.",
+            "vi": "Một chuyến đi với các chuyến thăm đến các địa điểm yêu thích khác nhau để kinh doanh, giải trí hoặc hướng dẫn."
+        },
+        {
+            "pos": "verb",
+            "en": "To travel from place to place, especially for pleasure.",
+            "vi": "Để đi du lịch từ nơi này đến nơi khác, đặc biệt là vì niềm vui."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(cycling) The Tour de France.",
+            "vi": "(đạp xe) The Tour de France."
+        },
+        {
+            "pos": "idiom",
+            "en": "on tour  touring, as to give performances, lectures, etc.",
+            "vi": "đi lưu diễn, biểu diễn, thuyết trình, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's so lovely a tour on a spring afternoon.",
+            "vi": "Chuyến du lịch vào một buổi chiều mùa xuân thật đáng yêu."
+        },
+        {
+            "en": "Nice cars, nice enough house, but the tour bus doesn't bother to point out their digs.",
+            "vi": "Xe đẹp, nhà đẹp đủ cả, nhưng xe khách du lịch không thèm chỉ ra chỗ đào bới của họ."
+        }
+    ],
+    "words_form": [
+        "toured",
+        "touring",
+        "tours"
+    ],
+    "meaning_vi": "chuyến du lịch"
+}

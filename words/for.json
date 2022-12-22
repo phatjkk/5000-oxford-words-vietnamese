@@ -1,0 +1,62 @@
+{
+    "spelling": [
+        "/fɔr/",
+        "/fər/"
+    ],
+    "synonyms": [
+        "during",
+        "since",
+        "toward",
+        "because",
+        "to"
+    ],
+    "meaning": [
+        {
+            "pos": "prefix",
+            "en": "Completely; excessively, especially with destructive or detrimental effect.",
+            "vi": "Hoàn toàn; quá mức, đặc biệt là có tác dụng phá hoại hoặc bất lợi."
+        },
+        {
+            "pos": "preposition",
+            "en": "For is defined as the purpose, destination, recipient or amount of something.",
+            "vi": "For được định nghĩa là mục đích, điểm đến, người nhận hoặc số lượng của một thứ gì đó."
+        },
+        {
+            "pos": "conjunction",
+            "en": "Because.",
+            "vi": "Tại vì."
+        },
+        {
+            "pos": "adverb",
+            "en": "Because of this; for this reason.",
+            "vi": "Bởi vì điều này; vì lý do này."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Free on rail.",
+            "vi": "Miễn phí trên đường sắt."
+        },
+        {
+            "pos": "affix",
+            "en": "Away, apart, off.",
+            "vi": "Đi xa, rời xa, rời đi."
+        },
+        {
+            "pos": "idiom",
+            "en": "for all  in spite of; notwithstanding Stupid for all their learning.",
+            "vi": "cho tất cả bất chấp; mặc dù Ngốc cho tất cả việc học của họ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I've waited at that station for five hours.",
+            "vi": "Tôi đã đợi ở nhà ga đó năm tiếng đồng hồ."
+        },
+        {
+            "en": "He was going to like the clothes she bought for the trip.",
+            "vi": "Anh ấy sẽ thích quần áo cô ấy mua cho chuyến đi."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "trong (khoảng thời gian)"
+}

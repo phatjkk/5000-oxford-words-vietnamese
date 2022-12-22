@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈmɪsəl/"
+    ],
+    "synonyms": [
+        "cartridge",
+        "rocket",
+        "sidewinder",
+        "projectile",
+        "ammunition"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a missile is something that's able to be launched, fired or shot into the air or at a target.",
+            "vi": "Định nghĩa về tên lửa là một thứ có thể được phóng, bắn hoặc bắn vào không trung hoặc vào một mục tiêu."
+        },
+        {
+            "pos": "adjective",
+            "en": "That can be, or is, thrown or shot, as from a gun.",
+            "vi": "Đó có thể là, hoặc là, ném hoặc bắn, như từ một khẩu súng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She dodged a pillow missile and retrieved it from the floor.",
+            "vi": "Cô ấy né được một quả tên lửa bằng gối và lấy nó khỏi sàn nhà."
+        },
+        {
+            "en": "Another missile slammed into the street, and the building around her shook.",
+            "vi": "Một quả tên lửa khác lao xuống đường, và tòa nhà xung quanh cô ấy rung chuyển."
+        }
+    ],
+    "words_form": [
+        "missiles"
+    ],
+    "meaning_vi": "tên lửa"
+}

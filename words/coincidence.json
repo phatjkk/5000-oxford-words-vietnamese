@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/koʊˈɪnsədəns/"
+    ],
+    "synonyms": [
+        "chance",
+        "accident",
+        "synchronism",
+        "accord",
+        "design"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A sequence of events that although accidental seems to have been planned or arranged.",
+            "vi": "Một chuỗi các sự kiện mặc dù tình cờ dường như đã được lên kế hoạch hoặc sắp xếp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It wasn't a coincidence he was there.",
+            "vi": "Không phải ngẫu nhiên mà anh ấy ở đó."
+        },
+        {
+            "en": "\"It could have been a coincidence,\" Fred said after Dean hung up.",
+            "vi": "“Đó có thể là một sự trùng hợp,” Fred nói sau khi Dean cúp máy."
+        }
+    ],
+    "words_form": [
+        "coincidences"
+    ],
+    "meaning_vi": "sự trùng hợp"
+}

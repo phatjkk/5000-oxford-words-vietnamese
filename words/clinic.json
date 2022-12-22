@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈklɪnɪk/"
+    ],
+    "synonyms": [
+        "hospital",
+        "dispensary",
+        "surgery",
+        "infirmary",
+        "paediatric"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A facility, often associated with a hospital or medical school, that is devoted to the diagnosis and care of outpatients.",
+            "vi": "Một cơ sở, thường được liên kết với bệnh viện hoặc trường y tế, dành cho việc chẩn đoán và chăm sóc bệnh nhân ngoại trú."
+        },
+        {
+            "pos": "suffix",
+            "en": "Having a specified number of oblique axial intersections.",
+            "vi": "Có một số giao điểm trục xiên xác định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Dr. Worthington took responsibility for the clinic and Carmen found the accountant's number in the desk drawer.",
+            "vi": "Bác sĩ Worthington nhận trách nhiệm về phòng khám và Carmen tìm thấy số của kế toán trong ngăn bàn."
+        },
+        {
+            "en": "I didn't buy the clinic and build the house for her.",
+            "vi": "Tôi không mua phòng khám và xây nhà cho cô ấy."
+        }
+    ],
+    "words_form": [
+        "clinics"
+    ],
+    "meaning_vi": "phòng khám bệnh"
+}

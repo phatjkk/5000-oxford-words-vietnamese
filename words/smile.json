@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/smaɪl/"
+    ],
+    "synonyms": [
+        "grin",
+        "beam",
+        "smirk",
+        "simper",
+        "smiling"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Smile is an expression of happiness made by turning your mouth up at the corners.",
+            "vi": "Nụ cười là biểu hiện của sự hạnh phúc khi bạn nhếch miệng lên ở các góc."
+        },
+        {
+            "pos": "verb",
+            "en": "To have or form a smile.",
+            "vi": "Để có hoặc hình thành một nụ cười."
+        },
+        {
+            "pos": "idiom",
+            "en": "all smiles  smiling brightly and for a time, as from delight or happiness",
+            "vi": "tất cả những nụ cười mỉm cười rạng rỡ và trong một thời gian, như vì vui mừng hoặc hạnh phúc"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The smile faded and his expression became ardent.",
+            "vi": "Nụ cười tắt dần và vẻ mặt anh trở nên hăng hái."
+        },
+        {
+            "en": "Relief brought a smile to her lips.",
+            "vi": "Relief nở một nụ cười trên môi."
+        }
+    ],
+    "words_form": [
+        "smiled",
+        "smiles",
+        "smiling"
+    ],
+    "meaning_vi": "nụ cười"
+}

@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/leɪk/"
+    ],
+    "synonyms": [
+        "lagoon",
+        "mere",
+        "pond",
+        "creek",
+        "sea"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A large inland body of fresh water or salt water.",
+            "vi": "Một khối lượng lớn nước ngọt hoặc nước mặn trong đất liền."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1866-1945; U.S. engineer & naval architect.",
+            "vi": "(người) 1866-1945; Kỹ sư & kiến ​​trúc sư hải quân Hoa Kỳ."
+        },
+        {
+            "pos": "verb",
+            "en": "(chiefly dialectal) To leap, jump, exert oneself, play.",
+            "vi": "(chủ yếu là phương ngữ) Để nhảy, nhảy, nỗ lực bản thân, chơi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She went to the edge of the lake and peered into it.",
+            "vi": "Cô đi đến bờ hồ và nhìn vào đó."
+        },
+        {
+            "en": "The lake was placid.",
+            "vi": "Mặt hồ êm ả."
+        }
+    ],
+    "words_form": [
+        "lakes"
+    ],
+    "meaning_vi": "hồ"
+}

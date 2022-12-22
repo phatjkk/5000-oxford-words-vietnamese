@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/dəˈskəʃ(ə)n/"
+    ],
+    "synonyms": [
+        "conversation",
+        "debate",
+        "confabulation",
+        "conference",
+        "negotiations"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Discussion is defined as talking or writing about something, especially in order to solve a problem or resolve a question.",
+            "vi": "Thảo luận được định nghĩa là nói hoặc viết về điều gì đó, đặc biệt là để giải quyết một vấn đề hoặc giải quyết một câu hỏi."
+        },
+        {
+            "pos": "idiom",
+            "en": "under discussion  being discussed",
+            "vi": "đang thảo luận đang được thảo luận"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Once decided, there would be no discussion or argument.",
+            "vi": "Một khi đã quyết định, sẽ không có thảo luận hay tranh cãi."
+        },
+        {
+            "en": "This is the first time we've had an honest discussion in about a million years.",
+            "vi": "Đây là lần đầu tiên chúng ta có một cuộc thảo luận trung thực trong khoảng một triệu năm."
+        }
+    ],
+    "words_form": [
+        "discussions"
+    ],
+    "meaning_vi": "thảo luận"
+}

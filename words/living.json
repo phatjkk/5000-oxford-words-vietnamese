@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈlɪvɪŋ/"
+    ],
+    "synonyms": [
+        "alive",
+        "maintenance",
+        "loving",
+        "animated",
+        "live"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of living is a person or thing that is alive or active.",
+            "vi": "Định nghĩa sống là một người hoặc một vật đang sống hoặc đang hoạt động."
+        },
+        {
+            "pos": "noun",
+            "en": "Living is defined as the style or way a person lives their life.",
+            "vi": "Sống được định nghĩa là phong cách hoặc cách một người sống cuộc sống của họ."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of live.",
+            "vi": "Hiện tại phân từ trực tiếp."
+        },
+        {
+            "pos": "idiom",
+            "en": "the living  those who are still alive",
+            "vi": "những người đang sống những người vẫn còn sống"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He's living his dream.",
+            "vi": "Anh ấy đang sống trong giấc mơ của mình."
+        },
+        {
+            "en": "We're living in the 21st century, Mary.",
+            "vi": "Chúng ta đang sống ở thế kỷ 21, Mary."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sống"
+}

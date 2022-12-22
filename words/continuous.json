@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/kənˈtɪnjuəs/"
+    ],
+    "synonyms": [
+        "persistent",
+        "constant",
+        "eternal",
+        "endless",
+        "unceasing"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Uninterrupted in time, sequence, substance, or extent.",
+            "vi": "Không bị gián đoạn về thời gian, trình tự, nội dung hoặc mức độ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "All he sees is one continuous line.",
+            "vi": "Tất cả những gì anh ta nhìn thấy là một dòng liên tục."
+        },
+        {
+            "en": "To understand the laws of this continuous movement is the aim of history.",
+            "vi": "Để hiểu được quy luật của sự vận động liên tục này là mục tiêu của lịch sử."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "liên tiếp"
+}

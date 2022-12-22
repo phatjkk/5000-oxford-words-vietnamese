@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/nit/"
+    ],
+    "synonyms": [
+        "clean",
+        "tidy",
+        "systematic",
+        "tremendous",
+        "dexterous"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Cleverly or smartly phrased or done.",
+            "vi": "Diễn đạt hoặc thực hiện một cách thông minh hoặc thông minh."
+        },
+        {
+            "pos": "noun",
+            "en": "A cow or other domestic bovine animal.",
+            "vi": "Một con bò hoặc động vật trâu bò khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The handwriting on the letter was neat and feminine.",
+            "vi": "Nét chữ trên lá thư rất gọn gàng và nữ tính."
+        },
+        {
+            "en": "You always look neat and clean - even if you are a little out of style.",
+            "vi": "Trông bạn luôn gọn gàng và sạch sẽ - ngay cả khi bạn hơi lạc điệu."
+        }
+    ],
+    "words_form": [
+        "neatest"
+    ],
+    "meaning_vi": "khéo léo"
+}

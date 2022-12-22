@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/əˈtɛnd/"
+    ],
+    "synonyms": [
+        "visit",
+        "haunt",
+        "leave",
+        "tend",
+        "audit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To accompany as a circumstance or follow as a result.",
+            "vi": "Để đi kèm như một tình huống hoặc kết quả là theo sau."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "My king, I must attend to the preparations.",
+            "vi": "Thưa đức vua, tôi phải chuẩn bị."
+        },
+        {
+            "en": "My guard will attend me into the city.",
+            "vi": "Người bảo vệ của tôi sẽ đưa tôi vào thành phố."
+        }
+    ],
+    "words_form": [
+        "attended",
+        "attending",
+        "attends"
+    ],
+    "meaning_vi": "tham gia"
+}

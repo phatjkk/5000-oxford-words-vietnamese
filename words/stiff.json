@@ -1,0 +1,51 @@
+{
+    "spelling": [
+        "/stɪf/"
+    ],
+    "synonyms": [
+        "flexible",
+        "ungraceful",
+        "congealed",
+        "petrified",
+        "tense"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Difficult to bend or fold.",
+            "vi": "Khó uốn cong hoặc gấp."
+        },
+        {
+            "pos": "noun",
+            "en": "Stiff is defined as a dead body or a person who is very boring or lacking in humor or wit.",
+            "vi": "Stiff được định nghĩa là một xác chết hoặc một người rất nhàm chán hoặc thiếu hài hước hoặc dí dỏm."
+        },
+        {
+            "pos": "verb",
+            "en": "To stiff is to fail to give someone the time promised or the money to which they are entitled.",
+            "vi": "Khó khăn là không cho ai đó thời gian đã hứa hoặc số tiền mà họ được hưởng."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a stiff manner.",
+            "vi": "Một cách cứng rắn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Sunday morning she was stiff and tired.",
+            "vi": "Sáng chủ nhật cô ấy cứng đơ và mệt mỏi."
+        },
+        {
+            "en": "He rose and stretched, stiff and weak but healed.",
+            "vi": "Anh ta đứng dậy và căng ra, cứng và yếu nhưng được chữa lành."
+        }
+    ],
+    "words_form": [
+        "stiffed",
+        "stiffest",
+        "stiffing",
+        "stiffs"
+    ],
+    "meaning_vi": "cứng"
+}

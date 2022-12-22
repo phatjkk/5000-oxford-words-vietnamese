@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈprɑɡrɛs/"
+    ],
+    "synonyms": [
+        "progression",
+        "advance",
+        "expedition",
+        "step",
+        "impetus"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To progress is to move forward or advance towards completion.",
+            "vi": "Tiến bộ là tiến lên phía trước hoặc tiến tới hoàn thành."
+        },
+        {
+            "pos": "noun",
+            "en": "A moving forward or onward.",
+            "vi": "Tiến lên phía trước hoặc phía sau."
+        },
+        {
+            "pos": "idiom",
+            "en": "in progress  Going on; under way: A work in progress.",
+            "vi": "đang tiến hành Đang diễn ra; đang được thực hiện: Một công việc đang được tiến hành."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Just about time I think the two of you are making progress, something like this comes up.",
+            "vi": "Đúng lúc tôi nghĩ hai người đang tiến bộ thì chuyện như thế này lại xuất hiện."
+        },
+        {
+            "en": "Progress is being made.",
+            "vi": "Tiến độ đang được thực hiện."
+        }
+    ],
+    "words_form": [
+        "progressed",
+        "progresses",
+        "progressing"
+    ],
+    "meaning_vi": "sự tiến bộ"
+}

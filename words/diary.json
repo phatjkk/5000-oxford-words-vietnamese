@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈdaɪ(ə)ri/"
+    ],
+    "synonyms": [
+        "chronicle",
+        "journal",
+        "record",
+        "register",
+        "log"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A book for keeping such a record.",
+            "vi": "Một cuốn sách để lưu giữ một hồ sơ như vậy."
+        },
+        {
+            "pos": "adjective",
+            "en": "(obsolete) Lasting for one day.",
+            "vi": "(lỗi thời) Kéo dài trong một ngày."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Effie told me about the prostitute whose diary you're reading.",
+            "vi": "Effie kể cho tôi nghe về cô gái điếm mà bạn đang đọc nhật ký."
+        },
+        {
+            "en": "After this, three pages were left blank in the diary, and then the following was written:",
+            "vi": "Sau đó, ba trang được để trống trong nhật ký, và sau đó được viết như sau:"
+        }
+    ],
+    "words_form": [
+        "diaries"
+    ],
+    "meaning_vi": "nhật ký"
+}

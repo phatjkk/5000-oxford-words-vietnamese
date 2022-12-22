@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈprɪz(ə)nər/"
+    ],
+    "synonyms": [
+        "convict",
+        "escapee",
+        "defendant",
+        "hostage",
+        "captive"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person incarcerated in a prison, while on trial or serving a sentence.",
+            "vi": "Một người bị giam trong nhà tù, khi đang bị xét xử hoặc đang thi hành án."
+        },
+        {
+            "pos": "idiom",
+            "en": "take no prisoners  To kill all of an enemy or a population. To be ruthless or unrestrained, as in an undertaking:",
+            "vi": "Không bắt tù nhân Để giết tất cả kẻ thù hoặc dân số. Tàn nhẫn hoặc không kiềm chế, như trong một cam kết:"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The prisoner was led away.",
+            "vi": "Tù nhân bị dẫn đi."
+        },
+        {
+            "en": "She stood before the window, feeling very much like a prisoner in her new world.",
+            "vi": "Cô đứng trước cửa sổ, cảm thấy rất giống một tù nhân trong thế giới mới của mình."
+        }
+    ],
+    "words_form": [
+        "prisoners"
+    ],
+    "meaning_vi": "tù nhân"
+}

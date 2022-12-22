@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ʃʊd/",
+        "/ʃəd/"
+    ],
+    "synonyms": [
+        "ought-to",
+        "must",
+        "could",
+        "shall",
+        "would"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Used to express obligation or duty.",
+            "vi": "Được sử dụng để thể hiện nghĩa vụ hoặc nghĩa vụ."
+        },
+        {
+            "pos": "noun",
+            "en": "A statement of what should be the case as opposed to what is the case.",
+            "vi": "Một tuyên bố về những gì nên là trường hợp trái ngược với trường hợp là gì."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She should wash them, but there wasn't time.",
+            "vi": "Cô nên rửa chúng, nhưng không có thời gian."
+        },
+        {
+            "en": "It should be ready now.",
+            "vi": "Nó sẽ sẵn sàng ngay bây giờ."
+        }
+    ],
+    "words_form": [
+        "shall"
+    ],
+    "meaning_vi": "nên"
+}

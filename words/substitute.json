@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈsəbstəˌt(j)ut/"
+    ],
+    "synonyms": [
+        "substitute",
+        "alternate",
+        "ersatz",
+        "replacement",
+        "swap"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of substitute is someone or something used in place of another person or thing.",
+            "vi": "Định nghĩa về vật thay thế là một ai đó hoặc một cái gì đó được sử dụng thay thế cho một người hoặc một vật khác."
+        },
+        {
+            "pos": "noun",
+            "en": "(grammar) A word or construction used in place of another word, phrase, or clause.",
+            "vi": "(ngữ pháp) Một từ hoặc cấu trúc được sử dụng thay thế cho một từ, cụm từ hoặc mệnh đề khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To put or use (a person or thing) in place of another.",
+            "vi": "Để đặt hoặc sử dụng (một người hoặc một vật) thay cho người khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I was positive all she did was substitute a different one for each letter in the alphabet.",
+            "vi": "Tôi khẳng định tất cả những gì cô ấy làm là thay thế một chữ cái khác cho mỗi chữ cái trong bảng chữ cái."
+        },
+        {
+            "en": "These nuts, as far as they went, were a good substitute for bread.",
+            "vi": "Những loại hạt này, cho đến khi chúng được biết đến, là một chất thay thế tốt cho bánh mì."
+        }
+    ],
+    "words_form": [
+        "substituted",
+        "substitutes",
+        "substituting"
+    ],
+    "meaning_vi": "thay thế"
+}

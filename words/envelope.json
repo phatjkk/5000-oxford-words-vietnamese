@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈɛnvəˌloʊp/",
+        "/ˈɑnvəˌloʊp/"
+    ],
+    "synonyms": [
+        "mailer",
+        "pouch",
+        "hide",
+        "sheath",
+        "cover"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A paper or cardboard wrapper used to enclose small, flat items, especially letters, for mailing.",
+            "vi": "Giấy hoặc bìa cứng được sử dụng để bọc các vật phẩm nhỏ, phẳng, đặc biệt là thư từ, để gửi thư."
+        },
+        {
+            "pos": "verb",
+            "en": "(nonstandard) Alternative spelling of envelop.",
+            "vi": "(không chuẩn) Cách viết khác của phong bì."
+        },
+        {
+            "pos": "idiom",
+            "en": "push the envelope  To exceed or try to exceed the existing limits of a discipline or activity.",
+            "vi": "đẩy phong bì Để vượt quá hoặc cố gắng vượt quá giới hạn hiện có của một kỷ luật hoặc hoạt động."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Ask her where the envelope was postmarked.",
+            "vi": "Hỏi cô ấy nơi phong bì được đóng dấu bưu điện."
+        },
+        {
+            "en": "He pulled photos from the envelope as he spoke.",
+            "vi": "Anh ta lấy ảnh từ phong bì khi nói."
+        }
+    ],
+    "words_form": [
+        "envelopes"
+    ],
+    "meaning_vi": "phong bì"
+}

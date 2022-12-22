@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈwərkər/"
+    ],
+    "synonyms": [
+        "employee",
+        "workingwoman",
+        "actor",
+        "workingman",
+        "apprentice"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person, animal, or thing that works; specif., a person who is employed to do physical or mental work for wages, esp. in order to earn a living, as in a trade, industry, business, office, etc. or on a farm, ranch, etc.",
+            "vi": "Một người, động vật hoặc vật hoạt động; specif., một người được thuê làm công việc thể chất hoặc trí óc để được trả lương, đặc biệt để kiếm sống, như trong thương mại, công nghiệp, kinh doanh, văn phòng, v.v. hoặc ở nông trại, trang trại, v.v."
+        },
+        {
+            "pos": "affix",
+            "en": "A person who works in a (specified) industry or place or with (specified) materials or equipment.",
+            "vi": "Một người làm việc trong một ngành hoặc địa điểm (cụ thể) hoặc với vật liệu hoặc thiết bị (cụ thể)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Worker Chad lives in Chattanooga.",
+            "vi": "Worker Chad sống ở Chattanooga."
+        },
+        {
+            "en": "They were also concerned over yesterday's strange call, apparently from a state worker, asking if they'd heard from the girl.",
+            "vi": "Họ cũng lo lắng về cuộc gọi lạ ngày hôm qua, dường như là từ một công nhân nhà nước, hỏi họ có nghe thấy từ cô gái hay không."
+        }
+    ],
+    "words_form": [
+        "workers"
+    ],
+    "meaning_vi": "công nhân"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈkɑpi/"
+    ],
+    "synonyms": [
+        "imitate",
+        "photocopy",
+        "replication",
+        "mimic",
+        "clone"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make a reproduction or copy of.",
+            "vi": "Để tạo bản sao hoặc bản sao của."
+        },
+        {
+            "pos": "noun",
+            "en": "A thing made just like another; imitation of an original; full reproduction or transcription.",
+            "vi": "Một thứ được làm giống như một thứ khác; bắt chước bản gốc; sao chép hoặc phiên mã đầy đủ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But we have a copy of it.",
+            "vi": "Nhưng chúng tôi có một bản sao của nó."
+        },
+        {
+            "en": "Each of those new cells has a new copy of your DNA.",
+            "vi": "Mỗi tế bào mới đó có một bản sao DNA mới của bạn."
+        }
+    ],
+    "words_form": [
+        "copied",
+        "copies",
+        "copying"
+    ],
+    "meaning_vi": "bản sao"
+}

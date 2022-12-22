@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/waɪn/"
+    ],
+    "synonyms": [
+        "bacchant",
+        "vintage",
+        "alsace",
+        "beaujolais",
+        "chianti"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To drink wine.",
+            "vi": "Uống rượu."
+        },
+        {
+            "pos": "noun",
+            "en": "The color of red wine.",
+            "vi": "Màu của rượu vang đỏ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He finished a couple of bottles of wine by himself.",
+            "vi": "Anh ta đã uống xong một vài chai rượu một mình."
+        },
+        {
+            "en": "She handed him the wine bottle.",
+            "vi": "Cô đưa cho anh chai rượu."
+        }
+    ],
+    "words_form": [
+        "wined",
+        "wines",
+        "wining"
+    ],
+    "meaning_vi": "rượu nho"
+}

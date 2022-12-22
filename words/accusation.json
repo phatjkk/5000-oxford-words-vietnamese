@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌækjəˈzeɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "incrimination",
+        "prosecution",
+        "charge",
+        "complaint",
+        "impeachment"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An act of accusing or the state of being accused.",
+            "vi": "Một hành động buộc tội hoặc trạng thái bị buộc tội."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The history of this accusation is by no means clear.",
+            "vi": "Lịch sử của lời buộc tội này không có nghĩa là rõ ràng."
+        },
+        {
+            "en": "His accusation and fury were plain on his flushed face.",
+            "vi": "Sự buộc tội và giận dữ của anh hiện rõ trên khuôn mặt đỏ bừng của anh."
+        }
+    ],
+    "words_form": [
+        "accusations"
+    ],
+    "meaning_vi": "buộc tội"
+}

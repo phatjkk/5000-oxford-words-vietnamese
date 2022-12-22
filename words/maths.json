@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/mæθs/"
+    ],
+    "synonyms": [
+        "algebra",
+        "calculation",
+        "calculus",
+        "geometry",
+        "math"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Mathematics.",
+            "vi": "Toán học."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I 'm doing a PhD in geophysics after 3 years undergrad maths and 1 year 's masters (in geophysical applied maths).",
+            "vi": "Tôi đang làm tiến sĩ về địa vật lý sau 3 năm đại học toán và 1 năm thạc sĩ (về toán ứng dụng địa vật lý)."
+        },
+        {
+            "en": "The decision was made in anticipation of certain retirements in applied maths around that time.",
+            "vi": "Quyết định được đưa ra với dự đoán về một số người nghỉ hưu trong toán học ứng dụng vào khoảng thời gian đó."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "Mathematics.",
+            "vi": "Toán học."
+        }
+    ]
+}

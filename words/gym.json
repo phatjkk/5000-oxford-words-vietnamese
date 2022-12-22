@@ -1,0 +1,47 @@
+{
+    "spelling": [
+        "/ʤɪm/"
+    ],
+    "synonyms": [
+        "field",
+        "gymnasium",
+        "park",
+        "ring",
+        "rink"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A course in physical education.",
+            "vi": "Một khóa học về giáo dục thể chất."
+        },
+        {
+            "pos": "verb",
+            "en": "(intransitive) To go the gym.",
+            "vi": "(intransitive) Để đi tập thể dục."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Dusty rose to pull on his gym clothes.",
+            "vi": "Dusty đứng dậy để kéo quần áo thể dục của mình."
+        },
+        {
+            "en": "I need an hour in the gym then we'll go over the logistics issues you're inheriting.",
+            "vi": "Tôi cần một giờ trong phòng tập thể dục, sau đó chúng ta sẽ giải quyết các vấn đề hậu cần mà bạn đang thừa hưởng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "A course in physical education.",
+            "vi": "Một khóa học về giáo dục thể chất."
+        },
+        {
+            "pos": "verb",
+            "en": "(intransitive) To go the gym.",
+            "vi": "(intransitive) Để đi tập thể dục."
+        }
+    ]
+}

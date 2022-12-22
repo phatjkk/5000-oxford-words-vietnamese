@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/fil/"
+    ],
+    "synonyms": [
+        "observe",
+        "feeling",
+        "touch",
+        "clasp",
+        "air"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of feel is the perception or sensation of something or the sense of touch.",
+            "vi": "Định nghĩa của cảm giác là nhận thức hoặc cảm giác của một cái gì đó hoặc cảm giác của xúc giác."
+        },
+        {
+            "pos": "verb",
+            "en": "To experience the sensation of touch.",
+            "vi": "Để trải nghiệm cảm giác chạm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Alternative form of fele.",
+            "vi": "Hình thức thay thế của fele."
+        },
+        {
+            "pos": "pronoun",
+            "en": "Alternative form of fele.",
+            "vi": "Hình thức thay thế của fele."
+        },
+        {
+            "pos": "idiom",
+            "en": "feel in (one's) bones  To have an intuition of.",
+            "vi": "cảm thấy trong xương của (một người) Để có một trực giác của."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I feel much better now.",
+            "vi": "Tôi cảm thấy tốt hơn nhiều bây giờ."
+        },
+        {
+            "en": "Do you think Jonathan might feel left out when the new baby comes?",
+            "vi": "Bạn có nghĩ Jonathan có thể cảm thấy bị bỏ rơi khi đứa con mới chào đời không?"
+        }
+    ],
+    "words_form": [
+        "feeling",
+        "feels",
+        "felt"
+    ],
+    "meaning_vi": "cảm thấy"
+}

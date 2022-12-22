@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ˈɛɡˌzaɪl/",
+        "/ˈɛkˌsaɪl/"
+    ],
+    "synonyms": [
+        "banish",
+        "emigration",
+        "deportation",
+        "expulsion",
+        "ostracism"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Exile is defined as being away or restricted from coming to a certain place, usually as a result of a punishment.",
+            "vi": "Lưu đày được định nghĩa là phải đi xa hoặc bị hạn chế đến một nơi nhất định, thường là do bị trừng phạt."
+        },
+        {
+            "pos": "verb",
+            "en": "The definition of exile is to send someone away or ban him from coming to his country.",
+            "vi": "Định nghĩa của lưu đày là gửi một ai đó đi hoặc cấm người đó đến đất nước của mình."
+        },
+        {
+            "pos": "idiom",
+            "en": "in exile  banished taking refuge A government in exile.",
+            "vi": "ở lưu vong bị trục xuất đang trú ẩn Một chính phủ lưu vong."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Even in the darkness of the exile period hopes did not die.",
+            "vi": "Ngay cả trong bóng tối của thời kỳ lưu đày, hy vọng vẫn không chết."
+        },
+        {
+            "en": "When my master recalled me from exile, we had a talk.",
+            "vi": "Khi sư phụ của tôi gọi tôi từ nơi lưu đày, chúng tôi đã có một cuộc nói chuyện."
+        }
+    ],
+    "words_form": [
+        "exiled",
+        "exiles",
+        "exiling"
+    ],
+    "meaning_vi": "lưu vong"
+}

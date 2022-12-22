@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈɔdəm/"
+    ],
+    "synonyms": [
+        "fall",
+        "autumnal-equinox",
+        "spring",
+        "season",
+        "indian-summer"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A period of maturity verging on decline.",
+            "vi": "Một thời kỳ đáo hạn sắp suy giảm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Relating to or occurring in autumn.",
+            "vi": "Liên quan đến hoặc xảy ra vào mùa thu."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A female given name of modern usage, from the name of the season.",
+            "vi": "Một tên nữ được sử dụng hiện đại, từ tên của mùa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was a clear bright autumn day, a Sunday.",
+            "vi": "Đó là một ngày mùa thu trong sáng, một ngày Chủ nhật."
+        },
+        {
+            "en": "It was a warm, dark, autumn night.",
+            "vi": "Đó là một đêm mùa thu ấm áp, tối tăm."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "mùa thu"
+}

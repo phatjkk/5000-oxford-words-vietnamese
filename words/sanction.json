@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈsæŋ(k)ʃ(ə)n/"
+    ],
+    "synonyms": [
+        "consent",
+        "conventional",
+        "command",
+        "authorized",
+        "permit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To sanction is for a recognized authority to give approval to something.",
+            "vi": "Xử phạt là để một cơ quan có thẩm quyền được công nhận chấp thuận cho một cái gì đó."
+        },
+        {
+            "pos": "noun",
+            "en": "Authoritative permission or approval that makes a course of action valid.",
+            "vi": "Sự cho phép hoặc phê duyệt có thẩm quyền làm cho một quá trình hành động có hiệu lực."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We had tacit official sanction, on our terms.",
+            "vi": "Chúng tôi đã có hình thức xử phạt chính thức ngầm, theo các điều khoản của chúng tôi."
+        },
+        {
+            "en": "With the royal sanction a petition was addressed to Sixtus IV.",
+            "vi": "Với sự trừng phạt của hoàng gia, một bản kiến ​​nghị đã được gửi tới Sixtus IV."
+        }
+    ],
+    "words_form": [
+        "sanctioned",
+        "sanctioning",
+        "sanctions"
+    ],
+    "meaning_vi": "phê chuẩn"
+}

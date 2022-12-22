@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈɪnˌteɪk/"
+    ],
+    "synonyms": [
+        "consumption",
+        "input",
+        "ingestion",
+        "admission",
+        "inlet"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An opening by which a fluid is admitted into a container or conduit.",
+            "vi": "Một khe hở mà chất lỏng được đưa vào bình chứa hoặc ống dẫn."
+        },
+        {
+            "pos": "verb",
+            "en": "To take or draw in (in all the senses of the noun).",
+            "vi": "To take or draw in (theo tất cả các nghĩa của danh từ)."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "As for diet, the suggestion was to avoid refined carbohydrates and increase intake of antioxidant foods.",
+            "vi": "Đối với chế độ ăn uống, gợi ý là tránh các loại carbohydrate tinh chế và tăng cường ăn các loại thực phẩm chống oxy hóa."
+        },
+        {
+            "en": "As he opened the door and she caught a glimpse of the music room, he heard her sharp intake of breath.",
+            "vi": "Khi anh mở cửa và cô nhìn thoáng qua phòng âm nhạc, anh nghe thấy tiếng hít thở dồn dập của cô."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "lượng"
+}

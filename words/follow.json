@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈfɑloʊ/"
+    ],
+    "synonyms": [
+        "attend to",
+        "obey",
+        "copy",
+        "attend",
+        "mimic"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To follow is defined as to add someone to the list of people whose posts you see on Twitter.",
+            "vi": "Theo dõi được định nghĩa là thêm ai đó vào danh sách những người có bài đăng bạn thấy trên Twitter."
+        },
+        {
+            "pos": "noun",
+            "en": "(games) A billiards shot in which the cue ball is struck above center so that it follows the path of the object ball after impact.",
+            "vi": "(trò chơi) Một cú đánh bida trong đó bi cái được đánh ở phía trên tâm sao cho nó đi theo đường đi của bi vật thể sau khi va chạm."
+        },
+        {
+            "pos": "idiom",
+            "en": "as follows  As will be stated next. Used to introduce a specified enumeration, explanation, or command.",
+            "vi": "như sau Như sẽ được trình bày tiếp theo. Được sử dụng để giới thiệu một kiểu liệt kê, giải thích hoặc lệnh cụ thể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll follow you back to the house.",
+            "vi": "Tôi sẽ theo bạn trở lại nhà."
+        },
+        {
+            "en": "He motioned to the others to follow and they all went down the path to the building.",
+            "vi": "Anh ta ra hiệu cho những người khác đi theo và tất cả họ đi xuống con đường dẫn đến tòa nhà."
+        }
+    ],
+    "words_form": [
+        "followed",
+        "following",
+        "follows"
+    ],
+    "meaning_vi": "theo"
+}

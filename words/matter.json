@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/ˈmædər/"
+    ],
+    "synonyms": [
+        "material",
+        "stuff",
+        "constituents",
+        "protoplasm",
+        "substance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "That which occupies space and has mass; physical substance.",
+            "vi": "Cái đó chiếm không gian và có khối lượng; chất vật lý."
+        },
+        {
+            "pos": "verb",
+            "en": "To be of importance.",
+            "vi": "Có tầm quan trọng."
+        },
+        {
+            "pos": "idiom",
+            "en": "as a matter of fact  In fact; actually.",
+            "vi": "như một vấn đề của thực tế Trên thực tế; thực ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "As a matter of fact, I think we're on completely different planets.",
+            "vi": "Trên thực tế, tôi nghĩ chúng ta đang ở trên những hành tinh hoàn toàn khác nhau."
+        },
+        {
+            "en": "\"It doesn't matter,\" Alex said.",
+            "vi": "“Không thành vấn đề,” Alex nói."
+        }
+    ],
+    "words_form": [
+        "mattered",
+        "matters"
+    ],
+    "meaning_vi": "vấn đề"
+}

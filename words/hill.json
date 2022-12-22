@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/hɪl/"
+    ],
+    "synonyms": [
+        "promontory",
+        "steep",
+        "inclination",
+        "upgrade",
+        "range"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A small heap, pile, or mound.",
+            "vi": "Một đống, đống hoặc gò nhỏ."
+        },
+        {
+            "pos": "verb",
+            "en": "To form into a hill, pile, or heap.",
+            "vi": "Để tạo thành một ngọn đồi, đống hoặc đống."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1838-1916; U.S. railroad magnate & financier, born in Canada.",
+            "vi": "(người) 1838-1916; Ông trùm đường sắt & nhà tài chính Hoa Kỳ, sinh ra ở Canada."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(US, with the) Capitol Hill; the US Congress.",
+            "vi": "(Hoa Kỳ, với) Đồi Capitol; Quốc hội Hoa Kỳ."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) over the hill  Past one's prime.",
+            "vi": "(không chính thức) trên ngọn đồi Quá khứ của một người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She climbed the hill with dragging steps.",
+            "vi": "Cô leo lên ngọn đồi bằng những bước kéo lê."
+        },
+        {
+            "en": "The car spun around at the bottom of the hill, spraying gravel in a wild circle.",
+            "vi": "Chiếc xe quay vòng dưới chân đồi, rải sỏi thành một vòng hoang vu."
+        }
+    ],
+    "words_form": [
+        "hills"
+    ],
+    "meaning_vi": "đồi núi"
+}

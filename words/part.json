@@ -1,0 +1,65 @@
+{
+    "spelling": [
+        "/pɑrt/"
+    ],
+    "synonyms": [
+        "part",
+        "portion",
+        "section",
+        "piece",
+        "component"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To part is defined as to divide something up or to separate.",
+            "vi": "To part được định nghĩa là để phân chia một thứ gì đó hoặc để tách biệt."
+        },
+        {
+            "pos": "adverb",
+            "en": "Partially; in part.",
+            "vi": "Một phần; một phần."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a part is a portion or division of something.",
+            "vi": "Định nghĩa của một bộ phận là một phần hoặc sự phân chia của một cái gì đó."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Participle.",
+            "vi": "Tham gia."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or having to do with only a part; partial.",
+            "vi": "Của hoặc phải làm với chỉ một phần; một phần."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1935- ; Estonian composer.",
+            "vi": "(người) 1935-; Nhà soạn nhạc người Estonia."
+        },
+        {
+            "pos": "idiom",
+            "en": "for (one's) part  So far as one is concerned.",
+            "vi": "cho phần của (một người) Cho đến nay như một người có liên quan."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They will become part of the solution.",
+            "vi": "Chúng sẽ trở thành một phần của giải pháp."
+        },
+        {
+            "en": "It was part of his personality.",
+            "vi": "Đó là một phần tính cách của anh ấy."
+        }
+    ],
+    "words_form": [
+        "parted",
+        "parting",
+        "parts"
+    ],
+    "meaning_vi": "phần"
+}

@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/wʊd/",
+        "/wəd/",
+        "/(ə)d/"
+    ],
+    "synonyms": [
+        "will",
+        "might",
+        "should",
+        "could",
+        "ought-to"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Used to express repeated or habitual action in the past.",
+            "vi": "Được sử dụng để thể hiện hành động lặp đi lặp lại hoặc theo thói quen trong quá khứ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Would you like to read his speech?",
+            "vi": "Bạn có muốn đọc bài phát biểu của anh ấy không?"
+        },
+        {
+            "en": "That would be the best way.",
+            "vi": "Đó sẽ là cách tốt nhất."
+        }
+    ],
+    "words_form": [
+        "would"
+    ],
+    "meaning_vi": "nào"
+}

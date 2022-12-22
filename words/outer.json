@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈaʊdər/"
+    ],
+    "synonyms": [
+        "outward",
+        "exposed",
+        "exterior",
+        "outside",
+        "beyond"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Located on the outside; external.",
+            "vi": "Nằm ở phía ngoài; bên ngoài."
+        },
+        {
+            "pos": "noun",
+            "en": "An outer part.",
+            "vi": "Một phần bên ngoài."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The lower jaw has no pocket on the outer side.",
+            "vi": "Hàm dưới không có túi ở mặt ngoài."
+        },
+        {
+            "en": "His tiny fist clutched the outer seam of her jeans.",
+            "vi": "Nắm tay nhỏ xíu của anh nắm chặt đường may bên ngoài quần jean của cô."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bên ngoài"
+}

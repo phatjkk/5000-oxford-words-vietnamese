@@ -1,0 +1,53 @@
+{
+    "spelling": [
+        "/wərθ/"
+    ],
+    "synonyms": [
+        "value",
+        "deserving",
+        "good for",
+        "goodness",
+        "significance"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of worth is excellence, usefulness or value.",
+            "vi": "Định nghĩa của giá trị là xuất sắc, hữu ích hoặc giá trị."
+        },
+        {
+            "pos": "preposition",
+            "en": "Worth is defined as having value, whether in money or otherwise.",
+            "vi": "Giá trị được định nghĩa là có giá trị, cho dù bằng tiền hay cách khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To befall; betide.",
+            "vi": "Sắp xảy ra; betide."
+        },
+        {
+            "pos": "adjective",
+            "en": "Having wealth or riches amounting to.",
+            "vi": "Có của cải hoặc giàu có lên tới."
+        },
+        {
+            "pos": "idiom",
+            "en": "for all (one) is worth  To the utmost of one's powers or ability.",
+            "vi": "cho tất cả (một) là giá trị Tối đa quyền hạn hoặc khả năng của một người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "That was worth the wait.",
+            "vi": "Điều đó đáng để chờ đợi."
+        },
+        {
+            "en": "Whatever the case, it certainly wasn't worth arguing about.",
+            "vi": "Dù thế nào đi nữa, chắc chắn nó không đáng để tranh cãi."
+        }
+    ],
+    "words_form": [
+        "worths"
+    ],
+    "meaning_vi": "giá trị"
+}

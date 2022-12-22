@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/kæt/"
+    ],
+    "synonyms": [
+        "kitty-cat",
+        "feline",
+        "kitten",
+        "cheetah",
+        "puss"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To hoist an anchor to (the cathead).",
+            "vi": "Để kéo một mỏ neo tới (đầu tàu)."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Catechism.",
+            "vi": "Giáo lý."
+        },
+        {
+            "pos": "noun",
+            "en": "(slang, vulgar, African American Vernacular) A vagina; female external genitalia.",
+            "vi": "(tiếng lóng, thô tục, bản ngữ người Mỹ gốc Phi) Một âm đạo; cơ quan sinh dục ngoài của nữ."
+        },
+        {
+            "pos": "adjective",
+            "en": "(Ireland, informal) Terrible, disastrous.",
+            "vi": "(Ireland, thân mật) Kinh khủng, thảm hại."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A diminutive of the female given name Catherine.",
+            "vi": "Một chi tiết nhỏ của người phụ nữ được đặt tên Catherine."
+        },
+        {
+            "pos": "idiom",
+            "en": "let the cat out of the bag  To let a secret be known.",
+            "vi": "let the cat out of the bag Để cho một bí mật được biết đến."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I think the cat wants dessert!",
+            "vi": "Tôi nghĩ rằng con mèo muốn món tráng miệng!"
+        },
+        {
+            "en": "I'm in no mood to watch a cat fight tonight.",
+            "vi": "Tôi không có tâm trạng để xem một cuộc chiến với mèo tối nay."
+        }
+    ],
+    "words_form": [
+        "cats",
+        "catted",
+        "catting"
+    ],
+    "meaning_vi": "con mèo"
+}

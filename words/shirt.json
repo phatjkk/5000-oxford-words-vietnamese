@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ʃərt/"
+    ],
+    "synonyms": [
+        "tunic",
+        "jersey",
+        "pullover",
+        "tracksuit",
+        "dress"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An undershirt.",
+            "vi": "Một chiếc áo lót."
+        },
+        {
+            "pos": "verb",
+            "en": "To cover or clothe with a shirt, or as if with a shirt.",
+            "vi": "Để che hoặc mặc với áo sơ mi, hoặc như thể với áo sơ mi."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) keep (one's) shirt on  To remain calm or patient: The plane doesn't land for another hour, so keep your shirt on.",
+            "vi": "(tiếng lóng) giữ áo sơ mi của (một người) Để giữ bình tĩnh hoặc kiên nhẫn: Máy bay không hạ cánh trong một giờ nữa, vì vậy hãy giữ áo sơ mi của bạn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Let's go,\" Alex said, tucking his shirt into his pants.",
+            "vi": "“Đi thôi,” Alex nói, nhét áo vào quần."
+        },
+        {
+            "en": "She glanced down at her shirt and then laughed with relief.",
+            "vi": "Cô nhìn xuống áo sơ mi của mình rồi bật cười nhẹ nhõm."
+        }
+    ],
+    "words_form": [
+        "shirts"
+    ],
+    "meaning_vi": "áo sơ mi"
+}

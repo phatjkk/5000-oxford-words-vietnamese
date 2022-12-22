@@ -1,0 +1,65 @@
+{
+    "spelling": [
+        "/hoʊm/"
+    ],
+    "synonyms": [
+        "shelter",
+        "house",
+        "apartment",
+        "homestead",
+        "nest"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The place where something is discovered, founded, developed, or promoted; a source.",
+            "vi": "Nơi mà một cái gì đó được khám phá, thành lập, phát triển hoặc quảng bá; một nguồn."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of home is something that relates to or happens inside the place where a person or family resides.",
+            "vi": "Định nghĩa về nhà là một cái gì đó liên quan đến hoặc xảy ra bên trong nơi một người hoặc gia đình cư trú."
+        },
+        {
+            "pos": "adverb",
+            "en": "To the center or heart of something; deeply.",
+            "vi": "Đến trung tâm hoặc trái tim của một cái gì đó; sâu sắc."
+        },
+        {
+            "pos": "verb",
+            "en": "To guide (a missile or aircraft) to a target.",
+            "vi": "Để dẫn đường (tên lửa hoặc máy bay) đến mục tiêu."
+        },
+        {
+            "pos": "prefix",
+            "en": "Alternative spelling of homoe-.",
+            "vi": "Cách viết thay thế của từ đồng âm-."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A habitational surname​.",
+            "vi": "Họ theo thói quen."
+        },
+        {
+            "pos": "idiom",
+            "en": "at home  Available to receive visitors: At home on Thursdays.Comfortable and relaxed; at ease: At home in diplomatic circles.Feeling an easy competence and familiarity: At home in French.",
+            "vi": "tại nhà Sẵn sàng tiếp khách: Tại nhà vào thứ 5 hàng tuần. Thoải mái, thư thái; thoải mái: Ở nhà trong giới ngoại giao Cảm thấy năng lực và sự quen thuộc dễ dàng: Ở nhà bằng tiếng Pháp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Daddy went home to sleep.",
+            "vi": "Ba về nhà ngủ đi."
+        },
+        {
+            "en": "Now go home and get some rest.",
+            "vi": "Bây giờ hãy về nhà và nghỉ ngơi một chút."
+        }
+    ],
+    "words_form": [
+        "homed",
+        "homes",
+        "homing"
+    ],
+    "meaning_vi": "nhà"
+}

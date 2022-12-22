@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/pəˈzɪʃ(ə)n/"
+    ],
+    "synonyms": [
+        "spot",
+        "seat",
+        "location",
+        "locality",
+        "posture"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Position is how a person or thing is placed or an opinion or where a person or thing is located in relation to others.",
+            "vi": "Vị trí là cách một người hoặc một vật được đặt hoặc một ý kiến ​​hoặc vị trí của một người hoặc sự vật trong mối quan hệ với những người khác."
+        },
+        {
+            "pos": "verb",
+            "en": "To put in place or position.",
+            "vi": "Để đặt vào vị trí hoặc vị trí."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She fluffed the pillow and changed position, unable to sleep.",
+            "vi": "Cô xới tung cái gối và thay đổi tư thế, không tài nào chợp mắt được."
+        },
+        {
+            "en": "Han chuckled from his position near the window.",
+            "vi": "Han cười khúc khích rời khỏi vị trí gần cửa sổ."
+        }
+    ],
+    "words_form": [
+        "positioned",
+        "positioning",
+        "positions"
+    ],
+    "meaning_vi": "chức vụ"
+}

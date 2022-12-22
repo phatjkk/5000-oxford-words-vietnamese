@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/mɪs/"
+    ],
+    "synonyms": [
+        "lass",
+        "crave",
+        "yearn",
+        "desire",
+        "mistress"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To fail to answer correctly.",
+            "vi": "Để không trả lời chính xác."
+        },
+        {
+            "pos": "noun",
+            "en": "A failure to hit or make contact with something.",
+            "vi": "Không thể đánh trúng hoặc tiếp xúc với một thứ gì đó."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Mississippi.",
+            "vi": "Mississippi."
+        },
+        {
+            "pos": "idiom",
+            "en": "miss fire  To fail to discharge. Used of a firearm. To fail to achieve the anticipated result.",
+            "vi": "lỡ cháy Để không xả được. Được sử dụng của một khẩu súng. Để không đạt được kết quả như mong đợi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"I miss you,\" he whispered.",
+            "vi": "“Anh nhớ em,” anh thì thầm."
+        },
+        {
+            "en": "Finally Miss Clara gathered her papers.",
+            "vi": "Cuối cùng cô Clara cũng thu thập được giấy tờ của mình."
+        }
+    ],
+    "words_form": [
+        "missed",
+        "misses",
+        "missing"
+    ],
+    "meaning_vi": "Nhớ"
+}

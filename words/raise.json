@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/reɪz/"
+    ],
+    "synonyms": [
+        "increase",
+        "lift",
+        "lift-up",
+        "advance",
+        "spur"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To increase in size, quantity, or worth.",
+            "vi": "Để tăng kích thước, số lượng hoặc giá trị."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a raise refers to having your salary increased or a higher bet in a gambling game such as poker.",
+            "vi": "Định nghĩa tăng lương đề cập đến việc bạn được tăng lương hoặc đặt cược cao hơn trong một trò chơi cờ bạc như poker."
+        },
+        {
+            "pos": "idiom",
+            "en": "raise Cain  To behave in a rowdy or disruptive fashion. To reprimand someone angrily.",
+            "vi": "tăng Cain Để cư xử theo kiểu ồn ào hoặc gây rối. Để khiển trách ai đó một cách giận dữ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can raise the baby...",
+            "vi": "Tôi có thể nuôi nấng đứa bé ..."
+        },
+        {
+            "en": "It looks like a fine place to raise children.",
+            "vi": "Nó trông giống như một nơi tốt để nuôi dạy trẻ em."
+        }
+    ],
+    "words_form": [
+        "raised",
+        "raises",
+        "raising"
+    ],
+    "meaning_vi": "nâng cao"
+}

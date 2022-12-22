@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈvaɪ(ə)lənt/"
+    ],
+    "synonyms": [
+        "fierce",
+        "savage",
+        "vehement",
+        "tempestuous",
+        "coercive"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of violent is forceful, dangerous or causing great injury or death.",
+            "vi": "Định nghĩa về bạo lực là bạo lực, nguy hiểm hoặc gây thương tích lớn hoặc tử vong."
+        },
+        {
+            "pos": "verb",
+            "en": "(archaic) To urge with violence.",
+            "vi": "(cổ xưa) Để thúc giục bằng bạo lực."
+        },
+        {
+            "pos": "noun",
+            "en": "(obsolete) An assailant.",
+            "vi": "(lỗi thời) Một kẻ tấn công."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I think you mean not as violent as I am.",
+            "vi": "Tôi nghĩ rằng bạn có nghĩa là không bạo lực như tôi."
+        },
+        {
+            "en": "Has he ever been violent like this before?",
+            "vi": "Anh ấy đã từng bạo lực như thế này bao giờ chưa?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "hung bạo"
+}

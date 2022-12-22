@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/dræft/"
+    ],
+    "synonyms": [
+        "outline",
+        "select",
+        "glass",
+        "dose",
+        "sketch"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Draft means air drifting in an enclosed space.",
+            "vi": "Dự thảo có nghĩa là không khí trôi trong một không gian kín."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of draft is something that is used for pulling, drawn from a cask or is in a rough form.",
+            "vi": "Định nghĩa về hối phiếu là thứ được dùng để kéo, rút ​​ra từ thùng hoặc ở dạng thô."
+        },
+        {
+            "pos": "verb",
+            "en": "Draft is to choose or take someone or something for a special purpose.",
+            "vi": "Nháp là để chọn hoặc lấy một ai đó hoặc một cái gì đó cho một mục đích đặc biệt."
+        },
+        {
+            "pos": "idiom",
+            "en": "on draft  Drawn from a large container, such as a keg.",
+            "vi": "trên bản nháp Được rút ra từ một thùng chứa lớn, chẳng hạn như một thùng hàng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was a draft of the work published in 1650 under the same title.",
+            "vi": "Đó là bản thảo của tác phẩm được xuất bản năm 1650 với cùng tiêu đề."
+        },
+        {
+            "en": "The facts of the problem would all appear covered by the hypothesis that John the presbyter, the eleven being all dead, wrote the book of Revelation (its more ancient Christian portions) say in 69, and died at Ephesus say in loo; that the author of the Gospel wrote the first draft, here, say in 97; that this book, expanded by him, first circulated within a select Ephesian Christian circle; and that the Ephesian church officials added to it the appendix and published it in 110 -120.",
+            "vi": "Tất cả các sự thật của vấn đề sẽ xuất hiện bởi giả thuyết rằng John trưởng lão, mười một người đều đã chết, đã viết cuốn sách Khải Huyền (các phần Cơ đốc giáo cổ hơn của nó) nói vào năm 69, và chết tại Ephesus nói trong loo; rằng tác giả của Phúc Âm đã viết bản thảo đầu tiên, ở đây, nói rằng vào năm 97; rằng cuốn sách này, do ông mở rộng, lần đầu tiên được lưu hành trong một vòng tròn Cơ đốc giáo ở Ê-phê-sô; và các quan chức nhà thờ Ê-phê-sô đã thêm vào phần phụ lục và xuất bản nó vào năm 110 -120."
+        }
+    ],
+    "words_form": [
+        "drafted",
+        "drafting",
+        "drafts"
+    ],
+    "meaning_vi": "bản nháp"
+}

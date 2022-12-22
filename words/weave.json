@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/wiv/"
+    ],
+    "synonyms": [
+        "crisscross",
+        "plait",
+        "wobble",
+        "blend",
+        "careen"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To weave is to interlace pieces of something together.",
+            "vi": "Dệt là đan xen các mảnh của một thứ gì đó với nhau."
+        },
+        {
+            "pos": "noun",
+            "en": "A type or way of weaving.",
+            "vi": "Một kiểu hoặc cách dệt."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They also weave cloth, make pottery and smelt iron.",
+            "vi": "Họ cũng dệt vải, làm đồ gốm và nấu chảy sắt."
+        },
+        {
+            "en": "Most of the cloth which the natives wear the women weave in their own homes.",
+            "vi": "Hầu hết các loại vải mà người bản địa mặc đều được phụ nữ dệt tại nhà của họ."
+        }
+    ],
+    "words_form": [
+        "weaved",
+        "weaves",
+        "weaving",
+        "wove",
+        "woven"
+    ],
+    "meaning_vi": "dệt"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˌdʒʊrəsˈdɪkʃ(ə)n/"
+    ],
+    "synonyms": [
+        "supervision",
+        "field",
+        "purview",
+        "power",
+        "statute"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Jurisdiction is defined as the power or authority to decide legal cases.",
+            "vi": "Quyền tài phán được định nghĩa là quyền lực hoặc thẩm quyền quyết định các vụ việc pháp lý."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We have jurisdiction on kidnappings.",
+            "vi": "Chúng tôi có thẩm quyền về các vụ bắt cóc."
+        },
+        {
+            "en": "It's not even my jurisdiction, even if there was something I could do.",
+            "vi": "Đó thậm chí không phải là quyền hạn của tôi, ngay cả khi tôi có thể làm gì đó."
+        }
+    ],
+    "words_form": [
+        "jurisdictions"
+    ],
+    "meaning_vi": "quyền hạn"
+}

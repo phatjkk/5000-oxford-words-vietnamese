@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/heɪt/"
+    ],
+    "synonyms": [
+        "hostility",
+        "loathing",
+        "abhor",
+        "scorn",
+        "aversion"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To hate is defined as to feel strong and intense aversion or dislike.",
+            "vi": "Ghét được định nghĩa là cảm thấy chán ghét hoặc không thích mạnh mẽ và dữ dội."
+        },
+        {
+            "pos": "noun",
+            "en": "A strong feeling of dislike or ill will; hatred.",
+            "vi": "Cảm giác không thích hoặc ác ý mạnh mẽ; sự thù ghét."
+        },
+        {
+            "pos": "adjective",
+            "en": "Based on, expressing, or characterized by hatred, esp. hatred of a particular race, religion, etc.",
+            "vi": "Dựa trên, thể hiện hoặc được đặc trưng bởi sự thù hận, đặc biệt. lòng căm thù một chủng tộc, tôn giáo cụ thể, v.v."
+        },
+        {
+            "pos": "idiom",
+            "en": "(slang) hate on (someone)  To ridicule, insult, or act hatefully toward: Stop hating on them—they're my friends.",
+            "vi": "(tiếng lóng) ghét (ai đó) Để chế giễu, xúc phạm hoặc hành động thù địch: Đừng ghét họ nữa — họ là bạn của tôi."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I hate peanut butter.",
+            "vi": "Tôi ghét bơ đậu phộng."
+        },
+        {
+            "en": "He was beginning to hate the cold.",
+            "vi": "Anh bắt đầu ghét cái lạnh."
+        }
+    ],
+    "words_form": [
+        "hated",
+        "hates",
+        "hating"
+    ],
+    "meaning_vi": "ghét bỏ"
+}

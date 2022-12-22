@@ -1,0 +1,52 @@
+{
+    "spelling": [
+        "/ɡeɪm/"
+    ],
+    "synonyms": [
+        "amusement",
+        "sport",
+        "prey",
+        "contest",
+        "match"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To play computer or video games.",
+            "vi": "Để chơi máy tính hoặc trò chơi điện tử."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a game is something you play for fun, sport or as a competitive activity.",
+            "vi": "Định nghĩa của một trò chơi là một thứ gì đó bạn chơi để giải trí, thể thao hoặc như một hoạt động cạnh tranh."
+        },
+        {
+            "pos": "adjective",
+            "en": "Crippled; lame.",
+            "vi": "Tàn tật; què."
+        },
+        {
+            "pos": "idiom",
+            "en": "ahead of the game  In a position of advantage; winning or succeeding.",
+            "vi": "dẫn trước trò chơi Ở một vị trí có lợi; chiến thắng hoặc thành công."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's a game, like a treasure hunt.",
+            "vi": "Đó là một trò chơi, giống như một cuộc truy tìm kho báu."
+        },
+        {
+            "en": "He smiled to himself, enjoying the game they always played.",
+            "vi": "Anh mỉm cười với chính mình, tận hưởng trò chơi mà họ luôn chơi."
+        }
+    ],
+    "words_form": [
+        "gamed",
+        "gamer",
+        "games",
+        "gamest",
+        "gaming"
+    ],
+    "meaning_vi": "trò chơi"
+}

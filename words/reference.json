@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈrɛf(ə)rəns/"
+    ],
+    "synonyms": [
+        "associating",
+        "respect",
+        "citation",
+        "connecting",
+        "address"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Reference is defined as a mention of a situation.",
+            "vi": "Tham chiếu được định nghĩa là một đề cập đến một tình huống."
+        },
+        {
+            "pos": "verb",
+            "en": "To provide with references.",
+            "vi": "Để cung cấp tài liệu tham khảo."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of books and other materials for use in research, as in a library.",
+            "vi": "Chỉ định hoặc sách và các tài liệu khác để sử dụng trong nghiên cứu, như trong thư viện."
+        },
+        {
+            "pos": "idiom",
+            "en": "in  In connection with; in relation to: This letter is in reference to the invoice that accompanied the package.",
+            "vi": "liên quan đến; liên quan đến: Thư này liên quan đến hóa đơn đi kèm gói hàng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Fred ignored Dean's reference to pudginess.",
+            "vi": "Fred đã phớt lờ lời đề cập của Dean về sự thận trọng."
+        },
+        {
+            "en": "When she made reference to the tragic story, the whole room burst into tears.",
+            "vi": "Khi cô nhắc đến câu chuyện thương tâm, cả khán phòng đều bật khóc."
+        }
+    ],
+    "words_form": [
+        "referenced",
+        "references",
+        "referencing"
+    ],
+    "meaning_vi": "tài liệu tham khảo"
+}

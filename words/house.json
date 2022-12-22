@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/haʊs/"
+    ],
+    "synonyms": [
+        "home",
+        "mansion",
+        "abode",
+        "chateau",
+        "household"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "House is defined as to provide someone or something with shelter or a place to live.",
+            "vi": "Nhà được định nghĩa là cung cấp cho ai đó hoặc một cái gì đó nơi trú ẩn hoặc một nơi để ở."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a house is a building or shelter where people or animals live.",
+            "vi": "Định nghĩa của một ngôi nhà là một tòa nhà hoặc nơi trú ẩn, nơi con người hoặc động vật sinh sống."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of a salad dressing, type of wine, etc. featured at a particular bar or restaurant.",
+            "vi": "Chỉ định hoặc nước xốt salad, loại rượu, v.v. đặc trưng tại một quán bar hoặc nhà hàng cụ thể."
+        },
+        {
+            "pos": "pronoun",
+            "en": "(US) The House of Representatives, \"the House\".",
+            "vi": "(Hoa Kỳ) Hạ viện, \"Hạ viện\"."
+        },
+        {
+            "pos": "idiom",
+            "en": "(informal) like a house on fire  In an extremely speedy manner: Ran away like a house on fire; tickets that sold like a house afire.",
+            "vi": "(không chính thức) như một ngôi nhà cháy Theo một cách cực kỳ nhanh chóng: Chạy đi như một ngôi nhà đang cháy; vé bán như cháy nhà."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A house without children is not a home.",
+            "vi": "Một ngôi nhà không có trẻ em không phải là một tổ ấm."
+        },
+        {
+            "en": "Living in that house and using the pool would be like a summer vacation, not a job.",
+            "vi": "Sống trong ngôi nhà đó và sử dụng hồ bơi sẽ giống như một kỳ nghỉ hè, không phải là một công việc."
+        }
+    ],
+    "words_form": [
+        "housed",
+        "houses",
+        "housing"
+    ],
+    "meaning_vi": "ngôi nhà"
+}

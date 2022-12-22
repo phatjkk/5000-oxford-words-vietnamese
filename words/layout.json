@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈleɪˌaʊt/"
+    ],
+    "synonyms": [
+        "arrangement",
+        "draft",
+        "lineup",
+        "planned",
+        "design"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a layout is an arrangement, plan or design.",
+            "vi": "Định nghĩa của một bố cục là một sự sắp xếp, kế hoạch hoặc thiết kế."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The site doesn't look very good with the current layout.",
+            "vi": "Trang web trông không đẹp lắm với bố cục hiện tại."
+        },
+        {
+            "en": "From the layout, she expected it was A'Ran's conference room for meeting with his advisors.",
+            "vi": "Từ cách bài trí, cô dự đoán đây là phòng họp của A'Ran để gặp gỡ các cố vấn của anh ấy."
+        }
+    ],
+    "words_form": [
+        "layouts"
+    ],
+    "meaning_vi": "bố trí"
+}

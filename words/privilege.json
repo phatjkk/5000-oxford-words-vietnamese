@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈprɪv(ə)lɪdʒ/"
+    ],
+    "synonyms": [
+        "honor",
+        "advantage",
+        "privileged",
+        "perquisite",
+        "prerogative"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An advantage that is not enjoyed by everyone; a special exemption, immunity, or legal right granted to a person or a class of persons; an exception.",
+            "vi": "Một lợi thế mà không phải ai cũng được hưởng; một quyền miễn trừ, miễn trừ đặc biệt, hoặc quyền hợp pháp được cấp cho một người hoặc một nhóm người; một ngoại lệ."
+        },
+        {
+            "pos": "verb",
+            "en": "To grant a privilege or privileges to.",
+            "vi": "Để cấp một đặc quyền hoặc đặc quyền cho."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It did not turn his mill, and it was no privilege to him to behold it.",
+            "vi": "Nó không quay cối xay của anh ta, và anh ta không có đặc ân nào được nhìn thấy nó."
+        },
+        {
+            "en": "She started to protest attorney-client privilege but he shook his head.",
+            "vi": "Cô bắt đầu phản đối đặc quyền của luật sư-khách hàng nhưng anh ta lắc đầu."
+        }
+    ],
+    "words_form": [
+        "privileged",
+        "privileges",
+        "privileging"
+    ],
+    "meaning_vi": "đặc quyền"
+}

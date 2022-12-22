@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/prəˈspɛktɪv/"
+    ],
+    "synonyms": [
+        "promised",
+        "planned",
+        "considered",
+        "possible",
+        "proposed"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Expected; likely; future.",
+            "vi": "Kỳ vọng; rất có thể; Tương lai."
+        },
+        {
+            "pos": "noun",
+            "en": "(informal, often plural) A prospective (potential) member, student, employee, date, partner, etc.",
+            "vi": "(không chính thức, thường là số nhiều) Một thành viên tiềm năng (tiềm năng), sinh viên, nhân viên, người hẹn hò, đối tác, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Three prospective buyers had looked at the house and at least one seemed interested.",
+            "vi": "Ba người mua tiềm năng đã xem ngôi nhà và ít nhất một người có vẻ quan tâm."
+        },
+        {
+            "en": "If she openly admired him in front of her prospective employer, what would she do when she was alone with him?",
+            "vi": "Nếu cô công khai ngưỡng mộ anh trước mặt chủ nhân tương lai của mình, cô sẽ làm gì khi ở một mình với anh?"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tiềm năng"
+}

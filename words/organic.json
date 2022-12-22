@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ɔrˈɡænɪk/"
+    ],
+    "synonyms": [
+        "natural",
+        "alive",
+        "pure",
+        "vital",
+        "essential"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(law) Designating or of the fundamental, or constitutional, law of a state.",
+            "vi": "(luật) Chỉ định hoặc của luật cơ bản, hoặc hiến pháp của một tiểu bang."
+        },
+        {
+            "pos": "noun",
+            "en": "An organic food or a product made from organic materials.",
+            "vi": "Một thực phẩm hữu cơ hoặc một sản phẩm được làm từ vật liệu hữu cơ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "People who buy organic food, for instance, are not doing it simply because they have more money.",
+            "vi": "Ví dụ, những người mua thực phẩm hữu cơ không làm điều đó đơn giản vì họ có nhiều tiền hơn."
+        },
+        {
+            "en": "Nature is essentially a process of organic self-evolution.",
+            "vi": "Tự nhiên thực chất là một quá trình tự tiến hóa hữu cơ."
+        }
+    ],
+    "words_form": [
+        "organics"
+    ],
+    "meaning_vi": "hữu cơ"
+}

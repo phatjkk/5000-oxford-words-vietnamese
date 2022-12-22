@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/pəˈtɛn(t)ʃəl/"
+    ],
+    "synonyms": [
+        "capability",
+        "possible",
+        "likely",
+        "potential drop",
+        "dormant"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Potential is defined as the possibility of becoming something.",
+            "vi": "Tiềm năng được định nghĩa là khả năng trở thành một cái gì đó."
+        },
+        {
+            "pos": "adjective",
+            "en": "Capable of being but not yet in existence; latent or undeveloped.",
+            "vi": "Có khả năng tồn tại nhưng chưa tồn tại; tiềm ẩn hoặc chưa phát triển."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What is the potential impact of the costs of future technologies?",
+            "vi": "Tác động tiềm tàng của chi phí của các công nghệ tương lai là gì?"
+        },
+        {
+            "en": "I am eager to do what I can to help the children of our Province reach full potential.",
+            "vi": "Tôi háo hức làm những gì có thể để giúp trẻ em của Tỉnh chúng ta phát huy hết tiềm năng."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "tiềm năng"
+}

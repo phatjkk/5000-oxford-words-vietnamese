@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/spaʊs/",
+        "/spaʊz/"
+    ],
+    "synonyms": [
+        "husband",
+        "wife",
+        "consort",
+        "partner",
+        "better half"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Your spouse is the person to whom you are married; your husband or wife.",
+            "vi": "Vợ / chồng của bạn là người mà bạn đã kết hôn; chồng hoặc vợ của bạn."
+        },
+        {
+            "pos": "verb",
+            "en": "(dated) To wed; to espouse.",
+            "vi": "(ngày) Để kết hôn; để tán tỉnh."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "And if everyone who hit their spouse landed in jail, we might be rather shocked at the percentage.",
+            "vi": "Và nếu tất cả những ai đánh vợ / chồng của họ đều phải vào tù, chúng ta có thể bị sốc về tỷ lệ phần trăm."
+        },
+        {
+            "en": "She is dressed in bridal white with wreath and veil, and receives a wedding-ring, as spouse of the Church.",
+            "vi": "Cô ấy mặc đồ cô dâu màu trắng với vòng hoa và mạng che mặt, và nhận một chiếc nhẫn cưới, với tư cách là người phối ngẫu của Nhà thờ."
+        }
+    ],
+    "words_form": [
+        "spoused",
+        "spouses",
+        "spousing"
+    ],
+    "meaning_vi": "vợ / chồng"
+}

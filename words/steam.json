@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/stim/"
+    ],
+    "synonyms": [
+        "speed",
+        "vapor",
+        "drive",
+        "cook",
+        "cloud"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To produce or emit steam.",
+            "vi": "Để sản xuất hoặc phát ra hơi nước."
+        },
+        {
+            "pos": "noun",
+            "en": "(obs.) A vapor, fume, or exhalation.",
+            "vi": "(obs.) Hơi, khói, hoặc thở ra."
+        },
+        {
+            "pos": "adjective",
+            "en": "Treated with, or exposed to the action of, steam.",
+            "vi": "Được xử lý hoặc tiếp xúc với tác động của hơi nước."
+        },
+        {
+            "pos": "initialism",
+            "en": "Initialism of Serial Time-Encoded Amplified Microscopy.",
+            "vi": "Chủ nghĩa ban đầu của kính hiển vi khuếch đại được mã hóa theo thời gian nối tiếp."
+        },
+        {
+            "pos": "idiom",
+            "en": "let off steam  to express strong feeling; release pent-up emotion",
+            "vi": "xả hơi để thể hiện cảm giác mạnh; giải phóng cảm xúc dồn nén"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Father took us to see steam boat it is like house.",
+            "vi": "Cha đưa chúng tôi đi xem tàu ​​hơi nước nó giống như một ngôi nhà."
+        },
+        {
+            "en": "We'll just have to let him blow off some steam, and then he'll come around.",
+            "vi": "Chúng ta sẽ phải để anh ta xả hơi, và sau đó anh ta sẽ quay lại."
+        }
+    ],
+    "words_form": [
+        "steamed",
+        "steaming",
+        "steams"
+    ],
+    "meaning_vi": "hơi nước"
+}

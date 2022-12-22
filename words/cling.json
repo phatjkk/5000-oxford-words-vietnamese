@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/klɪŋ/"
+    ],
+    "synonyms": [
+        "hug",
+        "clinch",
+        "linger",
+        "adhere",
+        "hold fast"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To hold fast or adhere to something, as by grasping, sticking, embracing, or entwining.",
+            "vi": "Để giữ nhanh hoặc bám chặt vào một thứ gì đó, chẳng hạn như nắm, bám, ôm hoặc quấn vào nhau."
+        },
+        {
+            "pos": "noun",
+            "en": "A clingstone fruit.",
+            "vi": "Một quả đá bám."
+        },
+        {
+            "pos": "adjective",
+            "en": "Clingstone.",
+            "vi": "Đá tảng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Don't cling to the first thing you see.",
+            "vi": "Đừng bám vào điều đầu tiên bạn nhìn thấy."
+        },
+        {
+            "en": "She patted the statue, feeling the magic cling to her as she rose.",
+            "vi": "Cô vỗ nhẹ vào bức tượng, cảm thấy ma thuật đeo bám cô khi cô đứng dậy."
+        }
+    ],
+    "words_form": [
+        "clinging",
+        "clings",
+        "clung"
+    ],
+    "meaning_vi": "bám"
+}

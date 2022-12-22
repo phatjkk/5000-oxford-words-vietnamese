@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/prəˈd(j)us/"
+    ],
+    "synonyms": [
+        "crop",
+        "fruitage",
+        "harvest",
+        "play",
+        "product"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To provide or put forward.",
+            "vi": "Để cung cấp hoặc đưa ra."
+        },
+        {
+            "pos": "noun",
+            "en": "Something produced; yield; esp., fresh fruits and vegetables.",
+            "vi": "Một cái gì đó được sản xuất; năng suất; đặc biệt là trái cây tươi và rau quả."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We already produce more than enough food to feed the planet.",
+            "vi": "Chúng ta đã sản xuất nhiều hơn đủ lương thực để nuôi hành tinh."
+        },
+        {
+            "en": "Tobacco, vegetables and other garden produce are much cultivated; cotton could probably be grown with profit.",
+            "vi": "Thuốc lá, rau và các sản phẩm vườn khác được trồng nhiều; bông có thể được trồng với lợi nhuận."
+        }
+    ],
+    "words_form": [
+        "produced",
+        "produces",
+        "producing"
+    ],
+    "meaning_vi": "sản xuất"
+}

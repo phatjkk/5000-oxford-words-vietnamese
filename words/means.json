@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/minz/"
+    ],
+    "synonyms": [
+        "method",
+        "mode",
+        "instrumentality",
+        "implies",
+        "intends"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(countable, singular and plural) An instrument or condition for attaining a purpose.",
+            "vi": "(đếm được, số ít và số nhiều) Một công cụ hoặc điều kiện để đạt được một mục đích."
+        },
+        {
+            "pos": "verb",
+            "en": "Third-person singular simple present indicative form of mean.",
+            "vi": "Ngôi thứ ba số ít, hiện tại đơn giản dạng biểu thị ý nghĩa."
+        },
+        {
+            "pos": "pluralNoun",
+            "en": "That by which something is done or obtained; agency.",
+            "vi": "Điều gì đó được thực hiện hoặc thu được; hang."
+        },
+        {
+            "pos": "idiom",
+            "en": "by all means  without fail of course; certainly",
+            "vi": "tất nhiên bằng mọi cách mà không thất bại; chắc chắn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He means, we're in no rush.",
+            "vi": "Ý anh ấy là, chúng tôi không vội vàng."
+        },
+        {
+            "en": "If it means that much to you, there is a way.",
+            "vi": "Nếu nó có ý nghĩa nhiều với bạn, thì có một cách."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "có nghĩa"
+}

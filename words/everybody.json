@@ -1,0 +1,32 @@
+{
+    "spelling": [
+        "/ˈɛvriˌbɑdi/",
+        "/ˈɛvriˌbədi/"
+    ],
+    "synonyms": [
+        "everyone",
+        "everything",
+        "anybody",
+        "no one",
+        "anyone"
+    ],
+    "meaning": [
+        {
+            "pos": "pronoun",
+            "en": "All people.",
+            "vi": "Tất cả mọi người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Everybody has a mother and father.",
+            "vi": "Ai cũng có mẹ và cha."
+        },
+        {
+            "en": "I love to make everybody happy.",
+            "vi": "Tôi thích làm cho mọi người hạnh phúc."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "mọi người"
+}

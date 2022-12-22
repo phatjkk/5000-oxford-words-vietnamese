@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/taɪd/"
+    ],
+    "synonyms": [
+        "wave",
+        "flow",
+        "time",
+        "neap",
+        "flux"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A stream, current, etc. or trend, tendency, etc.",
+            "vi": "Luồng, hiện tại, v.v. hoặc xu hướng, xu hướng, v.v."
+        },
+        {
+            "pos": "verb",
+            "en": "To rise and fall like the tide.",
+            "vi": "Lên xuống như thủy triều."
+        },
+        {
+            "pos": "adjective",
+            "en": "Tidal.",
+            "vi": "Thủy triều."
+        },
+        {
+            "pos": "suffix",
+            "en": "Time, added to a festival name to indicate the period around that festival.",
+            "vi": "Thời gian, được thêm vào tên lễ hội để chỉ khoảng thời gian xung quanh lễ hội đó."
+        },
+        {
+            "pos": "idiom",
+            "en": "tide over  to help along temporarily, as through a period of difficulty",
+            "vi": "vượt qua để giúp đỡ tạm thời, khi trải qua một giai đoạn khó khăn"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "If the tide had been going out, he'd be in the Atlantic by now.",
+            "vi": "Nếu thủy triều rút đi, thì bây giờ anh ta sẽ ở Đại Tây Dương."
+        },
+        {
+            "en": "But even then the tide was turning.",
+            "vi": "Nhưng ngay cả khi đó tình hình vẫn đang thay đổi."
+        }
+    ],
+    "words_form": [
+        "tided",
+        "tides",
+        "tiding"
+    ],
+    "meaning_vi": "thủy triều"
+}

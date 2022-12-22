@@ -1,0 +1,60 @@
+{
+    "spelling": [
+        "/pɪn/"
+    ],
+    "synonyms": [
+        "bodkin",
+        "ouch",
+        "fastener",
+        "ornament",
+        "fibula"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A rolling pin.",
+            "vi": "Một cán ghim."
+        },
+        {
+            "pos": "verb",
+            "en": "To fasten or secure with or as if with a pin or pins.",
+            "vi": "Để buộc chặt hoặc cố định bằng hoặc như thể bằng ghim hoặc ghim."
+        },
+        {
+            "pos": "adjective",
+            "en": "Having a grain suggestive of the heads of pins. Used of leather.",
+            "vi": "Có một hạt gợi ý đến các đầu ghim. Được sử dụng bằng da."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Personal identification number.",
+            "vi": "Số định danh cá nhân."
+        },
+        {
+            "pos": "acronym",
+            "en": "Personal identification number.",
+            "vi": "Số định danh cá nhân."
+        },
+        {
+            "pos": "idiom",
+            "en": "pin down  to get (someone) to make a decision, commitment, etc. to determine or confirm (a fact, details, etc.)",
+            "vi": "ghim xuống để yêu cầu (ai đó) đưa ra quyết định, cam kết, v.v. để xác định hoặc xác nhận (sự thật, chi tiết, v.v.)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I have only my cap to pin on.",
+            "vi": "Tôi chỉ có mũ lưỡi trai để ghim vào."
+        },
+        {
+            "en": "It wasn't our turn to pin the tail on the donkey.",
+            "vi": "Không đến lượt chúng tôi ghim đuôi lừa."
+        }
+    ],
+    "words_form": [
+        "pinned",
+        "pinning",
+        "pins"
+    ],
+    "meaning_vi": "ghim"
+}

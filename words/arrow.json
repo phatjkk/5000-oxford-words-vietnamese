@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈɛroʊ/"
+    ],
+    "synonyms": [
+        "bolt",
+        "sign",
+        "dart",
+        "directive",
+        "missile"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something, such as a directional symbol, that is similar to an arrow in form or function.",
+            "vi": "Một cái gì đó, chẳng hạn như biểu tượng định hướng, tương tự như một mũi tên về hình thức hoặc chức năng."
+        },
+        {
+            "pos": "verb",
+            "en": "To move like an arrow.",
+            "vi": "Để di chuyển như một mũi tên."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1921-2017; U.S. economist.",
+            "vi": "(người) 1921-2017; Nhà kinh tế học Hoa Kỳ."
+        },
+        {
+            "pos": "contraction",
+            "en": "(obsolete) Contraction of ever a.",
+            "vi": "(lỗi thời) Coment of ever a."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The arrow went over his head and was followed by two more.",
+            "vi": "Mũi tên đi qua đầu anh ta và tiếp theo là hai mũi tên nữa."
+        },
+        {
+            "en": "The rig was a Pace Arrow.",
+            "vi": "Giàn khoan là một Mũi tên Pace."
+        }
+    ],
+    "words_form": [
+        "arrowed",
+        "arrowing",
+        "arrows"
+    ],
+    "meaning_vi": "mũi tên"
+}

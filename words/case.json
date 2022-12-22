@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/keɪs/"
+    ],
+    "synonyms": [
+        "incident",
+        "crating",
+        "illustration",
+        "instance",
+        "state"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a case is a holder for something or an instance of something happening.",
+            "vi": "Định nghĩa của một trường hợp là một người nắm giữ một cái gì đó hoặc một trường hợp của một cái gì đó đang xảy ra."
+        },
+        {
+            "pos": "verb",
+            "en": "To put into or cover with a case; encase.",
+            "vi": "Để đặt vào hoặc bao phủ với một trường hợp; bao bọc."
+        },
+        {
+            "pos": "adjective",
+            "en": "(poker slang) The last remaining card of a particular rank.",
+            "vi": "(tiếng lóng poker) Lá bài cuối cùng còn lại của một thứ hạng cụ thể."
+        },
+        {
+            "pos": "idiom",
+            "en": "in any case  Regardless of what has occurred or will occur.",
+            "vi": "trong mọi trường hợp Bất kể điều gì đã xảy ra hoặc sẽ xảy ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But this is not the case historically.",
+            "vi": "Nhưng đây không phải là trường hợp lịch sử."
+        },
+        {
+            "en": "Don't plead my case for me.",
+            "vi": "Đừng khẩn cầu trường hợp của tôi cho tôi."
+        }
+    ],
+    "words_form": [
+        "cased",
+        "cases",
+        "casing"
+    ],
+    "meaning_vi": "trường hợp"
+}

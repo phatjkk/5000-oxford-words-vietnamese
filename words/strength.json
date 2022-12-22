@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/strɛŋ(k)θ/"
+    ],
+    "synonyms": [
+        "power",
+        "stability",
+        "vigor",
+        "energy",
+        "fervor"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The ability to deal with difficult situations or to maintain a moral or intellectual position.",
+            "vi": "Khả năng đối phó với các tình huống khó khăn hoặc để duy trì một vị trí đạo đức hoặc trí tuệ."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To give strength to; to strengthen. [12th-17th c.]",
+            "vi": "(lỗi thời) Để cung cấp sức mạnh cho; để củng cố. [12-17 c.]"
+        },
+        {
+            "pos": "idiom",
+            "en": "on the strength of  On the basis of: She was hired on the strength of her computer skills.",
+            "vi": "về thế mạnh của Trên cơ sở: Cô ấy được thuê dựa trên thế mạnh về kỹ năng máy tính của mình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She'd need her strength for what she planned.",
+            "vi": "Cô ấy cần sức mạnh của mình cho những gì cô ấy đã lên kế hoạch."
+        },
+        {
+            "en": "When I think back, it's difficult to believe I found the strength to do so.",
+            "vi": "Khi tôi nghĩ lại, thật khó để tin rằng tôi đã tìm thấy sức mạnh để làm như vậy."
+        }
+    ],
+    "words_form": [
+        "strengths"
+    ],
+    "meaning_vi": "sức mạnh"
+}

@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/ˈləkʃ(ə)ri/",
+        "/ˈləɡʒ(ə)ri/"
+    ],
+    "synonyms": [
+        "frugality",
+        "gratification",
+        "leisure",
+        "luxuriousness",
+        "affluence"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a luxury is something that is not essential but is desirable and often expensive or the state of having or enjoying desirable and expensive things.",
+            "vi": "Định nghĩa về sự xa xỉ là một thứ gì đó không thiết yếu nhưng đáng mơ ước và thường đắt tiền hoặc trạng thái có hoặc tận hưởng những thứ đáng mơ ước và đắt tiền."
+        },
+        {
+            "pos": "adjective",
+            "en": "Providing luxury.",
+            "vi": "Cung cấp sự sang trọng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Towers and temples are the luxury of princes.",
+            "vi": "Tháp và đền đài là những thứ xa xỉ của các hoàng tử."
+        },
+        {
+            "en": "The luxury of one class is counterbalanced by the indigence of another.",
+            "vi": "Sự sang trọng của một tầng lớp này đối trọng với sự phẫn nộ của tầng lớp khác."
+        }
+    ],
+    "words_form": [
+        "luxuries"
+    ],
+    "meaning_vi": "sang trọng"
+}

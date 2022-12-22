@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/məˈlɪʃə/"
+    ],
+    "synonyms": [
+        "military force",
+        "army",
+        "reserves",
+        "Interahamwe",
+        "insurgent"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a militia is an army made up of regular citizens called to respond during an emergency.",
+            "vi": "Định nghĩa dân quân là một đội quân bao gồm các công dân thường xuyên được gọi để ứng phó trong trường hợp khẩn cấp."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But his branch of the militia wasn't equipped to help refugees.",
+            "vi": "Nhưng chi nhánh dân quân của anh ta không được trang bị để giúp đỡ những người tị nạn."
+        },
+        {
+            "en": "They are the standing army, and the militia, jailers, constables, posse comitatus, etc.",
+            "vi": "Họ là quân đội thường trực, và dân quân, cai ngục, cảnh sát, quân đội sở hữu, v.v."
+        }
+    ],
+    "words_form": [
+        "militias"
+    ],
+    "meaning_vi": "dân quân"
+}

@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/ˌkoʊənˈsaɪd/"
+    ],
+    "synonyms": [
+        "match",
+        "agree",
+        "jibe",
+        "harmonize",
+        "clash"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To happen at the same time or during the same period.",
+            "vi": "Để xảy ra cùng một lúc hoặc trong cùng một khoảng thời gian."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The belt of folding does not precisely coincide with this central sea, but the correspondence is fairly close.",
+            "vi": "Vành đai gấp khúc không hoàn toàn trùng khớp với vùng biển trung tâm này, nhưng sự tương ứng khá gần nhau."
+        },
+        {
+            "en": "The loading and unloading curves do not exactly coincide.",
+            "vi": "Các đường cong tải và dỡ hàng không hoàn toàn trùng khớp."
+        }
+    ],
+    "words_form": [
+        "coincided",
+        "coincides",
+        "coinciding"
+    ],
+    "meaning_vi": "trùng hợp"
+}

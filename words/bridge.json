@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/brɪdʒ/"
+    ],
+    "synonyms": [
+        "catwalk",
+        "pontoon",
+        "trestle",
+        "overpass",
+        "join"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A thing that provides connection, contact, or transition.",
+            "vi": "Một thứ cung cấp kết nối, liên hệ hoặc chuyển tiếp."
+        },
+        {
+            "pos": "verb",
+            "en": "To build a bridge over.",
+            "vi": "Để xây một cây cầu bắc qua."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating or of products priced between the least expensive and the premium.",
+            "vi": "Chỉ định hoặc các sản phẩm có giá từ rẻ nhất đến cao cấp."
+        },
+        {
+            "pos": "idiom",
+            "en": "burn one's bridges (behind one)  to commit oneself to a course from which there is no retreat",
+            "vi": "đốt cháy những cây cầu của một người (đằng sau một cây cầu) để cam kết bản thân với một khóa học mà từ đó không có sự rút lui"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Within two hours, the bridge was passable.",
+            "vi": "Trong vòng hai giờ, cây cầu đã được thông qua."
+        },
+        {
+            "en": "The 1862 bridge burned and was painstakingly replaced in 2001.",
+            "vi": "Cây cầu năm 1862 bị cháy và được thay thế một cách cẩn thận vào năm 2001."
+        }
+    ],
+    "words_form": [
+        "bridged",
+        "bridges",
+        "bridging"
+    ],
+    "meaning_vi": "cây cầu"
+}

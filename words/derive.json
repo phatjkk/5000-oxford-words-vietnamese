@@ -1,0 +1,35 @@
+{
+    "spelling": [
+        "/dəˈraɪv/"
+    ],
+    "synonyms": [
+        "determine",
+        "extract",
+        "obtain",
+        "infer",
+        "originate"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To derive is defined as to come from, be created from or be developed out of something else.",
+            "vi": "Để dẫn xuất được định nghĩa là đến từ, được tạo ra từ hoặc được phát triển từ thứ khác."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The traditions of the Somalis derive them from the same region.",
+            "vi": "Truyền thống của người Somalia bắt nguồn từ họ trong cùng một khu vực."
+        },
+        {
+            "en": "The islands derive their name from the sacred images found on them by the early European navigators.",
+            "vi": "Các hòn đảo lấy tên từ những hình ảnh thiêng liêng được các nhà hàng hải châu Âu đầu tiên tìm thấy trên chúng."
+        }
+    ],
+    "words_form": [
+        "derived",
+        "derives",
+        "deriving"
+    ],
+    "meaning_vi": "lấy được"
+}

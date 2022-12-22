@@ -1,0 +1,32 @@
+{
+    "spelling": [
+        "/ˌproʊˌdəkˈtɪvədi/",
+        "/ˌprɑdəkˈtɪvədi/"
+    ],
+    "synonyms": [
+        "fecundity",
+        "potency",
+        "prolificness",
+        "efficiency",
+        "morale"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The quality of being productive.",
+            "vi": "Chất lượng của việc sản xuất."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Measures are being taken by the zemstvos to increase the very low productivity of the forests.",
+            "vi": "Các biện pháp đang được zemstvos thực hiện để tăng năng suất rất thấp của các khu rừng."
+        },
+        {
+            "en": "We still have a thousandfold increase in productivity before us.",
+            "vi": "Chúng ta vẫn có năng suất tăng gấp ngàn lần trước chúng ta."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "năng suất"
+}

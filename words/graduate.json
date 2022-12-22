@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈɡrædʒ(ə)wət/"
+    ],
+    "synonyms": [
+        "alumna",
+        "alumnus",
+        "undergraduate",
+        "certify",
+        "baccalaureate"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A graduate is someone who completed a school program.",
+            "vi": "Một sinh viên tốt nghiệp là một người đã hoàn thành một chương trình học."
+        },
+        {
+            "pos": "adjective",
+            "en": "The definition of graduate is something that is part of a higher degree program.",
+            "vi": "Định nghĩa của tốt nghiệp là một cái gì đó là một phần của chương trình cấp cao hơn."
+        },
+        {
+            "pos": "verb",
+            "en": "To be granted an academic degree or diploma.",
+            "vi": "Được cấp bằng hoặc bằng tốt nghiệp học thuật."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I graduate next month, so I'll let her know with an invitation.",
+            "vi": "Tôi tốt nghiệp vào tháng tới, vì vậy tôi sẽ cho cô ấy biết với một lời mời."
+        },
+        {
+            "en": "Massachusetts Bay had a large learned element; it is supposed that about 1640 there was an Oxford or Cambridge graduate to every 250 persons in the colony.",
+            "vi": "Vịnh Massachusetts có một yếu tố uyên bác lớn; Người ta cho rằng khoảng năm 1640 có một sinh viên tốt nghiệp Oxford hoặc Cambridge cho mỗi 250 người trong thuộc địa."
+        }
+    ],
+    "words_form": [
+        "graduated",
+        "graduates",
+        "graduating"
+    ],
+    "meaning_vi": "tốt nghiệp"
+}

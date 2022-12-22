@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/spɛnd/"
+    ],
+    "synonyms": [
+        "use up",
+        "splurge",
+        "give",
+        "discharge",
+        "waste"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To spend is to use all of a resource, to focus your energy on something or to give someone money.",
+            "vi": "Chi tiêu là sử dụng tất cả nguồn lực, tập trung sức lực vào việc gì đó hoặc cho ai đó tiền."
+        },
+        {
+            "pos": "noun",
+            "en": "An amount of money spent on something.",
+            "vi": "Một số tiền chi tiêu cho một thứ gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I spend my life protecting you.",
+            "vi": "Tôi dành cả cuộc đời để bảo vệ em."
+        },
+        {
+            "en": "Well, he did spend a lot of time with his mother.",
+            "vi": "À, anh ấy đã dành rất nhiều thời gian cho mẹ mình."
+        }
+    ],
+    "words_form": [
+        "spending",
+        "spends",
+        "spent"
+    ],
+    "meaning_vi": "chi tiêu"
+}

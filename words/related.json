@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/rəˈleɪdəd/"
+    ],
+    "synonyms": [
+        "similar",
+        "stated",
+        "narrated",
+        "recounted",
+        "correlated"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Connected or associated, as by origin or kind; specif., connected by kinship, marriage, etc.; of the same family.",
+            "vi": "Được kết nối hoặc liên kết, theo nguồn gốc hoặc loại; specif., được kết nối bởi quan hệ họ hàng, hôn nhân, v.v.; của cùng một gia đình."
+        },
+        {
+            "pos": "verb",
+            "en": "Simple past tense and past participle of relate.",
+            "vi": "Quá khứ đơn và quá khứ phân từ của liên quan."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I related Howie's comment about not letting go.",
+            "vi": "Tôi liên quan đến nhận xét của Howie về việc không cho đi."
+        },
+        {
+            "en": "Are you related to the family that...",
+            "vi": "Bạn có liên quan đến gia đình mà ..."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "liên quan"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈsɪblɪŋ/"
+    ],
+    "synonyms": [
+        "sister",
+        "brother",
+        "kinfolk",
+        "offspring",
+        "sib"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A person who shares same parents. One's brother or sister.",
+            "vi": "Một người có chung cha mẹ. Anh / chị / em của một người."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Every child feels displaced to some degree when a new sibling arrives.",
+            "vi": "Mọi đứa trẻ đều cảm thấy bị thay đổi ở một mức độ nào đó khi một anh chị em mới đến."
+        },
+        {
+            "en": "I haven't even had any sibling practice.",
+            "vi": "Tôi thậm chí đã không có bất kỳ thực hành anh chị em."
+        }
+    ],
+    "words_form": [
+        "siblings"
+    ],
+    "meaning_vi": "anh chị em"
+}

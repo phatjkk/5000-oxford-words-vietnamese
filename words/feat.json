@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/fit/"
+    ],
+    "synonyms": [
+        "exploit",
+        "conquest",
+        "masterstroke",
+        "deed",
+        "achievement"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Feat is defined as something that requires great skill or courage to achieve.",
+            "vi": "Feat được định nghĩa là một thứ gì đó đòi hỏi kỹ năng tuyệt vời hoặc lòng dũng cảm để đạt được."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Feta.",
+            "vi": "Bào thai."
+        },
+        {
+            "pos": "adjective",
+            "en": "Neat; trim.",
+            "vi": "Gọn gàng; cắt tỉa."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Featuring.",
+            "vi": "Đặc trưng."
+        },
+        {
+            "pos": "verb",
+            "en": "(obsolete) To form; to fashion.",
+            "vi": "(lỗi thời) Để hình thành; đến thời trang."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Getting the iron hot was no easy feat.",
+            "vi": "Làm nóng bàn ủi không phải là một kỳ công dễ dàng."
+        },
+        {
+            "en": "All hope seemed lost, when by a brilliant feat of arms John Sobieski, king of Poland, drove away the besiegers in hopeless confusion and saved the cause of Christianity, 1683.",
+            "vi": "Tất cả hy vọng dường như đã mất, khi John Sobieski, vua của Ba Lan, đã đánh đuổi những kẻ bao vây trong sự bối rối vô vọng và cứu được sự nghiệp của Cơ đốc giáo, năm 1683."
+        }
+    ],
+    "words_form": [
+        "featest",
+        "feats"
+    ],
+    "meaning_vi": "kỳ công"
+}

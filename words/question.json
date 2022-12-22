@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ˈkwɛstʃ(ə)n/"
+    ],
+    "synonyms": [
+        "query",
+        "burning question",
+        "discussion",
+        "mystery",
+        "inquiring"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Something that is asked; interrogative sentence, as in seeking to learn or in testing another's knowledge; query.",
+            "vi": "Một cái gì đó được hỏi; câu nghi vấn, như tìm cách học hỏi hoặc kiểm tra kiến ​​thức của người khác; truy vấn."
+        },
+        {
+            "pos": "verb",
+            "en": "To ask questions.",
+            "vi": "Để đặt câu hỏi."
+        },
+        {
+            "pos": "idiom",
+            "en": "in question  Under consideration or discussion.",
+            "vi": "trong câu hỏi Đang xem xét hoặc thảo luận."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The big question was, would her confidence last?",
+            "vi": "Câu hỏi lớn là, liệu sự tự tin của cô ấy có tồn tại lâu dài không?"
+        },
+        {
+            "en": "It wasn't a question, but a flat statement.",
+            "vi": "Đó không phải là một câu hỏi, mà là một tuyên bố thẳng thừng."
+        }
+    ],
+    "words_form": [
+        "questioned",
+        "questioning",
+        "questions"
+    ],
+    "meaning_vi": "câu hỏi"
+}

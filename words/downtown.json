@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˌdaʊnˈtaʊn/"
+    ],
+    "synonyms": [
+        "midtown",
+        "metropolitan",
+        "rural",
+        "business",
+        "city"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The lower part or the business center of a city or town.",
+            "vi": "Phần dưới hoặc trung tâm kinh doanh của thành phố hoặc thị trấn."
+        },
+        {
+            "pos": "adverb",
+            "en": "To, toward, or in the lower part or the business center of a city or town.",
+            "vi": "Đến, về phía, hoặc ở phần dưới hoặc trung tâm kinh doanh của thành phố hoặc thị trấn."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, in, like, or relating to the lower part or main business section of a city or town.",
+            "vi": "Của, trong, như, hoặc liên quan đến phần dưới hoặc bộ phận kinh doanh chính của thành phố hoặc thị trấn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The woman she saw in downtown Atlanta had reacted to her the same way.",
+            "vi": "Người phụ nữ mà cô nhìn thấy ở trung tâm thành phố Atlanta đã phản ứng với cô ấy theo cùng một cách."
+        },
+        {
+            "en": "Deidre forced her attention from her own issues and outward as she walked through the street fair in downtown Atlanta.",
+            "vi": "Deidre buộc cô phải chú ý đến những vấn đề của riêng mình và hướng ra bên ngoài khi cô đi qua hội chợ đường phố ở trung tâm thành phố Atlanta."
+        }
+    ],
+    "words_form": [
+        "downtowns"
+    ],
+    "meaning_vi": "khu trung tâm"
+}

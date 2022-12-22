@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/bɔrd/"
+    ],
+    "synonyms": [
+        "mount",
+        "council",
+        "tile",
+        "paper",
+        "get on"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To board is to get on a plane or other transportation vehicle or to provide with a place to live and meals.",
+            "vi": "Lên máy bay là lên máy bay hoặc phương tiện di chuyển khác hoặc cung cấp chỗ ở và ăn uống."
+        },
+        {
+            "pos": "noun",
+            "en": "A long, broad, flat piece of sawed wood ready for use; thin plank.",
+            "vi": "Một khúc gỗ dài, rộng, phẳng đã được cưa sẵn để sử dụng; ván mỏng."
+        },
+        {
+            "pos": "idiom",
+            "en": "across the board  So as to affect or include all people, classes, or categories: Raised taxes across the board.",
+            "vi": "trên diện rộng Vì vậy, để ảnh hưởng hoặc bao gồm tất cả mọi người, tầng lớp hoặc danh mục: Tăng thuế trên diện rộng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"After tomorrow, it's back to the drawing board,\" Quinn said.",
+            "vi": "“Sau ngày mai, nó trở lại bảng vẽ,” Quinn nói."
+        },
+        {
+            "en": "I board him at a stable and ride him on weekends.",
+            "vi": "Tôi lên xe anh ta ở một chuồng ngựa và chở anh ta vào cuối tuần."
+        }
+    ],
+    "words_form": [
+        "boarded",
+        "boarding",
+        "boards"
+    ],
+    "meaning_vi": "mạn thuyền, boong tàu; hội đồng; cái bảng"
+}

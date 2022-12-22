@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈɪn(t)ərˌvju/"
+    ],
+    "synonyms": [
+        "meeting",
+        "survey",
+        "consultation",
+        "discussion",
+        "question"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A formal meeting in person, especially one arranged for the assessment of the qualifications of an applicant.",
+            "vi": "Một cuộc họp chính thức trực tiếp, đặc biệt là một cuộc họp được sắp xếp để đánh giá trình độ của người nộp đơn."
+        },
+        {
+            "pos": "verb",
+            "en": "To be interviewed; to attend an interview.",
+            "vi": "Được phỏng vấn; để tham dự một cuộc phỏng vấn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "This interview was proof.",
+            "vi": "Cuộc phỏng vấn này là bằng chứng."
+        },
+        {
+            "en": "He asked if he might record the interview in addition to taking notes.",
+            "vi": "Anh ấy hỏi liệu anh ấy có thể ghi âm cuộc phỏng vấn ngoài việc ghi chép không."
+        }
+    ],
+    "words_form": [
+        "interviewed",
+        "interviewing",
+        "interviews"
+    ],
+    "meaning_vi": "phỏng vấn"
+}

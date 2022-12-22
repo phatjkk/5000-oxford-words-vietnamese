@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ˈɡræn(d)ˌməðər/"
+    ],
+    "synonyms": [
+        "nanna",
+        "grandma",
+        "granny",
+        "nan",
+        "gram"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A female ancestor.",
+            "vi": "Một tổ tiên phụ nữ."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "Maternal grandmother.",
+            "vi": "Bà ngoại."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Grandmother is going to make me two new dresses.",
+            "vi": "Bà nội sẽ may cho tôi hai bộ váy mới."
+        },
+        {
+            "en": "Albany had to blockade Margaret in Stirling Castle before she would surrender her sons, After being obliged to capitulate, Margaret returned to Edinburgh, and being no longer responsible for the custody of the king she fled to England in September, where a month later she bore to Angus a daughter, Margaret, who afterwards became countess of Lennox, mother of Lord Darnley and grandmother of James I.",
+            "vi": "Albany đã phải phong tỏa Margaret trong Lâu đài Stirling trước khi cô ấy đầu hàng các con trai của mình. cho Angus một cô con gái, Margaret, người sau đó trở thành nữ bá tước của Lennox, mẹ của Chúa Darnley và là bà của James I."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "bà (nội hoặc ngoại)"
+}

@@ -1,0 +1,31 @@
+{
+    "spelling": [
+        "/təˈreɪn/"
+    ],
+    "synonyms": [
+        "ground",
+        "region",
+        "area",
+        "topography",
+        "domain"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An area of land or the particular features of it.",
+            "vi": "Một khu đất hoặc các đặc điểm cụ thể của nó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The terrain was rough, covered with brush choked ravines and sharp granite bluffs.",
+            "vi": "Địa hình gồ ghề, bao phủ bởi những khe núi ngoằn ngoèo và những tảng đá granit sắc nhọn."
+        },
+        {
+            "en": "He gazed out at the terrain below.",
+            "vi": "Anh nhìn ra địa hình bên dưới."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "địa hình"
+}

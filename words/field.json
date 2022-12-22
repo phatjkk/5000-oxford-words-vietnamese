@@ -1,0 +1,65 @@
+{
+    "spelling": [
+        "/fild/"
+    ],
+    "synonyms": [
+        "meadow",
+        "outdoor",
+        "farm",
+        "clearing",
+        "sphere"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a field is a large open space, often where sports are played, or an area where there is a certain concentration of a resource.",
+            "vi": "Định nghĩa của một cánh đồng là một không gian mở rộng lớn, thường là nơi chơi thể thao hoặc một khu vực tập trung một số tài nguyên nhất định."
+        },
+        {
+            "pos": "adjective",
+            "en": "Growing, cultivated, or living in fields or open land.",
+            "vi": "Trồng trọt, canh tác, hoặc sống trên đồng ruộng hoặc bãi đất trống."
+        },
+        {
+            "pos": "verb",
+            "en": "To enter (data) into a field.",
+            "vi": "Để nhập (dữ liệu) vào một trường."
+        },
+        {
+            "pos": "proper name",
+            "en": "(person) 1819-92; U.S. industrialist: promoted the first transatlantic cable.",
+            "vi": "(người) 1819-92; Nhà công nghiệp Hoa Kỳ: xúc tiến tuyến cáp xuyên Đại Tây Dương đầu tiên."
+        },
+        {
+            "pos": "anagrams",
+            "en": "Felid.",
+            "vi": "Felid."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "take the field  To begin or resume activity, as in a sport or military operations.",
+            "vi": "lấy sân Để bắt đầu hoặc tiếp tục hoạt động, như trong một môn thể thao hoặc các hoạt động quân sự."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "My father works in the field, and I take care of the sheep.",
+            "vi": "Cha tôi làm việc ngoài đồng, và tôi chăm sóc đàn cừu."
+        },
+        {
+            "en": "\"You up for a field trip?\" he asked.",
+            "vi": "\"Bạn có một chuyến đi thực tế?\" anh ấy hỏi."
+        }
+    ],
+    "words_form": [
+        "fielded",
+        "fielding",
+        "fields"
+    ],
+    "meaning_vi": "cánh đồng"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/staɪl/"
+    ],
+    "synonyms": [
+        "pretentious",
+        "way",
+        "carriage",
+        "verve",
+        "technique"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Style is defined as a particular of doing or saying something, or refers to a unique form of clothing or way of arranging your appearance.",
+            "vi": "Phong cách được định nghĩa là một cách cụ thể của việc làm hoặc nói điều gì đó, hoặc đề cập đến một kiểu quần áo độc đáo hoặc cách sắp xếp ngoại hình của bạn."
+        },
+        {
+            "pos": "verb",
+            "en": "To call or name; designate.",
+            "vi": "Để gọi hoặc đặt tên; chỉ định."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He's got a great sense of style, Linda said with a laugh.",
+            "vi": "Anh ấy có một phong cách tuyệt vời, Linda cười nói."
+        },
+        {
+            "en": "Her hair was short and dark and worn in an easy style that seemed to require little care.",
+            "vi": "Mái tóc của cô ấy ngắn và sẫm màu và được để theo một kiểu dễ dàng mà dường như chỉ cần chăm sóc một chút."
+        }
+    ],
+    "words_form": [
+        "styled",
+        "styles",
+        "styling"
+    ],
+    "meaning_vi": "phong cách"
+}

@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ɪnˈdaɪtmənt/"
+    ],
+    "synonyms": [
+        "statement",
+        "arraignment",
+        "censure",
+        "incrimination",
+        "bill"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A document or other communication that makes accusations of wrongdoing or describes an unacceptable situation.",
+            "vi": "Một tài liệu hoặc thông tin liên lạc khác đưa ra cáo buộc về hành vi sai trái hoặc mô tả một tình huống không thể chấp nhận được."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They moved to quash the indictment on which he was brought to trial.",
+            "vi": "Họ chuyển sang dập tắt bản cáo trạng mà anh ta bị đưa ra xét xử."
+        },
+        {
+            "en": "The serial killer was found guilty and given an indictment for his crimes.",
+            "vi": "Kẻ giết người hàng loạt đã bị kết tội và đưa ra một bản cáo trạng cho tội ác của mình."
+        }
+    ],
+    "words_form": [
+        "indictments"
+    ],
+    "meaning_vi": "cáo trạng"
+}

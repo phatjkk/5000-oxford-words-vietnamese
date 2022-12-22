@@ -1,0 +1,52 @@
+{
+    "spelling": [
+        "/ˈzɪroʊ/",
+        "/ˈziˌroʊ/"
+    ],
+    "synonyms": [
+        "nada",
+        "null",
+        "nix",
+        "love",
+        "zilch"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "(informal) One having no influence or importance; a nonentity.",
+            "vi": "(không chính thức) Một không có ảnh hưởng hoặc tầm quan trọng; một cái không."
+        },
+        {
+            "pos": "adjective",
+            "en": "(linguistics) Of or relating to a morpheme that is expected by an established, regular paradigm but has no spoken or written form. Moose has a zero plural; that is, its plural is moose.",
+            "vi": "(ngôn ngữ học) Về hoặc liên quan đến một hình cầu được mong đợi bởi một mô hình thông thường, được thiết lập nhưng không có dạng nói hoặc viết. Moose có số nhiều bằng 0; nghĩa là, số nhiều của nó là con nai sừng tấm."
+        },
+        {
+            "pos": "verb",
+            "en": "To adjust (an instrument or a device) to zero value.",
+            "vi": "Để điều chỉnh (một dụng cụ hoặc một thiết bị) về giá trị không."
+        },
+        {
+            "pos": "idiom",
+            "en": "zero in  to adjust the zero of (a gun) to aim (a gun) or concentrate (firepower) directly at or on (a target)",
+            "vi": "zero in để điều chỉnh zero của (súng) để nhắm (súng) hoặc tập trung (hỏa lực) trực tiếp vào hoặc trên (mục tiêu)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Dean pushed each of the four buzzers, with zero response.",
+            "vi": "Dean đẩy từng chiếc còi trong số bốn chiếc còi, không có phản ứng nào."
+        },
+        {
+            "en": "Zero is a cardinal number.",
+            "vi": "Số 0 là một số chính."
+        }
+    ],
+    "words_form": [
+        "zeroed",
+        "zeroes",
+        "zeroing",
+        "zeros"
+    ],
+    "meaning_vi": "số không"
+}

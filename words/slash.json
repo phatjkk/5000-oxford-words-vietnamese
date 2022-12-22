@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/slæʃ/"
+    ],
+    "synonyms": [
+        "cut",
+        "carve",
+        "hack",
+        "slice",
+        "lather"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To reduce or curtail drastically.",
+            "vi": "Để giảm hoặc cắt bớt đáng kể."
+        },
+        {
+            "pos": "noun",
+            "en": "A diagonal mark ( / ) that is used especially to separate alternatives, as in and/or, to represent the word per, as in miles/hour, to separate component parts of a URL, as in whitehouse.gov/kids/patriotism/ , and to indicate the ends of verse lines printed continuously, as in Old King Cole / Was a merry old soul.",
+            "vi": "Dấu chéo (/) được sử dụng đặc biệt để phân tách các lựa chọn thay thế, như trong và / hoặc, để đại diện cho từ per, như tính bằng dặm / giờ, để tách các phần thành phần của một URL, như trong whitehouse.gov/kids/patriouality/ , và để chỉ ra phần cuối của các dòng thơ được in liên tục, như trong Old King Cole / Là một linh hồn già vui vẻ."
+        },
+        {
+            "pos": "conjunction",
+            "en": "As well as; and. Used in combination and often rendered as a virgule in print.",
+            "vi": "Cũng như; và. Được sử dụng kết hợp và thường được hiển thị dưới dạng nguyên tắc trong bản in."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'll stab and slash and chop off their heads!",
+            "vi": "Tôi sẽ đâm và chém và chặt đầu họ!"
+        },
+        {
+            "en": "She stepped away to slash at a guardsman then tugged the necklace on quickly.",
+            "vi": "Cô bước ra để chém một tên lính canh rồi giật nhanh sợi dây chuyền."
+        }
+    ],
+    "words_form": [
+        "slashed",
+        "slashes",
+        "slashing"
+    ],
+    "meaning_vi": "gạch chéo"
+}

@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/ˈkænsəl/"
+    ],
+    "synonyms": [
+        "revoke",
+        "repudiate",
+        "annul",
+        "undo",
+        "counterpoise"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make invalid; annul.",
+            "vi": "Để làm cho không hợp lệ; bãi bỏ."
+        },
+        {
+            "pos": "noun",
+            "en": "The deletion or omission of matter in type or in print.",
+            "vi": "Việc xóa hoặc bỏ sót nội dung trong loại hoặc trong bản in."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Of course he wasn't going to cancel a business trip simply because she didn't want him to go.",
+            "vi": "Tất nhiên anh ấy sẽ không hủy một chuyến công tác chỉ vì cô ấy không muốn anh ấy đi."
+        },
+        {
+            "en": "\"These cancel out your thermal signature,\" he said, holding them out.",
+            "vi": "“Những thứ này hủy bỏ chữ ký nhiệt của bạn,” anh nói, cầm chúng ra."
+        }
+    ],
+    "words_form": [
+        "canceled",
+        "canceling",
+        "cancelled",
+        "cancelling",
+        "cancels"
+    ],
+    "meaning_vi": "hủy bỏ"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈlæbrəˌtɔri/"
+    ],
+    "synonyms": [
+        "testing ground",
+        "science lab",
+        "toxicology",
+        "workroom",
+        "science laboratory"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A place for practice, observation, or testing.",
+            "vi": "Một nơi để thực hành, quan sát hoặc thử nghiệm."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of or performed in, or as in, a laboratory.",
+            "vi": "Của hoặc được thực hiện trong, hoặc trong phòng thí nghiệm."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "After introductions, Dean was led to a laboratory in the rear of the building.",
+            "vi": "Sau khi giới thiệu, Dean được dẫn đến một phòng thí nghiệm ở phía sau của tòa nhà."
+        },
+        {
+            "en": "The conclusions derived from the microscopical laboratory were confirmed by actual experiment.",
+            "vi": "Các kết luận rút ra từ phòng thí nghiệm kính hiển vi đã được xác nhận bằng thí nghiệm thực tế."
+        }
+    ],
+    "words_form": [
+        "laboratories"
+    ],
+    "meaning_vi": "phòng thí nghiệm"
+}

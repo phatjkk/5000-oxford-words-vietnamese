@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/əˈsəm(p)ʃ(ə)n/"
+    ],
+    "synonyms": [
+        "premise",
+        "conjecture",
+        "postulation",
+        "presupposition",
+        "unexpected"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of an assumption is an idea that is formed without evidence.",
+            "vi": "Định nghĩa của một giả định là một ý tưởng được hình thành mà không có bằng chứng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm sorry I jumped to that assumption wrongly.",
+            "vi": "Tôi xin lỗi vì tôi đã nhầm lẫn với giả định đó."
+        },
+        {
+            "en": "Opening the door, she found her assumption correct.",
+            "vi": "Mở cửa ra, cô thấy giả thiết của mình là đúng."
+        }
+    ],
+    "words_form": [
+        "assumptions"
+    ],
+    "meaning_vi": "giả định"
+}

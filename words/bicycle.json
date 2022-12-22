@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈbaɪsək(ə)l/"
+    ],
+    "synonyms": [
+        "wheel",
+        "racer",
+        "stationary-bicycle",
+        "tandem",
+        "bike"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To travel or exercise using a bicycle.",
+            "vi": "Để đi du lịch hoặc tập thể dục bằng xe đạp."
+        },
+        {
+            "pos": "noun",
+            "en": "A vehicle consisting of a tubular metal frame mounted on two large, wire-spoked wheels, one behind the other, and equipped with handlebars, a saddlelike seat, and foot pedals.",
+            "vi": "Một chiếc xe bao gồm một khung kim loại hình ống được gắn trên hai bánh xe lớn, có dây kẽm, một bánh sau bánh kia và được trang bị tay lái, yên xe giống như yên xe và bàn đạp để chân."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The boy no doubt inherits a capacity for riding a bicycle, otherwise he could never do so.",
+            "vi": "Cậu bé chắc chắn thừa hưởng khả năng đi xe đạp, nếu không thì cậu không bao giờ có thể làm được như vậy."
+        },
+        {
+            "en": "He ran out to his bicycle and pushed the kickstand back while he peered through the window.",
+            "vi": "Anh ta chạy ra xe đạp và đẩy chân chống lại trong khi nhìn qua cửa sổ."
+        }
+    ],
+    "words_form": [
+        "bicycled",
+        "bicycles",
+        "bicycling"
+    ],
+    "meaning_vi": "xe đạp"
+}

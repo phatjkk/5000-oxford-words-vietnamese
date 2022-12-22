@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kraɪ/"
+    ],
+    "synonyms": [
+        "uproar",
+        "howl",
+        "weeping",
+        "hullabaloo",
+        "burst-into-tears"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Cry is defined as to shed tears or call out.",
+            "vi": "Khóc được định nghĩa là rơi nước mắt hoặc kêu to."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a cry is a shedding of tears or a calling out.",
+            "vi": "Định nghĩa của một tiếng khóc là sự rơi nước mắt hoặc một tiếng kêu."
+        },
+        {
+            "pos": "idiom",
+            "en": "cry havoc  To sound an alarm; warn.",
+            "vi": "khóc tàn phá Để phát ra âm thanh báo động; cảnh báo."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There she collapsed on the bed and started to cry – quietly this time.",
+            "vi": "Ở đó, cô ấy gục xuống giường và bắt đầu khóc - lần này là lặng lẽ."
+        },
+        {
+            "en": "I don't cry that much.",
+            "vi": "Tôi không khóc nhiều như vậy."
+        }
+    ],
+    "words_form": [
+        "cried",
+        "cries",
+        "crying"
+    ],
+    "meaning_vi": "khóc"
+}

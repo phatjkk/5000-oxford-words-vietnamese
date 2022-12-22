@@ -1,0 +1,36 @@
+{
+    "spelling": [
+        "/ɪkˈsplɪsɪt/"
+    ],
+    "synonyms": [
+        "exact",
+        "definite",
+        "express",
+        "specific",
+        "categorical"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of explicit is something that is clearly expressed or communicated.",
+            "vi": "Định nghĩa rõ ràng là một cái gì đó được thể hiện hoặc truyền đạt một cách rõ ràng."
+        },
+        {
+            "pos": "verb",
+            "en": "(here) Ends.",
+            "vi": "(tại đây) Kết thúc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can see right now that I'm going to have to be more explicit when I talk to you.",
+            "vi": "Tôi có thể thấy ngay bây giờ rằng tôi sẽ phải rõ ràng hơn khi nói chuyện với bạn."
+        },
+        {
+            "en": "What is implicit in Corinthians is explicit in Colossians.",
+            "vi": "Những gì tiềm ẩn trong Cô-rinh-tô thì rõ ràng trong Cô-lô-se."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "rõ ràng"
+}

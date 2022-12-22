@@ -1,0 +1,54 @@
+{
+    "spelling": [
+        "/smɔl/"
+    ],
+    "synonyms": [
+        "miniature",
+        "tiny",
+        "little",
+        "pitiful",
+        "humble"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of small is someone or something that is little or young.",
+            "vi": "Định nghĩa của nhỏ là ai đó hoặc một cái gì đó nhỏ hoặc trẻ."
+        },
+        {
+            "pos": "adverb",
+            "en": "In a small manner.",
+            "vi": "Theo một cách thức nhỏ."
+        },
+        {
+            "pos": "noun",
+            "en": "The small or narrow part.",
+            "vi": "Phần nhỏ hoặc hẹp."
+        },
+        {
+            "pos": "pronoun",
+            "en": "A surname.",
+            "vi": "Họ."
+        },
+        {
+            "pos": "idiom",
+            "en": "feel small  to feel shame or humiliation",
+            "vi": "cảm thấy nhỏ bé khi cảm thấy xấu hổ hoặc sỉ nhục"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It's a very small window.",
+            "vi": "Đó là một cửa sổ rất nhỏ."
+        },
+        {
+            "en": "The small birds were singing softly.",
+            "vi": "Những chú chim nhỏ đang hót nhẹ."
+        }
+    ],
+    "words_form": [
+        "smaller",
+        "smallest"
+    ],
+    "meaning_vi": "nhỏ"
+}

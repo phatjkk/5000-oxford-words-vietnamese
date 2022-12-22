@@ -1,0 +1,48 @@
+{
+    "spelling": [
+        "/ˈkərdəsi/"
+    ],
+    "synonyms": [
+        "consideration",
+        "genteelness",
+        "courteousness",
+        "courteous",
+        "etiquette"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A polite, helpful, or considerate act or remark.",
+            "vi": "Một hành động hoặc nhận xét lịch sự, hữu ích hoặc ân cần."
+        },
+        {
+            "pos": "adjective",
+            "en": "Given or done as a polite gesture.",
+            "vi": "Được đưa ra hoặc được thực hiện như một cử chỉ lịch sự."
+        },
+        {
+            "pos": "verb",
+            "en": "Alternative form of curtsey.",
+            "vi": "Hình thức thay thế của cộc lốc."
+        },
+        {
+            "pos": "idiom",
+            "en": "courtesy of  without charge, as a gesture of goodwill",
+            "vi": "lịch sự mà không tính phí, như một cử chỉ thiện chí"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "His abilities, his courtesy and his upright character made him a universal favourite.",
+            "vi": "Khả năng của anh ấy, sự lịch thiệp và tính cách ngay thẳng của anh ấy đã khiến anh ấy trở thành một người được yêu thích trên toàn thế giới."
+        },
+        {
+            "en": "We took the courtesy shuttle to the hotel.",
+            "vi": "Chúng tôi đã đưa đón lịch sự đến khách sạn."
+        }
+    ],
+    "words_form": [
+        "courtesies"
+    ],
+    "meaning_vi": "lịch sự"
+}

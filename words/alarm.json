@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/əˈlɑrm/"
+    ],
+    "synonyms": [
+        "fright",
+        "alert",
+        "disturb",
+        "siren",
+        "outcry"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of alarm is to warn of danger or to make someone afraid or distressed.",
+            "vi": "Định nghĩa của báo động là cảnh báo nguy hiểm hoặc làm cho ai đó sợ hãi hoặc đau khổ."
+        },
+        {
+            "pos": "noun",
+            "en": "(archaic) A sudden call to arms.",
+            "vi": "(cổ xưa) Một lời kêu gọi bất ngờ trong vòng tay."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I kept thinking I could hear an alarm clock.",
+            "vi": "Tôi cứ nghĩ rằng mình có thể nghe thấy tiếng đồng hồ báo thức."
+        },
+        {
+            "en": "The alarm clock beside her bed indicated 2:00 am in large orange numbers.",
+            "vi": "Đồng hồ báo thức bên cạnh giường cô chỉ 2:00 sáng với số lượng lớn màu cam."
+        }
+    ],
+    "words_form": [
+        "alarmed",
+        "alarms"
+    ],
+    "meaning_vi": "báo thức"
+}

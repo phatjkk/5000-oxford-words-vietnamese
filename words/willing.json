@@ -1,0 +1,41 @@
+{
+    "spelling": [
+        "/ˈwɪlɪŋ/"
+    ],
+    "synonyms": [
+        "prepared",
+        "acceptant",
+        "receiving",
+        "giving",
+        "obedient"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "Disposed or inclined; prepared.",
+            "vi": "Xử lý hoặc nghiêng; chuẩn bị."
+        },
+        {
+            "pos": "verb",
+            "en": "Present participle of will.",
+            "vi": "Hiện tại phân từ của ý chí."
+        },
+        {
+            "pos": "noun",
+            "en": "(rare or obsolete) The execution of a will.",
+            "vi": "(hiếm hoặc lỗi thời) Việc thực hiện một di chúc."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I'm willing to give it a try.",
+            "vi": "Tôi sẵn sàng thử."
+        },
+        {
+            "en": "People are always willing to believe the worst about others.",
+            "vi": "Mọi người luôn sẵn sàng tin những điều tồi tệ nhất về người khác."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "sẵn lòng; sẵn sàng"
+}

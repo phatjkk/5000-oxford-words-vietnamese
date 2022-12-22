@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈmɔrɡɪdʒ/"
+    ],
+    "synonyms": [
+        "lease",
+        "amortize",
+        "deed",
+        "title",
+        "contract"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To make subject to a claim or risk; pledge against a doubtful outcome.",
+            "vi": "Để thực hiện một yêu cầu bồi thường hoặc rủi ro; cam kết chống lại một kết quả đáng ngờ."
+        },
+        {
+            "pos": "noun",
+            "en": "A grant of a security interest in real property to secure a loan, often for the purchase of the property.",
+            "vi": "Một khoản cấp lãi bảo đảm bằng tài sản bất động sản để đảm bảo một khoản vay, thường là để mua tài sản đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "They were originally of the nature of mortgage bonds on the national lands.",
+            "vi": "Ban đầu chúng có tính chất là thế chấp trái phiếu trên các vùng đất quốc gia."
+        },
+        {
+            "en": "A married man may not sell or mortgage a homestead without his wife's consent.",
+            "vi": "Một người đàn ông đã kết hôn không được bán hoặc thế chấp một ngôi nhà mà không có sự đồng ý của vợ anh ta."
+        }
+    ],
+    "words_form": [
+        "mortgaged",
+        "mortgages",
+        "mortgaging"
+    ],
+    "meaning_vi": "thế chấp"
+}

@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/əˈpɑrtmənt/"
+    ],
+    "synonyms": [
+        "flat",
+        "home",
+        "residence",
+        "studio",
+        "unit"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An apartment building.",
+            "vi": "Một tòa nhà chung cư."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, in, or for an apartment or apartments.",
+            "vi": "Của, trong, hoặc cho một căn hộ hoặc các căn hộ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Now that the truth was out, maybe it wouldn't be so difficult to live in the same apartment now.",
+            "vi": "Bây giờ sự thật đã được phơi bày, có lẽ bây giờ sẽ không khó sống trong cùng một căn hộ nữa."
+        },
+        {
+            "en": "The apartment door opened and Rachel stared out at them.",
+            "vi": "Cửa căn hộ mở ra và Rachel nhìn chằm chằm vào họ."
+        }
+    ],
+    "words_form": [
+        "apartments"
+    ],
+    "meaning_vi": "căn hộ"
+}

@@ -1,0 +1,44 @@
+{
+    "spelling": [
+        "/nid/"
+    ],
+    "synonyms": [
+        "requirement",
+        "obligation",
+        "pennilessness",
+        "require",
+        "indigence"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A condition or situation in which something must be supplied in order for a certain condition to be maintained or a desired state to be achieved.",
+            "vi": "Một điều kiện hoặc tình huống trong đó một cái gì đó phải được cung cấp để duy trì một điều kiện nhất định hoặc một trạng thái mong muốn để đạt được."
+        },
+        {
+            "pos": "verb",
+            "en": "Need is defined as to want, desire or require.",
+            "vi": "Nhu cầu được định nghĩa là muốn, mong muốn hoặc yêu cầu."
+        },
+        {
+            "pos": "idiom",
+            "en": "have need to  to be compelled or required to; must",
+            "vi": "có nhu cầu được bắt buộc hoặc được yêu cầu; cần phải"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He did not need anything of that kind.",
+            "vi": "Anh không cần bất cứ thứ gì thuộc loại đó."
+        },
+        {
+            "en": "There was no need to rush.",
+            "vi": "Không cần phải vội vàng."
+        }
+    ],
+    "words_form": [
+        "needed",
+        "needs"
+    ],
+    "meaning_vi": "cần"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/kənˈsɛnt/"
+    ],
+    "synonyms": [
+        "agree to",
+        "concur",
+        "allow",
+        "acquiesce",
+        "permit"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Consent means to agree to do something or to give permission.",
+            "vi": "Đồng ý có nghĩa là đồng ý làm điều gì đó hoặc cho phép."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of consent is the permission given for something.",
+            "vi": "Định nghĩa của sự đồng ý là sự cho phép cho một cái gì đó."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "There's no way he'd consent to travel all the way from Boston.",
+            "vi": "Không đời nào anh ấy đồng ý đi suốt chặng đường từ Boston."
+        },
+        {
+            "en": "Prince Andrew needed his father's consent to his marriage, and to obtain this he started for the country next day.",
+            "vi": "Hoàng tử Andrew cần sự đồng ý của cha mình đối với cuộc hôn nhân của mình, và để có được điều này, anh ấy đã bắt đầu đến đất nước vào ngày hôm sau."
+        }
+    ],
+    "words_form": [
+        "consented",
+        "consenting",
+        "consents"
+    ],
+    "meaning_vi": "bằng lòng"
+}

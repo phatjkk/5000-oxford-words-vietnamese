@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/ɡɑlf/",
+        "/ɡɔlf/"
+    ],
+    "synonyms": [
+        "nine-hole",
+        "game",
+        "golf-course",
+        "watersports",
+        "mini-golf"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A game played on a large outdoor course with a series of 9 or 18 holes spaced far apart, the object being to propel a small, hard ball with the use of various clubs into each hole with as few strokes as possible.",
+            "vi": "Một trò chơi được chơi trên một sân lớn ngoài trời với một loạt 9 hoặc 18 lỗ đặt cách xa nhau, đối tượng là đẩy một quả bóng nhỏ và cứng bằng cách sử dụng nhiều gậy khác nhau vào mỗi lỗ với càng ít cú đánh càng tốt."
+        },
+        {
+            "pos": "verb",
+            "en": "To play this game.",
+            "vi": "Để chơi trò chơi này."
+        },
+        {
+            "pos": "symbol",
+            "en": "The letter G in the ICAO spelling alphabet.",
+            "vi": "Chữ G trong bảng chữ cái chính tả ICAO."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A little golf, but that just frustrates me and cost money.",
+            "vi": "Chơi gôn một chút, nhưng điều đó chỉ làm tôi nản lòng và tốn kém tiền bạc."
+        },
+        {
+            "en": "There is an excellent golf course.",
+            "vi": "Có một sân gôn tuyệt vời."
+        }
+    ],
+    "words_form": [
+        "golfed",
+        "golfing",
+        "golfs"
+    ],
+    "meaning_vi": "gôn"
+}

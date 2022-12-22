@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/blɛnd/"
+    ],
+    "synonyms": [
+        "mixture",
+        "combination",
+        "mix",
+        "combine",
+        "olio"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "Blend is defined as to combine things in a harmonious manner.",
+            "vi": "Blend được định nghĩa là kết hợp mọi thứ một cách hài hòa."
+        },
+        {
+            "pos": "noun",
+            "en": "The definition of a blend is a mixture of things.",
+            "vi": "Định nghĩa về sự pha trộn là sự pha trộn của nhiều thứ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He'd never blend into the shadows again.",
+            "vi": "Anh ấy sẽ không bao giờ hòa vào bóng tối nữa."
+        },
+        {
+            "en": "His expression was a blend of question and concern.",
+            "vi": "Vẻ mặt của anh ấy là sự pha trộn giữa thắc mắc và lo lắng."
+        }
+    ],
+    "words_form": [
+        "blended",
+        "blending",
+        "blends"
+    ],
+    "meaning_vi": "sự pha trộn"
+}

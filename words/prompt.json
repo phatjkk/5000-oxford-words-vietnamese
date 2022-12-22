@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/prɑm(p)t/"
+    ],
+    "synonyms": [
+        "quick",
+        "immediate",
+        "punctual",
+        "needle",
+        "ready"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of a prompt is a cue given to someone to help him remember what to say, or is something that causes another event or action to occur.",
+            "vi": "Định nghĩa của lời nhắc là một dấu hiệu được đưa ra cho một người nào đó để giúp anh ta nhớ những gì cần nói, hoặc là một cái gì đó gây ra một sự kiện hoặc hành động khác xảy ra."
+        },
+        {
+            "pos": "adjective",
+            "en": "Prompt is defined as something that is done on time or right away or someone who does things on time or immediately.",
+            "vi": "Lời nhắc được định nghĩa là điều gì đó được thực hiện đúng giờ hoặc ngay lập tức hoặc một người nào đó làm mọi việc đúng giờ hoặc ngay lập tức."
+        },
+        {
+            "pos": "noun",
+            "en": "An act of prompting; reminder.",
+            "vi": "Một hành động thúc giục; lời nhắc nhở."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Alice Burton tearfully thanked the authorities for their prompt action.",
+            "vi": "Alice Burton đã rơi nước mắt cảm ơn các nhà chức trách vì hành động kịp thời của họ."
+        },
+        {
+            "en": "Just prompt them once in awhile.",
+            "vi": "Chỉ cần nhắc họ một lần trong một thời gian."
+        }
+    ],
+    "words_form": [
+        "prompted",
+        "promptest",
+        "prompting",
+        "prompts"
+    ],
+    "meaning_vi": "lời nhắc"
+}

@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/rəˈmuv/"
+    ],
+    "synonyms": [
+        "dislocate",
+        "take away",
+        "eliminate",
+        "draw-away",
+        "discard"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To take off.",
+            "vi": "Cất cánh."
+        },
+        {
+            "pos": "noun",
+            "en": "The act of removing; removal.",
+            "vi": "Hành động loại bỏ; loại bỏ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I can remove them now.",
+            "vi": "Tôi có thể xóa chúng ngay bây giờ."
+        },
+        {
+            "en": "She slapped her gloves together to remove some of the mud.",
+            "vi": "Cô đập đôi găng tay của mình để loại bỏ một số bùn."
+        }
+    ],
+    "words_form": [
+        "removed",
+        "removes",
+        "removing"
+    ],
+    "meaning_vi": "tẩy"
+}

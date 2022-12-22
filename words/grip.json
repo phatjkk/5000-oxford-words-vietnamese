@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/ɡrɪp/"
+    ],
+    "synonyms": [
+        "clutch",
+        "bristle",
+        "cincture",
+        "grasp",
+        "government"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A suitcase or valise.",
+            "vi": "Một chiếc vali hoặc valise."
+        },
+        {
+            "pos": "verb",
+            "en": "To secure and maintain a tight hold on; seize firmly.",
+            "vi": "Để đảm bảo và duy trì một sự giữ chặt chẽ; nắm bắt chắc chắn."
+        },
+        {
+            "pos": "idiom",
+            "en": "come to grips  to engage in hand-to-hand fighting to struggle or try to cope (with)",
+            "vi": "đi đến nắm bắt để tham gia vào cuộc chiến tay đôi để đấu tranh hoặc cố gắng đối phó (với)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He tightened his grip slightly.",
+            "vi": "Anh hơi siết chặt."
+        },
+        {
+            "en": "She held her grip on his collar.",
+            "vi": "Cô nắm chặt cổ áo anh."
+        }
+    ],
+    "words_form": [
+        "gripped",
+        "gripping",
+        "grips"
+    ],
+    "meaning_vi": "nắm chặt"
+}

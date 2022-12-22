@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/sən/"
+    ],
+    "synonyms": [
+        "star",
+        "sun",
+        "apollo",
+        "solar",
+        "daylight"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The sun is the star that is the central object in the solar system.It is made up of 92% hydrogen, almost 8% helium and the rest is assorted elements.",
+            "vi": "Mặt trời là ngôi sao là vật thể trung tâm trong hệ mặt trời, nó được tạo thành từ 92% hydro, gần 8% heli và phần còn lại là các nguyên tố khác nhau."
+        },
+        {
+            "pos": "verb",
+            "en": "To expose to the sun's rays, as for warming, drying, or tanning.",
+            "vi": "Để tiếp xúc với tia nắng mặt trời, như để làm ấm, làm khô hoặc rám nắng."
+        },
+        {
+            "pos": "pronoun",
+            "en": "The star which the Earth revolves around and from which it receives light and warmth.",
+            "vi": "Ngôi sao mà Trái đất quay xung quanh và từ đó nó nhận được ánh sáng và hơi ấm."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Sunday.",
+            "vi": "Chủ nhật."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the sun  In the public eye.",
+            "vi": "dưới ánh mặt trời Trong mắt công chúng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The sun was warm.",
+            "vi": "Nắng ấm."
+        },
+        {
+            "en": "When she opened her eyes the sun was directly overhead.",
+            "vi": "Khi cô ấy mở mắt ra, mặt trời đã chiếu thẳng trên đầu."
+        }
+    ],
+    "words_form": [
+        "sunned",
+        "sunning",
+        "suns"
+    ],
+    "meaning_vi": "mặt trời"
+}

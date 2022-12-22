@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/lid/"
+    ],
+    "synonyms": [
+        "contact",
+        "head",
+        "advance",
+        "precede",
+        "govern"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a lead is the person in charge or the person or thing in the first place.",
+            "vi": "Định nghĩa của một khách hàng tiềm năng là người phụ trách hoặc người hoặc vật ở vị trí đầu tiên."
+        },
+        {
+            "pos": "verb",
+            "en": "To guide the behavior or opinion of; induce.",
+            "vi": "Để hướng dẫn hành vi hoặc quan điểm của; gây ra."
+        },
+        {
+            "pos": "adjective",
+            "en": "First or foremost.",
+            "vi": "Đầu tiên hoặc quan trọng nhất."
+        },
+        {
+            "pos": "idiom",
+            "en": "lead the way  To show a course or route by going in advance. To be foremost in an endeavor or trend: The firm led the way in the application of new technology.",
+            "vi": "dẫn đường Để hiển thị một khóa học hoặc lộ trình bằng cách đi trước. Đi đầu trong nỗ lực hoặc xu hướng: Công ty dẫn đầu trong việc áp dụng công nghệ mới."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Lead the way, Romeo,\" she said dryly.",
+            "vi": "“Dẫn đường đi, Romeo,” cô nói một cách khô khan."
+        },
+        {
+            "en": "Lead the way my subject.",
+            "vi": "Dẫn đường cho chủ đề của tôi."
+        }
+    ],
+    "words_form": [
+        "leading",
+        "leads",
+        "led"
+    ],
+    "meaning_vi": "dẫn"
+}

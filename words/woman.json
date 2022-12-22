@@ -1,0 +1,58 @@
+{
+    "spelling": [
+        "/ˈwʊmən/"
+    ],
+    "synonyms": [
+        "lady",
+        "female",
+        "old-woman",
+        "wife",
+        "signora"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "An adult female human.",
+            "vi": "Một người phụ nữ trưởng thành."
+        },
+        {
+            "pos": "adjective",
+            "en": "Being an adult human female.",
+            "vi": "Là một người phụ nữ trưởng thành."
+        },
+        {
+            "pos": "affix",
+            "en": "Woman of a (specified) kind, in a (specified) activity, etc.",
+            "vi": "Người phụ nữ thuộc loại (cụ thể), trong một hoạt động (cụ thể), v.v."
+        },
+        {
+            "pos": "verb",
+            "en": "To staff with female labor.",
+            "vi": "Đối với nhân viên có lao động nữ."
+        },
+        {
+            "pos": "suffix",
+            "en": "Someone (implied female) who is an expert in an area; e.g. horsewoman, sportswoman.",
+            "vi": "Một người nào đó (ngụ ý là nữ) là chuyên gia trong một lĩnh vực; ví dụ như người cưỡi ngựa, vận động viên thể thao."
+        },
+        {
+            "pos": "idiom",
+            "en": "(one's) own woman  Independent in judgment or action: She has always been her own woman.",
+            "vi": "Người phụ nữ của riêng mình Độc lập trong phán xét hoặc hành động: Cô ấy luôn là người phụ nữ của chính mình."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "A woman has a right to protect herself – any way she can.",
+            "vi": "Phụ nữ có quyền tự bảo vệ mình - bất cứ cách nào cô ấy có thể."
+        },
+        {
+            "en": "You are the most beautiful woman I have ever seen.",
+            "vi": "Bạn là người phụ nữ đẹp nhất mà tôi từng thấy."
+        }
+    ],
+    "words_form": [
+        "women"
+    ],
+    "meaning_vi": "phụ nữ"
+}

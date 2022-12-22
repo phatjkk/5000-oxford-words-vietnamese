@@ -1,0 +1,39 @@
+{
+    "spelling": [
+        "/pjʊr/"
+    ],
+    "synonyms": [
+        "transparent",
+        "true",
+        "genuine",
+        "authentic",
+        "pellucid"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "(music) Free from discordant qualities.",
+            "vi": "(âm nhạc) Không có phẩm chất bất hòa."
+        },
+        {
+            "pos": "adverb",
+            "en": "(Liverpudlian) To a great extent or degree; extremely; exceedingly.",
+            "vi": "(Liverpudlian) Ở một mức độ hoặc mức độ lớn; cực kì; cực kỳ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "It was pure fact.",
+            "vi": "Đó là sự thật thuần túy."
+        },
+        {
+            "en": "This is all pure and noble.",
+            "vi": "Đây là tất cả những gì trong sáng và cao quý."
+        }
+    ],
+    "words_form": [
+        "purer",
+        "purest"
+    ],
+    "meaning_vi": "nguyên chất"
+}

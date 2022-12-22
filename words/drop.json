@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/drɑp/"
+    ],
+    "synonyms": [
+        "droplet",
+        "trickle",
+        "plunge",
+        "drip",
+        "quit"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A trace or hint.",
+            "vi": "Một dấu vết hoặc gợi ý."
+        },
+        {
+            "pos": "verb",
+            "en": "To leave out (a letter, for example) in speaking or writing.",
+            "vi": "Để bỏ đi (ví dụ: một lá thư) khi nói hoặc viết."
+        },
+        {
+            "pos": "idiom",
+            "en": "at the drop of a hat  Immediately; without delay: Would sign the contract at the drop of a hat.With only the slightest provocation: Ready to argue at the drop of a hat.",
+            "vi": "lúc rơi mũ Ngay lập tức; Không chậm trễ: Sẽ ký hợp đồng khi rơi mũ Chỉ với một hành động khiêu khích nhỏ nhất: Sẵn sàng tranh luận khi rơi mũ."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Can you just drop me off near the mall?",
+            "vi": "Bạn có thể thả tôi gần trung tâm mua sắm được không?"
+        },
+        {
+            "en": "\"We'll drop you in first,\" Dusty said.",
+            "vi": "\"Chúng tôi sẽ thả bạn trước,\" Dusty nói."
+        }
+    ],
+    "words_form": [
+        "dropped",
+        "dropping",
+        "drops"
+    ],
+    "meaning_vi": "rơi vãi"
+}

@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/tɛst/"
+    ],
+    "synonyms": [
+        "probing",
+        "inquiry",
+        "countdown",
+        "inspection",
+        "examination"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a test is an examination or an evaluation.",
+            "vi": "Định nghĩa của một bài kiểm tra là một cuộc kiểm tra hoặc đánh giá."
+        },
+        {
+            "pos": "adjective",
+            "en": "Test means an exam or evaluation.",
+            "vi": "Kiểm tra có nghĩa là một kỳ thi hoặc đánh giá."
+        },
+        {
+            "pos": "verb",
+            "en": "Test is defined as to participate in or administer an exam or evaluation.",
+            "vi": "Kiểm tra được định nghĩa là tham gia hoặc quản lý một kỳ thi hoặc đánh giá."
+        },
+        {
+            "pos": "abbreviation",
+            "en": "Testimony.",
+            "vi": "Lời khai."
+        },
+        {
+            "pos": "acronym",
+            "en": "Treadmill Exercise Stress Test.",
+            "vi": "Bài tập Máy chạy bộ Kiểm tra Căng thẳng."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "We conducted one more test before lunch.",
+            "vi": "Chúng tôi đã tiến hành thêm một bài kiểm tra trước khi ăn trưa."
+        },
+        {
+            "en": "We can run another test, if you wish.",
+            "vi": "Chúng tôi có thể chạy thử nghiệm khác, nếu bạn muốn."
+        }
+    ],
+    "words_form": [
+        "tested",
+        "testing",
+        "tests"
+    ],
+    "meaning_vi": "thử nghiệm"
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/nɔɪz/"
+    ],
+    "synonyms": [
+        "static",
+        "rumpus",
+        "quietness",
+        "gossip",
+        "fuss"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Noise is defined as a sound, especially a loud one.",
+            "vi": "Tiếng ồn được định nghĩa là một âm thanh, đặc biệt là một âm thanh lớn."
+        },
+        {
+            "pos": "verb",
+            "en": "To noise is defined as to tell rumors or spread information around.",
+            "vi": "Ồn ào được định nghĩa là báo tin đồn hoặc lan truyền thông tin xung quanh."
+        },
+        {
+            "pos": "hyponyms",
+            "en": "(Various sounds): bang, boom, crash, thud.",
+            "vi": "(Nhiều âm thanh khác nhau): tiếng nổ, tiếng nổ, tiếng va chạm, tiếng thình thịch."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "What was all the noise last night?",
+            "vi": "Tất cả những gì ồn ào đêm qua là gì?"
+        },
+        {
+            "en": "Suddenly a great noise was heard outside.",
+            "vi": "Đột nhiên bên ngoài nghe thấy một tiếng động lớn."
+        }
+    ],
+    "words_form": [
+        "noised",
+        "noises",
+        "noising"
+    ],
+    "meaning_vi": "tiếng ồn"
+}

@@ -1,0 +1,37 @@
+{
+    "spelling": [
+        "/ɪnˈsɜːʃən/"
+    ],
+    "synonyms": [
+        "infusion",
+        "injection",
+        "inclusion",
+        "interjection",
+        "interpolation"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The act or process of inserting.",
+            "vi": "Một trong đó có tầm quan trọng hoặc ảnh hưởng đáng kể."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The table is too long for insertion here.",
+            "vi": "Bảng này quá dài để chèn ở đây."
+        },
+        {
+            "en": "Microscopic accuracy has to be attained in cutting out the space for the insertion of the design, and while the latter must be soldered firmly in its place, not the slightest trace of solder or the least sign of junction must be discernible between the metal of the inserted picture and that of the field in which it is inserted.",
+            "vi": "Độ chính xác về kính hiển vi phải đạt được khi cắt bỏ khoảng trống để chèn thiết kế và trong khi thiết kế sau phải được hàn chắc chắn vào vị trí của nó, không được để lại vết hàn nhỏ nhất hoặc dấu hiệu tiếp giáp nhỏ nhất phải rõ ràng giữa kim loại của ảnh đã chèn và của trường mà nó được chèn."
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": [
+        {
+            "pos": "noun",
+            "en": "The act or process of inserting.",
+            "vi": "Một trong đó có tầm quan trọng hoặc ảnh hưởng đáng kể."
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/kənˈfaɪn/"
+    ],
+    "synonyms": [
+        "limit",
+        "immure",
+        "restrict",
+        "hold back",
+        "imprison"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To confine is to impose limits or restrictions, or to prevent someone from leaving.",
+            "vi": "Hạn chế là áp đặt các giới hạn hoặc hạn chế, hoặc ngăn cản ai đó rời đi."
+        },
+        {
+            "pos": "noun",
+            "en": "A boundary or bounded region; border; limit.",
+            "vi": "Một ranh giới hoặc vùng bị giới hạn; biên giới; giới hạn."
+        },
+        {
+            "pos": "idiom",
+            "en": "be confined  to be giving birth to a child",
+            "vi": "bị giới hạn để sinh ra một đứa trẻ"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "But he did not confine his attention to abstract inquiries.",
+            "vi": "Nhưng ông không giới hạn sự chú ý của mình vào những câu hỏi trừu tượng."
+        },
+        {
+            "en": "He did not, however, confine his energies to travelling.",
+            "vi": "Tuy nhiên, anh không hạn chế năng lượng của mình vào việc đi du lịch."
+        }
+    ],
+    "words_form": [
+        "confined",
+        "confines",
+        "confining"
+    ],
+    "meaning_vi": "hạn chế"
+}

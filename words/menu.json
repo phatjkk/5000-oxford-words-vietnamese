@@ -1,0 +1,33 @@
+{
+    "spelling": [
+        "/ˈmɛnju/"
+    ],
+    "synonyms": [
+        "list",
+        "food",
+        "table",
+        "carte du jour",
+        "regimen"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A list of the dishes to be served or available for a meal.",
+            "vi": "Một danh sách các món ăn được phục vụ hoặc có sẵn cho một bữa ăn."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "I better start planning my menu, only four days left.",
+            "vi": "Tốt hơn là tôi nên bắt đầu lên kế hoạch cho thực đơn của mình, chỉ còn bốn ngày nữa."
+        },
+        {
+            "en": "He slapped his menu closed.",
+            "vi": "Anh đóng menu của mình."
+        }
+    ],
+    "words_form": [
+        "menus"
+    ],
+    "meaning_vi": "thực đơn"
+}

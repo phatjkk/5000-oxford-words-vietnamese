@@ -1,0 +1,46 @@
+{
+    "spelling": [
+        "/spɔɪl/"
+    ],
+    "synonyms": [
+        "addle",
+        "indulge",
+        "deface",
+        "bankrupt",
+        "destroy"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "The definition of spoil is to destroy something, to diminish the character of something, to overindulge someone, or to go bad and become unusable or inedible.",
+            "vi": "Định nghĩa của spoil là phá hủy một thứ gì đó, làm giảm đặc tính của thứ gì đó, làm hư hỏng ai đó quá mức, hoặc trở nên tồi tệ và trở nên không sử dụng được hoặc không thể ăn được."
+        },
+        {
+            "pos": "noun",
+            "en": "Refuse material removed from an excavation.",
+            "vi": "Từ chối vật liệu được lấy ra từ một cuộc khai quật."
+        },
+        {
+            "pos": "idiom",
+            "en": "be spoiling for a fight  to be aggressively eager for a fight or confrontation",
+            "vi": "tha hồ cho một cuộc chiến để trở nên hung hăng háo hức cho một cuộc chiến hoặc đối đầu"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Oh, you only spoil things for me.",
+            "vi": "Oh, bạn chỉ làm hỏng những thứ cho tôi."
+        },
+        {
+            "en": "You're going to spoil me.",
+            "vi": "Bạn sẽ làm hỏng tôi."
+        }
+    ],
+    "words_form": [
+        "spoiled",
+        "spoiling",
+        "spoils",
+        "spoilt"
+    ],
+    "meaning_vi": "hư hỏng"
+}

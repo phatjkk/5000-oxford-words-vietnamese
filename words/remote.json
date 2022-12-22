@@ -1,0 +1,45 @@
+{
+    "spelling": [
+        "/rəˈmoʊt/"
+    ],
+    "synonyms": [
+        "far",
+        "far-off",
+        "withdrawn",
+        "faraway",
+        "removed"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A radio or television broadcast originating from a point outside a studio.",
+            "vi": "Một chương trình phát thanh hoặc truyền hình bắt nguồn từ một điểm bên ngoài trường quay."
+        },
+        {
+            "pos": "adjective",
+            "en": "(computers) Located at a distance from another computer that is accessible by cables or other communications links.",
+            "vi": "(máy tính) Nằm cách một máy tính khác có thể truy cập được bằng cáp hoặc các liên kết truyền thông khác."
+        },
+        {
+            "pos": "verb",
+            "en": "(computing) To connect to a computer from a remote location.",
+            "vi": "(máy tính) Để kết nối với máy tính từ xa."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Now, in most places you can smoke in your car, in your home, and in remote places away from civilized people.",
+            "vi": "Bây giờ, ở hầu hết các nơi bạn có thể hút thuốc trong xe hơi, trong nhà của bạn và ở những nơi hẻo lánh xa những người văn minh."
+        },
+        {
+            "en": "Whatever it may have been in remote geological periods, it is now extremely limited both in size and numbers.",
+            "vi": "Dù nó có thể có trong các thời kỳ địa chất xa xôi, nhưng hiện nay nó cực kỳ hạn chế cả về kích thước và số lượng."
+        }
+    ],
+    "words_form": [
+        "remoter",
+        "remotes",
+        "remotest"
+    ],
+    "meaning_vi": "xa"
+}

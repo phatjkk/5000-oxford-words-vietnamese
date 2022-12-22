@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/ˈsəməri/"
+    ],
+    "synonyms": [
+        "abstract",
+        "extract",
+        "epitome",
+        "long-winded",
+        "terse"
+    ],
+    "meaning": [
+        {
+            "pos": "adjective",
+            "en": "The definition of summary is a statement presenting the main points.",
+            "vi": "Định nghĩa của tóm tắt là một tuyên bố trình bày các điểm chính."
+        },
+        {
+            "pos": "noun",
+            "en": "Summary is defined as a quick or short review of what happened.",
+            "vi": "Tóm tắt được định nghĩa là một đánh giá nhanh hoặc ngắn về những gì đã xảy ra."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Short summary: Damian wants to hunt down the Others.",
+            "vi": "Tóm tắt ngắn gọn: Damian muốn săn lùng những người khác."
+        },
+        {
+            "en": "Mackinder in British Association Report (Ipswich), 18 95, p. 73 8, for a summary of German opinion, which has been expressed by many writers in a somewhat voluminous literature.",
+            "vi": "Mackinder trong Báo cáo của Hiệp hội Anh (Ipswich), 18 95, tr. 73 8, về một bản tóm tắt ý kiến ​​của Đức, đã được nhiều nhà văn thể hiện trong một tài liệu hơi đồ sộ."
+        }
+    ],
+    "words_form": [
+        "summaries"
+    ],
+    "meaning_vi": "tóm lược"
+}

@@ -1,0 +1,43 @@
+{
+    "spelling": [
+        "/ˈfjun(ə)rəl/"
+    ],
+    "synonyms": [
+        "sepulture",
+        "cremation",
+        "interment",
+        "obsequies",
+        "cortege"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a funeral is a ceremony celebrating or honoring the dead.",
+            "vi": "Định nghĩa của một đám tang là một buổi lễ kỷ niệm hoặc tôn vinh người chết."
+        },
+        {
+            "pos": "adjective",
+            "en": "Of, relating to, or resembling a funeral.",
+            "vi": "Liên quan đến, hoặc tương tự như một đám tang."
+        },
+        {
+            "pos": "idiom",
+            "en": "be someone's funeral  to be someone's problem, worry, etc. and not another's",
+            "vi": "là đám tang của ai đó là vấn đề của ai đó, lo lắng, v.v. chứ không phải của người khác"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "\"Funeral plans,\" he said uncertainly.",
+            "vi": "“Kế hoạch tang lễ,” anh nói một cách không chắc chắn."
+        },
+        {
+            "en": "The next morning they helped Lori make funeral arrangements.",
+            "vi": "Sáng hôm sau, họ giúp Lori sắp xếp tang lễ."
+        }
+    ],
+    "words_form": [
+        "funerals"
+    ],
+    "meaning_vi": "tang lễ"
+}

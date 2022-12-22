@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/ˈtɛnʃən/"
+    ],
+    "synonyms": [
+        "strain",
+        "pressure",
+        "force",
+        "anxiety",
+        "stress"
+    ],
+    "meaning": [
+        {
+            "pos": "verb",
+            "en": "To subject to tension; tighten.",
+            "vi": "Chịu căng thẳng; thắt chặt."
+        },
+        {
+            "pos": "noun",
+            "en": "(electricity) Voltage or potential; electromotive force.",
+            "vi": "(điện) Điện áp hoặc thế năng; sức điện động."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "The tension was paying its toll in another way.",
+            "vi": "Sự căng thẳng đang trả giá theo một cách khác."
+        },
+        {
+            "en": "He shook the tension out of his shoulders.",
+            "vi": "Anh rũ bỏ sự căng thẳng ra khỏi vai mình."
+        }
+    ],
+    "words_form": [
+        "tensioned",
+        "tensioning",
+        "tensions"
+    ],
+    "meaning_vi": "căng thẳng"
+}

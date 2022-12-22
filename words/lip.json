@@ -1,0 +1,55 @@
+{
+    "spelling": [
+        "/lɪp/"
+    ],
+    "synonyms": [
+        "labium",
+        "overlap",
+        "backtalk",
+        "labial",
+        "border"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The definition of a lip is either the top or bottom edges of the mouth, something that resembles these, or an outer or upper edge or rim.",
+            "vi": "Định nghĩa của một môi là mép trên hoặc mép dưới của miệng, một cái gì đó giống với những thứ này, hoặc mép ngoài hoặc mép trên hoặc vành."
+        },
+        {
+            "pos": "verb",
+            "en": "To utter.",
+            "vi": "Nói ra."
+        },
+        {
+            "pos": "adjective",
+            "en": "(phonet.) Articulated with a lip or the lips; labial.",
+            "vi": "(phonet.) Có khớp với môi hoặc môi; phòng thí nghiệm."
+        },
+        {
+            "pos": "prefix",
+            "en": "Alternative (shortened) form of lipo-",
+            "vi": "Dạng thay thế (rút gọn) của lipo-"
+        },
+        {
+            "pos": "idiom",
+            "en": "bite one's lip  to keep back one's anger, annoyance, etc.",
+            "vi": "cắn môi để kìm chế sự tức giận, khó chịu, v.v."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "Her lip began to tremble.",
+            "vi": "Môi cô bắt đầu run lên."
+        },
+        {
+            "en": "He touched his lip with his tongue.",
+            "vi": "Anh dùng lưỡi chạm vào môi mình."
+        }
+    ],
+    "words_form": [
+        "lipped",
+        "lipping",
+        "lips"
+    ],
+    "meaning_vi": "môi"
+}

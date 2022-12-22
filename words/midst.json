@@ -1,0 +1,42 @@
+{
+    "spelling": [
+        "/mɪdst/",
+        "/mɪtst/"
+    ],
+    "synonyms": [
+        "midpoint",
+        "nucleus",
+        "among",
+        "middle",
+        "center"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "Midst is defined as a middle point or middle part.",
+            "vi": "Midst được định nghĩa là một điểm giữa hoặc phần giữa."
+        },
+        {
+            "pos": "preposition",
+            "en": "Midst means the middle of.",
+            "vi": "Midst có nghĩa là giữa."
+        },
+        {
+            "pos": "idiom",
+            "en": "in our (or your or their) midst  in among us (or you or them)",
+            "vi": "ở giữa chúng tôi (hoặc của bạn hoặc của họ) ở giữa chúng tôi (hoặc bạn hoặc họ)"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "One day he was in the midst of a great battle.",
+            "vi": "Một ngày nọ, anh ấy đang ở giữa một trận chiến lớn."
+        },
+        {
+            "en": "It is wonderful to see flowers bloom in the midst of a snow-storm!",
+            "vi": "Thật là tuyệt vời khi nhìn thấy những bông hoa nở giữa cơn bão tuyết!"
+        }
+    ],
+    "words_form": [],
+    "meaning_vi": "ở giữa"
+}

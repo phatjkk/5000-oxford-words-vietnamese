@@ -1,0 +1,40 @@
+{
+    "spelling": [
+        "/skərt/"
+    ],
+    "synonyms": [
+        "clothes",
+        "sidestep",
+        "interior",
+        "inside",
+        "middle"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "The part of a garment, such as a dress or coat, that hangs freely from the waist down.",
+            "vi": "Phần của trang phục, chẳng hạn như váy hoặc áo khoác, được treo tự do từ thắt lưng trở xuống."
+        },
+        {
+            "pos": "verb",
+            "en": "To lie along or form the edge of; border.",
+            "vi": "Nằm dọc theo hoặc tạo thành cạnh của; biên giới."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "She stood up, brushing down her skirt and looked at him.",
+            "vi": "Cô đứng dậy, phủi váy và nhìn anh."
+        },
+        {
+            "en": "But Fred continued to skirt the answer.",
+            "vi": "Nhưng Fred vẫn tiếp tục câu trả lời."
+        }
+    ],
+    "words_form": [
+        "skirted",
+        "skirting",
+        "skirts"
+    ],
+    "meaning_vi": "váy"
+}

@@ -1,0 +1,50 @@
+{
+    "spelling": [
+        "/ˈæŋkər/"
+    ],
+    "synonyms": [
+        "attach",
+        "stay",
+        "safeguard",
+        "hold",
+        "security"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A source of security or stability.",
+            "vi": "Một nguồn bảo mật hoặc ổn định."
+        },
+        {
+            "pos": "verb",
+            "en": "To be or become fixed.",
+            "vi": "Được hoặc trở thành cố định."
+        },
+        {
+            "pos": "adjective",
+            "en": "Designating the final leg, or stage, of a relay race.",
+            "vi": "Chỉ định chặng hoặc chặng cuối cùng của một cuộc đua tiếp sức."
+        },
+        {
+            "pos": "idiom",
+            "en": "at anchor  anchored",
+            "vi": "neo đậu"
+        }
+    ],
+    "sentences": [
+        {
+            "en": "You'd just loop your line through a set up or a fixed anchor and rappel down.",
+            "vi": "Bạn chỉ cần lặp lại dòng của mình thông qua một thiết lập hoặc một neo cố định và chạy xuống."
+        },
+        {
+            "en": "An \"anchor ring\" or \"tore\" results when a circle revolves about an axis in its plane.",
+            "vi": "\"Vòng neo\" hoặc \"xé\" là kết quả khi một vòng tròn quay quanh một trục trong mặt phẳng của nó."
+        }
+    ],
+    "words_form": [
+        "anchored",
+        "anchoring",
+        "anchors"
+    ],
+    "meaning_vi": "mỏ neo"
+}

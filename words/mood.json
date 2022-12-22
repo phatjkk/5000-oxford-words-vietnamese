@@ -1,0 +1,38 @@
+{
+    "spelling": [
+        "/mud/"
+    ],
+    "synonyms": [
+        "state",
+        "frame of mind",
+        "feelings",
+        "condition",
+        "temperament"
+    ],
+    "meaning": [
+        {
+            "pos": "noun",
+            "en": "A pervading impression of an observer.",
+            "vi": "Một ấn tượng lan tỏa về một người quan sát."
+        },
+        {
+            "pos": "idiom",
+            "en": "in the mood for  having, for the moment, an inclination or fancy for in the mood for ice cream.",
+            "vi": "trong tâm trạng đang có, trong lúc này, một khuynh hướng hoặc yêu thích trong tâm trạng ăn kem."
+        }
+    ],
+    "sentences": [
+        {
+            "en": "He'd been in a grumpy mood since he got up.",
+            "vi": "Anh ấy đã có tâm trạng cáu kỉnh kể từ khi anh ấy ngủ dậy."
+        },
+        {
+            "en": "I'm in no mood to watch a cat fight tonight.",
+            "vi": "Tôi không có tâm trạng để xem một cuộc chiến với mèo tối nay."
+        }
+    ],
+    "words_form": [
+        "moods"
+    ],
+    "meaning_vi": "khí sắc"
+}
